@@ -1,20 +1,38 @@
 {
-  "hero_headline": "今日暂无符合条件的妇产科专业要闻",
-  "daily_overview": "经筛选，过去24小时候选内容为空，无可发布的指南、手术前沿或国内外妇产科动态。系统已执行严格筛选，确保不发布低质量信息，待有可靠更新后再行推送。",
-  "tech_briefs": [],
+  "hero_headline": "反复种植失败委员会意见发布，RCOG更新延迟脐带钳夹证据综述",
+  "daily_overview": "今日妇产科要闻聚焦两大临床更新：Fertility & Sterility Practice Guidance 发布反复种植失败委员会意见，梳理诊断标准与评估路径；RCOG 发布最新证据综述，指出延迟脐带钳夹可显著改善新生儿结局。两项内容分别对生殖医学和产时管理具有直接指导意义。",
+  "tech_briefs": [
+    {
+      "title": "Recurrent implantation failure: a committee opinion.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42538063/",
+      "source": "PubMed · Fertility & Sterility Practice Guidance",
+      "summary": "该委员会意见聚焦反复种植失败（RIF），指出多次胚胎移植失败者可能存在影响植入的潜在疾病，并系统审查了 RIF 的诊断标准。原文摘要未说明与既往建议的差异。对生殖医学临床中 RIF 的规范化评估具有重要参考价值。",
+      "importance": 8
+    }
+  ],
   "finance_briefs": [],
-  "politics_briefs": [],
-  "editor_note": "今日候选内容为空，暂无指南或手术前沿等专业动态。系统已执行严格筛选，确保不发布低质量信息，待有可靠更新后再行推送。",
+  "politics_briefs": [
+    {
+      "title": "Waiting Before Clamping the Umbilical Cord Improves Newborn Outcomes",
+      "url": "https://www.rcog.org.uk/news/waiting-before-clamping-the-umbilical-cord-improves-newborn-outcomes/",
+      "source": "RCOG News",
+      "summary": "英国皇家妇产科学院发布更新版证据综述，指出延迟脐带钳夹可显著改善新生儿健康结局。该动态可能影响产时管理国际指南的更新方向，推动更多医疗机构将延迟钳夹纳入常规实践，对母胎医学和新生儿保健具有积极意义。",
+      "importance": 8
+    }
+  ],
+  "editor_note": "反复种植失败规范化与延迟脐带钳夹证据更新，均为临床可落地的关键信号。",
   "keywords": [
-    "妇产科",
-    "医学晨报",
-    "今日要闻",
-    "无更新",
-    "筛选结果"
+    "反复种植失败",
+    "延迟脐带钳夹",
+    "委员会意见",
+    "RCOG",
+    "生殖医学",
+    "新生儿结局",
+    "指南更新"
   ],
   "research": {
-    "generatedAt": "2026-08-05T17:06:28.549Z",
-    "dataAsOf": "2026-08-05T17:06:28.549Z",
+    "generatedAt": "2026-08-05T18:10:41.562Z",
+    "dataAsOf": "2026-08-05T18:10:41.562Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及卵巢癌模型功能分析揭示Bcl-xL/NOTCH靶向可克服耐药、整合多组学分析确定双酚A暴露与妊娠期糖尿病关联的关键分子靶点、不孕与先天性异常风险：一项基于人群的队列研究。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
