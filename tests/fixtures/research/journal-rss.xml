@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Example OBGYN Journal</title>
+    <item>
+      <title>Robotic surgery &amp; recovery outcomes</title>
+      <link>https://journal.example/robotic-study</link>
+      <guid>https://doi.org/10.2000/ROBOT.1</guid>
+      <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+      <dc:creator>Alice Smith; Bo Lee</dc:creator>
+      <dc:identifier>doi:10.2000/ROBOT.1</dc:identifier>
+      <content:encoded><![CDATA[<p>A prospective clinical study evaluated recovery outcomes in <strong>240 patients</strong> after robotic surgery.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Issue cover and contents</title>
+      <link>https://journal.example/cover</link>
+      <pubDate>Sun, 02 Aug 2026 12:00:00 GMT</pubDate>
+      <description>Contents</description>
+    </item>
+    <item>
+      <title>Old endometriosis paper</title>
+      <link>https://journal.example/old</link>
+      <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
+      <description>A sufficiently long abstract that falls outside the requested date window.</description>
+    </item>
+  </channel>
+</rss>
