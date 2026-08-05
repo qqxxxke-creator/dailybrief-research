@@ -1,0 +1,116 @@
+{
+  "schema_version": 1,
+  "runtime": {
+    "lookback_days": 7,
+    "max_papers": 5,
+    "cache_days": 30,
+    "overlap_hours": 48,
+    "min_score": 45,
+    "max_per_topic": 2
+  },
+  "sources": [
+    {
+      "id": "pubmed",
+      "name": "PubMed",
+      "kind": "pubmed",
+      "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils",
+      "enabled": true
+    },
+    {
+      "id": "ajog-rss",
+      "name": "American Journal of Obstetrics & Gynecology",
+      "kind": "journal-rss",
+      "url": "https://www.ajog.org/current.rss",
+      "enabled": false
+    },
+    {
+      "id": "green-journal-rss",
+      "name": "Obstetrics & Gynecology",
+      "kind": "journal-rss",
+      "url": "https://journals.lww.com/greenjournal/_layouts/15/oaks.journals/feed.aspx?FeedType=CurrentIssue",
+      "enabled": false
+    },
+    {
+      "id": "bjog-rss",
+      "name": "BJOG",
+      "kind": "journal-rss",
+      "url": "https://obgyn.onlinelibrary.wiley.com/feed/14710528/most-recent",
+      "enabled": false
+    },
+    {
+      "id": "fertility-sterility-rss",
+      "name": "Fertility and Sterility",
+      "kind": "journal-rss",
+      "url": "https://www.fertstert.org/current.rss",
+      "enabled": false
+    },
+    {
+      "id": "human-reproduction-rss",
+      "name": "Human Reproduction",
+      "kind": "journal-rss",
+      "url": "https://academic.oup.com/rss/site_5341/advanceAccess_3233.xml",
+      "enabled": false
+    },
+    {
+      "id": "gynecologic-oncology-rss",
+      "name": "Gynecologic Oncology",
+      "kind": "journal-rss",
+      "url": "https://www.gynecologiconcology-online.net/current.rss",
+      "enabled": false
+    },
+    {
+      "id": "jmig-rss",
+      "name": "Journal of Minimally Invasive Gynecology",
+      "kind": "journal-rss",
+      "url": "https://www.jmig.org/current.rss",
+      "enabled": false
+    }
+  ],
+  "topics": [
+    {
+      "id": "maternal-fetal-medicine",
+      "name": "母胎医学与高危妊娠",
+      "description": "妊娠并发症、胎儿医学、围产结局与高危妊娠管理",
+      "include_keywords": ["preeclampsia", "gestational diabetes", "preterm birth", "fetal growth restriction", "maternal morbidity", "fetal therapy", "high-risk pregnancy"],
+      "exclude_keywords": ["veterinary", "animal model only"],
+      "publication_types": ["Randomized Controlled Trial", "Clinical Trial", "Meta-Analysis", "Systematic Review", "Cohort Study"],
+      "enabled": true
+    },
+    {
+      "id": "gynecologic-oncology",
+      "name": "妇科肿瘤",
+      "description": "卵巢癌、宫颈癌、子宫内膜癌及其他妇科恶性肿瘤",
+      "include_keywords": ["ovarian cancer", "cervical cancer", "endometrial cancer", "gynecologic oncology", "gestational trophoblastic"],
+      "exclude_keywords": ["veterinary"],
+      "publication_types": ["Randomized Controlled Trial", "Clinical Trial", "Meta-Analysis", "Systematic Review", "Cohort Study"],
+      "enabled": true
+    },
+    {
+      "id": "reproductive-medicine",
+      "name": "生殖医学与生育保存",
+      "description": "辅助生殖、卵巢储备、不孕症与肿瘤患者生育保存",
+      "include_keywords": ["in vitro fertilization", "IVF", "infertility", "fertility preservation", "ovarian reserve", "assisted reproduction"],
+      "exclude_keywords": ["livestock", "veterinary"],
+      "publication_types": ["Randomized Controlled Trial", "Clinical Trial", "Meta-Analysis", "Systematic Review", "Cohort Study"],
+      "enabled": true
+    },
+    {
+      "id": "endometriosis-benign-gynecology",
+      "name": "子宫内膜异位症及良性妇科疾病",
+      "description": "子宫内膜异位症、腺肌病、子宫肌瘤和盆底良性疾病",
+      "include_keywords": ["endometriosis", "adenomyosis", "uterine fibroid", "leiomyoma", "pelvic floor disorder"],
+      "exclude_keywords": ["veterinary"],
+      "publication_types": ["Randomized Controlled Trial", "Clinical Trial", "Meta-Analysis", "Systematic Review", "Cohort Study"],
+      "enabled": true
+    },
+    {
+      "id": "minimally-invasive-surgery",
+      "name": "微创、机器人与妇产科手术",
+      "description": "腹腔镜、宫腔镜、机器人手术和围手术期结局",
+      "include_keywords": ["laparoscopy", "hysteroscopy", "robotic surgery", "minimally invasive gynecologic surgery", "surgical outcomes"],
+      "exclude_keywords": ["veterinary", "general surgery only"],
+      "publication_types": ["Randomized Controlled Trial", "Clinical Trial", "Meta-Analysis", "Systematic Review", "Cohort Study"],
+      "enabled": true
+    }
+  ]
+}
