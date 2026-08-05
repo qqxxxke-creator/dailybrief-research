@@ -13,6 +13,11 @@
 /daily_reports/
 /logs/
 
+# research intelligence runtime cache
+/data/research/research-cache.json
+/data/research/*.tmp
+/data/research/*.corrupt-*
+
 # Claude Code local state (skills + commands ARE committed; cache/state aren't)
 /.claude/state/
 /.claude/cache/
