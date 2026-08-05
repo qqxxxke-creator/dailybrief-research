@@ -225,6 +225,59 @@ test("hard exclusions reject advertisements for every source class", () => {
   }
 });
 
+test("hard exclusions reject vertical sponsored, education, promotion, and operations content before review", () => {
+  const verticalSource: SourceDef = {
+    ...source,
+    id: "vertical-source",
+    name: "Vertical Source",
+    sourceClass: "professional_vertical",
+    category: "finance",
+    subcategory: "surgery",
+    keywords: [],
+    excludeKeywords: [],
+  };
+  const rejected = [
+    { title: "Clinical update", meta: "Sponsored content" },
+    { title: "Clinical update", contentType: "Sponsored" },
+    { title: "Clinical workshop for surgeons" },
+    { title: "Clinical course registration" },
+    { title: "Patient education: pregnancy care" },
+    { title: "医院宣传：孕产妇服务" },
+    { title: "Procurement notice for maternity equipment" },
+    { title: "Pregnancy conference registration" },
+  ];
+
+  const candidates = rejected.map((overrides, index): ArticleInput => ({
+    ...article(overrides.title, new Date("2026-08-05T07:00:00.000Z"), "Substantive-looking content."),
+    ...overrides,
+    sourceId: verticalSource.id,
+    source: verticalSource.name,
+    category: verticalSource.category,
+    url: `https://vertical.example/${index}`,
+  }));
+
+  assert.deepEqual(filterObgynCandidates(candidates, [verticalSource], now), []);
+});
+
+test("general authority requires a configured non-empty source keyword match", () => {
+  for (const keywords of [undefined, []] as Array<string[] | undefined>) {
+    const unscopedSource: SourceDef = {
+      ...source,
+      id: `general-authority-${keywords === undefined ? "missing" : "empty"}`,
+      name: "General Authority",
+      sourceClass: "general_authority",
+      keywords,
+    };
+    const pregnancyUpdate: ArticleInput = {
+      ...article("Pregnancy clinical update", new Date("2026-08-05T07:00:00.000Z"), "Substantive policy update."),
+      sourceId: unscopedSource.id,
+      source: unscopedSource.name,
+    };
+
+    assert.deepEqual(filterObgynCandidates([pregnancyUpdate], [unscopedSource], now), []);
+  }
+});
+
 test("configures exact category windows in the source manifest", () => {
   const sources = loadAllSources();
   for (const configuredSource of sources) {

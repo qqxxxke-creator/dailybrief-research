@@ -36,7 +36,8 @@ const EDUCATION_TITLE_PATTERN = /\b(?:registration|course|training|workshop|educ
 const VIDEO_TITLE_PATTERN = /\b(?:video|webinar|podcast|recording)\b/i;
 const NEWS_TITLE_PATTERN = /\b(?:news|news release|press release|announcement|update)\b/i;
 
-function hasHardNonFormalContentConflict(article: RawArticle): boolean {
+/** Global gate for content that must never enter OB-GYN candidate review. */
+export function isHardExcluded(article: RawArticle): boolean {
   const itemMetadata = getItemMetadata(article);
   return HARD_NON_FORMAL_CONTENT_PATTERNS.some((pattern) => pattern.test(itemMetadata));
 }
@@ -56,7 +57,7 @@ function classifyHardNonFormalContent(article: RawArticle): DocumentType {
 
 /** Determines an item's document type without relying on its source identity. */
 export function classifyDocumentType(article: RawArticle): DocumentType {
-  if (hasHardNonFormalContentConflict(article)) return classifyHardNonFormalContent(article);
+  if (isHardExcluded(article)) return classifyHardNonFormalContent(article);
   if (article.documentType && DOCUMENT_TYPES.has(article.documentType)) {
     return article.documentType;
   }
@@ -85,7 +86,7 @@ export function hasSubstantiveContent(article: RawArticle): boolean {
  */
 export function isOfficialFormalDocument(article: RawArticle, source: SourceDef): boolean {
   if (
-    hasHardNonFormalContentConflict(article)
+    isHardExcluded(article)
     || source.sourceClass !== "official_authority"
     || !FORMAL_DOCUMENT_TYPES.has(classifyDocumentType(article))
   ) {

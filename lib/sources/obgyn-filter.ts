@@ -2,6 +2,7 @@ import type { ArticleInput } from "../ai/pipeline";
 import {
   classifyDocumentType,
   hasSubstantiveContent,
+  isHardExcluded,
   isOfficialFormalDocument,
 } from "./content-policy";
 import type { SourceDef } from "./types";
@@ -63,7 +64,11 @@ export function filterObgynCandidates(
   const accepted: ArticleInput[] = [];
 
   for (const article of articles) {
-    const itemText = `${article.title}\n${article.excerpt ?? ""}`;
+    if (isHardExcluded(article)) continue;
+
+    const itemText = [article.title, article.excerpt, article.meta, article.contentType]
+      .filter((value): value is string => typeof value === "string")
+      .join("\n");
     if (includesAny(itemText, OBGYN_EXCLUDE_KEYWORDS)) continue;
 
     const source = sourceById.get(article.sourceId);
@@ -76,8 +81,9 @@ export function filterObgynCandidates(
     if (age < 0 || age > lookbackHours * HOUR_MS) continue;
 
     const hasDomainAnchor = includesAny(itemText, OBGYN_INCLUDE_KEYWORDS);
-    const matchesSourceRule = (source.keywords?.length ?? 0) === 0
-      || includesAny(itemText, source.keywords ?? []);
+    const sourceKeywords = source.keywords ?? [];
+    const matchesSourceRule = sourceKeywords.length > 0
+      && includesAny(itemText, sourceKeywords);
     const documentType = classifyDocumentType(article);
     const substantive = hasSubstantiveContent(article);
     const officialFormalTitleOnly = isOfficialFormalDocument(article, source);

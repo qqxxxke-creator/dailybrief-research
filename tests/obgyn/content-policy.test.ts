@@ -4,6 +4,7 @@ import test from "node:test";
 import {
   classifyDocumentType,
   hasSubstantiveContent,
+  isHardExcluded,
   isOfficialFormalDocument,
 } from "../../lib/sources/content-policy";
 import { loadAllSources } from "../../lib/sources/registry";
@@ -95,6 +96,17 @@ test("hard-excludes formal structured metadata when item metadata signals non-fo
     ),
   );
   assert.equal(isOfficialFormalDocument(conflictingArticle, officialSource), false);
+});
+
+test("exposes one global hard-exclusion gate across item metadata", () => {
+  for (const conflictingArticle of [
+    article("Clinical update", { meta: "Sponsored content" }),
+    article("Clinical workshop"),
+    article("Patient education: pregnancy"),
+    article("Procurement notice", { excerpt: "Maternity equipment purchase" }),
+  ]) {
+    assert.equal(isHardExcluded(conflictingArticle), true);
+  }
 });
 
 test("does not mistake a normal clinical department reference for promotion", () => {
