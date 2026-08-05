@@ -1,38 +1,179 @@
 {
-  "hero_headline": "妇产科要闻：复发性植入失败与CIN2管理共识同日更新",
-  "daily_overview": "今日两项指南更新：Fertility & Sterility发布复发性植入失败委员会意见，聚焦反复胚胎移植失败患者的诊断标准；GOCM发布2026版CIN2管理中国专家共识，为宫颈病变临床决策提供最新依据。",
+  "hero_headline": "复发性植入失败委员会意见发布，为反复胚胎移植失败患者提供诊断与管理参考",
+  "daily_overview": "今日妇产科要闻聚焦生殖医学领域：Fertility & Sterility 发布关于复发性植入失败的委员会意见，系统梳理多次胚胎移植失败的可能病因与诊断标准，为临床评估和咨询提供循证依据。",
   "tech_briefs": [
     {
       "title": "Recurrent implantation failure: a committee opinion.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42538063/",
       "source": "PubMed · Fertility & Sterility Practice Guidance",
-      "summary": "Fertility & Sterility发布复发性植入失败委员会意见，指出多次胚胎移植失败患者可能存在影响植入的潜在疾病，并回顾该病症的诊断标准。原文摘要未说明与既往建议的差异，但为生殖医学临床评估提供了权威参考。",
+      "summary": "该委员会意见由 Fertility & Sterility 发布，针对多次胚胎移植失败患者，回顾可能影响植入的潜在状况，并给出复发性植入失败的诊断标准。原文摘要未说明与既往建议的差异，临床医生可据此规范评估流程、指导个体化诊疗。",
       "importance": 8
-    },
-    {
-      "title": "Chinese expert consensus on the management of cervical intraepithelial neoplasia grade 2 (CIN 2) (2026 edition)",
-      "url": "https://gocm.bmj.com/cgi/content/short/6/3/e000500?rss=1",
-      "source": "GOCM · Gynecology and Obstetrics Clinical Medicine · Guidelines and Consensus",
-      "summary": "GOCM发布2026版CIN2管理中国专家共识。原文摘要未说明与既往建议的差异，作为中国专家共识更新，将影响宫颈上皮内瘤变二级病变的临床管理路径，需关注其具体推荐内容。",
-      "importance": 9
     }
   ],
   "finance_briefs": [],
   "politics_briefs": [],
-  "editor_note": "今日指南聚焦生殖与宫颈病变，临床决策有据可依，但需关注共识适用性与循证依据。",
+  "editor_note": "复发性植入失败是生殖医学难点，权威共识有助于统一诊断口径、推动个体化治疗。",
   "keywords": [
     "复发性植入失败",
-    "CIN2",
-    "专家共识",
+    "胚胎移植",
     "生殖医学",
-    "妇科肿瘤"
+    "委员会意见",
+    "Fertility & Sterility",
+    "诊断标准"
   ],
   "research": {
-    "generatedAt": "2026-08-05T12:56:59.145Z",
-    "dataAsOf": "2026-08-05T12:56:59.145Z",
+    "generatedAt": "2026-08-05T15:54:06.298Z",
+    "dataAsOf": "2026-08-05T15:54:06.298Z",
     "isCachedFallback": false,
-    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及从不平等梯度到优先带：将英格兰早产不平等转化为靶向普遍主义政策、Iparomlimab和tuvonralimab用于既往经治的宫颈癌患者、卵巢癌模型功能分析揭示Bcl-xL/NOTCH靶向可克服耐药。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及结核病患者的妊娠结局：一项系统评价与Meta分析、维生素D补充对妊娠期糖尿病女性胰岛素抵抗和脂质代谢谱的影响：一项随机对照试验、使用自我采集尿液和阴道样本进行HPV检测对检测宫颈癌前病变或更严重病变的诊断性能：一项Meta分析。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
+      {
+        "id": "pmid:42543993",
+        "pmid": "42543993",
+        "doi": "10.59556/japi.74.1608",
+        "title": "Pregnancy Outcomes in Patients with Tuberculosis: A Systematic Review and Meta-analysis.",
+        "abstract": "BACKGROUND AND OBJECTIVES: Tuberculosis (TB) is an important global health problem, especially for pregnant women, a vulnerable group. This systematic review and meta-analysis was conducted in this group to obtain cumulative results in a collective effort toward the World Health Organization (WHO) End TB Strategy.\nMETHODOLOGY: The databases Ovid MEDLINE, Embase, PubMed, ScienceDirect, Scopus, and Cochrane Central Register of Controlled Trials were searched for the last 10 years till 14 th January 2025. Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines were followed in this analysis. Pregnancy outcomes in terms of maternal complications and perinatal complications, including observed mortality, were considered for analysis.\nRESULTS: A total of 9,873 records were identified through database searching, and 15 studies, including 3,045 pregnant women with TB, were selected for final analysis. The pooled mean maternal age was 27.6 years, and more than half of TB cases were diagnosed antenatally. Among pregnancy-related complications, fetal growth restriction, pregnancy-induced hypertension, oligohydramnios, and gestational diabetes were seen in 19, 15, 11, and 10% of cases, respectively. Low birth weight, preterm birth, small for age, and low Apgar score (<7) had pooled prevalences of 30, 22, 20, and 13%, respectively. Maternal mortality and neonatal mortality showed pooled prevalences of 0.05 [95% confidence interval (CI): 0.03-0.08] and 5% (95% CI: 3-8%), respectively. Low to moderate heterogeneity was found among observations.\nINTERPRETATION AND CONCLUSION: This systematic review and meta-analysis showed continued maternal and perinatal adverse outcomes in pregnant women with TB even in the current era, highlighting the need to optimize healthcare.",
+        "journal": "The Journal of the Association of Physicians of India",
+        "authors": [
+          "Ashok Kumar",
+          "Hemlata Sharma",
+          "Saurabh Sharma",
+          "Swati Garg",
+          "Urvashi Sharma"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-07-01T00:00:00.000Z",
+        "activityAt": "2026-08-03T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42543993/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "summaryZh": {
+          "titleZh": "结核病患者的妊娠结局：一项系统评价与Meta分析",
+          "researchQuestion": "评估结核病孕妇的妊娠结局，包括母体并发症和围产期并发症（含观察到的死亡率），以获得累积结果，配合世界卫生组织终止结核病战略。",
+          "studyDesign": "系统评价与Meta分析，遵循PRISMA指南。",
+          "populationAndSample": "共识别9,873条记录，最终纳入15项研究，包括3,045名结核病孕妇。汇总平均孕产妇年龄为27.6岁，超过一半的结核病病例在产前诊断。",
+          "methods": "检索Ovid MEDLINE、Embase、PubMed、ScienceDirect、Scopus和Cochrane Central Register of Controlled Trials，时间范围为最近10年至2025年1月14日。分析妊娠结局，包括母体并发症和围产期并发症（含观察到的死亡率）。",
+          "keyResults": "妊娠相关并发症中，胎儿生长受限见于19%的病例，妊娠期高血压15%，羊水过少11%，妊娠期糖尿病10%。低出生体重、早产、小于胎龄和低Apgar评分（<7）的汇总患病率分别为30%、22%、20%和13%。孕产妇死亡率的汇总患病率为0.05（95%置信区间：0.03-0.08），新生儿死亡率为5%（95%置信区间：3-8%）。观察间存在低至中度异质性。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "该系统评价和Meta分析显示，即使在当前时代，结核病孕妇仍持续存在不良母儿结局，提示需要优化医疗保健。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "5e7557dd27c9ab9fb0d8659affa5b930f9a64988f2cf62639f468f11010542c3",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 7.5,
+          "total": 97.5,
+          "evidenceRank": 1
+        }
+      },
+      {
+        "id": "pmid:42544905",
+        "pmid": "42544905",
+        "doi": "10.29063/ajrh2026/v30i14.10",
+        "title": "Effects of vitamin D supplementation on insulin resistance and lipid metabolic profiles in women with gestational diabetes mellitus: A randomized controlled trial.",
+        "abstract": "Gestational diabetes mellitus (GDM) commonly presents as insulin resistance and altered lipid metabolism, with evidence linking vitamin D deficiency to its pathogenesis. In this randomized, double-blind, placebo-controlled trial, 120 pregnant women diagnosed with GDM were assigned to receive either vitamin D3 supplements (2000 IU/day) or a placebo for 3 months. Serum vitamin D status, glycemic control parameters, and lipid profiles were evaluated pre- and post-intervention, adjusting for dietary and exercise confounders. After the 3-month intervention, serum 25-hydroxyvitamin D levels in the vitamin D group were significantly higher than those in the placebo group. Vitamin D supplementation effectively reduced fasting plasma glucose, fasting insulin, and HOMA-IR scores. Simultaneously, it significantly decreased triglycerides and LDL-C levels while increasing HDL-C. Total cholesterol levels showed no statistically significant difference between the two groups. Supplementation with 2000 IU vitamin D per day for 3 months yields significant improvements in glucose homeostasis and lipid metabolism in the GDM population. Vitamin D holds promise as an effective auxiliary treatment to enhance maternal metabolic health.",
+        "journal": "African journal of reproductive health",
+        "authors": [
+          "Kai Jia",
+          "Li Li",
+          "Shixuan Zhang",
+          "Xiaojun Ma",
+          "Yunhui Duan"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-08-03T00:00:00.000Z",
+        "activityAt": "2026-08-03T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42544905/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "summaryZh": {
+          "titleZh": "维生素D补充对妊娠期糖尿病女性胰岛素抵抗和脂质代谢谱的影响：一项随机对照试验",
+          "researchQuestion": "评估维生素D补充对妊娠期糖尿病（GDM）女性胰岛素抵抗和脂质代谢的影响。",
+          "studyDesign": "随机、双盲、安慰剂对照试验。",
+          "populationAndSample": "120名诊断为GDM的孕妇，分配接受维生素D3补充（2000 IU/天）或安慰剂，持续3个月。",
+          "methods": "干预前后评估血清维生素D状态、血糖控制参数和血脂谱，并调整饮食和运动混杂因素。",
+          "keyResults": "3个月干预后，维生素D组血清25-羟基维生素D水平显著高于安慰剂组。维生素D补充有效降低空腹血糖、空腹胰岛素和HOMA-IR评分，同时显著降低甘油三酯和LDL-C水平并增加HDL-C。总胆固醇水平在两组间无统计学显著差异。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "每天补充2000 IU维生素D持续3个月可显著改善GDM人群的葡萄糖稳态和脂质代谢。维生素D有望作为增强母体代谢健康的有效辅助治疗。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "37d9e0b8e1eef2d0bd4994c3bf4dbba7b7a4df6474bfed81d64e18733834d461",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 7.5,
+          "total": 96.25,
+          "evidenceRank": 0.95
+        }
+      },
+      {
+        "id": "pmid:42547988",
+        "pmid": "42547988",
+        "doi": "10.1111/jog.70434",
+        "title": "Diagnostic Performance of HPV Testing Using Self-Collected Urine and Vaginal Samples for Detecting Cervical Precancer or Worse: A Meta-Analysis.",
+        "abstract": "AIM: Self-collection models are regarded as a potential strategy to facilitate HPV testing for cervical cancer screening. HPV testing using urine specimens offers certain advantages, including its noninvasiveness. This characteristic has the potential to eliminate discomfort. Concerns regarding the accuracy of this method persist. Thus, the present meta-analysis aims to verify the accuracy of HPV testing using self-collected urine samples and vaginal samples.\nMETHODS: A literature search was conducted in the PubMed, Embase, and Cochrane Library databases to identify eligible studies. The inclusion criteria were as follows: studies that evaluated the diagnostic accuracy of HPV testing for high-grade squamous intraepithelial lesion or worse (HSIL+) with self-collected urine samples and vaginal samples. Additionally, studies that provided sufficient data for conducting a meta-analysis were assessed.\nRESULTS: The meta-analysis was conducted using a bivariate random-effects model. A total of 11 articles were identified. These articles included 3534 self-collected urine specimens and 3523 vaginal specimens. The meta-analysis yielded a pooled sensitivity of 81% for HPV testing with self-collected urine specimens for HSIL+. A further meta-analysis yielded a pooled sensitivity of 88.6% for HPV testing with self-collected vaginal specimens detecting HSIL+. For specimen type, pooled sensitivity was 86.6% in the subgroup of papers using first void urine (FVU) via a standardized device to evaluate HPV testing.\nCONCLUSIONS: Our meta-analysis suggests that HPV testing using both self-collected urine and vaginal specimens achieves high sensitivity for detecting HSIL+. Another potential benefit of HPV testing employing FVU collected with a standardized device is the capacity for heightened sensitivity.",
+        "journal": "The journal of obstetrics and gynaecology research",
+        "authors": [
+          "Cheng-Chieh Chen",
+          "Hsiu-Ling Lin",
+          "Ke-Yu Hsiao"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review"
+        ],
+        "publishedAt": "2026-08-01T00:00:00.000Z",
+        "activityAt": "2026-08-04T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42547988/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "summaryZh": {
+          "titleZh": "使用自我采集尿液和阴道样本进行HPV检测对检测宫颈癌前病变或更严重病变的诊断性能：一项Meta分析",
+          "researchQuestion": "验证使用自我采集尿液样本和阴道样本进行HPV检测对检测高级别鳞状上皮内病变或更严重病变（HSIL+）的诊断准确性。",
+          "studyDesign": "Meta分析，采用双变量随机效应模型。",
+          "populationAndSample": "共纳入11篇文章，包括3,534份自我采集尿液样本和3,523份阴道样本。",
+          "methods": "检索PubMed、Embase和Cochrane Library数据库。纳入标准为评估HPV检测对HSIL+诊断准确性且提供足够数据的自我采集尿液和阴道样本研究。",
+          "keyResults": "自我采集尿液样本进行HPV检测检测HSIL+的汇总灵敏度为81%；自我采集阴道样本的汇总灵敏度为88.6%。在亚组分析中，使用标准化设备采集首次晨尿（FVU）进行HPV检测的汇总灵敏度为86.6%。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "该Meta分析提示，使用自我采集尿液和阴道标本进行HPV检测对检测HSIL+具有高灵敏度。使用标准化设备采集FVU进行HPV检测可能具有提高灵敏度的额外潜在益处。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "2aeb92afba855e8d2a9248bae67e3d2b8f4a74b1f8ec87187a9fb78149f9ed0b",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 7.5,
+          "recency": 10,
+          "total": 92.5,
+          "evidenceRank": 1
+        }
+      },
       {
         "id": "pmid:42551388",
         "pmid": "42551388",
@@ -56,15 +197,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "从不平等梯度到优先带：将英格兰早产不平等转化为靶向普遍主义政策",
           "researchQuestion": "量化英格兰早产（PTB）中剥夺与种族梯度，并将与剥夺相关的不平等转化为政策相关的优先带。",
@@ -76,7 +208,16 @@
           "clinicalInterpretation": "将不平等转化为基于剥夺的优先带，为监测与靶向普遍主义预防政策之间提供了经验桥梁，支持在高负担人群中按比例分配资源；但本研究为生态学分析，不应被解读为个体层面的因果或临床指令。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "aaa89e60dcd875b63ed94c9bdf96cb02778ee5d71d69d955d023ea10d5ba724d"
+        "summaryInputHash": "aaa89e60dcd875b63ed94c9bdf96cb02778ee5d71d69d955d023ea10d5ba724d",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42551432",
@@ -140,156 +281,6 @@
           "total": 85,
           "evidenceRank": 0.4
         }
-      },
-      {
-        "id": "pmid:42552331",
-        "pmid": "42552331",
-        "doi": "10.1038/s41698-026-01628-2",
-        "title": "Functional profiling of ovarian cancer models reveals Bcl-xL/NOTCH targeting to overcome resistance.",
-        "abstract": "Platinum resistance remains a major therapeutic challenge in ovarian cancer (OC) and is one of the main causes leading to disease relapse and mortality. Although PARP inhibitors have improved outcomes for a subset of patients, most women continue to rely on platinum-taxol based chemotherapy and ultimately develop recurrent, treatment-resistant disease with limited further therapy options. Therefore, there is a critical need to identify actionable, patient-specific vulnerabilities that would help as an alternative for chemoresistant patients. To identify such therapeutic opportunities, we established 35 patient-derived models from 22 OC patients, representing seven OC subtypes and preserving key molecular features of individual patients. High-throughput drug profiling across a library of 528 oncology-focused compounds generated over 29,000 drug response measurements, revealing inter-patient heterogeneity and sensitivity patterns. Among these, a subset of models exhibited a pronounced dependency on the anti-apoptotic protein Bcl-xL with minimal effects observed on patient-derived fibroblasts and healthy bone marrow, suggesting a therapeutic window. Proteomics-based comparison of Bcl-xL-sensitive and -resistant subclones identified activation of NOTCH signaling as a determinant to reduced response to Bcl-xL inhibition. Blocking of NOTCH signaling with gamma-secretase inhibitors restored sensitivity to Bcl-xL targeting and resensitized resistant cells to Carboplatin, resulting in sustained cytotoxicity in long-term washout assays and ex vivo cultures. Similar effects were observed with both Bcl-xL protein degrader and small molecule inhibitor, supporting robust targeting of Bcl-xL through different modalities. Together, these findings define a NOTCH-modulated Bcl-xL survival axis as a therapeutic vulnerability in platinum resistant OC. More broadly, this study demonstrates how translational drug profiling of physiologically relevant disease models can generate insights with clinical potential and provide precision oncology framework for identifying rational combination strategies to overcome chemoresistance.",
-        "journal": "NPJ precision oncology",
-        "authors": [
-          "Brinton Seashore-Ludlow",
-          "Elisabeth Moussaud-Lamodière",
-          "Greta Gudoityte",
-          "Johan Lindberg",
-          "Josefin Fernebro",
-          "Lukas M Orre",
-          "Martin Haraldsson",
-          "Méline Louhaur",
-          "Olena Berkovska",
-          "Olli Kallioniemi",
-          "Rebecka Bergström",
-          "Sacha Bou Nafeh",
-          "Ulrika Joneborg"
-        ],
-        "publicationTypes": [
-          "Journal Article"
-        ],
-        "publishedAt": "2026-08-04T00:00:00.000Z",
-        "activityAt": "2026-08-05T00:00:00.000Z",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42552331/",
-        "sourceKinds": [
-          "pubmed"
-        ],
-        "matchedTopicIds": [
-          "gynecologic-oncology"
-        ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
-        "summaryZh": {
-          "titleZh": "卵巢癌模型功能分析揭示Bcl-xL/NOTCH靶向可克服耐药",
-          "researchQuestion": "识别铂耐药卵巢癌中可操作的患者特异性治疗靶点，并探索克服化疗耐药的合理联合策略。",
-          "studyDesign": "患者来源模型的功能药物谱分析研究（转化性实验室研究）",
-          "populationAndSample": "来自22例卵巢癌患者的35个患者来源模型，代表7种卵巢癌亚型。",
-          "methods": "对包含528种肿瘤相关化合物的文库进行高通量药物谱分析，生成超过29,000个药物反应测量值；通过蛋白质组学比较Bcl-xL敏感与耐药亚克隆；使用γ-分泌酶抑制剂阻断NOTCH信号；在长期洗脱实验和离体培养中评估细胞毒性；比较Bcl-xL蛋白降解剂与小分子抑制剂的作用。",
-          "keyResults": "部分模型对抗凋亡蛋白Bcl-xL表现出显著依赖性，而对患者来源成纤维细胞和健康骨髓影响极小，提示存在治疗窗。蛋白质组学比较显示NOTCH信号激活是Bcl-xL抑制反应降低的决定因素。阻断NOTCH信号可恢复对Bcl-xL靶向的敏感性，并使耐药细胞重新对卡铂敏感，在长期洗脱实验和离体培养中产生持续细胞毒性。Bcl-xL蛋白降解剂和小分子抑制剂均观察到类似效果。",
-          "limitations": "摘要未报告。",
-          "clinicalInterpretation": "研究定义了NOTCH调节的Bcl-xL生存轴作为铂耐药卵巢癌的治疗脆弱点，提示翻译性药物谱分析可为克服化疗耐药提供精准肿瘤学框架；结论来自实验室模型，尚不能直接作为临床治疗指令。"
-        },
-        "summaryStatus": "success",
-        "summaryInputHash": "3229ba4ffaf6040fa6e7e8bc33fe02a1212e6f835efed972de19820245eba0bd"
-      },
-      {
-        "id": "pmid:42552472",
-        "pmid": "42552472",
-        "doi": "10.1007/s43032-026-02170-z",
-        "title": "Integrative Multi-Omics Analysis Identifies Key Molecular Targets Linking Bisphenol A Exposure to Gestational Diabetes Mellitus.",
-        "abstract": "Bisphenol A (BPA) exposure is associated with gestational diabetes mellitus (GDM); however, the underlying molecular mechanisms remain elusive. This study aimed to identify key genes mediating BPA exposure-related GDM through integrative bioinformatics analysis. We integrated BPA-related targets from multiple databases with GDM-associated genes derived from GeneCards and the GSE103552 dataset. Functional enrichment analysis was performed on the intersecting genes. A protein-protein interaction (PPI) network was constructed, and hub genes were identified using four topological algorithms. Machine learning approaches were employed for feature selection. Immune infiltration was assessed, and core gene expression was validated via reverse transcription quantitative polymerase chain reaction (RT-qPCR), additional GEO datasets, and single-cell RNA sequencing data. Thirty-four overlapping genes were identified and found to be enriched in the insulin signaling pathway, the AMPK pathway, and inflammatory responses. Following further screening, five core genes-HSPA8, NR3C1, ITGB1, NOTCH2, and POU5F1-were selected, demonstrating robust diagnostic performance. Immune analysis revealed significant correlations between hub genes and the infiltration levels of immune cells. Consistent expression patterns of ITGB1 and NOTCH2 were validated across additional GEO datasets. RT-qPCR confirmed the downregulation of HSPA8 and the upregulation of NR3C1 and NOTCH2 in GDM. Single-cell analysis corroborated cell-type-specific expression within the placenta. This study elucidates potential molecular links between BPA exposure and GDM, highlighting immune-metabolic dysregulation. The identified core genes may serve as biomarkers or therapeutic targets, thereby advancing precision environmental health strategies for pregnancy.",
-        "journal": "Reproductive sciences (Thousand Oaks, Calif.)",
-        "authors": [
-          "Huiyan Wang",
-          "Lu Zheng",
-          "Wenbo Zhou",
-          "Xinying Song"
-        ],
-        "publicationTypes": [
-          "Journal Article"
-        ],
-        "publishedAt": "2026-08-04T00:00:00.000Z",
-        "activityAt": "2026-08-05T00:00:00.000Z",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42552472/",
-        "sourceKinds": [
-          "pubmed"
-        ],
-        "matchedTopicIds": [
-          "maternal-fetal-medicine"
-        ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
-        "summaryZh": {
-          "titleZh": "整合多组学分析确定双酚A暴露与妊娠期糖尿病关联的关键分子靶点",
-          "researchQuestion": "通过整合生物信息学分析，识别介导双酚A（BPA）暴露相关妊娠期糖尿病（GDM）的关键基因。",
-          "studyDesign": "整合生物信息学分析结合实验验证研究",
-          "populationAndSample": "整合了来自多个数据库的BPA相关靶点、GeneCards和GSE103552数据集中的GDM相关基因；后续验证涉及RT-qPCR样本、额外的GEO数据集和单细胞RNA测序数据中的胎盘样本。具体样本量摘要未报告。",
-          "methods": "对交集基因进行功能富集分析；构建蛋白-蛋白相互作用（PPI）网络并使用四种拓扑算法识别hub基因；采用机器学习进行特征选择；评估免疫浸润；通过RT-qPCR、额外GEO数据集和单细胞RNA测序数据验证核心基因表达。",
-          "keyResults": "鉴定出34个重叠基因，富集于胰岛素信号通路、AMPK通路和炎症反应。筛选出五个核心基因HSPA8、NR3C1、ITGB1、NOTCH2和POU5F1，表现出稳健的诊断性能。免疫分析显示hub基因与免疫细胞浸润水平显著相关。ITGB1和NOTCH2在额外GEO数据集中表达模式一致。RT-qPCR证实GDM中HSPA8下调、NR3C1和NOTCH2上调。单细胞分析证实了胎盘中细胞类型特异性表达。",
-          "limitations": "摘要未报告。",
-          "clinicalInterpretation": "该研究阐明了BPA暴露与GDM之间潜在的分子联系，提示免疫-代谢失调；所识别的核心基因可能作为生物标志物或治疗靶点，从而推进妊娠期精准环境健康策略，但结论来自生物信息学与初步验证，不应视为临床指导。"
-        },
-        "summaryStatus": "success",
-        "summaryInputHash": "1a98656b662e0e465f311d63081de6c8212d8f618d46098908c28afcb53a24b5"
-      },
-      {
-        "id": "pmid:42552644",
-        "pmid": "42552644",
-        "doi": "10.1111/ppe.70184",
-        "title": "Infertility and Risk of Congenital Anomalies: A Population-Based Cohort Study.",
-        "abstract": "BACKGROUND: Fertility treatments have been associated with an increased risk of congenital anomalies. Most studies have compared births conceived through fertility treatment with unassisted conceptions; consequently, these estimates reflect the combined effects of fertility treatment and the underlying infertility, potentially resulting in confounding by indication.\nOBJECTIVES: To estimate the association between infertility, independent of fertility treatment, and the risk of congenital anomalies.\nMETHODS: This population-based cohort study included all live births and stillbirths at ≥ 20 weeks' gestation to women aged 15-50 in Ontario, Canada, 2006-2021. Infertility without treatment was defined as a history of one or more infertility consultations with a physician within 2 years before conception, in the absence of fertility treatment. Modified Poisson regression generated relative risks (RR) adjusted for maternal age, income quintile, rurality, pre-existing comorbidities, and smoking, alcohol use, and substance use during pregnancy.\nRESULTS: Of the 1,415,324 deliveries, the prevalence of congenital anomalies was 5.3% in unassisted conception and 5.9% among births to women with infertility who did not use fertility treatment. A small increase in risk was observed for any congenital anomaly (RR 1.12, 95% confidence interval [CI] 1.09, 1.14). Among organ system anomalies, the highest relative risks were observed for eye anomalies (0.11% vs 0.14%; RR 1.22, 95% CI 1.03, 1.45) and ear, face, and neck anomalies (0.06% vs 0.08%; RR 1.19, 95% CI 1.05, 1.35). Among specific anomalies, the highest relative risk was observed for other penile malformations (0.03% vs 0.04%; RR 1.41, 95% CI 1.09, 1.83).\nCONCLUSIONS: Although the overall risk of congenital anomalies was low, infants born to women with infertility who did not use fertility treatment had small increased risks of any congenital anomaly, selected organ system anomalies, and specific anomalies compared with infants born from unassisted conceptions.",
-        "journal": "Paediatric and perinatal epidemiology",
-        "authors": [
-          "Bailey Milne",
-          "Jonas Shellenberger",
-          "Maria P Velez",
-          "Susan B Brogly"
-        ],
-        "publicationTypes": [
-          "Journal Article"
-        ],
-        "publishedAt": "2026-08-04T00:00:00.000Z",
-        "activityAt": "2026-08-05T00:00:00.000Z",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42552644/",
-        "sourceKinds": [
-          "pubmed"
-        ],
-        "matchedTopicIds": [
-          "reproductive-medicine"
-        ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
-        "summaryZh": {
-          "titleZh": "不孕与先天性异常风险：一项基于人群的队列研究",
-          "researchQuestion": "估计独立于生育治疗的不孕本身与先天性异常风险之间的关联。",
-          "studyDesign": "基于人群的队列研究",
-          "populationAndSample": "2006-2021年加拿大安大略省孕周≥20周的全部活产和死产，母亲年龄15-50岁，共1,415,324次分娩。",
-          "methods": "未治疗不孕定义为受孕前2年内有1次或以上不孕咨询且未接受生育治疗。使用修正泊松回归估计相对风险（RR），调整母亲年龄、收入五分位、农村居住、既往合并症以及孕期吸烟、饮酒和物质使用。",
-          "keyResults": "先天性异常患病率在自然受孕中为5.3%，在未使用生育治疗的不孕女性分娩中为5.9%。任何先天性异常的RR为1.12（95% CI 1.09, 1.14）。器官系统异常中，眼异常（0.11% vs 0.14%；RR 1.22，95% CI 1.03, 1.45）和耳、面、颈异常（0.06% vs 0.08%；RR 1.19，95% CI 1.05, 1.35）的相对风险最高。特定异常中，其他阴茎畸形的相对风险最高（0.03% vs 0.04%；RR 1.41，95% CI 1.09, 1.83）。",
-          "limitations": "摘要未报告。",
-          "clinicalInterpretation": "尽管先天性异常总体风险较低，与自然受孕婴儿相比，未使用生育治疗的不孕女性所生婴儿在任何先天性异常、特定器官系统异常和特定异常方面存在小幅增加的风险；该研究为观察性关联，不应解读为因果关系。"
-        },
-        "summaryStatus": "success",
-        "summaryInputHash": "afb72557de44cca3a0c75dbc66d5bf7f6414e3df2c4d9d9d903781ef70f2f858"
       }
     ]
   }

@@ -9,17 +9,21 @@
       "publishedAt": "2026-08-01T00:00:00.000Z",
       "category": "tech",
       "source": "PubMed · Fertility & Sterility Practice Guidance",
-      "summary": "该委员会意见聚焦复发性种植失败（RIF），指出多次胚胎移植失败患者可能存在影响胚胎着床的相关疾病，并系统回顾了RIF的诊断标准，为这类患者提供基于证据的临床评估路径。内容属于生殖医学领域的专业指导，具有临床价值。"
+      "summary": "委员会意见回顾反复种植失败的诊断标准，并为多次胚胎移植失败患者提供基于证据的评估方案。",
+      "reviewStatus": "accepted",
+      "lowPriority": false
     },
     {
-      "sourceId": "gocm-guidelines",
-      "title": "Chinese expert consensus on the management of cervical intraepithelial neoplasia grade 2 (CIN 2) (2026 edition)",
-      "url": "https://gocm.bmj.com/cgi/content/short/6/3/e000500?rss=1",
-      "excerpt": "",
-      "publishedAt": "2026-07-30T10:15:29.000Z",
+      "sourceId": "pubmed-asrm-guidance",
+      "title": "Diagnosis and treatment of luteal phase deficiency: a Committee Opinion.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42414147/",
+      "excerpt": "Luteal phase deficiency (LPD) is a clinical diagnosis associated with abnormal luteal phase length of ≤10 days. Potential etiologies of LPD include inadequate progesterone duration, inadequate progesterone levels, or endometrial progesterone resistance. Luteal phase deficiency has been described in association with medical conditions, but also in fertile, normally menstruating women. Although progesterone is important for the process of implantation and early embryonic development, LPD has not been proven to be an independent entity causing infertility or recurrent pregnancy loss. Controversy exists regarding the multiple proposed measures for diagnosing LPD, and assuming it can be diagnosed accurately, whether treatment improves outcomes. This document replaces the document of the same name, last published in 2021 (Fertil Steril 2021;115(6):1416-23). · Fertility and sterility · Journal Article · DOI: 10.1016/j.fertnstert.2026.06.014",
+      "publishedAt": "2026-07-08T00:00:00.000Z",
       "category": "tech",
-      "source": "GOCM · Gynecology and Obstetrics Clinical Medicine · Guidelines and Consensus",
-      "summary": "该文为2026年版中国专家共识，针对宫颈上皮内瘤变2级（CIN 2）的管理策略进行规范与推荐，涵盖诊断、处理及随访等关键环节，对妇科肿瘤及宫颈病变临床实践具有指导意义。"
+      "source": "PubMed · Fertility & Sterility Practice Guidance",
+      "summary": "委员会意见阐述黄体期缺陷（LPD）的诊断与治疗，指出其为临床诊断，与黄体期长度≤10天相关，病因包括孕酮持续时间或水平不足、子宫内膜孕酮抵抗等。",
+      "reviewStatus": "accepted",
+      "lowPriority": false
     }
   ]
 }
