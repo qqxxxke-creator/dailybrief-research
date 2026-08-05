@@ -146,8 +146,8 @@ function config(topics: ResearchTopic[]): ResearchConfig {
       maxPapers: 5,
       cacheDays: 30,
       overlapHours: 48,
-      minScore: 45,
-      maxPerTopic: 2,
+      minScore: 40,
+      maxPerTopic: 3,
     },
   };
 }
@@ -169,23 +169,38 @@ test("filters invalid records and enforces topic and global quotas", () => {
     paper({ id: "empty", pmid: "8", abstract: "" }),
   ];
   const selected = selectResearchPapers(papers, config(topics), NOW);
-  assert.equal(selected.length, 4);
-  assert.equal(selected.filter((item) => item.assignedTopicId === "mfm").length, 1);
+  assert.equal(selected.length, 5);
+  assert.equal(selected.filter((item) => item.assignedTopicId === "mfm").length, 2);
   assert.ok(!selected.some((item) => item.id === "m3"));
   assert.ok(!selected.some((item) => item.id === "old"));
   assert.ok(!selected.some((item) => item.id === "empty"));
 });
 
-test("does not display papers indexed more than 24 hours ago", () => {
+test("displays papers indexed within seven days but not older", () => {
   const selected = selectResearchPapers(
     [
-      paper({ id: "recent", activityAt: "2026-08-04T00:00:01.000Z" }),
-      paper({ id: "outside", activityAt: "2026-08-03T23:59:59.000Z" }),
+      paper({ id: "recent", activityAt: "2026-07-29T00:00:01.000Z" }),
+      paper({ id: "outside", activityAt: "2026-07-28T23:59:59.000Z" }),
     ],
     config([topic()]),
     NOW,
   );
   assert.deepEqual(selected.map((item) => item.id), ["recent"]);
+});
+
+test("allows three papers per interest while keeping five overall", () => {
+  const topics = [topic(), topic({ id: "onc", includeKeywords: ["ovarian cancer"] })];
+  const selected = selectResearchPapers([
+    paper({ id: "m1", pmid: "1" }),
+    paper({ id: "m2", pmid: "2" }),
+    paper({ id: "m3", pmid: "3" }),
+    paper({ id: "m4", pmid: "4" }),
+    paper({ id: "o1", pmid: "5", title: "Ovarian cancer treatment outcomes" }),
+    paper({ id: "o2", pmid: "6", title: "Ovarian cancer screening outcomes" }),
+    paper({ id: "o3", pmid: "7", title: "Ovarian cancer survival outcomes" }),
+  ], config(topics), NOW);
+  assert.equal(selected.length, 5);
+  assert.equal(selected.filter((item) => item.assignedTopicId === "mfm").length, 3);
 });
 
 test("does not display papers with a future index timestamp", () => {

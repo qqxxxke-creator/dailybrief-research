@@ -42,11 +42,13 @@ export function normalizeTitle(value: string): string {
     .trim();
 }
 
-export function paperIdentityKeys(paper: ResearchPaper): string[] {
+export function paperIdentityKeys(
+  paper: Pick<ResearchPaper, "pmid" | "doi"> & { title?: string },
+): string[] {
   const keys: string[] = [];
   const pmid = paper.pmid?.trim();
   const doi = normalizeDoi(paper.doi);
-  const title = normalizeTitle(paper.title);
+  const title = paper.title ? normalizeTitle(paper.title) : "";
   if (pmid) keys.push(`pmid:${pmid}`);
   if (doi) keys.push(`doi:${doi}`);
   if (title) keys.push(`title:${title}`);

@@ -27,8 +27,8 @@ function config(enabled = true): ResearchConfig {
       maxPapers: 5,
       cacheDays: 30,
       overlapHours: 48,
-      minScore: 45,
-      maxPerTopic: 2,
+      minScore: 40,
+      maxPerTopic: 3,
     },
     sources: [
       { id: "pubmed", name: "PubMed", kind: "pubmed", url: "https://eutils.test", enabled: true },
@@ -226,4 +226,42 @@ test("dry-run returns discovery statistics without summary or cache writes", asy
   assert.equal(result.candidates.length, 1);
   assert.equal(summarized, false);
   assert.equal(saved, false);
+});
+
+test("removes shown research identities before scoring and quotas", async () => {
+  const runtimeConfig = config();
+  runtimeConfig.runtime.maxPapers = 1;
+  const shown = paper({ id: "pmid:1", pmid: "1", activityAt: "2026-08-05T10:00:00.000Z" });
+  const unseen = paper({
+    id: "pmid:2",
+    pmid: "2",
+    title: "Preeclampsia intervention outcomes",
+    activityAt: "2026-08-05T09:00:00.000Z",
+  });
+  const section = await runResearchIntelligence({
+    now: () => NOW,
+    loadConfig: () => runtimeConfig,
+    loadCache: () => emptyCache,
+    loadShownKeys: () => new Set(["pmid:1"]),
+    saveCache: () => {},
+    fetchSource: async (source) => success(source, source.kind === "pubmed" ? [shown, unseen] : []),
+    summarize: async (papers) => papers,
+  });
+  assert.deepEqual(section?.papers.map((item) => item.pmid), ["2"]);
+});
+
+test("applies shown research identities to cached fallback", async () => {
+  const runtimeConfig = config();
+  runtimeConfig.runtime.maxPapers = 1;
+  const shown = paper({ id: "pmid:1", pmid: "1", activityAt: "2026-08-05T10:00:00.000Z" });
+  const unseen = paper({ id: "pmid:2", pmid: "2", activityAt: "2026-08-05T09:00:00.000Z" });
+  const section = await runResearchIntelligence({
+    now: () => NOW,
+    loadConfig: () => runtimeConfig,
+    loadCache: () => ({ schemaVersion: 1, papers: [shown, unseen] }),
+    loadShownKeys: () => new Set(["pmid:1"]),
+    fetchSource: async () => { throw new Error("offline"); },
+    warn: () => {},
+  });
+  assert.deepEqual(section?.papers.map((item) => item.pmid), ["2"]);
 });

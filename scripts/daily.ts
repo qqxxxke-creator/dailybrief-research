@@ -30,6 +30,8 @@ import { generateTradingCommentary } from "../lib/ai/trading-commentary";
 import type { TradingSection } from "../lib/ai/pipeline";
 import { todayKey } from "../lib/utils";
 import { runResearchSafely } from "../lib/research/integration";
+import { runResearchIntelligence } from "../lib/research/runner";
+import { loadPreviouslyShownResearchKeys } from "../lib/research/history";
 import { filterObgynCandidates } from "../lib/sources/obgyn-filter";
 import { filterPreviouslyPublishedArticles } from "../lib/sources/guideline-history";
 import { reviewObgynCandidates } from "../lib/ai/enrich";
@@ -265,7 +267,9 @@ async function main() {
 
   // Research Intelligence is isolated from the news digest. Source, cache,
   // or summarization failures must never prevent the morning brief shipping.
-  const research = await runResearchSafely();
+  const research = await runResearchSafely(() => runResearchIntelligence({
+    loadShownKeys: () => loadPreviouslyShownResearchKeys(OUTPUT_DIR, date),
+  }));
 
   console.log(`[daily] generating digest with ${getModelTag()}…`);
   const t0 = Date.now();

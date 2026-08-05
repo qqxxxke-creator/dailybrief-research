@@ -126,7 +126,7 @@ function isValidCandidate(paper: ResearchPaper, now: Date): boolean {
   if (paper.abstract.trim().length < 20) return false;
   const activityTimestamp = Date.parse(paper.activityAt);
   const ageMs = now.getTime() - activityTimestamp;
-  if (!Number.isFinite(activityTimestamp) || ageMs < 0 || ageMs > 24 * 60 * 60 * 1000) return false;
+  if (!Number.isFinite(activityTimestamp) || ageMs < 0 || ageMs > 7 * DAY_MS) return false;
   if (recencyWeight(paper.activityAt, now) === 0) return false;
   if (evidenceWeight(paper.publicationTypes) <= 0.1) return false;
   return !NON_RESEARCH_RE.test(`${paper.title} ${paper.publicationTypes.join(" ")}`);

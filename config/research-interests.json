@@ -28,12 +28,12 @@
     "myomectomy"
   ],
   "runtime": {
-    "lookback_days": 1,
+    "lookback_days": 7,
     "max_papers": 5,
     "cache_days": 30,
     "overlap_hours": 48,
-    "min_score": 45,
-    "max_per_topic": 2
+    "min_score": 40,
+    "max_per_topic": 3
   },
   "sources": [
     {

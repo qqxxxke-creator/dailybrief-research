@@ -8,7 +8,7 @@ import {
   saveResearchCacheAtomic,
 } from "./cache";
 import { loadResearchConfig } from "./config";
-import { dedupeResearchPapers } from "./normalize";
+import { dedupeResearchPapers, paperIdentityKeys } from "./normalize";
 import { selectResearchPapers } from "./scoring";
 import { fetchJournalRssPapers } from "./sources/journal-rss";
 import { fetchPubMedPapers } from "./sources/pubmed";
@@ -38,6 +38,7 @@ export interface ResearchDeps {
     context: FetchContext,
   ) => Promise<ResearchFetchResult>;
   summarize?: (papers: ResearchPaper[]) => Promise<ResearchPaper[]>;
+  loadShownKeys?: () => Set<string>;
   warn?: (message: string) => void;
 }
 
@@ -155,6 +156,16 @@ function dataAsOf(cache: ResearchCache, papers: ResearchPaper[], now: Date): str
   return latest ?? now.toISOString();
 }
 
+function withoutPreviouslyShown(
+  papers: ResearchPaper[],
+  shownKeys: ReadonlySet<string>,
+): ResearchPaper[] {
+  if (shownKeys.size === 0) return papers;
+  return papers.filter(
+    (paper) => !paperIdentityKeys(paper).some((key) => shownKeys.has(key)),
+  );
+}
+
 export async function runResearchIntelligence(
   deps: ResearchDeps = {},
 ): Promise<ResearchSection | undefined> {
@@ -162,6 +173,7 @@ export async function runResearchIntelligence(
   if (!config.runtime.enabled) return undefined;
 
   const now = (deps.now ?? (() => new Date()))();
+  const shownKeys = deps.loadShownKeys?.() ?? new Set<string>();
   const cache = (deps.loadCache ?? ((clear) => loadResearchCache(undefined, clear)))(
     config.runtime.clearCache,
   );
@@ -169,7 +181,7 @@ export async function runResearchIntelligence(
   const discovery = await discover(config, window.from, window.to, deps);
 
   if (discovery.successes.length === 0) {
-    const papers = selectResearchPapers(cache.papers, config, now);
+    const papers = selectResearchPapers(withoutPreviouslyShown(cache.papers, shownKeys), config, now);
     return {
       generatedAt: now.toISOString(),
       dataAsOf: dataAsOf(cache, papers, now),
@@ -187,7 +199,7 @@ export async function runResearchIntelligence(
     now,
     retentionDays: config.runtime.cacheDays,
   });
-  const selected = selectResearchPapers(merged.papers, config, now);
+  const selected = selectResearchPapers(withoutPreviouslyShown(merged.papers, shownKeys), config, now);
   const needsSummary = selected.filter(
     (paper) =>
       paper.summaryStatus !== "success" ||
