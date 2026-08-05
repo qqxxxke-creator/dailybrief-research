@@ -21,7 +21,7 @@ const EVIDENCE_RULES: Array<[RegExp, number]> = [
   [/editorial|comment|protocol/i, 0.1],
 ];
 
-const NON_RESEARCH_RE = /practice guideline|guideline|consensus|retracted publication|retraction|correction|erratum|news/i;
+const NON_RESEARCH_RE = /practice guideline|guideline|consensus|retracted publication|retraction|correction|erratum|news|protocol/i;
 
 function round2(value: number): number {
   return Math.round((value + Number.EPSILON) * 100) / 100;
@@ -125,6 +125,7 @@ export function scorePaper(
 function isValidCandidate(paper: ResearchPaper, now: Date): boolean {
   if (paper.abstract.trim().length < 20) return false;
   if (recencyWeight(paper.activityAt, now) === 0) return false;
+  if (evidenceWeight(paper.publicationTypes) <= 0.1) return false;
   return !NON_RESEARCH_RE.test(`${paper.title} ${paper.publicationTypes.join(" ")}`);
 }
 
@@ -138,6 +139,8 @@ export function selectResearchPapers(
 
   for (const paper of papers) {
     if (!isValidCandidate(paper, now)) continue;
+    const domainText = normalizedHaystack(paper);
+    if (!config.domainKeywords.some((keyword) => includesPhrase(domainText, keyword))) continue;
     const candidates = enabledTopics
       .map((topic, topicIndex) => ({ topic, topicIndex, score: scorePaper(paper, topic, now) }))
       .filter((entry) => entry.score.topicMatch > 0)

@@ -9,6 +9,7 @@ import {
 function validConfig(): ResearchConfigInput {
   return {
     schema_version: 1,
+    domain_keywords: ["pregnancy", "preeclampsia", "gynecologic"],
     runtime: {
       lookback_days: 7,
       max_papers: 5,
@@ -52,6 +53,7 @@ function validConfig(): ResearchConfigInput {
 test("parses snake_case boundary fields into typed runtime config", () => {
   const config = parseResearchConfig(validConfig(), {});
   assert.equal(config.schemaVersion, 1);
+  assert.deepEqual(config.domainKeywords, ["pregnancy", "preeclampsia", "gynecologic"]);
   assert.equal(config.topics[0].includeKeywords[0], "preeclampsia");
   assert.equal(config.sources[0].kind, "pubmed");
   assert.equal(config.runtime.enabled, true);

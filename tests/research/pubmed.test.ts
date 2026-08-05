@@ -38,10 +38,11 @@ function topics(): ResearchTopic[] {
 }
 
 test("builds a date-bounded OR query from enabled interests", () => {
-  const query = buildPubMedQuery(topics(), FROM, TO);
+  const query = buildPubMedQuery(topics(), ["pregnancy", "gynecologic"], FROM, TO);
   assert.match(query, /preeclampsia\[Title\/Abstract\]/);
   assert.match(query, /preterm birth\[Title\/Abstract\]/);
   assert.match(query, /2026\/07\/30:2026\/08\/05\[EDAT\]/);
+  assert.match(query, /AND \(pregnancy\[Title\/Abstract\] OR gynecologic\[Title\/Abstract\]\)/);
   assert.doesNotMatch(query, /must-not-appear/);
 });
 
@@ -81,7 +82,13 @@ test("runs ESearch then batches IDs through EFetch", async () => {
     });
   };
 
-  const result = await fetchPubMedPapers({ topics: topics(), from: FROM, to: TO, fetchImpl: fakeFetch });
+  const result = await fetchPubMedPapers({
+    topics: topics(),
+    domainKeywords: ["pregnancy", "preeclampsia"],
+    from: FROM,
+    to: TO,
+    fetchImpl: fakeFetch,
+  });
   assert.equal(result.sourceId, "pubmed");
   assert.equal(result.papers.length, 2);
   assert.equal(calls.length, 2);
@@ -94,7 +101,7 @@ test("runs ESearch then batches IDs through EFetch", async () => {
 test("surfaces HTTP failures with the source id", async () => {
   const fakeFetch: typeof fetch = async () => new Response("rate limited", { status: 429 });
   await assert.rejects(
-    () => fetchPubMedPapers({ topics: topics(), from: FROM, to: TO, fetchImpl: fakeFetch }),
+    () => fetchPubMedPapers({ topics: topics(), domainKeywords: ["pregnancy"], from: FROM, to: TO, fetchImpl: fakeFetch }),
     /\[research:pubmed\].*HTTP 429/,
   );
 });

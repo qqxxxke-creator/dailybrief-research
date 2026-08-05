@@ -77,6 +77,7 @@ async function defaultFetchSource(
   if (source.kind === "pubmed") {
     return fetchPubMedPapers({
       topics: context.config.topics,
+      domainKeywords: context.config.domainKeywords,
       from: context.from,
       to: context.to,
       baseUrl: source.url,

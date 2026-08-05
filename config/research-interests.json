@@ -1,5 +1,32 @@
 {
   "schema_version": 1,
+  "domain_keywords": [
+    "pregnancy",
+    "pregnant",
+    "maternal",
+    "obstetric",
+    "fetal",
+    "foetal",
+    "preeclampsia",
+    "eclampsia",
+    "postpartum",
+    "cesarean",
+    "gynecologic",
+    "gynaecologic",
+    "ovarian",
+    "cervical cancer",
+    "endometrial",
+    "uterine",
+    "endometriosis",
+    "adenomyosis",
+    "infertility",
+    "in vitro fertilization",
+    "IVF",
+    "fertility preservation",
+    "hysteroscopy",
+    "hysterectomy",
+    "myomectomy"
+  ],
   "runtime": {
     "lookback_days": 7,
     "max_papers": 5,
@@ -21,7 +48,7 @@
       "name": "American Journal of Obstetrics & Gynecology",
       "kind": "journal-rss",
       "url": "https://www.ajog.org/current.rss",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "green-journal-rss",
@@ -35,14 +62,14 @@
       "name": "BJOG",
       "kind": "journal-rss",
       "url": "https://obgyn.onlinelibrary.wiley.com/feed/14710528/most-recent",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "fertility-sterility-rss",
       "name": "Fertility and Sterility",
       "kind": "journal-rss",
       "url": "https://www.fertstert.org/current.rss",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "human-reproduction-rss",
@@ -63,7 +90,7 @@
       "name": "Journal of Minimally Invasive Gynecology",
       "kind": "journal-rss",
       "url": "https://www.jmig.org/current.rss",
-      "enabled": false
+      "enabled": true
     }
   ],
   "topics": [

@@ -16,6 +16,7 @@ lib/
   sources/      # fetcher dispatch + per-source TS modules
   trading/      # Yahoo finance + technical indicators + watchlist
   output/       # render.ts (HTML+MD generation), all CSS inlined
+  research/     # OB-GYN paper discovery, scoring, summaries, cache, runner
   utils.ts      # tiny shared helpers (todayKey, getReportTz)
 scripts/
   _env.ts             # dotenv preload — imported FIRST by every entry script
@@ -33,11 +34,12 @@ scripts/
   uninstall.mjs       # tear down scheduler + ~/.claude/ links
   quota-report.ts     # LLM call usage summary
 sources.config.json   # SINGLE SOURCE OF TRUTH for the source registry
+config/research-interests.json # research-only interests and literature sources
 ```
 
 ## Core invariants
 
-1. **`sources.config.json` is the only place sources live.** `lib/sources/registry.ts` is just a JSON loader + locale filter. Never hardcode a source list in TS.
+1. **`sources.config.json` is the only place NEWS sources live.** `lib/sources/registry.ts` is just a JSON loader + locale filter. Research literature is an intentionally separate subsystem: its PubMed/RSS sources and interests live only in `config/research-interests.json`. Never hardcode either source list in TS.
 
 2. **LLM calls go through `lib/ai/llm.ts` `runLlm()`.** Five backends behind `LLM_BACKEND` env var: `claude-cli` (default), `anthropic`, `openai`, `deepseek`, `minimax`. Never import a specific backend directly — that defeats the switch.
 
@@ -47,7 +49,9 @@ sources.config.json   # SINGLE SOURCE OF TRUTH for the source registry
 
 5. **Per-source fetch errors are non-fatal.** `scripts/daily.ts` has a try/catch per source. Never `process.exit()` inside a fetcher.
 
-6. **No agent-specific build steps.** No `next build`, no bundling. `tsx` runs TS directly. The HTML is hand-rendered, CSS is inlined string-templated.
+6. **Research Intelligence is non-fatal and deterministic before LLM.** Source failures fall back to `data/research/research-cache.json`; scoring, ordering, and topic assignment happen before summaries and cannot be changed by the LLM. The research section renders last.
+
+7. **No agent-specific build steps.** No `next build`, no bundling. `tsx` runs TS directly. The HTML is hand-rendered, CSS is inlined string-templated.
 
 ## Commands
 
@@ -61,6 +65,8 @@ sources.config.json   # SINGLE SOURCE OF TRUTH for the source registry
 | Static-site generator | `npm run build-site` | <1s |
 | List sources by status | `npm run sources` | instant |
 | Validate sources.config.json | `npm run sources:check` | instant |
+| Research fetch/rank check | `npm run research:dry-run` | ~10-30s, no LLM |
+| Unit and integration tests | `npm test` | a few seconds |
 
 `[date]` defaults to today in `REPORT_TZ`. Output is `daily_reports/<date>/<date>.html` + `<date>.json` + `<date>-articles.json` (note the hyphen in the articles cache filename); add `<date>.md` if `OUTPUT_MARKDOWN=true`.
 
@@ -88,6 +94,8 @@ sources.config.json   # SINGLE SOURCE OF TRUTH for the source registry
 - Don't add Playwright / Puppeteer for fetching — the project stays light with curl + JSON APIs
 - Don't import a specific LLM backend module directly; always go through `runLlm`
 - Don't hardcode sources in TS — use `sources.config.json`
+- Don't put research literature sources in `sources.config.json` — use `config/research-interests.json`
+- Don't let a research failure abort the news report or let the LLM alter research scores/order
 - Don't write into `daily_reports/` directly from agent code; let `scripts/daily.ts` or `render.ts` own that
 - Don't add a web framework (Next.js, Express, etc.) — the project is intentionally static
 - Don't bypass the per-source try/catch — let `daily.ts` aggregate failures

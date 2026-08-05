@@ -28,6 +28,7 @@ interface ResearchSourceInput {
 
 export interface ResearchConfigInput {
   schema_version: number;
+  domain_keywords: string[];
   runtime: {
     lookback_days: number;
     max_papers: number;
@@ -148,6 +149,7 @@ export function parseResearchConfig(input: ResearchConfigInput, env: Env): Resea
 
   return {
     schemaVersion: 1,
+    domainKeywords: requireStringList(input.domain_keywords, "domain_keywords", false),
     sources,
     topics,
     runtime: {

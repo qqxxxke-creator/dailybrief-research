@@ -33,6 +33,7 @@
 - **🆓 数据源零 API key**：所有源走免费公开端点（RSS / 公开 JSON），不需要付费订阅
 - **🔒 不绑定第三方阅读服务**：Feedly / Inoreader / Pocket 那些都不沾，你看了什么是你自己的事
 - **📁 单文件 HTML**：CSS + JS 全内联，无外部依赖，scp 上服务器直接当首页
+- **🔬 妇产科研究前沿**：PubMed 自动检索、兴趣关键词、医学证据评分、中文结构化摘要与增量缓存；论文栏目固定置于晨报最后
 
 ---
 
@@ -251,6 +252,8 @@ node scripts/install.mjs --global
 | `npm run quota-report` | 看各 LLM backend 用量统计 | 即时 |
 | `npm run sources` | 列出所有数据源（按 locale 标注启用/过滤状态）| 即时 |
 | `npm run sources:check` | 仅校验 `sources.config.json` schema（适合 CI / pre-commit）| 即时 |
+| `npm run research:dry-run` | 检索并评分妇产科论文，不调用 LLM、不写缓存 | 10-30s |
+| `npm test` | 运行离线单元与集成测试 | 数秒 |
 
 ---
 
@@ -278,6 +281,18 @@ node scripts/install.mjs --global
 2. 跑 `npm run sources:check` 校验 schema
 3. `npm run dry-run` 抓一次验证拉取正常
 4. 下次 `npm run daily` 自动包含
+
+### 🔬 Research Intelligence
+
+妇产科论文追踪与新闻源相互独立，配置入口是 [`config/research-interests.json`](config/research-interests.json)。默认包含母胎医学、妇科肿瘤、生殖医学、良性妇科疾病和微创手术 5 个兴趣方向，以 PubMed 为主来源。
+
+修改 `include_keywords` / `exclude_keywords` 后先运行：
+
+```bash
+npm run research:dry-run
+```
+
+该命令只做检索、去重和确定性评分，不调用 LLM，也不写正式缓存。完整评分、缓存和故障排查说明见 [`docs/research-intelligence.md`](docs/research-intelligence.md)。
 
 ### 🌐 Locale 模式（zh / en）
 

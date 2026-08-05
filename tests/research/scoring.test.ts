@@ -136,6 +136,7 @@ test("matches title and abstract but honors exclusions", () => {
 function config(topics: ResearchTopic[]): ResearchConfig {
   return {
     schemaVersion: 1,
+    domainKeywords: ["preeclampsia", "ovarian cancer", "infertility"],
     sources: [],
     topics,
     runtime: {
@@ -194,9 +195,34 @@ test("filters guidelines, corrections and retractions", () => {
       paper({ id: "guide", publicationTypes: ["Practice Guideline"] }),
       paper({ id: "correction", title: "Correction: preeclampsia treatment" }),
       paper({ id: "retracted", publicationTypes: ["Retracted Publication"] }),
+      paper({ id: "protocol", title: "Protocol for a preeclampsia cohort", publicationTypes: ["Study Protocol"] }),
+      paper({ id: "editorial", title: "Preeclampsia editorial", publicationTypes: ["Editorial"] }),
+      paper({ id: "comment", title: "Comment on preeclampsia care", publicationTypes: ["Comment"] }),
     ],
     config([topic()]),
     NOW,
   );
   assert.deepEqual(selected, []);
+});
+
+test("requires an OB-GYN domain anchor in addition to a broad interest phrase", () => {
+  const surgeryTopic = topic({ id: "surgery", includeKeywords: ["surgical outcomes"] });
+  const diabetesTopic = topic({ id: "mfm", includeKeywords: ["gestational diabetes"] });
+  const noisy = [
+    paper({
+      id: "running",
+      title: "Diabetes Mellitus and Long-Distance Running",
+      abstract: "Patients with gestational diabetes were excluded from this endurance review.",
+      publicationTypes: ["Systematic Review"],
+    }),
+    paper({
+      id: "neonatal-surgery",
+      title: "Surgical outcomes in extremely preterm neonates",
+      abstract: "A pediatric surgical database study compared postoperative neonatal outcomes.",
+      publicationTypes: ["Journal Article"],
+    }),
+  ];
+  const noisyConfig = config([diabetesTopic, surgeryTopic]);
+  noisyConfig.domainKeywords = ["pregnancy", "maternal", "obstetric", "gynecologic"];
+  assert.deepEqual(selectResearchPapers(noisy, noisyConfig, NOW), []);
 });

@@ -11,7 +11,12 @@ function formatPubMedDate(date: Date): string {
   return `${year}/${month}/${day}`;
 }
 
-export function buildPubMedQuery(topics: ResearchTopic[], from: Date, to: Date): string {
+export function buildPubMedQuery(
+  topics: ResearchTopic[],
+  domainKeywords: string[],
+  from: Date,
+  to: Date,
+): string {
   const keywords = [...new Set(
     topics
       .filter((topic) => topic.enabled)
@@ -19,8 +24,12 @@ export function buildPubMedQuery(topics: ResearchTopic[], from: Date, to: Date):
       .filter(Boolean),
   )];
   if (keywords.length === 0) throw new Error("[research:pubmed] no enabled interest keywords");
+  if (domainKeywords.length === 0) throw new Error("[research:pubmed] no OB-GYN domain keywords");
   const interests = keywords.map((keyword) => `${keyword}[Title/Abstract]`).join(" OR ");
-  return `((${interests})) AND ${formatPubMedDate(from)}:${formatPubMedDate(to)}[EDAT]`;
+  const domain = [...new Set(domainKeywords.map((keyword) => keyword.trim()).filter(Boolean))]
+    .map((keyword) => `${keyword}[Title/Abstract]`)
+    .join(" OR ");
+  return `((${interests})) AND (${domain}) AND ${formatPubMedDate(from)}:${formatPubMedDate(to)}[EDAT]`;
 }
 
 function decodeXml(value: string): string {
@@ -147,6 +156,7 @@ async function fetchOk(url: URL, fetchImpl: typeof fetch): Promise<Response> {
 
 export async function fetchPubMedPapers(args: {
   topics: ResearchTopic[];
+  domainKeywords: string[];
   from: Date;
   to: Date;
   fetchImpl?: typeof fetch;
@@ -163,7 +173,7 @@ export async function fetchPubMedPapers(args: {
   const searchUrl = new URL(`${baseUrl}/esearch.fcgi`);
   Object.entries({
     ...common,
-    term: buildPubMedQuery(args.topics, args.from, args.to),
+    term: buildPubMedQuery(args.topics, args.domainKeywords, args.from, args.to),
     datetype: "edat",
     retmode: "json",
     retmax: "200",

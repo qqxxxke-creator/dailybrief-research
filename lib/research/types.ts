@@ -31,6 +31,7 @@ export interface ResearchRuntimeConfig {
 
 export interface ResearchConfig {
   schemaVersion: 1;
+  domainKeywords: string[];
   runtime: ResearchRuntimeConfig;
   sources: ResearchSourceConfig[];
   topics: ResearchTopic[];

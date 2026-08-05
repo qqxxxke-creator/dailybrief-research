@@ -19,6 +19,7 @@ const NOW = new Date("2026-08-05T12:00:00.000Z");
 function config(enabled = true): ResearchConfig {
   return {
     schemaVersion: 1,
+    domainKeywords: ["preeclampsia", "pregnancy", "maternal"],
     runtime: {
       enabled,
       clearCache: false,

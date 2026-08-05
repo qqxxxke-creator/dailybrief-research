@@ -190,6 +190,17 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      # Incremental paper discovery overlaps the previous successful run by
+      # 48 hours. actions/cache preserves that cursor without publishing the
+      # mutable cache file as part of the static site.
+      - name: Restore research cache
+        uses: actions/cache@v4
+        with:
+          path: data/research/research-cache.json
+          key: research-${{ runner.os }}-${{ github.ref_name }}-${{ github.run_id }}
+          restore-keys: |
+            research-${{ runner.os }}-${{ github.ref_name }}-
+
       # Bring previous reports into the workspace so they survive each run
       # and so build-site can list them all in the archive.
       - name: Restore existing reports from gh-pages
@@ -230,6 +241,13 @@ jobs:
           LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}
           REPORT_LOCALE: ${{ vars.REPORT_LOCALE || 'zh' }}
           REPORT_TZ: ${{ vars.REPORT_TZ }}
+          RESEARCH_ENABLED: ${{ vars.RESEARCH_ENABLED || 'true' }}
+          RESEARCH_LOOKBACK_DAYS: ${{ vars.RESEARCH_LOOKBACK_DAYS || '7' }}
+          MAX_RESEARCH_PAPERS: ${{ vars.MAX_RESEARCH_PAPERS || '5' }}
+          RESEARCH_CACHE_DAYS: ${{ vars.RESEARCH_CACHE_DAYS || '30' }}
+          CLEAR_RESEARCH_CACHE: ${{ vars.CLEAR_RESEARCH_CACHE || 'false' }}
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+          NCBI_EMAIL: ${{ vars.NCBI_EMAIL }}
           WEB_MODE: 'true'
         run: npm run daily
 
