@@ -25,10 +25,13 @@ import {
  * this object so adding a third locale = adding one more table.
  */
 const TEXTS_ZH = {
-  siteTitle: "每日简报",
-  catTech: "技术动态",
-  catFinance: "财经要点",
-  catPolitics: "时政观察",
+  siteTitle: "妇产科医学晨报",
+  catTech: "指南与共识更新",
+  catFinance: "妇产科手术前沿",
+  catPolitics: "妇产科专业动态",
+  catInternational: "国际妇产科动态",
+  catChina: "国内妇产科动态",
+  highlightsTitle: "今日妇产科要闻",
   catTrading: "市场行情",
   catCommunity: "社区讨论",
   subAiNews: "AI 媒体",
@@ -42,9 +45,9 @@ const TEXTS_ZH = {
   subWorld: "国际要闻",
   subOverseasNews: "海外科技",
   subOverseas: "海外",
-  emptySource: "该源今日无内容。",
-  emptyCategory: "该分类今日无内容。",
-  emptyGroup: "该组今日无数据。",
+  emptySource: "过去24小时暂无符合质量要求的重要更新。",
+  emptyCategory: "过去24小时暂无符合质量要求的重要更新。",
+  emptyGroup: "过去24小时暂无符合质量要求的重要更新。",
   footer: "内容均来自原媒体，本站仅作摘要整理与回链。",
   summaryLabelNews: "中文摘要",
   summaryLabelIntro: "中文介绍",
@@ -71,7 +74,7 @@ const TEXTS_ZH = {
   mdTodayKeywords: "今日关键词",
   mdImportance: "重要度",
   archiveLink: "← 历史归档",
-  researchTitle: "研究前沿追踪",
+  researchTitle: "研究前沿论文",
   researchCached: "缓存数据",
   researchDataAsOf: "数据截至",
   researchScore: "综合评分",
@@ -86,16 +89,19 @@ const TEXTS_ZH = {
   researchLimitations: "局限性",
   researchClinical: "临床解读",
   researchSummaryFailed: "中文摘要生成失败，请通过原文链接查看论文信息。",
-  researchEmpty: "今日无符合阈值的新论文。",
+  researchEmpty: "过去24小时暂无符合质量要求的重要更新。",
   researchPmid: "PMID",
   researchDoi: "DOI",
 };
 
 const TEXTS_EN: typeof TEXTS_ZH = {
-  siteTitle: "Daily Brief",
+  siteTitle: "OB-GYN Medical Morning Brief",
   catTech: "Tech",
   catFinance: "Finance",
   catPolitics: "World",
+  catInternational: "International OB-GYN",
+  catChina: "China OB-GYN",
+  highlightsTitle: "Today's OB-GYN Highlights",
   catTrading: "Markets",
   catCommunity: "Community",
   subAiNews: "AI Media",
@@ -202,21 +208,16 @@ const CATEGORY_DIGEST_LABELS: Record<Category, string> = {
  * L2 ordering per category. Categories not listed render flat (no L2 tabs).
  */
 const SUBCATEGORY_ORDER: Partial<Record<Category, string[]>> = {
-  // cn-community + overseas-community are listed last so the L1 "community"
-  // panel (rendered separately via TECH_COMMUNITY_SUBS) can extract them.
-  // Within the "tech" L1 panel itself, COMMUNITY_SUBS is filtered out.
-  // Locale filtering at registry level decides which actually appears:
-  // zh mode keeps cn-community (V2EX / LinuxDo); en mode keeps
-  // overseas-community (Hacker News / r/stocks).
-  tech: ["github-trending", "trending-papers", "x-viral", "ai-news", "cn-community", "overseas-community"],
-  finance: ["news"],
-  politics: ["world"],
+  tech: ["guidelines"],
+  finance: ["surgery"],
+  politics: ["international-obgyn", "china-obgyn"],
 };
 
-const TECH_MAIN_SUBS = new Set(["github-trending", "trending-papers", "x-viral", "ai-news"]);
-const TECH_COMMUNITY_SUBS = new Set(["cn-community", "overseas-community"]);
-
 const SUBCATEGORY_LABELS: Record<string, string> = {
+  guidelines: STR.catTech,
+  surgery: STR.catFinance,
+  "international-obgyn": STR.catInternational,
+  "china-obgyn": STR.catChina,
   "github-trending": "GitHub Trending",
   "trending-papers": STR.subTrendingPapers,
   "cn-community": STR.subCnCommunity,
@@ -237,10 +238,10 @@ const SUBCATEGORY_LABELS: Record<string, string> = {
  * finance:news, politics:world) ignore this — they use MERGED_SUBGROUP_LIMITS.
  */
 const SOURCE_DISPLAY_LIMITS: Record<string, number> = {
-  "tech:github-trending": 20,
-  "tech:cn-community": 10,
-  "tech:x-viral": 20,
-  "tech:trending-papers": 20,
+  "tech:guidelines": 4,
+  "finance:surgery": 4,
+  "politics:international-obgyn": 5,
+  "politics:china-obgyn": 5,
 };
 
 /**
@@ -276,9 +277,6 @@ function displayLimitFor(
  * Exported so daily.ts can read the cap to keep enrichment in sync.
  */
 export const MERGED_SUBGROUP_LIMITS: Record<string, number> = {
-  "tech:ai-news": 15,
-  "finance:news": 12,
-  "politics:world": 15,
 };
 
 /**
@@ -532,6 +530,9 @@ function renderSourceTabs(
 }
 
 function renderSubContent(category: Category, sub: SubGroup, isActive: boolean): string {
+  if (sub.sources.length === 0) {
+    return `<div class="sub-content${isActive ? " active" : ""}" data-sub-content="${escapeHtml(sub.id)}" data-cat="${category}"><p class="empty">${STR.emptyCategory}</p></div>`;
+  }
   return `<div class="sub-content${isActive ? " active" : ""}" data-sub-content="${escapeHtml(sub.id)}" data-cat="${category}">
     ${renderSourceTabs(category, sub.id, sub.sources)}
     <div class="source-contents">
@@ -629,21 +630,95 @@ function renderResearchSection(section: ResearchSection): string {
   </section>`;
 }
 
+function renderResearchUnavailable(): string {
+  return `<section class="research-section">
+    <div class="research-section-head">
+      <div><span class="eyebrow">Research Intelligence</span><h2>${STR.researchTitle}</h2></div>
+    </div>
+    <p class="research-empty">${STR.researchEmpty}</p>
+  </section>`;
+}
+
+function renderBriefHtml(item: BriefItem): string {
+  const tone = item.importance >= 8 ? "high" : item.importance >= 6 ? "mid" : "low";
+  return `<article class="brief">
+    <div class="brief-head">
+      <span class="brief-source">${escapeHtml(item.source)}</span>
+      <span class="brief-rank ${tone}">${item.importance}/10</span>
+    </div>
+    <h3 class="brief-title"><a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.title)}</a></h3>
+    <p class="brief-summary">${escapeHtml(item.summary)}</p>
+  </article>`;
+}
+
+function renderTopSummary(report: DailyReport): string {
+  const highlights = [
+    ...report.tech_briefs,
+    ...report.finance_briefs,
+    ...report.politics_briefs,
+  ]
+    .sort((a, b) => b.importance - a.importance)
+    .slice(0, 5);
+  const highlightBody = highlights.length
+    ? `<div class="brief-list">${highlights.map(renderBriefHtml).join("\n")}</div>`
+    : `<p class="empty">${STR.emptyCategory}</p>`;
+  const keywords = report.keywords.length
+    ? report.keywords.map((keyword) => `<span class="keyword">#${escapeHtml(keyword)}</span>`).join("")
+    : `<span class="empty">${STR.emptyCategory}</span>`;
+
+  return `<section class="hero-card">
+    <span class="hero-eyebrow">${STR.highlightsTitle}</span>
+    <p class="hero-headline">${escapeHtml(report.hero_headline || STR.emptyCategory)}</p>
+  </section>
+  <section class="overview-card">
+    <span class="eyebrow">${STR.mdTodayOverview}</span>
+    <p class="overview-text">${escapeHtml(report.daily_overview || STR.emptyCategory)}</p>
+  </section>
+  <section class="digest-category">
+    <div class="category-header"><h2 class="category-title">${STR.highlightsTitle}</h2><span class="category-count">${highlights.length}</span></div>
+    ${highlightBody}
+  </section>
+  <section class="editor-card">
+    <span class="eyebrow">${STR.mdEditorNote}</span>
+    <p class="editor-text">${escapeHtml(report.editor_note || STR.emptyCategory)}</p>
+  </section>
+  <span class="eyebrow">${STR.mdTodayKeywords}</span>
+  <div class="keywords">${keywords}</div>`;
+}
+
 // ----- top-level renderer -----
+
+function reportForRaw(report: DailyReport, raw: RawByCategory): DailyReport {
+  const allowedUrls = new Set(
+    [...raw.tech, ...raw.finance, ...raw.politics].flatMap((sub) =>
+      sub.sources.flatMap((source) => source.items.map((item) => item.url)),
+    ),
+  );
+  const techBriefs = report.tech_briefs.filter((item) => allowedUrls.has(item.url));
+  const financeBriefs = report.finance_briefs.filter((item) => allowedUrls.has(item.url));
+  const politicsBriefs = report.politics_briefs.filter((item) => allowedUrls.has(item.url));
+  if (techBriefs.length + financeBriefs.length + politicsBriefs.length > 0) {
+    return { ...report, tech_briefs: techBriefs, finance_briefs: financeBriefs, politics_briefs: politicsBriefs };
+  }
+  return {
+    ...report,
+    hero_headline: STR.emptyCategory,
+    daily_overview: STR.emptyCategory,
+    tech_briefs: [],
+    finance_briefs: [],
+    politics_briefs: [],
+    editor_note: STR.emptyCategory,
+    keywords: [],
+  };
+}
 
 export function renderHtml(
   report: DailyReport,
   raw: RawByCategory,
   date: string,
 ): string {
-  const trading = report.trading;
-
-  // Split tech raw subgroups: "tech" L1 panel (github-trending + ai-news)
-  // vs. "community" L1 panel (cn-community). Keeps the registry simple
-  // (V2EX/LinuxDo still live under category=tech) while exposing the
-  // forums as their own top-level tab per UX preference.
-  const techMainSubs = raw.tech.filter((s) => TECH_MAIN_SUBS.has(s.id));
-  const techCommunitySubs = raw.tech.filter((s) => TECH_COMMUNITY_SUBS.has(s.id));
+  const internationalSubs = raw.politics.filter((sub) => sub.id === "international-obgyn");
+  const chinaSubs = raw.politics.filter((sub) => sub.id === "china-obgyn");
 
   const sumItems = (subs: SubGroup[]) =>
     subs.reduce(
@@ -651,11 +726,12 @@ export function renderHtml(
       0,
     );
   const counts = {
-    tech: sumItems(techMainSubs),
+    tech: sumItems(raw.tech),
     finance: sumItems(raw.finance),
-    politics: sumItems(raw.politics),
-    community: sumItems(techCommunitySubs),
+    international: sumItems(internationalSubs),
+    china: sumItems(chinaSubs),
   };
+  const safeReport = reportForRaw(report, raw);
 
   return `<!doctype html>
 <html lang="${REPORT_LOCALE === "en" ? "en" : "zh-CN"}">
@@ -1336,29 +1412,29 @@ export function renderHtml(
     ${process.env.WEB_MODE === "true" ? `<a class="archive-link" href="../archive.html">${STR.archiveLink}</a>` : ""}
   </header>
 
+  ${renderTopSummary(safeReport)}
+
   <nav class="tabs" role="tablist">
     <button class="tab active" data-tab="tech">${CATEGORY_LABELS.tech}<span class="count">${counts.tech}</span></button>
-    ${trading ? `<button class="tab" data-tab="trading">${STR.catTrading}<span class="count">${trading.tickers.length}</span></button>` : ""}
-    <button class="tab" data-tab="politics">${CATEGORY_LABELS.politics}<span class="count">${counts.politics}</span></button>
     <button class="tab" data-tab="finance">${CATEGORY_LABELS.finance}<span class="count">${counts.finance}</span></button>
-    ${techCommunitySubs.length > 0 ? `<button class="tab" data-tab="community">${STR.catCommunity}<span class="count">${counts.community}</span></button>` : ""}
+    <button class="tab" data-tab="international-obgyn">${STR.catInternational}<span class="count">${counts.international}</span></button>
+    <button class="tab" data-tab="china-obgyn">${STR.catChina}<span class="count">${counts.china}</span></button>
   </nav>
 
   <section class="panel active" data-panel="tech">
-    ${renderRawCategoryPanel("tech", techMainSubs)}
-  </section>
-  ${trading ? `<section class="panel" data-panel="trading">${renderTradingPanel(trading)}</section>` : ""}
-  <section class="panel" data-panel="politics">
-    ${renderRawCategoryPanel("politics", raw.politics)}
+    ${renderRawCategoryPanel("tech", raw.tech)}
   </section>
   <section class="panel" data-panel="finance">
     ${renderRawCategoryPanel("finance", raw.finance)}
   </section>
-  ${techCommunitySubs.length > 0 ? `<section class="panel" data-panel="community">
-    ${renderRawCategoryPanel("tech", techCommunitySubs)}
-  </section>` : ""}
+  <section class="panel" data-panel="international-obgyn">
+    ${renderRawCategoryPanel("politics", internationalSubs)}
+  </section>
+  <section class="panel" data-panel="china-obgyn">
+    ${renderRawCategoryPanel("politics", chinaSubs)}
+  </section>
 
-  ${report.research ? renderResearchSection(report.research) : ""}
+  ${report.research ? renderResearchSection(report.research) : renderResearchUnavailable()}
 
   <footer>
     ${STR.footer}
@@ -1640,7 +1716,7 @@ function renderBriefMarkdown(b: BriefItem): string {
 }
 
 function renderSectionMarkdown(title: string, briefs: BriefItem[]): string {
-  if (briefs.length === 0) return "";
+  if (briefs.length === 0) return `## ${title}\n\n${STR.emptyCategory}\n`;
   return `## ${title}\n\n${briefs.map(renderBriefMarkdown).join("\n")}\n`;
 }
 
@@ -1677,7 +1753,8 @@ function renderResearchMarkdown(section: ResearchSection): string {
   return lines.join("\n");
 }
 
-export function renderMarkdown(report: DailyReport, date: string): string {
+export function renderMarkdown(report: DailyReport, date: string, raw?: RawByCategory): string {
+  if (raw) report = reportForRaw(report, raw);
   const blocks: string[] = [];
   blocks.push(`# ${STR.siteTitle} · ${date}\n`);
   if (report.hero_headline) blocks.push(`> ${report.hero_headline}\n`);
@@ -1693,12 +1770,25 @@ export function renderMarkdown(report: DailyReport, date: string): string {
       report.finance_briefs,
     ),
   );
-  blocks.push(
-    renderSectionMarkdown(
-      CATEGORY_DIGEST_LABELS.politics,
-      report.politics_briefs,
-    ),
-  );
+  if (raw) {
+    const urlsFor = (subcategory: string) => new Set(
+      raw.politics
+        .filter((sub) => sub.id === subcategory)
+        .flatMap((sub) => sub.sources.flatMap((source) => source.items.map((item) => item.url))),
+    );
+    const internationalUrls = urlsFor("international-obgyn");
+    const chinaUrls = urlsFor("china-obgyn");
+    blocks.push(renderSectionMarkdown(
+      STR.catInternational,
+      report.politics_briefs.filter((item) => internationalUrls.has(item.url)),
+    ));
+    blocks.push(renderSectionMarkdown(
+      STR.catChina,
+      report.politics_briefs.filter((item) => chinaUrls.has(item.url)),
+    ));
+  } else {
+    blocks.push(renderSectionMarkdown(CATEGORY_DIGEST_LABELS.politics, report.politics_briefs));
+  }
   if (report.editor_note) {
     blocks.push(`## ${STR.mdEditorNote}\n\n${report.editor_note}\n`);
   }
@@ -1709,6 +1799,8 @@ export function renderMarkdown(report: DailyReport, date: string): string {
   }
   if (report.research) {
     blocks.push(renderResearchMarkdown(report.research));
+  } else {
+    blocks.push(`## ${STR.researchTitle}\n\n${STR.researchEmpty}\n`);
   }
   return blocks.filter(Boolean).join("\n");
 }

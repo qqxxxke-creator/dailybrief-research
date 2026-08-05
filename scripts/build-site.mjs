@@ -16,11 +16,27 @@
 import fs from "node:fs";
 import path from "node:path";
 
-const ROOT = "daily_reports";
+const ROOT = process.env.DAILY_REPORTS_DIR || "daily_reports";
 
 if (!fs.existsSync(ROOT)) {
   console.error(`[build-site] ${ROOT}/ doesn't exist — run \`npm run daily\` first.`);
   process.exit(1);
+}
+
+// Remove pre-cutover general-news reports from the publish copy. Git history
+// remains recoverable, but prohibited tech/finance/politics pages are no
+// longer reachable from GitHub Pages after the OB-GYN cutover.
+for (const date of fs.readdirSync(ROOT).filter((entry) => /^\d{4}-\d{2}-\d{2}$/.test(entry))) {
+  const directory = path.resolve(ROOT, date);
+  const rootResolved = `${path.resolve(ROOT)}${path.sep}`;
+  if (!directory.startsWith(rootResolved)) continue;
+  const reportPath = path.join(directory, `${date}.html`);
+  if (!fs.existsSync(reportPath)) continue;
+  const html = fs.readFileSync(reportPath, "utf8");
+  if (!/<title>(?:妇产科医学晨报|OB-GYN Medical Morning Brief)/i.test(html)) {
+    fs.rmSync(directory, { recursive: true, force: true });
+    console.log(`[build-site] removed legacy non-OB-GYN report ${date}`);
+  }
 }
 
 // Pick up every <YYYY-MM-DD>/<YYYY-MM-DD>.html, newest first.
@@ -53,10 +69,10 @@ const rows = dates
   .join("\n");
 
 const archiveHtml = `<!doctype html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
 <meta charset="utf-8">
-<title>daily-brief — archive</title>
+<title>妇产科医学晨报 — 历史归档</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
   :root { color-scheme: light dark; }
@@ -95,10 +111,10 @@ const archiveHtml = `<!doctype html>
 </style>
 </head>
 <body>
-  <h1>daily-brief — archive</h1>
-  <p class="meta">${dates.length} report${dates.length === 1 ? "" : "s"} · newest first · generated ${new Date().toISOString().slice(0, 10)}</p>
+  <h1>妇产科医学晨报 — 历史归档</h1>
+  <p class="meta">共 ${dates.length} 期 · 最新优先 · 生成于 ${new Date().toISOString().slice(0, 10)}</p>
   <div class="top">
-    <a href="./index.html">→ Latest report (${latest})</a>
+    <a href="./index.html">→ 最新一期 (${latest})</a>
   </div>
   <ul>
 ${rows}

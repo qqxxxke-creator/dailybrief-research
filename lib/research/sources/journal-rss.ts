@@ -2,6 +2,7 @@ import { load } from "cheerio";
 import Parser from "rss-parser";
 
 import { normalizeDoi, normalizeTitle } from "../normalize";
+import { classifyGocmItem } from "../../sources/gocm-classification";
 import type {
   ResearchFetchResult,
   ResearchPaper,
@@ -18,6 +19,7 @@ interface RssItem {
   creator?: string;
   dcCreator?: string;
   dcIdentifier?: string;
+  prismSection?: string;
   description?: string;
   content?: string;
   contentEncoded?: string;
@@ -40,6 +42,7 @@ function defaultParser(): RssParser {
         ["content:encoded", "contentEncoded"],
         ["dc:creator", "dcCreator"],
         ["dc:identifier", "dcIdentifier"],
+        ["prism:section", "prismSection"],
         ["atom:updated", "updated"],
       ],
     },
@@ -82,6 +85,10 @@ function mapItem(
   const url = item.link?.trim() ?? item.guid?.trim();
   if (!title || !url) {
     increment(rejected, "missingIdentity");
+    return undefined;
+  }
+  if (source.id === "gocm-rss" && classifyGocmItem(item.prismSection, title) !== "research") {
+    increment(rejected, "routedToGuidelineOrSurgery");
     return undefined;
   }
 

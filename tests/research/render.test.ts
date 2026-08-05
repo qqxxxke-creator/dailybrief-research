@@ -75,7 +75,7 @@ test("renders the research section after all panels and before the footer", () =
   const footerIndex = html.indexOf("<footer>");
   assert.ok(panelIndex < researchIndex);
   assert.ok(researchIndex < footerIndex);
-  assert.match(html, /研究前沿追踪/);
+  assert.match(html, /研究前沿论文/);
   assert.match(html, /缓存数据/);
   assert.match(html, /98\.75/);
   assert.match(html, /PMID 123/);
@@ -91,13 +91,15 @@ test("escapes research content and URLs", () => {
 
 test("puts research last in Markdown", () => {
   const markdown = renderMarkdown({ ...baseReport(), research: research() }, "2026-08-05");
-  assert.ok(markdown.indexOf("## 研究前沿追踪") > markdown.indexOf("## 今日关键词"));
+  assert.ok(markdown.indexOf("## 研究前沿论文") > markdown.indexOf("## 今日关键词"));
   assert.match(markdown, /### \[中文论文题名\]/);
   assert.match(markdown, /英文题名：English <b>paper<\/b> title/);
 });
 
-test("keeps old reports unchanged and renders an explicit empty state", () => {
-  assert.doesNotMatch(renderHtml(baseReport(), raw, "2026-08-05"), /研究前沿追踪/);
+test("renders the required research panel with an explicit empty state", () => {
+  const unavailable = renderHtml(baseReport(), raw, "2026-08-05");
+  assert.match(unavailable, /研究前沿论文/);
+  assert.match(unavailable, /过去24小时暂无符合质量要求的重要更新/);
   const html = renderHtml({ ...baseReport(), research: research(0) }, raw, "2026-08-05");
-  assert.match(html, /今日无符合阈值的新论文/);
+  assert.match(html, /过去24小时暂无符合质量要求的重要更新/);
 });

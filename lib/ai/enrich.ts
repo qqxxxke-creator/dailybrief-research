@@ -2,6 +2,7 @@ import { jsonrepair } from "jsonrepair";
 import { runLlm } from "./llm";
 import { extractJson } from "./json-util";
 import { REPORT_LOCALE } from "../sources/registry";
+import type { ArticleInput } from "./pipeline";
 
 interface EnrichInput {
   url: string;
@@ -365,4 +366,136 @@ export async function enrichTrendingPapersSummaries(
     excerpt: (it.excerpt ?? "").slice(0, 300),
   }));
   return runEnrichment(payload, PROMPTS.papers, "papers summaries");
+}
+
+const OBGYN_REVIEW_SYSTEM_PROMPT_ZH = `你是一名严谨的妇产科医学编辑，负责对候选窗口内的内容做最终语义复核。
+
+逐条判断：
+1. 是否直接属于妇产科、女性生殖健康、母胎医学、生殖医学、妇科肿瘤、盆底或妇科手术；
+2. 是否来自可靠专业来源，并具有临床、学术、监管或行业价值；
+3. 是否只是普通健康科普、医院宣传、活动报名、商业广告或与妇产科无关的综合内容。
+
+只有同时满足前两项且不属于第三项时 accepted=true。不得为了填满栏目而放宽标准。信息不足时 accepted=false。
+对 accepted=true 的条目生成50-100字中文事实摘要，保留关键变化、数据和临床意义，不编造全文未提供的信息。
+
+严格输出 JSON：
+{"reviews":[{"url":"输入原链接","accepted":true,"summary":"中文事实摘要","reason":"简短判断依据"}]}`;
+
+const OBGYN_REVIEW_SYSTEM_PROMPT_EN = `You are a rigorous obstetrics and gynecology medical editor performing the final semantic review.
+Accept an item only when it is directly related to OB-GYN or female reproductive health, comes from a reliable professional source, and has clinical, academic, regulatory, or professional value.
+Reject patient education, hospital promotion, event registration, advertising, and unrelated general health content. Never relax the standard to fill a section. When evidence is insufficient, accepted=false.
+For accepted items, write a concise factual English summary without inventing information absent from the input.
+Return strict JSON: {"reviews":[{"url":"exact input URL","accepted":true,"summary":"English factual summary","reason":"brief rationale"}]}`;
+
+const OBGYN_REVIEW_SYSTEM_PROMPT =
+  REPORT_LOCALE === "en" ? OBGYN_REVIEW_SYSTEM_PROMPT_EN : OBGYN_REVIEW_SYSTEM_PROMPT_ZH;
+
+export function buildObgynReviewUserPrompt(items: ArticleInput[]): string {
+  const payload = items.map((item) => ({
+    url: item.url,
+    title: item.title,
+    source: item.source,
+    category: item.category,
+    excerpt: (item.excerpt ?? "").slice(0, 500),
+    publishedAt: item.publishedAt?.toISOString() ?? "",
+  }));
+  if (REPORT_LOCALE === "en") {
+    return [
+      "Assess each item for direct OB-GYN relevance and professional value.",
+      "Reject hospital promotion, patient education, event registration, advertising, and all non-OB-GYN content.",
+      "Any item not explicitly returned with accepted=true is rejected.",
+      JSON.stringify(payload),
+    ].join("\n");
+  }
+  return [
+    "请逐条判断是否直接属于妇产科领域，且具有专业价值。",
+    "医院宣传、普通患者科普、活动报名、商业广告和任何非妇产科内容必须拒绝。",
+    "未在 reviews 中明确 accepted=true 的条目视为拒绝。",
+    JSON.stringify(payload),
+  ].join("\n");
+}
+
+export function capObgynReviewCandidates(
+  candidates: ArticleInput[],
+  totalLimit = 60,
+  perSourceLimit = 8,
+): ArticleInput[] {
+  const queues = new Map<string, ArticleInput[]>();
+  for (const candidate of candidates) {
+    const queue = queues.get(candidate.sourceId) ?? [];
+    if (queue.length < perSourceLimit) queue.push(candidate);
+    queues.set(candidate.sourceId, queue);
+  }
+  const selected: ArticleInput[] = [];
+  while (selected.length < totalLimit) {
+    let added = false;
+    for (const queue of queues.values()) {
+      const next = queue.shift();
+      if (!next) continue;
+      selected.push(next);
+      added = true;
+      if (selected.length >= totalLimit) break;
+    }
+    if (!added) break;
+  }
+  return selected;
+}
+
+export function parseObgynReviewResponse(
+  candidates: ArticleInput[],
+  responseText: string,
+): ArticleInput[] {
+  const byUrl = new Map(candidates.map((item) => [item.url, item]));
+  const cleaned = extractJson(responseText);
+  let parsed: { reviews?: Array<{ url?: string; accepted?: boolean; summary?: string }> };
+  try {
+    parsed = JSON.parse(cleaned);
+  } catch {
+    parsed = JSON.parse(jsonrepair(cleaned));
+  }
+
+  const accepted: ArticleInput[] = [];
+  const seen = new Set<string>();
+  for (const review of parsed.reviews ?? []) {
+    if (!review.url || !review.accepted || !review.summary?.trim() || seen.has(review.url)) continue;
+    const candidate = byUrl.get(review.url);
+    if (!candidate) continue;
+    seen.add(review.url);
+    accepted.push({ ...candidate, summary: review.summary.trim() });
+  }
+  return accepted;
+}
+
+export async function reviewObgynCandidates(
+  candidates: ArticleInput[],
+  dependencies: { run?: typeof runLlm } = {},
+): Promise<ArticleInput[]> {
+  if (candidates.length === 0) return [];
+  const run = dependencies.run ?? runLlm;
+  const bounded = capObgynReviewCandidates(candidates);
+  if (bounded.length < candidates.length) {
+    console.warn(`[enrich] capped OB-GYN semantic review at ${bounded.length}/${candidates.length} candidates`);
+  }
+  const accepted: ArticleInput[] = [];
+  const chunkSize = 30;
+  let successfulChunks = 0;
+  for (let index = 0; index < bounded.length; index += chunkSize) {
+    const chunk = bounded.slice(index, index + chunkSize);
+    try {
+      const { text } = await run({
+        systemPrompt: OBGYN_REVIEW_SYSTEM_PROMPT,
+        userPrompt: buildObgynReviewUserPrompt(chunk),
+        timeoutMs: 90_000,
+      });
+      accepted.push(...parseObgynReviewResponse(chunk, text));
+      successfulChunks += 1;
+    } catch (error) {
+      const message = error instanceof Error ? error.message : String(error);
+      console.warn(`[enrich] OB-GYN semantic review chunk failed; dropping ${chunk.length} unreviewed items: ${message}`);
+    }
+  }
+  if (successfulChunks === 0) {
+    throw new Error(`[enrich] all OB-GYN semantic review chunks failed for ${bounded.length} candidates`);
+  }
+  return accepted;
 }

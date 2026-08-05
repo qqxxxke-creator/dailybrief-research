@@ -46,6 +46,14 @@ export interface SourceDef {
    * Omit or leave empty to return all items unfiltered.
    */
   keywords?: string[];
+  /** Optional source-specific exclusions from the OB-GYN manifest. */
+  excludeKeywords?: string[];
+  /** Per-source freshness window. News defaults to 24h; guidelines use 168h. */
+  lookbackHours?: number;
+  /** Additional hostnames allowed for links emitted by an HTML source. */
+  allowedHosts?: string[];
+  /** Optional explicit query for API-backed sources such as PubMed. */
+  query?: string;
 }
 
 export interface RawArticle {

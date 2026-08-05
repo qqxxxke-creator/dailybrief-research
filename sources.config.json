@@ -1,676 +1,351 @@
 [
   {
-    "id": "github-trending",
-    "name": "GitHub Trending",
+    "id": "acog-clinical-guidance",
+    "name": "ACOG Clinical Guidance",
     "type": "scrape",
-    "url": "https://github.com/trending",
+    "url": "https://www.acog.org/clinical/clinical-guidance",
     "category": "tech",
-    "subcategory": "github-trending",
+    "subcategory": "guidelines",
     "enabled": true,
-    "locales": [
-      "zh",
-      "en"
-    ]
+    "lang": "en",
+    "locales": ["zh", "en"],
+    "keywords": ["Clinical Practice Guideline", "Clinical Practice Update", "Clinical Consensus", "Practice Advisory", "Committee Statement", "Obstetric Care Consensus", "ACOG Endorsed"],
+    "excludeKeywords": ["patient education", "careers", "membership"]
   },
   {
-    "id": "v2ex-hot",
-    "name": "V2EX",
-    "type": "api",
-    "url": "https://www.v2ex.com/api/topics/show.json",
+    "id": "rcog-guidance",
+    "name": "RCOG Guidance",
+    "type": "scrape",
+    "url": "https://www.rcog.org.uk/guidance/browse-all-guidance/",
     "category": "tech",
-    "subcategory": "cn-community",
+    "subcategory": "guidelines",
     "enabled": true,
-    "locales": [
-      "zh"
-    ]
+    "lang": "en",
+    "locales": ["zh", "en"],
+    "keywords": ["Green-top Guidelines", "Scientific Impact Papers", "Good Practice Papers", "Consent Advice", "Patient safety alerts"],
+    "excludeKeywords": ["historical unchanged documents"]
   },
   {
-    "id": "linuxdo",
-    "name": "LinuxDo",
-    "type": "rss",
-    "url": "https://linux.do/top.rss?period=daily",
+    "id": "who-maternal-health",
+    "name": "WHO Maternal Health",
+    "type": "scrape",
+    "url": "https://www.who.int/health-topics/maternal-health",
     "category": "tech",
-    "subcategory": "cn-community",
+    "subcategory": "guidelines",
     "enabled": true,
-    "locales": [
-      "zh"
-    ],
-    "notes": "Discourse RSS feed; fetcher falls back to /latest.rss if /top.rss fails"
+    "lang": "en",
+    "locales": ["zh", "en"],
+    "keywords": ["Latest publications", "recommendations", "implementation guides", "technical updates"],
+    "excludeKeywords": ["static background text without a new date"]
   },
   {
-    "id": "juejin",
-    "name": "掘金",
-    "type": "rss",
-    "url": "https://juejin.cn/rss",
+    "id": "nice-fertility-pregnancy",
+    "name": "NICE Fertility, Pregnancy and Childbirth",
+    "type": "scrape",
+    "url": "https://www.nice.org.uk/guidance/conditions-and-diseases/fertility-pregnancy-and-childbirth",
     "category": "tech",
-    "subcategory": "cn-community",
+    "subcategory": "guidelines",
+    "enabled": true,
+    "lang": "en",
+    "locales": ["zh", "en"],
+    "keywords": ["new in the last 6 months", "updated in the last 6 months", "in development", "NICE guideline", "technology appraisal", "HealthTech guidance"],
+    "excludeKeywords": ["unchanged historical guidance"]
+  },
+  {
+    "id": "smfm-publications",
+    "name": "SMFM Publications and Clinical Guidelines",
+    "type": "scrape",
+    "url": "https://publications.smfm.org/publications/",
+    "category": "tech",
+    "subcategory": "guidelines",
+    "enabled": true,
+    "lang": "en",
+    "locales": ["zh", "en"],
+    "keywords": ["Consult Series", "Clinical Guidelines", "Statement", "Special Statement", "Endorsed Partner Publication"],
+    "excludeKeywords": ["old unchanged publications"]
+  },
+  {
+    "id": "asrm-practice-guidance",
+    "name": "ASRM Practice Guidance",
+    "type": "scrape",
+    "url": "https://www.asrm.org/practice-guidance/",
+    "category": "tech",
+    "subcategory": "guidelines",
     "enabled": false,
-    "locales": [
-      "zh"
-    ]
+    "lang": "en",
+    "locales": ["zh", "en"],
+    "keywords": ["Practice Committee Documents", "Committee Opinion", "Guideline", "Ethics Committee Opinion", "Technology Committee"],
+    "excludeKeywords": ["patient-only education", "coding-only documents unless practice-changing"],
+    "notes": "Disabled: endpoint redirects to member SSO. Replaced by pubmed-asrm-guidance."
   },
   {
-    "id": "hackernews",
-    "name": "Hacker News",
+    "id": "pubmed-asrm-guidance",
+    "name": "PubMed · Fertility & Sterility Practice Guidance",
     "type": "api",
-    "url": "https://hacker-news.firebaseio.com/v0",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils",
     "category": "tech",
-    "subcategory": "overseas-community",
+    "subcategory": "guidelines",
     "enabled": true,
-    "locales": [
-      "en"
-    ]
+    "lang": "en",
+    "locales": ["zh", "en"],
+    "lookbackHours": 168,
+    "query": "(\"Fertil Steril\"[jour] OR \"F S Rep\"[jour] OR \"F S Sci\"[jour]) AND (guideline[Publication Type] OR practice guideline[Publication Type] OR \"committee opinion\"[Title] OR \"practice committee\"[Title/Abstract])",
+    "keywords": ["guideline", "practice guideline", "committee opinion", "practice committee"],
+    "excludeKeywords": ["retracted publication", "correction", "erratum"]
   },
   {
-    "id": "lobsters",
-    "name": "Lobsters",
+    "id": "obg-project-guidance",
+    "name": "The ObG Project",
     "type": "rss",
-    "url": "https://lobste.rs/rss",
+    "url": "https://www.obgproject.com/feed/",
     "category": "tech",
-    "subcategory": "overseas-community",
+    "subcategory": "guidelines",
     "enabled": false,
-    "locales": [
-      "en"
-    ]
+    "lang": "en",
+    "locales": ["zh", "en"],
+    "lookbackHours": 168,
+    "keywords": ["guideline", "practice bulletin", "committee opinion", "consensus", "study summary"],
+    "excludeKeywords": ["sponsored", "advertisement", "registration"],
+    "notes": "Secondary lead source only; disabled after HTTP 403 verification. Re-enable only after the official feed is reachable."
   },
   {
-    "id": "qbitai",
-    "name": "量子位",
+    "id": "gocm-guidelines",
+    "name": "GOCM · Gynecology and Obstetrics Clinical Medicine · Guidelines and Consensus",
     "type": "rss",
-    "url": "https://www.qbitai.com/feed",
+    "url": "https://gocm.bmj.com/rss/recent.xml",
     "category": "tech",
-    "subcategory": "ai-news",
+    "subcategory": "guidelines",
+    "enabled": true,
+    "lang": "en",
+    "locales": ["zh", "en"],
+    "lookbackHours": 168,
+    "keywords": ["guideline", "consensus", "recommendation", "position statement"],
+    "excludeKeywords": ["retraction", "correction", "erratum"]
+  },
+  {
+    "id": "gocm-surgery",
+    "name": "GOCM · Gynecology and Obstetrics Clinical Medicine · Surgical Techniques",
+    "type": "rss",
+    "url": "https://gocm.bmj.com/rss/recent.xml",
+    "category": "finance",
+    "subcategory": "surgery",
+    "enabled": true,
+    "lang": "en",
+    "locales": ["zh", "en"],
+    "lookbackHours": 24,
+    "keywords": ["video article", "surgical technique", "laparoscopic", "hysteroscopic", "robotic surgery", "vNOTES"],
+    "excludeKeywords": ["retraction", "correction", "erratum"]
+  },
+  {
+    "id": "esgo-guidelines",
+    "name": "ESGO Guidelines",
+    "type": "scrape",
+    "url": "https://www.esgo.org/explore/guidelines/",
+    "category": "tech",
+    "subcategory": "guidelines",
+    "enabled": true,
+    "lang": "en",
+    "locales": ["zh", "en"],
+    "keywords": ["guidelines", "consensus statements", "quality indicators", "ovarian", "endometrial", "cervical", "vulvar cancer"],
+    "excludeKeywords": ["course advertising without substantive update"]
+  },
+  {
+    "id": "esge-guidelines",
+    "name": "European Society for Gynaecological Endoscopy Guidelines",
+    "type": "scrape",
+    "url": "https://www.esge.org/guidelines/",
+    "category": "finance",
+    "subcategory": "surgery",
+    "enabled": true,
+    "lang": "en",
+    "locales": ["zh", "en"],
+    "keywords": ["guidelines", "recommendations", "position document", "joint statement", "hysteroscopy", "laparoscopy", "endometriosis surgery", "radical hysterectomy"],
+    "excludeKeywords": ["non-scientific announcements"]
+  },
+  {
+    "id": "esge-news",
+    "name": "European Society for Gynaecological Endoscopy News",
+    "type": "scrape",
+    "url": "https://www.esge.org/latest-news/",
+    "category": "finance",
+    "subcategory": "surgery",
+    "enabled": true,
+    "lang": "en",
+    "locales": ["zh", "en"],
+    "keywords": ["Science", "Publications", "Open Review", "Journal", "technical webinars"],
+    "excludeKeywords": ["registration deadlines", "elections", "travel logistics", "social announcements"]
+  },
+  {
+    "id": "aagl-surgeryu",
+    "name": "AAGL SurgeryU",
+    "type": "scrape",
+    "url": "https://surgeryu.aagl.org/",
+    "category": "finance",
+    "subcategory": "surgery",
+    "enabled": true,
+    "lang": "en",
+    "locales": ["zh", "en"],
+    "keywords": ["Latest", "robotic surgery", "hysteroscopy", "laparoscopy", "vNOTES", "endometriosis surgery", "surgical imaging", "training"],
+    "excludeKeywords": ["old videos without a new date", "generic promotional videos"]
+  },
+  {
+    "id": "jmig-articles-in-press",
+    "name": "Journal of Minimally Invasive Gynecology - Articles in Press",
+    "type": "scrape",
+    "url": "https://www.sciencedirect.com/journal/journal-of-minimally-invasive-gynecology/articles-in-press",
+    "category": "finance",
+    "subcategory": "surgery",
+    "enabled": true,
+    "lang": "en",
+    "locales": ["zh", "en"],
+    "keywords": ["Video Article", "Images in Gynecologic Surgery", "Original Article", "Review Article", "Instruments and Techniques"],
+    "excludeKeywords": ["editorial board", "calendar", "front matter", "miscellaneous"]
+  },
+  {
+    "id": "acog-news",
+    "name": "ACOG News",
+    "type": "scrape",
+    "url": "https://www.acog.org/news",
+    "category": "politics",
+    "subcategory": "international-obgyn",
+    "enabled": true,
+    "lang": "en",
+    "locales": ["zh", "en"],
+    "keywords": ["Clinical", "News Releases", "Advocacy and Health Policy"],
+    "excludeKeywords": ["Careers", "Membership and Fellowship", "generic patient education"]
+  },
+  {
+    "id": "rcog-news",
+    "name": "RCOG News",
+    "type": "scrape",
+    "url": "https://www.rcog.org.uk/news/",
+    "category": "politics",
+    "subcategory": "international-obgyn",
+    "enabled": true,
+    "lang": "en",
+    "locales": ["zh", "en"],
+    "keywords": ["clinical guidance update", "maternity safety", "women's health policy", "professional standards", "evidence review"],
+    "excludeKeywords": ["internal staffing", "generic member welfare"]
+  },
+  {
+    "id": "figo-news",
+    "name": "FIGO News",
+    "type": "scrape",
+    "url": "https://www.figo.org/news",
+    "category": "politics",
+    "subcategory": "international-obgyn",
+    "enabled": true,
+    "lang": "en",
+    "locales": ["zh", "en"],
+    "keywords": ["maternal health", "gynecologic oncology", "reproductive health", "global guidance", "clinical statements"],
+    "excludeKeywords": ["congress logistics only", "generic organizational announcements"]
+  },
+  {
+    "id": "who-womens-health",
+    "name": "WHO Women's Health",
+    "type": "scrape",
+    "url": "https://www.who.int/health-topics/women-s-health",
+    "category": "politics",
+    "subcategory": "international-obgyn",
+    "enabled": true,
+    "lang": "en",
+    "locales": ["zh", "en"],
+    "keywords": ["news", "guidelines", "departmental updates", "sexual and reproductive health", "maternal health", "cervical cancer", "infertility"],
+    "excludeKeywords": ["general women's health without direct reproductive or gynecologic relevance"]
+  },
+  {
+    "id": "fda-owh-news",
+    "name": "FDA Office of Women's Health News",
+    "type": "scrape",
+    "url": "https://www.fda.gov/consumers/womens-health/owh-news-and-updates",
+    "category": "politics",
+    "subcategory": "international-obgyn",
+    "enabled": true,
+    "lang": "en",
+    "locales": ["zh", "en"],
+    "keywords": ["pregnancy safety", "lactation", "contraception", "fertility", "gynecologic drug", "device safety", "cervical cancer"],
+    "excludeKeywords": ["nutrition or general women's health without obstetric/gynecologic relevance"]
+  },
+  {
+    "id": "nhc-maternal-child-health",
+    "name": "国家卫生健康委妇幼健康司",
+    "type": "scrape",
+    "url": "https://www.nhc.gov.cn/fys/new_index.shtml",
+    "category": "politics",
+    "subcategory": "china-obgyn",
+    "enabled": true,
     "lang": "zh",
-    "enabled": false,
-    "locales": [
-      "zh"
-    ]
+    "locales": ["zh"],
+    "keywords": ["工作动态", "政策文件", "产前筛查", "助产技术", "辅助生殖", "孕产妇健康", "出生缺陷", "妇幼健康服务"],
+    "excludeKeywords": ["以儿童青少年为主且与妇产科无直接关系的内容"]
   },
   {
-    "id": "openai-news",
-    "name": "OpenAI News",
-    "type": "rss",
-    "url": "https://openai.com/news/rss.xml",
-    "category": "tech",
-    "subcategory": "ai-news",
-    "enabled": true,
-    "locales": [
-      "zh",
-      "en"
-    ]
-  },
-  {
-    "id": "deepmind-blog",
-    "name": "DeepMind Blog",
-    "type": "rss",
-    "url": "https://deepmind.google/blog/rss.xml",
-    "category": "tech",
-    "subcategory": "ai-news",
-    "enabled": true,
-    "locales": [
-      "zh",
-      "en"
-    ]
-  },
-  {
-    "id": "huggingface-blog",
-    "name": "Hugging Face Blog",
-    "type": "rss",
-    "url": "https://huggingface.co/blog/feed.xml",
-    "category": "tech",
-    "subcategory": "ai-news",
-    "enabled": true,
-    "locales": [
-      "zh",
-      "en"
-    ]
-  },
-  {
-    "id": "huggingface-papers",
-    "name": "HuggingFace Trending Papers",
-    "type": "api",
-    "url": "https://huggingface.co/api/daily_papers",
-    "category": "tech",
-    "subcategory": "trending-papers",
-    "enabled": true,
-    "locales": [
-      "zh",
-      "en"
-    ],
-    "keywords": ["LLM", "agent", "RAG", "reasoning", "coding"],
-    "notes": "Daily trending papers from HuggingFace. Set keywords to filter; empty array or omit for all papers."
-  },
-  {
-    "id": "tldr-ai",
-    "name": "TLDR AI",
-    "type": "rss",
-    "url": "https://tldr.tech/api/rss/ai",
-    "category": "tech",
-    "subcategory": "ai-news",
-    "enabled": true,
-    "locales": [
-      "zh",
-      "en"
-    ]
-  },
-  {
-    "id": "smol-ai-news",
-    "name": "Smol AI News",
-    "type": "rss",
-    "url": "https://news.smol.ai/rss.xml",
-    "category": "tech",
-    "subcategory": "ai-news",
-    "enabled": true,
-    "locales": [
-      "zh",
-      "en"
-    ]
-  },
-  {
-    "id": "latent-space",
-    "name": "Latent Space",
-    "type": "rss",
-    "url": "https://www.latent.space/feed",
-    "category": "tech",
-    "subcategory": "ai-news",
-    "enabled": true,
-    "locales": [
-      "zh",
-      "en"
-    ]
-  },
-  {
-    "id": "mit-tech-review-ai",
-    "name": "MIT Tech Review AI",
-    "type": "rss",
-    "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-    "category": "tech",
-    "subcategory": "ai-news",
-    "enabled": true,
-    "locales": [
-      "zh",
-      "en"
-    ]
-  },
-  {
-    "id": "attentionvc-ai",
-    "name": "X 推文 (AttentionVC)",
-    "type": "api",
-    "url": "https://reply-vc-90459984647.us-central1.run.app/v1/articles/leaderboard?window=3d&category=ai&lang=en&limit=30",
-    "category": "tech",
-    "subcategory": "x-viral",
-    "enabled": true,
-    "locales": [
-      "zh",
-      "en"
-    ]
-  },
-  {
-    "id": "solidot",
-    "name": "Solidot 奇客",
-    "type": "rss",
-    "url": "https://www.solidot.org/index.rss",
-    "category": "tech",
-    "subcategory": "overseas-news",
-    "enabled": false,
-    "locales": [
-      "zh",
-      "en"
-    ]
-  },
-  {
-    "id": "ars-technica",
-    "name": "Ars Technica",
-    "type": "rss",
-    "url": "https://feeds.arstechnica.com/arstechnica/index",
-    "category": "tech",
-    "subcategory": "overseas-news",
-    "enabled": false,
-    "locales": [
-      "zh",
-      "en"
-    ]
-  },
-  {
-    "id": "ruanyf-blog",
-    "name": "阮一峰的网络日志",
-    "type": "rss",
-    "url": "https://www.ruanyifeng.com/blog/atom.xml",
-    "category": "tech",
-    "subcategory": "blog-weekly",
-    "enabled": false,
-    "locales": [
-      "zh"
-    ]
-  },
-  {
-    "id": "hellogithub",
-    "name": "HelloGitHub 月刊",
-    "type": "rss",
-    "url": "https://hellogithub.com/rss/all",
-    "category": "tech",
-    "subcategory": "blog-weekly",
-    "enabled": false,
-    "locales": [
-      "zh"
-    ]
-  },
-  {
-    "id": "martinfowler",
-    "name": "Martin Fowler",
-    "type": "rss",
-    "url": "https://martinfowler.com/feed.atom",
-    "category": "tech",
-    "subcategory": "blog-weekly",
-    "enabled": false,
-    "locales": [
-      "zh",
-      "en"
-    ]
-  },
-  {
-    "id": "simonwillison",
-    "name": "Simon Willison",
-    "type": "rss",
-    "url": "https://simonwillison.net/atom/everything/",
-    "category": "tech",
-    "subcategory": "blog-weekly",
-    "enabled": false,
-    "locales": [
-      "zh",
-      "en"
-    ]
-  },
-  {
-    "id": "cloudflare-blog",
-    "name": "Cloudflare Blog",
-    "type": "rss",
-    "url": "https://blog.cloudflare.com/rss/",
-    "category": "tech",
-    "subcategory": "blog-weekly",
-    "enabled": false,
-    "locales": [
-      "zh",
-      "en"
-    ]
-  },
-  {
-    "id": "github-engineering",
-    "name": "GitHub Engineering",
-    "type": "rss",
-    "url": "https://github.blog/engineering/feed/",
-    "category": "tech",
-    "subcategory": "blog-weekly",
-    "enabled": false,
-    "locales": [
-      "zh",
-      "en"
-    ]
-  },
-  {
-    "id": "techcrunch",
-    "name": "TechCrunch",
-    "type": "rss",
-    "url": "https://techcrunch.com/feed/",
-    "category": "tech",
-    "subcategory": "overseas",
-    "enabled": false,
-    "locales": [
-      "zh",
-      "en"
-    ]
-  },
-  {
-    "id": "theverge",
-    "name": "The Verge",
-    "type": "rss",
-    "url": "https://www.theverge.com/rss/index.xml",
-    "category": "tech",
-    "subcategory": "overseas",
-    "enabled": false,
-    "locales": [
-      "zh",
-      "en"
-    ]
-  },
-  {
-    "id": "bbc-tech",
-    "name": "BBC Technology",
-    "type": "rss",
-    "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-    "category": "tech",
-    "subcategory": "overseas",
-    "enabled": false,
-    "locales": [
-      "zh",
-      "en"
-    ]
-  },
-  {
-    "id": "bloomberg-markets",
-    "name": "Bloomberg Markets",
-    "type": "rss",
-    "url": "https://feeds.bloomberg.com/markets/news.rss",
-    "category": "finance",
-    "subcategory": "news",
-    "enabled": true,
-    "locales": [
-      "zh",
-      "en"
-    ]
-  },
-  {
-    "id": "wsj-markets",
-    "name": "WSJ Markets",
-    "type": "rss",
-    "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
-    "category": "finance",
-    "subcategory": "news",
-    "enabled": true,
-    "locales": [
-      "zh",
-      "en"
-    ]
-  },
-  {
-    "id": "cnbc-topnews",
-    "name": "CNBC",
-    "type": "rss",
-    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-    "category": "finance",
-    "subcategory": "news",
-    "enabled": false,
-    "locales": [
-      "zh",
-      "en"
-    ]
-  },
-  {
-    "id": "ft-companies",
-    "name": "Financial Times",
-    "type": "rss",
-    "url": "https://www.ft.com/companies?format=rss",
-    "category": "finance",
-    "subcategory": "news",
-    "enabled": true,
-    "locales": [
-      "zh",
-      "en"
-    ]
-  },
-  {
-    "id": "ftchinese-news",
-    "name": "FT中文网",
-    "type": "rss",
-    "url": "https://www.ftchinese.com/rss/news",
-    "category": "finance",
-    "subcategory": "news",
-    "enabled": false,
-    "locales": [
-      "zh"
-    ]
-  },
-  {
-    "id": "yahoo-finance",
-    "name": "Yahoo Finance",
-    "type": "rss",
-    "url": "https://finance.yahoo.com/news/rssindex",
-    "category": "finance",
-    "subcategory": "news",
-    "enabled": false,
-    "locales": [
-      "zh",
-      "en"
-    ]
-  },
-  {
-    "id": "marketwatch-top",
-    "name": "MarketWatch",
-    "type": "rss",
-    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
-    "category": "finance",
-    "subcategory": "news",
-    "enabled": false,
-    "locales": [
-      "zh",
-      "en"
-    ]
-  },
-  {
-    "id": "bbc-business",
-    "name": "BBC Business",
-    "type": "rss",
-    "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
-    "category": "finance",
-    "subcategory": "news",
-    "enabled": true,
-    "locales": [
-      "zh",
-      "en"
-    ]
-  },
-  {
-    "id": "economist-finance",
-    "name": "The Economist Finance",
-    "type": "rss",
-    "url": "https://www.economist.com/finance-and-economics/rss.xml",
-    "category": "finance",
-    "subcategory": "news",
-    "enabled": true,
-    "locales": [
-      "zh",
-      "en"
-    ]
-  },
-  {
-    "id": "reddit-wallstreetbets",
-    "name": "r/wallstreetbets",
-    "type": "rss",
-    "url": "https://www.reddit.com/r/wallstreetbets/.rss",
-    "category": "finance",
-    "subcategory": "community",
-    "useCurl": true,
-    "enabled": false,
-    "locales": [
-      "en"
-    ]
-  },
-  {
-    "id": "reddit-investing",
-    "name": "r/investing",
-    "type": "rss",
-    "url": "https://www.reddit.com/r/investing/.rss",
-    "category": "finance",
-    "subcategory": "community",
-    "useCurl": true,
-    "enabled": false,
-    "locales": [
-      "en"
-    ]
-  },
-  {
-    "id": "reddit-stocks",
-    "name": "r/stocks",
-    "type": "rss",
-    "url": "https://www.reddit.com/r/stocks/.rss",
-    "category": "tech",
-    "subcategory": "overseas-community",
-    "useCurl": true,
-    "enabled": true,
-    "locales": [
-      "en"
-    ],
-    "notes": "Lives in tech:overseas-community so it shares the L1 'Community' panel with Hacker News in en mode (mirrors cn-community in zh mode)."
-  },
-  {
-    "id": "reddit-chinastocks",
-    "name": "r/ChinaStocks",
-    "type": "rss",
-    "url": "https://www.reddit.com/r/ChinaStocks/.rss",
-    "category": "finance",
-    "subcategory": "community",
-    "useCurl": true,
-    "enabled": false,
-    "locales": [
-      "en"
-    ]
-  },
-  {
-    "id": "people-finance",
-    "name": "人民网财经",
-    "type": "rss",
-    "url": "http://www.people.com.cn/rss/finance.xml",
-    "category": "finance",
-    "subcategory": "news",
-    "enabled": false,
-    "locales": [
-      "zh"
-    ]
-  },
-  {
-    "id": "wallstreetcn",
-    "name": "华尔街见闻",
-    "type": "rss",
-    "url": "https://rsshub.app/wallstreetcn/news/global",
-    "category": "finance",
-    "subcategory": "news",
-    "enabled": false,
-    "locales": [
-      "zh"
-    ]
-  },
-  {
-    "id": "bbc-world",
-    "name": "BBC World",
-    "type": "rss",
-    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "id": "chinese-journal-obgyn",
+    "name": "中华妇产科杂志",
+    "type": "scrape",
+    "url": "https://zhfckzz.yiigle.com/",
     "category": "politics",
-    "subcategory": "world",
-    "enabled": true,
-    "locales": [
-      "zh",
-      "en"
-    ]
-  },
-  {
-    "id": "guardian-world",
-    "name": "The Guardian",
-    "type": "rss",
-    "url": "https://www.theguardian.com/world/rss",
-    "category": "politics",
-    "subcategory": "world",
-    "enabled": true,
-    "locales": [
-      "zh",
-      "en"
-    ]
-  },
-  {
-    "id": "nyt-world",
-    "name": "NYT World",
-    "type": "rss",
-    "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-    "category": "politics",
-    "subcategory": "world",
-    "enabled": true,
-    "locales": [
-      "zh",
-      "en"
-    ]
-  },
-  {
-    "id": "npr-world",
-    "name": "NPR World",
-    "type": "rss",
-    "url": "https://feeds.npr.org/1004/rss.xml",
-    "category": "politics",
-    "subcategory": "world",
-    "enabled": true,
-    "locales": [
-      "zh",
-      "en"
-    ]
-  },
-  {
-    "id": "dw-chinese",
-    "name": "DW 中文",
-    "type": "rss",
-    "url": "https://rss.dw.com/rdf/rss-chi-all",
-    "category": "politics",
-    "subcategory": "world",
-    "enabled": true,
-    "locales": [
-      "zh"
-    ]
-  },
-  {
-    "id": "aljazeera",
-    "name": "Al Jazeera",
-    "type": "rss",
-    "url": "https://www.aljazeera.com/xml/rss/all.xml",
-    "category": "politics",
-    "subcategory": "world",
-    "enabled": true,
-    "locales": [
-      "zh",
-      "en"
-    ]
-  },
-  {
-    "id": "the-diplomat",
-    "name": "The Diplomat",
-    "type": "rss",
-    "url": "https://thediplomat.com/feed/",
-    "category": "politics",
-    "subcategory": "world",
-    "enabled": true,
-    "locales": [
-      "zh",
-      "en"
-    ]
-  },
-  {
-    "id": "peoples-daily",
-    "name": "人民网时政",
-    "type": "rss",
-    "url": "http://www.people.com.cn/rss/politics.xml",
-    "category": "politics",
+    "subcategory": "china-obgyn",
     "enabled": false,
-    "locales": [
-      "zh"
-    ]
+    "lang": "zh",
+    "locales": ["zh"],
+    "keywords": ["指南", "专家共识", "述评", "标准与规范", "学术动态"],
+    "excludeKeywords": ["普通论文全文搬运", "无日期的旧内容"]
   },
   {
-    "id": "people-world",
-    "name": "人民网国际",
-    "type": "rss",
-    "url": "http://www.people.com.cn/rss/world.xml",
-    "category": "politics",
-    "enabled": false,
-    "locales": [
-      "zh"
-    ]
+    "id": "china-clinical-obgyn-current",
+    "name": "中国妇产科临床杂志",
+    "type": "scrape",
+    "url": "https://cjournal.hep.com.cn/1672-1861/CN/current",
+    "category": "tech",
+    "subcategory": "guidelines",
+    "enabled": true,
+    "lang": "zh",
+    "locales": ["zh"],
+    "lookbackHours": 168,
+    "keywords": ["指南", "专家共识", "共识", "推荐意见"],
+    "excludeKeywords": ["病例报告", "广告", "征稿"]
   },
   {
-    "id": "xinhua-politics",
-    "name": "新华网时政",
-    "type": "rss",
-    "url": "http://www.xinhuanet.com/politics/news_politics.xml",
+    "id": "cmcha-industry-news",
+    "name": "中国妇幼保健协会 · 行业协会动态",
+    "type": "scrape",
+    "url": "https://www.cmcha.org/index.html",
     "category": "politics",
-    "enabled": false,
-    "locales": [
-      "zh"
-    ]
+    "subcategory": "china-obgyn",
+    "enabled": true,
+    "lang": "zh",
+    "locales": ["zh"],
+    "lookbackHours": 24,
+    "keywords": ["孕产妇", "妊娠", "产科", "助产", "胎儿医学", "母婴安全", "辅助生殖", "出生缺陷", "妇女健康", "高危妊娠"],
+    "excludeKeywords": ["采购", "招标", "招聘", "报名", "培训班", "票务", "会议通知", "成果展示", "商业宣传"]
   },
   {
-    "id": "rfa-chinese",
-    "name": "RFA 中文",
-    "type": "rss",
-    "url": "https://www.rfa.org/mandarin/RSS",
+    "id": "contemporary-obgyn-news",
+    "name": "Contemporary OB/GYN",
+    "type": "scrape",
+    "url": "https://www.contemporaryobgyn.net/",
     "category": "politics",
+    "subcategory": "international-obgyn",
     "enabled": false,
-    "locales": [
-      "zh"
-    ]
+    "lang": "en",
+    "locales": ["zh", "en"],
+    "lookbackHours": 24,
+    "keywords": ["Latest News", "All News", "obstetrics", "gynecology", "pregnancy", "maternal", "fertility"],
+    "excludeKeywords": ["Sponsored Media", "Sponsored Resources", "commercial", "video", "monthly roundup", "conference promotion"],
+    "notes": "Disabled after HTTP 403/Cloudflare verification; no WAF bypass is attempted."
+  },
+  {
+    "id": "obgy-cn",
+    "name": "妇产科网",
+    "type": "scrape",
+    "url": "https://www.obgy.cn/",
+    "category": "politics",
+    "subcategory": "china-obgyn",
+    "enabled": true,
+    "lang": "zh",
+    "locales": ["zh"],
+    "keywords": ["指南解读", "学术会议实质内容", "国内外专业动态", "手术技术"],
+    "excludeKeywords": ["医院软文", "专家个人宣传", "课程销售", "产品广告", "患者科普"]
   }
 ]

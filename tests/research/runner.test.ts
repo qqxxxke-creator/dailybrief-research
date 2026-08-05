@@ -23,7 +23,7 @@ function config(enabled = true): ResearchConfig {
     runtime: {
       enabled,
       clearCache: false,
-      lookbackDays: 7,
+      lookbackDays: 1,
       maxPapers: 5,
       cacheDays: 30,
       overlapHours: 48,
@@ -57,7 +57,7 @@ function paper(overrides: Partial<ResearchPaper> = {}): ResearchPaper {
     journal: "Journal",
     authors: ["A Author"],
     publicationTypes: ["Randomized Controlled Trial"],
-    activityAt: "2026-08-04T00:00:00.000Z",
+    activityAt: "2026-08-05T00:00:00.000Z",
     url: "https://pubmed.ncbi.nlm.nih.gov/1/",
     sourceKinds: ["pubmed"],
     matchedTopicIds: [],
