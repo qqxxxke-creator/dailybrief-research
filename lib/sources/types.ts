@@ -70,7 +70,7 @@ export interface SourceDef {
   keywords?: string[];
   /** Optional source-specific exclusions from the OB-GYN manifest. */
   excludeKeywords?: string[];
-  /** Per-source freshness window. News defaults to 24h; guidelines use 168h. */
+  /** Per-source freshness window; the OB-GYN manifest defines each column's policy. */
   lookbackHours?: number;
   /** Additional hostnames allowed for links emitted by an HTML source. */
   allowedHosts?: string[];
