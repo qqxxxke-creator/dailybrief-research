@@ -22,6 +22,17 @@ const articles: ArticleInput[] = [
     publishedAt: new Date("2026-08-05T00:00:00.000Z"),
     summary: "国际妇产科动态摘要。",
   },
+  {
+    sourceId: "acog",
+    source: "ACOG",
+    title: "Canonical low-priority title",
+    url: "https://example.test/low-priority",
+    category: "tech",
+    publishedAt: new Date("2026-08-05T00:00:00.000Z"),
+    summary: "原始页面暂未提供可解析摘要，请查看原文了解详细更新。",
+    reviewStatus: "uncertain",
+    lowPriority: true,
+  },
 ];
 
 test("validates digest JSON, restores canonical metadata, and deduplicates URLs", () => {
@@ -30,6 +41,7 @@ test("validates digest JSON, restores canonical metadata, and deduplicates URLs"
     daily_overview: "Overview",
     tech_briefs: [
       { title: "Fabricated", source: "Wrong", url: articles[0].url, summary: "LLM summary", importance: 99 },
+      { title: "Low priority", source: "Wrong", url: articles[2].url, summary: "LLM summary", importance: 10 },
       { title: "Duplicate", source: "Wrong", url: articles[0].url, summary: "Duplicate", importance: 5 },
       { title: "Unknown", source: "Wrong", url: "https://example.test/unknown", summary: "No", importance: 5 },
     ],
@@ -49,6 +61,12 @@ test("validates digest JSON, restores canonical metadata, and deduplicates URLs"
     url: articles[0].url,
     summary: "LLM summary",
     importance: 10,
+  }, {
+    title: articles[2].title,
+    source: articles[2].source,
+    url: articles[2].url,
+    summary: "LLM summary",
+    importance: 5,
   }]);
   assert.deepEqual(report.finance_briefs, []);
   assert.deepEqual(report.politics_briefs.map((item) => item.url), [articles[1].url]);

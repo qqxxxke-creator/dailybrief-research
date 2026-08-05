@@ -1,7 +1,14 @@
 import { jsonrepair } from "jsonrepair";
 import { runLlm } from "./llm";
 import { extractJson } from "./json-util";
-import { REPORT_LOCALE } from "../sources/registry";
+import { REPORT_LOCALE, sources } from "../sources/registry";
+import {
+  classifyDocumentType,
+  hasSubstantiveContent,
+  isHardExcluded,
+  isOfficialFormalDocument,
+} from "../sources/content-policy";
+import type { ReviewStatus, SourceDef } from "../sources/types";
 import type { ArticleInput } from "./pipeline";
 
 interface EnrichInput {
@@ -381,14 +388,18 @@ const OBGYN_REVIEW_SYSTEM_PROMPT_ZH = `你是一名严谨的妇产科医学编�
 严格输出 JSON：
 {"reviews":[{"url":"输入原链接","accepted":true,"summary":"中文事实摘要","reason":"简短判断依据"}]}`;
 
+const OBGYN_REVIEW_SYSTEM_PROMPT_ZH_V2 = `你是一名严谨的妇产科医学编辑，负责对候选内容做最终语义复核。
+只有直接属于妇产科、女性生殖健康、母胎医学、生殖医学、妇科肿瘤、盆底或妇科手术，并且具备临床、学术、监管或行业价值的内容，才可评为 accepted。证据不足但可能合格时评为 uncertain；医院宣传、患者科普、活动报名、商业广告、无关内容以及全部不合格条目必须评为 rejected。不得为了填满栏目放宽标准。
+对有可解析内容的 accepted 或 uncertain 条目，生成简洁的中文事实摘要，不得编造输入未提供的信息。只有标题、没有可解析内容时，必须写 uncertain 且 summary 留空。
+严格输出 JSON：{"reviews":[{"url":"输入原链接","status":"accepted | uncertain | rejected","summary":"中文事实摘要或空字符串","reason":"简短判断依据"}]}`;
+
 const OBGYN_REVIEW_SYSTEM_PROMPT_EN = `You are a rigorous obstetrics and gynecology medical editor performing the final semantic review.
-Accept an item only when it is directly related to OB-GYN or female reproductive health, comes from a reliable professional source, and has clinical, academic, regulatory, or professional value.
-Reject patient education, hospital promotion, event registration, advertising, and unrelated general health content. Never relax the standard to fill a section. When evidence is insufficient, accepted=false.
-For accepted items, write a concise factual English summary without inventing information absent from the input.
-Return strict JSON: {"reviews":[{"url":"exact input URL","accepted":true,"summary":"English factual summary","reason":"brief rationale"}]}`;
+Use status=accepted only when an item is directly related to OB-GYN or female reproductive health, comes from a reliable professional source, and has clinical, academic, regulatory, or professional value. Use status=uncertain only when it may qualify but the supplied evidence is insufficient. Use status=rejected for patient education, hospital promotion, event registration, advertising, unrelated general health content, and every other non-qualifying item. Never relax the standard to fill a section.
+For accepted or uncertain items with substantive supplied content, write a concise factual English summary without inventing information absent from the input. For title-only items, use uncertain and leave summary empty.
+Return strict JSON: {"reviews":[{"url":"exact input URL","status":"accepted | uncertain | rejected","summary":"English factual summary or empty string","reason":"brief rationale"}]}`;
 
 const OBGYN_REVIEW_SYSTEM_PROMPT =
-  REPORT_LOCALE === "en" ? OBGYN_REVIEW_SYSTEM_PROMPT_EN : OBGYN_REVIEW_SYSTEM_PROMPT_ZH;
+  REPORT_LOCALE === "en" ? OBGYN_REVIEW_SYSTEM_PROMPT_EN : OBGYN_REVIEW_SYSTEM_PROMPT_ZH_V2;
 
 export function buildObgynReviewUserPrompt(items: ArticleInput[]): string {
   const payload = items.map((item) => ({
@@ -403,11 +414,12 @@ export function buildObgynReviewUserPrompt(items: ArticleInput[]): string {
     return [
       "Assess each item for direct OB-GYN relevance and professional value.",
       "Reject hospital promotion, patient education, event registration, advertising, and all non-OB-GYN content.",
-      "Any item not explicitly returned with accepted=true is rejected.",
+      "Set status to accepted, uncertain, or rejected. Any item not explicitly returned with status=accepted or status=uncertain is rejected.",
       JSON.stringify(payload),
     ].join("\n");
   }
   return [
+    "Use status=accepted, uncertain, or rejected only. Any item not explicitly marked accepted or uncertain is rejected. For title-only items, use uncertain and leave summary empty; never invent details.",
     "请逐条判断是否直接属于妇产科领域，且具有专业价值。",
     "医院宣传、普通患者科普、活动报名、商业广告和任何非妇产科内容必须拒绝。",
     "未在 reviews 中明确 accepted=true 的条目视为拒绝。",
@@ -446,24 +458,80 @@ export function parseObgynReviewResponse(
   responseText: string,
 ): ArticleInput[] {
   const byUrl = new Map(candidates.map((item) => [item.url, item]));
+  const sourceById = new Map(sources.map((source) => [source.id, source]));
   const cleaned = extractJson(responseText);
-  let parsed: { reviews?: Array<{ url?: string; accepted?: boolean; summary?: string }> };
+  let parsed: { reviews?: Array<{ url?: string; status?: ReviewStatus; summary?: string }> };
   try {
     parsed = JSON.parse(cleaned);
   } catch {
     parsed = JSON.parse(jsonrepair(cleaned));
   }
 
+  const rejectedUrls = new Set(
+    (parsed.reviews ?? [])
+      .filter((review) => review.status === "rejected" && typeof review.url === "string")
+      .map((review) => review.url!),
+  );
   const accepted: ArticleInput[] = [];
   const seen = new Set<string>();
   for (const review of parsed.reviews ?? []) {
-    if (!review.url || !review.accepted || !review.summary?.trim() || seen.has(review.url)) continue;
+    if (
+      !review.url
+      || review.status === "rejected"
+      || rejectedUrls.has(review.url)
+      || seen.has(review.url)
+    ) continue;
     const candidate = byUrl.get(review.url);
-    if (!candidate) continue;
+    const source = candidate ? sourceById.get(candidate.sourceId) : undefined;
+    if (!candidate || !source || isHardExcluded(candidate)) continue;
+
+    const approved = approveObgynReview(candidate, source, review.status, review.summary);
+    if (!approved) continue;
     seen.add(review.url);
-    accepted.push({ ...candidate, summary: review.summary.trim() });
+    accepted.push(approved);
   }
   return accepted;
+}
+
+const OFFICIAL_TITLE_ONLY_SUMMARY = "原始页面暂未提供可解析摘要，请查看原文了解详细更新。";
+
+function approveObgynReview(
+  candidate: ArticleInput,
+  source: SourceDef,
+  status: ReviewStatus | undefined,
+  summary: string | undefined,
+): ArticleInput | undefined {
+  if (status !== "accepted" && status !== "uncertain") return undefined;
+
+  const substantive = hasSubstantiveContent(candidate);
+  const officialFormal = isOfficialFormalDocument(candidate, source);
+  const normalizedSummary = summary?.trim() ?? "";
+  const classifiedDocumentType = classifyDocumentType(candidate);
+  const titleSignalsVideo = /\b(?:video|webinar|podcast|recording)\b/i.test(candidate.title);
+  const titleOnlyFallback = !substantive
+    && officialFormal
+    && !["news", "video", "education"].includes(classifiedDocumentType)
+    && !titleSignalsVideo;
+
+  if (status === "uncertain") {
+    if (source.sourceClass === "official_authority") {
+      if (!officialFormal) return undefined;
+    } else if (source.sourceClass === "academic_journal") {
+      if (!substantive) return undefined;
+    } else {
+      return undefined;
+    }
+  }
+
+  if (!substantive && !titleOnlyFallback) return undefined;
+  if (!titleOnlyFallback && !normalizedSummary) return undefined;
+
+  return {
+    ...candidate,
+    summary: titleOnlyFallback ? OFFICIAL_TITLE_ONLY_SUMMARY : normalizedSummary,
+    reviewStatus: status,
+    lowPriority: status === "uncertain" || titleOnlyFallback,
+  };
 }
 
 export async function reviewObgynCandidates(

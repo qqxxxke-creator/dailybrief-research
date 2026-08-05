@@ -230,12 +230,13 @@ export function sanitizeDigestReport(raw: unknown, articles: ArticleInput[]): Da
       const numericImportance = typeof item.importance === "number" && Number.isFinite(item.importance)
         ? item.importance
         : 5;
+      const importance = Math.max(1, Math.min(10, Math.round(numericImportance)));
       result.push({
         title: candidate.title,
         url: candidate.url,
         source: candidate.source,
         summary,
-        importance: Math.max(1, Math.min(10, Math.round(numericImportance))),
+        importance: candidate.lowPriority ? Math.min(5, importance) : importance,
       });
       seen.add(url);
       if (result.length >= limit) break;

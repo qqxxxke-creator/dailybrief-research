@@ -319,14 +319,14 @@ test("rejects future timestamps and canonicalizes tracking URLs before dedupe", 
 
 test("semantic review keeps only explicitly accepted medical items", () => {
   const candidates = [
-    article("Preeclampsia guideline update", new Date("2026-08-05T07:00:00.000Z"), "", "https://example.test/keep"),
+    article("Preeclampsia guideline update", new Date("2026-08-05T07:00:00.000Z"), "Clinical recommendation details.", "https://example.test/keep"),
     article("Hospital event registration", new Date("2026-08-05T07:00:00.000Z"), "", "https://example.test/drop"),
     article("Unreviewed item", new Date("2026-08-05T07:00:00.000Z"), "", "https://example.test/unlisted"),
   ];
   const response = JSON.stringify({
     reviews: [
-      { url: "https://example.test/keep", accepted: true, summary: "更新了子痫前期临床管理建议。" },
-      { url: "https://example.test/drop", accepted: false, summary: "" },
+      { url: "https://example.test/keep", status: "accepted", summary: "更新了子痫前期临床管理建议。" },
+      { url: "https://example.test/drop", status: "rejected", summary: "" },
     ],
   });
 
@@ -337,6 +337,99 @@ test("semantic review keeps only explicitly accepted medical items", () => {
   const prompt = buildObgynReviewUserPrompt(candidates);
   assert.match(prompt, /是否直接属于妇产科领域/);
   assert.match(prompt, /医院宣传|商业广告/);
+});
+
+test("keeps uncertain only for official formal documents and journals", () => {
+  const official = article(
+    "Practice Advisory: maternal health",
+    new Date("2026-08-05T07:00:00.000Z"),
+    "",
+    "https://www.acog.org/clinical/practice-advisory",
+  );
+  const journal: ArticleInput = {
+    ...article(
+      "New minimally invasive gynecologic surgery findings",
+      new Date("2026-08-05T07:00:00.000Z"),
+      "Available abstract with clinical findings.",
+      "https://www.sciencedirect.com/science/article/pii/example",
+    ),
+    sourceId: "jmig-articles-in-press",
+    source: "Journal of Minimally Invasive Gynecology - Articles in Press",
+    category: "finance",
+    documentType: "research_article",
+    contentType: "abstract",
+  };
+  const media: ArticleInput = {
+    ...article(
+      "Maternal health news update",
+      new Date("2026-08-05T07:00:00.000Z"),
+      "Available excerpt.",
+      "https://www.who.int/news/item/maternal-health",
+    ),
+    sourceId: "who-maternal-health",
+    source: "WHO Maternal Health",
+    documentType: "news",
+    contentType: "excerpt",
+  };
+
+  const result = parseObgynReviewResponse([official, journal, media], JSON.stringify({ reviews: [
+    { url: official.url, status: "uncertain", summary: "" },
+    { url: journal.url, status: "uncertain", summary: "available abstract" },
+    { url: media.url, status: "uncertain", summary: "available excerpt" },
+  ] }));
+
+  assert.deepEqual(result.map((item) => item.url), [official.url, journal.url]);
+  assert.deepEqual(result.map((item) => item.reviewStatus), ["uncertain", "uncertain"]);
+  assert.deepEqual(result.map((item) => item.lowPriority), [true, true]);
+  assert.equal(result[0].summary, "原始页面暂未提供可解析摘要，请查看原文了解详细更新。");
+});
+
+test("rejects title-only journal, news, and video candidates", () => {
+  const journal: ArticleInput = {
+    ...article(
+      "Gynecologic surgery research",
+      new Date("2026-08-05T07:00:00.000Z"),
+      "",
+      "https://www.sciencedirect.com/science/article/pii/title-only",
+    ),
+    sourceId: "jmig-articles-in-press",
+    source: "Journal of Minimally Invasive Gynecology - Articles in Press",
+    category: "finance",
+    documentType: "research_article",
+  };
+  const news = article(
+    "News update: maternal health",
+    new Date("2026-08-05T07:00:00.000Z"),
+    "",
+    "https://www.acog.org/news/title-only",
+  );
+  const video = article(
+    "Practice Advisory video overview",
+    new Date("2026-08-05T07:00:00.000Z"),
+    "",
+    "https://www.acog.org/video/title-only",
+  );
+
+  const result = parseObgynReviewResponse([journal, news, video], JSON.stringify({ reviews: [
+    { url: journal.url, status: "uncertain", summary: "" },
+    { url: news.url, status: "uncertain", summary: "" },
+    { url: video.url, status: "uncertain", summary: "" },
+  ] }));
+
+  assert.deepEqual(result, []);
+});
+
+test("rejected overrides keyword and authority", () => {
+  const authoritativeCandidate = article(
+    "Clinical Practice Guideline: pregnancy care",
+    new Date("2026-08-05T07:00:00.000Z"),
+    "Clinical recommendation details.",
+    "https://www.acog.org/clinical/rejected-guideline",
+  );
+
+  assert.deepEqual(parseObgynReviewResponse([authoritativeCandidate], JSON.stringify({ reviews: [
+    { url: authoritativeCandidate.url, status: "rejected", summary: "Do not keep." },
+  ] })), []);
 });
 
 test("caps semantic review fairly across sources", () => {
