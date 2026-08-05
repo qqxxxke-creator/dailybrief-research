@@ -1,14 +1,20 @@
 {
-  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
-  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "hero_headline": "今日暂无符合条件的妇产科专业要闻",
+  "daily_overview": "经筛选，过去24小时候选内容为空，无可发布的指南、手术前沿或国内外妇产科动态。系统已执行严格筛选，确保不发布低质量信息，待有可靠更新后再行推送。",
   "tech_briefs": [],
   "finance_briefs": [],
   "politics_briefs": [],
-  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
-  "keywords": [],
+  "editor_note": "今日候选内容为空，暂无指南或手术前沿等专业动态。系统已执行严格筛选，确保不发布低质量信息，待有可靠更新后再行推送。",
+  "keywords": [
+    "妇产科",
+    "医学晨报",
+    "今日要闻",
+    "无更新",
+    "筛选结果"
+  ],
   "research": {
-    "generatedAt": "2026-08-05T16:22:30.332Z",
-    "dataAsOf": "2026-08-05T16:22:30.332Z",
+    "generatedAt": "2026-08-05T17:06:28.549Z",
+    "dataAsOf": "2026-08-05T17:06:28.549Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及卵巢癌模型功能分析揭示Bcl-xL/NOTCH靶向可克服耐药、整合多组学分析确定双酚A暴露与妊娠期糖尿病关联的关键分子靶点、不孕与先天性异常风险：一项基于人群的队列研究。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
@@ -185,15 +191,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "使用DNA甲基化和肠道微生物组数据识别早产的表观遗传和微生物生物标志物",
           "researchQuestion": "通过整合母体孕中期全基因组DNA甲基化谱与肠道微生物组组成，识别与早产相关的表观遗传和微生物特征。",
@@ -205,7 +202,16 @@
           "clinicalInterpretation": "这些生物标志物在孕中期（18-24周）可检测，提示其可能用于中孕期风险分层；整合的甲基化-微生物组特征具有早期、无创预测的潜力，并支持开发针对性的母体干预措施。需要注意的是，该研究为病例对照设计，不能据此推断因果关系。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "0bf04b8cde242df313a171d402d5b26c7994454d5721f37ebc8ee861c6dfd7a4"
+        "summaryInputHash": "0bf04b8cde242df313a171d402d5b26c7994454d5721f37ebc8ee861c6dfd7a4",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42553119",
@@ -234,15 +240,6 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "BMI和特发性不孕驱动人卵泡液中极化的氧化还原表型",
           "researchQuestion": "识别卵泡液（FF）内系统水平的氧化表型，并评估其与不孕相关临床及代谢因素的关联。",
@@ -254,7 +251,16 @@
           "clinicalInterpretation": "卵泡液氧化还原环境呈现极化的系统级生化结构，而非均一的氧化改变。BMI和特发性不孕似乎通过对两种拮抗结构表型的相反效应选择性重组卵泡液内的氧化通路，提示两者存在共同的病理生理机制，并对生殖氧化应激研究中单一生物标志物范式提出挑战。该结论基于观察性关联，不能推断因果关系。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "b3350132ccdd09093459b51397aeda41713d3f15a62fa93f3e717f47d59cc09e"
+        "summaryInputHash": "b3350132ccdd09093459b51397aeda41713d3f15a62fa93f3e717f47d59cc09e",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       }
     ]
   }

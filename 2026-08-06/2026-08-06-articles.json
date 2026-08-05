@@ -1,4 +1,44 @@
 {
   "date": "2026-08-06",
-  "articles": []
+  "articles": [
+    {
+      "sourceId": "pubmed-asrm-guidance",
+      "title": "Artificial intelligence in the in vitro fertilization laboratory: a committee opinion.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42285874/",
+      "excerpt": "Artificial intelligence has already been portrayed as a tool that will impact different areas of laboratory function, most importantly embryo selection. The current state of artificial intelligence in the in vitro fertilization laboratory is described. Information about how it may be implemented in the laboratory is provided, and, despite the large cohort of patients studied, caution is recommended in interpreting the retrospective data. · Fertility and sterility · Journal Article · DOI: 10.1016/j.fertnstert.2026.05.004",
+      "publishedAt": "2026-06-13T00:00:00.000Z",
+      "category": "tech",
+      "source": "PubMed · Fertility & Sterility Practice Guidance",
+      "summary": "美国生殖医学会实践委员会意见：描述人工智能在体外受精实验室中的应用现状，重点涉及胚胎选择，并建议对回顾性数据谨慎解读。",
+      "reviewStatus": "accepted",
+      "lowPriority": false,
+      "meta": "近期补充"
+    },
+    {
+      "sourceId": "pubmed-asrm-guidance",
+      "title": "Fertility care and family building for LGBTQ+ individuals: a committee opinion.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42264981/",
+      "excerpt": "The purpose of this American Society for Reproductive Medicine Practice Committee Opinion is to provide clinicians with strategies and special considerations for the evaluation and treatment of individuals in the lesbian, gay, bisexual, transgender, and queer (LGBTQ+) community pursuing fertility care and family building. It is imperative that patients from this vulnerable population receive clinically appropriate, evidence-based care, which may diverge from routine protocols in the infertility clinic setting. · Fertility and sterility · Journal Article, Review, Practice Guideline · DOI: 10.1016/j.fertnstert.2026.05.005",
+      "publishedAt": "2026-06-10T00:00:00.000Z",
+      "category": "tech",
+      "source": "PubMed · Fertility & Sterility Practice Guidance",
+      "summary": "美国生殖医学会实践委员会意见：为LGBTQ+人群提供生育评估与治疗策略及特殊考虑，强调提供循证且适合该群体的临床照护。",
+      "reviewStatus": "accepted",
+      "lowPriority": false,
+      "meta": "近期补充"
+    },
+    {
+      "sourceId": "pubmed-asrm-guidance",
+      "title": "Transgender and gender-diverse care: a committee opinion.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42248745/",
+      "excerpt": "This American Society for Reproductive Medicine Practice Committee Opinion provides a comprehensive introduction to comprehensive transgender and gender-diverse care. Transgender and gender-diverse medical, surgical, gynecologic, and mental health care are reviewed in detail. · Fertility and sterility · Journal Article, Review · DOI: 10.1016/j.fertnstert.2026.05.003",
+      "publishedAt": "2026-06-06T00:00:00.000Z",
+      "category": "tech",
+      "source": "PubMed · Fertility & Sterility Practice Guidance",
+      "summary": "美国生殖医学会实践委员会意见：系统介绍跨性别及性别多元化人群的医疗、手术、妇科及心理健康照护。",
+      "reviewStatus": "accepted",
+      "lowPriority": false,
+      "meta": "近期补充"
+    }
+  ]
 }
