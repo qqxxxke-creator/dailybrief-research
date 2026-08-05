@@ -4,7 +4,7 @@ import os from "node:os";
 import path from "node:path";
 import test from "node:test";
 
-import { filterPreviouslyPublishedGuidelines } from "../../lib/sources/guideline-history";
+import { filterPreviouslyPublishedArticles } from "../../lib/sources/guideline-history";
 import { parseCjournalCurrentHtml } from "../../lib/sources/cjournal-current";
 import { parseGocmRssXml } from "../../lib/sources/gocm";
 import type { ArticleInput } from "../../lib/ai/pipeline";
@@ -40,7 +40,7 @@ test("parses title, issue date, DOI and canonical article link from the Chinese 
   assert.match(items[0].excerpt ?? "", /第27卷.*第3期.*10\.13390/);
 });
 
-test("guideline URL history suppresses an item after it was shown on a prior date", () => {
+test("article URL history suppresses every previously shown column after canonicalization", () => {
   const root = fs.mkdtempSync(path.join(os.tmpdir(), "guideline-history-"));
   const priorDir = path.join(root, "2026-08-04");
   fs.mkdirSync(priorDir, { recursive: true });
@@ -48,14 +48,14 @@ test("guideline URL history suppresses an item after it was shown on a prior dat
     path.join(priorDir, "2026-08-04-articles.json"),
     JSON.stringify({
       articles: [{
-        sourceId: guidelineSource.id,
+        sourceId: "acog-news",
         category: "tech",
         url: "https://example.test/guideline?utm_source=email",
       }],
     }),
   );
   const candidates: ArticleInput[] = [{
-    sourceId: guidelineSource.id,
+    sourceId: "acog-news",
     source: guidelineSource.name,
     title: "Pregnancy guideline",
     url: "https://example.test/guideline?utm_medium=rss",
@@ -64,9 +64,40 @@ test("guideline URL history suppresses an item after it was shown on a prior dat
   }];
 
   assert.deepEqual(
-    filterPreviouslyPublishedGuidelines(candidates, [guidelineSource], root, "2026-08-05"),
+    filterPreviouslyPublishedArticles(candidates, root, "2026-08-05"),
     [],
   );
+});
+
+test("article URL history ignores the current date and warns past malformed sidecars", () => {
+  const root = fs.mkdtempSync(path.join(os.tmpdir(), "article-history-"));
+  const currentDir = path.join(root, "2026-08-05");
+  const brokenDir = path.join(root, "2026-08-04");
+  fs.mkdirSync(currentDir, { recursive: true });
+  fs.mkdirSync(brokenDir, { recursive: true });
+  fs.writeFileSync(
+    path.join(currentDir, "2026-08-05-articles.json"),
+    JSON.stringify({ articles: [{ url: "https://example.test/current" }] }),
+  );
+  fs.writeFileSync(path.join(brokenDir, "2026-08-04-articles.json"), "not json");
+  const candidates: ArticleInput[] = [{
+    sourceId: guidelineSource.id,
+    source: guidelineSource.name,
+    title: "Current report article",
+    url: "https://example.test/current",
+    publishedAt: new Date("2026-08-05T00:00:00.000Z"),
+    category: "tech",
+  }];
+  const warnings: string[] = [];
+  const originalWarn = console.warn;
+  console.warn = (message: string) => warnings.push(message);
+  try {
+    assert.deepEqual(filterPreviouslyPublishedArticles(candidates, root, "2026-08-05"), candidates);
+  } finally {
+    console.warn = originalWarn;
+  }
+  assert.equal(warnings.length, 1);
+  assert.match(warnings[0], /2026-08-04-articles\.json/);
 });
 
 test("routes GOCM guideline and video sections to their requested columns", async () => {

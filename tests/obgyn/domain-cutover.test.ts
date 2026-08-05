@@ -218,5 +218,5 @@ test("daily pipeline no longer invokes legacy enrichment or trading", () => {
   }
   assert.match(daily, /successfulSources\s*===\s*0/);
   assert.match(daily, /console\.warn/);
-  assert.match(daily, /filterPreviouslyPublishedGuidelines/);
+  assert.match(daily, /filterPreviouslyPublishedArticles/);
 });

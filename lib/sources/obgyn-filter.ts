@@ -1,4 +1,9 @@
 import type { ArticleInput } from "../ai/pipeline";
+import {
+  classifyDocumentType,
+  hasSubstantiveContent,
+  isOfficialFormalDocument,
+} from "./content-policy";
 import type { SourceDef } from "./types";
 
 const HOUR_MS = 60 * 60 * 1000;
@@ -58,23 +63,34 @@ export function filterObgynCandidates(
   const accepted: ArticleInput[] = [];
 
   for (const article of articles) {
+    const itemText = `${article.title}\n${article.excerpt ?? ""}`;
+    if (includesAny(itemText, OBGYN_EXCLUDE_KEYWORDS)) continue;
+
     const source = sourceById.get(article.sourceId);
     if (!source || !article.publishedAt || Number.isNaN(article.publishedAt.getTime())) continue;
+
+    if (includesAny(itemText, source.excludeKeywords ?? [])) continue;
 
     const age = now.getTime() - article.publishedAt.getTime();
     const lookbackHours = source.lookbackHours ?? (source.subcategory === "guidelines" ? 168 : 24);
     if (age < 0 || age > lookbackHours * HOUR_MS) continue;
 
-    const text = `${source.name}\n${article.title}\n${article.excerpt ?? ""}`;
-    const excluded = includesAny(text, [
-      ...OBGYN_EXCLUDE_KEYWORDS,
-      ...(source.excludeKeywords ?? []),
-    ]);
-    if (excluded) continue;
+    const hasDomainAnchor = includesAny(itemText, OBGYN_INCLUDE_KEYWORDS);
+    const matchesSourceRule = (source.keywords?.length ?? 0) === 0
+      || includesAny(itemText, source.keywords ?? []);
+    const documentType = classifyDocumentType(article);
+    const substantive = hasSubstantiveContent(article);
+    const officialFormalTitleOnly = isOfficialFormalDocument(article, source);
 
-    const hasDomainAnchor = includesAny(text, OBGYN_INCLUDE_KEYWORDS);
-    const matchesSourceRule = (source.keywords?.length ?? 0) === 0 || includesAny(text, source.keywords ?? []);
-    if (!hasDomainAnchor || !matchesSourceRule) continue;
+    if (source.sourceClass === "general_authority") {
+      if (!hasDomainAnchor || !matchesSourceRule || !substantive) continue;
+    } else {
+      const verticallyScoped = source.sourceClass === "professional_vertical";
+      if (!substantive && !officialFormalTitleOnly) continue;
+      if (!hasDomainAnchor && !matchesSourceRule && !verticallyScoped) continue;
+      // Structured education content is never a title-only formal-document fallback.
+      if (!substantive && documentType === "education") continue;
+    }
 
     const urlKey = normalizeContentUrl(article.url);
     const titleKey = normalizeTitle(article.title);

@@ -31,7 +31,7 @@ import type { TradingSection } from "../lib/ai/pipeline";
 import { todayKey } from "../lib/utils";
 import { runResearchSafely } from "../lib/research/integration";
 import { filterObgynCandidates } from "../lib/sources/obgyn-filter";
-import { filterPreviouslyPublishedGuidelines } from "../lib/sources/guideline-history";
+import { filterPreviouslyPublishedArticles } from "../lib/sources/guideline-history";
 import { reviewObgynCandidates } from "../lib/ai/enrich";
 
 const OUTPUT_DIR = "daily_reports";
@@ -258,10 +258,10 @@ async function main() {
   console.log(`\n[daily] fetched articles: ${fetched.length}`);
   const ruleFiltered = filterObgynCandidates(fetched, sources);
   console.log(`[daily] OB-GYN rule filter: ${ruleFiltered.length}/${fetched.length}`);
-  const unseenGuidelines = filterPreviouslyPublishedGuidelines(ruleFiltered, sources, OUTPUT_DIR, date);
-  console.log(`[daily] guideline URL history: ${unseenGuidelines.length}/${ruleFiltered.length}`);
-  const articles = await reviewObgynCandidates(unseenGuidelines);
-  console.log(`[daily] OB-GYN semantic review: ${articles.length}/${unseenGuidelines.length}`);
+  const unseenArticles = filterPreviouslyPublishedArticles(ruleFiltered, OUTPUT_DIR, date);
+  console.log(`[daily] article URL history: ${unseenArticles.length}/${ruleFiltered.length}`);
+  const articles = await reviewObgynCandidates(unseenArticles);
+  console.log(`[daily] OB-GYN semantic review: ${articles.length}/${unseenArticles.length}`);
 
   // Research Intelligence is isolated from the news digest. Source, cache,
   // or summarization failures must never prevent the morning brief shipping.

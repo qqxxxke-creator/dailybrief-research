@@ -2,6 +2,7 @@ import assert from "node:assert/strict";
 import test from "node:test";
 
 import { filterObgynCandidates } from "../../lib/sources/obgyn-filter";
+import { loadAllSources } from "../../lib/sources/registry";
 import {
   buildObgynReviewUserPrompt,
   capObgynReviewCandidates,
@@ -29,7 +30,7 @@ function article(
   title: string,
   publishedAt: Date | undefined,
   excerpt = "",
-  url = `https://example.test/${encodeURIComponent(title)}`,
+  url = `https://www.acog.org/clinical/${encodeURIComponent(title)}`,
 ): ArticleInput {
   return {
     sourceId: source.id,
@@ -104,6 +105,140 @@ test("uses a 7-day guideline window and a strict 24-hour news window", () => {
   assert.deepEqual(filterObgynCandidates([news], [newsSource], now), []);
 });
 
+test("uses 30d, 7d and 72h category windows", () => {
+  const guidelineSource = { ...source, lookbackHours: 720 };
+  const surgerySource: SourceDef = {
+    ...source,
+    id: "aagl-surgeryu",
+    name: "AAGL SurgeryU",
+    url: "https://surgeryu.aagl.org/",
+    sourceClass: "professional_vertical",
+    category: "finance",
+    subcategory: "surgery",
+    lookbackHours: 168,
+  };
+  const internationalSource: SourceDef = {
+    ...surgerySource,
+    id: "acog-news",
+    category: "politics",
+    subcategory: "international-obgyn",
+    lookbackHours: 72,
+  };
+  const chinaSource: SourceDef = {
+    ...internationalSource,
+    id: "cmcha-industry-news",
+    subcategory: "china-obgyn",
+  };
+  const candidates = [
+    article("Clinical Practice Guideline: pregnancy care", new Date("2026-07-07T09:00:00.000Z")),
+    {
+      ...article("Operating theatre innovation", new Date("2026-07-30T09:00:00.000Z"), "A substantive surgical update."),
+      sourceId: surgerySource.id,
+      source: surgerySource.name,
+      category: surgerySource.category,
+      url: "https://surgeryu.aagl.org/operating-theatre",
+    },
+    {
+      ...article("Updated maternity safety standards", new Date("2026-08-02T09:00:00.000Z"), "A substantive clinical update."),
+      sourceId: internationalSource.id,
+      source: internationalSource.name,
+      category: internationalSource.category,
+      url: "https://surgeryu.aagl.org/maternity-safety",
+    },
+    {
+      ...article("Maternal health service update", new Date("2026-08-02T07:00:00.000Z"), "A substantive policy update."),
+      sourceId: chinaSource.id,
+      source: chinaSource.name,
+      category: chinaSource.category,
+      url: "https://surgeryu.aagl.org/maternal-health",
+    },
+  ];
+
+  assert.deepEqual(
+    filterObgynCandidates(candidates, [guidelineSource, surgerySource, internationalSource, chinaSource], now)
+      .map((item) => item.sourceId),
+    [guidelineSource.id, surgerySource.id, internationalSource.id],
+  );
+});
+
+test("general authority requires keyword match before semantic review", () => {
+  const whoSource: SourceDef = {
+    ...source,
+    id: "who-womens-health",
+    name: "WHO Women's Health",
+    url: "https://www.who.int/womens-health",
+    sourceClass: "general_authority",
+    keywords: ["technical update"],
+  };
+  const unrelatedWhoItem: ArticleInput = {
+    ...article("Technical update: laboratory procurement", new Date("2026-08-05T07:00:00.000Z"), "A substantive operational update."),
+    sourceId: whoSource.id,
+    source: whoSource.name,
+    url: "https://www.who.int/laboratory-procurement",
+  };
+
+  assert.deepEqual(filterObgynCandidates([unrelatedWhoItem], [whoSource], now), []);
+});
+
+test("vertical substantive content can reach semantic review without keyword hit", () => {
+  const aaglSource: SourceDef = {
+    ...source,
+    id: "aagl-surgeryu",
+    name: "AAGL SurgeryU",
+    url: "https://surgeryu.aagl.org/",
+    sourceClass: "professional_vertical",
+    category: "finance",
+    subcategory: "surgery",
+    keywords: ["laparoscopy"],
+  };
+  const substantiveAaglItem: ArticleInput = {
+    ...article("Operating room workflow update", new Date("2026-08-05T07:00:00.000Z"), "A substantive review of surgical workflow."),
+    sourceId: aaglSource.id,
+    source: aaglSource.name,
+    category: aaglSource.category,
+    url: "https://surgeryu.aagl.org/workflow",
+  };
+
+  assert.equal(filterObgynCandidates([substantiveAaglItem], [aaglSource], now).length, 1);
+});
+
+test("hard exclusions reject advertisements for every source class", () => {
+  const classes: SourceDef["sourceClass"][] = [
+    "official_authority",
+    "academic_journal",
+    "professional_vertical",
+    "general_authority",
+  ];
+  for (const sourceClass of classes) {
+    const classSource: SourceDef = {
+      ...source,
+      id: `${sourceClass}-source`,
+      sourceClass,
+      keywords: ["pregnancy"],
+    };
+    const advertisement: ArticleInput = {
+      ...article("Advertisement: pregnancy clinical update", new Date("2026-08-05T07:00:00.000Z"), "Substantive-looking promotion."),
+      sourceId: classSource.id,
+      source: classSource.name,
+    };
+    assert.deepEqual(filterObgynCandidates([advertisement], [classSource], now), [], sourceClass);
+  }
+});
+
+test("configures exact category windows in the source manifest", () => {
+  const sources = loadAllSources();
+  for (const configuredSource of sources) {
+    const expected = configuredSource.subcategory === "guidelines"
+      ? 720
+      : configuredSource.subcategory === "surgery"
+        ? 168
+        : ["international-obgyn", "china-obgyn"].includes(configuredSource.subcategory ?? "")
+          ? 72
+          : undefined;
+    assert.equal(configuredSource.lookbackHours, expected, configuredSource.id);
+  }
+});
+
 test("requires both an OB-GYN anchor and the configured source rule", () => {
   assert.deepEqual(
     filterObgynCandidates([
@@ -119,9 +254,9 @@ test("rejects future timestamps and canonicalizes tracking URLs before dedupe", 
     "Clinical Practice Guideline: pregnancy care",
     new Date("2026-08-05T07:00:00.000Z"),
     "",
-    "https://example.test/guideline?utm_source=email",
+    "https://www.acog.org/clinical/guideline?utm_source=email",
   );
-  const duplicate = { ...first, url: "https://example.test/guideline?utm_medium=rss" };
+  const duplicate = { ...first, url: "https://www.acog.org/clinical/guideline?utm_medium=rss" };
   const future = article(
     "Clinical Practice Guideline: maternal care",
     new Date("2026-08-05T08:01:00.000Z"),
