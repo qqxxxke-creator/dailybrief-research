@@ -1,12 +1,12 @@
 import type { DocumentType, RawArticle, SourceDef } from "./types";
 
 const DOCUMENT_TYPES = new Set<DocumentType>([
-  "guideline", "consensus", "statement", "practice_advisory", "safety_alert",
+  "guideline", "consensus", "statement", "practice_advisory", "safety_alert", "quality_indicator",
   "research_article", "news", "video", "education", "policy", "unknown",
 ]);
 
 const FORMAL_DOCUMENT_TYPES = new Set<DocumentType>([
-  "guideline", "consensus", "statement", "practice_advisory", "safety_alert", "policy",
+  "guideline", "consensus", "statement", "practice_advisory", "safety_alert", "quality_indicator", "policy",
 ]);
 
 const HARD_NON_FORMAL_CONTENT_PATTERNS = [
@@ -15,7 +15,6 @@ const HARD_NON_FORMAL_CONTENT_PATTERNS = [
   /\b(?:procurement|purchasing|tender|bid)\b/i,
   /\b(?:registration|register|sign[- ]?up)\b/i,
   /\bpatient (?:education|information)\b/i,
-  /\b(?:webinar|course|training|workshop|conference|event)\b/i,
   /\b(?:hospital|clinic|department)\s+(?:promotion|publicity)\b|(?:广告|赞助|招聘|招募|采购|报名|患者科普|患者教育|病人科普|病人教育|医院宣传|科室宣传|无实质(?:内容|活动))|\bno substantive (?:content|activity)\b/i,
 ];
 const HARD_EDUCATION_CONTENT_PATTERN = /\b(?:registration|register|sign[- ]?up|patient (?:education|information)|course|training|workshop)\b|(?:报名|患者科普|患者教育|病人科普|病人教育)/i;
@@ -29,7 +28,15 @@ const FORMAL_TITLE_PATTERNS: Array<[DocumentType, RegExp]> = [
   ["guideline", /\b(?:consult series|scientific impact paper|good practice paper)\b/i],
   ["statement", /\b(?:committee|joint|position|special)?\s*statement\b/i],
   ["statement", /\b(?:committee opinion|position document)\b/i],
+  ["quality_indicator", /\bquality indicators?\b/i],
   ["policy", /\bpolicy(?: document)?\b/i],
+  ["practice_advisory", /(?:临床)?实践公告/u],
+  ["safety_alert", /(?:安全提醒|安全警示)/u],
+  ["consensus", /(?:专家|临床)?共识/u],
+  ["guideline", /(?:临床|诊疗|实践|技术)?指南|推荐(?:意见|建议)/u],
+  ["statement", /(?:正式|联合|立场)?声明|立场文件/u],
+  ["quality_indicator", /(?:质量指标|质量评价指标)/u],
+  ["policy", /(?:政策文件|管理规范|技术规范|临床规范|诊疗规范|工作规范|规范性文件)/u],
 ];
 
 const EDUCATION_TITLE_PATTERN = /\b(?:registration|course|training|workshop|education|learning)\b/i;

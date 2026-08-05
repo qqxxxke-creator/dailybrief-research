@@ -12,6 +12,7 @@ export type DocumentType =
   | "statement"
   | "practice_advisory"
   | "safety_alert"
+  | "quality_indicator"
   | "research_article"
   | "news"
   | "video"

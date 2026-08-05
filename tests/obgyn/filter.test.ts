@@ -202,6 +202,31 @@ test("vertical substantive content can reach semantic review without keyword hit
   assert.equal(filterObgynCandidates([substantiveAaglItem], [aaglSource], now).length, 1);
 });
 
+test("substantive professional webinar and training items can reach semantic review", () => {
+  const aaglSource: SourceDef = {
+    ...source,
+    id: "aagl-surgeryu",
+    name: "AAGL SurgeryU",
+    url: "https://surgeryu.aagl.org/",
+    sourceClass: "professional_vertical",
+    category: "finance",
+    subcategory: "surgery",
+    keywords: [],
+  };
+  const candidates = [
+    article("Webinar: advanced vNOTES surgical technique", new Date("2026-08-05T07:00:00.000Z"), "Step-by-step operative technique and complication management."),
+    article("Simulation training intervention for cesarean hemorrhage", new Date("2026-08-05T07:00:00.000Z"), "Controlled study of maternal safety outcomes."),
+  ].map((candidate, index) => ({
+    ...candidate,
+    sourceId: aaglSource.id,
+    source: aaglSource.name,
+    category: aaglSource.category,
+    url: `https://surgeryu.aagl.org/substantive-${index}`,
+  }));
+
+  assert.equal(filterObgynCandidates(candidates, [aaglSource], now).length, 2);
+});
+
 test("hard exclusions reject advertisements for every source class", () => {
   const classes: SourceDef["sourceClass"][] = [
     "official_authority",
@@ -239,7 +264,6 @@ test("hard exclusions reject vertical sponsored, education, promotion, and opera
   const rejected = [
     { title: "Clinical update", meta: "Sponsored content" },
     { title: "Clinical update", contentType: "Sponsored" },
-    { title: "Clinical workshop for surgeons" },
     { title: "Clinical course registration" },
     { title: "Patient education: pregnancy care" },
     { title: "医院宣传：孕产妇服务" },

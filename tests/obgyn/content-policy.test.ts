@@ -101,12 +101,50 @@ test("hard-excludes formal structured metadata when item metadata signals non-fo
 test("exposes one global hard-exclusion gate across item metadata", () => {
   for (const conflictingArticle of [
     article("Clinical update", { meta: "Sponsored content" }),
-    article("Clinical workshop"),
+    article("Clinical workshop registration"),
     article("Patient education: pregnancy"),
     article("Procurement notice", { excerpt: "Maternity equipment purchase" }),
   ]) {
     assert.equal(isHardExcluded(conflictingArticle), true);
   }
+});
+
+test("does not hard-exclude substantive professional activities or clinical event terms", () => {
+  for (const candidate of [
+    article("Adverse event outcomes after hysteroscopy", { excerpt: "A clinical safety analysis." }),
+    article("Webinar: advanced vNOTES technique", { excerpt: "A step-by-step surgical technique description." }),
+    article("Simulation training intervention for cesarean hemorrhage", { excerpt: "A controlled training study." }),
+  ]) {
+    assert.equal(isHardExcluded(candidate), false, candidate.title);
+  }
+});
+
+test("classifies ESGO quality indicators and Chinese official formal documents", () => {
+  const esgoSource: SourceDef = {
+    ...officialSource,
+    id: "esgo-guidelines",
+    name: "ESGO Guidelines",
+    url: "https://www.esgo.org/explore/guidelines/",
+  };
+  const nhcSource: SourceDef = {
+    ...officialSource,
+    id: "nhc-maternal-child-health",
+    name: "国家卫生健康委妇幼健康司",
+    url: "https://www.nhc.gov.cn/fys/new_index.shtml",
+  };
+  const qualityIndicator = article("ESGO Quality Indicators for cervical cancer care", {
+    sourceId: esgoSource.id,
+    url: "https://www.esgo.org/quality-indicators/cervical-cancer",
+  });
+  const chinesePolicy = article("关于印发孕产妇安全管理规范的通知", {
+    sourceId: nhcSource.id,
+    url: "https://www.nhc.gov.cn/fys/policy/example.shtml",
+  });
+
+  assert.equal(classifyDocumentType(qualityIndicator), "quality_indicator");
+  assert.equal(isOfficialFormalDocument(qualityIndicator, esgoSource), true);
+  assert.equal(classifyDocumentType(chinesePolicy), "policy");
+  assert.equal(isOfficialFormalDocument(chinesePolicy, nhcSource), true);
 });
 
 test("does not mistake a normal clinical department reference for promotion", () => {
