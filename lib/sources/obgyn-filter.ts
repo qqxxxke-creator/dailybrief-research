@@ -1,5 +1,6 @@
 import type { ArticleInput } from "../ai/pipeline";
 import {
+  classifyObgynContentType,
   classifyDocumentType,
   hasSubstantiveContent,
   isHardExcluded,
@@ -10,9 +11,9 @@ import type { Category, SourceDef } from "./types";
 const HOUR_MS = 60 * 60 * 1000;
 
 const WINDOWS_BY_CATEGORY: Record<Category, { priority: number; supplemental: number }> = {
-  tech: { priority: 30 * 24, supplemental: 90 * 24 },
-  finance: { priority: 7 * 24, supplemental: 30 * 24 },
-  politics: { priority: 72, supplemental: 7 * 24 },
+  tech: { priority: 30 * 24, supplemental: 180 * 24 },
+  finance: { priority: 14 * 24, supplemental: 90 * 24 },
+  politics: { priority: 7 * 24, supplemental: 30 * 24 },
 };
 
 const GUIDANCE_TYPES = new Set([
@@ -21,6 +22,64 @@ const GUIDANCE_TYPES = new Set([
   "statement",
   "practice_advisory",
   "quality_indicator",
+]);
+
+const SURGERY_CONTENT_TYPES = new Set([
+  "surgical_technique",
+  "video_article",
+  "technical_note",
+  "operative_tips",
+  "step_by_step_procedure",
+  "surgical_review",
+  "complication_prevention",
+  "surgical_approach",
+  "anatomy_for_surgery",
+]);
+
+const GUIDANCE_CONTENT_TYPES = new Set([
+  "guideline_summary",
+  "guideline_update",
+  "guideline_interpretation",
+  "clinical_practice_recommendation",
+  "expert_commentary_on_guideline",
+  "practice_bulletin_summary",
+]);
+
+const DYNAMICS_CONTENT_TYPES = new Set([
+  "society_update",
+  "clinical_update",
+  "practice_change",
+  "quality_improvement",
+  "safety_alert",
+  "clinical_service_update",
+  "policy_update",
+  "academic_update",
+  "expert_commentary",
+  "professional_review",
+  "guideline_implementation",
+  "substantive_conference_result",
+]);
+
+const RECENT_SELECTION_CONTENT_TYPES = new Set([
+  ...GUIDANCE_CONTENT_TYPES,
+  "video_article",
+  "technical_note",
+  "operative_tips",
+  "step_by_step_procedure",
+  "surgical_review",
+  "complication_prevention",
+  "surgical_approach",
+  "anatomy_for_surgery",
+  "society_update",
+  "clinical_update",
+  "practice_change",
+  "quality_improvement",
+  "clinical_service_update",
+  "academic_update",
+  "expert_commentary",
+  "professional_review",
+  "guideline_implementation",
+  "substantive_conference_result",
 ]);
 
 const FORMAL_GUIDANCE_RE = /\b(?:clinical|practice) guideline\b|\bconsensus\b|\bpractice advisory\b|\bcommittee (?:opinion|statement)\b|\bconsult series\b|\bposition statement\b|\bgood practice paper\b|\bscientific impact paper\b|(?:指南|共识|实践公告|委员会意见|委员会声明|立场声明|正式监管建议)/iu;
@@ -137,6 +196,7 @@ function routeDecision(article: ArticleInput, source: SourceDef): RouteDecision 
     .filter((value): value is string => typeof value === "string")
     .join("\n");
   const documentType = classifyDocumentType(article);
+  const contentType = classifyObgynContentType(article);
 
   if (article.documentType && GUIDANCE_TYPES.has(article.documentType)) {
     return { kind: "column", category: "tech" };
@@ -145,17 +205,25 @@ function routeDecision(article: ArticleInput, source: SourceDef): RouteDecision 
     return { kind: "column", category: "tech" };
   }
 
-  const explicitTechniqueArticle = /\b(?:video article|technical note|surgical technique)\b/i.test(
+  const structuredResearch = article.documentType === "research_article"
+    || ORDINARY_RESEARCH_RE.test(typeText);
+  if (structuredResearch) {
+    return { kind: "reject", reason: "ordinary_research_article" };
+  }
+
+  const explicitTechniqueArticle = (contentType && SURGERY_CONTENT_TYPES.has(contentType)) || /\b(?:video article|technical note|surgical technique)\b/i.test(
     article.contentType ?? "",
   ) || /^\s*(?:video article|technical note|surgical technique)\b/i.test(article.title);
   if (explicitTechniqueArticle) {
     return { kind: "column", category: "finance" };
   }
 
-  const structuredResearch = article.documentType === "research_article"
-    || ORDINARY_RESEARCH_RE.test(typeText);
-  if (structuredResearch) {
-    return { kind: "reject", reason: "ordinary_research_article" };
+  if (contentType && GUIDANCE_CONTENT_TYPES.has(contentType)) {
+    return { kind: "column", category: "tech" };
+  }
+
+  if (contentType && DYNAMICS_CONTENT_TYPES.has(contentType)) {
+    return { kind: "column", category: "politics" };
   }
 
   if (GUIDANCE_TYPES.has(documentType) || FORMAL_GUIDANCE_RE.test(typeText)) {
@@ -219,22 +287,88 @@ export function routeObgynArticles(
 
 function markSupplemental(article: ArticleInput): ArticleInput {
   const current = article.meta?.trim();
-  if (current?.startsWith("近期补充")) return article;
-  return { ...article, meta: current ? `近期补充 · ${current}` : "近期补充" };
+  if (current?.startsWith("近期精选")) return article;
+  return { ...article, meta: current ? `近期精选 · ${current}` : "近期精选" };
+}
+
+function markSecondaryProfessionalContent(article: ArticleInput): ArticleInput {
+  const contentType = classifyObgynContentType(article);
+  return contentType && RECENT_SELECTION_CONTENT_TYPES.has(contentType)
+    ? markSupplemental(article)
+    : article;
+}
+
+function selectionColumn(article: ArticleInput, sourceById: Map<string, SourceDef>): string {
+  if (article.category !== "politics") return article.category;
+  const source = sourceById.get(article.sourceId);
+  return source?.subcategory === "china-obgyn" || source?.lang === "zh"
+    ? "china-obgyn"
+    : "international-obgyn";
+}
+
+function professionalValueScore(article: ArticleInput, sourceById: Map<string, SourceDef>): number {
+  const source = sourceById.get(article.sourceId);
+  const contentType = classifyObgynContentType(article);
+  const documentType = classifyDocumentType(article);
+  let score = source?.sourceClass === "official_authority" ? 40
+    : source?.sourceClass === "academic_journal" ? 30
+      : source?.sourceClass === "professional_vertical" ? 20
+        : 10;
+  if (GUIDANCE_TYPES.has(documentType)) score += 60;
+  else if (contentType && GUIDANCE_CONTENT_TYPES.has(contentType)) score += 50;
+  else if (contentType === "safety_alert" || contentType === "practice_change") score += 45;
+  else if (contentType && SURGERY_CONTENT_TYPES.has(contentType)) score += 40;
+  else if (contentType && DYNAMICS_CONTENT_TYPES.has(contentType)) score += 30;
+  return score;
+}
+
+function rankSupplemental(
+  articles: ArticleInput[],
+  sourceById: Map<string, SourceDef>,
+): ArticleInput[] {
+  return [...articles].sort((a, b) => {
+    const scoreDiff = professionalValueScore(b, sourceById) - professionalValueScore(a, sourceById);
+    if (scoreDiff !== 0) return scoreDiff;
+    return (b.publishedAt?.getTime() ?? 0) - (a.publishedAt?.getTime() ?? 0);
+  });
 }
 
 export function selectSupplementalObgynArticles(
   priority: ArticleInput[],
   supplemental: ArticleInput[],
-  minimum = 5,
+  minimum = 10,
+  maximum = 15,
+  sources: SourceDef[] = [],
 ): ArticleInput[] {
-  if (priority.length >= minimum) return priority;
-  const needed = minimum - priority.length;
-  const selectedSupplemental = [...supplemental]
-    .sort((a, b) => (b.publishedAt?.getTime() ?? 0) - (a.publishedAt?.getTime() ?? 0))
-    .slice(0, needed)
-    .map(markSupplemental);
-  return [...priority, ...selectedSupplemental];
+  const sourceById = new Map(sources.map((source) => [source.id, source]));
+  const rankedPriority = rankSupplemental(priority, sourceById)
+    .slice(0, maximum)
+    .map(markSecondaryProfessionalContent);
+  if (rankedPriority.length >= minimum) return rankedPriority;
+
+  const rankedSupplemental = rankSupplemental(supplemental, sourceById);
+  const selectedSupplemental: ArticleInput[] = [];
+  const selectedUrls = new Set<string>();
+  const representedColumns = new Set(rankedPriority.map((article) => selectionColumn(article, sourceById)));
+
+  for (const article of rankedSupplemental) {
+    const column = selectionColumn(article, sourceById);
+    if (representedColumns.has(column)) continue;
+    selectedSupplemental.push(article);
+    selectedUrls.add(normalizeContentUrl(article.url));
+    representedColumns.add(column);
+    if (rankedPriority.length + selectedSupplemental.length >= maximum) break;
+  }
+
+  for (const article of rankedSupplemental) {
+    if (rankedPriority.length + selectedSupplemental.length >= maximum) break;
+    const url = normalizeContentUrl(article.url);
+    if (selectedUrls.has(url)) continue;
+    selectedSupplemental.push(article);
+    selectedUrls.add(url);
+  }
+
+  return [...rankedPriority, ...selectedSupplemental.map(markSupplemental)];
 }
 
 export function findLlmRejectedObgynArticles(

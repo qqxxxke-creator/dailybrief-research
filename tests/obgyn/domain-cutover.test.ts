@@ -242,8 +242,31 @@ test("daily pipeline reviews priority content before conditionally reviewing sup
 
   assert.match(daily, /priorityArticles/);
   assert.match(daily, /supplementalArticles/);
-  assert.match(daily, /priorityAccepted\.length\s*<\s*5/);
+  assert.match(daily, /priorityAccepted\.length\s*<\s*10/);
   assert.match(daily, /selectSupplementalObgynArticles/);
   assert.match(daily, /column counts:/);
   assert.match(daily, /rejection samples/);
+});
+
+test("daily pipeline persists display-only history and logs selection diagnostics", () => {
+  const daily = fs.readFileSync(path.resolve("scripts/daily.ts"), "utf8");
+  const history = fs.readFileSync(path.resolve("lib/sources/guideline-history.ts"), "utf8");
+
+  assert.match(daily, /-displayed\.json/);
+  assert.match(daily, /toDisplayedArticleRecords\(articles\)/);
+  assert.doesNotMatch(history, /-articles\.json/);
+  for (const metric of [
+    "fetched_total",
+    "deterministic_accepted",
+    "history_rejected_by_url",
+    "history_rejected_by_title",
+    "semantic_accepted",
+    "semantic_rejected",
+    "priority_selected",
+    "supplemental_pool",
+    "supplemental_selected",
+    "final_displayed",
+  ]) {
+    assert.match(daily, new RegExp(metric));
+  }
 });

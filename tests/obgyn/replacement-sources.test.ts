@@ -4,7 +4,11 @@ import os from "node:os";
 import path from "node:path";
 import test from "node:test";
 
-import { filterPreviouslyPublishedArticles } from "../../lib/sources/guideline-history";
+import {
+  filterPreviouslyPublishedArticles,
+  filterPreviouslyPublishedArticlesWithStats,
+  toDisplayedArticleRecords,
+} from "../../lib/sources/guideline-history";
 import { parseCjournalCurrentHtml } from "../../lib/sources/cjournal-current";
 import { parseGocmRssXml } from "../../lib/sources/gocm";
 import type { ArticleInput } from "../../lib/ai/pipeline";
@@ -37,23 +41,22 @@ test("parses title, issue date, DOI and canonical article link from the Chinese 
   assert.equal(items[0].title, "子宫颈病变管理中国专家共识（2026版）");
   assert.equal(items[0].url, "https://cjournal.hep.com.cn/1672-1861/CN/10.13390/j.issn.1672-1861.2026.03.030");
   assert.equal(items[0].publishedAt?.toISOString(), "2026-08-04T00:00:00.000Z");
+  assert.equal(items[0].contentType, "metadata_only");
   assert.match(items[0].excerpt ?? "", /第27卷.*第3期.*10\.13390/);
 });
 
-test("article history suppresses canonical URLs and normalized titles across columns", () => {
+test("display history suppresses canonical URLs and normalized titles across columns", () => {
   const root = fs.mkdtempSync(path.join(os.tmpdir(), "guideline-history-"));
   const priorDir = path.join(root, "2026-08-04");
   fs.mkdirSync(priorDir, { recursive: true });
   fs.writeFileSync(
-    path.join(priorDir, "2026-08-04-articles.json"),
-    JSON.stringify({
-      articles: [{
+    path.join(priorDir, "2026-08-04-displayed.json"),
+    JSON.stringify([{
         sourceId: "acog-news",
         category: "tech",
         url: "https://example.test/guideline?utm_source=email",
         title: "Pregnancy guideline: updated care",
-      }],
-    }),
+    }]),
   );
   const candidates: ArticleInput[] = [
     {
@@ -80,17 +83,21 @@ test("article history suppresses canonical URLs and normalized titles across col
   );
 });
 
-test("article URL history ignores the current date and warns past malformed sidecars", () => {
+test("display history ignores candidate sidecars, the current date, and warns past malformed display files", () => {
   const root = fs.mkdtempSync(path.join(os.tmpdir(), "article-history-"));
   const currentDir = path.join(root, "2026-08-05");
   const brokenDir = path.join(root, "2026-08-04");
   fs.mkdirSync(currentDir, { recursive: true });
   fs.mkdirSync(brokenDir, { recursive: true });
   fs.writeFileSync(
-    path.join(currentDir, "2026-08-05-articles.json"),
-    JSON.stringify({ articles: [{ url: "https://example.test/current" }] }),
+    path.join(currentDir, "2026-08-05-displayed.json"),
+    JSON.stringify([{ url: "https://example.test/current", title: "Current report article" }]),
   );
-  fs.writeFileSync(path.join(brokenDir, "2026-08-04-articles.json"), "not json");
+  fs.writeFileSync(
+    path.join(brokenDir, "2026-08-04-articles.json"),
+    JSON.stringify({ articles: [{ url: "https://example.test/current", title: "Current report article" }] }),
+  );
+  fs.writeFileSync(path.join(brokenDir, "2026-08-04-displayed.json"), "not json");
   const candidates: ArticleInput[] = [{
     sourceId: guidelineSource.id,
     source: guidelineSource.name,
@@ -108,7 +115,135 @@ test("article URL history ignores the current date and warns past malformed side
     console.warn = originalWarn;
   }
   assert.equal(warnings.length, 1);
-  assert.match(warnings[0], /2026-08-04-articles\.json/);
+  assert.match(warnings[0], /2026-08-04-displayed\.json/);
+});
+
+test("legacy article sidecars never count as display history", () => {
+  const root = fs.mkdtempSync(path.join(os.tmpdir(), "legacy-article-history-"));
+  const priorDir = path.join(root, "2026-08-04");
+  fs.mkdirSync(priorDir, { recursive: true });
+  fs.writeFileSync(
+    path.join(priorDir, "2026-08-04-articles.json"),
+    JSON.stringify({
+      articles: [{
+        url: "https://example.test/never-displayed",
+        title: "Candidate that was never displayed",
+      }],
+    }),
+  );
+  const candidate: ArticleInput = {
+    sourceId: guidelineSource.id,
+    source: guidelineSource.name,
+    title: "Candidate that was never displayed",
+    url: "https://example.test/never-displayed",
+    publishedAt: new Date("2026-08-05T00:00:00.000Z"),
+    category: "tech",
+  };
+
+  assert.deepEqual(
+    filterPreviouslyPublishedArticles([candidate], root, "2026-08-05"),
+    [candidate],
+  );
+});
+
+test("display history diagnostics separate URL and title matches and retain their dates", () => {
+  const root = fs.mkdtempSync(path.join(os.tmpdir(), "display-history-stats-"));
+  const priorDir = path.join(root, "2026-08-03");
+  fs.mkdirSync(priorDir, { recursive: true });
+  fs.writeFileSync(
+    path.join(priorDir, "2026-08-03-displayed.json"),
+    JSON.stringify([
+      { url: "https://example.test/a", title: "First shown item", category: "tech", sourceId: "acog-news" },
+      { url: "https://example.test/b", title: "Second shown item", category: "politics", sourceId: "rcog-news" },
+    ]),
+  );
+  const candidates: ArticleInput[] = [
+    {
+      sourceId: "acog-news",
+      source: "ACOG",
+      title: "A changed title",
+      url: "https://example.test/a?utm_source=rss",
+      publishedAt: new Date("2026-08-05T00:00:00.000Z"),
+      category: "tech",
+    },
+    {
+      sourceId: "rcog-news",
+      source: "RCOG",
+      title: "Second shown item!",
+      url: "https://example.test/another-url",
+      publishedAt: new Date("2026-08-05T00:00:00.000Z"),
+      category: "politics",
+    },
+  ];
+
+  const result = filterPreviouslyPublishedArticlesWithStats(candidates, root, "2026-08-05");
+  assert.equal(result.rejectedByUrl, 1);
+  assert.equal(result.rejectedByTitle, 1);
+  assert.deepEqual(
+    result.rejections.map(({ matchedBy, matchedHistoryDate }) => ({ matchedBy, matchedHistoryDate })),
+    [
+      { matchedBy: "url", matchedHistoryDate: "2026-08-03" },
+      { matchedBy: "title", matchedHistoryDate: "2026-08-03" },
+    ],
+  );
+});
+
+test("display history records contain only the fields needed for non-research dedupe", () => {
+  const article: ArticleInput = {
+    sourceId: "acog-news",
+    source: "ACOG",
+    title: "Practice advisory",
+    url: "https://example.test/advisory",
+    publishedAt: new Date("2026-08-05T00:00:00.000Z"),
+    category: "tech",
+    excerpt: "Clinical details",
+    summary: "Summary that should not enter display history",
+  };
+
+  assert.deepEqual(toDisplayedArticleRecords([article]), [{
+    url: article.url,
+    title: article.title,
+    category: article.category,
+    sourceId: article.sourceId,
+  }]);
+});
+
+test("display history also deduplicates stable DOI and PMID identities when available", () => {
+  const root = fs.mkdtempSync(path.join(os.tmpdir(), "display-history-identities-"));
+  const priorDir = path.join(root, "2026-08-03");
+  fs.mkdirSync(priorDir, { recursive: true });
+  fs.writeFileSync(
+    path.join(priorDir, "2026-08-03-displayed.json"),
+    JSON.stringify([
+      { url: "https://example.test/old-doi", title: "Old DOI title", category: "tech", sourceId: "gocm-guidelines", doi: "10.1000/obgyn.1" },
+      { url: "https://pubmed.ncbi.nlm.nih.gov/12345678/", title: "Old PMID title", category: "tech", sourceId: "pubmed-asrm-guidance", pmid: "12345678" },
+    ]),
+  );
+  const candidates: ArticleInput[] = [
+    {
+      sourceId: "gocm-guidelines",
+      source: "GOCM",
+      title: "Retitled DOI item",
+      url: "https://gocm.bmj.com/new-copy",
+      excerpt: "DOI: 10.1000/obgyn.1",
+      publishedAt: new Date("2026-08-05T00:00:00.000Z"),
+      category: "tech",
+    },
+    {
+      sourceId: "pubmed-asrm-guidance",
+      source: "PubMed",
+      title: "Retitled PMID item",
+      url: "https://example.test/pmid-copy",
+      excerpt: "PMID: 12345678",
+      publishedAt: new Date("2026-08-05T00:00:00.000Z"),
+      category: "tech",
+    },
+  ];
+
+  const result = filterPreviouslyPublishedArticlesWithStats(candidates, root, "2026-08-05");
+  assert.deepEqual(result.articles, []);
+  assert.equal(result.rejectedByDoi, 1);
+  assert.equal(result.rejectedByPmid, 1);
 });
 
 test("routes GOCM guideline and video sections to their requested columns", async () => {

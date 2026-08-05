@@ -40,6 +40,29 @@ test("parses matching dated links and resolves canonical URLs", () => {
   assert.equal(items[0].category, "tech");
 });
 
+test("annotates explicit professional update and technique types without changing the page schema", () => {
+  const newsSource: SourceDef = {
+    ...source,
+    id: "acog-news",
+    name: "ACOG News",
+    url: "https://www.acog.org/news",
+    category: "politics",
+    sourceClass: "professional_vertical",
+    subcategory: "international-obgyn",
+    keywords: ["Clinical practice update", "Society news"],
+  };
+  const html = `
+    <main>
+      <article><a href="/news/clinical-update">Clinical practice update for maternal safety</a><time datetime="2026-08-05">5 August 2026</time><p>Implementation details for obstetric clinicians.</p></article>
+      <article><a href="/news/society-update">Society news: obstetric quality programme</a><time datetime="2026-08-05">5 August 2026</time><p>Professional standards and measurable quality actions.</p></article>
+    </main>`;
+
+  assert.deepEqual(
+    parseObgynPageHtml(newsSource, html).map((item) => item.contentType),
+    ["clinical_update", "society_update"],
+  );
+});
+
 test("does not emit navigation or excluded links", () => {
   const html = `
     <nav><a href="/guidance">Guidance</a></nav>

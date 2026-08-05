@@ -60,6 +60,7 @@ export function parseCjournalCurrentHtml(source: SourceDef, html: string): RawAr
       excerpt: [issue.label, `DOI: ${decodeURIComponent(doi)}`].filter(Boolean).join(" · "),
       publishedAt: issue.date,
       category: source.category,
+      contentType: "metadata_only",
     });
   });
   return results;

@@ -1,4 +1,5 @@
 import { load } from "cheerio";
+import { classifyObgynContentType } from "./content-policy";
 import type { RawArticle, SourceDef } from "./types";
 
 const REQUEST_HEADERS = {
@@ -82,14 +83,16 @@ export function parseObgynPageHtml(
     const excerpt = cleanText(context.replace(title, "")).slice(0, 500);
 
     seen.add(url);
-    results.push({
+    const article: RawArticle = {
       sourceId: source.id,
       title,
       url,
       excerpt: excerpt || undefined,
       publishedAt: publishedAt && !Number.isNaN(publishedAt.getTime()) ? publishedAt : undefined,
       category: source.category,
-    });
+    };
+    const contentType = classifyObgynContentType(article);
+    results.push(contentType ? { ...article, contentType } : article);
   });
 
   return results.slice(0, 50);

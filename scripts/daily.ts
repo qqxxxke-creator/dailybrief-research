@@ -35,10 +35,14 @@ import { loadPreviouslyShownResearchKeys } from "../lib/research/history";
 import {
   filterObgynCandidatesWithStats,
   findLlmRejectedObgynArticles,
+  normalizeContentUrl,
   selectSupplementalObgynArticles,
   type ObgynFilterRejection,
 } from "../lib/sources/obgyn-filter";
-import { filterPreviouslyPublishedArticles } from "../lib/sources/guideline-history";
+import {
+  filterPreviouslyPublishedArticlesWithStats,
+  toDisplayedArticleRecords,
+} from "../lib/sources/guideline-history";
 import { reviewObgynCandidates } from "../lib/ai/enrich";
 
 const OUTPUT_DIR = "daily_reports";
@@ -272,23 +276,47 @@ async function main() {
     `[daily] rule rejects: window=${filterStats.outsideTimeWindow}, not_obgyn=${filterStats.notObgyn}, content_type=${filterStats.unsupportedContentType}, missing_content=${filterStats.missingContent}, promotional=${filterStats.promotional}, invalid=${filterStats.invalidItem}, source=${filterStats.sourceExcluded}, duplicate=${filterStats.duplicate}`,
   );
 
-  const priorityArticles = filterPreviouslyPublishedArticles(filtered.priorityArticles, OUTPUT_DIR, date);
-  const supplementalArticles = filterPreviouslyPublishedArticles(filtered.supplementalArticles, OUTPUT_DIR, date);
-  const historyRejected = filtered.articles.length - priorityArticles.length - supplementalArticles.length;
+  const priorityHistory = filterPreviouslyPublishedArticlesWithStats(filtered.priorityArticles, OUTPUT_DIR, date);
+  const supplementalHistory = filterPreviouslyPublishedArticlesWithStats(filtered.supplementalArticles, OUTPUT_DIR, date);
+  const priorityArticles = priorityHistory.articles;
+  const supplementalArticles = supplementalHistory.articles;
+  const historyRejections = [...priorityHistory.rejections, ...supplementalHistory.rejections];
+  const historyRejectedByUrl = priorityHistory.rejectedByUrl + supplementalHistory.rejectedByUrl;
+  const historyRejectedByTitle = priorityHistory.rejectedByTitle + supplementalHistory.rejectedByTitle;
+  const historyRejectedByDoi = priorityHistory.rejectedByDoi + supplementalHistory.rejectedByDoi;
+  const historyRejectedByPmid = priorityHistory.rejectedByPmid + supplementalHistory.rejectedByPmid;
+  const historyRejected = historyRejectedByUrl + historyRejectedByTitle + historyRejectedByDoi + historyRejectedByPmid;
   console.log(`[daily] article history: passed=${priorityArticles.length + supplementalArticles.length}, rejected=${historyRejected}, total=${filtered.articles.length}`);
 
   const priorityAccepted = await reviewObgynCandidates(priorityArticles);
   let supplementalAccepted: ArticleInput[] = [];
-  if (priorityAccepted.length < 5 && supplementalArticles.length > 0) {
+  if (priorityAccepted.length < 10 && supplementalArticles.length > 0) {
     supplementalAccepted = await reviewObgynCandidates(supplementalArticles);
   }
-  const articles = selectSupplementalObgynArticles(priorityAccepted, supplementalAccepted, 5);
+  const articles = selectSupplementalObgynArticles(priorityAccepted, supplementalAccepted, 10, 15, sources);
   const llmReviewed = priorityArticles.length
-    + (priorityAccepted.length < 5 ? supplementalArticles.length : 0);
+    + (priorityAccepted.length < 10 ? supplementalArticles.length : 0);
   const llmAccepted = priorityAccepted.length + supplementalAccepted.length;
   const llmRejected = llmReviewed - llmAccepted;
+  const supplementalAcceptedUrls = new Set(supplementalAccepted.map((article) => normalizeContentUrl(article.url)));
+  const supplementalSelectedCount = articles.filter(
+    (article) => supplementalAcceptedUrls.has(normalizeContentUrl(article.url)),
+  ).length;
+  const prioritySelectedCount = articles.length - supplementalSelectedCount;
   console.log(`[daily] OB-GYN semantic review: passed=${llmAccepted}, rejected=${llmRejected}, total=${llmReviewed}`);
-  console.log(`[daily] window selection: priority=${priorityAccepted.length}, supplemental=${articles.length - priorityAccepted.length}, final=${articles.length}`);
+  console.log(`[daily] window selection: priority=${prioritySelectedCount}, supplemental=${supplementalSelectedCount}, final=${articles.length}`);
+  console.log(
+    `[daily] pipeline stats: fetched_total=${fetched.length}, deterministic_accepted=${filtered.articles.length}, history_rejected_by_url=${historyRejectedByUrl}, history_rejected_by_title=${historyRejectedByTitle}, history_rejected_by_doi=${historyRejectedByDoi}, history_rejected_by_pmid=${historyRejectedByPmid}, semantic_accepted=${llmAccepted}, semantic_rejected=${llmRejected}, priority_selected=${prioritySelectedCount}, supplemental_pool=${supplementalArticles.length}, supplemental_selected=${supplementalSelectedCount}, final_displayed=${articles.length}`,
+  );
+
+  if (historyRejected >= 20) {
+    console.warn(`[daily] history rejection samples (${Math.min(historyRejections.length, 20)}/20 max):`);
+    for (const rejection of historyRejections.slice(0, 20)) {
+      console.warn(
+        `  ${rejection.matchedBy} | ${rejection.matchedHistoryDate} | ${rejection.article.source} | ${rejection.article.title.slice(0, 140)}`,
+      );
+    }
+  }
 
   const sourceById = new Map(sources.map((source) => [source.id, source]));
   const columnCounts = {
@@ -312,7 +340,7 @@ async function main() {
     const historyKept = new Set([...priorityArticles, ...supplementalArticles]);
     const reviewedArticles = [
       ...priorityArticles,
-      ...(priorityAccepted.length < 5 ? supplementalArticles : []),
+      ...(priorityAccepted.length < 10 ? supplementalArticles : []),
     ];
     const rejectionSamples: ObgynFilterRejection[] = [
       ...filtered.rejections,
@@ -356,11 +384,16 @@ async function main() {
     "utf8",
   );
   fs.writeFileSync(`${base}.html`, renderHtml(report, raw, date), "utf8");
+  fs.writeFileSync(
+    `${base}-displayed.json`,
+    JSON.stringify(toDisplayedArticleRecords(articles), null, 2),
+    "utf8",
+  );
   if (process.env.OUTPUT_MARKDOWN === "true") {
     fs.writeFileSync(`${base}.md`, renderMarkdown(report, date, raw), "utf8");
-    console.log(`[daily] wrote ${base}.{json,html,md,articles.json}`);
+    console.log(`[daily] wrote ${base}.{json,html,md,articles.json,displayed.json}`);
   } else {
-    console.log(`[daily] wrote ${base}.{json,html,articles.json}`);
+    console.log(`[daily] wrote ${base}.{json,html,articles.json,displayed.json}`);
   }
 
   console.log(`[daily] done.`);

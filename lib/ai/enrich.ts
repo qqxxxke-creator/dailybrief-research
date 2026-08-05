@@ -377,11 +377,13 @@ export async function enrichTrendingPapersSummaries(
 
 const OBGYN_REVIEW_SYSTEM_PROMPT_ZH_V2 = `你是一名严谨的妇产科医学编辑，负责对候选内容做最终语义复核。
 只有直接属于妇产科、女性生殖健康、母胎医学、生殖医学、妇科肿瘤、盆底或妇科手术，并且具备临床、学术、监管或行业价值的内容，才可评为 accepted。证据不足但可能合格时评为 uncertain；医院宣传、患者科普、活动报名、商业广告、无关内容以及全部不合格条目必须评为 rejected。不得为了填满栏目放宽标准。
+除正式指南、共识、声明、监管政策、安全提醒和重大临床变化外，权威来源的指南解读、临床实践评论、专家述评、专业综述、手术技术教学、手术难点与并发症防治、质量改进、临床管理更新以及有实质结果的专业会议摘要，也可评为 accepted。普通原始研究、病例报告、无实质内容的会议通知和仅有宣传价值的材料仍须 rejected。
 对有可解析内容的 accepted 或 uncertain 条目，生成简洁的中文事实摘要，不得编造输入未提供的信息。只有标题、没有可解析内容时，必须写 uncertain 且 summary 留空。
 严格输出 JSON：{"reviews":[{"url":"输入原链接","status":"accepted | uncertain | rejected","summary":"中文事实摘要或空字符串","reason":"简短判断依据"}]}`;
 
 const OBGYN_REVIEW_SYSTEM_PROMPT_EN = `You are a rigorous obstetrics and gynecology medical editor performing the final semantic review.
 Use status=accepted only when an item is directly related to OB-GYN or female reproductive health, comes from a reliable professional source, and has clinical, academic, regulatory, or professional value. Use status=uncertain only when it may qualify but the supplied evidence is insufficient. Use status=rejected for patient education, hospital promotion, event registration, advertising, unrelated general health content, and every other non-qualifying item. Never relax the standard to fill a section.
+In addition to formal guidance, consensus, statements, policy, safety alerts, and major practice changes, accepted items may include authoritative guideline interpretation, clinical commentary, expert editorials, professional reviews, surgical teaching, complication prevention, quality improvement, clinical management updates, and substantive conference-result summaries. Continue to reject ordinary original research, case reports, content-free conference notices, and promotional material.
 For accepted or uncertain items with substantive supplied content, write a concise factual English summary without inventing information absent from the input. For title-only items, use uncertain and leave summary empty.
 Return strict JSON: {"reviews":[{"url":"exact input URL","status":"accepted | uncertain | rejected","summary":"English factual summary or empty string","reason":"brief rationale"}]}`;
 
@@ -394,6 +396,9 @@ export function buildObgynReviewUserPrompt(items: ArticleInput[]): string {
     title: item.title,
     source: item.source,
     category: item.category,
+    documentType: item.documentType ?? "",
+    contentType: item.contentType ?? "",
+    meta: item.meta ?? "",
     excerpt: (item.excerpt ?? "").slice(0, 500),
     publishedAt: item.publishedAt?.toISOString() ?? "",
   }));

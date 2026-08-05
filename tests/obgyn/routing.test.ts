@@ -82,6 +82,71 @@ test("routes society news, policy and clinical updates to international or China
   assert.deepEqual(routed.map((item) => item.category), ["politics", "politics"]);
 });
 
+test("routes normalized professional content types into existing surgery and dynamics columns", () => {
+  const surgery = source({
+    id: "aagl-surgeryu",
+    name: "AAGL SurgeryU",
+    category: "finance",
+    subcategory: "surgery",
+    sourceClass: "professional_vertical",
+  });
+  const international = source({
+    id: "acog-news",
+    name: "ACOG News",
+    category: "politics",
+    subcategory: "international-obgyn",
+    sourceClass: "professional_vertical",
+  });
+  const china = source({
+    id: "obgy-cn",
+    name: "妇产科网",
+    category: "politics",
+    subcategory: "china-obgyn",
+    sourceClass: "professional_vertical",
+    lang: "zh",
+  });
+  const routed = routeObgynArticles([
+    article(surgery, { title: "New operative method", contentType: "surgical_technique" }),
+    article(surgery, { title: "New surgical recording", contentType: "video_article", url: "https://example.test/video" }),
+    article(surgery, { title: "Instrument update", contentType: "technical_note", url: "https://example.test/note" }),
+    article(international, { title: "Professional organisation activity", contentType: "society_update" }),
+    article(international, { title: "Maternal service implementation", contentType: "clinical_update", url: "https://example.test/clinical" }),
+    article(international, { title: "Practice implementation", contentType: "practice_change", url: "https://example.test/practice" }),
+    article(china, { title: "Maternal service policy", contentType: "policy_update", url: "https://example.test/policy" }),
+    article(china, { title: "Professional academic programme", contentType: "academic_update", url: "https://example.test/academic" }),
+    article(china, { title: "Specialist interpretation", contentType: "expert_commentary", url: "https://example.test/commentary" }),
+  ], [surgery, international, china]);
+
+  assert.deepEqual(routed.map((item) => item.category), [
+    "finance", "finance", "finance",
+    "politics", "politics", "politics",
+    "politics", "politics", "politics",
+  ]);
+});
+
+test("routes recent-selection guidance interpretation, surgical teaching and professional reviews", () => {
+  const journal = source({
+    id: "china-clinical-obgyn-current",
+    name: "中国妇产科临床杂志",
+    sourceClass: "academic_journal",
+    lang: "zh",
+  });
+  const surgery = source({
+    id: "aagl-surgeryu",
+    name: "AAGL SurgeryU",
+    category: "finance",
+    subcategory: "surgery",
+    sourceClass: "professional_vertical",
+  });
+  const routed = routeObgynArticles([
+    article(journal, { title: "指南解读：宫颈癌筛查", contentType: "guideline_interpretation" }),
+    article(journal, { title: "临床综述：子痫前期管理", contentType: "professional_review", url: "https://example.test/review" }),
+    article(surgery, { title: "Operative tips for difficult hysteroscopy", contentType: "operative_tips" }),
+  ], [journal, surgery]);
+
+  assert.deepEqual(routed.map((item) => item.category), ["tech", "politics", "finance"]);
+});
+
 test("keeps ambiguous accepted content in its configured source column", () => {
   const smfm = source({});
   const [routed] = routeObgynArticles([
@@ -148,7 +213,7 @@ test("structured ordinary research cannot masquerade as guidance or clinical new
   assert.deepEqual(routed, []);
 });
 
-test("adds only enough supplemental items to reach five and marks existing meta", () => {
+test("marks selected recent professional content without adding a report field", () => {
   const origin = source({ id: "acog-news", category: "politics", subcategory: "international-obgyn" });
   const priority = [0, 1, 2].map((index) => article(origin, {
     title: `Priority ${index}`,
@@ -161,10 +226,58 @@ test("adds only enough supplemental items to reach five and marks existing meta"
     publishedAt: new Date(`2026-08-0${5 - index}T00:00:00.000Z`),
   }));
 
-  const selected = selectSupplementalObgynArticles(priority, supplemental, 5);
+  const selected = selectSupplementalObgynArticles(priority, supplemental, 5, 5, [origin]);
 
   assert.equal(selected.length, 5);
-  assert.deepEqual(selected.slice(3).map((item) => item.meta), ["近期补充 · FDA", "近期补充"]);
+  assert.deepEqual(selected.slice(3).map((item) => item.meta), ["近期精选 · FDA", "近期精选"]);
+});
+
+test("recent selection caps at fifteen and gives empty columns a first opportunity", () => {
+  const guideline = source({ id: "acog-clinical-guidance", category: "tech", subcategory: "guidelines" });
+  const surgery = source({ id: "aagl-surgeryu", category: "finance", subcategory: "surgery", sourceClass: "professional_vertical" });
+  const international = source({ id: "acog-news", category: "politics", subcategory: "international-obgyn", sourceClass: "professional_vertical" });
+  const china = source({ id: "obgy-cn", category: "politics", subcategory: "china-obgyn", sourceClass: "professional_vertical", lang: "zh" });
+  const priority = [0, 1].map((index) => article(guideline, {
+    title: `Priority guideline ${index}`,
+    url: `https://example.test/priority-guideline-${index}`,
+    documentType: "guideline",
+  }));
+  const supplemental = [
+    article(surgery, { title: "Operative tips", url: "https://example.test/surgery", contentType: "operative_tips" }),
+    article(international, { title: "Society update", url: "https://example.test/international", contentType: "society_update" }),
+    article(china, { title: "Clinical service update", url: "https://example.test/china", contentType: "clinical_service_update" }),
+    ...Array.from({ length: 20 }, (_, index) => article(guideline, {
+      title: `Guideline interpretation ${index}`,
+      url: `https://example.test/guideline-${index}`,
+      contentType: "guideline_interpretation",
+    })),
+  ];
+
+  const selected = selectSupplementalObgynArticles(
+    priority,
+    supplemental,
+    10,
+    15,
+    [guideline, surgery, international, china],
+  );
+
+  assert.equal(selected.length, 15);
+  assert.ok(selected.some((item) => item.sourceId === surgery.id));
+  assert.ok(selected.some((item) => item.sourceId === international.id));
+  assert.ok(selected.some((item) => item.sourceId === china.id));
+  assert.ok(selected.slice(priority.length).every((item) => item.meta?.startsWith("近期精选")));
+});
+
+test("marks secondary professional content even inside the priority window", () => {
+  const guideline = source({ id: "acog-clinical-guidance", category: "tech", subcategory: "guidelines" });
+  const dynamics = source({ id: "acog-news", category: "politics", subcategory: "international-obgyn", sourceClass: "professional_vertical" });
+  const selected = selectSupplementalObgynArticles([
+    article(guideline, { title: "Formal guideline", documentType: "guideline" }),
+    article(dynamics, { title: "Clinical review", contentType: "professional_review", url: "https://example.test/review" }),
+  ], [], 2, 15, [guideline, dynamics]);
+
+  assert.equal(selected.find((item) => item.documentType === "guideline")?.meta, undefined);
+  assert.equal(selected.find((item) => item.contentType === "professional_review")?.meta, "近期精选");
 });
 
 test("LLM rejection diagnostics match cloned accepted articles by canonical URL", () => {

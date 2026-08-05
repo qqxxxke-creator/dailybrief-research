@@ -73,7 +73,7 @@ test("rejects non-medical, promotional, stale, undated, and duplicate candidates
       { ...good },
       article("OpenAI launches a new coding model", new Date("2026-08-05T07:00:00.000Z")),
       article("医院宣传：妇科名医义诊活动", new Date("2026-08-05T07:00:00.000Z")),
-      article("Clinical Practice Guideline: pregnancy", new Date("2026-05-01T07:00:00.000Z")),
+      article("Clinical Practice Guideline: pregnancy", new Date("2026-01-01T07:00:00.000Z")),
       article("Clinical Practice Guideline: pregnancy", undefined),
     ],
     [source],
@@ -83,8 +83,8 @@ test("rejects non-medical, promotional, stale, undated, and duplicate candidates
   assert.deepEqual(accepted.map((item) => item.url), ["https://example.test/good"]);
 });
 
-test("partitions candidates by routed 30/90d, 7/30d and 72h/7d windows", () => {
-  const guidelineSource = { ...source, lookbackHours: 2160 };
+test("partitions candidates by routed 30/180d, 14/90d and 7/30d windows", () => {
+  const guidelineSource = { ...source, lookbackHours: 4320 };
   const surgerySource: SourceDef = {
     ...source,
     id: "aagl-surgeryu",
@@ -93,7 +93,7 @@ test("partitions candidates by routed 30/90d, 7/30d and 72h/7d windows", () => {
     sourceClass: "professional_vertical",
     category: "finance",
     subcategory: "surgery",
-    lookbackHours: 168,
+    lookbackHours: 2160,
   };
   const internationalSource: SourceDef = {
     ...surgerySource,
@@ -134,13 +134,13 @@ test("partitions candidates by routed 30/90d, 7/30d and 72h/7d windows", () => {
       url: "https://surgeryu.aagl.org/maternity-safety",
     },
     {
-      ...article("Maternal health service update", new Date("2026-07-31T08:00:00.000Z"), "A substantive policy update."),
+      ...article("Maternal health service update", new Date("2026-07-20T08:00:00.000Z"), "A substantive policy update."),
       sourceId: chinaSource.id,
       source: chinaSource.name,
       category: chinaSource.category,
       url: "https://surgeryu.aagl.org/maternal-health",
     },
-    article("Clinical Guideline: expired", new Date("2026-04-01T08:00:00.000Z")),
+    article("Clinical Guideline: expired", new Date("2026-01-01T08:00:00.000Z")),
   ];
 
   const result = filterObgynCandidatesWithStats(
@@ -174,7 +174,7 @@ test("reports aggregate deterministic filter passes and rejection stages", () =>
   );
   const stale = article(
     "Clinical Practice Guideline: maternal care",
-    new Date("2026-04-01T07:00:00.000Z"),
+    new Date("2026-01-01T07:00:00.000Z"),
   );
 
   const result = filterObgynCandidatesWithStats(
@@ -383,11 +383,11 @@ test("configures exact category windows in the source manifest", () => {
   const sources = loadAllSources();
   for (const configuredSource of sources) {
     const expected = configuredSource.subcategory === "guidelines"
-      ? 2160
+      ? 4320
       : configuredSource.subcategory === "surgery"
-        ? 720
+        ? 2160
         : ["international-obgyn", "china-obgyn"].includes(configuredSource.subcategory ?? "")
-          ? 168
+          ? 720
           : undefined;
     assert.equal(configuredSource.lookbackHours, expected, configuredSource.id);
   }

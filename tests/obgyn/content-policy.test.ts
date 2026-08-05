@@ -2,6 +2,7 @@ import assert from "node:assert/strict";
 import test from "node:test";
 
 import {
+  classifyObgynContentType,
   classifyDocumentType,
   hasSubstantiveContent,
   isHardExcluded,
@@ -40,6 +41,45 @@ function article(title: string, overrides: Partial<RawArticle> = {}): RawArticle
 test("classifies official formal documents by item type, not institution id", () => {
   assert.equal(classifyDocumentType(article("ACOG Practice Advisory")), "practice_advisory");
   assert.equal(classifyDocumentType(article("ACOG webinar registration")), "education");
+});
+
+test("normalizes explicit and inferred professional content types", () => {
+  const cases: Array<[RawArticle, string]> = [
+    [article("Operative methods", { contentType: "Surgical Technique" }), "surgical_technique"],
+    [article("Robotic hysterectomy", { contentType: "Video Article" }), "video_article"],
+    [article("Technical Note: uterine closure"), "technical_note"],
+    [article("Society news: new maternal safety initiative"), "society_update"],
+    [article("Clinical practice update for preeclampsia"), "clinical_update"],
+    [article("Policy update: maternity services"), "policy_update"],
+    [article("Academic update: national obstetric quality programme"), "academic_update"],
+    [article("Practice change: postpartum blood pressure follow-up"), "practice_change"],
+    [article("Patient safety alert: fetal monitoring"), "safety_alert"],
+    [article("Expert commentary on assisted reproduction"), "expert_commentary"],
+  ];
+
+  for (const [candidate, expected] of cases) {
+    assert.equal(classifyObgynContentType(candidate), expected, candidate.title);
+  }
+});
+
+test("recognizes recent-selection guidance, surgery, review and conference types", () => {
+  const cases: Array<[string, string]> = [
+    ["Guideline interpretation: cervical screening", "guideline_interpretation"],
+    ["Clinical practice recommendation for placenta accreta", "clinical_practice_recommendation"],
+    ["Operative tips for difficult hysteroscopy", "operative_tips"],
+    ["Step-by-step procedure for vNOTES", "step_by_step_procedure"],
+    ["Surgical complication prevention in cesarean delivery", "complication_prevention"],
+    ["Quality improvement in maternity safety", "quality_improvement"],
+    ["Clinical review of endometriosis care", "professional_review"],
+    ["Conference results summary: maternal safety programme", "substantive_conference_result"],
+    ["指南解读：宫颈癌筛查", "guideline_interpretation"],
+    ["临床综述：子痫前期管理", "professional_review"],
+    ["专家论坛：辅助生殖规范", "expert_commentary"],
+  ];
+
+  for (const [title, expected] of cases) {
+    assert.equal(classifyObgynContentType(article(title)), expected, title);
+  }
 });
 
 test("prioritizes structured document type over title patterns", () => {
@@ -166,6 +206,7 @@ test("requires an official host, valid date, and original URL for title-only fal
 test("recognizes excerpts and declared content types as substantive content", () => {
   assert.equal(hasSubstantiveContent(article("News", { excerpt: "A clinically relevant update." })), true);
   assert.equal(hasSubstantiveContent(article("News", { contentType: "abstract" })), true);
+  assert.equal(hasSubstantiveContent(article("News", { excerpt: "2026年第3期 · DOI: 10.1000/example", contentType: "metadata_only" })), false);
   assert.equal(hasSubstantiveContent(article("News", { excerpt: "   " })), false);
 });
 
