@@ -1,0 +1,925 @@
+{
+  "hero_headline": "俄军夜袭基辅致17死 泽连斯基呼吁增防空",
+  "daily_overview": "今日科技领域，阿里巴巴发布2.4万亿参数开源模型Qwen3.8-Max，DeepMind推出机器人基础模型Gemini Robotics ER 2，OpenAI回应第三方网络评测并解释AI模型欺骗行为；财经方面，霍尔木兹协议预期压制油价，SpaceX首份财报凸显AI资本开支隐忧，艺电550亿美元易主；时政方面，俄军夜袭基辅致17死，泽连斯基呼吁加强防空，台湾汉光演习启动，克什米尔抗议升级。",
+  "tech_briefs": [
+    {
+      "title": "阿里发布Qwen3.8-Max 2.4万亿参数开源模型",
+      "url": "https://news.smol.ai/issues/26-08-03-qwen-38/",
+      "source": "Smol AI News",
+      "summary": "阿里巴巴推出2.4万亿参数开源模型Qwen3.8-Max，强调自主编程、长程任务执行和多模态反馈，并采用激进定价策略，早期基准"
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "",
+  "keywords": [],
+  "trading": {
+    "market_overview": "美股三大类 ETF 技术面偏强：SPY 贴近 52 周高点，QQQ 单日上涨 3.4%、5 日涨 7.16%，两者 MACD 均现金叉，标普 RSI 66 接近超买但未极端；个股分化，MSFT RSI 79 超买，TSLA/META 呈空头排列。加密市场处于恐慌区，恐慌贪婪指数仅 27，总市值约 2.28 万亿美元、24 小时微涨 0.46%，BTC 主导率 56.6% 表明资金仍集中在比特币；BTC/ETH 缺乏方向信号，RSI 均在 50 附近，ETH 自 52 周高点回撤 62.22%。中概股动能突出：BABA RSI 70.9 超买、JD RSI 78.4 超买，两者 5 日涨幅 11.98% 与 3.71%，短线动能强但超买风险上升。商品外汇方面：黄金单日涨 2.93% 但仍在 SMA200 下方，原油 5 日跌 9.27% 且 MACD 死叉，美元兑人民币 RSI 27.8 超卖、创区间低位，VIX 5 日大挫 20.81% 显示风险偏好回暖。",
+    "watchlist": [
+      {
+        "symbol": "SPY",
+        "display_name": "标普500 ETF (SPY)",
+        "stance": "偏上行",
+        "rationale": "股价 771.33 美元，现价高于 SMA20（747.2）、SMA50（745.89）和 SMA200（701.39）形成多头排列；RSI 为 66，距超买尚有余量；MACD 值 2.56 高于信号线 0.55，呈金叉状态；距 52 周高点仅 0.27%，动能偏强。技术面整体偏上行。"
+      },
+      {
+        "symbol": "TSLA",
+        "display_name": "特斯拉 (TSLA)",
+        "stance": "偏下行",
+        "rationale": "现价 327.35，低于 SMA20（355.27）、SMA50（387.05）与 SMA200（410.52），均线空头排列；RSI 39.2 显示偏弱但未极端超卖；MACD -23.22 低于信号线 -20.63，绿柱扩张，近 5 日仅反弹 6.48%，距 52 周高点回撤 34.38%。技术结构偏下行。"
+      },
+      {
+        "symbol": "BTC-USD",
+        "display_name": "比特币 (BTC-USD)",
+        "stance": "中性",
+        "rationale": "现价 64,124.36，RSI 50.9 处于多空平衡区；价格略低于 SMA20（64,347.41）但高于 SMA50（63,232.02），同时受制于 SMA200（70,652.5）；MACD -64.41 低于信号 21.41 显示动能仍偏空，但 5 日涨 2.09%，方向不明。整体定性中性。"
+      },
+      {
+        "symbol": "^TNX",
+        "display_name": "10年期美债收益率 (^TNX)",
+        "stance": "偏上行",
+        "rationale": "10年期美债收益率现报 4.63%，高于 SMA20（4.62%）、SMA50（4.53%）与 SMA200（4.29%）构成多头排列；RSI 53 属中性偏强；MACD 0.0451 略高于信号线 0.0446，距离 52 周高点仅 2.53%，趋势动能尚存，偏上行。"
+      },
+      {
+        "symbol": "USDCNY=X",
+        "display_name": "美元/人民币 (USDCNY=X)",
+        "stance": "偏下行",
+        "rationale": "美元兑人民币现价 6.74，低于 SMA20（6.77）、SMA50（6.77）与 SMA200（6.90），呈空头排列；RSI 27.8 落入超卖区；MACD -0.0088 低于信号线 -0.0057，绿柱延续，逼近 52 周低位，技术状态偏下行。"
+      }
+    ],
+    "risk_caveat": "以上技术指标读数仅反映当前价格、均线与动量关系的静态状态，过去走势不代表未来表现；本报告仅供技术指标解读参考，不构成任何投资建议。",
+    "tickers": [
+      {
+        "symbol": "SPY",
+        "displayName": "S&P 500 ETF",
+        "group": "us-equity",
+        "currency": "USD",
+        "exchangeName": "PCX",
+        "currentPrice": 771.33,
+        "pct1Day": 1.8028980160170318,
+        "pct5Day": 4.112789899697244,
+        "pct52WeekHigh": -0.26893885519969063,
+        "pct52WeekLow": 23.011291145700447,
+        "sma20": 747.1950042724609,
+        "sma50": 745.8906042480469,
+        "sma200": 701.3941009521484,
+        "rsi14": 66.00383694200383,
+        "macd": 2.558823068221159,
+        "macdSignal": 0.5534540131323961,
+        "macdHistogram": 2.005369055088763,
+        "trend": "bullish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "macd-bull-cross",
+            "label": "MACD 金叉",
+            "daysAgo": 1
+          },
+          {
+            "type": "near-52w-high",
+            "label": "接近 52 周高"
+          },
+          {
+            "type": "above-sma50-sma200",
+            "label": "多头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "QQQ",
+        "displayName": "Nasdaq 100 ETF",
+        "group": "us-equity",
+        "currency": "USD",
+        "exchangeName": "NGM",
+        "currentPrice": 723.85,
+        "pct1Day": 3.3968020950750724,
+        "pct5Day": 7.159248910386597,
+        "pct52WeekHigh": -3.3126293995859153,
+        "pct52WeekLow": 30.282577393808495,
+        "sma20": 700.6019958496094,
+        "sma50": 715.0131994628906,
+        "sma200": 646.1549990844727,
+        "rsi14": 58.02423705861232,
+        "macd": -5.213836798795683,
+        "macdSignal": -7.180832709619628,
+        "macdHistogram": 1.966995910823945,
+        "trend": "bullish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "macd-bull-cross",
+            "label": "MACD 金叉",
+            "daysAgo": 0
+          },
+          {
+            "type": "above-sma50-sma200",
+            "label": "多头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "AAPL",
+        "displayName": "Apple",
+        "group": "us-equity",
+        "currency": "USD",
+        "exchangeName": "NMS",
+        "currentPrice": 309.38,
+        "pct1Day": 1.9642694313192073,
+        "pct5Day": -9.027284105041566,
+        "pct52WeekHigh": -10.212728908494645,
+        "pct52WeekLow": 53.03719825880491,
+        "sma20": 323.84100036621095,
+        "sma50": 309.6106005859375,
+        "sma200": 278.53894943237304,
+        "rsi14": 44.68332659519791,
+        "macd": 3.1104415600494804,
+        "macdSignal": 6.6314537396775375,
+        "macdHistogram": -3.521012179628057,
+        "trend": "neutral",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "macd-bear-cross",
+            "label": "MACD 死叉",
+            "daysAgo": 2
+          }
+        ]
+      },
+      {
+        "symbol": "MSFT",
+        "displayName": "Microsoft",
+        "group": "us-equity",
+        "currency": "USD",
+        "exchangeName": "NMS",
+        "currentPrice": 492.81,
+        "pct1Day": 1.0581372230286472,
+        "pct5Day": 25.285367319991874,
+        "pct52WeekHigh": -11.000144477353178,
+        "pct52WeekLow": 41.12542955326461,
+        "sma20": 407.11000061035156,
+        "sma50": 402.21119812011716,
+        "sma200": 433.3503994750977,
+        "rsi14": 79.0191488649259,
+        "macd": 19.4541004224713,
+        "macdSignal": 7.439845456844624,
+        "macdHistogram": 12.014254965626675,
+        "trend": "neutral",
+        "rsiState": "overbought",
+        "signals": [
+          {
+            "type": "rsi-overbought",
+            "label": "RSI 超买"
+          }
+        ]
+      },
+      {
+        "symbol": "NVDA",
+        "displayName": "Nvidia",
+        "group": "us-equity",
+        "currency": "USD",
+        "exchangeName": "NMS",
+        "currentPrice": 211.94,
+        "pct1Day": 2.5648473799874885,
+        "pct5Day": 7.578298517563795,
+        "pct52WeekHigh": -10.399932358163522,
+        "pct52WeekLow": 29.176570975803013,
+        "sma20": 204.60149765014648,
+        "sma50": 205.68639923095702,
+        "sma200": 193.4060001373291,
+        "rsi14": 56.92820164408778,
+        "macd": -0.4111215702507991,
+        "macdSignal": -0.9322976713664082,
+        "macdHistogram": 0.5211761011156091,
+        "trend": "bullish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "macd-bull-cross",
+            "label": "MACD 金叉",
+            "daysAgo": 0
+          },
+          {
+            "type": "above-sma50-sma200",
+            "label": "多头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "GOOGL",
+        "displayName": "Alphabet",
+        "group": "us-equity",
+        "currency": "USD",
+        "exchangeName": "NMS",
+        "currentPrice": 377.65,
+        "pct1Day": 1.1084014152586683,
+        "pct5Day": 13.167124050835252,
+        "pct52WeekHigh": -7.576907075206194,
+        "pct52WeekLow": 94.99664377549439,
+        "sma20": 348.9375,
+        "sma50": 358.229599609375,
+        "sma200": 327.5460498046875,
+        "rsi14": 62.558866095150606,
+        "macd": -0.35690519813925903,
+        "macdSignal": -4.808186473348839,
+        "macdHistogram": 4.45128127520958,
+        "trend": "bullish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "macd-bull-cross",
+            "label": "MACD 金叉",
+            "daysAgo": 2
+          },
+          {
+            "type": "above-sma50-sma200",
+            "label": "多头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "TSLA",
+        "displayName": "Tesla",
+        "group": "us-equity",
+        "currency": "USD",
+        "exchangeName": "NMS",
+        "currentPrice": 327.35,
+        "pct1Day": 1.6362436809006624,
+        "pct5Day": 6.476059523967879,
+        "pct52WeekHigh": -34.37644087163963,
+        "pct52WeekLow": 10.078014661376027,
+        "sma20": 355.26849975585935,
+        "sma50": 387.0469989013672,
+        "sma200": 410.5249002075195,
+        "rsi14": 39.211730796366396,
+        "macd": -23.219367724491406,
+        "macdSignal": -20.625996849192084,
+        "macdHistogram": -2.593370875299321,
+        "trend": "bearish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "below-sma50-sma200",
+            "label": "空头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "META",
+        "displayName": "Meta",
+        "group": "us-equity",
+        "currency": "USD",
+        "exchangeName": "NMS",
+        "currentPrice": 587.94,
+        "pct1Day": -0.38967034976089227,
+        "pct5Day": -0.9217865206318206,
+        "pct52WeekHigh": -26.161381475667184,
+        "pct52WeekLow": 13.00888017529698,
+        "sma20": 618.9184936523437,
+        "sma50": 601.4989953613281,
+        "sma200": 633.2470980834961,
+        "rsi14": 46.4590937739112,
+        "macd": -8.957176109090597,
+        "macdSignal": -2.2412948065872182,
+        "macdHistogram": -6.715881302503378,
+        "trend": "bearish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "below-sma50-sma200",
+            "label": "空头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "BTC-USD",
+        "displayName": "Bitcoin",
+        "group": "crypto",
+        "currency": "USD",
+        "exchangeName": "CCC",
+        "currentPrice": 64124.36,
+        "pct1Day": 0.10679237707463367,
+        "pct5Day": 2.0865081096960836,
+        "pct52WeekHigh": -49.18752719435409,
+        "pct52WeekLow": 11.042148366397408,
+        "sma20": 64347.4126953125,
+        "sma50": 63232.02234375,
+        "sma200": 70652.50423828125,
+        "rsi14": 50.87072633648906,
+        "macd": -64.41430383043189,
+        "macdSignal": 21.411250001977987,
+        "macdHistogram": -85.82555383240988,
+        "trend": "neutral",
+        "rsiState": "normal",
+        "signals": []
+      },
+      {
+        "symbol": "ETH-USD",
+        "displayName": "Ethereum",
+        "group": "crypto",
+        "currency": "USD",
+        "exchangeName": "CCC",
+        "currentPrice": 1871.35,
+        "pct1Day": 0.15864687262365187,
+        "pct5Day": 0.5915057223925956,
+        "pct52WeekHigh": -62.22343836456265,
+        "pct52WeekLow": 24.217916998256296,
+        "sma20": 1886.2082092285157,
+        "sma50": 1786.4625146484375,
+        "sma200": 2073.5956713867185,
+        "rsi14": 51.757660171077674,
+        "macd": 16.774476005276483,
+        "macdSignal": 26.305047544546216,
+        "macdHistogram": -9.530571539269733,
+        "trend": "neutral",
+        "rsiState": "normal",
+        "signals": []
+      },
+      {
+        "symbol": "SOL-USD",
+        "displayName": "Solana",
+        "group": "crypto",
+        "currency": "USD",
+        "exchangeName": "CCC",
+        "currentPrice": 73.95,
+        "pct1Day": 0.31504189360459256,
+        "pct5Day": 1.5940714554263362,
+        "pct52WeekHigh": -70.79498076497009,
+        "pct52WeekLow": 22.403943939490244,
+        "sma20": 74.8278709411621,
+        "sma50": 75.02530364990234,
+        "sma200": 84.66410846710205,
+        "rsi14": 46.911336262774945,
+        "macd": -0.7427163226230533,
+        "macdSignal": -0.6078801772553717,
+        "macdHistogram": -0.13483614536768163,
+        "trend": "bearish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "below-sma50-sma200",
+            "label": "空头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "BABA",
+        "displayName": "阿里巴巴 (BABA)",
+        "group": "china-equity",
+        "currency": "USD",
+        "exchangeName": "NYQ",
+        "currentPrice": 128.99,
+        "pct1Day": 1.327570233879001,
+        "pct5Day": 11.980204241781669,
+        "pct52WeekHigh": -33.051331291846154,
+        "pct52WeekLow": 40.221763235134276,
+        "sma20": 116.42100028991699,
+        "sma50": 113.8822004699707,
+        "sma200": 140.69814987182616,
+        "rsi14": 70.93531649754921,
+        "macd": 3.336569537082042,
+        "macdSignal": 1.6524487678403232,
+        "macdHistogram": 1.6841207692417186,
+        "trend": "neutral",
+        "rsiState": "overbought",
+        "signals": [
+          {
+            "type": "rsi-overbought",
+            "label": "RSI 超买"
+          }
+        ]
+      },
+      {
+        "symbol": "PDD",
+        "displayName": "拼多多 (PDD)",
+        "group": "china-equity",
+        "currency": "USD",
+        "exchangeName": "NMS",
+        "currentPrice": 91.03,
+        "pct1Day": 0.9761491505560077,
+        "pct5Day": 6.206978149987081,
+        "pct52WeekHigh": -34.70339286995194,
+        "pct52WeekLow": 26.536002224075624,
+        "sma20": 85.86349983215332,
+        "sma50": 83.84659973144531,
+        "sma200": 103.45284984588623,
+        "rsi14": 64.97107347167434,
+        "macd": 1.4875888569820575,
+        "macdSignal": 0.7323287566109525,
+        "macdHistogram": 0.7552601003711049,
+        "trend": "neutral",
+        "rsiState": "normal",
+        "signals": []
+      },
+      {
+        "symbol": "JD",
+        "displayName": "京东 (JD)",
+        "group": "china-equity",
+        "currency": "USD",
+        "exchangeName": "NMS",
+        "currentPrice": 32.97,
+        "pct1Day": -0.15142476399305102,
+        "pct5Day": 3.711856088359854,
+        "pct52WeekHigh": -10.553445469343464,
+        "pct52WeekLow": 34.527501224090095,
+        "sma20": 30.3790002822876,
+        "sma50": 28.87360008239746,
+        "sma200": 29.438175048828125,
+        "rsi14": 78.36794690630786,
+        "macd": 1.2698625939167272,
+        "macdSignal": 0.9445684520854047,
+        "macdHistogram": 0.32529414183132244,
+        "trend": "neutral",
+        "rsiState": "overbought",
+        "signals": [
+          {
+            "type": "rsi-overbought",
+            "label": "RSI 超买"
+          }
+        ]
+      },
+      {
+        "symbol": "0700.HK",
+        "displayName": "腾讯控股 (0700.HK)",
+        "group": "china-equity",
+        "currency": "HKD",
+        "exchangeName": "HKG",
+        "currentPrice": 492.2,
+        "pct1Day": 0.9433949628597427,
+        "pct5Day": 5.531733799559573,
+        "pct52WeekHigh": -27.93557833089312,
+        "pct52WeekLow": 19.756690997566906,
+        "sma20": 465.4600036621094,
+        "sma50": 452.4560021972656,
+        "sma200": 537.0295008850097,
+        "rsi14": 61.64019849939259,
+        "macd": 8.39155747155803,
+        "macdSignal": 4.599536858293055,
+        "macdHistogram": 3.7920206132649756,
+        "trend": "neutral",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "macd-bull-cross",
+            "label": "MACD 金叉",
+            "daysAgo": 4
+          }
+        ]
+      },
+      {
+        "symbol": "GC=F",
+        "displayName": "黄金期货",
+        "group": "commodity-fx",
+        "currency": "USD",
+        "exchangeName": "CMX",
+        "currentPrice": 4215.4,
+        "pct1Day": 2.9301191707206655,
+        "pct5Day": 4.478648995339554,
+        "pct52WeekHigh": -24.539042640793387,
+        "pct52WeekLow": 27.349626899489433,
+        "sma20": 4065.8400268554688,
+        "sma50": 4175.970009765625,
+        "sma200": 4478.237487792969,
+        "rsi14": 58.19684923769324,
+        "macd": -16.206454017601118,
+        "macdSignal": -38.307413905183175,
+        "macdHistogram": 22.100959887582057,
+        "trend": "neutral",
+        "rsiState": "normal",
+        "signals": []
+      },
+      {
+        "symbol": "CL=F",
+        "displayName": "WTI 原油期货",
+        "group": "commodity-fx",
+        "currency": "USD",
+        "exchangeName": "NYM",
+        "currentPrice": 76.63,
+        "pct1Day": 1.1350183384392254,
+        "pct5Day": -9.270659684286153,
+        "pct52WeekHigh": -35.86374288583864,
+        "pct52WeekLow": 39.377955620225535,
+        "sma20": 81.29049949645996,
+        "sma50": 81.04039993286133,
+        "sma200": 76.08559988021851,
+        "rsi14": 43.91090329933067,
+        "macd": 0.053594321838630776,
+        "macdSignal": 0.6618807617453494,
+        "macdHistogram": -0.6082864399067186,
+        "trend": "neutral",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "macd-bear-cross",
+            "label": "MACD 死叉",
+            "daysAgo": 1
+          }
+        ]
+      },
+      {
+        "symbol": "USDCNY=X",
+        "displayName": "美元 / 人民币",
+        "group": "commodity-fx",
+        "currency": "CNY",
+        "exchangeName": "CCY",
+        "currentPrice": 6.738,
+        "pct1Day": -0.21177652160052754,
+        "pct5Day": -0.4873712729798688,
+        "pct52WeekHigh": -6.298238050869845,
+        "pct52WeekLow": 0.05197119311011544,
+        "sma20": 6.769389963150024,
+        "sma50": 6.7739719581604,
+        "sma200": 6.902552983760834,
+        "rsi14": 27.811041001372885,
+        "macd": -0.008750605902664965,
+        "macdSignal": -0.0057493028911529175,
+        "macdHistogram": -0.0030013030115120477,
+        "trend": "bearish",
+        "rsiState": "oversold",
+        "signals": [
+          {
+            "type": "rsi-oversold",
+            "label": "RSI 超卖"
+          },
+          {
+            "type": "near-52w-low",
+            "label": "接近 52 周低"
+          },
+          {
+            "type": "below-sma50-sma200",
+            "label": "空头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "^VIX",
+        "displayName": "VIX 恐慌指数",
+        "group": "macro",
+        "currency": "USD",
+        "exchangeName": "CXI",
+        "currentPrice": 16.36,
+        "pct1Day": -0.8484848484848518,
+        "pct5Day": -20.813164952422454,
+        "pct52WeekHigh": -53.65439093484419,
+        "pct52WeekLow": 22.272047832585937,
+        "sma20": 17.232999897003175,
+        "sma50": 17.350599937438965,
+        "sma200": 18.6144500541687,
+        "rsi14": 46.44814819212694,
+        "macd": -0.15068648278864316,
+        "macdSignal": 0.03218425757794549,
+        "macdHistogram": -0.18287074036658865,
+        "trend": "bearish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "macd-bear-cross",
+            "label": "MACD 死叉",
+            "daysAgo": 2
+          },
+          {
+            "type": "below-sma50-sma200",
+            "label": "空头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "^TNX",
+        "displayName": "10Y 美债收益率 (%)",
+        "group": "macro",
+        "currency": "USD",
+        "exchangeName": "CGI",
+        "currentPrice": 4.627,
+        "pct1Day": -1.259066835964558,
+        "pct5Day": 0.49956359665293815,
+        "pct52WeekHigh": -2.527912365704658,
+        "pct52WeekLow": 0,
+        "sma20": 4.618949961662293,
+        "sma50": 4.531279983520508,
+        "sma200": 4.285409990549088,
+        "rsi14": 53.00203790446365,
+        "macd": 0.045066079977951645,
+        "macdSignal": 0.044586338262695514,
+        "macdHistogram": 0.0004797417152561309,
+        "trend": "bullish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "near-52w-high",
+            "label": "接近 52 周高"
+          },
+          {
+            "type": "above-sma50-sma200",
+            "label": "多头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "DX-Y.NYB",
+        "displayName": "美元指数 DXY",
+        "group": "macro",
+        "currency": "USD",
+        "exchangeName": "NYB",
+        "currentPrice": 99.828,
+        "pct1Day": -0.06206766445816949,
+        "pct5Day": -0.9642887126290212,
+        "pct52WeekHigh": -1.9371316306483244,
+        "pct52WeekLow": 4.477237048665626,
+        "sma20": 100.7749008178711,
+        "sma50": 100.46576034545899,
+        "sma200": 99.15439022064209,
+        "rsi14": 36.57719848610619,
+        "macd": -0.1640486585831411,
+        "macdSignal": 0.034628503912078765,
+        "macdHistogram": -0.19867716249521988,
+        "trend": "neutral",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "near-52w-high",
+            "label": "接近 52 周高"
+          }
+        ]
+      }
+    ],
+    "crypto_fear_greed": {
+      "value": 27,
+      "classification": "Fear",
+      "classificationCn": "恐慌",
+      "timestamp": "2026-08-05T00:00:00.000Z"
+    },
+    "crypto_global": {
+      "totalMarketCapUsd": 2275230662292.1924,
+      "total24hVolumeUsd": 54420044072.265434,
+      "marketCapChangePct24h": 0.45817908711240457,
+      "btcDominance": 56.55732282253734,
+      "ethDominance": 9.924607683255793,
+      "activeCryptocurrencies": 18130
+    },
+    "generated_at": "2026-08-05T10:36:59.117Z"
+  },
+  "research": {
+    "generatedAt": "2026-08-05T10:36:59.118Z",
+    "dataAsOf": "2026-08-05T10:36:59.118Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及结核病患者的妊娠结局：一项系统评价与Meta分析、维生素D补充对妊娠期糖尿病女性胰岛素抵抗和脂质代谢谱的影响：一项随机对照试验、使用自我采集尿液和阴道样本进行HPV检测对检测宫颈癌前病变或更严重病变的诊断性能：一项Meta分析。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42543993",
+        "pmid": "42543993",
+        "doi": "10.59556/japi.74.1608",
+        "title": "Pregnancy Outcomes in Patients with Tuberculosis: A Systematic Review and Meta-analysis.",
+        "abstract": "BACKGROUND AND OBJECTIVES: Tuberculosis (TB) is an important global health problem, especially for pregnant women, a vulnerable group. This systematic review and meta-analysis was conducted in this group to obtain cumulative results in a collective effort toward the World Health Organization (WHO) End TB Strategy.\nMETHODOLOGY: The databases Ovid MEDLINE, Embase, PubMed, ScienceDirect, Scopus, and Cochrane Central Register of Controlled Trials were searched for the last 10 years till 14 th January 2025. Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines were followed in this analysis. Pregnancy outcomes in terms of maternal complications and perinatal complications, including observed mortality, were considered for analysis.\nRESULTS: A total of 9,873 records were identified through database searching, and 15 studies, including 3,045 pregnant women with TB, were selected for final analysis. The pooled mean maternal age was 27.6 years, and more than half of TB cases were diagnosed antenatally. Among pregnancy-related complications, fetal growth restriction, pregnancy-induced hypertension, oligohydramnios, and gestational diabetes were seen in 19, 15, 11, and 10% of cases, respectively. Low birth weight, preterm birth, small for age, and low Apgar score (<7) had pooled prevalences of 30, 22, 20, and 13%, respectively. Maternal mortality and neonatal mortality showed pooled prevalences of 0.05 [95% confidence interval (CI): 0.03-0.08] and 5% (95% CI: 3-8%), respectively. Low to moderate heterogeneity was found among observations.\nINTERPRETATION AND CONCLUSION: This systematic review and meta-analysis showed continued maternal and perinatal adverse outcomes in pregnant women with TB even in the current era, highlighting the need to optimize healthcare.",
+        "journal": "The Journal of the Association of Physicians of India",
+        "authors": [
+          "Ashok Kumar",
+          "Hemlata Sharma",
+          "Saurabh Sharma",
+          "Swati Garg",
+          "Urvashi Sharma"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-07-01T00:00:00.000Z",
+        "activityAt": "2026-08-03T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42543993/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 7.5,
+          "total": 97.5,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "结核病患者的妊娠结局：一项系统评价与Meta分析",
+          "researchQuestion": "评估结核病孕妇的妊娠结局，包括母体并发症和围产期并发症（含观察到的死亡率），以获得累积结果，配合世界卫生组织终止结核病战略。",
+          "studyDesign": "系统评价与Meta分析，遵循PRISMA指南。",
+          "populationAndSample": "共识别9,873条记录，最终纳入15项研究，包括3,045名结核病孕妇。汇总平均孕产妇年龄为27.6岁，超过一半的结核病病例在产前诊断。",
+          "methods": "检索Ovid MEDLINE、Embase、PubMed、ScienceDirect、Scopus和Cochrane Central Register of Controlled Trials，时间范围为最近10年至2025年1月14日。分析妊娠结局，包括母体并发症和围产期并发症（含观察到的死亡率）。",
+          "keyResults": "妊娠相关并发症中，胎儿生长受限见于19%的病例，妊娠期高血压15%，羊水过少11%，妊娠期糖尿病10%。低出生体重、早产、小于胎龄和低Apgar评分（<7）的汇总患病率分别为30%、22%、20%和13%。孕产妇死亡率的汇总患病率为0.05（95%置信区间：0.03-0.08），新生儿死亡率为5%（95%置信区间：3-8%）。观察间存在低至中度异质性。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "该系统评价和Meta分析显示，即使在当前时代，结核病孕妇仍持续存在不良母儿结局，提示需要优化医疗保健。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "5e7557dd27c9ab9fb0d8659affa5b930f9a64988f2cf62639f468f11010542c3"
+      },
+      {
+        "id": "pmid:42544905",
+        "pmid": "42544905",
+        "doi": "10.29063/ajrh2026/v30i14.10",
+        "title": "Effects of vitamin D supplementation on insulin resistance and lipid metabolic profiles in women with gestational diabetes mellitus: A randomized controlled trial.",
+        "abstract": "Gestational diabetes mellitus (GDM) commonly presents as insulin resistance and altered lipid metabolism, with evidence linking vitamin D deficiency to its pathogenesis. In this randomized, double-blind, placebo-controlled trial, 120 pregnant women diagnosed with GDM were assigned to receive either vitamin D3 supplements (2000 IU/day) or a placebo for 3 months. Serum vitamin D status, glycemic control parameters, and lipid profiles were evaluated pre- and post-intervention, adjusting for dietary and exercise confounders. After the 3-month intervention, serum 25-hydroxyvitamin D levels in the vitamin D group were significantly higher than those in the placebo group. Vitamin D supplementation effectively reduced fasting plasma glucose, fasting insulin, and HOMA-IR scores. Simultaneously, it significantly decreased triglycerides and LDL-C levels while increasing HDL-C. Total cholesterol levels showed no statistically significant difference between the two groups. Supplementation with 2000 IU vitamin D per day for 3 months yields significant improvements in glucose homeostasis and lipid metabolism in the GDM population. Vitamin D holds promise as an effective auxiliary treatment to enhance maternal metabolic health.",
+        "journal": "African journal of reproductive health",
+        "authors": [
+          "Kai Jia",
+          "Li Li",
+          "Shixuan Zhang",
+          "Xiaojun Ma",
+          "Yunhui Duan"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-08-03T00:00:00.000Z",
+        "activityAt": "2026-08-03T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42544905/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 7.5,
+          "total": 96.25,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "维生素D补充对妊娠期糖尿病女性胰岛素抵抗和脂质代谢谱的影响：一项随机对照试验",
+          "researchQuestion": "评估维生素D补充对妊娠期糖尿病（GDM）女性胰岛素抵抗和脂质代谢的影响。",
+          "studyDesign": "随机、双盲、安慰剂对照试验。",
+          "populationAndSample": "120名诊断为GDM的孕妇，分配接受维生素D3补充（2000 IU/天）或安慰剂，持续3个月。",
+          "methods": "干预前后评估血清维生素D状态、血糖控制参数和血脂谱，并调整饮食和运动混杂因素。",
+          "keyResults": "3个月干预后，维生素D组血清25-羟基维生素D水平显著高于安慰剂组。维生素D补充有效降低空腹血糖、空腹胰岛素和HOMA-IR评分，同时显著降低甘油三酯和LDL-C水平并增加HDL-C。总胆固醇水平在两组间无统计学显著差异。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "每天补充2000 IU维生素D持续3个月可显著改善GDM人群的葡萄糖稳态和脂质代谢。维生素D有望作为增强母体代谢健康的有效辅助治疗。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "37d9e0b8e1eef2d0bd4994c3bf4dbba7b7a4df6474bfed81d64e18733834d461"
+      },
+      {
+        "id": "pmid:42547988",
+        "pmid": "42547988",
+        "doi": "10.1111/jog.70434",
+        "title": "Diagnostic Performance of HPV Testing Using Self-Collected Urine and Vaginal Samples for Detecting Cervical Precancer or Worse: A Meta-Analysis.",
+        "abstract": "AIM: Self-collection models are regarded as a potential strategy to facilitate HPV testing for cervical cancer screening. HPV testing using urine specimens offers certain advantages, including its noninvasiveness. This characteristic has the potential to eliminate discomfort. Concerns regarding the accuracy of this method persist. Thus, the present meta-analysis aims to verify the accuracy of HPV testing using self-collected urine samples and vaginal samples.\nMETHODS: A literature search was conducted in the PubMed, Embase, and Cochrane Library databases to identify eligible studies. The inclusion criteria were as follows: studies that evaluated the diagnostic accuracy of HPV testing for high-grade squamous intraepithelial lesion or worse (HSIL+) with self-collected urine samples and vaginal samples. Additionally, studies that provided sufficient data for conducting a meta-analysis were assessed.\nRESULTS: The meta-analysis was conducted using a bivariate random-effects model. A total of 11 articles were identified. These articles included 3534 self-collected urine specimens and 3523 vaginal specimens. The meta-analysis yielded a pooled sensitivity of 81% for HPV testing with self-collected urine specimens for HSIL+. A further meta-analysis yielded a pooled sensitivity of 88.6% for HPV testing with self-collected vaginal specimens detecting HSIL+. For specimen type, pooled sensitivity was 86.6% in the subgroup of papers using first void urine (FVU) via a standardized device to evaluate HPV testing.\nCONCLUSIONS: Our meta-analysis suggests that HPV testing using both self-collected urine and vaginal specimens achieves high sensitivity for detecting HSIL+. Another potential benefit of HPV testing employing FVU collected with a standardized device is the capacity for heightened sensitivity.",
+        "journal": "The journal of obstetrics and gynaecology research",
+        "authors": [
+          "Cheng-Chieh Chen",
+          "Hsiu-Ling Lin",
+          "Ke-Yu Hsiao"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review"
+        ],
+        "publishedAt": "2026-08-01T00:00:00.000Z",
+        "activityAt": "2026-08-04T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42547988/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 7.5,
+          "recency": 10,
+          "total": 92.5,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "使用自我采集尿液和阴道样本进行HPV检测对检测宫颈癌前病变或更严重病变的诊断性能：一项Meta分析",
+          "researchQuestion": "验证使用自我采集尿液样本和阴道样本进行HPV检测对检测高级别鳞状上皮内病变或更严重病变（HSIL+）的诊断准确性。",
+          "studyDesign": "Meta分析，采用双变量随机效应模型。",
+          "populationAndSample": "共纳入11篇文章，包括3,534份自我采集尿液样本和3,523份阴道样本。",
+          "methods": "检索PubMed、Embase和Cochrane Library数据库。纳入标准为评估HPV检测对HSIL+诊断准确性且提供足够数据的自我采集尿液和阴道样本研究。",
+          "keyResults": "自我采集尿液样本进行HPV检测检测HSIL+的汇总灵敏度为81%；自我采集阴道样本的汇总灵敏度为88.6%。在亚组分析中，使用标准化设备采集首次晨尿（FVU）进行HPV检测的汇总灵敏度为86.6%。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "该Meta分析提示，使用自我采集尿液和阴道标本进行HPV检测对检测HSIL+具有高灵敏度。使用标准化设备采集FVU进行HPV检测可能具有提高灵敏度的额外潜在益处。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "2aeb92afba855e8d2a9248bae67e3d2b8f4a74b1f8ec87187a9fb78149f9ed0b"
+      },
+      {
+        "id": "pmid:42551432",
+        "pmid": "42551432",
+        "doi": "10.1016/j.xcrm.2026.102944",
+        "title": "Iparomlimab and tuvonralimab in previously treated patients with cervical cancer.",
+        "abstract": "Iparomlimab and tuvonralimab (QL1706) is a bifunctional antibody containing anti-programmed death-1 IgG4 and anti-cytotoxic T-lymphocyte antigen 4 IgG1. This multi-center single-arm phase 2 trial recruits patients with recurrent or metastatic cervical cancer (r/m CC) who have failed at least first-line platinum-based chemotherapy with or without bevacizumab. QL1706 is administered at a dose of 5.0 mg/kg every 3 weeks via intravenous infusion. The primary endpoint is objective response rate (ORR) per independent review committee (IRC). In a total of 148 patients, the confirmed ORR and disease control rate are 33.3% (95% confidence interval [CI]: 25.8%-41.6%) and 65.3% (95% CI: 57.0%-73.0%) per IRC, respectively. The median progression-free survival is 5.4 months (95% CI: 3.9-6.9). The median overall survival is 17.1 months (95% CI: 14.8 to not evaluable). Treatment-related adverse events occur in 107 (72.3%) patients. No treatment-related death occurs. QL1706 shows promising efficacy and is well tolerated in previously treated patients with r/m CC. The trial is registered at clinicaltrials.gov (NCT05557565).",
+        "journal": "Cell reports. Medicine",
+        "authors": [
+          "Chao Wang",
+          "Congzhu Li",
+          "Danbo Wang",
+          "Dapeng Li",
+          "Hanmei Lou",
+          "Hongping Zhang",
+          "Hui Li",
+          "Huijun Cheng",
+          "Jieqing Zhang",
+          "Jihong Liu",
+          "Jinjin Yu",
+          "Lihua Wang",
+          "Lipai Chen",
+          "Mei Feng",
+          "Mingjun Zhang",
+          "Peizhen Wang",
+          "Wei Duan",
+          "Xiaoyan Kang",
+          "Yun Zhou",
+          "Zi Liu"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-04T00:00:00.000Z",
+        "activityAt": "2026-08-05T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42551432/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "Iparomlimab和tuvonralimab用于既往经治的宫颈癌患者",
+          "researchQuestion": "评估Iparomlimab和tuvonralimab（QL1706）在既往经治的复发或转移性宫颈癌患者中的疗效和安全性。",
+          "studyDesign": "多中心、单臂、2期临床试验。",
+          "populationAndSample": "148例复发或转移性宫颈癌患者，这些患者至少一线铂类化疗（联合或不联合贝伐珠单抗）治疗失败。",
+          "methods": "QL1706以5.0 mg/kg剂量每3周经静脉输注给药。主要终点为独立审查委员会（IRC）评估的客观缓解率（ORR）。试验注册于clinicaltrials.gov（NCT05557565）。",
+          "keyResults": "经IRC评估，确认的ORR为33.3%（95%置信区间：25.8%-41.6%），疾病控制率为65.3%（95%置信区间：57.0%-73.0%）。中位无进展生存期为5.4个月（95%置信区间：3.9-6.9）。中位总生存期为17.1个月（95%置信区间：14.8至不可评估）。治疗相关不良事件发生107例（72.3%），无治疗相关死亡。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "QL1706在既往经治的复发或转移性宫颈癌患者中显示出有前景的疗效且耐受性良好。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "aa977e78e5511371023f8eb0212ab52cdaa9d38279ba8a189f49004dba3be1e1"
+      },
+      {
+        "id": "pmid:42550729",
+        "pmid": "42550729",
+        "doi": "10.1080/07853890.2026.2711545",
+        "title": "No difference in anxiety symptoms between women with unilateral and bilateral ovarian endometriosis: a prospective cross-sectional study.",
+        "abstract": "OBJECTIVE: This study aimed to investigate whether women with unilateral and bilateral OMA differ in anxiety symptoms, and secondarily in depressive symptoms and sexual dysfunction symptoms, and to evaluate the independent contribution of chronic pelvic pain to psychological outcomes.\nSTUDY DESIGN: This study, a prospective, cross-sectional study, included 149 women aged 20-35 who had OMA but were not pregnant and had a desire to become pregnant. There were 79 women with unilateral OMA and 70 women with bilateral. The Zung Self-Rating Anxiety Scale, Self-Rating Depression Scale, and Female Sexual Function Index were administered at enrolment. Multivariable linear regression models were adjusted for age, BMI, chronic pelvic pain, dysmenorrhoea, primary infertility, and medication use. Post-hoc power analysis was performed.\nRESULT: The average age of the patients was 27.45 ± 3.44, with an average BMI of 19.46 ± 2.28. 29.53%(44/149) of the patients had mild or moderate anxiety, while 38.92%(57/149) had mild or moderate depression. Among the 103 patients with a history of sexual activity, 67.96%(70/103) had sexual dysfunction. In multivariable analyses, cyst laterality was not significantly associated with anxiety symptoms (adjusted B = -2.58[-5.19, 0.03], p = 0.052), depressive symptoms (adjusted B = -1.86[-5.25, 1.53], p = 0.279), or sexual dysfunction symptoms (adjusted B = -0.91[-2.01, 0.19], p = 0.072). Chronic pelvic pain independently predicted anxiety symptoms ( p = 0.01) and depressive symptoms ( p = 0.025). Post-hoc power analysis indicated an achieved power of 50% for the primary SAS comparison.\nCONCLUSION: In this study, the prevalence of anxiety, depression and sexual dysfunction was high in OMA, but there was no significant difference between unilateral and bilateral OMA. Chronic pelvic pain, rather than cyst laterality, independently predicted psychological distress. These findings underscore the importance of comprehensive pain assessment and routine psychological screening for all women with OMA.",
+        "journal": "Annals of medicine",
+        "authors": [
+          "Huiyan Feng",
+          "Qingjian Ye",
+          "Wenwei Li"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-04T00:00:00.000Z",
+        "activityAt": "2026-08-04T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42550729/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology",
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "单侧与双侧卵巢子宫内膜异位症女性的焦虑症状无差异：一项前瞻性横断面研究",
+          "researchQuestion": "调查单侧和双侧卵巢子宫内膜异位症（OMA）女性在焦虑症状上是否存在差异，次要评估抑郁症状和性功能障碍症状，并评估慢性盆腔疼痛对心理结局的独立贡献。",
+          "studyDesign": "前瞻性横断面研究。",
+          "populationAndSample": "149名年龄20-35岁、患有OMA、未怀孕且有怀孕意愿的女性，其中79名单侧OMA，70名双侧OMA。",
+          "methods": "入组时使用Zung焦虑自评量表、抑郁自评量表和女性性功能指数。多变量线性回归模型调整年龄、BMI、慢性盆腔疼痛、痛经、原发性不孕和药物使用。进行了事后功效分析。",
+          "keyResults": "患者平均年龄为27.45±3.44，平均BMI为19.46±2.28。29.53%（44/149）存在轻度或中度焦虑，38.92%（57/149）存在轻度或中度抑郁。在103名有性活动史的患者中，67.96%（70/103）存在性功能障碍。多变量分析中，囊肿偏侧性与焦虑症状无显著关联（调整B=-2.58[-5.19, 0.03]，p=0.052），与抑郁症状（调整B=-1.86[-5.25, 1.53]，p=0.279）或性功能障碍症状（调整B=-0.91[-2.01, 0.19]，p=0.072）亦无显著关联。慢性盆腔疼痛独立预测焦虑症状（p=0.01）和抑郁症状（p=0.025）。事后功效分析显示主要SAS比较的效能为50%。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "本研究中OMA女性的焦虑、抑郁和性功能障碍患病率较高，但单侧与双侧OMA之间无显著差异。慢性盆腔疼痛而非囊肿偏侧性独立预测心理困扰。这些发现强调对所有OMA女性进行全面疼痛评估和常规心理筛查的重要性。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "4a1e0bccc006f904790166ea4b8c1d806ffc8ca34376badfec381f6956c0bd43"
+      }
+    ]
+  }
+}
