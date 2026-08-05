@@ -79,6 +79,20 @@ function loadAndValidate(): SourceDef[] {
         throw new Error(`${at} (${s.id}): 'locales' must be an array of "zh" | "en"`);
       }
     }
+    for (const field of ["keywords", "excludeKeywords"] as const) {
+      if (s[field] !== undefined && (!Array.isArray(s[field]) || s[field].some((value) => typeof value !== "string"))) {
+        throw new Error(`${at} (${s.id}): '${field}' must be an array of strings`);
+      }
+    }
+    if (s.lookbackHours !== undefined && (typeof s.lookbackHours !== "number" || !Number.isFinite(s.lookbackHours) || s.lookbackHours <= 0)) {
+      throw new Error(`${at} (${s.id}): 'lookbackHours' must be a positive number`);
+    }
+    if (s.allowedHosts !== undefined && (!Array.isArray(s.allowedHosts) || s.allowedHosts.some((value) => typeof value !== "string"))) {
+      throw new Error(`${at} (${s.id}): 'allowedHosts' must be an array of strings`);
+    }
+    if (s.query !== undefined && typeof s.query !== "string") {
+      throw new Error(`${at} (${s.id}): 'query' must be a string`);
+    }
   }
   return parsed as SourceDef[];
 }

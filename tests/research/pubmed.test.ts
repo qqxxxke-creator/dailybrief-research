@@ -5,6 +5,7 @@ import test from "node:test";
 
 import {
   buildPubMedQuery,
+  fetchPubMedQueryPapers,
   fetchPubMedPapers,
   parsePubMedXml,
 } from "../../lib/research/sources/pubmed";
@@ -96,6 +97,23 @@ test("runs ESearch then batches IDs through EFetch", async () => {
   assert.equal(calls[0].searchParams.get("retmax"), "200");
   assert.equal(calls[1].searchParams.get("id"), "123,124");
   assert.equal(calls[1].searchParams.get("retmode"), "xml");
+});
+
+test("reuses E-utilities for a custom ASRM guideline query", async () => {
+  const calls: URL[] = [];
+  const esearch = fs.readFileSync(path.join(FIXTURES, "pubmed-esearch.json"), "utf8");
+  const efetch = fs.readFileSync(path.join(FIXTURES, "pubmed-efetch.xml"), "utf8");
+  const fakeFetch: typeof fetch = async (input) => {
+    const url = new URL(String(input));
+    calls.push(url);
+    return new Response(url.pathname.endsWith("esearch.fcgi") ? esearch : efetch, { status: 200 });
+  };
+  const query = '("Fertil Steril"[jour] OR "F S Rep"[jour]) AND ("committee opinion"[Title])';
+  const result = await fetchPubMedQueryPapers({ query, from: FROM, to: TO, fetchImpl: fakeFetch });
+
+  assert.equal(result.papers.length, 2);
+  assert.equal(calls[0].searchParams.get("term"), `${query} AND 2026/07/30:2026/08/05[EDAT]`);
+  assert.equal(calls[0].searchParams.get("datetype"), "edat");
 });
 
 test("surfaces HTTP failures with the source id", async () => {

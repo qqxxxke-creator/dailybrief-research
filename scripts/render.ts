@@ -63,7 +63,7 @@ async function main() {
   const base = path.join(dateDir, date);
   fs.writeFileSync(`${base}.html`, renderHtml(report, raw, date), "utf8");
   if (process.env.OUTPUT_MARKDOWN === "true") {
-    fs.writeFileSync(`${base}.md`, renderMarkdown(report, date), "utf8");
+    fs.writeFileSync(`${base}.md`, renderMarkdown(report, date, raw), "utf8");
     console.log(`[render] wrote ${base}.{html,md}`);
   } else {
     console.log(`[render] wrote ${base}.html`);

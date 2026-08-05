@@ -28,7 +28,7 @@
     "myomectomy"
   ],
   "runtime": {
-    "lookback_days": 7,
+    "lookback_days": 1,
     "max_papers": 5,
     "cache_days": 30,
     "overlap_hours": 48,
@@ -41,6 +41,13 @@
       "name": "PubMed",
       "kind": "pubmed",
       "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils",
+      "enabled": true
+    },
+    {
+      "id": "gocm-rss",
+      "name": "Gynecology and Obstetrics Clinical Medicine",
+      "kind": "journal-rss",
+      "url": "https://gocm.bmj.com/rss/recent.xml",
       "enabled": true
     },
     {

@@ -30,23 +30,28 @@ import { generateTradingCommentary } from "../lib/ai/trading-commentary";
 import type { TradingSection } from "../lib/ai/pipeline";
 import { todayKey } from "../lib/utils";
 import { runResearchSafely } from "../lib/research/integration";
+import { filterObgynCandidates } from "../lib/sources/obgyn-filter";
+import { filterPreviouslyPublishedGuidelines } from "../lib/sources/guideline-history";
+import { reviewObgynCandidates } from "../lib/ai/enrich";
 
 const OUTPUT_DIR = "daily_reports";
 
-async function fetchAll(): Promise<ArticleInput[]> {
+async function fetchAll(): Promise<{ articles: ArticleInput[]; successfulSources: number }> {
   const articles: ArticleInput[] = [];
+  let successfulSources = 0;
   const enabled = sources.filter((s) => s.enabled !== false);
   for (const source of enabled) {
     try {
       const items = await fetchSource(source);
+      successfulSources += 1;
       console.log(`  ${source.id.padEnd(20)} ${items.length}`);
       articles.push(...items.map((it) => ({ ...it, source: source.name })));
     } catch (e) {
       const msg = e instanceof Error ? e.message : String(e);
-      console.error(`  ${source.id.padEnd(20)} FAILED — ${msg}`);
+      console.warn(`  ${source.id.padEnd(20)} WARNING — ${msg}`);
     }
   }
-  return articles;
+  return { articles, successfulSources };
 }
 
 async function enrichGhTrending(articles: ArticleInput[]): Promise<void> {
@@ -246,29 +251,17 @@ async function main() {
 
   const date = todayKey();
   console.log(`[daily] ${date} — fetching sources…\n`);
-  const articles = await fetchAll();
-  console.log(`\n[daily] total articles: ${articles.length}`);
-  if (articles.length === 0) {
-    throw new Error("no articles fetched — aborting");
+  const { articles: fetched, successfulSources } = await fetchAll();
+  if (successfulSources === 0) {
+    throw new Error("all enabled OB-GYN news sources failed; refusing to publish a false empty report");
   }
-
-  // Enrich GH Trending, papers, finance news, and politics with summaries.
-  await enrichGhTrending(articles);
-  await enrichTrendingPapers(articles);
-  await enrichFinanceNews(articles);
-  await enrichPolitics(articles);
-  await enrichAiNews(articles);
-  await enrichXViral(articles);
-
-  // Trading signals: Yahoo fetch + indicators + commentary. Non-fatal —
-  // if it errors, we still ship the news digest.
-  let trading: TradingSection | null = null;
-  try {
-    trading = await runTrading();
-  } catch (e) {
-    const msg = e instanceof Error ? e.message : String(e);
-    console.warn(`[daily] trading section failed: ${msg}`);
-  }
+  console.log(`\n[daily] fetched articles: ${fetched.length}`);
+  const ruleFiltered = filterObgynCandidates(fetched, sources);
+  console.log(`[daily] OB-GYN rule filter: ${ruleFiltered.length}/${fetched.length}`);
+  const unseenGuidelines = filterPreviouslyPublishedGuidelines(ruleFiltered, sources, OUTPUT_DIR, date);
+  console.log(`[daily] guideline URL history: ${unseenGuidelines.length}/${ruleFiltered.length}`);
+  const articles = await reviewObgynCandidates(unseenGuidelines);
+  console.log(`[daily] OB-GYN semantic review: ${articles.length}/${unseenGuidelines.length}`);
 
   // Research Intelligence is isolated from the news digest. Source, cache,
   // or summarization failures must never prevent the morning brief shipping.
@@ -277,7 +270,6 @@ async function main() {
   console.log(`[daily] generating digest with ${getModelTag()}…`);
   const t0 = Date.now();
   const { report } = await generateDailyReport(articles);
-  if (trading) report.trading = trading;
   if (research) report.research = research;
   console.log(`[daily] digest ready in ${((Date.now() - t0) / 1000).toFixed(1)}s`);
 
@@ -296,7 +288,7 @@ async function main() {
   );
   fs.writeFileSync(`${base}.html`, renderHtml(report, raw, date), "utf8");
   if (process.env.OUTPUT_MARKDOWN === "true") {
-    fs.writeFileSync(`${base}.md`, renderMarkdown(report, date), "utf8");
+    fs.writeFileSync(`${base}.md`, renderMarkdown(report, date, raw), "utf8");
     console.log(`[daily] wrote ${base}.{json,html,md,articles.json}`);
   } else {
     console.log(`[daily] wrote ${base}.{json,html,articles.json}`);

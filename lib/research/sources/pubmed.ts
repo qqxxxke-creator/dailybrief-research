@@ -154,16 +154,16 @@ async function fetchOk(url: URL, fetchImpl: typeof fetch): Promise<Response> {
   return response;
 }
 
-export async function fetchPubMedPapers(args: {
-  topics: ResearchTopic[];
-  domainKeywords: string[];
+interface PubMedRequestArgs {
   from: Date;
   to: Date;
   fetchImpl?: typeof fetch;
   apiKey?: string;
   email?: string;
   baseUrl?: string;
-}): Promise<ResearchFetchResult> {
+}
+
+async function fetchWithQuery(args: PubMedRequestArgs & { query: string }): Promise<ResearchFetchResult> {
   const fetchImpl = args.fetchImpl ?? fetch;
   const baseUrl = (args.baseUrl ?? DEFAULT_BASE_URL).replace(/\/$/, "");
   const common: Record<string, string> = { db: "pubmed", tool: "dailybrief-research" };
@@ -173,7 +173,7 @@ export async function fetchPubMedPapers(args: {
   const searchUrl = new URL(`${baseUrl}/esearch.fcgi`);
   Object.entries({
     ...common,
-    term: buildPubMedQuery(args.topics, args.domainKeywords, args.from, args.to),
+    term: args.query,
     datetype: "edat",
     retmode: "json",
     retmax: "200",
@@ -204,4 +204,21 @@ export async function fetchPubMedPapers(args: {
       missingAbstract: papers.filter((paper) => paper.abstract.trim() === "").length,
     },
   };
+}
+
+export async function fetchPubMedQueryPapers(
+  args: PubMedRequestArgs & { query: string },
+): Promise<ResearchFetchResult> {
+  const boundedQuery = `${args.query} AND ${formatPubMedDate(args.from)}:${formatPubMedDate(args.to)}[EDAT]`;
+  return fetchWithQuery({ ...args, query: boundedQuery });
+}
+
+export async function fetchPubMedPapers(args: PubMedRequestArgs & {
+  topics: ResearchTopic[];
+  domainKeywords: string[];
+}): Promise<ResearchFetchResult> {
+  return fetchWithQuery({
+    ...args,
+    query: buildPubMedQuery(args.topics, args.domainKeywords, args.from, args.to),
+  });
 }

@@ -169,11 +169,32 @@ test("filters invalid records and enforces topic and global quotas", () => {
     paper({ id: "empty", pmid: "8", abstract: "" }),
   ];
   const selected = selectResearchPapers(papers, config(topics), NOW);
-  assert.equal(selected.length, 5);
-  assert.equal(selected.filter((item) => item.assignedTopicId === "mfm").length, 2);
+  assert.equal(selected.length, 4);
+  assert.equal(selected.filter((item) => item.assignedTopicId === "mfm").length, 1);
   assert.ok(!selected.some((item) => item.id === "m3"));
   assert.ok(!selected.some((item) => item.id === "old"));
   assert.ok(!selected.some((item) => item.id === "empty"));
+});
+
+test("does not display papers indexed more than 24 hours ago", () => {
+  const selected = selectResearchPapers(
+    [
+      paper({ id: "recent", activityAt: "2026-08-04T00:00:01.000Z" }),
+      paper({ id: "outside", activityAt: "2026-08-03T23:59:59.000Z" }),
+    ],
+    config([topic()]),
+    NOW,
+  );
+  assert.deepEqual(selected.map((item) => item.id), ["recent"]);
+});
+
+test("does not display papers with a future index timestamp", () => {
+  const selected = selectResearchPapers(
+    [paper({ id: "future", activityAt: "2026-08-05T00:00:01.000Z" })],
+    config([topic()]),
+    NOW,
+  );
+  assert.deepEqual(selected, []);
 });
 
 test("sorts ties by total, evidence, activity date, then id", () => {

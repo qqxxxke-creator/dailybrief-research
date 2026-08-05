@@ -242,7 +242,7 @@ jobs:
           REPORT_LOCALE: ${{ vars.REPORT_LOCALE || 'zh' }}
           REPORT_TZ: ${{ vars.REPORT_TZ }}
           RESEARCH_ENABLED: ${{ vars.RESEARCH_ENABLED || 'true' }}
-          RESEARCH_LOOKBACK_DAYS: ${{ vars.RESEARCH_LOOKBACK_DAYS || '7' }}
+          RESEARCH_LOOKBACK_DAYS: ${{ vars.RESEARCH_LOOKBACK_DAYS || '1' }}
           MAX_RESEARCH_PAPERS: ${{ vars.MAX_RESEARCH_PAPERS || '5' }}
           RESEARCH_CACHE_DAYS: ${{ vars.RESEARCH_CACHE_DAYS || '30' }}
           CLEAR_RESEARCH_CACHE: ${{ vars.CLEAR_RESEARCH_CACHE || 'false' }}

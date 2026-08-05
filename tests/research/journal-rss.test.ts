@@ -77,3 +77,46 @@ test("surfaces parser errors with the configured source id", async () => {
     /\[research:example-rss\].*feed unavailable/,
   );
 });
+
+test("uses the shared exclusive GOCM section classifier", async () => {
+  const gocmSource: ResearchSourceConfig = {
+    ...source,
+    id: "gocm-rss",
+    name: "Gynecology and Obstetrics Clinical Medicine",
+  };
+  const result = await fetchJournalRssPapers({
+    source: gocmSource,
+    from: FROM,
+    to: TO,
+    parser: {
+      parseURL: async () => ({
+        items: [
+          {
+            title: "Laparoscopic guideline update",
+            link: "https://gocm.bmj.com/guideline",
+            pubDate: "Tue, 04 Aug 2026 01:00:00 GMT",
+            prismSection: "Guideline",
+            description: "A clinical guideline for laparoscopic gynecologic surgery and patient care.",
+          },
+          {
+            title: "Robotic surgical technique",
+            link: "https://gocm.bmj.com/video",
+            pubDate: "Tue, 04 Aug 2026 02:00:00 GMT",
+            prismSection: "Video Article",
+            description: "A surgical video describing robotic gynecologic technique and outcomes.",
+          },
+          {
+            title: "Laparoscopic guideline outcomes cohort",
+            link: "https://gocm.bmj.com/research",
+            pubDate: "Tue, 04 Aug 2026 03:00:00 GMT",
+            prismSection: "Original research",
+            description: "A prospective cohort evaluated maternal and gynecologic clinical outcomes.",
+          },
+        ],
+      }),
+    },
+  });
+
+  assert.deepEqual(result.papers.map((paper) => paper.url), ["https://gocm.bmj.com/research"]);
+  assert.deepEqual(result.rejected, { routedToGuidelineOrSurgery: 2 });
+});

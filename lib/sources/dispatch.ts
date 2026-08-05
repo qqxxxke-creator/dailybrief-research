@@ -5,6 +5,10 @@ import { fetchHuggingfacePapers } from "./huggingface-papers";
 import { fetchLinuxDo } from "./linuxdo";
 import { fetchRss } from "./rss";
 import { fetchV2ex } from "./v2ex";
+import { fetchObgynPage } from "./obgyn-pages";
+import { fetchCjournalCurrent } from "./cjournal-current";
+import { fetchPubMedGuidelines } from "./pubmed-guidelines";
+import { fetchGocmRss } from "./gocm";
 import type { RawArticle, SourceDef } from "./types";
 
 /**
@@ -18,6 +22,10 @@ export async function fetchSource(source: SourceDef): Promise<RawArticle[]> {
   if (source.id === "linuxdo") return fetchLinuxDo(source.id);
   if (source.id === "attentionvc-ai") return fetchAttentionVc(source.id);
   if (source.id === "huggingface-papers") return fetchHuggingfacePapers(source.id, source.keywords);
+  if (source.id === "pubmed-asrm-guidance") return fetchPubMedGuidelines(source);
+  if (source.id === "china-clinical-obgyn-current") return fetchCjournalCurrent(source);
+  if (source.id === "gocm-guidelines" || source.id === "gocm-surgery") return fetchGocmRss(source);
+  if (source.type === "scrape") return fetchObgynPage(source);
   return fetchRss(source.id, source.url, source.category, {
     useCurl: source.useCurl,
   });
