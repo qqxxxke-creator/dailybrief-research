@@ -337,6 +337,8 @@ test("semantic review keeps only explicitly accepted medical items", () => {
   const prompt = buildObgynReviewUserPrompt(candidates);
   assert.match(prompt, /是否直接属于妇产科领域/);
   assert.match(prompt, /医院宣传|商业广告/);
+  assert.doesNotMatch(prompt, /accepted=true/);
+  assert.match(prompt, /accepted.*uncertain.*拒绝/s);
 });
 
 test("keeps uncertain only for official formal documents and journals", () => {
@@ -381,6 +383,24 @@ test("keeps uncertain only for official formal documents and journals", () => {
   assert.deepEqual(result.map((item) => item.url), [official.url, journal.url]);
   assert.deepEqual(result.map((item) => item.reviewStatus), ["uncertain", "uncertain"]);
   assert.deepEqual(result.map((item) => item.lowPriority), [true, true]);
+  assert.equal(result[0].summary, "原始页面暂未提供可解析摘要，请查看原文了解详细更新。");
+});
+
+test("normalizes an accepted official title-only document to uncertain", () => {
+  const official = article(
+    "Practice Advisory: maternal health",
+    new Date("2026-08-05T07:00:00.000Z"),
+    "",
+    "https://www.acog.org/clinical/accepted-title-only",
+  );
+
+  const result = parseObgynReviewResponse([official], JSON.stringify({ reviews: [
+    { url: official.url, status: "accepted", summary: "Invented clinical recommendation." },
+  ] }));
+
+  assert.equal(result.length, 1);
+  assert.equal(result[0].reviewStatus, "uncertain");
+  assert.equal(result[0].lowPriority, true);
   assert.equal(result[0].summary, "原始页面暂未提供可解析摘要，请查看原文了解详细更新。");
 });
 

@@ -375,19 +375,6 @@ export async function enrichTrendingPapersSummaries(
   return runEnrichment(payload, PROMPTS.papers, "papers summaries");
 }
 
-const OBGYN_REVIEW_SYSTEM_PROMPT_ZH = `你是一名严谨的妇产科医学编辑，负责对候选窗口内的内容做最终语义复核。
-
-逐条判断：
-1. 是否直接属于妇产科、女性生殖健康、母胎医学、生殖医学、妇科肿瘤、盆底或妇科手术；
-2. 是否来自可靠专业来源，并具有临床、学术、监管或行业价值；
-3. 是否只是普通健康科普、医院宣传、活动报名、商业广告或与妇产科无关的综合内容。
-
-只有同时满足前两项且不属于第三项时 accepted=true。不得为了填满栏目而放宽标准。信息不足时 accepted=false。
-对 accepted=true 的条目生成50-100字中文事实摘要，保留关键变化、数据和临床意义，不编造全文未提供的信息。
-
-严格输出 JSON：
-{"reviews":[{"url":"输入原链接","accepted":true,"summary":"中文事实摘要","reason":"简短判断依据"}]}`;
-
 const OBGYN_REVIEW_SYSTEM_PROMPT_ZH_V2 = `你是一名严谨的妇产科医学编辑，负责对候选内容做最终语义复核。
 只有直接属于妇产科、女性生殖健康、母胎医学、生殖医学、妇科肿瘤、盆底或妇科手术，并且具备临床、学术、监管或行业价值的内容，才可评为 accepted。证据不足但可能合格时评为 uncertain；医院宣传、患者科普、活动报名、商业广告、无关内容以及全部不合格条目必须评为 rejected。不得为了填满栏目放宽标准。
 对有可解析内容的 accepted 或 uncertain 条目，生成简洁的中文事实摘要，不得编造输入未提供的信息。只有标题、没有可解析内容时，必须写 uncertain 且 summary 留空。
@@ -422,7 +409,7 @@ export function buildObgynReviewUserPrompt(items: ArticleInput[]): string {
     "Use status=accepted, uncertain, or rejected only. Any item not explicitly marked accepted or uncertain is rejected. For title-only items, use uncertain and leave summary empty; never invent details.",
     "请逐条判断是否直接属于妇产科领域，且具有专业价值。",
     "医院宣传、普通患者科普、活动报名、商业广告和任何非妇产科内容必须拒绝。",
-    "未在 reviews 中明确 accepted=true 的条目视为拒绝。",
+    "未在 reviews 中明确标记为 accepted 或 uncertain 的条目视为拒绝。",
     JSON.stringify(payload),
   ].join("\n");
 }
@@ -525,12 +512,13 @@ function approveObgynReview(
 
   if (!substantive && !titleOnlyFallback) return undefined;
   if (!titleOnlyFallback && !normalizedSummary) return undefined;
+  const effectiveStatus: ReviewStatus = titleOnlyFallback ? "uncertain" : status;
 
   return {
     ...candidate,
     summary: titleOnlyFallback ? OFFICIAL_TITLE_ONLY_SUMMARY : normalizedSummary,
-    reviewStatus: status,
-    lowPriority: status === "uncertain" || titleOnlyFallback,
+    reviewStatus: effectiveStatus,
+    lowPriority: effectiveStatus === "uncertain",
   };
 }
 
