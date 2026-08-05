@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation>
+      <PMID Version="1">123</PMID>
+      <Article>
+        <Journal>
+          <JournalIssue><PubDate><Year>2026</Year><Month>Aug</Month><Day>03</Day></PubDate></JournalIssue>
+          <Title>American Journal of Obstetrics and Gynecology</Title>
+        </Journal>
+        <ArticleTitle>Preeclampsia treatment &amp; maternal outcomes</ArticleTitle>
+        <Abstract>
+          <AbstractText Label="BACKGROUND">The optimal treatment remains uncertain.</AbstractText>
+          <AbstractText Label="RESULTS">Treatment reduced the primary outcome from 20% to 12%.</AbstractText>
+        </Abstract>
+        <AuthorList>
+          <Author><LastName>Smith</LastName><ForeName>Alice</ForeName></Author>
+          <Author><CollectiveName>OBGYN Trial Group</CollectiveName></Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic"><Year>2026</Year><Month>08</Month><Day>03</Day></ArticleDate>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1000/ABC</ELocationID>
+      </Article>
+    </MedlineCitation>
+    <PubmedData>
+      <History><PubMedPubDate PubStatus="pubmed"><Year>2026</Year><Month>08</Month><Day>04</Day></PubMedPubDate></History>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">123</ArticleId>
+        <ArticleId IdType="doi">10.1000/ABC</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation>
+      <PMID Version="1">124</PMID>
+      <Article>
+        <Journal><Title>Fertility and Sterility</Title></Journal>
+        <ArticleTitle>Infertility cohort without an abstract</ArticleTitle>
+        <AuthorList><Author><LastName>Lee</LastName><ForeName>Bo</ForeName></Author></AuthorList>
+        <PublicationTypeList><PublicationType>Cohort Study</PublicationType></PublicationTypeList>
+      </Article>
+    </MedlineCitation>
+    <PubmedData>
+      <History><PubMedPubDate PubStatus="pubmed"><Year>2026</Year><Month>08</Month><Day>02</Day></PubMedPubDate></History>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>
