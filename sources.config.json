@@ -1,6 +1,7 @@
 [
   {
     "id": "acog-clinical-guidance",
+    "sourceClass": "official_authority",
     "name": "ACOG Clinical Guidance",
     "type": "scrape",
     "url": "https://www.acog.org/clinical/clinical-guidance",
@@ -14,6 +15,7 @@
   },
   {
     "id": "rcog-guidance",
+    "sourceClass": "official_authority",
     "name": "RCOG Guidance",
     "type": "scrape",
     "url": "https://www.rcog.org.uk/guidance/browse-all-guidance/",
@@ -27,6 +29,7 @@
   },
   {
     "id": "who-maternal-health",
+    "sourceClass": "general_authority",
     "name": "WHO Maternal Health",
     "type": "scrape",
     "url": "https://www.who.int/health-topics/maternal-health",
@@ -40,6 +43,7 @@
   },
   {
     "id": "nice-fertility-pregnancy",
+    "sourceClass": "official_authority",
     "name": "NICE Fertility, Pregnancy and Childbirth",
     "type": "scrape",
     "url": "https://www.nice.org.uk/guidance/conditions-and-diseases/fertility-pregnancy-and-childbirth",
@@ -53,6 +57,7 @@
   },
   {
     "id": "smfm-publications",
+    "sourceClass": "official_authority",
     "name": "SMFM Publications and Clinical Guidelines",
     "type": "scrape",
     "url": "https://publications.smfm.org/publications/",
@@ -66,6 +71,7 @@
   },
   {
     "id": "asrm-practice-guidance",
+    "sourceClass": "official_authority",
     "name": "ASRM Practice Guidance",
     "type": "scrape",
     "url": "https://www.asrm.org/practice-guidance/",
@@ -80,6 +86,7 @@
   },
   {
     "id": "pubmed-asrm-guidance",
+    "sourceClass": "academic_journal",
     "name": "PubMed · Fertility & Sterility Practice Guidance",
     "type": "api",
     "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils",
@@ -95,6 +102,7 @@
   },
   {
     "id": "obg-project-guidance",
+    "sourceClass": "professional_vertical",
     "name": "The ObG Project",
     "type": "rss",
     "url": "https://www.obgproject.com/feed/",
@@ -110,6 +118,7 @@
   },
   {
     "id": "gocm-guidelines",
+    "sourceClass": "academic_journal",
     "name": "GOCM · Gynecology and Obstetrics Clinical Medicine · Guidelines and Consensus",
     "type": "rss",
     "url": "https://gocm.bmj.com/rss/recent.xml",
@@ -124,6 +133,7 @@
   },
   {
     "id": "gocm-surgery",
+    "sourceClass": "academic_journal",
     "name": "GOCM · Gynecology and Obstetrics Clinical Medicine · Surgical Techniques",
     "type": "rss",
     "url": "https://gocm.bmj.com/rss/recent.xml",
@@ -138,6 +148,7 @@
   },
   {
     "id": "esgo-guidelines",
+    "sourceClass": "official_authority",
     "name": "ESGO Guidelines",
     "type": "scrape",
     "url": "https://www.esgo.org/explore/guidelines/",
@@ -151,6 +162,7 @@
   },
   {
     "id": "esge-guidelines",
+    "sourceClass": "official_authority",
     "name": "European Society for Gynaecological Endoscopy Guidelines",
     "type": "scrape",
     "url": "https://www.esge.org/guidelines/",
@@ -164,6 +176,7 @@
   },
   {
     "id": "esge-news",
+    "sourceClass": "professional_vertical",
     "name": "European Society for Gynaecological Endoscopy News",
     "type": "scrape",
     "url": "https://www.esge.org/latest-news/",
@@ -177,6 +190,7 @@
   },
   {
     "id": "aagl-surgeryu",
+    "sourceClass": "professional_vertical",
     "name": "AAGL SurgeryU",
     "type": "scrape",
     "url": "https://surgeryu.aagl.org/",
@@ -190,6 +204,7 @@
   },
   {
     "id": "jmig-articles-in-press",
+    "sourceClass": "academic_journal",
     "name": "Journal of Minimally Invasive Gynecology - Articles in Press",
     "type": "scrape",
     "url": "https://www.sciencedirect.com/journal/journal-of-minimally-invasive-gynecology/articles-in-press",
@@ -203,6 +218,7 @@
   },
   {
     "id": "acog-news",
+    "sourceClass": "professional_vertical",
     "name": "ACOG News",
     "type": "scrape",
     "url": "https://www.acog.org/news",
@@ -216,6 +232,7 @@
   },
   {
     "id": "rcog-news",
+    "sourceClass": "professional_vertical",
     "name": "RCOG News",
     "type": "scrape",
     "url": "https://www.rcog.org.uk/news/",
@@ -229,6 +246,7 @@
   },
   {
     "id": "figo-news",
+    "sourceClass": "professional_vertical",
     "name": "FIGO News",
     "type": "scrape",
     "url": "https://www.figo.org/news",
@@ -242,6 +260,7 @@
   },
   {
     "id": "who-womens-health",
+    "sourceClass": "general_authority",
     "name": "WHO Women's Health",
     "type": "scrape",
     "url": "https://www.who.int/health-topics/women-s-health",
@@ -255,6 +274,7 @@
   },
   {
     "id": "fda-owh-news",
+    "sourceClass": "general_authority",
     "name": "FDA Office of Women's Health News",
     "type": "scrape",
     "url": "https://www.fda.gov/consumers/womens-health/owh-news-and-updates",
@@ -268,6 +288,7 @@
   },
   {
     "id": "nhc-maternal-child-health",
+    "sourceClass": "official_authority",
     "name": "国家卫生健康委妇幼健康司",
     "type": "scrape",
     "url": "https://www.nhc.gov.cn/fys/new_index.shtml",
@@ -281,6 +302,7 @@
   },
   {
     "id": "chinese-journal-obgyn",
+    "sourceClass": "academic_journal",
     "name": "中华妇产科杂志",
     "type": "scrape",
     "url": "https://zhfckzz.yiigle.com/",
@@ -294,6 +316,7 @@
   },
   {
     "id": "china-clinical-obgyn-current",
+    "sourceClass": "academic_journal",
     "name": "中国妇产科临床杂志",
     "type": "scrape",
     "url": "https://cjournal.hep.com.cn/1672-1861/CN/current",
@@ -308,6 +331,7 @@
   },
   {
     "id": "cmcha-industry-news",
+    "sourceClass": "professional_vertical",
     "name": "中国妇幼保健协会 · 行业协会动态",
     "type": "scrape",
     "url": "https://www.cmcha.org/index.html",
@@ -322,6 +346,7 @@
   },
   {
     "id": "contemporary-obgyn-news",
+    "sourceClass": "professional_vertical",
     "name": "Contemporary OB/GYN",
     "type": "scrape",
     "url": "https://www.contemporaryobgyn.net/",
@@ -337,6 +362,7 @@
   },
   {
     "id": "obgy-cn",
+    "sourceClass": "professional_vertical",
     "name": "妇产科网",
     "type": "scrape",
     "url": "https://www.obgy.cn/",

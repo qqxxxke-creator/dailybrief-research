@@ -1,5 +1,25 @@
 export type Category = "tech" | "finance" | "politics";
 export type SourceType = "rss" | "api" | "scrape";
+export type SourceClass =
+  | "official_authority"
+  | "academic_journal"
+  | "professional_vertical"
+  | "general_authority";
+
+export type DocumentType =
+  | "guideline"
+  | "consensus"
+  | "statement"
+  | "practice_advisory"
+  | "safety_alert"
+  | "research_article"
+  | "news"
+  | "video"
+  | "education"
+  | "policy"
+  | "unknown";
+
+export type ReviewStatus = "accepted" | "uncertain" | "rejected";
 
 export interface SourceDef {
   id: string;
@@ -7,6 +27,8 @@ export interface SourceDef {
   type: SourceType;
   url: string;
   category: Category;
+  /** Explicit policy class; never inferred from the source display name. */
+  sourceClass: SourceClass;
   /**
    * Group key within a category. Render order/labels are defined per
    * category in lib/output/render.ts. Categories without a registered
@@ -74,4 +96,12 @@ export interface RawArticle {
    * used by GitHub Trending for "Language · ★stars · forks · stars today".
    */
   meta?: string;
+  /** Transported source metadata used to classify the individual item. */
+  documentType?: DocumentType;
+  /** Transported indication that an abstract, excerpt, or structured body is available. */
+  contentType?: string;
+  /** Optional semantic-review outcome, assigned downstream. */
+  reviewStatus?: ReviewStatus;
+  /** Optional ranking hint, assigned downstream. */
+  lowPriority?: boolean;
 }

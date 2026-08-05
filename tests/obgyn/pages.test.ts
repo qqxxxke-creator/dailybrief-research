@@ -10,6 +10,7 @@ const source: SourceDef = {
   type: "scrape",
   url: "https://www.rcog.org.uk/guidance/browse-all-guidance/",
   category: "tech",
+  sourceClass: "official_authority",
   subcategory: "guidelines",
   keywords: ["Green-top Guideline", "Good Practice Paper"],
   excludeKeywords: ["historical unchanged documents"],

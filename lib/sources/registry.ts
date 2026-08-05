@@ -1,7 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import type { SourceDef } from "./types";
+import type { SourceClass, SourceDef } from "./types";
 
 /**
  * Source registry — loaded at module-init time from sources.config.json
@@ -58,6 +58,12 @@ function loadAndValidate(): SourceDef[] {
 
   const validTypes = new Set(["rss", "api", "scrape"]);
   const validCategories = new Set(["tech", "finance", "politics"]);
+  const validSourceClasses = new Set<SourceClass>([
+    "official_authority",
+    "academic_journal",
+    "professional_vertical",
+    "general_authority",
+  ]);
   const seenIds = new Set<string>();
 
   for (let i = 0; i < parsed.length; i++) {
@@ -73,6 +79,9 @@ function loadAndValidate(): SourceDef[] {
     }
     if (!validCategories.has(s.category as string)) {
       throw new Error(`${at} (${s.id}): invalid 'category' '${String(s.category)}'`);
+    }
+    if (!validSourceClasses.has(s.sourceClass as SourceClass)) {
+      throw new Error(`${at} (${s.id}): missing or invalid 'sourceClass'`);
     }
     if (s.locales !== undefined) {
       if (!Array.isArray(s.locales) || s.locales.some((l) => l !== "zh" && l !== "en")) {

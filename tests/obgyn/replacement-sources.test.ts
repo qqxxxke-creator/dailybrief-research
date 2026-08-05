@@ -16,6 +16,7 @@ const guidelineSource: SourceDef = {
   type: "scrape",
   url: "https://cjournal.hep.com.cn/1672-1861/CN/current",
   category: "tech",
+  sourceClass: "academic_journal",
   subcategory: "guidelines",
   keywords: ["指南", "共识"],
   lookbackHours: 168,

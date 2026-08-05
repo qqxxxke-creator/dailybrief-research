@@ -18,6 +18,7 @@ const source: SourceDef = {
   type: "scrape",
   url: "https://www.acog.org/clinical/clinical-guidance",
   category: "tech",
+  sourceClass: "official_authority",
   subcategory: "guidelines",
   keywords: ["Clinical Practice Guideline", "Practice Advisory"],
   excludeKeywords: ["patient education", "careers"],
