@@ -6,6 +6,7 @@
     "test": "tsx --test tests/**/*.test.ts",
     "test:research": "tsx --test tests/research/**/*.test.ts",
     "dry-run": "tsx scripts/dry-run.ts",
+    "research:dry-run": "tsx scripts/research-dry-run.ts",
     "daily": "tsx scripts/daily.ts",
     "render": "tsx scripts/render.ts",
     "regen-trading": "tsx scripts/regen-trading.ts",

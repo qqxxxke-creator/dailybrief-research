@@ -74,6 +74,7 @@ export interface ResearchPaper {
   score?: ResearchScore;
   summaryZh?: ResearchSummaryZh;
   summaryStatus?: "success" | "failed" | "not-requested";
+  summaryInputHash?: string;
 }
 
 export interface ResearchFetchResult {

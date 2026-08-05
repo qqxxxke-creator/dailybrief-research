@@ -78,6 +78,7 @@ function mergeGroup(group: ResearchPaper[]): ResearchPaper {
     merged.activityAt = newerIso(merged.activityAt, paper.activityAt) ?? merged.activityAt;
     if (!merged.summaryZh && paper.summaryZh) merged.summaryZh = paper.summaryZh;
     if (!merged.summaryStatus && paper.summaryStatus) merged.summaryStatus = paper.summaryStatus;
+    if (!merged.summaryInputHash && paper.summaryInputHash) merged.summaryInputHash = paper.summaryInputHash;
   }
 
   merged.doi = normalizeDoi(merged.doi);
