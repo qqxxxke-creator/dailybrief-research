@@ -4,6 +4,7 @@ import { extractJson } from "./json-util";
 import { SYSTEM_PROMPT_DIGEST_EN, SYSTEM_PROMPT_DIGEST_ZH } from "./prompts";
 import { REPORT_LOCALE } from "../sources/registry";
 import type { Category, RawArticle } from "../sources/types";
+import type { ResearchSection } from "../research/types";
 
 const SYSTEM_PROMPT_DIGEST =
   REPORT_LOCALE === "en" ? SYSTEM_PROMPT_DIGEST_EN : SYSTEM_PROMPT_DIGEST_ZH;
@@ -26,6 +27,8 @@ export interface DailyReport {
   keywords: string[];
   /** Optional trading-signals section, present when scripts/daily.ts ran successfully. */
   trading?: TradingSection;
+  /** Optional research-frontier section; renderers always place it last. */
+  research?: ResearchSection;
 }
 
 import type { TickerAnalysis } from "../trading/signals";

@@ -29,6 +29,7 @@ import { fetchCryptoGlobal } from "../lib/trading/coingecko";
 import { generateTradingCommentary } from "../lib/ai/trading-commentary";
 import type { TradingSection } from "../lib/ai/pipeline";
 import { todayKey } from "../lib/utils";
+import { runResearchSafely } from "../lib/research/integration";
 
 const OUTPUT_DIR = "daily_reports";
 
@@ -269,10 +270,15 @@ async function main() {
     console.warn(`[daily] trading section failed: ${msg}`);
   }
 
+  // Research Intelligence is isolated from the news digest. Source, cache,
+  // or summarization failures must never prevent the morning brief shipping.
+  const research = await runResearchSafely();
+
   console.log(`[daily] generating digest with ${getModelTag()}…`);
   const t0 = Date.now();
   const { report } = await generateDailyReport(articles);
   if (trading) report.trading = trading;
+  if (research) report.research = research;
   console.log(`[daily] digest ready in ${((Date.now() - t0) / 1000).toFixed(1)}s`);
 
   const dateDir = path.join(OUTPUT_DIR, date);

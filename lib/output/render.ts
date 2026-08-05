@@ -10,6 +10,7 @@ import { getReportTz } from "../utils";
 import type { Category, SourceDef } from "../sources/types";
 import { V2EX_OFF_TOPIC_RE } from "../sources/v2ex";
 import type { TickerAnalysis } from "../trading/signals";
+import type { ResearchPaper, ResearchSection } from "../research/types";
 import {
   getAssetGroupLabels,
   ASSET_GROUP_ORDER,
@@ -70,6 +71,24 @@ const TEXTS_ZH = {
   mdTodayKeywords: "今日关键词",
   mdImportance: "重要度",
   archiveLink: "← 历史归档",
+  researchTitle: "研究前沿追踪",
+  researchCached: "缓存数据",
+  researchDataAsOf: "数据截至",
+  researchScore: "综合评分",
+  researchTopic: "兴趣方向",
+  researchOriginalTitle: "英文题名",
+  researchOriginalLink: "查看论文原文",
+  researchQuestion: "研究问题",
+  researchDesign: "研究设计",
+  researchPopulation: "研究对象与样本",
+  researchMethods: "方法",
+  researchResults: "关键结果",
+  researchLimitations: "局限性",
+  researchClinical: "临床解读",
+  researchSummaryFailed: "中文摘要生成失败，请通过原文链接查看论文信息。",
+  researchEmpty: "今日无符合阈值的新论文。",
+  researchPmid: "PMID",
+  researchDoi: "DOI",
 };
 
 const TEXTS_EN: typeof TEXTS_ZH = {
@@ -120,6 +139,24 @@ const TEXTS_EN: typeof TEXTS_ZH = {
   mdTodayKeywords: "Keywords",
   mdImportance: "Importance",
   archiveLink: "← Archive",
+  researchTitle: "Research Frontier",
+  researchCached: "Cached data",
+  researchDataAsOf: "Data as of",
+  researchScore: "Score",
+  researchTopic: "Interest",
+  researchOriginalTitle: "Original title",
+  researchOriginalLink: "View original paper",
+  researchQuestion: "Research question",
+  researchDesign: "Study design",
+  researchPopulation: "Population and sample",
+  researchMethods: "Methods",
+  researchResults: "Key results",
+  researchLimitations: "Limitations",
+  researchClinical: "Clinical interpretation",
+  researchSummaryFailed: "Structured summary generation failed. Please consult the original paper.",
+  researchEmpty: "No newly indexed paper met today's threshold.",
+  researchPmid: "PMID",
+  researchDoi: "DOI",
 };
 
 const STR = REPORT_LOCALE === "en" ? TEXTS_EN : TEXTS_ZH;
@@ -523,6 +560,73 @@ function renderRawCategoryPanel(
     .map((s, i) => renderSubContent(category, s, i === 0))
     .join("\n");
   return `<nav class="sub-tabs">${subTabs}</nav>\n<div class="sub-contents">${panels}</div>`;
+}
+
+function researchMeta(paper: ResearchPaper): string {
+  const identifiers = [
+    paper.pmid ? `${STR.researchPmid} ${paper.pmid}` : "",
+    paper.doi ? `${STR.researchDoi} ${paper.doi}` : "",
+  ].filter(Boolean);
+  return [paper.journal, paper.publishedAt?.slice(0, 10), ...identifiers]
+    .filter(Boolean)
+    .map((value) => escapeHtml(value!))
+    .join(" · ");
+}
+
+function renderResearchPaper(paper: ResearchPaper): string {
+  const summary = paper.summaryZh;
+  const displayTitle = summary?.titleZh || paper.title;
+  const score = paper.score?.total;
+  const rows = summary
+    ? [
+        [STR.researchQuestion, summary.researchQuestion],
+        [STR.researchDesign, summary.studyDesign],
+        [STR.researchPopulation, summary.populationAndSample],
+        [STR.researchMethods, summary.methods],
+        [STR.researchResults, summary.keyResults],
+        [STR.researchLimitations, summary.limitations],
+        [STR.researchClinical, summary.clinicalInterpretation],
+      ]
+        .map(
+          ([label, value]) =>
+            `<div class="research-detail"><dt>${escapeHtml(label)}</dt><dd>${escapeHtml(value)}</dd></div>`,
+        )
+        .join("")
+    : `<p class="research-summary-failed">${STR.researchSummaryFailed}</p>`;
+  return `<article class="research-paper">
+    <div class="research-paper-head">
+      <div>
+        <h3 class="research-paper-title"><a href="${escapeHtml(paper.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(displayTitle)}</a></h3>
+        <p class="research-original-title"><span>${STR.researchOriginalTitle}</span> ${escapeHtml(paper.title)}</p>
+      </div>
+      ${score === undefined ? "" : `<span class="research-score">${STR.researchScore} ${score.toFixed(2)}</span>`}
+    </div>
+    <p class="research-meta">${researchMeta(paper)}</p>
+    ${paper.assignedTopicId ? `<p class="research-topic">${STR.researchTopic} · ${escapeHtml(paper.assignedTopicId)}</p>` : ""}
+    <dl class="research-details">${rows}</dl>
+    <a class="research-original-link" href="${escapeHtml(paper.url)}" target="_blank" rel="noopener noreferrer">${STR.researchOriginalLink} →</a>
+  </article>`;
+}
+
+function renderResearchSection(section: ResearchSection): string {
+  const cached = section.isCachedFallback
+    ? `<span class="research-cache-badge">${STR.researchCached}</span>`
+    : "";
+  const papers = section.papers.length
+    ? section.papers.map(renderResearchPaper).join("\n")
+    : `<p class="research-empty">${STR.researchEmpty}</p>`;
+  return `<section class="research-section">
+    <div class="research-section-head">
+      <div>
+        <span class="eyebrow">Research Intelligence</span>
+        <h2>${STR.researchTitle}</h2>
+      </div>
+      ${cached}
+    </div>
+    <p class="research-as-of">${STR.researchDataAsOf} ${escapeHtml(section.dataAsOf)}</p>
+    <p class="research-signal">${escapeHtml(section.dailySignal)}</p>
+    <div class="research-papers">${papers}</div>
+  </section>`;
 }
 
 // ----- top-level renderer -----
@@ -1181,6 +1285,40 @@ export function renderHtml(
   .trading-risk .eyebrow { display: block; margin-bottom: 0.35rem; }
   .trading-risk p { margin: 0; font-size: 0.82rem; line-height: 1.65; color: var(--fg-soft); }
 
+  /* ===== research intelligence — always the final content section ===== */
+  .research-section { margin-top: 2.5rem; padding-top: 1.8rem; border-top: 2px solid var(--fg); }
+  .research-section-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem; }
+  .research-section-head h2 { margin: 0.2rem 0 0; font-size: 1.45rem; line-height: 1.3; }
+  .research-cache-badge, .research-score, .research-topic {
+    display: inline-block; padding: 0.2rem 0.6rem; border-radius: 999px;
+    background: var(--rank-mid-bg); color: var(--rank-mid-fg); font-size: 0.74rem; font-weight: 600;
+  }
+  .research-as-of { margin: 0.35rem 0 0; color: var(--muted); font-size: 0.76rem; }
+  .research-signal { margin: 0.9rem 0 1.1rem; padding: 0.85rem 1rem; background: var(--card); border-left: 3px solid var(--link); border-radius: 0.4rem; font-size: 0.9rem; }
+  .research-paper { padding: 1.1rem 0; border-bottom: 1px solid var(--rule); }
+  .research-paper:last-child { border-bottom: 0; }
+  .research-paper-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem; }
+  .research-paper-title { margin: 0; font-size: 1.05rem; line-height: 1.45; }
+  .research-paper-title a { color: var(--fg); text-decoration: none; }
+  .research-paper-title a:hover { color: var(--link); text-decoration: underline; }
+  .research-score { flex-shrink: 0; background: var(--rank-high-bg); color: var(--rank-high-fg); }
+  .research-original-title { margin: 0.3rem 0 0; color: var(--muted); font-size: 0.78rem; }
+  .research-original-title span { font-weight: 600; }
+  .research-meta { margin: 0.45rem 0 0.35rem; color: var(--muted); font-size: 0.76rem; }
+  .research-topic { margin: 0; background: var(--rank-low-bg); color: var(--rank-low-fg); }
+  .research-details { margin: 0.8rem 0; display: grid; gap: 0.45rem; }
+  .research-detail { display: grid; grid-template-columns: minmax(7rem, 0.25fr) 1fr; gap: 0.8rem; }
+  .research-detail dt { color: var(--muted); font-size: 0.78rem; font-weight: 600; }
+  .research-detail dd { margin: 0; color: var(--fg-soft); font-size: 0.86rem; }
+  .research-summary-failed, .research-empty { color: var(--muted); font-size: 0.86rem; }
+  .research-original-link { color: var(--link); font-size: 0.8rem; text-decoration: none; }
+  .research-original-link:hover { text-decoration: underline; }
+  @media (max-width: 600px) {
+    .research-paper-head { display: block; }
+    .research-score { margin-top: 0.5rem; }
+    .research-detail { grid-template-columns: 1fr; gap: 0.1rem; }
+  }
+
   footer {
     margin-top: 2.5rem;
     border-top: 1px solid var(--rule);
@@ -1219,6 +1357,8 @@ export function renderHtml(
   ${techCommunitySubs.length > 0 ? `<section class="panel" data-panel="community">
     ${renderRawCategoryPanel("tech", techCommunitySubs)}
   </section>` : ""}
+
+  ${report.research ? renderResearchSection(report.research) : ""}
 
   <footer>
     ${STR.footer}
@@ -1504,6 +1644,39 @@ function renderSectionMarkdown(title: string, briefs: BriefItem[]): string {
   return `## ${title}\n\n${briefs.map(renderBriefMarkdown).join("\n")}\n`;
 }
 
+function renderResearchMarkdown(section: ResearchSection): string {
+  const lines: string[] = [`## ${STR.researchTitle}`, ""];
+  if (section.isCachedFallback) lines.push(`> ${STR.researchCached} · ${STR.researchDataAsOf} ${section.dataAsOf}`, "");
+  else lines.push(`> ${STR.researchDataAsOf} ${section.dataAsOf}`, "");
+  lines.push(section.dailySignal, "");
+  if (section.papers.length === 0) {
+    lines.push(STR.researchEmpty, "");
+    return lines.join("\n");
+  }
+  for (const paper of section.papers) {
+    const summary = paper.summaryZh;
+    lines.push(`### [${summary?.titleZh ?? paper.title}](${paper.url})`);
+    lines.push(`${STR.researchOriginalTitle}：${paper.title}`);
+    lines.push(researchMeta(paper));
+    if (paper.score) lines.push(`${STR.researchScore}：${paper.score.total.toFixed(2)}`);
+    if (paper.assignedTopicId) lines.push(`${STR.researchTopic}：${paper.assignedTopicId}`);
+    lines.push("");
+    if (summary) {
+      lines.push(`- **${STR.researchQuestion}：** ${summary.researchQuestion}`);
+      lines.push(`- **${STR.researchDesign}：** ${summary.studyDesign}`);
+      lines.push(`- **${STR.researchPopulation}：** ${summary.populationAndSample}`);
+      lines.push(`- **${STR.researchMethods}：** ${summary.methods}`);
+      lines.push(`- **${STR.researchResults}：** ${summary.keyResults}`);
+      lines.push(`- **${STR.researchLimitations}：** ${summary.limitations}`);
+      lines.push(`- **${STR.researchClinical}：** ${summary.clinicalInterpretation}`);
+    } else {
+      lines.push(STR.researchSummaryFailed);
+    }
+    lines.push("");
+  }
+  return lines.join("\n");
+}
+
 export function renderMarkdown(report: DailyReport, date: string): string {
   const blocks: string[] = [];
   blocks.push(`# ${STR.siteTitle} · ${date}\n`);
@@ -1533,6 +1706,9 @@ export function renderMarkdown(report: DailyReport, date: string): string {
     blocks.push(
       `## ${STR.mdTodayKeywords}\n\n${report.keywords.map((k) => `\`#${k}\``).join(" ")}\n`,
     );
+  }
+  if (report.research) {
+    blocks.push(renderResearchMarkdown(report.research));
   }
   return blocks.filter(Boolean).join("\n");
 }
