@@ -57,6 +57,40 @@ test("allows title-only fallback only for official formal documents", () => {
   assert.equal(isOfficialFormalDocument(formalArticle, journalSource), false);
 });
 
+test("hard-excludes non-formal conflicts before formal document patterns", () => {
+  for (const title of [
+    "Practice Advisory webinar registration",
+    "Practice Advisory: patient education",
+    "Sponsored Practice Advisory",
+    "Practice Advisory 招聘",
+    "Practice Advisory 采购",
+    "Practice Advisory 无实质活动",
+  ]) {
+    const conflictingArticle = article(title);
+    assert.ok(
+      !["guideline", "consensus", "statement", "practice_advisory", "safety_alert", "policy"].includes(
+        classifyDocumentType(conflictingArticle),
+      ),
+      `${title} must not classify as a formal document`,
+    );
+    assert.equal(isOfficialFormalDocument(conflictingArticle, officialSource), false, title);
+  }
+});
+
+test("hard-excludes formal structured metadata when item metadata signals non-formal content", () => {
+  const conflictingArticle = article("Practice Advisory: maternal health", {
+    documentType: "practice_advisory",
+    meta: "Sponsored patient education webinar registration",
+  });
+
+  assert.ok(
+    !["guideline", "consensus", "statement", "practice_advisory", "safety_alert", "policy"].includes(
+      classifyDocumentType(conflictingArticle),
+    ),
+  );
+  assert.equal(isOfficialFormalDocument(conflictingArticle, officialSource), false);
+});
+
 test("requires an official host, valid date, and original URL for title-only fallback", () => {
   const formalArticle = article("Practice Advisory: maternal health");
 

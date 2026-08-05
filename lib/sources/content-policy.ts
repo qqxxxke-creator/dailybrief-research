@@ -9,6 +9,18 @@ const FORMAL_DOCUMENT_TYPES = new Set<DocumentType>([
   "guideline", "consensus", "statement", "practice_advisory", "safety_alert", "policy",
 ]);
 
+const HARD_NON_FORMAL_CONTENT_PATTERNS = [
+  /\b(?:advertisement|advertising|advert|commercial promotion|sponsor(?:ed|ship)?)\b/i,
+  /\b(?:career|careers|job opening|hiring|recruit(?:ment|ing)?)\b/i,
+  /\b(?:procurement|purchasing|tender|bid)\b/i,
+  /\b(?:registration|register|sign[- ]?up)\b/i,
+  /\bpatient (?:education|information)\b/i,
+  /\b(?:webinar|course|training|workshop|conference|event)\b/i,
+  /(?:广告|赞助|招聘|招募|采购|报名|患者科普|患者教育|病人科普|病人教育|无实质(?:内容|活动))|\bno substantive (?:content|activity)\b/i,
+];
+const HARD_EDUCATION_CONTENT_PATTERN = /\b(?:registration|register|sign[- ]?up|patient (?:education|information)|course|training|workshop)\b|(?:报名|患者科普|患者教育|病人科普|病人教育)/i;
+const HARD_VIDEO_CONTENT_PATTERN = /\b(?:webinar|video|podcast|recording)\b/i;
+
 const FORMAL_TITLE_PATTERNS: Array<[DocumentType, RegExp]> = [
   ["practice_advisory", /\bpractice advisory\b/i],
   ["safety_alert", /\b(?:patient )?safety alert(?:s)?\b/i],
@@ -24,8 +36,27 @@ const EDUCATION_TITLE_PATTERN = /\b(?:registration|course|training|workshop|educ
 const VIDEO_TITLE_PATTERN = /\b(?:video|webinar|podcast|recording)\b/i;
 const NEWS_TITLE_PATTERN = /\b(?:news|news release|press release|announcement|update)\b/i;
 
+function hasHardNonFormalContentConflict(article: RawArticle): boolean {
+  const itemMetadata = getItemMetadata(article);
+  return HARD_NON_FORMAL_CONTENT_PATTERNS.some((pattern) => pattern.test(itemMetadata));
+}
+
+function getItemMetadata(article: RawArticle): string {
+  return [article.title, article.excerpt, article.meta, article.contentType]
+    .filter((value): value is string => typeof value === "string")
+    .join("\n");
+}
+
+function classifyHardNonFormalContent(article: RawArticle): DocumentType {
+  const itemMetadata = getItemMetadata(article);
+  if (HARD_EDUCATION_CONTENT_PATTERN.test(itemMetadata)) return "education";
+  if (HARD_VIDEO_CONTENT_PATTERN.test(itemMetadata)) return "video";
+  return "unknown";
+}
+
 /** Determines an item's document type without relying on its source identity. */
 export function classifyDocumentType(article: RawArticle): DocumentType {
+  if (hasHardNonFormalContentConflict(article)) return classifyHardNonFormalContent(article);
   if (article.documentType && DOCUMENT_TYPES.has(article.documentType)) {
     return article.documentType;
   }
@@ -53,7 +84,11 @@ export function hasSubstantiveContent(article: RawArticle): boolean {
  * configured host of an official authority.
  */
 export function isOfficialFormalDocument(article: RawArticle, source: SourceDef): boolean {
-  if (source.sourceClass !== "official_authority" || !FORMAL_DOCUMENT_TYPES.has(classifyDocumentType(article))) {
+  if (
+    hasHardNonFormalContentConflict(article)
+    || source.sourceClass !== "official_authority"
+    || !FORMAL_DOCUMENT_TYPES.has(classifyDocumentType(article))
+  ) {
     return false;
   }
   if (!article.title.trim() || !article.publishedAt || Number.isNaN(article.publishedAt.getTime())) {
