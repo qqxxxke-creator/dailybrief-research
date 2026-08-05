@@ -65,6 +65,12 @@ test("hard-excludes non-formal conflicts before formal document patterns", () =>
     "Practice Advisory 招聘",
     "Practice Advisory 采购",
     "Practice Advisory 无实质活动",
+    "Practice Advisory hospital promotion",
+    "Practice Advisory hospital publicity",
+    "Practice Advisory department promotion",
+    "Practice Advisory clinic promotion",
+    "Practice Advisory 医院宣传",
+    "Practice Advisory 科室宣传",
   ]) {
     const conflictingArticle = article(title);
     assert.ok(
@@ -89,6 +95,13 @@ test("hard-excludes formal structured metadata when item metadata signals non-fo
     ),
   );
   assert.equal(isOfficialFormalDocument(conflictingArticle, officialSource), false);
+});
+
+test("does not mistake a normal clinical department reference for promotion", () => {
+  const formalArticle = article("Practice Advisory: clinical department implementation");
+
+  assert.equal(classifyDocumentType(formalArticle), "practice_advisory");
+  assert.equal(isOfficialFormalDocument(formalArticle, officialSource), true);
 });
 
 test("requires an official host, valid date, and original URL for title-only fallback", () => {

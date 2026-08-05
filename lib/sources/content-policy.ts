@@ -16,7 +16,7 @@ const HARD_NON_FORMAL_CONTENT_PATTERNS = [
   /\b(?:registration|register|sign[- ]?up)\b/i,
   /\bpatient (?:education|information)\b/i,
   /\b(?:webinar|course|training|workshop|conference|event)\b/i,
-  /(?:广告|赞助|招聘|招募|采购|报名|患者科普|患者教育|病人科普|病人教育|无实质(?:内容|活动))|\bno substantive (?:content|activity)\b/i,
+  /\b(?:hospital|clinic|department)\s+(?:promotion|publicity)\b|(?:广告|赞助|招聘|招募|采购|报名|患者科普|患者教育|病人科普|病人教育|医院宣传|科室宣传|无实质(?:内容|活动))|\bno substantive (?:content|activity)\b/i,
 ];
 const HARD_EDUCATION_CONTENT_PATTERN = /\b(?:registration|register|sign[- ]?up|patient (?:education|information)|course|training|workshop)\b|(?:报名|患者科普|患者教育|病人科普|病人教育)/i;
 const HARD_VIDEO_CONTENT_PATTERN = /\b(?:webinar|video|podcast|recording)\b/i;
