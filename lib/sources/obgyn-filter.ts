@@ -5,9 +5,73 @@ import {
   isHardExcluded,
   isOfficialFormalDocument,
 } from "./content-policy";
-import type { SourceDef } from "./types";
+import type { Category, SourceDef } from "./types";
 
 const HOUR_MS = 60 * 60 * 1000;
+
+const WINDOWS_BY_CATEGORY: Record<Category, { priority: number; supplemental: number }> = {
+  tech: { priority: 30 * 24, supplemental: 90 * 24 },
+  finance: { priority: 7 * 24, supplemental: 30 * 24 },
+  politics: { priority: 72, supplemental: 7 * 24 },
+};
+
+const GUIDANCE_TYPES = new Set([
+  "guideline",
+  "consensus",
+  "statement",
+  "practice_advisory",
+  "quality_indicator",
+]);
+
+const FORMAL_GUIDANCE_RE = /\b(?:clinical|practice) guideline\b|\bconsensus\b|\bpractice advisory\b|\bcommittee (?:opinion|statement)\b|\bconsult series\b|\bposition statement\b|\bgood practice paper\b|\bscientific impact paper\b|(?:指南|共识|实践公告|委员会意见|委员会声明|立场声明|正式监管建议)/iu;
+const SURGICAL_METHOD_RE = /\b(?:surgical technique|video article|technical note|operative technique|step[- ]by[- ]step|instrument(?:ation)?|navigation)\b|(?:手术技术|术式|操作步骤|技术方法|手术器械|手术导航)/iu;
+const SURGICAL_TOPIC_RE = /\b(?:laparoscop|hysteroscop|robotic|vnotes|single[- ]port|fertility[- ]sparing|fetal surgery|cerclage|cesarean|caesarean|placenta accreta|gynecologic oncology surgery)\w*\b|(?:腹腔镜|宫腔镜|机器人手术|单孔手术|保留生育功能手术|胎儿手术|宫颈环扎|高危剖宫产|胎盘植入|妇科肿瘤手术)/iu;
+const DYNAMICS_RE = /\b(?:society news|clinical service|regulatory update|guideline implementation|patient safety alert|training standard|quality improvement|clinical practice update|professional policy)\b|(?:学会新闻|临床服务|监管更新|指南实施|患者安全提醒|培训规范|质量改进|临床实践更新|妇幼政策|行业标准|母婴安全|助产服务规范|辅助生殖管理|学术活动总结)/iu;
+const ORDINARY_RESEARCH_RE = /\b(?:original article|research article|systematic review|meta[- ]analysis|randomi[sz]ed|cohort study|case-control study)\b|(?:原著|论著|系统综述|荟萃分析|Meta分析|队列研究|病例对照研究)/iu;
+
+export type ObgynRejectionReason =
+  | "outside_time_window"
+  | "duplicate"
+  | "ordinary_research_article"
+  | "missing_excerpt"
+  | "not_obgyn"
+  | "promotional"
+  | "source_excluded"
+  | "invalid_item"
+  | "unsupported_content_type"
+  | "llm_rejected";
+
+export interface ObgynFilterRejection {
+  title: string;
+  sourceId: string;
+  reason: ObgynRejectionReason;
+}
+
+export interface ObgynFilterStats {
+  total: number;
+  accepted: number;
+  rejected: number;
+  promotional: number;
+  invalidItem: number;
+  sourceExcluded: number;
+  outsideTimeWindow: number;
+  notObgyn: number;
+  unsupportedContentType: number;
+  missingContent: number;
+  duplicate: number;
+}
+
+export interface ObgynFilterResult {
+  articles: ArticleInput[];
+  priorityArticles: ArticleInput[];
+  supplementalArticles: ArticleInput[];
+  stats: ObgynFilterStats;
+  rejections: ObgynFilterRejection[];
+}
+
+type RouteDecision =
+  | { kind: "column"; category: Category }
+  | { kind: "reject"; reason: "ordinary_research_article" | "unsupported_content_type" };
 
 export const OBGYN_INCLUDE_KEYWORDS = [
   "obstetrics", "obstetric", "gynecology", "gynaecology", "ob/gyn", "pregnancy",
@@ -35,7 +99,7 @@ function includesAny(text: string, keywords: string[]): boolean {
   return keywords.some((keyword) => normalized.includes(keyword.toLocaleLowerCase()));
 }
 
-function normalizeTitle(title: string): string {
+export function normalizeContentTitle(title: string): string {
   return title.toLocaleLowerCase().replace(/[^\p{L}\p{N}]+/gu, " ").trim();
 }
 
@@ -53,58 +117,259 @@ export function normalizeContentUrl(url: string): string {
   }
 }
 
+function itemText(article: ArticleInput): string {
+  return [article.title, article.excerpt, article.meta, article.contentType]
+    .filter((value): value is string => typeof value === "string")
+    .join("\n");
+}
+
+function hasValidHttpUrl(url: string): boolean {
+  try {
+    return /^https?:$/.test(new URL(url).protocol);
+  } catch {
+    return false;
+  }
+}
+
+function routeDecision(article: ArticleInput, source: SourceDef): RouteDecision {
+  const text = itemText(article);
+  const typeText = [article.title, article.meta, article.contentType]
+    .filter((value): value is string => typeof value === "string")
+    .join("\n");
+  const documentType = classifyDocumentType(article);
+
+  if (article.documentType && GUIDANCE_TYPES.has(article.documentType)) {
+    return { kind: "column", category: "tech" };
+  }
+  if (documentType === "policy" && isOfficialFormalDocument(article, source)) {
+    return { kind: "column", category: "tech" };
+  }
+
+  const explicitTechniqueArticle = /\b(?:video article|technical note|surgical technique)\b/i.test(
+    article.contentType ?? "",
+  ) || /^\s*(?:video article|technical note|surgical technique)\b/i.test(article.title);
+  if (explicitTechniqueArticle) {
+    return { kind: "column", category: "finance" };
+  }
+
+  const structuredResearch = article.documentType === "research_article"
+    || ORDINARY_RESEARCH_RE.test(typeText);
+  if (structuredResearch) {
+    return { kind: "reject", reason: "ordinary_research_article" };
+  }
+
+  if (GUIDANCE_TYPES.has(documentType) || FORMAL_GUIDANCE_RE.test(typeText)) {
+    return { kind: "column", category: "tech" };
+  }
+
+  const surgicalMethod = SURGICAL_METHOD_RE.test(text);
+  const surgicalTopic = SURGICAL_TOPIC_RE.test(text);
+  if (surgicalMethod || (documentType === "video" && surgicalTopic)) {
+    return { kind: "column", category: "finance" };
+  }
+
+  if (
+    source.id === "pubmed-asrm-guidance"
+    && /\b(?:guideline|committee opinion|practice committee)\b/i.test(text)
+  ) {
+    return { kind: "column", category: "tech" };
+  }
+
+  if (
+    documentType === "news"
+    || documentType === "safety_alert"
+    || documentType === "policy"
+    || DYNAMICS_RE.test(text)
+  ) {
+    return { kind: "column", category: "politics" };
+  }
+
+  if (source.sourceClass === "academic_journal") {
+    if (ORDINARY_RESEARCH_RE.test(text)) {
+      return { kind: "reject", reason: "ordinary_research_article" };
+    }
+    return { kind: "reject", reason: "ordinary_research_article" };
+  }
+
+  if (["video", "education"].includes(documentType) && !surgicalTopic) {
+    return { kind: "reject", reason: "unsupported_content_type" };
+  }
+
+  return { kind: "column", category: source.category };
+}
+
+function withCategory(article: ArticleInput, category: Category): ArticleInput {
+  return article.category === category ? article : { ...article, category };
+}
+
+export function routeObgynArticles(
+  articles: ArticleInput[],
+  sources: SourceDef[],
+): ArticleInput[] {
+  const sourceById = new Map(sources.map((source) => [source.id, source]));
+  const routed: ArticleInput[] = [];
+  for (const article of articles) {
+    const source = sourceById.get(article.sourceId);
+    if (!source) continue;
+    const decision = routeDecision(article, source);
+    if (decision.kind === "column") routed.push(withCategory(article, decision.category));
+  }
+  return routed;
+}
+
+function markSupplemental(article: ArticleInput): ArticleInput {
+  const current = article.meta?.trim();
+  if (current?.startsWith("近期补充")) return article;
+  return { ...article, meta: current ? `近期补充 · ${current}` : "近期补充" };
+}
+
+export function selectSupplementalObgynArticles(
+  priority: ArticleInput[],
+  supplemental: ArticleInput[],
+  minimum = 5,
+): ArticleInput[] {
+  if (priority.length >= minimum) return priority;
+  const needed = minimum - priority.length;
+  const selectedSupplemental = [...supplemental]
+    .sort((a, b) => (b.publishedAt?.getTime() ?? 0) - (a.publishedAt?.getTime() ?? 0))
+    .slice(0, needed)
+    .map(markSupplemental);
+  return [...priority, ...selectedSupplemental];
+}
+
+export function findLlmRejectedObgynArticles(
+  reviewed: ArticleInput[],
+  accepted: ArticleInput[],
+): ObgynFilterRejection[] {
+  const acceptedUrls = new Set(accepted.map((article) => normalizeContentUrl(article.url)));
+  return reviewed
+    .filter((article) => !acceptedUrls.has(normalizeContentUrl(article.url)))
+    .map((article) => ({
+      title: article.title,
+      sourceId: article.sourceId,
+      reason: "llm_rejected",
+    }));
+}
+
+function emptyStats(total: number): ObgynFilterStats {
+  return {
+    total,
+    accepted: 0,
+    rejected: 0,
+    promotional: 0,
+    invalidItem: 0,
+    sourceExcluded: 0,
+    outsideTimeWindow: 0,
+    notObgyn: 0,
+    unsupportedContentType: 0,
+    missingContent: 0,
+    duplicate: 0,
+  };
+}
+
+export function filterObgynCandidatesWithStats(
+  articles: ArticleInput[],
+  sources: SourceDef[],
+  now = new Date(),
+): ObgynFilterResult {
+  const sourceById = new Map(sources.map((source) => [source.id, source]));
+  const seenUrls = new Set<string>();
+  const seenTitles = new Set<string>();
+  const priorityArticles: ArticleInput[] = [];
+  const supplementalArticles: ArticleInput[] = [];
+  const rejections: ObgynFilterRejection[] = [];
+  const stats = emptyStats(articles.length);
+
+  const reject = (
+    article: ArticleInput,
+    reason: ObgynRejectionReason,
+    field: keyof Pick<ObgynFilterStats,
+      "promotional" | "invalidItem" | "sourceExcluded" | "outsideTimeWindow"
+      | "notObgyn" | "unsupportedContentType" | "missingContent" | "duplicate">,
+  ) => {
+    stats[field] += 1;
+    rejections.push({ title: article.title, sourceId: article.sourceId, reason });
+  };
+
+  for (const article of articles) {
+    if (!article.title.trim() || !hasValidHttpUrl(article.url)) {
+      reject(article, "invalid_item", "invalidItem");
+      continue;
+    }
+    if (isHardExcluded(article) || includesAny(itemText(article), OBGYN_EXCLUDE_KEYWORDS)) {
+      reject(article, "promotional", "promotional");
+      continue;
+    }
+
+    const source = sourceById.get(article.sourceId);
+    if (!source || !article.publishedAt || Number.isNaN(article.publishedAt.getTime())) {
+      reject(article, "invalid_item", "invalidItem");
+      continue;
+    }
+    if (includesAny(itemText(article), source.excludeKeywords ?? [])) {
+      reject(article, "source_excluded", "sourceExcluded");
+      continue;
+    }
+
+    const route = routeDecision(article, source);
+    if (route.kind === "reject") {
+      reject(article, route.reason, "unsupportedContentType");
+      continue;
+    }
+
+    const age = now.getTime() - article.publishedAt.getTime();
+    const windows = WINDOWS_BY_CATEGORY[route.category];
+    if (age < 0 || age > windows.supplemental * HOUR_MS) {
+      reject(article, "outside_time_window", "outsideTimeWindow");
+      continue;
+    }
+
+    const text = itemText(article);
+    const substantive = hasSubstantiveContent(article);
+    const officialFormal = isOfficialFormalDocument(article, source);
+    if (!substantive && !officialFormal) {
+      reject(article, "missing_excerpt", "missingContent");
+      continue;
+    }
+
+    const hasDomainAnchor = includesAny(text, OBGYN_INCLUDE_KEYWORDS);
+    const sourceKeywords = source.keywords ?? [];
+    const matchesSourceRule = sourceKeywords.length > 0 && includesAny(text, sourceKeywords);
+    if (source.sourceClass === "general_authority" && (!hasDomainAnchor || !matchesSourceRule)) {
+      reject(article, "not_obgyn", "notObgyn");
+      continue;
+    }
+
+    const urlKey = normalizeContentUrl(article.url);
+    const titleKey = normalizeContentTitle(article.title);
+    if (!urlKey || !titleKey || seenUrls.has(urlKey) || seenTitles.has(titleKey)) {
+      reject(article, "duplicate", "duplicate");
+      continue;
+    }
+    seenUrls.add(urlKey);
+    seenTitles.add(titleKey);
+
+    const routed = withCategory(article, route.category);
+    if (age <= windows.priority * HOUR_MS) priorityArticles.push(routed);
+    else supplementalArticles.push(routed);
+  }
+
+  const accepted = [...priorityArticles, ...supplementalArticles];
+  stats.accepted = accepted.length;
+  stats.rejected = stats.total - stats.accepted;
+  return {
+    articles: accepted,
+    priorityArticles,
+    supplementalArticles,
+    stats,
+    rejections,
+  };
+}
+
 export function filterObgynCandidates(
   articles: ArticleInput[],
   sources: SourceDef[],
   now = new Date(),
 ): ArticleInput[] {
-  const sourceById = new Map(sources.map((source) => [source.id, source]));
-  const seenUrls = new Set<string>();
-  const seenTitles = new Set<string>();
-  const accepted: ArticleInput[] = [];
-
-  for (const article of articles) {
-    if (isHardExcluded(article)) continue;
-
-    const itemText = [article.title, article.excerpt, article.meta, article.contentType]
-      .filter((value): value is string => typeof value === "string")
-      .join("\n");
-    if (includesAny(itemText, OBGYN_EXCLUDE_KEYWORDS)) continue;
-
-    const source = sourceById.get(article.sourceId);
-    if (!source || !article.publishedAt || Number.isNaN(article.publishedAt.getTime())) continue;
-
-    if (includesAny(itemText, source.excludeKeywords ?? [])) continue;
-
-    const age = now.getTime() - article.publishedAt.getTime();
-    const lookbackHours = source.lookbackHours ?? (source.subcategory === "guidelines" ? 168 : 24);
-    if (age < 0 || age > lookbackHours * HOUR_MS) continue;
-
-    const hasDomainAnchor = includesAny(itemText, OBGYN_INCLUDE_KEYWORDS);
-    const sourceKeywords = source.keywords ?? [];
-    const matchesSourceRule = sourceKeywords.length > 0
-      && includesAny(itemText, sourceKeywords);
-    const documentType = classifyDocumentType(article);
-    const substantive = hasSubstantiveContent(article);
-    const officialFormalTitleOnly = isOfficialFormalDocument(article, source);
-
-    if (source.sourceClass === "general_authority") {
-      if (!hasDomainAnchor || !matchesSourceRule || !substantive) continue;
-    } else {
-      const verticallyScoped = source.sourceClass === "professional_vertical";
-      if (!substantive && !officialFormalTitleOnly) continue;
-      if (!hasDomainAnchor && !matchesSourceRule && !verticallyScoped) continue;
-      // Structured education content is never a title-only formal-document fallback.
-      if (!substantive && documentType === "education") continue;
-    }
-
-    const urlKey = normalizeContentUrl(article.url);
-    const titleKey = normalizeTitle(article.title);
-    if (!urlKey || !titleKey || seenUrls.has(urlKey) || seenTitles.has(titleKey)) continue;
-    seenUrls.add(urlKey);
-    seenTitles.add(titleKey);
-    accepted.push(article);
-  }
-
-  return accepted;
+  return filterObgynCandidatesWithStats(articles, sources, now).articles;
 }

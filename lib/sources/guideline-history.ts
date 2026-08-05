@@ -2,16 +2,17 @@ import fs from "node:fs";
 import path from "node:path";
 
 import type { ArticleInput } from "../ai/pipeline";
-import { normalizeContentUrl } from "./obgyn-filter";
+import { normalizeContentTitle, normalizeContentUrl } from "./obgyn-filter";
 
-type ArticleSidecar = { articles?: Array<{ url?: string }> };
+type ArticleSidecar = { articles?: Array<{ url?: string; title?: string }> };
 
-function previouslyShownArticleUrls(
+function previouslyShownArticleKeys(
   reportsRoot: string,
   currentDate: string,
-): Set<string> {
-  const seen = new Set<string>();
-  if (!fs.existsSync(reportsRoot)) return seen;
+): { urls: Set<string>; titles: Set<string> } {
+  const urls = new Set<string>();
+  const titles = new Set<string>();
+  if (!fs.existsSync(reportsRoot)) return { urls, titles };
 
   for (const date of fs.readdirSync(reportsRoot)) {
     if (!/^\d{4}-\d{2}-\d{2}$/.test(date) || date === currentDate) continue;
@@ -21,7 +22,10 @@ function previouslyShownArticleUrls(
       const parsed = JSON.parse(fs.readFileSync(sidecar, "utf8")) as ArticleSidecar;
       for (const article of parsed.articles ?? []) {
         if (article.url) {
-          seen.add(normalizeContentUrl(article.url));
+          urls.add(normalizeContentUrl(article.url));
+        }
+        if (article.title) {
+          titles.add(normalizeContentTitle(article.title));
         }
       }
     } catch (error) {
@@ -29,7 +33,7 @@ function previouslyShownArticleUrls(
       console.warn(`[daily] unable to read historical article sidecar ${sidecar}: ${message}`);
     }
   }
-  return seen;
+  return { urls, titles };
 }
 
 export function filterPreviouslyPublishedArticles(
@@ -37,6 +41,9 @@ export function filterPreviouslyPublishedArticles(
   reportsRoot: string,
   currentDate: string,
 ): ArticleInput[] {
-  const priorUrls = previouslyShownArticleUrls(reportsRoot, currentDate);
-  return articles.filter((article) => !priorUrls.has(normalizeContentUrl(article.url)));
+  const prior = previouslyShownArticleKeys(reportsRoot, currentDate);
+  return articles.filter((article) => (
+    !prior.urls.has(normalizeContentUrl(article.url))
+    && !prior.titles.has(normalizeContentTitle(article.title))
+  ));
 }

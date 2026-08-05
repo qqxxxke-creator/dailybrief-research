@@ -40,7 +40,7 @@ test("parses title, issue date, DOI and canonical article link from the Chinese 
   assert.match(items[0].excerpt ?? "", /第27卷.*第3期.*10\.13390/);
 });
 
-test("article URL history suppresses every previously shown column after canonicalization", () => {
+test("article history suppresses canonical URLs and normalized titles across columns", () => {
   const root = fs.mkdtempSync(path.join(os.tmpdir(), "guideline-history-"));
   const priorDir = path.join(root, "2026-08-04");
   fs.mkdirSync(priorDir, { recursive: true });
@@ -51,17 +51,28 @@ test("article URL history suppresses every previously shown column after canonic
         sourceId: "acog-news",
         category: "tech",
         url: "https://example.test/guideline?utm_source=email",
+        title: "Pregnancy guideline: updated care",
       }],
     }),
   );
-  const candidates: ArticleInput[] = [{
-    sourceId: "acog-news",
-    source: guidelineSource.name,
-    title: "Pregnancy guideline",
-    url: "https://example.test/guideline?utm_medium=rss",
-    publishedAt: new Date("2026-08-05T00:00:00.000Z"),
-    category: "tech",
-  }];
+  const candidates: ArticleInput[] = [
+    {
+      sourceId: "acog-news",
+      source: guidelineSource.name,
+      title: "Different URL title",
+      url: "https://example.test/guideline?utm_medium=rss",
+      publishedAt: new Date("2026-08-05T00:00:00.000Z"),
+      category: "tech",
+    },
+    {
+      sourceId: "rcog-news",
+      source: "RCOG",
+      title: "  Pregnancy Guideline — Updated Care! ",
+      url: "https://example.test/a-different-copy",
+      publishedAt: new Date("2026-08-05T00:00:00.000Z"),
+      category: "politics",
+    },
+  ];
 
   assert.deepEqual(
     filterPreviouslyPublishedArticles(candidates, root, "2026-08-05"),
@@ -114,6 +125,11 @@ test("routes GOCM guideline and video sections to their requested columns", asyn
   const guideline = { ...guidelineSource, id: "gocm-guidelines", url: "https://gocm.bmj.com/rss/recent.xml" };
   const surgery: SourceDef = { ...guideline, id: "gocm-surgery", category: "finance", subcategory: "surgery" };
 
-  assert.deepEqual((await parseGocmRssXml(guideline, xml)).map((item) => item.url), ["https://gocm.bmj.com/a", "https://gocm.bmj.com/d"]);
-  assert.deepEqual((await parseGocmRssXml(surgery, xml)).map((item) => item.url), ["https://gocm.bmj.com/b"]);
+  const guidelineItems = await parseGocmRssXml(guideline, xml);
+  const surgeryItems = await parseGocmRssXml(surgery, xml);
+  assert.deepEqual(guidelineItems.map((item) => item.url), ["https://gocm.bmj.com/a", "https://gocm.bmj.com/d"]);
+  assert.ok(guidelineItems.every((item) => item.documentType === "guideline"));
+  assert.deepEqual(surgeryItems.map((item) => item.url), ["https://gocm.bmj.com/b"]);
+  assert.equal(surgeryItems[0].documentType, "video");
+  assert.equal(surgeryItems[0].contentType, "video article");
 });

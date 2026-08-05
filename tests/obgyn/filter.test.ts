@@ -1,7 +1,10 @@
 import assert from "node:assert/strict";
 import test from "node:test";
 
-import { filterObgynCandidates } from "../../lib/sources/obgyn-filter";
+import {
+  filterObgynCandidates,
+  filterObgynCandidatesWithStats,
+} from "../../lib/sources/obgyn-filter";
 import { loadAllSources } from "../../lib/sources/registry";
 import {
   buildObgynReviewUserPrompt,
@@ -70,7 +73,7 @@ test("rejects non-medical, promotional, stale, undated, and duplicate candidates
       { ...good },
       article("OpenAI launches a new coding model", new Date("2026-08-05T07:00:00.000Z")),
       article("医院宣传：妇科名医义诊活动", new Date("2026-08-05T07:00:00.000Z")),
-      article("Clinical Practice Guideline: pregnancy", new Date("2026-07-28T07:00:00.000Z")),
+      article("Clinical Practice Guideline: pregnancy", new Date("2026-05-01T07:00:00.000Z")),
       article("Clinical Practice Guideline: pregnancy", undefined),
     ],
     [source],
@@ -80,33 +83,8 @@ test("rejects non-medical, promotional, stale, undated, and duplicate candidates
   assert.deepEqual(accepted.map((item) => item.url), ["https://example.test/good"]);
 });
 
-test("uses a 7-day guideline window and a strict 24-hour news window", () => {
-  const guideline = article(
-    "Clinical Practice Guideline: pregnancy care",
-    new Date("2026-08-01T08:00:00.000Z"),
-  );
-  const newsSource: SourceDef = {
-    ...source,
-    id: "acog-news",
-    subcategory: "international-obgyn",
-    category: "politics",
-    lookbackHours: 24,
-    keywords: ["maternal health"],
-  };
-  const news: ArticleInput = {
-    ...guideline,
-    sourceId: newsSource.id,
-    source: newsSource.name,
-    category: newsSource.category,
-    title: "Maternal health policy update",
-  };
-
-  assert.deepEqual(filterObgynCandidates([guideline], [source], now).map((item) => item.url), [guideline.url]);
-  assert.deepEqual(filterObgynCandidates([news], [newsSource], now), []);
-});
-
-test("uses 30d, 7d and 72h category windows", () => {
-  const guidelineSource = { ...source, lookbackHours: 720 };
+test("partitions candidates by routed 30/90d, 7/30d and 72h/7d windows", () => {
+  const guidelineSource = { ...source, lookbackHours: 2160 };
   const surgerySource: SourceDef = {
     ...source,
     id: "aagl-surgeryu",
@@ -122,43 +100,103 @@ test("uses 30d, 7d and 72h category windows", () => {
     id: "acog-news",
     category: "politics",
     subcategory: "international-obgyn",
-    lookbackHours: 72,
+    lookbackHours: 720,
   };
   const chinaSource: SourceDef = {
     ...internationalSource,
     id: "cmcha-industry-news",
     subcategory: "china-obgyn",
   };
-  const candidates = [
-    article("Clinical Practice Guideline: pregnancy care", new Date("2026-07-07T09:00:00.000Z")),
+  const candidates: ArticleInput[] = [
+    article("Clinical Practice Guideline: pregnancy care", new Date("2026-07-20T08:00:00.000Z")),
+    article("Committee Opinion on maternal care", new Date("2026-06-05T08:00:00.000Z"), "Formal clinical recommendations."),
     {
-      ...article("Operating theatre innovation", new Date("2026-07-30T09:00:00.000Z"), "A substantive surgical update."),
+      ...article("Surgical Technique: robotic hysterectomy", new Date("2026-08-01T08:00:00.000Z"), "Step-by-step operative method."),
       sourceId: surgerySource.id,
       source: surgerySource.name,
       category: surgerySource.category,
       url: "https://surgeryu.aagl.org/operating-theatre",
+      documentType: "video",
+      contentType: "video article",
     },
     {
-      ...article("Updated maternity safety standards", new Date("2026-08-02T09:00:00.000Z"), "A substantive clinical update."),
+      ...article("Technical Note: vNOTES entry", new Date("2026-07-16T08:00:00.000Z"), "Detailed operative access technique."),
+      sourceId: surgerySource.id,
+      source: surgerySource.name,
+      category: surgerySource.category,
+      url: "https://surgeryu.aagl.org/vnotes-entry",
+    },
+    {
+      ...article("Updated maternity safety standards", new Date("2026-08-03T08:00:00.000Z"), "A substantive clinical update."),
       sourceId: internationalSource.id,
       source: internationalSource.name,
       category: internationalSource.category,
       url: "https://surgeryu.aagl.org/maternity-safety",
     },
     {
-      ...article("Maternal health service update", new Date("2026-08-02T07:00:00.000Z"), "A substantive policy update."),
+      ...article("Maternal health service update", new Date("2026-07-31T08:00:00.000Z"), "A substantive policy update."),
       sourceId: chinaSource.id,
       source: chinaSource.name,
       category: chinaSource.category,
       url: "https://surgeryu.aagl.org/maternal-health",
     },
+    article("Clinical Guideline: expired", new Date("2026-04-01T08:00:00.000Z")),
   ];
 
-  assert.deepEqual(
-    filterObgynCandidates(candidates, [guidelineSource, surgerySource, internationalSource, chinaSource], now)
-      .map((item) => item.sourceId),
-    [guidelineSource.id, surgerySource.id, internationalSource.id],
+  const result = filterObgynCandidatesWithStats(
+    candidates,
+    [guidelineSource, surgerySource, internationalSource, chinaSource],
+    now,
   );
+
+  assert.deepEqual(result.priorityArticles.map((item) => item.title), [
+    "Clinical Practice Guideline: pregnancy care",
+    "Surgical Technique: robotic hysterectomy",
+    "Updated maternity safety standards",
+  ]);
+  assert.deepEqual(result.supplementalArticles.map((item) => item.title), [
+    "Committee Opinion on maternal care",
+    "Technical Note: vNOTES entry",
+    "Maternal health service update",
+  ]);
+  assert.equal(result.stats.outsideTimeWindow, 1);
+});
+
+test("reports aggregate deterministic filter passes and rejection stages", () => {
+  const current = article(
+    "Clinical Practice Guideline: pregnancy care",
+    new Date("2026-08-05T07:00:00.000Z"),
+  );
+  const advertisement = article(
+    "Sponsored pregnancy guideline advertisement",
+    new Date("2026-08-05T07:00:00.000Z"),
+    "Commercial promotion",
+  );
+  const stale = article(
+    "Clinical Practice Guideline: maternal care",
+    new Date("2026-04-01T07:00:00.000Z"),
+  );
+
+  const result = filterObgynCandidatesWithStats(
+    [current, advertisement, stale],
+    [{ ...source, lookbackHours: 720 }],
+    now,
+  );
+
+  assert.deepEqual(result.articles.map((item) => item.url), [current.url]);
+  assert.deepEqual(result.stats, {
+    total: 3,
+    accepted: 1,
+    rejected: 2,
+    promotional: 1,
+    invalidItem: 0,
+    sourceExcluded: 0,
+    outsideTimeWindow: 1,
+    notObgyn: 0,
+    unsupportedContentType: 0,
+    missingContent: 0,
+    duplicate: 0,
+  });
 });
 
 test("general authority requires keyword match before semantic review", () => {
@@ -200,6 +238,45 @@ test("vertical substantive content can reach semantic review without keyword hit
   };
 
   assert.equal(filterObgynCandidates([substantiveAaglItem], [aaglSource], now).length, 1);
+});
+
+test("substantive official news and academic techniques can reach review without keyword hits", () => {
+  const officialNews: SourceDef = {
+    ...source,
+    id: "smfm-publications",
+    name: "SMFM Publications",
+    keywords: ["Consult Series"],
+  };
+  const journal: SourceDef = {
+    ...source,
+    id: "jmig-articles-in-press",
+    name: "JMIG Articles in Press",
+    sourceClass: "academic_journal",
+    category: "finance",
+    subcategory: "surgery",
+    keywords: ["laparoscopy"],
+  };
+  const candidates: ArticleInput[] = [
+    {
+      ...article("SMFM clinical service update", new Date("2026-08-05T07:00:00.000Z"), "Changes to maternal-fetal medicine referral practice."),
+      sourceId: officialNews.id,
+      source: officialNews.name,
+      documentType: "news",
+    },
+    {
+      ...article("Technical Note: contained tissue extraction", new Date("2026-08-05T07:00:00.000Z"), "Detailed minimally invasive operative method."),
+      sourceId: journal.id,
+      source: journal.name,
+      category: journal.category,
+      url: "https://example.test/technical-note",
+      contentType: "Technical Note",
+    },
+  ];
+
+  assert.deepEqual(
+    filterObgynCandidates(candidates, [officialNews, journal], now).map((item) => item.title),
+    candidates.map((item) => item.title),
+  );
 });
 
 test("substantive professional webinar and training items can reach semantic review", () => {
@@ -306,11 +383,11 @@ test("configures exact category windows in the source manifest", () => {
   const sources = loadAllSources();
   for (const configuredSource of sources) {
     const expected = configuredSource.subcategory === "guidelines"
-      ? 720
+      ? 2160
       : configuredSource.subcategory === "surgery"
-        ? 168
+        ? 720
         : ["international-obgyn", "china-obgyn"].includes(configuredSource.subcategory ?? "")
-          ? 72
+          ? 168
           : undefined;
     assert.equal(configuredSource.lookbackHours, expected, configuredSource.id);
   }
@@ -365,7 +442,7 @@ test("semantic review keeps only explicitly accepted medical items", () => {
   assert.match(prompt, /accepted.*uncertain.*拒绝/s);
 });
 
-test("keeps uncertain only for official formal documents and journals", () => {
+test("keeps uncertain only for official formal documents", () => {
   const official = article(
     "Practice Advisory: maternal health",
     new Date("2026-08-05T07:00:00.000Z"),
@@ -404,9 +481,9 @@ test("keeps uncertain only for official formal documents and journals", () => {
     { url: media.url, status: "uncertain", summary: "available excerpt" },
   ] }));
 
-  assert.deepEqual(result.map((item) => item.url), [official.url, journal.url]);
-  assert.deepEqual(result.map((item) => item.reviewStatus), ["uncertain", "uncertain"]);
-  assert.deepEqual(result.map((item) => item.lowPriority), [true, true]);
+  assert.deepEqual(result.map((item) => item.url), [official.url]);
+  assert.deepEqual(result.map((item) => item.reviewStatus), ["uncertain"]);
+  assert.deepEqual(result.map((item) => item.lowPriority), [true]);
   assert.equal(result[0].summary, "原始页面暂未提供可解析摘要，请查看原文了解详细更新。");
 });
 

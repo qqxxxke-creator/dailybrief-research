@@ -48,9 +48,9 @@ const TEXTS_ZH = {
   emptySource: "过去24小时暂无符合质量要求的重要更新。",
   emptyCategory: "过去24小时暂无符合质量要求的重要更新。",
   emptyGroup: "过去24小时暂无符合质量要求的重要更新。",
-  emptyGuidelines: "近30天暂无未展示过的权威指南或共识更新。",
-  emptySurgery: "近7天暂无通过专业筛选的新手术技术进展。",
-  emptyDynamics: "近72小时暂无通过领域与专业价值筛选的重要更新。",
+  emptyGuidelines: "近90天暂无未展示过的权威指南或共识更新。",
+  emptySurgery: "近30天暂无通过专业筛选的新手术技术进展。",
+  emptyDynamics: "近7天暂无通过领域与专业价值筛选的重要更新。",
   footer: "内容均来自原媒体，本站仅作摘要整理与回链。",
   summaryLabelNews: "中文摘要",
   summaryLabelIntro: "中文介绍",
@@ -121,9 +121,9 @@ const TEXTS_EN: typeof TEXTS_ZH = {
   emptySource: "No content from this source today.",
   emptyCategory: "No content in this category today.",
   emptyGroup: "No data for this group today.",
-  emptyGuidelines: "No previously unseen authoritative guideline or consensus update was found in the past 30 days.",
-  emptySurgery: "No new surgical advance passed professional screening in the past 7 days.",
-  emptyDynamics: "No important update passed domain and professional-value screening in the past 72 hours.",
+  emptyGuidelines: "No previously unseen authoritative guideline or consensus update was found in the past 90 days.",
+  emptySurgery: "No new surgical advance passed professional screening in the past 30 days.",
+  emptyDynamics: "No important update passed domain and professional-value screening in the past 7 days.",
   footer:
     "Content sourced from original publishers; this site provides summary and backlinks only.",
   summaryLabelNews: "Summary",
@@ -313,8 +313,18 @@ export function groupRaw(
   articles: ArticleInput[],
   registry: SourceDef[],
 ): RawByCategory {
-  const subcatOf = new Map<string, string | undefined>();
-  for (const s of registry) subcatOf.set(s.id, s.subcategory);
+  const sourceById = new Map(registry.map((source) => [source.id, source]));
+  const effectiveSubcategory = (category: Category, sourceId: string): string | undefined => {
+    if (category === "tech") return "guidelines";
+    if (category === "finance") return "surgery";
+    if (category === "politics") {
+      const source = sourceById.get(sourceId);
+      return source?.subcategory === "china-obgyn" || source?.lang === "zh"
+        ? "china-obgyn"
+        : "international-obgyn";
+    }
+    return sourceById.get(sourceId)?.subcategory;
+  };
   // Drop articles from sources that have since been disabled — important
   // when scripts/render.ts re-renders against a stale sidecar that still
   // contains the disabled sources' fetched data.
@@ -412,7 +422,7 @@ export function groupRaw(
         // the renderer can label them.
         const flat: ArticleInput[] = [];
         for (const [id, b] of buckets[cat].entries()) {
-          if (subcatOf.get(id) === subId) flat.push(...b.items);
+          if (effectiveSubcategory(cat, id) === subId) flat.push(...b.items);
         }
         if (flat.length === 0) continue;
         flat.sort(
@@ -437,7 +447,7 @@ export function groupRaw(
       const limit = displayLimitFor(cat, subId);
       const sources: SourceGroup[] = [];
       for (const [id, b] of buckets[cat].entries()) {
-        if (subcatOf.get(id) === subId) sources.push(toSourceGroup(id, b, limit));
+        if (effectiveSubcategory(cat, id) === subId) sources.push(toSourceGroup(id, b, limit));
       }
       if (sources.length === 0) continue;
       subs.push({

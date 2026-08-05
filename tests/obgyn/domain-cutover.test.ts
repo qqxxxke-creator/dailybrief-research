@@ -8,9 +8,9 @@ import { SYSTEM_PROMPT_DIGEST_ZH } from "../../lib/ai/prompts";
 import { renderHtml, renderMarkdown, type RawByCategory } from "../../lib/output/render";
 
 const EMPTY_BY_COLUMN = [
-  "近30天暂无未展示过的权威指南或共识更新。",
-  "近7天暂无通过专业筛选的新手术技术进展。",
-  "近72小时暂无通过领域与专业价值筛选的重要更新。",
+  "近90天暂无未展示过的权威指南或共识更新。",
+  "近30天暂无通过专业筛选的新手术技术进展。",
+  "近7天暂无通过领域与专业价值筛选的重要更新。",
   "近7天暂无与兴趣方向匹配且达到评分阈值的未展示论文。",
 ];
 
@@ -235,4 +235,15 @@ test("daily pipeline no longer invokes legacy enrichment or trading", () => {
   assert.match(daily, /successfulSources\s*===\s*0/);
   assert.match(daily, /console\.warn/);
   assert.match(daily, /filterPreviouslyPublishedArticles/);
+});
+
+test("daily pipeline reviews priority content before conditionally reviewing supplements", () => {
+  const daily = fs.readFileSync(path.resolve("scripts/daily.ts"), "utf8");
+
+  assert.match(daily, /priorityArticles/);
+  assert.match(daily, /supplementalArticles/);
+  assert.match(daily, /priorityAccepted\.length\s*<\s*5/);
+  assert.match(daily, /selectSupplementalObgynArticles/);
+  assert.match(daily, /column counts:/);
+  assert.match(daily, /rejection samples/);
 });

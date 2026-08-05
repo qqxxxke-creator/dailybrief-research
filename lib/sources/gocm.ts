@@ -38,6 +38,7 @@ async function mapFeed(source: SourceDef, feed: { items?: GocmItem[] }): Promise
   return (feed.items ?? [])
     .filter((item) => belongsTo(source, item))
     .map((item) => {
+      const classification = classifyGocmItem(item.prismSection, item.title);
       const dateRaw = item.isoDate ?? item.pubDate ?? item.dcDate;
       const publishedAt = dateRaw ? new Date(dateRaw) : undefined;
       return {
@@ -47,6 +48,9 @@ async function mapFeed(source: SourceDef, feed: { items?: GocmItem[] }): Promise
         excerpt: stripHtml(item.contentSnippet ?? item.content ?? "").slice(0, 1_000),
         publishedAt: publishedAt && !Number.isNaN(publishedAt.getTime()) ? publishedAt : undefined,
         category: source.category,
+        documentType: classification === "guideline" ? "guideline" as const : "video" as const,
+        contentType: item.prismSection?.trim().toLowerCase()
+          || (classification === "surgery" ? "video article" : "guideline"),
       };
     })
     .filter((item) => item.title && item.url);

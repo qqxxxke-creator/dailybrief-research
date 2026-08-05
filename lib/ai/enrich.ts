@@ -503,8 +503,6 @@ function approveObgynReview(
   if (status === "uncertain") {
     if (source.sourceClass === "official_authority") {
       if (!officialFormal) return undefined;
-    } else if (source.sourceClass === "academic_journal") {
-      if (!substantive) return undefined;
     } else {
       return undefined;
     }

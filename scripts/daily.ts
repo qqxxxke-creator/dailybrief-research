@@ -32,7 +32,12 @@ import { todayKey } from "../lib/utils";
 import { runResearchSafely } from "../lib/research/integration";
 import { runResearchIntelligence } from "../lib/research/runner";
 import { loadPreviouslyShownResearchKeys } from "../lib/research/history";
-import { filterObgynCandidates } from "../lib/sources/obgyn-filter";
+import {
+  filterObgynCandidatesWithStats,
+  findLlmRejectedObgynArticles,
+  selectSupplementalObgynArticles,
+  type ObgynFilterRejection,
+} from "../lib/sources/obgyn-filter";
 import { filterPreviouslyPublishedArticles } from "../lib/sources/guideline-history";
 import { reviewObgynCandidates } from "../lib/ai/enrich";
 
@@ -258,12 +263,72 @@ async function main() {
     throw new Error("all enabled OB-GYN news sources failed; refusing to publish a false empty report");
   }
   console.log(`\n[daily] fetched articles: ${fetched.length}`);
-  const ruleFiltered = filterObgynCandidates(fetched, sources);
-  console.log(`[daily] OB-GYN rule filter: ${ruleFiltered.length}/${fetched.length}`);
-  const unseenArticles = filterPreviouslyPublishedArticles(ruleFiltered, OUTPUT_DIR, date);
-  console.log(`[daily] article URL history: ${unseenArticles.length}/${ruleFiltered.length}`);
-  const articles = await reviewObgynCandidates(unseenArticles);
-  console.log(`[daily] OB-GYN semantic review: ${articles.length}/${unseenArticles.length}`);
+  const filtered = filterObgynCandidatesWithStats(fetched, sources);
+  const filterStats = filtered.stats;
+  console.log(
+    `[daily] OB-GYN rule filter: passed=${filterStats.accepted}, rejected=${filterStats.rejected}, total=${filterStats.total}`,
+  );
+  console.log(
+    `[daily] rule rejects: window=${filterStats.outsideTimeWindow}, not_obgyn=${filterStats.notObgyn}, content_type=${filterStats.unsupportedContentType}, missing_content=${filterStats.missingContent}, promotional=${filterStats.promotional}, invalid=${filterStats.invalidItem}, source=${filterStats.sourceExcluded}, duplicate=${filterStats.duplicate}`,
+  );
+
+  const priorityArticles = filterPreviouslyPublishedArticles(filtered.priorityArticles, OUTPUT_DIR, date);
+  const supplementalArticles = filterPreviouslyPublishedArticles(filtered.supplementalArticles, OUTPUT_DIR, date);
+  const historyRejected = filtered.articles.length - priorityArticles.length - supplementalArticles.length;
+  console.log(`[daily] article history: passed=${priorityArticles.length + supplementalArticles.length}, rejected=${historyRejected}, total=${filtered.articles.length}`);
+
+  const priorityAccepted = await reviewObgynCandidates(priorityArticles);
+  let supplementalAccepted: ArticleInput[] = [];
+  if (priorityAccepted.length < 5 && supplementalArticles.length > 0) {
+    supplementalAccepted = await reviewObgynCandidates(supplementalArticles);
+  }
+  const articles = selectSupplementalObgynArticles(priorityAccepted, supplementalAccepted, 5);
+  const llmReviewed = priorityArticles.length
+    + (priorityAccepted.length < 5 ? supplementalArticles.length : 0);
+  const llmAccepted = priorityAccepted.length + supplementalAccepted.length;
+  const llmRejected = llmReviewed - llmAccepted;
+  console.log(`[daily] OB-GYN semantic review: passed=${llmAccepted}, rejected=${llmRejected}, total=${llmReviewed}`);
+  console.log(`[daily] window selection: priority=${priorityAccepted.length}, supplemental=${articles.length - priorityAccepted.length}, final=${articles.length}`);
+
+  const sourceById = new Map(sources.map((source) => [source.id, source]));
+  const columnCounts = {
+    guidelines: articles.filter((article) => article.category === "tech").length,
+    surgery: articles.filter((article) => article.category === "finance").length,
+    international: articles.filter((article) => {
+      const source = sourceById.get(article.sourceId);
+      return article.category === "politics"
+        && source?.subcategory !== "china-obgyn"
+        && source?.lang !== "zh";
+    }).length,
+    china: articles.filter((article) => {
+      const source = sourceById.get(article.sourceId);
+      return article.category === "politics"
+        && (source?.subcategory === "china-obgyn" || source?.lang === "zh");
+    }).length,
+  };
+  console.log(`[daily] column counts: guidelines=${columnCounts.guidelines}, surgery=${columnCounts.surgery}, international=${columnCounts.international}, china=${columnCounts.china}`);
+
+  if (articles.length < 3) {
+    const historyKept = new Set([...priorityArticles, ...supplementalArticles]);
+    const reviewedArticles = [
+      ...priorityArticles,
+      ...(priorityAccepted.length < 5 ? supplementalArticles : []),
+    ];
+    const rejectionSamples: ObgynFilterRejection[] = [
+      ...filtered.rejections,
+      ...filtered.articles
+        .filter((article) => !historyKept.has(article))
+        .map((article) => ({ title: article.title, sourceId: article.sourceId, reason: "duplicate" as const })),
+      ...findLlmRejectedObgynArticles(
+        reviewedArticles,
+        [...priorityAccepted, ...supplementalAccepted],
+      ),
+    ].slice(0, 20);
+    console.warn(`[daily] rejection samples (${rejectionSamples.length}/20 max):`);
+    for (const sample of rejectionSamples) {
+      console.warn(`  ${sample.reason} | ${sample.sourceId} | ${sample.title.slice(0, 140)}`);
+    }
+  }
 
   // Research Intelligence is isolated from the news digest. Source, cache,
   // or summarization failures must never prevent the morning brief shipping.
