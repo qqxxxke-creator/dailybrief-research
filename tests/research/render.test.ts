@@ -103,3 +103,10 @@ test("renders the required research panel with an explicit empty state", () => {
   const html = renderHtml({ ...baseReport(), research: research(0) }, raw, "2026-08-05");
   assert.match(html, /过去24小时暂无符合质量要求的重要更新/);
 });
+
+test("uses the seven-day unseen-paper empty state", () => {
+  const expected = "近7天暂无与兴趣方向匹配且达到评分阈值的未展示论文。";
+  assert.ok(renderHtml(baseReport(), raw, "2026-08-05").includes(expected));
+  assert.ok(renderHtml({ ...baseReport(), research: research(0) }, raw, "2026-08-05").includes(expected));
+  assert.ok(renderMarkdown(baseReport(), "2026-08-05").includes(expected));
+});

@@ -48,6 +48,9 @@ const TEXTS_ZH = {
   emptySource: "过去24小时暂无符合质量要求的重要更新。",
   emptyCategory: "过去24小时暂无符合质量要求的重要更新。",
   emptyGroup: "过去24小时暂无符合质量要求的重要更新。",
+  emptyGuidelines: "近30天暂无未展示过的权威指南或共识更新。",
+  emptySurgery: "近7天暂无通过专业筛选的新手术技术进展。",
+  emptyDynamics: "近72小时暂无通过领域与专业价值筛选的重要更新。",
   footer: "内容均来自原媒体，本站仅作摘要整理与回链。",
   summaryLabelNews: "中文摘要",
   summaryLabelIntro: "中文介绍",
@@ -89,7 +92,7 @@ const TEXTS_ZH = {
   researchLimitations: "局限性",
   researchClinical: "临床解读",
   researchSummaryFailed: "中文摘要生成失败，请通过原文链接查看论文信息。",
-  researchEmpty: "过去24小时暂无符合质量要求的重要更新。",
+  researchEmpty: "近7天暂无与兴趣方向匹配且达到评分阈值的未展示论文。",
   researchPmid: "PMID",
   researchDoi: "DOI",
 };
@@ -118,6 +121,9 @@ const TEXTS_EN: typeof TEXTS_ZH = {
   emptySource: "No content from this source today.",
   emptyCategory: "No content in this category today.",
   emptyGroup: "No data for this group today.",
+  emptyGuidelines: "No previously unseen authoritative guideline or consensus update was found in the past 30 days.",
+  emptySurgery: "No new surgical advance passed professional screening in the past 7 days.",
+  emptyDynamics: "No important update passed domain and professional-value screening in the past 72 hours.",
   footer:
     "Content sourced from original publishers; this site provides summary and backlinks only.",
   summaryLabelNews: "Summary",
@@ -160,7 +166,7 @@ const TEXTS_EN: typeof TEXTS_ZH = {
   researchLimitations: "Limitations",
   researchClinical: "Clinical interpretation",
   researchSummaryFailed: "Structured summary generation failed. Please consult the original paper.",
-  researchEmpty: "No newly indexed paper met today's threshold.",
+  researchEmpty: "No unseen paper indexed in the past 7 days matched an interest and met the score threshold.",
   researchPmid: "PMID",
   researchDoi: "DOI",
 };
@@ -500,6 +506,15 @@ function renderArticleHtml(a: ArticleInput, showSource = false): string {
 </article>`;
 }
 
+function emptyTextFor(category: Category, subId?: string): string {
+  if (subId === "guidelines" || category === "tech") return STR.emptyGuidelines;
+  if (subId === "surgery" || category === "finance") return STR.emptySurgery;
+  if (subId === "international-obgyn" || subId === "china-obgyn" || category === "politics") {
+    return STR.emptyDynamics;
+  }
+  return STR.emptyCategory;
+}
+
 function renderSourceContent(
   category: Category,
   subId: string,
@@ -508,7 +523,7 @@ function renderSourceContent(
 ): string {
   const showSource = source.merged === true;
   return `<div class="source-content${isActive ? " active" : ""}" data-source-content="${escapeHtml(source.sourceId)}" data-sub="${escapeHtml(subId)}" data-cat="${category}">
-    ${source.items.length === 0 ? `<p class="empty">${STR.emptySource}</p>` : source.items.map((a) => renderArticleHtml(a, showSource)).join("\n")}
+    ${source.items.length === 0 ? `<p class="empty">${emptyTextFor(category, subId)}</p>` : source.items.map((a) => renderArticleHtml(a, showSource)).join("\n")}
   </div>`;
 }
 
@@ -531,7 +546,7 @@ function renderSourceTabs(
 
 function renderSubContent(category: Category, sub: SubGroup, isActive: boolean): string {
   if (sub.sources.length === 0) {
-    return `<div class="sub-content${isActive ? " active" : ""}" data-sub-content="${escapeHtml(sub.id)}" data-cat="${category}"><p class="empty">${STR.emptyCategory}</p></div>`;
+    return `<div class="sub-content${isActive ? " active" : ""}" data-sub-content="${escapeHtml(sub.id)}" data-cat="${category}"><p class="empty">${emptyTextFor(category, sub.id)}</p></div>`;
   }
   return `<div class="sub-content${isActive ? " active" : ""}" data-sub-content="${escapeHtml(sub.id)}" data-cat="${category}">
     ${renderSourceTabs(category, sub.id, sub.sources)}
@@ -544,9 +559,10 @@ function renderSubContent(category: Category, sub: SubGroup, isActive: boolean):
 function renderRawCategoryPanel(
   category: Category,
   subs: SubGroup[],
+  emptySubId?: string,
 ): string {
   if (subs.length === 0) {
-    return `<p class="empty">${STR.emptyCategory}</p>`;
+    return `<p class="empty">${emptyTextFor(category, emptySubId)}</p>`;
   }
   if (subs.length === 1) {
     return renderSubContent(category, subs[0], true);
@@ -1428,10 +1444,10 @@ export function renderHtml(
     ${renderRawCategoryPanel("finance", raw.finance)}
   </section>
   <section class="panel" data-panel="international-obgyn">
-    ${renderRawCategoryPanel("politics", internationalSubs)}
+    ${renderRawCategoryPanel("politics", internationalSubs, "international-obgyn")}
   </section>
   <section class="panel" data-panel="china-obgyn">
-    ${renderRawCategoryPanel("politics", chinaSubs)}
+    ${renderRawCategoryPanel("politics", chinaSubs, "china-obgyn")}
   </section>
 
   ${report.research ? renderResearchSection(report.research) : renderResearchUnavailable()}
@@ -1715,8 +1731,8 @@ function renderBriefMarkdown(b: BriefItem): string {
   return `### [${b.title}](${b.url})\n${b.source} · ${STR.mdImportance} ${importance}/10\n\n${b.summary}\n`;
 }
 
-function renderSectionMarkdown(title: string, briefs: BriefItem[]): string {
-  if (briefs.length === 0) return `## ${title}\n\n${STR.emptyCategory}\n`;
+function renderSectionMarkdown(title: string, briefs: BriefItem[], emptyText = STR.emptyCategory): string {
+  if (briefs.length === 0) return `## ${title}\n\n${emptyText}\n`;
   return `## ${title}\n\n${briefs.map(renderBriefMarkdown).join("\n")}\n`;
 }
 
@@ -1762,12 +1778,13 @@ export function renderMarkdown(report: DailyReport, date: string, raw?: RawByCat
     blocks.push(`## ${STR.mdTodayOverview}\n\n${report.daily_overview}\n`);
   }
   blocks.push(
-    renderSectionMarkdown(CATEGORY_DIGEST_LABELS.tech, report.tech_briefs),
+    renderSectionMarkdown(CATEGORY_DIGEST_LABELS.tech, report.tech_briefs, STR.emptyGuidelines),
   );
   blocks.push(
     renderSectionMarkdown(
       CATEGORY_DIGEST_LABELS.finance,
       report.finance_briefs,
+      STR.emptySurgery,
     ),
   );
   if (raw) {
@@ -1781,13 +1798,15 @@ export function renderMarkdown(report: DailyReport, date: string, raw?: RawByCat
     blocks.push(renderSectionMarkdown(
       STR.catInternational,
       report.politics_briefs.filter((item) => internationalUrls.has(item.url)),
+      STR.emptyDynamics,
     ));
     blocks.push(renderSectionMarkdown(
       STR.catChina,
       report.politics_briefs.filter((item) => chinaUrls.has(item.url)),
+      STR.emptyDynamics,
     ));
   } else {
-    blocks.push(renderSectionMarkdown(CATEGORY_DIGEST_LABELS.politics, report.politics_briefs));
+    blocks.push(renderSectionMarkdown(CATEGORY_DIGEST_LABELS.politics, report.politics_briefs, STR.emptyDynamics));
   }
   if (report.editor_note) {
     blocks.push(`## ${STR.mdEditorNote}\n\n${report.editor_note}\n`);

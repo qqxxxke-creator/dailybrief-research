@@ -7,6 +7,13 @@ import { createEmptyDailyReport, type DailyReport } from "../../lib/ai/pipeline"
 import { SYSTEM_PROMPT_DIGEST_ZH } from "../../lib/ai/prompts";
 import { renderHtml, renderMarkdown, type RawByCategory } from "../../lib/output/render";
 
+const EMPTY_BY_COLUMN = [
+  "近30天暂无未展示过的权威指南或共识更新。",
+  "近7天暂无通过专业筛选的新手术技术进展。",
+  "近72小时暂无通过领域与专业价值筛选的重要更新。",
+  "近7天暂无与兴趣方向匹配且达到评分阈值的未展示论文。",
+];
+
 const EMPTY_TEXT = "过去24小时暂无符合质量要求的重要更新。";
 
 function report(): DailyReport {
@@ -66,6 +73,15 @@ test("renders only the five OB-GYN content panels on the existing page shell", (
   const footer = html.indexOf("<footer>");
   assert.ok(lastNewsPanel < researchPanel);
   assert.ok(researchPanel < footer);
+});
+
+test("renders category-specific empty copy in HTML and Markdown", () => {
+  const html = renderHtml(report(), raw, "2026-08-05");
+  const markdown = renderMarkdown(report(), "2026-08-05", raw);
+  for (const message of EMPTY_BY_COLUMN) {
+    assert.ok(html.includes(message), `HTML must include: ${message}`);
+    assert.ok(markdown.includes(message), `Markdown must include: ${message}`);
+  }
 });
 
 test("enables every approved OB-GYN news source from the manifest", () => {
