@@ -1,0 +1,283 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-08-07T22:20:00.979Z",
+    "dataAsOf": "2026-08-07T22:20:00.979Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及胚胎移植前的准备技术、口服抗氧化剂对辅助生殖技术结局的影响：随机对照试验的系统综述与Meta分析、探索镉暴露作为男性不育的贡献因素：环境污染物与男性生殖系统关系的见解。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42556821",
+        "pmid": "42556821",
+        "doi": "10.1002/14651858.cd007682.pub3",
+        "title": "Techniques for preparation prior to embryo transfer.",
+        "abstract": "RATIONALE: Embryo transfer (ET) is the final and most vulnerable step in in vitro fertilisation (IVF) treatment. Pregnancy rates after ET may be influenced by several factors, including straightening the utero-cervical angle, cervical and endometrial preparation, and techniques for traversing the cervix. Recent research has focused on improving the ET technique in the hope of increasing IVF success rates. This review, first published in 2009, examined preparation techniques, as it remains unclear whether these simple interventions make ET an easier procedure with higher success rates and fewer complications.\nOBJECTIVES: To assess the benefits and harms of different preparation techniques prior to ET.\nSEARCH METHODS: We searched the Cochrane Gynaecology and Fertility Group's Specialised Register, CENTRAL, MEDLINE, Embase, and PsycINFO on 6 October 2025. We handsearched the citation lists of relevant publications, reviews, and included studies. We contacted experts in the field and searched trial registries to identify any unpublished or additional trials.\nELIGIBILITY CRITERIA: We included randomised controlled trials (RCTs) of the following interventions: straightening the utero-cervical angle (full bladder), cervical and endometrial preparation (removing mucus), and techniques for traversing the cervix (afterloading). Participants were women with any type of infertility undergoing IVF treatment and reaching the ET stage.\nOUTCOMES: Our critical outcomes were live birth rate and total adverse events per woman randomised. Important outcomes included pregnancy rate, pregnancy loss rate, and difficulty of transfer.\nRISK OF BIAS: We assessed the risk of bias in included studies independently for each result using the Cochrane RoB 2 tool.\nSYNTHESIS METHODS: Two or more review authors critically appraised potentially eligible studies. Two or more review authors independently extracted data, with any disagreements resolved by discussion with a third review author. Where appropriate data were available, we conducted meta-analysis; otherwise, we presented results narratively. We expressed dichotomous outcome data as a risk ratio. We planned the investigation of heterogeneity, subgroup analysis, and sensitivity analysis.\nINCLUDED STUDIES: We included 11 studies (2524 women) in the review. Of these, six studies (1341 women) evaluated the effects of three key preparation techniques before embryo transfer: straightening of the utero-cervical angle, comparing full bladder with empty bladder (two studies); cervical preparation techniques versus no intervention, comparing removal of cervical mucus to no mucus removal (two studies); and techniques for traversing the cervix, comparing afterloading to direct ET under ultrasound guidance (two studies).\nSYNTHESIS OF RESULTS: This review evaluated the effects of various preparation techniques on ET outcomes. The evidence is generally of low or very low certainty and therefore should be interpreted with caution. Straightening of the utero-cervical angle: ET under a full bladder versus an empty bladder No study reported the total number of live births and adverse events. We are very uncertain about the effect of a full bladder versus an empty bladder on pregnancy rate (risk ratio (RR) 1.01, 95% confidence interval (CI) 0.69 to 1.48; I² = 0%; 2 studies, 273 participants; very low-certainty evidence), pregnancy loss rate (RR 0.96, 95% CI 0.43 to 2.14; 1 study, 131 participants; very low-certainty evidence), or difficulty of transfer (RR 0.41, 95% CI 0.16 to 1.08; 1 study, 142 participants; very low-certainty evidence). Cervical and endometrial preparation: removing mucus versus no mucus removal One study reported 52 live births per 220 cycles in the intervention group and 42 live births per 205 cycles in the control group (low-certainty evidence). No study reported the total number of adverse events. There may be little to no difference in pregnancy rate between the removing mucus group and the no mucus removal group based on one study (RR 1.02, 95% CI 0.58 to 1.80; 1 study, 97 participants), while a second study reported 65 pregnancies per 220 cycles in the intervention group and 63 pregnancies per 205 cycles in the control group (low-certainty evidence). One study reported pregnancy loss rates (15/220 cycles in the intervention group and 20/205 cycles in the control group) (low-certainty evidence). No study reported data on difficulty of transfer for this comparison. Techniques for traversing the cervix: embryo afterloading versus direct ET No study reported the total number of live births and adverse events. Embryo afterloading may result in little to no difference in pregnancy rate (RR 1.09, 95% CI 0.91 to 1.31; I² = 0%; 2 studies, 654 participants; low-certainty evidence) and pregnancy loss rate (RR 1.13, 95% CI 0.59 to 2.13; 1 study, 352 participants; low-certainty evidence). We are very uncertain about the effect on difficulty of transfer (very low-certainty evidence): one study reported that afterloading may reduce the difficulty of transfer (RR 0.25, 95% CI 0.15 to 0.41; 1 study, 352 participants), while another study reported there was no difficulty of transfer for both groups.\nAUTHORS: We added three new studies in this update, but their inclusion did not change the main conclusions of the review. No specific implications for practice are made based on the available evidence. There is a need for further and larger studies on ET preparation techniques, which should be better designed, with clearly described methods and inclusion and exclusion criteria, and greater numbers of participants.\nFUNDING: This Cochrane review had no dedicated funding.\nREGISTRATION: Protocol and previous versions available via https://doi.org/10.1002/14651858.CD007682, and https://doi.org/10.1002/14651858.CD007682.pub2.",
+        "journal": "The Cochrane database of systematic reviews",
+        "authors": [
+          "Cindy Farquhar",
+          "Erika Ota",
+          "Hisashi Noma",
+          "James Brown",
+          "Kiriko Sasayama",
+          "Mami Yamamoto",
+          "Noyuri Yamaji",
+          "Ryosuke Akino",
+          "Shingo Miyamoto",
+          "Takeshi Hasegawa"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-06T00:00:00.000Z",
+        "activityAt": "2026-08-06T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42556821/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 3.75,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "胚胎移植前的准备技术",
+          "researchQuestion": "评估胚胎移植前不同准备技术的益处和危害，包括拉直子宫颈-子宫角度、宫颈和子宫内膜准备以及穿越宫颈的技术。",
+          "studyDesign": "Cochrane系统综述与Meta分析（纳入随机对照试验）",
+          "populationAndSample": "任何类型不孕症并接受体外受精治疗、达到胚胎移植阶段的女性。共纳入11项研究（2524名女性）；其中6项研究（1341名女性）评估三种关键准备技术。",
+          "methods": "检索Cochrane Gynaecology and Fertility Group's Specialised Register、CENTRAL、MEDLINE、Embase和PsycINFO（2025年10月6日），并手工检索相关出版物、综述和纳入研究的引文列表，联系领域专家并检索试验注册库。使用Cochrane RoB 2工具对每个结果独立评估偏倚风险；两名或以上综述作者独立提取数据，分歧由第三名作者讨论解决；可行时进行Meta分析，否则叙述性呈现结果；二分数据以风险比（RR）表示；计划进行异质性调查、亚组分析和敏感性分析。",
+          "keyResults": "总体证据确定性多为低或极低。拉直子宫颈-子宫角度（充盈膀胱 vs 空膀胱）：无研究报告活产总数和不良事件；妊娠率RR 1.01（95%CI 0.69～1.48；I²=0%；2项研究，273名参与者；极低确定性），妊娠丢失率RR 0.96（95%CI 0.43～2.14；1项研究，131名参与者；极低确定性），移植难度RR 0.41（95%CI 0.16～1.08；1项研究，142名参与者；极低确定性）。宫颈和子宫内膜准备（去除黏液 vs 不去除）：1项研究报告干预组220个周期中52例活产、对照组205个周期中42例活产（低确定性）；无研究报告不良事件总数；1项研究妊娠率RR 1.02（95%CI 0.58～1.80；97名参与者），另1项研究报告干预组220个周期中65例妊娠、对照组205个周期中63例妊娠（低确定性）；1项研究报告妊娠丢失率（干预组15/220周期，对照组20/205周期）（低确定性）；该比较无移植难度数据。穿越宫颈技术（胚胎afterloading vs 直接移植）：无研究报告活产总数和不良事件；妊娠率RR 1.09（95%CI 0.91～1.31；I²=0%；2项研究，654名参与者；低确定性），妊娠丢失率RR 1.13（95%CI 0.59～2.13；1项研究，352名参与者；低确定性）；移植难度为极低确定性：1项研究报告afterloading可降低移植难度（RR 0.25，95%CI 0.15～0.41；352名参与者），另1项研究报告两组均无移植难度。本次更新新增3项研究，未改变主要结论。",
+          "limitations": "证据确定性为低或极低；多项关键结局（活产、不良事件）未被研究报告；部分比较仅有单个研究或少量参与者。",
+          "clinicalInterpretation": "基于现有证据，无法对胚胎移植前准备技术提出具体实践建议；需要设计更好、方法学描述清晰、纳入排除标准明确且样本量更大的进一步研究。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "8b0e881630a0e1e8cf4ac916ae6862b62014585e934eb6f821402932bfd3fe0e"
+      },
+      {
+        "id": "pmid:42558317",
+        "pmid": "42558317",
+        "doi": "10.3389/fendo.2026.1891276",
+        "title": "The effects of oral antioxidants on outcomes of assisted reproductive technology: a systematic review and meta-analysis of randomized controlled trials.",
+        "abstract": "BACKGROUND: The clinical efficacy of antioxidants in assisted reproductive technology (ART) remains inconsistent. This systematic review and meta-analysis aimed to evaluate the impact of oral antioxidant supplementation on reproductive outcomes in patients undergoing in vitro fertilization/intracytoplasmic sperm injection-embryo transfer (IVF/ICSI-ET).\nMETHODS: We systematically searched PubMed, Scopus, Embase, and Web of Science databases from inception to February 2026 for randomized controlled trials (RCTs) investigating oral antioxidants in patients undergoing ART. We performed meta-analyses by pooling effect sizes, conducting subgroup analyses, and exploring heterogeneity. Methodological quality was assessed using the Risk of Bias (RoB) tool, and the certainty of evidence was evaluated using the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) framework. Sensitivity analyses and publication bias assessments were also conducted.\nRESULTS: This meta-analysis suggests that oral antioxidant supplementation may provide potential clinical benefits for women undergoing IVF/ICSI-ET. The pooled estimates indicated a significant improvement in the clinical pregnancy rate (RR = 1.29, 95% CI: 1.070-1.554), the number of morphologically mature oocytes (MII oocytes) (MD = 2.99, 95% CI: 1.82-4.16), the number of high-quality embryos (MD = 1.08, 95%CI: 0.69-1.47), and the live birth rate (RR = 1.407, 95% CI: 1.052-1.881). Due to the limited number of included studies, further large-scale RCTs are required to confirm these findings regarding high-quality embryos, live birth rates, and miscarriage rates, thereby strengthening the overall level of evidence.\nCONCLUSION: Oral antioxidant supplementation as an adjuvant therapy shows potential clinical benefits in improving clinical pregnancy rates, MII oocyte yields, the number of high-quality embryos, and live birth rates in women undergoing IVF/ICSI-ET. Notably, antioxidants appear to offer broader clinical utility in patients undergoing the antagonist protocol. Given the current limitations in study volume and methodological heterogeneity, future well-designed RCTs-stratified by patient characteristics and employing standardized antioxidant regimens-are warranted. In particular, studies prioritizing live birth as the primary endpoint are essential to establish definitive clinical recommendations.\nSYSTEMATIC REVIEW REGISTRATION: identifier CRD420251238213.",
+        "journal": "Frontiers in endocrinology",
+        "authors": [
+          "Qifan He",
+          "Ruonan Qiang",
+          "Xue Pan",
+          "Yanfeng Liu",
+          "Yinan Zhu",
+          "Yingqiao Wang",
+          "Yuanye Gu",
+          "Zheyu Xu"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-07-22T00:00:00.000Z",
+        "activityAt": "2026-08-06T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42558317/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 3.75,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "口服抗氧化剂对辅助生殖技术结局的影响：随机对照试验的系统综述与Meta分析",
+          "researchQuestion": "评估口服抗氧化剂补充对接受体外受精/卵胞浆内单精子注射-胚胎移植（IVF/ICSI-ET）患者生殖结局的影响。",
+          "studyDesign": "系统综述与Meta分析（纳入随机对照试验）",
+          "populationAndSample": "接受IVF/ICSI-ET的患者；摘要未报告纳入研究总数和总样本量。",
+          "methods": "系统检索PubMed、Scopus、Embase和Web of Science数据库，时间从建库至2026年2月，纳入调查口服抗氧化剂的随机对照试验。通过汇总效应量进行Meta分析，进行亚组分析和异质性探索；使用偏倚风险（RoB）工具评估方法学质量，使用GRADE框架评估证据确定性；并进行敏感性分析和发表偏倚评估。",
+          "keyResults": "Meta分析提示口服抗氧化剂补充可能为接受IVF/ICSI-ET的女性带来潜在临床益处：临床妊娠率RR=1.29（95%CI 1.070～1.554）；形态学成熟卵母细胞（MII）数MD=2.99（95%CI 1.82～4.16）；高质量胚胎数MD=1.08（95%CI 0.69～1.47）；活产率RR=1.407（95%CI 1.052～1.881）。亚组提示抗氧化剂在拮抗剂方案患者中似乎具有更广泛的临床效用。由于纳入研究数量有限，需进一步大规模RCT确认高质量胚胎、活产率和流产率方面的结果。",
+          "limitations": "纳入研究数量有限，方法学存在异质性；摘要未报告总样本量、各结局的具体GRADE确定性等级及亚组分析详细结果。",
+          "clinicalInterpretation": "口服抗氧化剂作为辅助治疗在提高临床妊娠率、MII卵母细胞获取数、高质量胚胎数和活产率方面显示出潜在临床益处，但证据尚不足以形成确定性临床建议；需要以活产为主要终点、按患者特征分层并采用标准化抗氧化剂方案的更大规模RCT。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "e5e5e3ddc4e2e23786e17415e3aeac5838af4bebcf9eb4abf339d2d7df090d73"
+      },
+      {
+        "id": "pmid:42558478",
+        "pmid": "42558478",
+        "doi": "10.3389/fendo.2026.1819705",
+        "title": "Exploring cadmium exposure as a contributor to male infertility: insights from the relationship between environmental pollutants and the male reproductive system.",
+        "abstract": "This paper is a narrative review focusing on the association between environmental cadmium exposure and male reproductive dysfunction. The relationship between environmental pollutants encountered in daily life and the male reproductive system is attracting increasing attention. Humans are exposed to cadmium through inhalation, dietary intake (food) and other routes, leading to adverse health effects. This study systematically searched PubMed, Web of Science, and CNKI databases from January 1, 2020, to December 31, 2024, and included 40 eligible in vivo studies based on standardized selection criteria. This study reviewed and analyzed relevant animal experiments conducted in recent years. Based on the lowest observable adverse effect level (LOAEL, 10 μg/kg/d) for reproductive toxicity in rats from a chronic 90-day study (Ait Benbella et al., 2025), the minimum critical human equivalent dose (HED) of cadmium-induced male reproductive damage was calculated, All 40 studies in Table 1 were selected according to predefined inclusion/exclusion criteria (see Section 2). The Lowest-Observed-Adverse-Effect Level (LOAEL) was converted to HED using the following formula: H E D ( m g / k g ) = A n i m a l L O A E L ( m g / k g ) × k m o f a n i m a l k m o f h u m a n (The LOAEL was derived from rat reproductive toxicity data (10 μg/kg/d) (Ait Benbella et al., 2025); km factors of 6 (rat) and 37 (human, 60kg) were applied. The calculated HED was 0.002 mg/kg/d.) Comparisons reveal that cadmium exposure levels in some regions approach or even exceed this threshold. The results suggest that cadmium may cause damage to the male reproductive system, potentially adversely affecting semen quality. Cadmium also induces renal dysfunction that indirectly exacerbates testicular injury via the renal-testis axis, further disrupting the hypothalamic-pituitary-testicular axis and amplifying reproductive toxicity. These findings highlight the integrated renal-reproductive toxicity of environmental cadmium exposure.",
+        "journal": "Frontiers in endocrinology",
+        "authors": [
+          "Chenming Zhang",
+          "Heng Liu",
+          "Jing Hu",
+          "Jun Lu",
+          "Sicheng Ma",
+          "Wenlin Yu",
+          "Yifei Wang",
+          "Yinuo Zhang",
+          "Yizhe Gao"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-07-22T00:00:00.000Z",
+        "activityAt": "2026-08-06T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42558478/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 3.75,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "探索镉暴露作为男性不育的贡献因素：环境污染物与男性生殖系统关系的见解",
+          "researchQuestion": "探讨环境镉暴露与男性生殖功能障碍之间的关联，并评估其可能的肾-生殖综合毒性机制。",
+          "studyDesign": "叙述性综述（系统检索PubMed、Web of Science和CNKI，纳入符合标准化筛选标准的体内研究）",
+          "populationAndSample": "纳入40项符合标准化选择标准的体内研究（主要为近年动物实验）；摘要未报告具体动物种类、研究类型及总样本量。",
+          "methods": "系统检索PubMed、Web of Science和CNKI数据库（2020年1月1日至2024年12月31日），依据预定纳入/排除标准筛选40项体内研究并回顾分析。基于大鼠慢性90天研究中生殖毒性的最低可观察不良效应水平（LOAEL，10 μg/kg/d），使用公式HED(mg/kg)=动物LOAEL(mg/kg)×动物km/人km换算人体等效剂量（HED），其中大鼠km=6、人（60 kg）km=37，计算得HED为0.002 mg/kg/d；并将部分地区镉暴露水平与该阈值进行比较。",
+          "keyResults": "比较显示一些地区的镉暴露水平接近甚至超过该HED阈值。结果提示镉可能对男性生殖系统造成损害，可能对精液质量产生不良影响；镉还可诱导肾功能障碍，通过肾-睾丸轴间接加重睾丸损伤，进一步干扰下丘脑-垂体-睾丸轴，从而放大生殖毒性。研究结果强调了环境镉暴露的综合肾-生殖毒性。",
+          "limitations": "摘要未报告该叙述性综述的局限性。",
+          "clinicalInterpretation": "该综述基于动物实验和剂量换算提示环境镉暴露可能损害男性生殖系统并具有肾-生殖联合毒性；但此为叙述性综述，需谨慎解读，不能据此直接推导人体因果关系。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "cbe752df5b54e595a43dc642d979f7a8cc59223b2c1babaa4b2f706e969b71ef"
+      },
+      {
+        "id": "pmid:42561999",
+        "pmid": "42561999",
+        "doi": "10.1055/a-2914-4068",
+        "title": "Implementation of an Order Set Prior to Delivery Discharge for Postpartum Glucose Testing in Gestational Diabetes: Gaps in Follow-up and Opportunities for Improvement.",
+        "abstract": "OBJECTIVE: To explore continuing factors contributing to noncompletion of the postpartum (PP) 75-g oral glucose tolerence test (75-gr, 2-hour OGTT) of patients with gestational diabetes (GDM) after minimizing provider factors by implementing an automatic order set in the electronic medical record. This study also evaluated how well results and counseling of results were communicated to patients.\nSTUDY DESIGN: From December 2019 to April 2023, 490 pregnancies with GDM were assessed for completion of 75-gr, 2-hour OGTT during postpartum period. Data were collected into an Excel sheet and deidentified before statistical analysis.\nRESULTS: During the study period, 57% of eligible patients completed the 75-gr, 2-hour OGTT. Noncompletion rates were highest in the following groups: African American (59.3%), teenage group (55%), BMI > 40 (46%), and hypertension group (50.5%). Among those who failed to complete the test, patient factors were the major contributors; 48% did not return for postpartum follow-up, while approximately 32% had the test ordered but did not complete it. Patients diagnosed with T2DM were notified of their results in 100% of cases, while patients with impaired glucose tolerance were informed 92% of the time. Normal results were communicated to 64% of patients. Appropriate counseling was documented in the abnormal results group; however, the group with normal results had the highest non-communication rate, and no counseling on future surveillance was documented.\nCONCLUSION: The automatic order set resulted in 57% completion, an increase of 16% from the historical completion rate prior to the study. Patient factors were the main contributor to noncompletion, highlighting continued barriers to healthcare at the patient level not directly addressed in this study. Communication of results was satisfactory with abnormal results but unsatisfactory when results were normal, representing missed opportunities for counseling on long-term follow-up. Even though this study demonstrated an increase in overall completion rate, this study identifies groups at risk and barriers to noncompletion. Implementation of targeted immediate postpartum testing in groups at risk of noncompletion may close this gap.\nKEY POINTS: · Postpartum OGTT completion percentage improved with addition of an automated order set for testing.. · Postpartum OGTT results were communicated well with the patient when abnormal, but not when normal.. · OGTT noncompletion (43%) was linked to patient factors such as age, race, BMI > 40, and hypertension..",
+        "journal": "American journal of perinatology",
+        "authors": [
+          "Chad B Taylor",
+          "Lauren Hutka",
+          "Mary Kate Clarkson",
+          "Nafisa K Dajani",
+          "Rachna Paruchuri",
+          "Ruofei Du",
+          "Savanna Holland"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-06T00:00:00.000Z",
+        "activityAt": "2026-08-07T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42561999/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "妊娠期糖尿病分娩出院前实施自动医嘱集进行产后葡萄糖检测：随访缺口与改进机会",
+          "researchQuestion": "探讨在电子病历中实施自动医嘱集以最小化提供者因素后，妊娠期糖尿病（GDM）患者未完成产后75g口服葡萄糖耐量试验（OGTT）的持续相关因素，并评估结果及其告知的沟通情况。",
+          "studyDesign": "观察性研究（摘要未明确报告具体设计类型），对490例GDM妊娠进行产后OGTT完成情况评估",
+          "populationAndSample": "2019年12月至2023年4月期间的490例GDM妊娠。未完成率最高的人群：非裔美国人59.3%，青少年组55%，BMI>40组46%，高血压组50.5%。",
+          "methods": "在电子病历中实施分娩出院前自动医嘱集以安排产后75g、2小时OGTT；收集数据至Excel表格并在统计分析前去标识；评估合格患者的检测完成率、结果沟通和咨询记录。",
+          "keyResults": "研究期间57%的合格患者完成了75g、2小时OGTT。未完成检测的患者中，患者因素为主要原因：48%未返回产后随访，约32%有医嘱但未完成检测。诊断为2型糖尿病的患者中100%被通知结果，糖耐量受损患者中92%被通知，正常结果仅告知64%的患者。异常结果组记录了适当的咨询；正常结果组未沟通率最高，且未记录未来监测的咨询。自动医嘱集使完成率达57%，较研究前历史完成率提高16%。关键要点：自动医嘱集提高了产后OGTT完成百分比；产后OGTT结果异常时沟通良好，正常时沟通不佳；OGTT未完成（43%）与年龄、种族、BMI>40和高血压等患者因素相关。",
+          "limitations": "摘要指出患者因素是未完成检测的主要贡献因素，患者层面的持续医疗障碍未在本研究中直接解决；未报告其他方法学局限性。",
+          "clinicalInterpretation": "自动医嘱集可提高产后OGTT完成率，但仍有相当比例患者未完成；结果异常时沟通充分，结果正常时沟通不足，错失长期随访咨询机会。识别高风险未完成人群并实施针对性的产后即时检测可能有助于缩小这一差距，但该结论仍待进一步验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "b914c919d41644d11e11b5be0296da95b9335b641769e173032fcdfca80267b7"
+      },
+      {
+        "id": "pmid:42564306",
+        "pmid": "42564306",
+        "doi": "10.3389/fimmu.2026.1791113",
+        "title": "Shared glycosylation-related molecular mechanism and immune infiltration patterns of fetal growth restriction and preeclampsia.",
+        "abstract": "BACKGROUND: Placental dysfunction and immune dysregulation are central to disorders such as fetal growth restriction (FGR) and preeclampsia (PE). Although aberrant placental glycosylation has been implicated in various pregnancy complications, the specific expression patterns of glycosylation-related genes (GRGs) associated with placental pathology and their potential role in driving immune imbalance at the maternal-fetal interface remain poorly understood.\nMETHODS: First, differentially expressed gene (DEG) identification and gene set enrichment analysis based on two GEO datasets (GSE114691 and GSE203507) revealed disease-associated pathways. Weighted gene co-expression network analysis (WGCNA) further identified glycosylation-related gene modules significantly associated with disease status. Three machine learning algorithms (LASSO, random forest, and support vector machine) were employed to screen diagnostic key genes, and a predictive nomogram was constructed. The efficacy of the diagnostic model was evaluated using receiver operating characteristic curves, calibration curves, and decision curve analysis. CIBERSORT was used to assess immune cell infiltration characteristics in the placenta and decidua of FGR, PE, and PE+FGR. Furthermore, single-cell RNA sequencing validated the expression patterns of key diagnostic genes across different trophoblast subsets, and cell-cell communication networks were analyzed using CellChat. In addition, this study validated the diagnostic efficacy of key genes in real-world samples.\nRESULT: Following batch correction and integration of two datasets, 104 samples were analyzed, including controls (n=26), PE (n=28), FGR (n=23), and PE+FGR (n=27). Glycosylation-related pathways were enriched in disease groups. Intersection of WGCNA modules with glycosylation genes yielded 97 overlapping genes, from which five core genes were identified using three machine learning algorithms. A diagnostic model based on these genes showed good predictive performance across disease groups. Immune infiltration analysis implicated multiple immune cell types in disease pathogenesis. Real-world validation of expression of B3GNT2 and ST6GAL1 differed significantly between normal and PE/FGR groups.\nCONCLUSION: Five candidate hub genes (B3GNT2, ST6GAL1, GALNT11, GCNT4, and LARGE2) were identified and a nomogram was constructed for FGR, PE, and PE+FGR diagnosis. Protein-level validation confirmed significant downregulation of B3GNT2 and ST6GAL1 in placental tissues from FGR and PE patients; mRNA-level validation of GALNT11, GCNT4, and LARGE2 is provided in independent clinical samples. These hub genes were associated with key immune cell types at both the placenta and decidua.",
+        "journal": "Frontiers in immunology",
+        "authors": [
+          "Chuanling Tang",
+          "Chunfang Xu",
+          "Hailin Yu",
+          "Lu Liu",
+          "Meirong Du",
+          "Qin Yu",
+          "Tianqi Zhang",
+          "Tingxuan Yin",
+          "Xianyang Hu",
+          "Xixi Huang"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-07-23T00:00:00.000Z",
+        "activityAt": "2026-08-07T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42564306/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "胎儿生长受限和子痫前期共享的糖基化相关分子机制与免疫浸润模式",
+          "researchQuestion": "探究胎儿生长受限（FGR）和子痫前期（PE）中糖基化相关基因（GRGs）的表达模式及其在母胎界面免疫失衡中的潜在作用，并筛选诊断关键基因和免疫细胞浸润特征。",
+          "studyDesign": "生物信息学与临床样本验证研究（基于基因表达数据集、机器学习、单细胞RNA测序及真实世界样本验证）",
+          "populationAndSample": "整合两个GEO数据集（GSE114691和GSE203507）批量校正后共104个样本：对照组26例，PE组28例，FGR组23例，PE+FGR组27例；另有真实世界临床样本用于验证。",
+          "methods": "基于两个GEO数据集进行差异表达基因识别和基因集富集分析；使用加权基因共表达网络分析（WGCNA）鉴定与疾病状态显著相关的糖基化基因模块；采用LASSO、随机森林和支持向量机三种机器学习算法筛选诊断关键基因并构建预测列线图；用受试者工作特征曲线、校准曲线和决策曲线分析评估诊断模型效能；用CIBERSORT评估胎盘和蜕膜中的免疫细胞浸润特征；用单细胞RNA测序验证关键诊断基因在不同滋养层亚群中的表达模式，并用CellChat分析细胞-细胞通讯网络；同时在真实世界样本中验证关键基因的诊断效能。",
+          "keyResults": "糖基化相关通路在疾病组富集；WGCNA模块与糖基化基因交集得到97个重叠基因，从中鉴定出5个核心基因：B3GNT2、ST6GAL1、GALNT11、GCNT4和LARGE2。基于这些基因构建的诊断模型在各疾病组中显示良好的预测性能。免疫浸润分析提示多种免疫细胞参与疾病发病机制。真实世界验证显示B3GNT2和ST6GAL1表达在正常组与PE/FGR组间差异显著；蛋白水平验证确认B3GNT2和ST6GAL1在FGR和PE患者胎盘组织中显著下调；mRNA水平验证了GALNT11、GCNT4和LARGE2在独立临床样本中的表达。这些核心基因与胎盘和蜕膜的关键免疫细胞类型相关。",
+          "limitations": "摘要未报告该研究的局限性。",
+          "clinicalInterpretation": "该研究为FGR、PE和PE+FGR的诊断提供了5个候选核心基因并构建了列线图，提示糖基化相关免疫机制可能参与疾病发生；但这是基于生物信息学分析和验证性样本的关联性研究，需进一步前瞻性研究确认其诊断价值。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "59b931b5c8865ca2b5bf5025f7fc8f36b43f4ba5b7d18a31aa08b92d1fc7851f"
+      }
+    ]
+  }
+}
