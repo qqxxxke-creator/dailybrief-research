@@ -1,0 +1,273 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-08-07T01:45:44.158Z",
+    "dataAsOf": "2026-08-07T01:45:44.158Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及子宫内膜异位症手术中手术时间预测的准确性：一项前瞻性随机多中心试点研究结果、母亲年龄30-34岁与不良围产结局：系统综述和meta分析、通过理论指导的教育提高宫颈癌筛查参与率：一项全面的系统综述和meta分析。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42560420",
+        "pmid": "42560420",
+        "doi": "10.1007/s00404-026-08545-6",
+        "title": "Accuracy of operative time prediction in endometriosis surgery: results of a prospective randomized multicenter pilot study.",
+        "abstract": "OBJECTIVE: To evaluate whether preoperative clinical Enzian scoring and digital rectal examination improve accuracy of operative time prediction and surgical outcomes in women undergoing surgery for endometriosis.\nDESIGN: Prospective, randomized, multicenter pilot trial.\nSETTING: Three urban teaching hospitals certified as endometriosis centers.\nPATIENTS: A total of 107 women undergoing surgery for endometriosis.\nINTERVENTIONS: The participants were randomly assigned to three groups: Group 1 underwent clinical Enzian scoring combined with digital rectal examination (DRE); Group 2 underwent clinical Enzian scoring only; and Group 3 underwent digital rectal examination only. All patients received standard transvaginal ultrasound examinations.\nMAIN OUTCOME MEASURES: The primary endpoint was defined as an absolute difference of ≤ 10 min between the estimated and the actual operative time. Secondary end points included conversion to laparotomy, abandonment of the operation, complete resection rate, need for secondary surgery, correspondence between the preoperative Enzian assessment and intraoperative findings, and postoperative pain (visual analog scale) and patient satisfaction.\nRESULTS: The primary endpoint was achieved in 9 patients (23.7%) in Group 1, 16 patients (47.1%) in Group 2, and 15 patients (42.9%) in Group 3. Exploratory comparison of the three groups did not demonstrate a statistically significant difference in the proportion of accurate operative time estimations. Secondary endpoints, including conversion rate, abandonment of the operation, complete resection rate, reoperation rate, and patient-reported outcomes, were also comparable across the groups.\nCONCLUSIONS: The results demonstrate that neither diagnostic strategy provided a measurable advantage in predicting operative time or improvement of surgical outcome parameters.\nSTUDY REGISTRATION NUMBER: DRKS00040760.",
+        "journal": "Archives of gynecology and obstetrics",
+        "authors": [
+          "Alexander Boosz",
+          "Andreas Mueller",
+          "Evgeni Baev",
+          "Judith Helfenritter",
+          "Mai Thi Hornaus",
+          "Marta Duvnjak",
+          "Philipp Guttenberg",
+          "Simon Binder"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-08-06T00:00:00.000Z",
+        "activityAt": "2026-08-06T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42560420/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology",
+          "minimally-invasive-surgery"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "子宫内膜异位症手术中手术时间预测的准确性：一项前瞻性随机多中心试点研究结果",
+          "researchQuestion": "评估术前临床Enzian评分和直肠指检是否可提高接受子宫内膜异位症手术女性的手术时间预测准确性和手术结局。",
+          "studyDesign": "前瞻性、随机、多中心试点试验",
+          "populationAndSample": "来自三个经认证为子宫内膜异位症中心的城市教学医院、接受子宫内膜异位症手术的107名女性。",
+          "methods": "参与者被随机分配至三组：组1接受临床Enzian评分联合直肠指检（DRE），组2仅接受临床Enzian评分，组3仅接受直肠指检；所有患者均接受标准经阴道超声检查。主要终点为估计与实际手术时间绝对差≤10分钟，次要终点包括中转开腹、放弃手术、完全切除率、二次手术需要、术前Enzian评估与术中发现的一致性、术后疼痛（视觉模拟量表）和患者满意度。",
+          "keyResults": "主要终点在组1的9例（23.7%）、组2的16例（47.1%）和组3的15例（42.9%）中达到；三组的准确手术时间估计比例差异无统计学显著性。次要终点（包括中转率、放弃手术、完全切除率、再手术率和患者报告结局）在各组间相当。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "本研究提示，术前临床Enzian评分及联合直肠指检的诊断策略在预测手术时间和改善手术结局参数方面均未展现出可测量的优势。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "944a6e4b830d5d06c5ea7dc0e3b93fbb9ae68071028b7d165ccdd29cf5abd816"
+      },
+      {
+        "id": "pmid:42555393",
+        "pmid": "42555393",
+        "doi": "10.3389/fmed.2026.1845769",
+        "title": "Maternal age 30-34 years and adverse perinatal outcomes: a systematic review and meta-analysis.",
+        "abstract": "BACKGROUND: Globally, births to women in their early thirties have become more prevalent. The current study aimed to examine the association of maternal age (30-34 years) with adverse perinatal outcomes, especially congenital birth defects and stillbirth.\nMETHODS: A literature search was conducted using PubMed, Web of Science, and Google Scholar for relevant studies published between July 1989 and August 2025. The primary outcomes were congenital birth defects (i.e., composite of Down syndrome and structural birth defects) and stillbirth. The secondary outcomes were preterm birth, low birthweight (LBW), neonatal mortality, small-for-gestational age (SGA), and intrauterine growth restriction (IUGR). Adverse perinatal outcomes were examined in women aged 30-34 compared with younger cohorts aged 18-29 years. The quality of the included studies and potential publication bias were evaluated. For the meta-analysis, forest plots were created for each outcome, and heterogeneity was assessed using the I 2 statistic. Data were synthesized employing both random- and mixed-effects models.\nRESULTS: Sixty studies were included in this meta-analysis. Maternal age (30-34 years) was associated with a significantly higher risk of overall congenital birth defects (OR, 1.10; 95% CI, 1.03, 1.17; P = 0.007; I 2 = 92) compared with a reference age group of 18-29 years. The pooled subgroup analysis revealed that maternal age (30-34 years) showed a significant association with Down syndrome (OR, 1.97; 95% CI, 1.79, 2.16; P < 0.00001; I 2 = 0) but a non-significant association with structural birth defects (OR, 0.99; 95% CI, 0.94, 1.05; P = 0.8; I 2 = 84). Moreover, maternal age (30-34 years) showed a non-significant association with stillbirth (OR, 1.07; 95% CI, 0.94, 1.23; P = 0.3; I 2 = 100), preterm birth, LBW, neonatal mortality, SGA, and IUGR.\nCONCLUSION: Maternal age 30-34 years was associated with a significantly higher risk of congenital birth defects, especially Down syndrome, but was not associated with other adverse perinatal outcomes, when compared to the 18-29 age group.\nSYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/prospero/, identifier CRD420251105683.",
+        "journal": "Frontiers in medicine",
+        "authors": [
+          "Cai Xinna",
+          "Lu Xinhua",
+          "Nawsherwan",
+          "Yin Mei"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-07-01T00:00:00.000Z",
+        "activityAt": "2026-08-05T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42555393/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 7.5,
+          "total": 97.5,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "母亲年龄30-34岁与不良围产结局：系统综述和meta分析",
+          "researchQuestion": "检验母亲年龄30-34岁与不良围产结局（尤其是先天性出生缺陷和死产）的关联。",
+          "studyDesign": "系统综述和meta分析",
+          "populationAndSample": "纳入60项研究；具体参与者总数摘要未报告。",
+          "methods": "通过PubMed、Web of Science和Google Scholar检索1989年7月至2025年8月发表的相关研究。主要结局为先天性出生缺陷（唐氏综合征和结构性出生缺陷的复合指标）和死产；次要结局为早产、低出生体重（LBW）、新生儿死亡、小于胎龄儿（SGA）和宫内生长受限（IUGR）。将30-34岁女性与18-29岁更年轻队列比较。评估纳入研究质量和发表偏倚；使用I²统计评估异质性，采用随机效应和混合效应模型进行数据合成。",
+          "keyResults": "与18-29岁参考年龄组相比，30-34岁产妇总体先天性出生缺陷风险显著更高（OR=1.10；95%CI 1.03-1.17；P=0.007；I²=92）。亚组分析显示唐氏综合征风险显著增高（OR=1.97；95%CI 1.79-2.16；P<0.00001；I²=0），而结构性出生缺陷无显著关联（OR=0.99；95%CI 0.94-1.05；P=0.8；I²=84）。死产（OR=1.07；95%CI 0.94-1.23；P=0.3；I²=100）、早产、LBW、新生儿死亡、SGA和IUGR均无显著关联。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "该研究结论提示，相比18-29岁，30-34岁产妇的总先天性出生缺陷和唐氏综合征风险较高，而其他不良围产结局未见显著关联。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "16ed6ed25d6472b0424edb0afea95c7ceca3bd2583342ecf23b816ae60da65a9"
+      },
+      {
+        "id": "pmid:42555395",
+        "pmid": "42555395",
+        "doi": "10.2340/1651-226x.2026.45119",
+        "title": "Improving cervical cancer screening uptake through theory-informed education: a comprehensive systematic review and meta-analysis.",
+        "abstract": "BACKGROUND AND PURPOSE: This study examined whether theory-based education increases cervical cancer screening among underserved women.\nMETHODS: Seven databases (PubMed, Embase, Scopus, Web of Science, Cochrane Library, CINAHL, and PsycINFO) were systematically searched for studies published between January 2005 and November 2025. A total of 1,200 records were identified; after duplicate removal, 900 titles and abstracts were screened, and 200 full-text articles were assessed. Fourteen studies met inclusion criteria for qualitative synthesis, and 12 trials contributed extractable binary outcome data for meta-analysis, including one study with two distinct intervention arms. The primary outcome was screening uptake (Pap smear, visual inspection with acetic acid [VIA], or human papillomavirus [HPV] testing). Data extraction and quality appraisal followed PRISMA 2020 and Joanna Briggs Institute guidance. Pooled odds ratios (ORs) were calculated using DerSimonian-Laird random-effects models with Hartung-Knapp adjustment, and heterogeneity, prediction intervals, small-study effects, and certainty of evidence (GRADE) were evaluated.\nRESULTS: Structured educational interventions significantly increased screening uptake compared with usual care or minimal information (OR = 4.41; 95% confidence interval [CI]: 2.21-8.80). Subgroup analyses showed substantial effects in both high-income (OR = 3.46; 95% CI: 1.43-8.36) and middle-income settings (OR = 6.55; 95% CI: 2.74-15.63). Interventions frequently incorporated behavioral frameworks, such as the Health Belief Model, Protection Motivation Theory, and BASNEF model, and were often culturally tailored or delivered through community-embedded formats.\nINTERPRETATION: Integrating such interventions into national and local screening programs represents an effective and equitable strategy to reduce disparities in cervical cancer prevention.",
+        "journal": "Acta oncologica (Stockholm, Sweden)",
+        "authors": [
+          "Chunfang Chen",
+          "Huan Wang",
+          "Huiying Qin",
+          "Lu Tian",
+          "Mingming Ma",
+          "Nana Yang",
+          "Qianqian Wang"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-05T00:00:00.000Z",
+        "activityAt": "2026-08-05T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42555395/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 7.5,
+          "total": 97.5,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "通过理论指导的教育提高宫颈癌筛查参与率：一项全面的系统综述和meta分析",
+          "researchQuestion": "检验基于理论的教育是否可增加未充分覆盖女性的宫颈癌筛查。",
+          "studyDesign": "系统综述和meta分析",
+          "populationAndSample": "定性综合纳入14项研究，meta分析纳入12项试验（其中1项研究含两个不同干预臂）；具体受试者总数摘要未报告。",
+          "methods": "系统检索PubMed、Embase、Scopus、Web of Science、Cochrane Library、CINAHL和PsycINFO等7个数据库，检索时间为2005年1月至2025年11月。共识别1200条记录，去重后筛选900条标题和摘要，评估200篇全文。主要结局为筛查参与（巴氏涂片、醋酸染色肉眼观察[VIA]或人乳头瘤病毒[HPV]检测）。数据提取和质量评价遵循PRISMA 2020和Joanna Briggs Institute指南；采用DerSimonian-Laird随机效应模型及Hartung-Knapp调整计算合并比值比，并评估异质性、预测区间、小研究效应和证据确定性（GRADE）。",
+          "keyResults": "与常规护理或最少信息相比，结构化教育干预显著提高了筛查参与（OR=4.41；95%CI 2.21-8.80）。亚组分析显示高收入地区（OR=3.46；95%CI 1.43-8.36）和中收入地区（OR=6.55；95%CI 2.74-15.63）均有显著效应。干预措施常纳入行为框架（如健康信念模型、保护动机理论和BASNEF模型），并多以文化定制或社区嵌入式形式提供。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "该系统综述和meta分析提示，将基于理论的结构化健康教育干预整合到国家和地方筛查项目中，可能是减少宫颈癌预防差异的有效且公平的策略。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "bbf942d5957849b1bebef45ee79100a79209ecc65cccab977fa8643fa03dd3d7"
+      },
+      {
+        "id": "pmid:42555144",
+        "pmid": "42555144",
+        "doi": "10.1111/scd.70220",
+        "title": "Effectiveness of Customized Animated Video-Based Oral Health Education Compared With Conventional Model-Based Education on Oral Hygiene Status and Practices Among Pregnant Women Attending a Tertiary Care Hospital: A Single-Blind Randomized Controlled Trial.",
+        "abstract": "BACKGROUND: Hormonal changes during pregnancy increase susceptibility to gingival inflammation and periodontal disease, which may adversely affect maternal and fetal health. Effective oral health education during pregnancy is therefore essential. Visually engaging educational tools such as animated videos may improve understanding and adoption of preventive oral hygiene practices.\nAIM: To compare the effectiveness of a customized animated video-based oral health education intervention with conventional model-based education on oral hygiene status, behavioural practices, and selected pregnancy outcomes among pregnant women.\nMETHODS: This single-blind, parallel-group randomized controlled trial included 92 pregnant women in their second trimester attending a tertiary care hospital between June 2024 and March 2025. Participants were randomly assigned to either an experimental group receiving customized animated video-based education or a control group receiving conventional model-based education. Clinical parameters including Plaque Index (PI), Gingival Index (GI), and Modified Periodontal Screening Score (mPESS), along with oral hygiene practices assessed through a validated questionnaire, were recorded at baseline, three months, and six months. Delivery outcomes were obtained postpartum. Statistical analysis included repeated-measures ANOVA or Friedman tests for within-group comparisons and Mann-Whitney U or chi-square tests for between-group comparisons. Analysis of covariance (ANCOVA) was additionally performed to adjust for baseline gingival index differences.\nRESULTS: Seventy-one participants completed the six-month follow-up (experimental = 26; control = 31). Both groups showed significant improvements in GI and PI, and oral hygiene practices over time (p < 0.001). At six months, the experimental group demonstrated significantly lower GI (p < 0.001) and PI scores (p = 0.011) compared with the control group. Behavioural improvements were also greater in the experimental group. No statistically significant differences were observed in preterm birth, delivery type, or infant birth weight.\nCONCLUSIONS: Within the limitations of the present study, customized animated video-based oral health education demonstrated greater improvement in gingival health, plaque control, and oral hygiene behaviours compared with conventional model-based education among pregnant women.\nTRIAL REGISTRATION: The study was submitted to the Clinical Trials Registry-India (CTRI) under Reference No. REF/2026/02/125268.",
+        "journal": "Special care in dentistry : official publication of the American Association of Hospital Dentists, the Academy of Dentistry for the Handicapped, and the American Society for Geriatric Dentistry",
+        "authors": [
+          "Aman Rajput",
+          "Atrey J Pai Khot",
+          "Pushpendra Singh",
+          "Sujata Deo",
+          "Vinay Kumar Gupta"
+        ],
+        "publicationTypes": [
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-01-01T00:00:00.000Z",
+        "activityAt": "2026-08-05T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42555144/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 7.5,
+          "total": 96.25,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "定制动画视频口腔健康教育与传统模型教育对三级医院孕妇口腔卫生状况和行为的效果：一项单盲随机对照试验",
+          "researchQuestion": "比较定制动画视频口腔健康教育干预与传统模型教育对孕妇口腔卫生状况、行为实践和部分妊娠结局的效果。",
+          "studyDesign": "单盲、平行组随机对照试验",
+          "populationAndSample": "纳入2024年6月至2025年3月在一家三级医院就诊的92名孕中期孕妇；完成6个月随访者71人（实验组26人，对照组31人）。",
+          "methods": "参与者随机分配至接受定制动画视频教育的实验组或接受传统模型教育的对照组。在基线、3个月和6个月记录临床参数（菌斑指数[PI]、牙龈指数[GI]、改良牙周筛查评分[mPESS]）以及通过验证问卷评估的口腔卫生实践。产后获取分娩结局。统计方法包括重复测量ANOVA或Friedman检验进行组内比较，Mann-Whitney U或卡方检验进行组间比较，并使用协方差分析（ANCOVA）调整基线牙龈指数差异。",
+          "keyResults": "两组在GI、PI和口腔卫生实践方面随时间均有显著改善（p<0.001）。6个月时，实验组的GI（p<0.001）和PI（p=0.011）评分显著低于对照组；行为改善也更大。早产、分娩类型或婴儿出生体重未观察到统计学显著差异。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "本研究提示，在孕妇中，定制动画视频口腔健康教育在改善牙龈健康、菌斑控制和口腔卫生行为方面优于传统模型教育，但未观察到对妊娠结局的显著影响。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "4da03bb68d2df386e282160de1077e5a358e7e738b7f3092cd527fdf42baa6a0"
+      },
+      {
+        "id": "pmid:42555284",
+        "pmid": "42555284",
+        "doi": "10.1002/cpdd.70087",
+        "title": "Exposure-Response Relationship of Dostarlimab in Primary Advanced/Recurrent Endometrial Cancer: Results From Interim Analysis 2 of Part 1 of the RUBY Trial.",
+        "abstract": "Dostarlimab in combination with carboplatin-paclitaxel was approved for primary advanced or recurrent endometrial cancer (pA/rEC). The first interim analysis (IA1) of RUBY Part 1 (NCT03981796) showed no significant exposure-response (ER) relationship for progression-free survival or for the five most common dostarlimab-related adverse events (AEs), except rash. Herein, we report the ER relationship between dostarlimab exposure and overall survival (OS) and between dostarlimab exposure and dostarlimab-related AEs. Population pharmacokinetic model was based on IA1, and the predicted exposure metrics from Cycle 1 were used to perform ER analysis at the second interim analysis (IA2). AE analysis was completed for three periods: Cycles 1-6 (chemotherapy phase), Cycle 7 and beyond (monotherapy phase), and all cycles. Included in the OS analysis were 232 patients treated with dostarlimab + carboplatin-paclitaxel. Cox regression of OS showed no significant ER relationship based on dostarlimab Cycle 1 exposure, except for rash and arthralgia. The increase in predicted probabilities for rash and arthralgia for patients with high versus low exposure was limited, ranging from 5.6% to 10.4% for rash and 4.3% to 17.7% for arthralgia (deemed not clinically relevant). These data support the risk/benefit profile at the selected dose of dostarlimab + carboplatin-paclitaxel as standard of care in patients with pA/rEC.",
+        "journal": "Clinical pharmacology in drug development",
+        "authors": [
+          "Angela Jain",
+          "Anthoula Koliadi",
+          "Bhavana Pothuri",
+          "Christine Gennigens",
+          "Eva Hanze",
+          "Floor J Backes",
+          "Joseph Buscema",
+          "Mark S Shahin",
+          "Mikalai Pishchyk",
+          "Mita Kuchimanchi",
+          "Murad Melhem",
+          "Oleksandr Zub",
+          "Oskar Alskär",
+          "Sara Bouberhan",
+          "Stefan Zajic",
+          "Thomas Krivak",
+          "Trine Lembrecht Jørgensen",
+          "Yakir Segev"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-08-01T00:00:00.000Z",
+        "activityAt": "2026-08-05T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42555284/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 7.5,
+          "total": 96.25,
+          "evidenceRank": 0.95
+        },
+        "summaryStatus": "failed"
+      }
+    ]
+  }
+}
