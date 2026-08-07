@@ -86,6 +86,7 @@ test("keeps candidates unchanged when detail fetch fails or content is clearly r
   const target = candidate("obgy-cn", "https://www.obgy.cn/unavailable");
   const result = await enrichObgynDetailMetadata([research, target], {
     fetchHtml: async () => { calls += 1; return { status: 403, html: "" }; },
+    cache: new Map(),
     now: new Date("2026-08-07T00:00:00Z"),
   });
   assert.equal(calls, 2);
