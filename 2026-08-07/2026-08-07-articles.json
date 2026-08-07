@@ -1,4 +1,49 @@
 {
   "date": "2026-08-07",
-  "articles": []
+  "articles": [
+    {
+      "sourceId": "acog-news",
+      "title": "News Releases July 15 ACOG Statement on New Maternity Codes in the 2027 Medicare Physician Fee Schedule Proposed Rule",
+      "url": "https://www.acog.org/news/news-releases/2026/07/new-maternity-codes-in-2027-medicare-physician-fee-schedule-proposed-rule",
+      "excerpt": "News Releases July 16 ACOG Releases New Guidance for Ob-Gyns on Partnering with Doulas News Releases July 16 ACOG Issues Updated Guidance on HIV Screening and Prevention, Stronger Recommendations for Preexposure Prophylaxis Counseling and Prescription",
+      "publishedAt": "2026-07-15T00:00:00.000Z",
+      "category": "tech",
+      "source": "ACOG News",
+      "contentType": "News Releases",
+      "contentTypeEvidence": "metadata",
+      "summary": "ACOG就2027年医疗保险医生费用表拟议规则中的新产妇编码发表声明。",
+      "reviewStatus": "accepted",
+      "lowPriority": false
+    },
+    {
+      "sourceId": "acog-news",
+      "title": "News Releases July 16 ACOG Releases New Guidance for Ob-Gyns on Partnering with Doulas",
+      "url": "https://www.acog.org/news/news-releases/2026/07/new-guidance-for-ob-gyns-on-partnering-with-doulas",
+      "excerpt": "News Releases July 16 ACOG Issues Updated Guidance on HIV Screening and Prevention, Stronger Recommendations for Preexposure Prophylaxis Counseling and Prescription News Releases July 15 ACOG Statement on New Maternity Codes in the 2027 Medicare Physician Fee Schedule Proposed Rule",
+      "publishedAt": "2026-07-16T00:00:00.000Z",
+      "category": "politics",
+      "source": "ACOG News",
+      "contentType": "News Releases",
+      "contentTypeEvidence": "metadata",
+      "summary": "ACOG发布新指南，指导妇产科医生与导乐（doulas）在分娩照护中的合作。",
+      "reviewStatus": "accepted",
+      "lowPriority": false,
+      "meta": "近期精选"
+    },
+    {
+      "sourceId": "acog-news",
+      "title": "News Releases July 16 ACOG Issues Updated Guidance on HIV Screening and Prevention, Stronger Recommendations for Preexposure Prophylaxis Counseling and Prescription",
+      "url": "https://www.acog.org/news/news-releases/2026/07/acog-issues-updated-guidance-on-hiv-screening-and-prevention",
+      "excerpt": "News Releases July 16 ACOG Releases New Guidance for Ob-Gyns on Partnering with Doulas News Releases July 15 ACOG Statement on New Maternity Codes in the 2027 Medicare Physician Fee Schedule Proposed Rule",
+      "publishedAt": "2026-07-16T00:00:00.000Z",
+      "category": "politics",
+      "source": "ACOG News",
+      "contentType": "News Releases",
+      "contentTypeEvidence": "metadata",
+      "summary": "ACOG更新HIV筛查与预防指南，加强暴露前预防（PrEP）咨询和处方的推荐力度。",
+      "reviewStatus": "accepted",
+      "lowPriority": false,
+      "meta": "近期精选"
+    }
+  ]
 }

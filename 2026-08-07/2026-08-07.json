@@ -1,14 +1,20 @@
 {
-  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
-  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "hero_headline": "今日无符合筛选标准的妇产科专业要闻",
+  "daily_overview": "候选内容为空，未能筛选出符合条件的妇产科指南共识、手术前沿或国内外动态，本晨报不包含任何具体条目。",
   "tech_briefs": [],
   "finance_briefs": [],
   "politics_briefs": [],
-  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
-  "keywords": [],
+  "editor_note": "今日候选新闻为空，未能命中任何指南、手术或动态，本晨报仅记录数据缺省状态，请核实信息来源。",
+  "keywords": [
+    "妇产科",
+    "晨报",
+    "无更新",
+    "筛选标准",
+    "空数据"
+  ],
   "research": {
-    "generatedAt": "2026-08-07T01:45:44.158Z",
-    "dataAsOf": "2026-08-07T01:45:44.158Z",
+    "generatedAt": "2026-08-07T11:23:36.228Z",
+    "dataAsOf": "2026-08-07T11:23:36.228Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及子宫内膜异位症手术中手术时间预测的准确性：一项前瞻性随机多中心试点研究结果、母亲年龄30-34岁与不良围产结局：系统综述和meta分析、通过理论指导的教育提高宫颈癌筛查参与率：一项全面的系统综述和meta分析。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
@@ -44,15 +50,6 @@
           "endometriosis-benign-gynecology",
           "minimally-invasive-surgery"
         ],
-        "assignedTopicId": "endometriosis-benign-gynecology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 23.75,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 98.75,
-          "evidenceRank": 0.95
-        },
         "summaryZh": {
           "titleZh": "子宫内膜异位症手术中手术时间预测的准确性：一项前瞻性随机多中心试点研究结果",
           "researchQuestion": "评估术前临床Enzian评分和直肠指检是否可提高接受子宫内膜异位症手术女性的手术时间预测准确性和手术结局。",
@@ -64,7 +61,16 @@
           "clinicalInterpretation": "本研究提示，术前临床Enzian评分及联合直肠指检的诊断策略在预测手术时间和改善手术结局参数方面均未展现出可测量的优势。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "944a6e4b830d5d06c5ea7dc0e3b93fbb9ae68071028b7d165ccdd29cf5abd816"
+        "summaryInputHash": "944a6e4b830d5d06c5ea7dc0e3b93fbb9ae68071028b7d165ccdd29cf5abd816",
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        }
       },
       {
         "id": "pmid:42555393",
@@ -92,15 +98,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 15,
-          "recency": 7.5,
-          "total": 97.5,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "母亲年龄30-34岁与不良围产结局：系统综述和meta分析",
           "researchQuestion": "检验母亲年龄30-34岁与不良围产结局（尤其是先天性出生缺陷和死产）的关联。",
@@ -112,7 +109,16 @@
           "clinicalInterpretation": "该研究结论提示，相比18-29岁，30-34岁产妇的总先天性出生缺陷和唐氏综合征风险较高，而其他不良围产结局未见显著关联。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "16ed6ed25d6472b0424edb0afea95c7ceca3bd2583342ecf23b816ae60da65a9"
+        "summaryInputHash": "16ed6ed25d6472b0424edb0afea95c7ceca3bd2583342ecf23b816ae60da65a9",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 7.5,
+          "total": 97.5,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:42555395",
@@ -144,15 +150,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 15,
-          "recency": 7.5,
-          "total": 97.5,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "通过理论指导的教育提高宫颈癌筛查参与率：一项全面的系统综述和meta分析",
           "researchQuestion": "检验基于理论的教育是否可增加未充分覆盖女性的宫颈癌筛查。",
@@ -164,7 +161,16 @@
           "clinicalInterpretation": "该系统综述和meta分析提示，将基于理论的结构化健康教育干预整合到国家和地方筛查项目中，可能是减少宫颈癌预防差异的有效且公平的策略。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "bbf942d5957849b1bebef45ee79100a79209ecc65cccab977fa8643fa03dd3d7"
+        "summaryInputHash": "bbf942d5957849b1bebef45ee79100a79209ecc65cccab977fa8643fa03dd3d7",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 7.5,
+          "total": 97.5,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:42555144",
@@ -194,15 +200,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 23.75,
-          "clinicalActionability": 15,
-          "recency": 7.5,
-          "total": 96.25,
-          "evidenceRank": 0.95
-        },
         "summaryZh": {
           "titleZh": "定制动画视频口腔健康教育与传统模型教育对三级医院孕妇口腔卫生状况和行为的效果：一项单盲随机对照试验",
           "researchQuestion": "比较定制动画视频口腔健康教育干预与传统模型教育对孕妇口腔卫生状况、行为实践和部分妊娠结局的效果。",
@@ -214,7 +211,16 @@
           "clinicalInterpretation": "本研究提示，在孕妇中，定制动画视频口腔健康教育在改善牙龈健康、菌斑控制和口腔卫生行为方面优于传统模型教育，但未观察到对妊娠结局的显著影响。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "4da03bb68d2df386e282160de1077e5a358e7e738b7f3092cd527fdf42baa6a0"
+        "summaryInputHash": "4da03bb68d2df386e282160de1077e5a358e7e738b7f3092cd527fdf42baa6a0",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 7.5,
+          "total": 96.25,
+          "evidenceRank": 0.95
+        }
       },
       {
         "id": "pmid:42555284",
@@ -257,6 +263,7 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
+        "summaryStatus": "success",
         "assignedTopicId": "gynecologic-oncology",
         "score": {
           "topicMatch": 50,
@@ -266,7 +273,17 @@
           "total": 96.25,
           "evidenceRank": 0.95
         },
-        "summaryStatus": "failed"
+        "summaryZh": {
+          "titleZh": "Dostarlimab在原发性晚期/复发性子宫内膜癌中的暴露-反应关系：RUBY试验第1部分中期分析2的结果",
+          "researchQuestion": "评估Dostarlimab暴露与总生存期（OS）以及Dostarlimab相关不良事件之间的暴露-反应关系。",
+          "studyDesign": "基于随机对照试验的多中心研究，为RUBY试验（NCT03981796）第1部分的第二次中期分析（IA2）。",
+          "populationAndSample": "接受Dostarlimab联合卡铂-紫杉醇治疗的原发性晚期或复发性子宫内膜癌患者，OS分析共纳入232例患者。",
+          "methods": "基于第一次中期分析（IA1）构建群体药代动力学模型，使用第1周期预测的暴露指标在IA2时进行暴露-反应分析。不良事件分析分三个时期：第1-6周期（化疗阶段）、第7周期及以后（单药维持阶段）以及全部周期。采用Cox回归分析OS与暴露的关系。",
+          "keyResults": "Cox回归显示，基于Dostarlimab第1周期暴露，OS未观察到显著暴露-反应关系；例外的是皮疹和关节痛。高暴露与低暴露患者相比，预测概率增加有限：皮疹增加范围为5.6%至10.4%，关节痛为4.3%至17.7%，被认为不具有临床相关性。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "这些数据支持所选剂量的Dostarlimab联合卡铂-紫杉醇在原发性晚期/复发性子宫内膜癌患者中的风险/获益特征，但需注意本解读仅基于该单项研究的中期分析结果，不代表临床指南或指令。"
+        },
+        "summaryInputHash": "6a000e55ef6d44b088fbc0a98e3d8c82287100b150888fc733ff8d08c139685c"
       }
     ]
   }

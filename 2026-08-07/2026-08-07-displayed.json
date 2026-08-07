@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "url": "https://www.acog.org/news/news-releases/2026/07/new-maternity-codes-in-2027-medicare-physician-fee-schedule-proposed-rule",
+    "title": "News Releases July 15 ACOG Statement on New Maternity Codes in the 2027 Medicare Physician Fee Schedule Proposed Rule",
+    "category": "tech",
+    "sourceId": "acog-news"
+  },
+  {
+    "url": "https://www.acog.org/news/news-releases/2026/07/new-guidance-for-ob-gyns-on-partnering-with-doulas",
+    "title": "News Releases July 16 ACOG Releases New Guidance for Ob-Gyns on Partnering with Doulas",
+    "category": "politics",
+    "sourceId": "acog-news"
+  },
+  {
+    "url": "https://www.acog.org/news/news-releases/2026/07/acog-issues-updated-guidance-on-hiv-screening-and-prevention",
+    "title": "News Releases July 16 ACOG Issues Updated Guidance on HIV Screening and Prevention, Stronger Recommendations for Preexposure Prophylaxis Counseling and Prescription",
+    "category": "politics",
+    "sourceId": "acog-news"
+  }
+]
