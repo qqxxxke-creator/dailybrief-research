@@ -21,6 +21,7 @@ export type DocumentType =
   | "unknown";
 
 export type ReviewStatus = "accepted" | "uncertain" | "rejected";
+export type ContentTypeEvidence = "declared" | "metadata" | "title_excerpt";
 
 export interface SourceDef {
   id: string;
@@ -101,6 +102,8 @@ export interface RawArticle {
   documentType?: DocumentType;
   /** Transported indication that an abstract, excerpt, or structured body is available. */
   contentType?: string;
+  /** Provenance for an inferred nonresearch content type; never rendered. */
+  contentTypeEvidence?: ContentTypeEvidence;
   /** Optional semantic-review outcome, assigned downstream. */
   reviewStatus?: ReviewStatus;
   /** Optional ranking hint, assigned downstream. */

@@ -44,6 +44,7 @@ import {
   toDisplayedArticleRecords,
 } from "../lib/sources/guideline-history";
 import { reviewObgynCandidates } from "../lib/ai/enrich";
+import { enrichObgynDetailMetadata } from "../lib/sources/obgyn-detail-metadata";
 
 const OUTPUT_DIR = "daily_reports";
 
@@ -267,7 +268,11 @@ async function main() {
     throw new Error("all enabled OB-GYN news sources failed; refusing to publish a false empty report");
   }
   console.log(`\n[daily] fetched articles: ${fetched.length}`);
-  const filtered = filterObgynCandidatesWithStats(fetched, sources);
+  const detailEnriched = await enrichObgynDetailMetadata(fetched);
+  console.log(
+    `[daily] detail metadata: requested=${detailEnriched.stats.requested}, cache_hit=${detailEnriched.stats.cacheHits}, success=${detailEnriched.stats.succeeded}, failed=${detailEnriched.stats.failed}, date=${detailEnriched.stats.dateEnriched}, excerpt=${detailEnriched.stats.excerptEnriched}, type=${detailEnriched.stats.typeEnriched}`,
+  );
+  const filtered = filterObgynCandidatesWithStats(detailEnriched.articles, sources);
   const filterStats = filtered.stats;
   console.log(
     `[daily] OB-GYN rule filter: passed=${filterStats.accepted}, rejected=${filterStats.rejected}, total=${filterStats.total}`,

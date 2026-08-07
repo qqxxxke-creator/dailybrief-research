@@ -1,4 +1,4 @@
-import type { DocumentType, RawArticle, SourceDef } from "./types";
+import type { ContentTypeEvidence, DocumentType, RawArticle, SourceDef } from "./types";
 
 const DOCUMENT_TYPES = new Set<DocumentType>([
   "guideline", "consensus", "statement", "practice_advisory", "safety_alert", "quality_indicator",
@@ -109,8 +109,8 @@ const CONTENT_TYPE_PATTERNS: Array<[ObgynContentType, RegExp]> = [
   ["policy_update", /\b(?:policy|regulatory) update\b|政策更新|监管更新/iu],
   ["academic_update", /\bacademic update\b|学术动态|学术活动总结/iu],
   ["substantive_conference_result", /\bconference (?:results?|findings?) (?:summary|report)\b|会议结果摘要|会议成果总结/iu],
-  ["professional_review", /\b(?:professional|clinical) review\b|\breview article\b|临床综述|专业综述/iu],
-  ["expert_commentary", /\bexpert commentary\b|\beditorial\b|专家解读|专家述评|专家论坛|争鸣文章/iu],
+  ["professional_review", /\b(?:narrative|clinical(?: practice)?|expert) review\b|\b(?:professional|clinical) review\b|\breview article\b|叙述性综述|临床综述|临床实践综述|专家综述|专业综述/iu],
+  ["expert_commentary", /\b(?:invited )?editorial\b|\bexpert (?:commentary|forum)\b|\b(?:perspective|viewpoint)\b|\b(?:debate|controversy)\b|专家解读|专家述评|专家论坛|观点|争鸣文章/iu],
 ];
 
 /** Global gate for content that must never enter OB-GYN candidate review. */
@@ -151,17 +151,31 @@ export function classifyDocumentType(article: RawArticle): DocumentType {
 
 /** Normalizes explicit or clearly stated professional content types for column routing. */
 export function classifyObgynContentType(article: RawArticle): ObgynContentType | undefined {
+  return getObgynContentTypeEvidence(article).contentType;
+}
+
+export function getObgynContentTypeEvidence(article: RawArticle): {
+  contentType?: ObgynContentType;
+  evidence?: ContentTypeEvidence;
+} {
   const declared = article.contentType
     ?.trim()
     .toLowerCase()
     .replace(/[\s-]+/g, "_") as ObgynContentType | undefined;
-  if (declared && OBGYN_CONTENT_TYPES.has(declared)) return declared;
+  if (declared && OBGYN_CONTENT_TYPES.has(declared)) {
+    return { contentType: declared, evidence: article.contentTypeEvidence ?? "declared" };
+  }
+
+  const explicitTypeText = article.contentType?.trim() ?? "";
+  for (const [contentType, pattern] of CONTENT_TYPE_PATTERNS) {
+    if (pattern.test(explicitTypeText)) return { contentType, evidence: article.contentTypeEvidence ?? "metadata" };
+  }
 
   const text = getItemMetadata(article);
   for (const [contentType, pattern] of CONTENT_TYPE_PATTERNS) {
-    if (pattern.test(text)) return contentType;
+    if (pattern.test(text)) return { contentType, evidence: "title_excerpt" };
   }
-  return undefined;
+  return {};
 }
 
 /** Whether the fetch supplied text or a supported structured-content marker. */

@@ -279,6 +279,55 @@ test("substantive official news and academic techniques can reach review without
   );
 });
 
+test("keeps qualified nonresearch journal commentary while excluding structured research", () => {
+  const journal: SourceDef = {
+    ...source,
+    id: "gocm-guidelines",
+    name: "GOCM",
+    url: "https://gocm.bmj.com/",
+    sourceClass: "academic_journal",
+    category: "politics",
+    subcategory: "international-obgyn",
+    keywords: [],
+    lookbackHours: 720,
+  };
+  const qualified = [
+    {
+      ...article("Narrative Review: clinical management of endometriosis", new Date("2026-08-05T07:00:00.000Z"), "Evidence synthesis for endometriosis care suitable for clinical teams."),
+      sourceId: journal.id,
+      source: journal.name,
+      category: journal.category,
+      contentType: "Narrative Review",
+    },
+    {
+      ...article("Perspective: improving maternal safety practice", new Date("2026-08-05T07:00:00.000Z"), "A professional discussion for obstetric specialists."),
+      sourceId: journal.id,
+      source: journal.name,
+      category: journal.category,
+      contentType: "Perspective",
+    },
+  ];
+  const structuredResearch = {
+    ...article("Clinical update on infertility", new Date("2026-08-05T07:00:00.000Z"), "Clinical findings from a study."),
+    sourceId: journal.id,
+    source: journal.name,
+    category: journal.category,
+    documentType: "research_article" as const,
+    contentType: "Clinical Review",
+  };
+  const titleOnlyReview = {
+    ...article("Review: pregnancy care", new Date("2026-08-05T07:00:00.000Z"), "A broad discussion."),
+    sourceId: journal.id,
+    source: journal.name,
+    category: journal.category,
+  };
+
+  assert.deepEqual(
+    filterObgynCandidates([...qualified, structuredResearch, titleOnlyReview], [journal], now).map((item) => item.title),
+    qualified.map((item) => item.title),
+  );
+});
+
 test("substantive professional webinar and training items can reach semantic review", () => {
   const aaglSource: SourceDef = {
     ...source,

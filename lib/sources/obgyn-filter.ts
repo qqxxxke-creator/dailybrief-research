@@ -2,6 +2,7 @@ import type { ArticleInput } from "../ai/pipeline";
 import {
   classifyObgynContentType,
   classifyDocumentType,
+  getObgynContentTypeEvidence,
   hasSubstantiveContent,
   isHardExcluded,
   isOfficialFormalDocument,
@@ -86,7 +87,7 @@ const FORMAL_GUIDANCE_RE = /\b(?:clinical|practice) guideline\b|\bconsensus\b|\b
 const SURGICAL_METHOD_RE = /\b(?:surgical technique|video article|technical note|operative technique|step[- ]by[- ]step|instrument(?:ation)?|navigation)\b|(?:手术技术|术式|操作步骤|技术方法|手术器械|手术导航)/iu;
 const SURGICAL_TOPIC_RE = /\b(?:laparoscop|hysteroscop|robotic|vnotes|single[- ]port|fertility[- ]sparing|fetal surgery|cerclage|cesarean|caesarean|placenta accreta|gynecologic oncology surgery)\w*\b|(?:腹腔镜|宫腔镜|机器人手术|单孔手术|保留生育功能手术|胎儿手术|宫颈环扎|高危剖宫产|胎盘植入|妇科肿瘤手术)/iu;
 const DYNAMICS_RE = /\b(?:society news|clinical service|regulatory update|guideline implementation|patient safety alert|training standard|quality improvement|clinical practice update|professional policy)\b|(?:学会新闻|临床服务|监管更新|指南实施|患者安全提醒|培训规范|质量改进|临床实践更新|妇幼政策|行业标准|母婴安全|助产服务规范|辅助生殖管理|学术活动总结)/iu;
-const ORDINARY_RESEARCH_RE = /\b(?:original article|research article|systematic review|meta[- ]analysis|randomi[sz]ed|cohort study|case-control study)\b|(?:原著|论著|系统综述|荟萃分析|Meta分析|队列研究|病例对照研究)/iu;
+const ORDINARY_RESEARCH_RE = /\b(?:original article|research article|randomi[sz]ed(?: controlled)? trial|clinical trial|cohort study|case-control study|cross-sectional study|retrospective study|prospective study|diagnostic study|validation study|basic research|animal study|cell study|in[- ]vitro|organoid study|case report|case series|study protocol|protocol|systematic review|scoping review|umbrella review|network meta[- ]analysis|meta[- ]analysis)\b|(?:原著|论著|随机对照|临床试验|队列研究|病例对照研究|横断面研究|回顾性研究|前瞻性研究|诊断研究|验证研究|基础研究|动物研究|细胞研究|体外研究|类器官|病例报告|病例系列|研究方案|系统综述|范围综述|伞状综述|荟萃分析|Meta分析)/iu;
 
 export type ObgynRejectionReason =
   | "outside_time_window"
@@ -190,6 +191,13 @@ function hasValidHttpUrl(url: string): boolean {
   }
 }
 
+function isAllowedAcademicNonResearch(article: ArticleInput, source: SourceDef): boolean {
+  if (source.sourceClass !== "academic_journal" || !hasSubstantiveContent(article)) return false;
+  const type = getObgynContentTypeEvidence(article);
+  if (!type.contentType || !["professional_review", "expert_commentary"].includes(type.contentType)) return false;
+  return type.evidence === "declared" || type.evidence === "metadata";
+}
+
 function routeDecision(article: ArticleInput, source: SourceDef): RouteDecision {
   const text = itemText(article);
   const typeText = [article.title, article.meta, article.contentType]
@@ -223,6 +231,13 @@ function routeDecision(article: ArticleInput, source: SourceDef): RouteDecision 
   }
 
   if (contentType && DYNAMICS_CONTENT_TYPES.has(contentType)) {
+    if (
+      source.sourceClass === "academic_journal"
+      && ["professional_review", "expert_commentary"].includes(contentType)
+      && !isAllowedAcademicNonResearch(article, source)
+    ) {
+      return { kind: "reject", reason: "unsupported_content_type" };
+    }
     return { kind: "column", category: "politics" };
   }
 

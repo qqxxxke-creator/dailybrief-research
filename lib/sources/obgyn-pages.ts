@@ -2,7 +2,7 @@ import { load } from "cheerio";
 import { classifyObgynContentType } from "./content-policy";
 import type { RawArticle, SourceDef } from "./types";
 
-const REQUEST_HEADERS = {
+export const OBGYN_REQUEST_HEADERS = {
   "User-Agent": "Mozilla/5.0 (compatible; DailyBriefOBGYN/1.0; +https://github.com/qqxxxke-creator/dailybrief-research)",
   Accept: "text/html,application/xhtml+xml",
   "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
@@ -100,7 +100,7 @@ export function parseObgynPageHtml(
 
 export async function fetchObgynPage(source: SourceDef): Promise<RawArticle[]> {
   const response = await fetch(source.url, {
-    headers: REQUEST_HEADERS,
+    headers: OBGYN_REQUEST_HEADERS,
     signal: AbortSignal.timeout(20_000),
   });
   if (!response.ok) throw new Error(`HTTP ${response.status}`);

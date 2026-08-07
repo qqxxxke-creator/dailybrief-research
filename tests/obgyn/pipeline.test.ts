@@ -1,4 +1,6 @@
 import assert from "node:assert/strict";
+import fs from "node:fs";
+import path from "node:path";
 import test from "node:test";
 
 import { sanitizeDigestReport, type ArticleInput } from "../../lib/ai/pipeline";
@@ -71,4 +73,13 @@ test("validates digest JSON, restores canonical metadata, and deduplicates URLs"
   assert.deepEqual(report.finance_briefs, []);
   assert.deepEqual(report.politics_briefs.map((item) => item.url), [articles[1].url]);
   assert.deepEqual(report.keywords, ["pregnancy", "guideline"]);
+});
+
+test("daily pipeline enriches ACOG and OB-GYN network metadata before deterministic filtering", () => {
+  const daily = fs.readFileSync(path.resolve("scripts/daily.ts"), "utf8");
+  const fetchIndex = daily.indexOf("await fetchAll()");
+  const enrichIndex = daily.indexOf("enrichObgynDetailMetadata(fetched)");
+  const filterIndex = daily.indexOf("filterObgynCandidatesWithStats(");
+  assert.ok(enrichIndex > fetchIndex);
+  assert.ok(enrichIndex < filterIndex);
 });
