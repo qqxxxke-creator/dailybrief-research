@@ -7,8 +7,8 @@
   "editor_note": "过去24小时暂无符合质量要求的重要更新。",
   "keywords": [],
   "research": {
-    "generatedAt": "2026-08-07T22:20:00.979Z",
-    "dataAsOf": "2026-08-07T22:20:00.979Z",
+    "generatedAt": "2026-08-07T23:07:59.624Z",
+    "dataAsOf": "2026-08-07T23:07:59.624Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及胚胎移植前的准备技术、口服抗氧化剂对辅助生殖技术结局的影响：随机对照试验的系统综述与Meta分析、探索镉暴露作为男性不育的贡献因素：环境污染物与男性生殖系统关系的见解。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
@@ -46,15 +46,6 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 3.75,
-          "recency": 10,
-          "total": 88.75,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "胚胎移植前的准备技术",
           "researchQuestion": "评估胚胎移植前不同准备技术的益处和危害，包括拉直子宫颈-子宫角度、宫颈和子宫内膜准备以及穿越宫颈的技术。",
@@ -66,7 +57,16 @@
           "clinicalInterpretation": "基于现有证据，无法对胚胎移植前准备技术提出具体实践建议；需要设计更好、方法学描述清晰、纳入排除标准明确且样本量更大的进一步研究。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "8b0e881630a0e1e8cf4ac916ae6862b62014585e934eb6f821402932bfd3fe0e"
+        "summaryInputHash": "8b0e881630a0e1e8cf4ac916ae6862b62014585e934eb6f821402932bfd3fe0e",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 3.75,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:42558317",
@@ -99,15 +99,6 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 3.75,
-          "recency": 10,
-          "total": 88.75,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "口服抗氧化剂对辅助生殖技术结局的影响：随机对照试验的系统综述与Meta分析",
           "researchQuestion": "评估口服抗氧化剂补充对接受体外受精/卵胞浆内单精子注射-胚胎移植（IVF/ICSI-ET）患者生殖结局的影响。",
@@ -119,7 +110,16 @@
           "clinicalInterpretation": "口服抗氧化剂作为辅助治疗在提高临床妊娠率、MII卵母细胞获取数、高质量胚胎数和活产率方面显示出潜在临床益处，但证据尚不足以形成确定性临床建议；需要以活产为主要终点、按患者特征分层并采用标准化抗氧化剂方案的更大规模RCT。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "e5e5e3ddc4e2e23786e17415e3aeac5838af4bebcf9eb4abf339d2d7df090d73"
+        "summaryInputHash": "e5e5e3ddc4e2e23786e17415e3aeac5838af4bebcf9eb4abf339d2d7df090d73",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 3.75,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:42558478",
@@ -153,15 +153,6 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 3.75,
-          "recency": 10,
-          "total": 88.75,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "探索镉暴露作为男性不育的贡献因素：环境污染物与男性生殖系统关系的见解",
           "researchQuestion": "探讨环境镉暴露与男性生殖功能障碍之间的关联，并评估其可能的肾-生殖综合毒性机制。",
@@ -173,7 +164,16 @@
           "clinicalInterpretation": "该综述基于动物实验和剂量换算提示环境镉暴露可能损害男性生殖系统并具有肾-生殖联合毒性；但此为叙述性综述，需谨慎解读，不能据此直接推导人体因果关系。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "cbe752df5b54e595a43dc642d979f7a8cc59223b2c1babaa4b2f706e969b71ef"
+        "summaryInputHash": "cbe752df5b54e595a43dc642d979f7a8cc59223b2c1babaa4b2f706e969b71ef",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 3.75,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:42561999",
@@ -203,15 +203,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "妊娠期糖尿病分娩出院前实施自动医嘱集进行产后葡萄糖检测：随访缺口与改进机会",
           "researchQuestion": "探讨在电子病历中实施自动医嘱集以最小化提供者因素后，妊娠期糖尿病（GDM）患者未完成产后75g口服葡萄糖耐量试验（OGTT）的持续相关因素，并评估结果及其告知的沟通情况。",
@@ -223,7 +214,16 @@
           "clinicalInterpretation": "自动医嘱集可提高产后OGTT完成率，但仍有相当比例患者未完成；结果异常时沟通充分，结果正常时沟通不足，错失长期随访咨询机会。识别高风险未完成人群并实施针对性的产后即时检测可能有助于缩小这一差距，但该结论仍待进一步验证。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "b914c919d41644d11e11b5be0296da95b9335b641769e173032fcdfca80267b7"
+        "summaryInputHash": "b914c919d41644d11e11b5be0296da95b9335b641769e173032fcdfca80267b7",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42564306",
@@ -256,15 +256,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "胎儿生长受限和子痫前期共享的糖基化相关分子机制与免疫浸润模式",
           "researchQuestion": "探究胎儿生长受限（FGR）和子痫前期（PE）中糖基化相关基因（GRGs）的表达模式及其在母胎界面免疫失衡中的潜在作用，并筛选诊断关键基因和免疫细胞浸润特征。",
@@ -276,7 +267,16 @@
           "clinicalInterpretation": "该研究为FGR、PE和PE+FGR的诊断提供了5个候选核心基因并构建了列线图，提示糖基化相关免疫机制可能参与疾病发生；但这是基于生物信息学分析和验证性样本的关联性研究，需进一步前瞻性研究确认其诊断价值。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "59b931b5c8865ca2b5bf5025f7fc8f36b43f4ba5b7d18a31aa08b92d1fc7851f"
+        "summaryInputHash": "59b931b5c8865ca2b5bf5025f7fc8f36b43f4ba5b7d18a31aa08b92d1fc7851f",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       }
     ]
   }
