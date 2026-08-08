@@ -1,0 +1,298 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-08-08T23:05:30.762Z",
+    "dataAsOf": "2026-08-08T23:05:30.762Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及雌四醇/屈螺酮用于复方口服避孕：有效性、周期控制和安全性的系统综述、子宫内膜癌中滋养层细胞表面抗原2（TROP2）、叶酸受体α（FRα）和人表皮生长因子受体2（HER2）跨分子类别、基因组改变和组织学亚型的整合表达谱分析、实践中的生育公平：黑人女性的支持需求和对不孕症护理的建议。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42568434",
+        "pmid": "42568434",
+        "doi": "10.3389/fendo.2026.1867343",
+        "title": "Estetrol/drospirenone for combined oral contraception: a systematic review of efficacy, cycle control, and safety.",
+        "abstract": "OBJECTIVE: To systematically evaluate the evidence on the contraceptive efficacy, cycle control, safety, and selected noncontraceptive effects of estetrol 15 mg/drospirenone 3 mg (E4/DRSP) and to assess certainty of evidence by outcome using the GRADE approach.\nMETHODS: A systematic review was conducted in accordance with PRISMA 2020. PubMed/MEDLINE, Scopus, and Google Scholar were searched for eligible studies published through February 2026. Clinical trials and comparative studies evaluating E4/DRSP in women of reproductive age were included. Outcomes were grouped into contraceptive efficacy, bleeding/cycle control, safety and tolerability, hemostatic and endocrine-metabolic effects, ovarian suppression, and noncontraceptive clinical outcomes. Risk of bias was assessed using design-specific tools, and certainty of evidence was graded by outcome.\nRESULTS: A total of 25 eligible publications/study reports were included, comprising phase 2 dose-finding studies, pivotal phase 3 contraceptive trials, pooled analyses, mechanistic comparator studies, adolescent data, and indication-specific studies. E4/DRSP demonstrated robust contraceptive efficacy, predictable bleeding patterns, and an acceptable tolerability profile. Across mechanistic studies, E4/DRSP showed less pronounced hemostatic and endocrine-metabolic effects than ethinyl estradiol-containing comparators. The most consistent biological differentiation of E4/DRSP was observed for APC resistance and thrombin-generation endpoints, which were less affected than with EE-containing comparators. The strongest noncontraceptive evidence was observed for dysmenorrhea, supported by a randomized, double-blind, placebo-controlled trial. Certainty of evidence was moderate for contraceptive efficacy, cycle control, common adverse events, and surrogate hemostatic/metabolic outcomes; high for dysmenorrhea versus placebo; low for endometriosis-related and menstrual symptom outcomes; and very low for clinical thromboembolic risk.\nCONCLUSIONS: E4/DRSP is an effective combined oral contraceptive with favorable cycle control and a consistent biologic profile suggesting lower hepatic/hemostatic impact than ethinyl estradiol-containing formulations. However, current evidence does not establish comparative thromboembolic safety, which requires dedicated postauthorization and real-world comparative studies.",
+        "journal": "Frontiers in endocrinology",
+        "authors": [
+          "Manuel Sánchez-Prieto",
+          "Margarita Gómez Del Valle",
+          "Marina Romero-Domínguez",
+          "Marta Avella-Marcos",
+          "Mireia Castilla",
+          "Sandra Coll",
+          "Silvia Franco-Camps"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-07-24T00:00:00.000Z",
+        "activityAt": "2026-08-08T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42568434/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "雌四醇/屈螺酮用于复方口服避孕：有效性、周期控制和安全性的系统综述",
+          "researchQuestion": "系统评价雌四醇15 mg/屈螺酮3 mg（E4/DRSP）的避孕有效性、周期控制、安全性及特定非避孕效应，并使用GRADE方法按结局评估证据确定性。",
+          "studyDesign": "系统综述（遵循PRISMA 2020）",
+          "populationAndSample": "育龄期女性；纳入评估E4/DRSP的临床试验和比较研究；共包含25篇符合条件的出版物/研究报告。",
+          "methods": "检索PubMed/MEDLINE、Scopus和Google Scholar，截止2026年2月；结局分组为避孕有效性、出血/周期控制、安全性和耐受性、止血和内分泌-代谢效应、卵巢抑制和非避孕临床结局；使用设计特异性工具评估偏倚风险，按结局进行GRADE证据分级。",
+          "keyResults": "E4/DRSP显示出稳健的避孕有效性、可预测的出血模式和可接受的耐受性；与含炔雌醇（EE）的对照药相比，E4/DRSP的止血和内分泌-代谢效应较不显著；最一致的生物学差异是APC抵抗和凝血酶生成终点受影响较小；最强非避孕证据是痛经（随机、双盲、安慰剂对照试验）。证据确定性：避孕有效性、周期控制、常见不良事件和替代止血/代谢结局为中等；痛经与安慰剂相比为高；子宫内膜异位症相关和月经症状结局为低；临床血栓栓塞风险为极低。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "E4/DRSP是有效的复方口服避孕药，具有良好周期控制和一致的生物学特征，提示其对肝脏/止血影响低于含炔雌醇的制剂；但当前证据不能确立比较性血栓栓塞安全性，需要专门的上市后和真实世界比较研究。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "bffbf486db8b92967f1deda4738d21afae0592dd43ea97ad4018cc2b8a4446a1"
+      },
+      {
+        "id": "pmid:42567118",
+        "pmid": "42567118",
+        "doi": "10.1016/j.ygyno.2026.08.002",
+        "title": "Integrated expression profiling of trophoblast cell-surface antigen 2 (TROP2), folate receptor alpha (FRα), and human epidermal growth factor receptor 2 (HER2) in endometrial Cancer across molecular classes, genomic alterations, and histologic subtypes.",
+        "abstract": "OBJECTIVE: Antibody-drug conjugates (ADCs) are expanding treatment options in endometrial carcinoma, but the distribution of actionable surface targets across histologic, molecular, and genomic subgroups remains incompletely defined.\nMETHODS: This single-institution retrospective tissue microarray (TMA) study included 312 endometrial carcinomas: 158 endometrioid and 154 serous tumors. Trophoblast cell-surface antigen 2 (TROP2) was quantified by histochemical score (H-score); human epidermal growth factor receptor 2 (HER2) was assessed using endometrial carcinoma-specific and gastric/DESTINY-PanTumor02 criteria; and folate receptor alpha (FRα) positivity was defined as ≥75% viable tumor cells with ≥2+ membranous staining. Molecular class was assigned using a hierarchical DNA polymerase epsilon (POLE)-mutant, microsatellite instability/mismatch repair-deficient (MSI/MMRd), p53-abnormal, and no specific molecular profile (NSMP) classifier. Tumor mutational burden (TMB) and recurrent genomic alterations were analyzed in relation to biomarker expression.\nRESULTS: TROP2 was broadly expressed, with median H-scores of 280 in endometrioid and 200 in serous carcinomas. HER2 gastric-score 2+/3+ expression and FRα positivity were enriched in serous versus endometrioid carcinoma (22.5% vs 8.9% and 20.1% vs 4.4%), restricted to FIGO grade 3 tumors, and concentrated in p53-abnormal disease. FRα positivity was absent in POLE-mutant and MSI/MMRd tumors. HER2 2+/3+ expression correlated with erb-b2 receptor tyrosine kinase 2 (ERBB2) alterations, whereas FRα-positive tumors were enriched for TP53 alterations and showed lower frequencies of ARID1A and PTEN alterations. Triple-negative TROP2/HER2/FRα tumors were uncommon (6/308, 1.9%).\nCONCLUSIONS: TROP2 is broadly expressed in endometrial carcinoma, whereas HER2 and FRα define a more restricted high-grade, serous/serous-like, p53-abnormal compartment, supporting biomarker-informed ADC development.",
+        "journal": "Gynecologic oncology",
+        "authors": [
+          "Alessandro D Santin",
+          "Cem Demirkiran",
+          "Luca Palmieri",
+          "Na Niu",
+          "Namrata Sethi",
+          "Natalia Buza",
+          "Orazio De Tommasi",
+          "Pei Hui",
+          "Roberto Tozzi",
+          "Sarah Ottum",
+          "Stefania Bellone",
+          "Tobias M P Hartwich",
+          "Tong Sun",
+          "Victoria M Ettorre"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-07T00:00:00.000Z",
+        "activityAt": "2026-08-08T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42567118/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "子宫内膜癌中滋养层细胞表面抗原2（TROP2）、叶酸受体α（FRα）和人表皮生长因子受体2（HER2）跨分子类别、基因组改变和组织学亚型的整合表达谱分析",
+          "researchQuestion": "明确可操作的表面靶点在子宫内膜癌的组织学、分子和基因组亚组中的分布。",
+          "studyDesign": "单机构回顾性组织微阵列（TMA）研究",
+          "populationAndSample": "312例子宫内膜癌，包括158例子宫内膜样癌和154例浆液性癌。",
+          "methods": "TROP2通过组织化学评分（H-score）定量；HER2使用子宫内膜癌特异性和胃/DESTINY-PanTumor02标准评估；FRα阳性定义为≥75%存活肿瘤细胞具有≥2+膜染色；采用分层POLE突变、微卫星不稳定/错配修复缺陷（MSI/MMRd）、p53异常和无特定分子谱（NSMP）分类器进行分子分型；分析肿瘤突变负荷（TMB）和复发性基因组改变与生物标志物表达的关系。",
+          "keyResults": "TROP2广泛表达，子宫内膜样癌和浆液性癌的中位H-score分别为280和200。HER2胃评分2+/3+表达和FRα阳性在浆液性癌中富集（分别为22.5% vs 8.9%和20.1% vs 4.4%），仅限于FIGO 3级肿瘤，并集中在p53异常疾病中。FRα阳性在POLE突变和MSI/MMRd肿瘤中缺失。HER2 2+/3+表达与ERBB2改变相关，而FRα阳性肿瘤富集TP53改变，且ARID1A和PTEN改变频率较低。TROP2/HER2/FRα三阴性肿瘤少见（6/308，1.9%）。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "TROP2在子宫内膜癌中广泛表达，而HER2和FRα定义了更受限的高级别、浆液性/浆液样、p53异常亚群，支持基于生物标志物指导ADC的开发。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "bbde813adebfd9f82786b40dbd1844f6ed1d0fef258266bfed902bcd4451de55"
+      },
+      {
+        "id": "pmid:42567468",
+        "pmid": "42567468",
+        "doi": "10.1016/j.fertnstert.2026.07.031",
+        "title": "Fertility Equity in Practice: Black Women's Support Needs and Recommendations for Infertility Care.",
+        "abstract": "OBJECTIVE: To identify the specific support needs of Black women navigating infertility care and generate strategies to improve access, patient experience, and outcomes.\nDESIGN: Mixed-methods observational study SUBJECTS: Black women aged 18-45 years in the US who were currently seeking or had recently sought infertility care EXPOSURE: Online survey and semi-structured interviews MAIN OUTCOME MEASURE: Quantitative data on demographics and fertility care experiences; qualitative data on perceived support needs and recommended solutions RESULTS: 176 women responded to the online survey; of these, 41 women provided consent to participate in semi-structured interviews with the study team. Most participants (74.3%) were 35-45 years of age, married or partnered, held an advanced degree, worked full-time, and had insurance that covered some or all fertility services. 25.5% of participants reported feeling under-supported by friends, family, doctors, or others during their infertility journey, with 31.3% identifying this lack of support as a barrier to initiating treatment. Participants described feelings of loneliness and isolation, with few affirming spaces or communities to find resources and connect with other Black women with infertility. They also shared examples of racism, discrimination, and a lack of compassionate care that led to dismissal of health concerns and delays in referral to reproductive endocrinologists that complicated their infertility journeys. Study participants provided several suggestions for clinics and providers to improve the support of Black women seeking infertility care, from enhancing patient-centered care to increasing access to Black reproductive medicine and mental health providers.\nCONCLUSION: Understanding the specific support needs of Black women seeking infertility care will inform patient-centered, compassionate, and culturally responsive care that improves the patient's experience and outcomes.",
+        "journal": "Fertility and sterility",
+        "authors": [
+          "Agbo Ikor",
+          "Anchal Kumar",
+          "Angie Suarez",
+          "Benjamin Harris",
+          "Cameron Dawkins",
+          "Dannelle Charles",
+          "Eve Feinberg",
+          "Gloria Richard-Davis",
+          "Isabel Morgan",
+          "Janet Choi",
+          "Jerrine R Morris",
+          "Jessie Kue Ndukwe",
+          "Jorie Dugan",
+          "Kim Thorton",
+          "Lasha Clarke",
+          "Leah Jones",
+          "Maya Thirkill",
+          "Michael Thomas",
+          "Samantha Butts",
+          "Teru Jellerette-Nolan",
+          "Tia Jackson-Bey"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-07T00:00:00.000Z",
+        "activityAt": "2026-08-08T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42567468/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "实践中的生育公平：黑人女性的支持需求和对不孕症护理的建议",
+          "researchQuestion": "识别黑人女性在应对不孕症护理时的特定支持需求，并制定改善可及性、患者体验和结局的策略。",
+          "studyDesign": "混合方法观察性研究",
+          "populationAndSample": "美国18-45岁正在寻求或最近寻求不孕症护理的黑人女性；176名女性回应在线调查，其中41人同意参加半结构化访谈。",
+          "methods": "在线调查和半结构化访谈；收集人口统计学和生育护理经验的定量数据，以及感知支持需求和推荐解决方案的定性数据。",
+          "keyResults": "大多数参与者（74.3%）为35-45岁，已婚或与伴侣同居，拥有高级学位，全职工作，并有保险覆盖部分或全部生育服务。25.5%报告在生育过程中感到来自朋友、家人、医生或其他人的支持不足，31.3%认为这种缺乏支持是启动治疗的障碍。参与者描述了孤独和隔离感，很少有肯定性空间或社区来寻找资源并与其他患有不孕症的黑人女性联系。他们还分享了种族主义、歧视和缺乏共情护理的例子，导致健康问题被忽视和转诊至生殖内分泌科延迟，使不孕症经历复杂化。参与者为诊所和提供者提出了多项建议，从加强以患者为中心的护理到增加获得黑人生殖医学和心理健康提供者的机会。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "理解黑人女性寻求不孕症护理的特定支持需求，有助于提供以患者为中心的、共情的、文化响应的护理，从而改善患者体验和结局。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "8954243d646e40949575f5405192cab36e83a7f1d84bd1b8d68d0568be83a98f"
+      },
+      {
+        "id": "pmid:42567533",
+        "pmid": "42567533",
+        "doi": "10.1177/17455057261476899",
+        "title": "Family and sexual functioning among women diagnosed with cervical cancer in Urban Ghana: A mixed-methods study.",
+        "abstract": "BackgroundCervical cancer significantly impacts sexual and family functioning, yet limited evidence exists on addressing these issues in sub-Saharan Africa.ObjectivesThis study examined the prevalence and associations of sexual and family function among women diagnosed with cervical cancer in Kumasi-Ghana.DesignA concurrent mixed-methods study design.MethodsThis study was conducted at the Komfo Anokye Teaching Hospital from 2020-2021. The quantitative component employed a cross-sectional design using 181 women with histologically confirmed cervical cancer. Sexual functioning was assessed using the Female Sexual Function Index, while family functioning was evaluated using the APGAR Family Functioning Scale. Systematic sampling was used for participant selection. Associations between predictors were examined using Firth penalized logistic regression. Analysis tool was STATA version 16.0. The qualitative component utilized purposive sampling to recruit 15 participants for in-depth interviews. Thematic analysis was performed for qualitative data using NVIVO software version 14.ResultsParticipants had a mean age of 57.5 years (SD=12.85). Almost all (96.1%) women with cervical cancer had sexual dysfunction, despite majority (93.4%) reporting a frequent sexual desire as a relational dimension rather than an indicator of preserved sexual health. Family dysfunction was prevalent, with 65.7% classified as severely dysfunctional families. The study revealed that women with 8-13 children had significantly lower odds of family functioning (AOR = 0.12, 95% CI: 0.01-0.59, p = 0.006). Qualitative findings revealed that, despite higher family dysfunction, meaningful support from spouses and children provided substantial practical and emotional support even as extended family involvement remained limited.ConclusionSexual and family functioning challenges are highly prevalent among Ghanaian women with cervical cancer despite a maintained sexual desire and support from nuclear family. Integration of culturally-appropriate, holistic sexual health counselling and family-centered interventions into routine cervical cancer care is essential for survivorship support in resource-limited settings.",
+        "journal": "Women's health (London, England)",
+        "authors": [
+          "Daniel Boateng",
+          "Edward Kwabena Ameyaw",
+          "Gertrude Acquah-Hagan",
+          "Henry J Lawson",
+          "Jacob Solomon Idan",
+          "Kingsley Boakye",
+          "Peter Agyei-Baffour",
+          "Thomas Okpoti Konney"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-07T00:00:00.000Z",
+        "activityAt": "2026-08-08T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42567533/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "加纳城市地区宫颈癌女性的家庭和性功能：一项混合方法研究",
+          "researchQuestion": "考察加纳库马西诊断为宫颈癌的女性中性和家庭功能的患病率及关联。",
+          "studyDesign": "同步混合方法研究",
+          "populationAndSample": "定量部分纳入181名组织学确诊宫颈癌女性；定性部分通过目的抽样招募15名参与者进行深度访谈。",
+          "methods": "研究于2020-2021年在Komfo Anokye教学医院进行；定量部分为横断面设计，使用女性性功能指数评估性功能，APGAR家庭功能量表评估家庭功能；系统抽样选择参与者；使用Firth惩罚logistic回归分析预测因素与结局的关联；使用STATA 16.0分析；定性部分进行主题分析，使用NVIVO 14。",
+          "keyResults": "参与者平均年龄57.5岁（SD=12.85）。几乎全部（96.1%）宫颈癌女性存在性功能障碍，尽管大多数（93.4%）报告频繁的性欲望是关系维度而非保留性健康的指标。家庭功能障碍普遍，65.7%被归类为严重功能障碍家庭。有8-13个孩子的女性家庭功能显著较低（AOR=0.12，95% CI：0.01-0.59，p=0.006）。定性发现显示，尽管家庭功能障碍较高，来自配偶和子女的有意义支持提供了大量实际和情感支持，而大家庭参与仍然有限。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "宫颈癌女性中性功能和家庭功能挑战非常普遍，尽管性欲望和核心家庭支持得以维持。将文化适当的整体性健康咨询和以家庭为中心的干预措施纳入常规宫颈癌护理，对于资源有限环境中的生存支持至关重要。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "0453eeef9a6efdeb36ebff7ebf0d01cef793449f0d8180be8ca5d86007ff7041"
+      },
+      {
+        "id": "pmid:42567631",
+        "pmid": "42567631",
+        "doi": "10.1136/bmjopen-2025-112480",
+        "title": "Health system level microcosting of infertility management in India: a retrospective cross-sectional study.",
+        "abstract": "OBJECTIVES: This study estimates the cost of managing infertility, including intrauterine insemination (IUI) from health system perspective in India.\nDESIGN: This was a retrospective cross-sectional microcosting study using mixed approach. Unit costs were estimated at the cost-centre level based on average resource utilisation and aggregated by facility type and cause of infertility. The cost data was collected for the year 2022-2023 and adjusted for inflation in 2025.\nSETTING: The study was conducted at five healthcare facilities providing infertility services, of which three were public and two were private hospitals situated in different parts of country.\nPARTICIPANTS: The cost data was collected from different departments of hospitals. To determine the service utilisation, 100 infertility patients were enrolled at each hospital. Patients undergoing infertility treatment (including IUI) for five selected causes of infertility and willing to participate in the study were included.\nPRIMARY AND SECONDARY OUTCOME MEASURES: The cost of providing infertility treatment for 1 year was the primary outcome measure. The share of different cost-components in the total cost was the secondary outcome measure.\nRESULTS: The one-year health system cost of infertility management ranged from INR 5515 (USD 63) to INR 15 139 (USD 173). Median costs were generally higher in public hospitals compared to private hospitals. Outpatient consultations contributed about two-thirds of total costs. The mean cost of one IUI cycle ranged from INR 8272 (USD 94) to INR 8887 (USD 101).\nCONCLUSIONS: This first-of-its-kind study provides robust evidence on the health system cost of infertility management in India. The findings highlight significant cost variations by infertility cause and facility type, underscoring the need for inclusion of infertility services, particularly IUI, within public health financing packages. These results offer a foundation for future cost-effectiveness analyses and policy decisions related to infertility treatment in India.",
+        "journal": "BMJ open",
+        "authors": [
+          "Akshita Vikani",
+          "Anitha M",
+          "Beena Joshi",
+          "Bhavani Shankara Bagepally",
+          "Biju Soman",
+          "Deepshikha Sharma",
+          "Deepti Shrivastava",
+          "Oshima Sachin",
+          "Prerana Patil",
+          "Radha V",
+          "Ramesh P",
+          "Renu Tanwar",
+          "Shankar Prinja",
+          "Sukhpreet Patel",
+          "Vanita Suri"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-07T00:00:00.000Z",
+        "activityAt": "2026-08-08T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42567631/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "印度不孕症管理的卫生系统层面微观成本核算：一项回顾性横断面研究",
+          "researchQuestion": "从卫生系统角度估算印度不孕症管理（包括子宫内人工授精IUI）的成本。",
+          "studyDesign": "回顾性横断面微观成本核算研究，采用混合方法",
+          "populationAndSample": "5家提供不孕症服务的医疗机构（3家公立，2家私立），位于印度不同地区；每家医院纳入100名不孕症患者。",
+          "methods": "在成本中心层面基于平均资源利用估算单位成本，并按设施类型和不孕原因汇总；成本数据收集于2022-2023年，并按2025年通胀调整；主要结局指标为提供1年不孕症治疗的成本；次要结局为不同成本组成部分在总成本中的份额。",
+          "keyResults": "1年卫生系统不孕症管理成本范围为INR 5515（USD 63）至INR 15139（USD 173）。中位成本通常公立医院高于私立医院。门诊咨询约占总成本的三分之二。一个IUI周期的平均成本范围为INR 8272（USD 94）至INR 8887（USD 101）。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "该研究提供了印度不孕症管理卫生系统成本的证据，显示不同不孕原因和设施类型存在显著成本差异，作者强调需要将不孕症服务（特别是IUI）纳入公共卫生融资计划，并为未来成本效果分析和政策决策提供基础。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "5980425302d138ebb3ff7000be8f33602babafeec1ed6d44e5fa61b1f61cde4d"
+      }
+    ]
+  }
+}
