@@ -7,8 +7,8 @@
   "editor_note": "过去24小时暂无符合质量要求的重要更新。",
   "keywords": [],
   "research": {
-    "generatedAt": "2026-08-08T23:05:30.762Z",
-    "dataAsOf": "2026-08-08T23:05:30.762Z",
+    "generatedAt": "2026-08-08T23:55:45.112Z",
+    "dataAsOf": "2026-08-08T23:55:45.112Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及雌四醇/屈螺酮用于复方口服避孕：有效性、周期控制和安全性的系统综述、子宫内膜癌中滋养层细胞表面抗原2（TROP2）、叶酸受体α（FRα）和人表皮生长因子受体2（HER2）跨分子类别、基因组改变和组织学亚型的整合表达谱分析、实践中的生育公平：黑人女性的支持需求和对不孕症护理的建议。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
@@ -41,15 +41,6 @@
         "matchedTopicIds": [
           "endometriosis-benign-gynecology"
         ],
-        "assignedTopicId": "endometriosis-benign-gynecology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 100,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "雌四醇/屈螺酮用于复方口服避孕：有效性、周期控制和安全性的系统综述",
           "researchQuestion": "系统评价雌四醇15 mg/屈螺酮3 mg（E4/DRSP）的避孕有效性、周期控制、安全性及特定非避孕效应，并使用GRADE方法按结局评估证据确定性。",
@@ -61,7 +52,16 @@
           "clinicalInterpretation": "E4/DRSP是有效的复方口服避孕药，具有良好周期控制和一致的生物学特征，提示其对肝脏/止血影响低于含炔雌醇的制剂；但当前证据不能确立比较性血栓栓塞安全性，需要专门的上市后和真实世界比较研究。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "bffbf486db8b92967f1deda4738d21afae0592dd43ea97ad4018cc2b8a4446a1"
+        "summaryInputHash": "bffbf486db8b92967f1deda4738d21afae0592dd43ea97ad4018cc2b8a4446a1",
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:42567118",
@@ -98,15 +98,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "子宫内膜癌中滋养层细胞表面抗原2（TROP2）、叶酸受体α（FRα）和人表皮生长因子受体2（HER2）跨分子类别、基因组改变和组织学亚型的整合表达谱分析",
           "researchQuestion": "明确可操作的表面靶点在子宫内膜癌的组织学、分子和基因组亚组中的分布。",
@@ -118,7 +109,16 @@
           "clinicalInterpretation": "TROP2在子宫内膜癌中广泛表达，而HER2和FRα定义了更受限的高级别、浆液性/浆液样、p53异常亚群，支持基于生物标志物指导ADC的开发。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "bbde813adebfd9f82786b40dbd1844f6ed1d0fef258266bfed902bcd4451de55"
+        "summaryInputHash": "bbde813adebfd9f82786b40dbd1844f6ed1d0fef258266bfed902bcd4451de55",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42567468",
@@ -162,15 +162,6 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "实践中的生育公平：黑人女性的支持需求和对不孕症护理的建议",
           "researchQuestion": "识别黑人女性在应对不孕症护理时的特定支持需求，并制定改善可及性、患者体验和结局的策略。",
@@ -182,7 +173,16 @@
           "clinicalInterpretation": "理解黑人女性寻求不孕症护理的特定支持需求，有助于提供以患者为中心的、共情的、文化响应的护理，从而改善患者体验和结局。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "8954243d646e40949575f5405192cab36e83a7f1d84bd1b8d68d0568be83a98f"
+        "summaryInputHash": "8954243d646e40949575f5405192cab36e83a7f1d84bd1b8d68d0568be83a98f",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42567533",
@@ -213,15 +213,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "加纳城市地区宫颈癌女性的家庭和性功能：一项混合方法研究",
           "researchQuestion": "考察加纳库马西诊断为宫颈癌的女性中性和家庭功能的患病率及关联。",
@@ -233,7 +224,16 @@
           "clinicalInterpretation": "宫颈癌女性中性功能和家庭功能挑战非常普遍，尽管性欲望和核心家庭支持得以维持。将文化适当的整体性健康咨询和以家庭为中心的干预措施纳入常规宫颈癌护理，对于资源有限环境中的生存支持至关重要。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "0453eeef9a6efdeb36ebff7ebf0d01cef793449f0d8180be8ca5d86007ff7041"
+        "summaryInputHash": "0453eeef9a6efdeb36ebff7ebf0d01cef793449f0d8180be8ca5d86007ff7041",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42567631",
@@ -271,15 +271,6 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "印度不孕症管理的卫生系统层面微观成本核算：一项回顾性横断面研究",
           "researchQuestion": "从卫生系统角度估算印度不孕症管理（包括子宫内人工授精IUI）的成本。",
@@ -291,7 +282,16 @@
           "clinicalInterpretation": "该研究提供了印度不孕症管理卫生系统成本的证据，显示不同不孕原因和设施类型存在显著成本差异，作者强调需要将不孕症服务（特别是IUI）纳入公共卫生融资计划，并为未来成本效果分析和政策决策提供基础。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "5980425302d138ebb3ff7000be8f33602babafeec1ed6d44e5fa61b1f61cde4d"
+        "summaryInputHash": "5980425302d138ebb3ff7000be8f33602babafeec1ed6d44e5fa61b1f61cde4d",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       }
     ]
   }
