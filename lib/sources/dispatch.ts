@@ -12,6 +12,7 @@ import { fetchGocmRss } from "./gocm";
 import { fetchJmigProfessionalContent } from "./jmig-pubmed";
 import { fetchFigoGuidance } from "./figo-pubmed";
 import { fetchFigoSocietyPubmed } from "./figo-society-pubmed";
+import { fetchCogonlineGuidance, fetchObgyncnProfessional } from "./china-professional";
 import type { RawArticle, SourceDef } from "./types";
 
 /**
@@ -19,6 +20,7 @@ import type { RawArticle, SourceDef } from "./types";
  * Add a new branch here when introducing a non-RSS fetcher.
  */
 export async function fetchSource(source: SourceDef): Promise<RawArticle[]> {
+  if (source.enabled === false) return [];
   if (source.id === "hackernews") return fetchHackerNews(source.id);
   if (source.id === "github-trending") return fetchGithubTrending(source.id);
   if (source.id === "v2ex-hot") return fetchV2ex(source.id);
@@ -28,9 +30,11 @@ export async function fetchSource(source: SourceDef): Promise<RawArticle[]> {
   if (source.id === "pubmed-asrm-guidance") return fetchPubMedGuidelines(source);
   if (source.id === "china-clinical-obgyn-current") return fetchCjournalCurrent(source);
   if (source.id === "gocm-guidelines" || source.id === "gocm-surgery") return fetchGocmRss(source);
-  if (source.id === "jmig-articles-in-press") return fetchJmigProfessionalContent({ from: new Date(Date.now() - 30 * 86400000), to: new Date() });
-  if (source.id === "figo-guidance") return fetchFigoGuidance({ from: new Date(Date.now() - 180 * 86400000), to: new Date() });
+  if (source.id === "jmig-articles-in-press") return fetchJmigProfessionalContent({ sourceId: source.id, from: new Date(Date.now() - 30 * 86400000), to: new Date() });
+  if (source.id === "figo-guidance") return fetchFigoGuidance({ sourceId: source.id, from: new Date(Date.now() - 180 * 86400000), to: new Date() });
   if (source.id === "figo-society-pubmed") return fetchFigoSocietyPubmed({ from: new Date(Date.now() - 30 * 86400000), to: new Date() });
+  if (source.id === "cogonline-clinical-guidance") return fetchCogonlineGuidance(source);
+  if (source.id === "obgyncn-professional-content") return fetchObgyncnProfessional(source);
   // The FIGO main site is intentionally disabled; never route it through the generic scraper.
   if (source.id === "figo-news") return [];
   if (source.type === "scrape") return fetchObgynPage(source);

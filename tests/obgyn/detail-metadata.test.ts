@@ -23,7 +23,7 @@ const obgyPage = `
     <aside>报名 培训 作者简介 广告</aside>
   </body></html>`;
 
-function candidate(sourceId: "acog-news" | "obgy-cn", url: string, overrides: Partial<ArticleInput> = {}): ArticleInput {
+function candidate(sourceId: "acog-news" | "obgy-cn" | "smfm-publications", url: string, overrides: Partial<ArticleInput> = {}): ArticleInput {
   return {
     sourceId,
     source: sourceId === "acog-news" ? "ACOG News" : "妇产科网",
@@ -47,6 +47,57 @@ test("extracts an explicitly labelled ACOG release date from article text", () =
     <footer>Copyright 2026 ACOG</footer>
   `);
   assert.equal(metadata.publishedAt?.toISOString(), "2026-07-16T00:00:00.000Z");
+});
+
+test("extracts only verified SMFM publication dates", () => {
+  const structured = extractObgynDetailMetadata(`
+    <script type="application/ld+json">{"@type":"ScholarlyArticle","datePublished":"2026-07-14","dateModified":"2026-08-01"}</script>
+    <main><p>Last updated August 1, 2026</p></main>
+  `, "smfm-publications");
+  assert.equal(structured.publishedAt?.toISOString(), "2026-07-14T00:00:00.000Z");
+
+  const labelled = extractObgynDetailMetadata(`
+    <main><dl><dt>Publication Date</dt><dd>July 16, 2026</dd></dl></main>
+  `, "smfm-publications");
+  assert.equal(labelled.publishedAt?.toISOString(), "2026-07-16T00:00:00.000Z");
+
+  for (const html of [
+    `<main><p>Last updated July 16, 2026</p></main>`,
+    `<main><p>Last reviewed July 16, 2026</p></main>`,
+    `<main><time datetime="2026-07-16">Updated July 16, 2026</time></main>`,
+    `<footer>Copyright 2026</footer>`,
+  ]) {
+    assert.equal(extractObgynDetailMetadata(html, "smfm-publications").publishedAt, undefined);
+  }
+});
+
+test("SMFM date enrichment is cached and failures remain non-blocking", async () => {
+  const cache = new Map();
+  const logs: string[] = [];
+  let calls = 0;
+  const item = candidate("smfm-publications", "https://publications.smfm.org/publications/999-smfm-consult-series/", {
+    source: "SMFM Publications",
+    title: "SMFM Consult Series on maternal care",
+    excerpt: "Formal maternal-fetal medicine recommendations for clinical practice.",
+    contentType: "guideline",
+  });
+  const fetchHtml = async () => {
+    calls += 1;
+    return { status: 200, html: `<main><p>Published: July 16, 2026</p></main>` };
+  };
+  const first = await enrichObgynDetailMetadata([item], { fetchHtml, cache, log: (line) => logs.push(line), now: new Date("2026-08-09") });
+  assert.equal(first.articles[0].publishedAt?.toISOString(), "2026-07-16T00:00:00.000Z");
+  assert.equal(first.stats.dateEnriched, 1);
+  await enrichObgynDetailMetadata([item], { fetchHtml, cache, log: (line) => logs.push(line), now: new Date("2026-08-09") });
+  assert.equal(calls, 1);
+
+  const failed = await enrichObgynDetailMetadata([
+    candidate("smfm-publications", "https://publications.smfm.org/publications/unavailable", {
+      source: "SMFM Publications", title: "SMFM Statement on pregnancy", excerpt: "Formal obstetric guidance details.", contentType: "guideline",
+    }),
+  ], { fetchHtml: async () => ({ status: 503, html: "" }), cache: new Map(), log: (line) => logs.push(line) });
+  assert.equal(failed.articles[0].publishedAt, undefined);
+  assert.equal(failed.stats.failed, 1);
 });
 
 test("extracts OB-GYN network summary and type while ignoring boilerplate", () => {

@@ -14,7 +14,7 @@ function normalizeJournal(value: string): string {
   return value.normalize("NFKC").toLowerCase().replace(/[^\p{L}\p{N}]+/gu, " ").trim();
 }
 
-export interface FigoFetchArgs { from: Date; to: Date; fetchImpl?: typeof fetch; crossrefFetchImpl?: typeof fetch }
+export interface FigoFetchArgs { sourceId?: string; from: Date; to: Date; fetchImpl?: typeof fetch; crossrefFetchImpl?: typeof fetch }
 
 export function classify(paper: { title: string; journal: string; publicationTypes: string[]; authors: string[]; abstract: string }): boolean {
   if (normalizeJournal(paper.journal) !== normalizeJournal(JOURNAL)) return false;
@@ -66,7 +66,7 @@ export async function fetchFigoGuidance(args: FigoFetchArgs): Promise<RawArticle
       const supplement = paper.pmid ? supplements.get(paper.pmid) : undefined;
       const doi = paper.doi ?? supplement?.doi;
       return {
-        sourceId: "figo-pubmed", title: paper.title, url: doi ? `https://doi.org/${doi}` : paper.url,
+        sourceId: args.sourceId ?? "figo-guidance", title: paper.title, url: doi ? `https://doi.org/${doi}` : paper.url,
         excerpt: paper.abstract, publishedAt: paper.publishedAt ? new Date(paper.publishedAt) : supplement?.publishedAt ? new Date(supplement.publishedAt) : undefined,
         category: "politics", documentType: "guideline", contentType: "guideline", contentTypeEvidence: "metadata",
         meta: [paper.journal, paper.pmid, doi].filter(Boolean).join(" · "),

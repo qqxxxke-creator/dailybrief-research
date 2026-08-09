@@ -62,6 +62,7 @@ async function fetchAll(): Promise<{ articles: ArticleInput[]; successfulSources
       articles.push(...items.map((it) => ({ ...it, source: source.name })));
     } catch (e) {
       const msg = e instanceof Error ? e.message : String(e);
+      console.warn(`[daily] per_source_failure_reason source=${source.id} reason=${msg}`);
       console.warn(`  ${source.id.padEnd(20)} WARNING — ${msg}`);
     }
   }
@@ -321,6 +322,15 @@ async function main() {
     const rendered = articles.filter((item) => item.sourceId === sourceId).length;
     const rss = getRssDiagnostics(sourceId);
     console.log(`[daily] rss funnel ${sourceId}: rss_items_fetched=${rss.rss_items_fetched}, domain_candidates=${deterministic.length}, rejected_research_news=${rejectedResearch}, rejected_missing_excerpt=${rejectedMissing}, llm_submitted=${submitted}, llm_accepted=${accepted}, final_rendered=${rendered}, fetch_http_403=${rss.fetch_http_403}, fetch_zero_items=${rss.fetch_zero_items}, feed_parse_failure=${rss.feed_parse_failure}`);
+  }
+  for (const sourceId of ["cogonline-clinical-guidance", "obgyncn-professional-content"]) {
+    const fetchedCount = fetched.filter((item) => item.sourceId === sourceId).length;
+    const deterministic = filtered.articles.filter((item) => item.sourceId === sourceId).length;
+    const deterministicRejected = filtered.rejections.filter((item) => item.sourceId === sourceId).length;
+    const detail = detailEnriched.stats.perSource[sourceId] ?? { requested: 0, cacheHits: 0, succeeded: 0, failed: 0 };
+    const accepted = priorityAccepted.concat(supplementalAccepted).filter((item) => item.sourceId === sourceId).length;
+    const rendered = articles.filter((item) => item.sourceId === sourceId).length;
+    console.log(`[daily] source funnel ${sourceId}: source_fetch_count=${fetchedCount}, source_parse_count=${fetchedCount}, deterministic_eligible=${deterministic}, deterministic_rejected=${deterministicRejected}, detail_fetch_requested=${detail.requested}, detail_fetch_success=${detail.succeeded}, llm_accepted=${accepted}, final_displayed=${rendered}, per_source_failure_reason=${detail.failed ? `detail_failed_${detail.failed}` : "none"}`);
   }
   console.log(`[daily] window selection: priority=${prioritySelectedCount}, supplemental=${supplementalSelectedCount}, final=${articles.length}`);
   console.log(

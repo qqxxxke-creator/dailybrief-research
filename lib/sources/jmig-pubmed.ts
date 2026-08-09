@@ -18,6 +18,7 @@ const ALLOWED: Record<string, { contentType: string; category: RawArticle["categ
 const EXCLUDED = /original|research|randomi[sz]ed|clinical trial|cohort|case-control|cross-sectional|systematic|meta-analysis|case report|protocol/i;
 
 export interface JmigFetchArgs {
+  sourceId?: string;
   from: Date;
   to: Date;
   fetchImpl?: typeof fetch;
@@ -81,7 +82,7 @@ export async function fetchJmigProfessionalContent(args: JmigFetchArgs): Promise
       const supplement = paper.pmid ? supplementedDois.get(paper.pmid) : undefined;
       const doi = paper.doi ?? supplement?.doi;
       const article: RawArticle = {
-        sourceId: "jmig-pubmed",
+        sourceId: args.sourceId ?? "jmig-articles-in-press",
         title: paper.title,
         url: paper.url,
         excerpt: paper.abstract,

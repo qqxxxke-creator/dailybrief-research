@@ -98,7 +98,7 @@ test("enables every approved OB-GYN news source from the manifest", () => {
     "acog-clinical-guidance",
     "acog-news",
     "china-clinical-obgyn-current",
-    "cmcha-industry-news",
+    "cogonline-clinical-guidance",
     "esge-guidelines",
     "esge-news",
     "esgo-guidelines",
@@ -111,9 +111,7 @@ test("enables every approved OB-GYN news source from the manifest", () => {
     "jmig-articles-in-press",
     "medical-xpress-obgyn",
     "medpage-today-headlines",
-    "nhc-maternal-child-health",
     "nice-fertility-pregnancy",
-    "obgy-cn",
     "pubmed-asrm-guidance",
     "rcog-guidance",
     "rcog-news",
@@ -130,6 +128,10 @@ test("enables every approved OB-GYN news source from the manifest", () => {
     "chinese-journal-obgyn",
     "obg-project-guidance",
     "contemporary-obgyn-news",
+    "obgy-cn",
+    "nhc-maternal-child-health",
+    "cmcha-industry-news",
+    "obgyncn-professional-content",
   ]) {
     assert.ok(disabled.includes(id), `${id} must remain disabled after reachability testing`);
   }
