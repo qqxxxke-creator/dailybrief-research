@@ -68,6 +68,10 @@ export function parseObgynPageHtml(
       ...(source.allowedHosts ?? []).map((host) => host.toLocaleLowerCase()),
     ]);
     if (!allowedHosts.has(new URL(url).hostname.toLocaleLowerCase())) return;
+    if (source.id === "smfm-publications") {
+      const parsedUrl = new URL(url);
+      if (!parsedUrl.pathname.startsWith("/publications/") || parsedUrl.pathname === "/publications/" || parsedUrl.search) return;
+    }
 
     const container = link.closest(
       "article, li, .card, .listing-item, .content-item, .news-listing-item, .views-row, .list-item",

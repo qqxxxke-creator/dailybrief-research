@@ -8,7 +8,7 @@ import { normalizeContentUrl } from "./obgyn-filter";
 import { classifyDocumentType, hasSubstantiveContent, isHardExcluded } from "./content-policy";
 import { OBGYN_REQUEST_HEADERS } from "./obgyn-pages";
 
-const TARGET_SOURCE_IDS = new Set(["acog-news", "obgy-cn"]);
+const TARGET_SOURCE_IDS = new Set(["acog-news", "obgy-cn", "smfm-publications"]);
 const CACHE_FILE = path.resolve("data/obgyn-detail-metadata-cache.json");
 const CACHE_MS = 14 * 24 * 60 * 60 * 1000;
 const EXCLUDED_RE = /\b(?:original|research) article\b|\b(?:systematic|scoping|umbrella) review\b|\bmeta[- ]analysis\b|\bcase (?:report|series)\b|\bprotocol\b|\b(?:randomi[sz]ed|clinical trial|cohort|case-control|cross-sectional)\b/iu;
@@ -83,7 +83,7 @@ function firstString(...values: Array<unknown>): string | undefined {
   return undefined;
 }
 
-export function extractObgynDetailMetadata(html: string): DetailMetadata {
+export function extractObgynDetailMetadata(html: string, sourceId?: string): DetailMetadata {
   const $ = load(html);
   const jsonLd = $("script[type='application/ld+json']").toArray().flatMap((element) => {
     try { return jsonLdObjects(JSON.parse($(element).text())); } catch { return []; }
@@ -91,14 +91,17 @@ export function extractObgynDetailMetadata(html: string): DetailMetadata {
   $("nav, aside, footer, header, script, style, .cookie, [class*='cookie'], [class*='related'], [class*='recommend']").remove();
   const meta = (selector: string) => $(selector).first().attr("content")?.trim();
   const jsonDate = firstString(...jsonLd.map((entry) => entry.datePublished));
-  const publishedAt = validDate(jsonDate)
-    ?? validDate(meta("meta[property='article:published_time']"))
-    ?? validDate(meta("meta[name='date']"))
-    ?? validDate(meta("meta[name='DC.date'], meta[name='dc.date']"))
-    ?? validDate(meta("meta[name='citation_publication_date']"))
-    ?? validDate(meta("meta[name='citation_date']"))
-    ?? validDate($("time[datetime]").first().attr("datetime"))
-    ?? explicitPublishedDate(cleanText($("article, main, .article-meta, .news-date, [class*='publish']").text()));
+  const bodyPublishedDate = explicitPublishedDate(cleanText($("article, main, .article-meta, .news-date, [class*='publish']").text()));
+  const publishedAt = sourceId === "smfm-publications"
+    ? validDate(jsonDate) ?? bodyPublishedDate
+    : validDate(jsonDate)
+      ?? validDate(meta("meta[property='article:published_time']"))
+      ?? validDate(meta("meta[name='date']"))
+      ?? validDate(meta("meta[name='DC.date'], meta[name='dc.date']"))
+      ?? validDate(meta("meta[name='citation_publication_date']"))
+      ?? validDate(meta("meta[name='citation_date']"))
+      ?? validDate($("time[datetime]").first().attr("datetime"))
+      ?? bodyPublishedDate;
   const dateModifiedFound = Boolean(firstString(...jsonLd.map((entry) => entry.dateModified)));
 
   const excerpt = firstString(
@@ -224,7 +227,7 @@ export async function enrichObgynDetailMetadata(
         log(`[detail] per_source_failure_reason ${article.sourceId} ${response.status || "network"}`);
         continue;
       }
-      const metadata = extractObgynDetailMetadata(response.html);
+      const metadata = extractObgynDetailMetadata(response.html, article.sourceId);
       if (!metadata.publishedAt && !metadata.excerpt && !metadata.contentType) {
         stats.failed += 1;
         log(`[detail] detail_fetch_failed ${article.sourceId} non_article_page`);

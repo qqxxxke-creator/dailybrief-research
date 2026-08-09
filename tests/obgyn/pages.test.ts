@@ -78,3 +78,23 @@ test("does not attribute off-site links to the configured authority", () => {
     </article>`;
   assert.deepEqual(parseObgynPageHtml(source, html), []);
 });
+
+test("SMFM publications excludes listing, search, and pagination navigation", () => {
+  const smfm: SourceDef = {
+    id: "smfm-publications",
+    name: "SMFM Publications",
+    type: "scrape",
+    url: "https://publications.smfm.org/publications/",
+    category: "tech",
+    sourceClass: "official_authority",
+    keywords: ["Consult Series", "Clinical Guidelines"],
+  };
+  const html = `<main>
+    <article><a href="/publications/999-smfm-consult-series/">SMFM Consult Series #99: maternal care</a></article>
+    <article><a href="/publications/?page=2">Clinical Guidelines next page</a></article>
+    <article><a href="/search/?q=consult">Search Consult Series</a></article>
+  </main>`;
+  assert.deepEqual(parseObgynPageHtml(smfm, html).map((item) => item.url), [
+    "https://publications.smfm.org/publications/999-smfm-consult-series/",
+  ]);
+});
