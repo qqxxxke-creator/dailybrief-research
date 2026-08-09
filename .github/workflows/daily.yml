@@ -201,6 +201,15 @@ jobs:
           restore-keys: |
             research-${{ runner.os }}-${{ github.ref_name }}-
 
+      - name: Restore obgyn detail metadata cache
+        uses: actions/cache/restore@v4
+        continue-on-error: true
+        with:
+          path: data/obgyn-detail-metadata-cache.json
+          key: obgyn-detail-${{ runner.os }}-${{ github.ref_name }}-${{ github.run_id }}
+          restore-keys: |
+            obgyn-detail-${{ runner.os }}-${{ github.ref_name }}-
+
       # Bring previous reports into the workspace so they survive each run
       # and so build-site can list them all in the archive.
       - name: Restore existing reports from gh-pages
@@ -253,6 +262,14 @@ jobs:
 
       - name: Build static site (index + archive)
         run: npm run build-site
+
+      - name: Save detail metadata cache
+        if: ${{ success() }}
+        uses: actions/cache/save@v4
+        continue-on-error: true
+        with:
+          path: data/obgyn-detail-metadata-cache.json
+          key: obgyn-detail-${{ runner.os }}-${{ github.ref_name }}-${{ github.run_id }}
 
       - name: Publish to gh-pages
         uses: peaceiris/actions-gh-pages@v4

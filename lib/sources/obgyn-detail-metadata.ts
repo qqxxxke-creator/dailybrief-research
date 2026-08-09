@@ -11,7 +11,8 @@ import { OBGYN_REQUEST_HEADERS } from "./obgyn-pages";
 const TARGET_SOURCE_IDS = new Set(["acog-news", "obgy-cn"]);
 const CACHE_FILE = path.resolve("data/obgyn-detail-metadata-cache.json");
 const CACHE_MS = 14 * 24 * 60 * 60 * 1000;
-const RESEARCH_RE = /\b(?:original|research) article\b|\b(?:systematic|scoping|umbrella|narrative) review\b|\bmeta[- ]analysis\b|\bcase (?:report|series)\b|\bprotocol\b|原著|论著|系统综述|范围综述|伞状综述|荟萃分析|病例报告|研究方案/iu;
+const EXCLUDED_RE = /\b(?:original|research) article\b|\b(?:systematic|scoping|umbrella) review\b|\bmeta[- ]analysis\b|\bcase (?:report|series)\b|\bprotocol\b|\b(?:randomi[sz]ed|clinical trial|cohort|case-control|cross-sectional)\b/iu;
+const EXCLUDED_CN_RE = /原著|论著|系统综述|范围综述|伞状综述|荟萃分析|病例报告|研究方案/u;
 
 export interface DetailMetadata {
   publishedAt?: Date;
@@ -87,6 +88,7 @@ export function extractObgynDetailMetadata(html: string): DetailMetadata {
   const jsonLd = $("script[type='application/ld+json']").toArray().flatMap((element) => {
     try { return jsonLdObjects(JSON.parse($(element).text())); } catch { return []; }
   });
+  $("nav, aside, footer, header, script, style, .cookie, [class*='cookie'], [class*='related'], [class*='recommend']").remove();
   const meta = (selector: string) => $(selector).first().attr("content")?.trim();
   const jsonDate = firstString(...jsonLd.map((entry) => entry.datePublished));
   const publishedAt = validDate(jsonDate)
@@ -106,6 +108,7 @@ export function extractObgynDetailMetadata(html: string): DetailMetadata {
     meta("meta[name='twitter:description']"),
     meta("meta[name='citation_abstract']"),
     $(".abstract, .summary, .lead, .standfirst, [class*='abstract'], [class*='summary'], [class*='lead']").first().text(),
+    $("article, main").first().text(),
   );
   const contentType = firstString(
     meta("meta[name='citation_article_type']"),
@@ -144,7 +147,8 @@ function needsEnrichment(article: ArticleInput): boolean {
 function eligible(article: ArticleInput): boolean {
   if (!TARGET_SOURCE_IDS.has(article.sourceId) || !needsEnrichment(article) || isHardExcluded(article)) return false;
   if (!/^https?:\/\//i.test(article.url)) return false;
-  return !RESEARCH_RE.test([article.title, article.contentType, article.documentType].filter(Boolean).join("\n"));
+  const text = [article.title, article.contentType, article.documentType].filter(Boolean).join("\n");
+  return !EXCLUDED_RE.test(text) && !EXCLUDED_CN_RE.test(text);
 }
 
 function merge(article: ArticleInput, metadata: DetailMetadata): ArticleInput {

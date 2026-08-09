@@ -94,3 +94,15 @@ test("keeps candidates unchanged when detail fetch fails or content is clearly r
   assert.equal(result.articles[1].excerpt, "");
   assert.equal(result.stats.failed, 1);
 });
+
+test("rejects mixed systematic and narrative review labels", async () => {
+  const mixed = candidate("acog-news", "https://www.acog.org/mixed", { title: "Systematic Review and Narrative Review" });
+  const result = await enrichObgynDetailMetadata([mixed], { fetchHtml: async () => ({ status: 200, html: acogPage }), cache: new Map() });
+  assert.equal(result.stats.requested, 0);
+});
+
+test("rejects Chinese original and systematic reviews", async () => {
+  const items = ["原著：妊娠管理研究", "系统综述：妊娠管理"].map((title, i) => candidate("acog-news", `https://www.acog.org/cn${i}`, { title }));
+  const result = await enrichObgynDetailMetadata(items, { fetchHtml: async () => ({ status: 200, html: acogPage }), cache: new Map() });
+  assert.equal(result.stats.requested, 0);
+});
