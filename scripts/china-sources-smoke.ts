@@ -32,9 +32,12 @@ for (const sourceId of ids) {
     for (const item of detailed.articles.slice(0, 3)) {
       console.log(`[smoke] sample ${sourceId}: date=${item.publishedAt?.toISOString() ?? "missing"}, type=${item.contentType ?? "missing"}, excerpt_chars=${item.excerpt?.length ?? 0}, title=${item.title.slice(0, 100)}`);
     }
+    const recommendEnable = fetched.length > 0 && withDate === fetched.length && withExcerpt === fetched.length && withType === fetched.length;
+    console.log(`[smoke] recommendation ${sourceId}: ${recommendEnable ? "enable" : "keep_disabled"}`);
   } catch (error) {
     const reason = error instanceof Error ? error.message : String(error);
     console.log(`[smoke] ${sourceId}: source_fetch_count=0, source_parse_count=0, date_resolved=0, excerpt_resolved=0, type_resolved=0, deterministic_eligible=0, deterministic_rejected=0, detail_fetch_requested=0, detail_fetch_success=0, per_source_failure_reason=${reason}`);
+    console.log(`[smoke] recommendation ${sourceId}: keep_disabled`);
   }
 }
 }
