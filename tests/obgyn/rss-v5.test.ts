@@ -43,6 +43,18 @@ test("Medical Xpress deterministic gates and MedPage dual gate", () => {
   assert.equal(filterObgynCandidatesWithStats([medGood], [{ ...mp, type: "rss", sourceClass: "professional_vertical" } as any], now).articles.length, 1); assert.equal(filterObgynCandidatesWithStats([medOne], [{ ...mp, keywords: ["gynecolog"], type: "rss", sourceClass: "professional_vertical" } as any], now).articles.length, 0);
 });
 
+test("Medical Xpress rejects research-only mechanism/news reports", () => {
+  const now = new Date("2026-08-05T08:00:00Z");
+  const mk = (title: string, excerpt: string) => ({ sourceId: mx.id, source: mx.id, title, url: `https://fixture/${title}`, excerpt, publishedAt: now, category: "politics" as const });
+  const items = [
+    mk("Implant design helps fight ovarian cancer from the inside", "Researchers report a new implant design that releases treatment directly inside tumors.") ,
+    mk("Like Zika, Oropouche virus can also affect the brains of unborn babies", "A study found the virus can affect fetal brain development, revealing a possible mechanism.") ,
+  ];
+  const result = filterObgynCandidatesWithStats(items, [{ ...mx, type: "rss", sourceClass: "professional_vertical" } as any], now);
+  assert.equal(result.articles.length, 0);
+  assert.equal(result.rejections.filter((r) => r.reason === "ordinary_research_article").length, 2);
+});
+
 test("uncertain review responses are rejected for both RSS sources", () => {
   const items = [mx, mp].map((s) => ({ sourceId: s.id, source: s.name, title: "Practice update", url: `https://fixture/${s.id}`, excerpt: "Substantive clinical update", publishedAt: new Date("2026-08-05T00:00:00Z"), category: "politics" as const }));
   const response = JSON.stringify({ reviews: items.map((i) => ({ url: i.url, status: "uncertain", summary: "uncertain" })) });

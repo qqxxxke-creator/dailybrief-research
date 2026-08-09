@@ -90,6 +90,7 @@ const DYNAMICS_RE = /\b(?:society news|clinical service|regulatory update|guidel
 const ORDINARY_RESEARCH_RE = /\b(?:original article|research article|randomi[sz]ed(?: controlled)? trial|clinical trial|cohort study|case-control study|cross-sectional study|retrospective study|prospective study|diagnostic study|validation study|basic research|animal study|cell study|in[- ]vitro|organoid study|case report|case series|study protocol|protocol|systematic review|scoping review|umbrella review|network meta[- ]analysis|meta[- ]analysis)\b|(?:原著|论著|随机对照|临床试验|队列研究|病例对照研究|横断面研究|回顾性研究|前瞻性研究|诊断研究|验证研究|基础研究|动物研究|细胞研究|体外研究|类器官|病例报告|病例系列|研究方案|系统综述|范围综述|伞状综述|荟萃分析|Meta分析)/iu;
 const FIGO_PROFESSIONAL_RE = /\b(?:clinical practice|patient safety|quality improvement|professional policy|guideline implementation|committee|expert(?:s)?|recommend(?:ation|ed)|consensus|maternal|obstetric|gyn(?:ae)?colog|reproductive health|fertility|pregnancy)\b/i;
 const FIGO_PROMO_RE = /\b(?:register|registration|agenda|schedule|join us|webinar|podcast episode|now available|listen now|congress|sponsor|donat|fundrais|appointed|appointment|election|vacancy)\b/i;
+const MEDICAL_XPRESS_RESEARCH_NEWS_RE = /\b(?:design helps|helps fight|researchers?\s+(?:find|found|show|showed|report|reported)|study\s+(?:finds?|found|shows?|showed|reports?)|can (?:also )?affect\s+(?:the\s+)?(?:brains?|brain development|fetal development))\b/i;
 
 export type ObgynRejectionReason =
   | "outside_time_window"
@@ -223,7 +224,7 @@ function routeDecision(article: ArticleInput, source: SourceDef): RouteDecision 
   // RSS trial sources are mixed medical feeds: reject research-news items
   // deterministically before semantic review, even when no contentType exists.
   if ((source.id === "medical-xpress-obgyn" || source.id === "medpage-today-headlines")
-    && /\b(?:research|study|animal|cell(?:ular)?|in[- ]vitro|mechanism|mice|mouse|rat)\b/i.test(text)
+    && (MEDICAL_XPRESS_RESEARCH_NEWS_RE.test(text) || /\b(?:research|study|animal|cell(?:ular)?|in[- ]vitro|mechanism|mice|mouse|rat)\b/i.test(text))
     && !DYNAMICS_RE.test(text)
     && !FORMAL_GUIDANCE_RE.test(text)) {
     return { kind: "reject", reason: "ordinary_research_article" };
