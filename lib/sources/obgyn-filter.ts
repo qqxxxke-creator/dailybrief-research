@@ -372,6 +372,10 @@ function rankSupplemental(
   });
 }
 
+function figoGroup(article: ArticleInput): string {
+  return article.sourceId === "figo-podcast" || article.sourceId === "figo-society-pubmed" ? "figo-society" : article.sourceId;
+}
+
 export function selectSupplementalObgynArticles(
   priority: ArticleInput[],
   supplemental: ArticleInput[],
@@ -381,8 +385,8 @@ export function selectSupplementalObgynArticles(
 ): ArticleInput[] {
   const sourceById = new Map(sources.map((source) => [source.id, source]));
   const priorityCapped = rankSupplemental(priority, sourceById).filter((article, index, all) => {
-    const sourceLimit = article.sourceId === "figo-podcast" ? 2 : article.sourceId === "medpage-today-headlines" ? 1 : article.sourceId === "medical-xpress-obgyn" ? 3 : maximum;
-    return all.slice(0, index + 1).filter((x) => x.sourceId === article.sourceId).length <= sourceLimit;
+    const sourceLimit = article.sourceId === "figo-podcast" || article.sourceId === "figo-society-pubmed" ? 3 : article.sourceId === "medpage-today-headlines" ? 1 : article.sourceId === "medical-xpress-obgyn" ? 3 : maximum;
+    return all.slice(0, index + 1).filter((x) => figoGroup(x) === figoGroup(article)).length <= sourceLimit;
   });
   const rankedPriority = priorityCapped
     .slice(0, maximum)
@@ -392,16 +396,17 @@ export function selectSupplementalObgynArticles(
   const rankedSupplemental = rankSupplemental(supplemental, sourceById);
   const selectedSupplemental: ArticleInput[] = [];
   const sourceCounts = new Map<string, number>();
+  for (const article of rankedPriority) sourceCounts.set(figoGroup(article), (sourceCounts.get(figoGroup(article)) ?? 0) + 1);
   const selectedUrls = new Set<string>();
   const representedColumns = new Set(rankedPriority.map((article) => selectionColumn(article, sourceById)));
 
   for (const article of rankedSupplemental) {
-    const limit = article.sourceId === "medpage-today-headlines" ? 1 : article.sourceId === "medical-xpress-obgyn" ? 3 : maximum;
-    if ((sourceCounts.get(article.sourceId) ?? 0) >= limit) continue;
+    const limit = article.sourceId === "figo-podcast" || article.sourceId === "figo-society-pubmed" ? 3 : article.sourceId === "medpage-today-headlines" ? 1 : article.sourceId === "medical-xpress-obgyn" ? 3 : maximum;
+    if ((sourceCounts.get(figoGroup(article)) ?? 0) >= limit) continue;
     const column = selectionColumn(article, sourceById);
     if (representedColumns.has(column)) continue;
     selectedSupplemental.push(article);
-    sourceCounts.set(article.sourceId, (sourceCounts.get(article.sourceId) ?? 0) + 1);
+    sourceCounts.set(figoGroup(article), (sourceCounts.get(figoGroup(article)) ?? 0) + 1);
     selectedUrls.add(normalizeContentUrl(article.url));
     representedColumns.add(column);
     if (rankedPriority.length + selectedSupplemental.length >= maximum) break;
@@ -411,10 +416,10 @@ export function selectSupplementalObgynArticles(
     if (rankedPriority.length + selectedSupplemental.length >= maximum) break;
     const url = normalizeContentUrl(article.url);
     if (selectedUrls.has(url)) continue;
-    const limit = article.sourceId === "medpage-today-headlines" ? 1 : article.sourceId === "medical-xpress-obgyn" ? 3 : maximum;
-    if ((sourceCounts.get(article.sourceId) ?? 0) >= limit) continue;
+    const limit = article.sourceId === "figo-podcast" || article.sourceId === "figo-society-pubmed" ? 3 : article.sourceId === "medpage-today-headlines" ? 1 : article.sourceId === "medical-xpress-obgyn" ? 3 : maximum;
+    if ((sourceCounts.get(figoGroup(article)) ?? 0) >= limit) continue;
     selectedSupplemental.push(article);
-    sourceCounts.set(article.sourceId, (sourceCounts.get(article.sourceId) ?? 0) + 1);
+    sourceCounts.set(figoGroup(article), (sourceCounts.get(figoGroup(article)) ?? 0) + 1);
     selectedUrls.add(url);
   }
 
@@ -461,6 +466,25 @@ export function filterObgynCandidatesWithStats(
   const seenTitles = new Set<string>();
   const priorityArticles: ArticleInput[] = [];
   const supplementalArticles: ArticleInput[] = [];
+  const figoQueues = new Map<string, ArticleInput[]>();
+  for (const article of articles) {
+    if (article.sourceId !== "figo-podcast" && article.sourceId !== "figo-society-pubmed") continue;
+    const queue = figoQueues.get(article.sourceId) ?? [];
+    queue.push(article);
+    figoQueues.set(article.sourceId, queue);
+  }
+  const figoAllowed = new Set<ArticleInput>();
+  while (figoAllowed.size < 8 && figoQueues.size > 0) {
+    let added = false;
+    for (const queue of figoQueues.values()) {
+      const next = queue.shift();
+      if (!next) continue;
+      figoAllowed.add(next);
+      added = true;
+      if (figoAllowed.size >= 8) break;
+    }
+    if (!added) break;
+  }
   const rejections: ObgynFilterRejection[] = [];
   const stats = emptyStats(articles.length);
 
@@ -476,6 +500,11 @@ export function filterObgynCandidatesWithStats(
   };
 
   for (const article of articles) {
+    const isFigoSociety = article.sourceId === "figo-podcast" || article.sourceId === "figo-society-pubmed";
+    if (isFigoSociety && !figoAllowed.has(article)) {
+        reject(article, "unsupported_content_type", "unsupportedContentType");
+        continue;
+    }
     if (!article.title.trim() || !hasValidHttpUrl(article.url)) {
       reject(article, "invalid_item", "invalidItem");
       continue;

@@ -22,10 +22,10 @@ test("FIGO RSS fixture parses and admits professional updates while rejecting pr
   assert.deepEqual(result.articles.map((x) => x.title), ["FIGO committee experts discuss maternal safety standards", "Clinical practice discussion on respectful maternity care"]);
 });
 
-test("FIGO final source cap is two across pools", () => {
+test("FIGO final source cap is three across pools", () => {
   const make = (i: number) => ({ sourceId: source.id, source: source.name, title: `FIGO committee update ${i}`, url: `https://x/${i}`, excerpt: "Committee experts discuss clinical practice and quality.", publishedAt: new Date("2026-08-05T00:00:00Z"), category: "politics" as const });
   const selected = selectSupplementalObgynArticles([make(1), make(2), make(3)], [make(4)], 0, 20, [source]);
-  assert.equal(selected.length, 2);
+  assert.equal(selected.length, 3);
 });
 
 test("committee substantive description enters politics international dynamics", async () => {
@@ -65,10 +65,10 @@ test("uncertain FIGO LLM review is rejected", () => {
   assert.equal(parseObgynReviewResponse([item], JSON.stringify({ reviews: [{ url: item.url, status: "uncertain" }] })).length, 0);
 });
 
-test("FIGO fetch, LLM and final caps are 8, 2 and 2", async () => {
+test("FIGO fetch, LLM and final caps are 8, 4 and 3", async () => {
   const items = await fetchRss(source.id, source.url, source.category, { limit: 8, fetchImpl: (async () => new Response(`<rss version="2.0"><channel>${Array.from({ length: 9 }, (_, i) => `<item><title>Committee ${i}</title><link>https://x/${i}</link><pubDate>Wed, 05 Aug 2026 07:00:00 GMT</pubDate><description>Committee experts discuss clinical practice.</description></item>`).join("")}</channel></rss>`)) as typeof fetch });
-  assert.equal(items.length, 8); assert.equal(capObgynReviewCandidates(items.map((x) => ({ ...x, source: source.name }))).length, 2);
-  assert.equal(selectSupplementalObgynArticles(items.map((x) => ({ ...x, source: source.name })), [], 0, 20, [source]).length, 2);
+  assert.equal(items.length, 8); assert.equal(capObgynReviewCandidates(items.map((x) => ({ ...x, source: source.name }))).length, 4);
+  assert.equal(selectSupplementalObgynArticles(items.map((x) => ({ ...x, source: source.name })), [], 0, 20, [source]).length, 3);
 });
 
 test("disabled FIGO main-site source never calls network", async () => {

@@ -302,6 +302,19 @@
     "notes": "Official FIGO RSS podcast feed; description-only professional updates, no audio download or transcription."
   },
   {
+    "id": "figo-society-pubmed",
+    "sourceClass": "official_authority",
+    "name": "FIGO Society Updates (PubMed)",
+    "type": "api",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils",
+    "category": "politics",
+    "subcategory": "international-obgyn",
+    "lookbackHours": 720,
+    "enabled": true,
+    "lang": "en",
+    "locales": ["zh", "en"]
+  },
+  {
     "id": "who-womens-health",
     "sourceClass": "general_authority",
     "name": "WHO Women's Health",

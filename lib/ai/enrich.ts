@@ -427,17 +427,20 @@ export function capObgynReviewCandidates(
   const queues = new Map<string, ArticleInput[]>();
   for (const candidate of candidates) {
     const queue = queues.get(candidate.sourceId) ?? [];
-    const sourceLimit = candidate.sourceId === "figo-podcast" ? 2 : candidate.sourceId === "medpage-today-headlines" ? 2 : candidate.sourceId === "medical-xpress-obgyn" ? 4 : perSourceLimit;
+    const sourceLimit = candidate.sourceId === "figo-podcast" || candidate.sourceId === "figo-society-pubmed" ? 4 : candidate.sourceId === "medpage-today-headlines" ? 2 : candidate.sourceId === "medical-xpress-obgyn" ? 4 : perSourceLimit;
     if (queue.length < sourceLimit) queue.push(candidate);
     queues.set(candidate.sourceId, queue);
   }
   const selected: ArticleInput[] = [];
+  let figoGroupCount = 0;
   while (selected.length < totalLimit) {
     let added = false;
     for (const queue of queues.values()) {
       const next = queue.shift();
       if (!next) continue;
+      if ((next.sourceId === "figo-podcast" || next.sourceId === "figo-society-pubmed") && figoGroupCount >= 4) continue;
       selected.push(next);
+      if (next.sourceId === "figo-podcast" || next.sourceId === "figo-society-pubmed") figoGroupCount++;
       added = true;
       if (selected.length >= totalLimit) break;
     }
