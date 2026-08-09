@@ -1,0 +1,41 @@
+name: China Sources Read-only Smoke
+
+on:
+  workflow_dispatch:
+    inputs:
+      ref:
+        description: "Branch or commit containing the source adapters"
+        required: true
+        default: "fix/obgyn-source-integration-smfm-date"
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout requested ref
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.ref }}
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - name: HTTP status
+        shell: bash
+        run: |
+          for url in \
+            "https://www.cogonline.com/article/LinChuangZhiNan" \
+            "https://www.obgyncn.com/CN/current"
+          do
+            code=$(curl -L -sS -o /dev/null -w '%{http_code}' --max-time 20 -A 'Mozilla/5.0' "$url" || true)
+            echo "[smoke] http_status url=$url status=${code:-network_error}"
+          done
+      - name: Deterministic adapter smoke
+        run: npx tsx scripts/china-sources-smoke.ts
