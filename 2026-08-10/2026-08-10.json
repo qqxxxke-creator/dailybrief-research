@@ -7,8 +7,8 @@
   "editor_note": "过去24小时暂无符合质量要求的重要更新。",
   "keywords": [],
   "research": {
-    "generatedAt": "2026-08-09T22:00:52.824Z",
-    "dataAsOf": "2026-08-09T22:00:52.824Z",
+    "generatedAt": "2026-08-09T23:16:41.106Z",
+    "dataAsOf": "2026-08-09T23:16:41.106Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及不明原因不孕的促性腺激素刺激宫腔内人工授精周期中双重触发与仅人绒毛膜促性腺激素触发后的生化妊娠结局：一项回顾性队列研究、辅助褪黑素预防中高危因素女性子痫前期的效果：一项随机临床试验、生育饮食对男性生殖功能的影响：一项针对特发性不育患者的12周随机临床试验。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
@@ -39,15 +39,6 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "不明原因不孕的促性腺激素刺激宫腔内人工授精周期中双重触发与仅人绒毛膜促性腺激素触发后的生化妊娠结局：一项回顾性队列研究",
           "researchQuestion": "在促性腺激素刺激的宫腔内人工授精周期中，双重触发（GnRH激动剂联合hCG）相比仅hCG触发是否能改善不明原因不孕患者的生化妊娠结局。",
@@ -59,7 +50,16 @@
           "clinicalInterpretation": "与仅hCG触发相比，双重触发并未显著改善生化妊娠率；不孕持续时间是治疗成功的唯一显著预测因素。作者认为需要更大规模的多中心试验来验证，因为当前研究效能有限。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "a1579b5773d2c5194cd0b889797a45d1d9ef882407157469bf0c3bdd552d0386"
+        "summaryInputHash": "a1579b5773d2c5194cd0b889797a45d1d9ef882407157469bf0c3bdd552d0386",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42571057",
@@ -87,15 +87,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "辅助褪黑素预防中高危因素女性子痫前期的效果：一项随机临床试验",
           "researchQuestion": "在具有子痫前期中高危因素的孕妇中，辅助使用褪黑素是否能预防子痫前期的发生。",
@@ -107,7 +98,16 @@
           "clinicalInterpretation": "尽管褪黑素在实验室研究中显示出有希望的结果，但在孕妇中未观察到显著效果；需要进一步研究来确认褪黑素预防子痫前期的作用。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "853ebaacff963aff8dfcfad22562f8ae09505cec6bcedcae02caa74915b1def1"
+        "summaryInputHash": "853ebaacff963aff8dfcfad22562f8ae09505cec6bcedcae02caa74915b1def1",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42571062",
@@ -139,15 +139,6 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "生育饮食对男性生殖功能的影响：一项针对特发性不育患者的12周随机临床试验",
           "researchQuestion": "评估生育饮食（FD）对不育男性精子参数的影响。",
@@ -159,7 +150,16 @@
           "clinicalInterpretation": "生育饮食可能改善精子参数并降低DNA碎片指数和氧化应激；作者指出需要更大样本量和更长时间的研究来确认这些效果。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "ba7aa3fafe27b4d7b2f8c8ddeffed5ed30fff428a7cce5e2145e772417e70cde"
+        "summaryInputHash": "ba7aa3fafe27b4d7b2f8c8ddeffed5ed30fff428a7cce5e2145e772417e70cde",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42571292",
@@ -187,15 +187,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "基于集成学习的血管生成通路相关蛋白质组学与临床特征整合用于早发型子痫前期的精准风险分层",
           "researchQuestion": "通过整合血管生成通路相关蛋白质组学和临床特征，利用集成学习方法建立早发型子痫前期（EOPE）的精准风险分层框架。",
@@ -207,7 +198,16 @@
           "clinicalInterpretation": "集成血管生成蛋白质组学与临床特征可提供高性能且可解释的早发型子痫前期精准风险分层工具，可能有助于早期识别高危个体并支持更精准的临床干预。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "71426d71895218ea5c063d1baec0b2397f30d9bd0cbe18f46ce64e5cd2538ada"
+        "summaryInputHash": "71426d71895218ea5c063d1baec0b2397f30d9bd0cbe18f46ce64e5cd2538ada",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42571316",
@@ -238,15 +238,6 @@
           "endometriosis-benign-gynecology",
           "reproductive-medicine"
         ],
-        "assignedTopicId": "endometriosis-benign-gynecology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "四基因特征作为子宫内膜异位症新型潜在诊断生物标志物组的鉴定与验证：来自孟德尔随机化和生物信息学的因果及机制见解",
           "researchQuestion": "利用生物信息学方法鉴定与SUMO化修饰相关的子宫内膜异位症（EMS）潜在生物标志物，并评估其诊断价值和机制作用。",
@@ -258,7 +249,16 @@
           "clinicalInterpretation": "CRYZ、FRMD4B、FZD6和TPST1可能成为与子宫内膜异位症SUMO化相关的潜在诊断和治疗靶点，为EMS的无创检测和风险分层提供潜在的临床见解，可能有助于提高早期诊断效率和个体化治疗策略的开发。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "d8ea610046e3e202e525deef20cd825b2d4a24a6644060409b7b93b5161e7a41"
+        "summaryInputHash": "d8ea610046e3e202e525deef20cd825b2d4a24a6644060409b7b93b5161e7a41",
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       }
     ]
   }
