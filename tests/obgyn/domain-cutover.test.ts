@@ -103,7 +103,7 @@ test("enables every approved OB-GYN news source from the manifest", () => {
     "esge-news",
     "esgo-guidelines",
     "fda-owh-news",
-    "figo-news",
+    "figo-guidance",
     "gocm-guidelines",
     "gocm-surgery",
     "jmig-articles-in-press",

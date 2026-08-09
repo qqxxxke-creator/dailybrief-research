@@ -10,6 +10,7 @@ import { fetchCjournalCurrent } from "./cjournal-current";
 import { fetchPubMedGuidelines } from "./pubmed-guidelines";
 import { fetchGocmRss } from "./gocm";
 import { fetchJmigProfessionalContent } from "./jmig-pubmed";
+import { fetchFigoGuidance } from "./figo-pubmed";
 import type { RawArticle, SourceDef } from "./types";
 
 /**
@@ -27,6 +28,9 @@ export async function fetchSource(source: SourceDef): Promise<RawArticle[]> {
   if (source.id === "china-clinical-obgyn-current") return fetchCjournalCurrent(source);
   if (source.id === "gocm-guidelines" || source.id === "gocm-surgery") return fetchGocmRss(source);
   if (source.id === "jmig-articles-in-press") return fetchJmigProfessionalContent({ from: new Date(Date.now() - 30 * 86400000), to: new Date() });
+  if (source.id === "figo-guidance") return fetchFigoGuidance({ from: new Date(Date.now() - 180 * 86400000), to: new Date() });
+  // The FIGO main site is intentionally disabled; never route it through the generic scraper.
+  if (source.id === "figo-news") return [];
   if (source.type === "scrape") return fetchObgynPage(source);
   return fetchRss(source.id, source.url, source.category, {
     useCurl: source.useCurl,

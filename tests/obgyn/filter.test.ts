@@ -431,7 +431,7 @@ test("general authority requires a configured non-empty source keyword match", (
 test("configures exact category windows in the source manifest", () => {
   const sources = loadAllSources();
   for (const configuredSource of sources) {
-    const expected = configuredSource.subcategory === "guidelines"
+    const expected = configuredSource.id === "figo-guidance" || configuredSource.subcategory === "guidelines"
       ? 4320
       : configuredSource.subcategory === "surgery"
         ? 2160

@@ -266,11 +266,26 @@
     "category": "politics",
     "subcategory": "international-obgyn",
     "lookbackHours": 720,
-    "enabled": true,
+    "enabled": false,
     "lang": "en",
     "locales": ["zh", "en"],
     "keywords": ["maternal health", "gynecologic oncology", "reproductive health", "global guidance", "clinical statements"],
-    "excludeKeywords": ["congress logistics only", "generic organizational announcements"]
+    "excludeKeywords": ["congress logistics only", "generic organizational announcements"],
+    "notes": "Disabled: FIGO main-site scraping intentionally stopped; use structured PubMed guidance adapter."
+  },
+  {
+    "id": "figo-guidance",
+    "sourceClass": "official_authority",
+    "name": "FIGO Guidance (PubMed)",
+    "type": "api",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils",
+    "category": "politics",
+    "subcategory": "international-obgyn",
+    "lookbackHours": 4320,
+    "enabled": true,
+    "lang": "en",
+    "locales": ["zh", "en"],
+    "notes": "Structured PubMed metadata adapter; FIGO main site intentionally not fetched."
   },
   {
     "id": "who-womens-health",
