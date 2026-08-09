@@ -216,16 +216,16 @@
     "id": "jmig-articles-in-press",
     "sourceClass": "academic_journal",
     "name": "Journal of Minimally Invasive Gynecology - Articles in Press",
-    "type": "scrape",
-    "url": "https://www.sciencedirect.com/journal/journal-of-minimally-invasive-gynecology/articles-in-press",
+    "type": "api",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils",
     "category": "finance",
     "subcategory": "surgery",
     "lookbackHours": 2160,
     "enabled": true,
     "lang": "en",
     "locales": ["zh", "en"],
-    "keywords": ["Video Article", "Images in Gynecologic Surgery", "Original Article", "Review Article", "Instruments and Techniques"],
-    "excludeKeywords": ["editorial board", "calendar", "front matter", "miscellaneous"]
+    "keywords": ["Video Article", "Surgical Technique", "Technical Note", "Editorial", "Narrative Review", "Clinical Review", "Commentary", "Perspective", "Viewpoint"],
+    "excludeKeywords": ["Original Article", "Research Article", "RCT", "Systematic Review", "Meta-analysis", "Case Report", "Protocol"]
   },
   {
     "id": "acog-news",
