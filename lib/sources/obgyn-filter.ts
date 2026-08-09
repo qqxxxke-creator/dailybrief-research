@@ -88,6 +88,8 @@ const SURGICAL_METHOD_RE = /\b(?:surgical technique|video article|technical note
 const SURGICAL_TOPIC_RE = /\b(?:laparoscop|hysteroscop|robotic|vnotes|single[- ]port|fertility[- ]sparing|fetal surgery|cerclage|cesarean|caesarean|placenta accreta|gynecologic oncology surgery)\w*\b|(?:腹腔镜|宫腔镜|机器人手术|单孔手术|保留生育功能手术|胎儿手术|宫颈环扎|高危剖宫产|胎盘植入|妇科肿瘤手术)/iu;
 const DYNAMICS_RE = /\b(?:society news|clinical service|regulatory update|guideline implementation|patient safety alert|training standard|quality improvement|clinical practice update|professional policy)\b|(?:学会新闻|临床服务|监管更新|指南实施|患者安全提醒|培训规范|质量改进|临床实践更新|妇幼政策|行业标准|母婴安全|助产服务规范|辅助生殖管理|学术活动总结)/iu;
 const ORDINARY_RESEARCH_RE = /\b(?:original article|research article|randomi[sz]ed(?: controlled)? trial|clinical trial|cohort study|case-control study|cross-sectional study|retrospective study|prospective study|diagnostic study|validation study|basic research|animal study|cell study|in[- ]vitro|organoid study|case report|case series|study protocol|protocol|systematic review|scoping review|umbrella review|network meta[- ]analysis|meta[- ]analysis)\b|(?:原著|论著|随机对照|临床试验|队列研究|病例对照研究|横断面研究|回顾性研究|前瞻性研究|诊断研究|验证研究|基础研究|动物研究|细胞研究|体外研究|类器官|病例报告|病例系列|研究方案|系统综述|范围综述|伞状综述|荟萃分析|Meta分析)/iu;
+const FIGO_PROFESSIONAL_RE = /\b(?:clinical practice|patient safety|quality improvement|professional policy|guideline implementation|committee|expert(?:s)?|recommend(?:ation|ed)|consensus|maternal|obstetric|gyn(?:ae)?colog|reproductive health|fertility|pregnancy)\b/i;
+const FIGO_PROMO_RE = /\b(?:register|registration|agenda|schedule|join us|webinar|podcast episode|now available|listen now|congress|sponsor|donat|fundrais|appointed|appointment|election|vacancy)\b/i;
 
 export type ObgynRejectionReason =
   | "outside_time_window"
@@ -211,6 +213,12 @@ function routeDecision(article: ArticleInput, source: SourceDef): RouteDecision 
     .join("\n");
   const documentType = classifyDocumentType(article);
   const contentType = classifyObgynContentType(article);
+
+  if (source.id === "figo-podcast") {
+    if (FIGO_PROMO_RE.test(text) || !FIGO_PROFESSIONAL_RE.test(text)) {
+      return { kind: "reject", reason: "unsupported_content_type" };
+    }
+  }
 
   // RSS trial sources are mixed medical feeds: reject research-news items
   // deterministically before semantic review, even when no contentType exists.
@@ -372,7 +380,7 @@ export function selectSupplementalObgynArticles(
 ): ArticleInput[] {
   const sourceById = new Map(sources.map((source) => [source.id, source]));
   const priorityCapped = rankSupplemental(priority, sourceById).filter((article, index, all) => {
-    const sourceLimit = article.sourceId === "medpage-today-headlines" ? 1 : article.sourceId === "medical-xpress-obgyn" ? 3 : maximum;
+    const sourceLimit = article.sourceId === "figo-podcast" ? 2 : article.sourceId === "medpage-today-headlines" ? 1 : article.sourceId === "medical-xpress-obgyn" ? 3 : maximum;
     return all.slice(0, index + 1).filter((x) => x.sourceId === article.sourceId).length <= sourceLimit;
   });
   const rankedPriority = priorityCapped

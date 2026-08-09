@@ -76,7 +76,7 @@ export async function fetchRss(
     .map((item) => ({
       sourceId,
       title: (item.title ?? "").trim(),
-      url: (item.link ?? "").trim(),
+      url: ((item.link ?? "").trim() || (/^https?:\/\//i.test((item.guid ?? "").trim()) ? (item.guid ?? "").trim() : "")),
       excerpt: stripHtml(item.contentSnippet ?? item.content ?? item.summary ?? "").slice(
         0,
         300,

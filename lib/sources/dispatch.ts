@@ -34,6 +34,6 @@ export async function fetchSource(source: SourceDef): Promise<RawArticle[]> {
   if (source.type === "scrape") return fetchObgynPage(source);
   return fetchRss(source.id, source.url, source.category, {
     useCurl: source.useCurl,
-    limit: source.id === "medical-xpress-obgyn" || source.id === "medpage-today-headlines" ? 8 : undefined,
+    limit: ["medical-xpress-obgyn", "medpage-today-headlines", "figo-podcast"].includes(source.id) ? 8 : undefined,
   });
 }

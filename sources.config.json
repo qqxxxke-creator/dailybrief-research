@@ -288,6 +288,20 @@
     "notes": "Structured PubMed metadata adapter; FIGO main site intentionally not fetched."
   },
   {
+    "id": "figo-podcast",
+    "sourceClass": "official_authority",
+    "name": "FIGO Society Updates",
+    "type": "rss",
+    "url": "https://media.rss.com/figo/feed.xml",
+    "category": "politics",
+    "subcategory": "international-obgyn",
+    "lookbackHours": 720,
+    "enabled": true,
+    "lang": "en",
+    "locales": ["zh", "en"],
+    "notes": "Official FIGO RSS podcast feed; description-only professional updates, no audio download or transcription."
+  },
+  {
     "id": "who-womens-health",
     "sourceClass": "general_authority",
     "name": "WHO Women's Health",

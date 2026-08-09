@@ -427,7 +427,7 @@ export function capObgynReviewCandidates(
   const queues = new Map<string, ArticleInput[]>();
   for (const candidate of candidates) {
     const queue = queues.get(candidate.sourceId) ?? [];
-    const sourceLimit = candidate.sourceId === "medpage-today-headlines" ? 2 : candidate.sourceId === "medical-xpress-obgyn" ? 4 : perSourceLimit;
+    const sourceLimit = candidate.sourceId === "figo-podcast" ? 2 : candidate.sourceId === "medpage-today-headlines" ? 2 : candidate.sourceId === "medical-xpress-obgyn" ? 4 : perSourceLimit;
     if (queue.length < sourceLimit) queue.push(candidate);
     queues.set(candidate.sourceId, queue);
   }
