@@ -7,10 +7,10 @@
   "editor_note": "过去24小时暂无符合质量要求的重要更新。",
   "keywords": [],
   "research": {
-    "generatedAt": "2026-08-08T23:55:45.112Z",
-    "dataAsOf": "2026-08-08T23:55:45.112Z",
+    "generatedAt": "2026-08-09T08:23:35.844Z",
+    "dataAsOf": "2026-08-09T08:23:35.844Z",
     "isCachedFallback": false,
-    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及雌四醇/屈螺酮用于复方口服避孕：有效性、周期控制和安全性的系统综述、子宫内膜癌中滋养层细胞表面抗原2（TROP2）、叶酸受体α（FRα）和人表皮生长因子受体2（HER2）跨分子类别、基因组改变和组织学亚型的整合表达谱分析、实践中的生育公平：黑人女性的支持需求和对不孕症护理的建议。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及雌四醇/屈螺酮用于复方口服避孕：有效性、周期控制和安全性的系统综述、子宫内膜癌中滋养层细胞表面抗原2（TROP2）、叶酸受体α（FRα）和人表皮生长因子受体2（HER2）跨分子类别、基因组改变和组织学亚型的整合表达谱分析、实践中的生育公平：黑人女性对不孕症护理的支持需求与建议。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
       {
         "id": "pmid:42568434",
@@ -143,6 +143,7 @@
           "Jorie Dugan",
           "Kim Thorton",
           "Lasha Clarke",
+          "Lasha Clarke, Isabel Morgan, Dannelle Charles, Angie Suarez, Teru Jellerette-Nolan, Cameron Dawkins, Jessie Kue Ndukwe, Anchal Kumar, Maya Thirkill, Tia Jackson-Bey, Benjamin Harris, Janet Choi, Leah Jones, Jorie Dugan, Agbo Ikor, Michael Thomas, Samantha Butts, Jerrine R. Morris, Kim Thorton, Eve Feinberg, Gloria Richard-Davis",
           "Leah Jones",
           "Maya Thirkill",
           "Michael Thomas",
@@ -157,23 +158,24 @@
         "activityAt": "2026-08-08T00:00:00.000Z",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42567468/",
         "sourceKinds": [
+          "journal-rss",
           "pubmed"
         ],
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
         "summaryZh": {
-          "titleZh": "实践中的生育公平：黑人女性的支持需求和对不孕症护理的建议",
-          "researchQuestion": "识别黑人女性在应对不孕症护理时的特定支持需求，并制定改善可及性、患者体验和结局的策略。",
+          "titleZh": "实践中的生育公平：黑人女性对不孕症护理的支持需求与建议",
+          "researchQuestion": "识别黑人女性在不孕症护理中的特定支持需求，并提出改善就医可及性、患者体验和结局的策略。",
           "studyDesign": "混合方法观察性研究",
-          "populationAndSample": "美国18-45岁正在寻求或最近寻求不孕症护理的黑人女性；176名女性回应在线调查，其中41人同意参加半结构化访谈。",
-          "methods": "在线调查和半结构化访谈；收集人口统计学和生育护理经验的定量数据，以及感知支持需求和推荐解决方案的定性数据。",
-          "keyResults": "大多数参与者（74.3%）为35-45岁，已婚或与伴侣同居，拥有高级学位，全职工作，并有保险覆盖部分或全部生育服务。25.5%报告在生育过程中感到来自朋友、家人、医生或其他人的支持不足，31.3%认为这种缺乏支持是启动治疗的障碍。参与者描述了孤独和隔离感，很少有肯定性空间或社区来寻找资源并与其他患有不孕症的黑人女性联系。他们还分享了种族主义、歧视和缺乏共情护理的例子，导致健康问题被忽视和转诊至生殖内分泌科延迟，使不孕症经历复杂化。参与者为诊所和提供者提出了多项建议，从加强以患者为中心的护理到增加获得黑人生殖医学和心理健康提供者的机会。",
+          "populationAndSample": "美国18–45岁、当前正在寻求或近期曾寻求不孕症护理的黑人女性；176人完成在线调查，其中41人同意参与半结构化访谈。",
+          "methods": "在线调查收集人口学特征和生育护理经历定量数据；半结构化访谈收集感知支持需求和推荐解决方案的定性数据。",
+          "keyResults": "大多数参与者（74.3%）年龄为35–45岁，已婚或有伴侣，拥有高级学位，全职工作，并有覆盖部分或全部生育服务的保险。25.5%的参与者报告在备孕过程中感到来自朋友、家人、医生或其他人的支持不足，其中31.3%认为这种支持不足是启动治疗的障碍。参与者描述了孤独和隔离感，很少有肯定的空间或社区供她们寻找资源并与其他患有不孕症的黑人女性联系。她们还分享了种族主义、歧视和缺乏共情护理的例子，这些导致健康问题被忽视以及转诊至生殖内分泌科延迟，使她们的不孕症历程复杂化。参与者为诊所和提供者提出了多项建议，包括加强以患者为中心的护理、增加黑人生殖医学和心理健康提供者的可及性。",
           "limitations": "摘要未报告。",
-          "clinicalInterpretation": "理解黑人女性寻求不孕症护理的特定支持需求，有助于提供以患者为中心的、共情的、文化响应的护理，从而改善患者体验和结局。"
+          "clinicalInterpretation": "了解黑人女性在不孕症护理中的特定支持需求，可为以患者为中心、富有同情心且具有文化响应性的护理提供信息，从而改善患者体验和结局。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "8954243d646e40949575f5405192cab36e83a7f1d84bd1b8d68d0568be83a98f",
+        "summaryInputHash": "f0403938696934a8e35714498d57b90f1fa4f255ba4980831f56f79a7ed987bf",
         "assignedTopicId": "reproductive-medicine",
         "score": {
           "topicMatch": 50,
