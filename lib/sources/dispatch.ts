@@ -28,8 +28,8 @@ export async function fetchSource(source: SourceDef): Promise<RawArticle[]> {
   if (source.id === "pubmed-asrm-guidance") return fetchPubMedGuidelines(source);
   if (source.id === "china-clinical-obgyn-current") return fetchCjournalCurrent(source);
   if (source.id === "gocm-guidelines" || source.id === "gocm-surgery") return fetchGocmRss(source);
-  if (source.id === "jmig-articles-in-press") return fetchJmigProfessionalContent({ from: new Date(Date.now() - 30 * 86400000), to: new Date() });
-  if (source.id === "figo-guidance") return fetchFigoGuidance({ from: new Date(Date.now() - 180 * 86400000), to: new Date() });
+  if (source.id === "jmig-articles-in-press") return fetchJmigProfessionalContent({ sourceId: source.id, from: new Date(Date.now() - 30 * 86400000), to: new Date() });
+  if (source.id === "figo-guidance") return fetchFigoGuidance({ sourceId: source.id, from: new Date(Date.now() - 180 * 86400000), to: new Date() });
   if (source.id === "figo-society-pubmed") return fetchFigoSocietyPubmed({ from: new Date(Date.now() - 30 * 86400000), to: new Date() });
   // The FIGO main site is intentionally disabled; never route it through the generic scraper.
   if (source.id === "figo-news") return [];

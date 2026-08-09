@@ -1,6 +1,7 @@
 import assert from "node:assert/strict";
 import test from "node:test";
 import { fetchJmigProfessionalContent } from "../../lib/sources/jmig-pubmed";
+import { sources } from "../../lib/sources/registry";
 
 const xml = (types: string, title: string, pmid: string, doi = "") => `<PubmedArticle><MedlineCitation><PMID>${pmid}</PMID><Article><ArticleTitle>${title}</ArticleTitle><Abstract><AbstractText>Substantive abstract.</AbstractText></Abstract><Journal><Title>J Minim Invasive Gynecol</Title><JournalIssue><PubDate><Year>2026</Year><Month>8</Month><Day>1</Day></PubDate></JournalIssue></Journal>${types.split("|").map((t) => `<PublicationType>${t}</PublicationType>`).join("")}</Article></MedlineCitation><PubmedData>${doi ? `<ArticleIdList><ArticleId IdType="doi">${doi}</ArticleId></ArticleIdList>` : ""}</PubmedData></PubmedArticle>`;
 
@@ -17,6 +18,8 @@ test("JMIG routes only explicit professional publication types", async () => {
     ["Video article hysteroscopy", "finance", "video_article"],
     ["Narrative review fertility", "politics", "professional_review"],
   ]);
+  assert.ok(result.every((item) => item.sourceId === "jmig-articles-in-press"));
+  assert.equal(sources.find((source) => source.id === result[0]?.sourceId)?.enabled, true);
   assert.ok(calls.some((u) => u.includes("1553-4669") && u.includes("EDAT")));
 });
 

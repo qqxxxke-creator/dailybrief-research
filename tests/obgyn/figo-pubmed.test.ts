@@ -2,6 +2,7 @@ import test from "node:test";
 import assert from "node:assert/strict";
 import { fetchFigoGuidance } from "../../lib/sources/figo-pubmed";
 import { fetchSource } from "../../lib/sources/dispatch";
+import { sources } from "../../lib/sources/registry";
 
 const xml = (title: string, types: string, author = "FIGO Committee", abstract = "FIGO Committee guidance abstract", pmid = "9", withDoi = true, withDate = true) => `<PubmedArticleSet><PubmedArticle><MedlineCitation><PMID>${pmid}</PMID><Article><ArticleTitle>${title}</ArticleTitle><Abstract><AbstractText>${abstract}</AbstractText></Abstract><Journal><Title>Int J Gynaecol Obstet</Title></Journal><AuthorList><Author><CollectiveName>${author}</CollectiveName></Author></AuthorList><PublicationTypeList>${types.split("|").map(t => `<PublicationType>${t}</PublicationType>`).join("")}</PublicationTypeList>${withDate ? '<ArticleDate><Year>2026</Year><Month>8</Month><Day>1</Day></ArticleDate>' : ''}</Article></MedlineCitation><PubmedData><ArticleIdList>${withDoi ? '<ArticleId IdType="doi">10.1/figo</ArticleId>' : ''}</ArticleIdList><History><PubMedPubDate PubStatus="pubmed"><Year>2026</Year><Month>8</Month><Day>2</Day></PubMedPubDate></History></PubmedData></PubmedArticle></PubmedArticleSet>`;
 function fakeFetch(body: string): typeof fetch {
@@ -13,7 +14,8 @@ function fakeFetch(body: string): typeof fetch {
 
 test("routes FIGO best practice guidance with institutional evidence", async () => {
   const items = await fetchFigoGuidance({ from: new Date("2026-02-01"), to: new Date("2026-08-09"), fetchImpl: fakeFetch(xml("FIGO Best Practice Advice on pregnancy", "Practice Guideline")) });
-  assert.equal(items.length, 1); assert.equal(items[0].contentType, "guideline"); assert.equal(items[0].sourceId, "figo-pubmed");
+  assert.equal(items.length, 1); assert.equal(items[0].contentType, "guideline"); assert.equal(items[0].sourceId, "figo-guidance");
+  assert.equal(sources.find((source) => source.id === items[0].sourceId)?.enabled, true);
 });
 
 test("rejects IJGO research and FIGO mentions without evidence", async () => {
