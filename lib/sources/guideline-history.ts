@@ -167,3 +167,18 @@ export function toDisplayedArticleRecords(articles: ArticleInput[]): DisplayedAr
     };
   });
 }
+
+export function assertDisplayedArticlesConsistent(
+  visible: Array<{ url: string }>,
+  candidates: ArticleInput[],
+): void {
+  const candidateUrls = new Set(candidates.map((article) => normalizeContentUrl(article.url)));
+  const seen = new Set<string>();
+  for (const item of visible) {
+    const key = normalizeContentUrl(item.url);
+    if (!candidateUrls.has(key)) throw new Error(`displayed URL not mapped to candidate: ${item.url}`);
+    if (seen.has(key)) throw new Error(`duplicate displayed URL: ${item.url}`);
+    seen.add(key);
+  }
+  if (seen.size > 15) throw new Error("displayed article count exceeds 15");
+}

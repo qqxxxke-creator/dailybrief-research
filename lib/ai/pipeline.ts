@@ -53,7 +53,6 @@ const PER_CATEGORY_LIMIT: Record<Category, number> = {
   politics: 15,
 };
 
-const MAX_AGE_DAYS = 14;
 const EMPTY_SECTION_ZH = "过去24小时暂无符合质量要求的重要更新。";
 
 export function createEmptyDailyReport(): DailyReport {
@@ -79,7 +78,7 @@ export function createEmptyDailyReport(): DailyReport {
  * source came first 100% of the quota — e.g. all 25 tech slots filled by
  * Hacker News before GitHub Trending / Solidot / V2EX / 阮一峰 got a turn.
  *
- * Strategy: drop items older than MAX_AGE_DAYS, group by sourceId,
+ * Strategy: group items by sourceId,
  * sort each bucket newest-first, then round-robin one item per source
  * until we hit the limit. Sources with fewer items naturally drop out
  * and others absorb the slack.
@@ -88,10 +87,7 @@ function selectRoundRobin(
   items: ArticleInput[],
   limit: number,
 ): ArticleInput[] {
-  const cutoff = Date.now() - MAX_AGE_DAYS * 86_400_000;
-  const fresh = items.filter(
-    (it) => !it.publishedAt || it.publishedAt.getTime() >= cutoff,
-  );
+  const fresh = items;
 
   const bySource = new Map<string, ArticleInput[]>();
   for (const it of fresh) {
@@ -244,12 +240,29 @@ export function sanitizeDigestReport(raw: unknown, articles: ArticleInput[]): Da
     return result;
   };
 
+  const tech = sanitizeBriefs(record.tech_briefs, "tech", 4);
+  const finance = sanitizeBriefs(record.finance_briefs, "finance", 4);
+  const politics = sanitizeBriefs(record.politics_briefs, "politics", 10);
+  const sections: Array<[BriefItem[], Category, number]> = [[tech, "tech", 4], [finance, "finance", 4], [politics, "politics", 10]];
+  // Deterministically restore accepted candidates omitted by the LLM. Only use
+  // existing reviewed summaries; never fabricate URLs, categories, or text.
+  for (const [result, category] of sections) {
+    for (const candidate of articles) {
+      if (seen.has(candidate.url) || candidate.category !== category || candidate.reviewStatus !== "accepted") continue;
+      const summary = candidate.summary?.trim() || "";
+      if (!summary) continue;
+      result.push({ title: candidate.title, url: candidate.url, source: candidate.source, summary, importance: candidate.lowPriority ? 5 : 5 });
+      seen.add(candidate.url);
+      if (tech.length + finance.length + politics.length >= 15) break;
+    }
+    if (tech.length + finance.length + politics.length >= 15) break;
+  }
   return {
     hero_headline: stringField(record.hero_headline),
     daily_overview: stringField(record.daily_overview),
-    tech_briefs: sanitizeBriefs(record.tech_briefs, "tech", 4),
-    finance_briefs: sanitizeBriefs(record.finance_briefs, "finance", 4),
-    politics_briefs: sanitizeBriefs(record.politics_briefs, "politics", 10),
+    tech_briefs: tech,
+    finance_briefs: finance,
+    politics_briefs: politics,
     editor_note: stringField(record.editor_note),
     keywords: Array.isArray(record.keywords)
       ? record.keywords.filter((value): value is string => typeof value === "string").map((value) => value.trim()).filter(Boolean).slice(0, 8)

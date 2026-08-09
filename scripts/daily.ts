@@ -41,6 +41,7 @@ import {
 } from "../lib/sources/obgyn-filter";
 import {
   filterPreviouslyPublishedArticlesWithStats,
+  assertDisplayedArticlesConsistent,
   toDisplayedArticleRecords,
 } from "../lib/sources/guideline-history";
 import { reviewObgynCandidates } from "../lib/ai/enrich";
@@ -389,9 +390,18 @@ async function main() {
     "utf8",
   );
   fs.writeFileSync(`${base}.html`, renderHtml(report, raw, date), "utf8");
+  const visibleUrls = new Set([
+    ...report.tech_briefs,
+    ...report.finance_briefs,
+    ...report.politics_briefs,
+  ].map((item) => normalizeContentUrl(item.url)));
+  const displayedArticles = articles.filter((article) => visibleUrls.has(normalizeContentUrl(article.url)));
+  // Historical compatibility: displayed records are derived from final visible articles, not the full candidate list.
+  // toDisplayedArticleRecords(articles) is intentionally narrowed to displayedArticles below.
+  assertDisplayedArticlesConsistent([...report.tech_briefs, ...report.finance_briefs, ...report.politics_briefs], articles);
   fs.writeFileSync(
     `${base}-displayed.json`,
-    JSON.stringify(toDisplayedArticleRecords(articles), null, 2),
+    JSON.stringify(toDisplayedArticleRecords(displayedArticles), null, 2),
     "utf8",
   );
   if (process.env.OUTPUT_MARKDOWN === "true") {

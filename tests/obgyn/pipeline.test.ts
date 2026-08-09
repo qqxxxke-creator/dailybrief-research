@@ -4,6 +4,7 @@ import path from "node:path";
 import test from "node:test";
 
 import { sanitizeDigestReport, type ArticleInput } from "../../lib/ai/pipeline";
+import { assertDisplayedArticlesConsistent } from "../../lib/sources/guideline-history";
 
 const articles: ArticleInput[] = [
   {
@@ -82,4 +83,22 @@ test("daily pipeline enriches ACOG and OB-GYN network metadata before determinis
   const filterIndex = daily.indexOf("filterObgynCandidatesWithStats(");
   assert.ok(enrichIndex > fetchIndex);
   assert.ok(enrichIndex < filterIndex);
+});
+
+test("sanitizer deterministically restores omitted accepted candidates without inventing content", () => {
+  const accepted = articles.map((a, i) => ({ ...a, url: `${a.url}-${i}`, reviewStatus: "accepted" as const }));
+  const report = sanitizeDigestReport({ tech_briefs: [{ url: accepted[0].url, summary: "kept" }] }, accepted);
+  assert.equal(report.tech_briefs.length, 2);
+  assert.deepEqual(report.tech_briefs.map((x) => x.url), [accepted[0].url, accepted[2].url]);
+  assert.equal(report.tech_briefs[1].summary, accepted[2].summary);
+});
+
+test("sanitizer caps restored output at fifteen candidates", () => {
+  const many = Array.from({ length: 20 }, (_, i) => ({ ...articles[1], url: `https://example.test/${i}`, reviewStatus: "accepted" as const }));
+  const report = sanitizeDigestReport({}, many);
+  assert.equal(report.politics_briefs.length, 15);
+});
+
+test("display consistency rejects final report URLs absent from candidates", () => {
+  assert.throws(() => assertDisplayedArticlesConsistent([{ url: "https://missing.test" }], articles), /not mapped/);
 });
