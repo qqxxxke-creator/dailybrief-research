@@ -159,6 +159,12 @@ function includesAny(text: string, keywords: string[]): boolean {
   return keywords.some((keyword) => normalized.includes(keyword.toLocaleLowerCase()));
 }
 
+function passesMedPageDualKeywordGate(article: ArticleInput, source: SourceDef): boolean {
+  if (source.id !== "medpage-today-headlines") return true;
+  const text = itemText(article);
+  return includesAny(text, OBGYN_INCLUDE_KEYWORDS) && includesAny(text, source.keywords ?? []);
+}
+
 export function normalizeContentTitle(title: string): string {
   return title.toLocaleLowerCase().replace(/[^\p{L}\p{N}]+/gu, " ").trim();
 }
@@ -205,6 +211,15 @@ function routeDecision(article: ArticleInput, source: SourceDef): RouteDecision 
     .join("\n");
   const documentType = classifyDocumentType(article);
   const contentType = classifyObgynContentType(article);
+
+  // RSS trial sources are mixed medical feeds: reject research-news items
+  // deterministically before semantic review, even when no contentType exists.
+  if ((source.id === "medical-xpress-obgyn" || source.id === "medpage-today-headlines")
+    && /\b(?:research|study|animal|cell(?:ular)?|in[- ]vitro|mechanism|mice|mouse|rat)\b/i.test(text)
+    && !DYNAMICS_RE.test(text)
+    && !FORMAL_GUIDANCE_RE.test(text)) {
+    return { kind: "reject", reason: "ordinary_research_article" };
+  }
 
   if (article.documentType && GUIDANCE_TYPES.has(article.documentType)) {
     return { kind: "column", category: "tech" };
@@ -356,20 +371,28 @@ export function selectSupplementalObgynArticles(
   sources: SourceDef[] = [],
 ): ArticleInput[] {
   const sourceById = new Map(sources.map((source) => [source.id, source]));
-  const rankedPriority = rankSupplemental(priority, sourceById)
+  const priorityCapped = rankSupplemental(priority, sourceById).filter((article, index, all) => {
+    const sourceLimit = article.sourceId === "medpage-today-headlines" ? 1 : article.sourceId === "medical-xpress-obgyn" ? 3 : maximum;
+    return all.slice(0, index + 1).filter((x) => x.sourceId === article.sourceId).length <= sourceLimit;
+  });
+  const rankedPriority = priorityCapped
     .slice(0, maximum)
     .map(markSecondaryProfessionalContent);
   if (rankedPriority.length >= minimum) return rankedPriority;
 
   const rankedSupplemental = rankSupplemental(supplemental, sourceById);
   const selectedSupplemental: ArticleInput[] = [];
+  const sourceCounts = new Map<string, number>();
   const selectedUrls = new Set<string>();
   const representedColumns = new Set(rankedPriority.map((article) => selectionColumn(article, sourceById)));
 
   for (const article of rankedSupplemental) {
+    const limit = article.sourceId === "medpage-today-headlines" ? 1 : article.sourceId === "medical-xpress-obgyn" ? 3 : maximum;
+    if ((sourceCounts.get(article.sourceId) ?? 0) >= limit) continue;
     const column = selectionColumn(article, sourceById);
     if (representedColumns.has(column)) continue;
     selectedSupplemental.push(article);
+    sourceCounts.set(article.sourceId, (sourceCounts.get(article.sourceId) ?? 0) + 1);
     selectedUrls.add(normalizeContentUrl(article.url));
     representedColumns.add(column);
     if (rankedPriority.length + selectedSupplemental.length >= maximum) break;
@@ -379,7 +402,10 @@ export function selectSupplementalObgynArticles(
     if (rankedPriority.length + selectedSupplemental.length >= maximum) break;
     const url = normalizeContentUrl(article.url);
     if (selectedUrls.has(url)) continue;
+    const limit = article.sourceId === "medpage-today-headlines" ? 1 : article.sourceId === "medical-xpress-obgyn" ? 3 : maximum;
+    if ((sourceCounts.get(article.sourceId) ?? 0) >= limit) continue;
     selectedSupplemental.push(article);
+    sourceCounts.set(article.sourceId, (sourceCounts.get(article.sourceId) ?? 0) + 1);
     selectedUrls.add(url);
   }
 
@@ -457,6 +483,11 @@ export function filterObgynCandidatesWithStats(
     }
     if (includesAny(itemText(article), source.excludeKeywords ?? [])) {
       reject(article, "source_excluded", "sourceExcluded");
+      continue;
+    }
+
+    if (!passesMedPageDualKeywordGate(article, source)) {
+      reject(article, "not_obgyn", "notObgyn");
       continue;
     }
 

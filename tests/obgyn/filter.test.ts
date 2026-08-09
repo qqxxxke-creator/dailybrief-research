@@ -436,7 +436,7 @@ test("configures exact category windows in the source manifest", () => {
       : configuredSource.subcategory === "surgery"
         ? 2160
         : ["international-obgyn", "china-obgyn"].includes(configuredSource.subcategory ?? "")
-          ? 720
+        ? 720
           : undefined;
     assert.equal(configuredSource.lookbackHours, expected, configuredSource.id);
   }

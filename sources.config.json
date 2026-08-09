@@ -394,6 +394,38 @@
     "notes": "Disabled after HTTP 403/Cloudflare verification; no WAF bypass is attempted."
   },
   {
+    "id": "medical-xpress-obgyn",
+    "sourceClass": "professional_vertical",
+    "name": "Medical Xpress Obstetrics & Gynecology",
+    "type": "rss",
+    "url": "https://medicalxpress.com/rss-feed/breaking/obstetrics-gynaecology-news/",
+    "category": "politics",
+    "subcategory": "international-obgyn",
+    "enabled": true,
+    "lang": "en",
+    "locales": ["zh", "en"],
+    "lookbackHours": 720,
+    "keywords": ["obstetric", "gynecolog", "pregnancy", "maternal", "fetal", "placenta", "preeclampsia", "fertility", "ovarian", "cervical", "endometriosis", "guideline", "safety", "practice", "policy", "quality", "expert review"],
+    "excludeKeywords": ["animal", "cell culture", "in vitro", "case report", "advertisement", "sponsored", "patient guide"],
+    "notes": "Official Medical Xpress OB-GYN RSS; restricted to substantive professional updates."
+  },
+  {
+    "id": "medpage-today-headlines",
+    "sourceClass": "professional_vertical",
+    "name": "MedPage Today",
+    "type": "rss",
+    "url": "https://www.medpagetoday.com/rss/headlines.xml",
+    "category": "politics",
+    "subcategory": "international-obgyn",
+    "enabled": true,
+    "lang": "en",
+    "locales": ["zh", "en"],
+    "lookbackHours": 720,
+    "keywords": ["obstetric", "gynecolog", "pregnancy", "maternal", "fetal", "postpartum", "preeclampsia", "placenta", "fertility", "ivf", "ovarian", "cervical", "endometrial", "endometriosis", "adenomyosis", "pelvic floor"],
+    "excludeKeywords": ["animal", "cell culture", "in vitro", "case report", "conference", "meeting", "advertisement", "sponsored", "patient education", "commercial"],
+    "notes": "Restricted trial: dual OB-GYN keyword gate and lower priority than Medical Xpress."
+  },
+  {
     "id": "obgy-cn",
     "sourceClass": "professional_vertical",
     "name": "妇产科网",

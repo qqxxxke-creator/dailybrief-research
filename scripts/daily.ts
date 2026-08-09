@@ -44,8 +44,9 @@ import {
   assertDisplayedArticlesConsistent,
   toDisplayedArticleRecords,
 } from "../lib/sources/guideline-history";
-import { reviewObgynCandidates } from "../lib/ai/enrich";
+import { reviewObgynCandidates, capObgynReviewCandidates } from "../lib/ai/enrich";
 import { enrichObgynDetailMetadata } from "../lib/sources/obgyn-detail-metadata";
+import { getRssDiagnostics } from "../lib/sources/rss";
 
 const OUTPUT_DIR = "daily_reports";
 
@@ -310,6 +311,17 @@ async function main() {
   ).length;
   const prioritySelectedCount = articles.length - supplementalSelectedCount;
   console.log(`[daily] OB-GYN semantic review: passed=${llmAccepted}, rejected=${llmRejected}, total=${llmReviewed}`);
+  for (const sourceId of ["medical-xpress-obgyn", "medpage-today-headlines"]) {
+    const fetchedCount = fetched.filter((item) => item.sourceId === sourceId).length;
+    const deterministic = filtered.articles.filter((item) => item.sourceId === sourceId);
+    const rejectedResearch = filtered.rejections.filter((item) => item.sourceId === sourceId && item.reason === "ordinary_research_article").length;
+    const rejectedMissing = filtered.rejections.filter((item) => item.sourceId === sourceId && item.reason === "missing_excerpt").length;
+    const submitted = capObgynReviewCandidates(deterministic).length;
+    const accepted = (priorityAccepted.concat(supplementalAccepted)).filter((item) => item.sourceId === sourceId).length;
+    const rendered = articles.filter((item) => item.sourceId === sourceId).length;
+    const rss = getRssDiagnostics(sourceId);
+    console.log(`[daily] rss funnel ${sourceId}: rss_items_fetched=${rss.rss_items_fetched}, domain_candidates=${deterministic.length}, rejected_research_news=${rejectedResearch}, rejected_missing_excerpt=${rejectedMissing}, llm_submitted=${submitted}, llm_accepted=${accepted}, final_rendered=${rendered}, fetch_http_403=${rss.fetch_http_403}, fetch_zero_items=${rss.fetch_zero_items}, feed_parse_failure=${rss.feed_parse_failure}`);
+  }
   console.log(`[daily] window selection: priority=${prioritySelectedCount}, supplemental=${supplementalSelectedCount}, final=${articles.length}`);
   console.log(
     `[daily] pipeline stats: fetched_total=${fetched.length}, deterministic_accepted=${filtered.articles.length}, history_rejected_by_url=${historyRejectedByUrl}, history_rejected_by_title=${historyRejectedByTitle}, history_rejected_by_doi=${historyRejectedByDoi}, history_rejected_by_pmid=${historyRejectedByPmid}, semantic_accepted=${llmAccepted}, semantic_rejected=${llmRejected}, priority_selected=${prioritySelectedCount}, supplemental_pool=${supplementalArticles.length}, supplemental_selected=${supplementalSelectedCount}, final_displayed=${articles.length}`,

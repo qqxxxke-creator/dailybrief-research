@@ -107,6 +107,8 @@ test("enables every approved OB-GYN news source from the manifest", () => {
     "gocm-guidelines",
     "gocm-surgery",
     "jmig-articles-in-press",
+    "medical-xpress-obgyn",
+    "medpage-today-headlines",
     "nhc-maternal-child-health",
     "nice-fertility-pregnancy",
     "obgy-cn",
