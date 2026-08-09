@@ -39,6 +39,15 @@ on:
     - cron: '7 * * * *'
     - cron: '37 * * * *'
   workflow_dispatch:
+    inputs:
+      mode:
+        description: "Run mode"
+        required: false
+        default: "daily"
+        type: choice
+        options:
+          - daily
+          - china_sources_smoke
 
 permissions:
   contents: write  # needed to push to gh-pages branch
@@ -48,6 +57,21 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  china-sources-smoke:
+    name: China sources read-only smoke
+    if: ${{ github.event_name == 'workflow_dispatch' && inputs.mode == 'china_sources_smoke' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - name: Read-only source smoke
+        run: npx tsx scripts/china-sources-smoke.ts
+
   gate:
     name: Time gate
     runs-on: ubuntu-latest
@@ -174,7 +198,7 @@ jobs:
   build:
     name: Build & publish
     needs: gate
-    if: needs.gate.outputs.should-run == 'true'
+    if: needs.gate.outputs.should-run == 'true' && inputs.mode != 'china_sources_smoke'
     runs-on: ubuntu-latest
     timeout-minutes: 25
     steps:

@@ -8,7 +8,7 @@ import { normalizeContentUrl } from "./obgyn-filter";
 import { classifyDocumentType, hasSubstantiveContent, isHardExcluded } from "./content-policy";
 import { OBGYN_REQUEST_HEADERS } from "./obgyn-pages";
 
-const TARGET_SOURCE_IDS = new Set(["acog-news", "obgy-cn", "smfm-publications"]);
+const TARGET_SOURCE_IDS = new Set(["acog-news", "obgy-cn", "smfm-publications", "cogonline-clinical-guidance", "obgyncn-professional-content"]);
 const CACHE_FILE = path.resolve("data/obgyn-detail-metadata-cache.json");
 const CACHE_MS = 14 * 24 * 60 * 60 * 1000;
 const EXCLUDED_RE = /\b(?:original|research) article\b|\b(?:systematic|scoping|umbrella) review\b|\bmeta[- ]analysis\b|\bcase (?:report|series)\b|\bprotocol\b|\b(?:randomi[sz]ed|clinical trial|cohort|case-control|cross-sectional)\b/iu;
@@ -37,6 +37,7 @@ export interface ObgynDetailMetadataStats {
   dateEnriched: number;
   excerptEnriched: number;
   typeEnriched: number;
+  perSource: Record<string, { requested: number; cacheHits: number; succeeded: number; failed: number }>;
 }
 
 export interface EnrichObgynDetailMetadataOptions {
@@ -110,7 +111,7 @@ export function extractObgynDetailMetadata(html: string, sourceId?: string): Det
     meta("meta[property='og:description']"),
     meta("meta[name='twitter:description']"),
     meta("meta[name='citation_abstract']"),
-    $(".abstract, .summary, .lead, .standfirst, [class*='abstract'], [class*='summary'], [class*='lead']").first().text(),
+    $(".abstract, .summary, .lead, .standfirst, .articleBody, [class*='abstract'], [class*='summary'], [class*='lead']").first().text(),
     $("article, main").first().text(),
   );
   const contentType = firstString(
@@ -189,7 +190,7 @@ export async function enrichObgynDetailMetadata(
     });
     return { status: response.status, html: await response.text() };
   });
-  const stats: ObgynDetailMetadataStats = { requested: 0, cacheHits: 0, succeeded: 0, failed: 0, dateEnriched: 0, excerptEnriched: 0, typeEnriched: 0 };
+  const stats: ObgynDetailMetadataStats = { requested: 0, cacheHits: 0, succeeded: 0, failed: 0, dateEnriched: 0, excerptEnriched: 0, typeEnriched: 0, perSource: {} };
   const byUrl = new Map<string, DetailMetadata>();
   const candidates = articles.filter(eligible).filter((article) => {
     const key = normalizeContentUrl(article.url);
@@ -211,18 +212,22 @@ export async function enrichObgynDetailMetadata(
       const article = queue.shift();
       if (!article) return;
       const key = normalizeContentUrl(article.url);
+      const sourceStats = stats.perSource[article.sourceId] ??= { requested: 0, cacheHits: 0, succeeded: 0, failed: 0 };
       const cached = cache.get(key);
       if (cached && cached.expiresAt > now.getTime()) {
         stats.cacheHits += 1;
+        sourceStats.cacheHits += 1;
         byUrl.set(key, { publishedAt: validDate(cached.publishedAt), excerpt: cached.excerpt, contentType: cached.contentType, contentTypeEvidence: cached.contentType ? "metadata" : undefined });
         log(`[detail] detail_cache_hit ${article.sourceId}`);
         continue;
       }
       stats.requested += 1;
+      sourceStats.requested += 1;
       log(`[detail] detail_fetch_requested ${article.sourceId}`);
       const response = await fetchWithRetry(article.url, fetchHtml);
       if (response.status !== 200) {
         stats.failed += 1;
+        sourceStats.failed += 1;
         log(`[detail] detail_fetch_failed ${article.sourceId} ${response.status || "network"}`);
         log(`[detail] per_source_failure_reason ${article.sourceId} ${response.status || "network"}`);
         continue;
@@ -230,11 +235,13 @@ export async function enrichObgynDetailMetadata(
       const metadata = extractObgynDetailMetadata(response.html, article.sourceId);
       if (!metadata.publishedAt && !metadata.excerpt && !metadata.contentType) {
         stats.failed += 1;
+        sourceStats.failed += 1;
         log(`[detail] detail_fetch_failed ${article.sourceId} non_article_page`);
         log(`[detail] per_source_failure_reason ${article.sourceId} non_article_page`);
         continue;
       }
       stats.succeeded += 1;
+      sourceStats.succeeded += 1;
       if (!article.publishedAt && metadata.publishedAt) stats.dateEnriched += 1;
       if (!article.publishedAt && metadata.publishedAt) log(`[detail] date_enriched ${article.sourceId}`);
       if (metadata.dateModifiedFound) log(`[detail] date_modified_found ${article.sourceId}`);
