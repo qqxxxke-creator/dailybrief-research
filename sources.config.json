@@ -415,12 +415,12 @@
     "category": "politics",
     "subcategory": "china-obgyn",
     "lookbackHours": 720,
-    "enabled": false,
+    "enabled": true,
     "lang": "zh",
     "locales": ["zh"],
     "keywords": ["指南", "共识", "指南解读", "核心推荐", "临床实践建议", "诊疗规范", "专家述评", "手术技术", "并发症防控"],
     "excludeKeywords": ["会议", "征稿", "报名", "培训", "课程", "直播", "患者科普", "医院宣传", "商业推广", "普通研究"],
-    "notes": "Pending GitHub Actions read-only smoke; remains disabled until stable access and parsing are verified."
+    "notes": "Enabled after two successful GitHub Actions read-only smokes with complete date, excerpt, and content type parsing."
   },
   {
     "id": "obgyncn-professional-content",
