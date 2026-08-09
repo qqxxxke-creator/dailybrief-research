@@ -1,0 +1,265 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-08-09T22:00:52.824Z",
+    "dataAsOf": "2026-08-09T22:00:52.824Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及不明原因不孕的促性腺激素刺激宫腔内人工授精周期中双重触发与仅人绒毛膜促性腺激素触发后的生化妊娠结局：一项回顾性队列研究、辅助褪黑素预防中高危因素女性子痫前期的效果：一项随机临床试验、生育饮食对男性生殖功能的影响：一项针对特发性不育患者的12周随机临床试验。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42571040",
+        "pmid": "42571040",
+        "doi": "10.5144/0256-4947.2026.295",
+        "title": "Biochemical pregnancy outcomes following dual versus human chorionic gonadotropin-only trigger in gonadotropin-stimulated intrauterine insemination cycles for unexplained infertility: a retrospective cohort study.",
+        "abstract": "BACKGROUND: Unexplained infertility remains a diagnostic and therapeutic challenge. Dual trigger, combining gonadotropin-releasing hormone (GnRH) agonist and human chorionic gonadotropin (hCG), has been proposed to more closely mimic the physiological mid-cycle gonadotropin surge than hCG alone in gonadotropin-stimulated intrauterine insemination (IUI) cycles.\nOBJECTIVES: To evaluate whether dual trigger improves biochemical pregnancy outcomes compared with hCG-only trigger in gonadotropin-stimulated IUI cycles.\nDESIGN: Retrospective cohort study.\nSETTINGS: Single-center, tertiary referral center.\nPATIENTS AND METHODS: Between April 2021 and September 2022, 96 patients underwent IUI after ovarian stimulation with gonadotropins (53 hCG-only, 43 dual trigger). Baseline demographic and clinical characteristics included female age (29.5±2.5 vs. 27.2±3.5 years), male age (33.3±4.0 vs. 31.6±3.5 years), body mass index (BMI) (24.0 vs. 25.0 kg/m 2 ), gonadotropin dose (median 675 IU), treatment duration (median 9 days), dominant follicle size (18 mm vs. 17 mm), and endometrial thickness (9 mm vs. 8 mm).\nMAIN OUTCOME MEASURES: Biochemical pregnancy, defined as serum β-hCG ≥5 mIU/mL.\nSAMPLE SIZE: 96 patients (53 hCG-only, 43 dual trigger).\nRESULTS: Biochemical pregnancy occurred in 18.6% of the dual trigger group and 11.3% of the hCG-only group ( P =.315). The odds of biochemical pregnancy were higher with dual trigger but not statistically significant (OR=1.8, 95% CI: 0.6-5.6). Subgroup analysis revealed a significant association between infertility duration and biochemical pregnancy ( P =.04), with 76.9% of conceptions occurring in women with 2-3 years of infertility.\nCONCLUSIONS: Dual trigger did not significantly improve biochemical pregnancy rates compared with hCG-only trigger (OR=1.8, 95% CI: 0.6-5.6). Infertility duration was the only significant predictor of treatment success. Larger multi-center trials are required due to the current study's limited power.\nLIMITATIONS: Retrospective design, single-center setting, and limited sample size may restrict generalizability.",
+        "journal": "Annals of Saudi medicine",
+        "authors": [
+          "Atacem Mert Aytekin",
+          "Cemil Akgül",
+          "Hevra Ekin Ulusoy",
+          "Mehtap Akin Efe",
+          "Ozlem Dural"
+        ],
+        "publicationTypes": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-06T00:00:00.000Z",
+        "activityAt": "2026-08-09T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42571040/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "不明原因不孕的促性腺激素刺激宫腔内人工授精周期中双重触发与仅人绒毛膜促性腺激素触发后的生化妊娠结局：一项回顾性队列研究",
+          "researchQuestion": "在促性腺激素刺激的宫腔内人工授精周期中，双重触发（GnRH激动剂联合hCG）相比仅hCG触发是否能改善不明原因不孕患者的生化妊娠结局。",
+          "studyDesign": "回顾性队列研究，单中心、三级转诊中心。",
+          "populationAndSample": "2021年4月至2022年9月间接受促性腺激素促排后进行宫腔内人工授精的96例不明原因不孕患者，其中仅hCG组53例，双重触发组43例。基线特征包括女性年龄（29.5±2.5岁 vs. 27.2±3.5岁）、男性年龄（33.3±4.0岁 vs. 31.6±3.5岁）、BMI（24.0 vs. 25.0 kg/m²）、促性腺激素剂量（中位数675 IU）、治疗时长（中位数9天）、优势卵泡大小（18 mm vs. 17 mm）和子宫内膜厚度（9 mm vs. 8 mm）。",
+          "methods": "比较双重触发（GnRH激动剂联合hCG）与仅hCG触发生化妊娠率；主要结局为生化妊娠，定义为血清β-hCG≥5 mIU/mL。",
+          "keyResults": "双重触发组生化妊娠率为18.6%，仅hCG组为11.3%（P=0.315）；双重触发生化妊娠的比值比更高但未达统计学显著（OR=1.8，95% CI: 0.6-5.6）。亚组分析显示不孕持续时间与生化妊娠显著相关（P=0.04），76.9%的妊娠发生在不孕2-3年的女性中。",
+          "limitations": "回顾性设计、单中心设置和有限样本量可能限制结果的推广性。",
+          "clinicalInterpretation": "与仅hCG触发相比，双重触发并未显著改善生化妊娠率；不孕持续时间是治疗成功的唯一显著预测因素。作者认为需要更大规模的多中心试验来验证，因为当前研究效能有限。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "a1579b5773d2c5194cd0b889797a45d1d9ef882407157469bf0c3bdd552d0386"
+      },
+      {
+        "id": "pmid:42571057",
+        "pmid": "42571057",
+        "doi": "10.22074/ijfs.2025.2050615.1808",
+        "title": "Effect of Adjuvant Melatonin in Preventing Preeclampsia in Women with Moderate to High-Risk Factor: A Randomised Clinical Trial.",
+        "abstract": "OBJECTIVE: Preeclampsia is a serious disorder characterised by elevated blood pressure and damage to various maternal organs; it is recognised as one of the leading causes of maternal and foetal mortality. This study aims to evaluate the adjunctive effect of melatonin in preventing preeclampsia in women with moderate to high-risk for this disorder.\nMATERIALS AND METHODS: This randomised, triple-blind, controlled clinical trial enrolled pregnant women with moderate to high-risk factor for preeclampsia who visited the clinics at Kashan University of Medical Sciences, Kashan, Iran. Convenience sampling and randomised block allocation provided a sample size of 70 participants per group. The intervention group received 80 mg of aspirin along with 10 mg of melatonin, while the control group received aspirin with a placebo. Data on demographic, obstetric characteristics, and patient outcomes were recorded in relevant checklists. The data were analysed using SPSS version 17.\nRESULTS: There was no significant difference between the intervention and control groups in mean systolic and diastolic blood pressures at admission, hospitalisation, or delivery (P>0.05). Aspirin plus melatonin compared to aspirin plus placebo did not result in a statistically significant difference in delivery outcomes (P=0.453). The incidence of preeclampsia also demonstrated no significant difference between the two groups (P=0.357). Additionally, the mean gestational age was not significantly different between the groups (P=0.572). Regarding neonatal outcomes, no significant difference was observed in Apgar scores at one and five minutes (P>0.05). Similarly, there was no significant difference in mean head circumference, length, and birth weight of the newborns between the groups (P>0.05).\nCONCLUSION: Although melatonin has shown promising results in laboratory studies, these effects were not significantly observed in pregnant women. Further studies are needed to confirm the effects of melatonin in preventing preeclampsia (registration number: IRCT20230930059563N1).",
+        "journal": "International journal of fertility & sterility",
+        "authors": [
+          "Javad Amini Mahabadi",
+          "Marzieh Talebian",
+          "Masoumeh Abedzadeh-Kalahroudi",
+          "Mojgan Alishahi",
+          "Mojtaba Sehat"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-07-27T00:00:00.000Z",
+        "activityAt": "2026-08-09T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42571057/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "辅助褪黑素预防中高危因素女性子痫前期的效果：一项随机临床试验",
+          "researchQuestion": "在具有子痫前期中高危因素的孕妇中，辅助使用褪黑素是否能预防子痫前期的发生。",
+          "studyDesign": "随机、三盲、对照临床试验。",
+          "populationAndSample": "就诊于伊朗卡尚医科大学门诊的具有子痫前期中高危因素的孕妇，通过便利抽样和随机区组分配，每组70名参与者。",
+          "methods": "干预组接受80 mg阿司匹林联合10 mg褪黑素，对照组接受阿司匹林联合安慰剂；记录人口学、产科特征和患者结局，使用SPSS 17版分析。",
+          "keyResults": "干预组与对照组在入院时、住院期间和分娩时的平均收缩压和舒张压无显著差异（P>0.05）；分娩结局无统计学显著差异（P=0.453）；子痫前期发生率无显著差异（P=0.357）；平均孕周无显著差异（P=0.572）；新生儿1分钟和5分钟Apgar评分、平均头围、身长和出生体重均无显著差异（P>0.05）。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "尽管褪黑素在实验室研究中显示出有希望的结果，但在孕妇中未观察到显著效果；需要进一步研究来确认褪黑素预防子痫前期的作用。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "853ebaacff963aff8dfcfad22562f8ae09505cec6bcedcae02caa74915b1def1"
+      },
+      {
+        "id": "pmid:42571062",
+        "pmid": "42571062",
+        "doi": "10.22074/ijfs.2025.2059560.1874",
+        "title": "Impact of A Fertility Diet on Male Reproductive Function: A 12-Week Randomized Clinical Trial in Idiopathic Infertility Patients.",
+        "abstract": "OBJECTIVE: Over the past few decades, a marked decline in human semen quality has been observed, with evidence suggesting that dietary factors may account for 50-60% of this decline. The present randomized clinical trial aimed to evaluate the effects of a fertility diet (FD) on sperm parameters in infertile men.\nMATERIALS AND METHODS: In this randomized clinical trial study, 70 infertile men were randomly assigned to two groups: the intervention group, which followed the FD plan, and the control group, which kept a healthy diet (HD) for 12 weeks. Anthropometric measurements, semen analysis, DNA fragmentation index (DFI), malondialdehyde (MDA) levels, and sex hormone profiles were assessed before and after the intervention. Dietary intake was monitored throughout the study.\nRESULTS: Compared to the HD group, the FD group showed significant improvements in total sperm count (P=0.016), sperm concentration (P=0.003), total motility (P=0.024), progressive motility (P=0.048), and normal morphology (P=0.023). Participants in the FD group showed an increase in the intake of total fat, monounsaturated fatty acids, polyunsaturated fatty acids, omega-3 fatty acids and fiber during the intervention (P<0.05). Additionally, the FD group consumed higher amounts of key fertility-related micronutrients including magnesium, calcium, phosphorous, potassium, zinc, selenium, vitamin C, and lycopene. Notably, a significant reduction in DFI (P=0.010) and MDA (P<0.001) was also observed in the FD group compared to the HD group. No significant differences were found in sex hormone levels or anthropometric parameters between the groups.\nCONCLUSION: These findings suggest the potential of a FD to improve sperm parameters and reduce DFI and oxidative stress. However, further studies with larger sample sizes and longer durations are needed to confirm these effects (registration number: IRCT20230514058181N1).",
+        "journal": "International journal of fertility & sterility",
+        "authors": [
+          "Ahmad Reza Okhovat",
+          "Elaheh Honarkar-Shafie",
+          "Elmira Hosseinzadeh",
+          "Fatemeh Taheri",
+          "Marzieh Mehrafza",
+          "Nasrin Borumandnia",
+          "Rahim Tavakkolnia",
+          "Razieh Goudarzi",
+          "Samaneh Sadat Ashrafi Saadat"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-07-27T00:00:00.000Z",
+        "activityAt": "2026-08-09T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42571062/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "生育饮食对男性生殖功能的影响：一项针对特发性不育患者的12周随机临床试验",
+          "researchQuestion": "评估生育饮食（FD）对不育男性精子参数的影响。",
+          "studyDesign": "随机临床试验。",
+          "populationAndSample": "70名不育男性，随机分为干预组（遵循生育饮食计划）和对照组（保持健康饮食），干预12周。",
+          "methods": "在干预前后评估人体测量学指标、精液分析、DNA碎片指数（DFI）、丙二醛（MDA）水平和性激素谱；整个研究期间监测膳食摄入。",
+          "keyResults": "与健康饮食组相比，生育饮食组在总精子数（P=0.016）、精子浓度（P=0.003）、总活力（P=0.024）、前向运动（P=0.048）和正常形态（P=0.023）方面表现出显著改善；生育饮食组总脂肪、单不饱和脂肪酸、多不饱和脂肪酸、omega-3脂肪酸和纤维摄入增加（P<0.05），并摄入更多关键生育相关微量营养素（镁、钙、磷、钾、锌、硒、维生素C和番茄红素）；DFI显著降低（P=0.010），MDA显著降低（P<0.001）；两组间性激素水平和人体测量学参数无显著差异。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "生育饮食可能改善精子参数并降低DNA碎片指数和氧化应激；作者指出需要更大样本量和更长时间的研究来确认这些效果。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "ba7aa3fafe27b4d7b2f8c8ddeffed5ed30fff428a7cce5e2145e772417e70cde"
+      },
+      {
+        "id": "pmid:42571292",
+        "pmid": "42571292",
+        "doi": "10.1016/j.eurox.2026.100477",
+        "title": "Integration of angiogenic pathway-related proteomics and clinical features via ensemble learning for precision risk stratification of early-onset preeclampsia.",
+        "abstract": "BACKGROUND: Early-onset preeclampsia (EOPE) is a severe pregnancy complication associated with significant maternal and neonatal morbidity. Although the imbalance of angiogenic factors is known to play a critical role in its pathogenesis, traditional single-marker assays often lack the precision required for individualized risk stratification. This study aimed to develop a precision risk stratification framework for EOPE by integrating angiogenic pathway-related proteomics with clinical features using an ensemble learning approach.\nMETHODS: A prospective case-control study was conducted involving 240 pregnant women (120 EOPE and 120 healthy controls). Plasma concentrations of 15 angiogenic pathway proteins were quantified. A robust feature selection strategy combining LASSO regression and the Boruta algorithm identified five key biomarkers: sFlt-1, PlGF, Endoglin, VEGF-A, and P-selectin. An ensemble learning model was constructed using a Stacking strategy (incorporating Random Forest, XGBoost, and LightGBM) to integrate these proteomic markers with clinical metadata (BMI and Mean Arterial Pressure). Model interpretability was addressed using SHAP (SHapley Additive exPlanations) analysis.\nRESULTS: The ensemble model demonstrated superior predictive performance, achieving an Area Under the Curve (AUC) of 0.95 (95% CI: 0.92-0.98) in the validation cohort, significantly outperforming the traditional sFlt-1/PlGF ratio (AUC = 0.82). SHAP analysis identified the sFlt-1/PlGF ratio and Endoglin as the top contributors, revealing complex non-linear interactions between circulating biomarkers and maternal hemodynamics. Based on the model scores, participants were successfully stratified into high, moderate, and low-risk tiers. The high-risk group exhibited a 4.2-fold increase in the incidence of adverse maternal and fetal outcomes compared to the low-risk group.\nCONCLUSION: The integration of angiogenic proteomics and clinical features via ensemble learning provides a high-performance and interpretable tool for the precision risk stratification of EOPE. This multi-dimensional approach facilitates early identification of high-risk individuals, potentially enabling more targeted clinical interventions and improved obstetric outcomes.",
+        "journal": "European journal of obstetrics & gynecology and reproductive biology: X",
+        "authors": [
+          "Huan Yang",
+          "Hui Guo",
+          "Jing Ma",
+          "Lei Sun",
+          "Li Shi"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-07-14T00:00:00.000Z",
+        "activityAt": "2026-08-09T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42571292/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "基于集成学习的血管生成通路相关蛋白质组学与临床特征整合用于早发型子痫前期的精准风险分层",
+          "researchQuestion": "通过整合血管生成通路相关蛋白质组学和临床特征，利用集成学习方法建立早发型子痫前期（EOPE）的精准风险分层框架。",
+          "studyDesign": "前瞻性病例对照研究。",
+          "populationAndSample": "240名孕妇，包括120例早发型子痫前期和120例健康对照。",
+          "methods": "定量检测15种血管生成通路蛋白的血浆浓度；结合LASSO回归和Boruta算法进行特征选择，确定sFlt-1、PlGF、Endoglin、VEGF-A和P-selectin五个关键生物标志物；使用Stacking策略（包含随机森林、XGBoost和LightGBM）构建集成学习模型，整合蛋白标志物与临床元数据（BMI和平均动脉压）；使用SHAP分析进行模型可解释性。",
+          "keyResults": "集成模型在验证队列中AUC为0.95（95% CI: 0.92-0.98），显著优于传统sFlt-1/PlGF比值（AUC=0.82）。SHAP分析显示sFlt-1/PlGF比值和Endoglin是最大贡献因素，揭示循环生物标志物与母体血流动力学之间存在复杂的非线性相互作用。基于模型评分将参与者分为高、中、低风险层，高风险组不良母胎结局发生率是低风险组的4.2倍。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "集成血管生成蛋白质组学与临床特征可提供高性能且可解释的早发型子痫前期精准风险分层工具，可能有助于早期识别高危个体并支持更精准的临床干预。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "71426d71895218ea5c063d1baec0b2397f30d9bd0cbe18f46ce64e5cd2538ada"
+      },
+      {
+        "id": "pmid:42571316",
+        "pmid": "42571316",
+        "doi": "10.2147/ijwh.s601516",
+        "title": "Identification and Validation of a Four-Gene Signature as a Novel Potential Diagnostic Biomarker Panel for Endometriosis: Causal and Mechanistic Insights from Mendelian Randomization and Bioinformatics.",
+        "abstract": "BACKGROUND: Endometriosis (EMS) is an estrogen-dependent disease that can lead to chronic pain and infertility. Small ubiquitin-related modifier (SUMO)ylation, a key post-translational modification, has been demonstrated to be associated with endometrial dysfunction, but its role in EMS remains unclear. This study aims to identify SUMOylation-related genes as potential biomarkers for EMS utilizing bioinformatics approaches.\nMETHODS: The GSE51981, GSE7305, and GSE214411 datasets and 194 SUMOylation-related genes were assessed. The differential expression analysis and weighted gene co-expression network analysis were performed to identify candidate genes associated with EMS and SUMOylation. Subsequently, the univariable and multivariable Mendelian randomization analyses were used to investigate causal relationships. The receiver operating characteristic curve and nomogram were constructed for assessing the performance of candidate genes. Furthermore, the biological roles of candidate biomarkers were evaluated through gene set enrichment analysis. Additionally, immune infiltration levels were analyzed and pseudo-time trajectory analysis was conducted to assess cell differentiation dynamics.\nRESULTS: CRYZ, FRMD4B, FZD6, and TPST1 were identified as biomarkers associated with SUMOylation in EMS, all with area under the curve values above 0.75, suggesting good diagnostic performance. The constructed nomogram, which incorporated these biomarkers, demonstrated exceptional predictive capabilities for EMS risk. Furthermore, these biomarkers functioned through common enriched pathways, including the cell cycle, neuroactive ligand-receptor interaction, and ubiquitin-mediated proteolysis. Notably, immune cell analysis revealed significant infiltration of regulatory T cells and memory B cells in EMS. Pseudo-time trajectory analysis indicated that epithelial cells displayed distinct expression patterns for the biomarkers across five differentiation stages.\nCONCLUSION: This study identifies CRYZ, FRMD4B, FZD6, and TPST1 as potential diagnostic and therapeutic targets associated with SUMOylation in EMS. These findings provide potential clinical insights for the non-invasive detection and risk stratification of EMS, which might help improve the efficiency of early diagnosis and the development of personalized treatment strategies.",
+        "journal": "International journal of women's health",
+        "authors": [
+          "Haiyan Wang",
+          "Jiantao Fu",
+          "Jie Wang",
+          "Jing Zhang",
+          "Qiu Meng",
+          "Shouguo Huang",
+          "Xingrun Xie"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-03T00:00:00.000Z",
+        "activityAt": "2026-08-09T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42571316/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology",
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "四基因特征作为子宫内膜异位症新型潜在诊断生物标志物组的鉴定与验证：来自孟德尔随机化和生物信息学的因果及机制见解",
+          "researchQuestion": "利用生物信息学方法鉴定与SUMO化修饰相关的子宫内膜异位症（EMS）潜在生物标志物，并评估其诊断价值和机制作用。",
+          "studyDesign": "基于公共数据集的生物信息学分析，结合孟德尔随机化、差异表达分析、加权基因共表达网络分析、ROC曲线、列线图、基因集富集分析、免疫浸润分析和拟时间轨迹分析。",
+          "populationAndSample": "使用GSE51981、GSE7305和GSE214411数据集，以及194个SUMO化相关基因。",
+          "methods": "进行差异表达分析和加权基因共表达网络分析以鉴定与EMS和SUMO化相关的候选基因；使用单变量和多变量孟德尔随机化分析因果关联；构建ROC曲线和列线图评估候选基因性能；通过基因集富集分析评估生物学作用；分析免疫浸润水平并进行拟时间轨迹分析评估细胞分化动态。",
+          "keyResults": "CRYZ、FRMD4B、FZD6和TPST1被鉴定为EMS中与SUMO化相关的生物标志物，AUC均大于0.75，提示诊断性能良好。纳入这些生物标志物的列线图显示出对EMS风险的优异预测能力。这些生物标志物通过共同富集通路发挥作用，包括细胞周期、神经活性配体-受体相互作用和泛素介导的蛋白水解。免疫细胞分析显示EMS中调节性T细胞和记忆B细胞显著浸润。拟时间轨迹分析显示上皮细胞在五个分化阶段中具有不同的生物标志物表达模式。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "CRYZ、FRMD4B、FZD6和TPST1可能成为与子宫内膜异位症SUMO化相关的潜在诊断和治疗靶点，为EMS的无创检测和风险分层提供潜在的临床见解，可能有助于提高早期诊断效率和个体化治疗策略的开发。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "d8ea610046e3e202e525deef20cd825b2d4a24a6644060409b7b93b5161e7a41"
+      }
+    ]
+  }
+}
