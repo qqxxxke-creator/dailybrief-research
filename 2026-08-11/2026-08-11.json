@@ -1,0 +1,298 @@
+{
+  "hero_headline": "中国专家共识发布：子宫内膜癌类器官标准化建立与临床转化迎来规范化路径",
+  "daily_overview": "今日要点聚焦妇科肿瘤前沿：子宫内膜癌类器官专家共识发布，为药物敏感性测试与个体化治疗提供标准化框架，推动研究向临床转化。",
+  "tech_briefs": [
+    {
+      "title": "GOCM专栏丨BMJ Journals中国专家共识：子宫内膜癌类器官——从标准化建立到临床转化",
+      "url": "https://www.cogonline.com/info/134308238309747500",
+      "source": "妇产科在线·临床指南",
+      "summary": "中华医学会研究型医院学会妇产科学专委会发布子宫内膜癌类器官共识，涵盖标准化建立、生物样本库构建及临床转化。共识针对类器官应用缺乏规范问题提供指导，有望推动药物敏感性测试与个体化治疗。原文摘要未说明与既往建议的差异。",
+      "importance": 8
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "类器官共识填补标准化空白，但落地临床仍需验证。关注后续转化与质控细节。",
+  "keywords": [
+    "子宫内膜癌",
+    "类器官",
+    "专家共识",
+    "个体化治疗",
+    "药物敏感性测试",
+    "临床转化"
+  ],
+  "research": {
+    "generatedAt": "2026-08-10T22:21:57.346Z",
+    "dataAsOf": "2026-08-10T22:21:57.346Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及超越占位效应：将子宫内膜瘤大小和双侧性与卵巢储备耗竭解耦、孕前1小时血糖作为PMOS/PCOS女性行IVF治疗时妊娠期糖尿病风险的早期指标：一项多中心队列研究、卵巢癌分子生物标志物与液体活检技术的当前进展。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42571844",
+        "pmid": "42571844",
+        "doi": "10.1016/j.jmig.2026.08.003",
+        "title": "Beyond the Mass Effect: Decoupling Endometrioma Size and Bilaterality from Ovarian Reserve Depletion.",
+        "abstract": "Ovarian endometriomas are commonly assessed according to cyst size and laterality, anatomical features that have long been regarded as indicators of disease severity and potential ovarian compromise. Consequently, these characteristics have influenced decisions regarding surveillance, fertility preservation, and surgical management. The traditional \"mass effect\" concept proposes that increasing cyst size and bilaterality are associated with progressively greater ovarian damage and depletion of ovarian reserve. However, accumulating clinical evidence suggests this relationship is more complex than previously appreciated. Recent studies and meta-analyses have failed to demonstrate consistent dose-response relationships between cyst diameter, bilaterality, and baseline ovarian reserve markers, indicating that these anatomical characteristics may not reliably reflect the biological extent of ovarian injury. By comparison, the association between surgical treatment and postoperative reduction in ovarian reserve has been more consistently demonstrated, highlighting the importance of distinguishing disease-related from treatment-related effects. These observations raise important questions regarding the mechanisms responsible for ovarian dysfunction in women with endometriomas. Experimental and histopathological studies implicate inflammation, oxidative stress, fibrosis, altered vascularization, iron-mediated toxicity, and micro-environmental remodeling as potential contributors to ovarian injury. Nevertheless, the available mechanistic evidence remains heterogeneous and is largely based on surrogate biological markers whose clinical relevance has yet to be established. We propose an integrated conceptual framework that interprets anatomical characteristics alongside the biological processes underlying ovarian injury to improve understanding of endometrioma-associated ovarian dysfunction and to support more individualized clinical decision-making. Future research should focus on identifying clinically meaningful biomarkers of ovarian micro-environmental damage and establishing their relationship with ovarian reserve, reproductive outcomes, and response to treatment. Until these mechanisms are better defined, management should integrate symptoms, reproductive goals, ovarian reserve assessment, and the anticipated benefits and risks of intervention rather than relying on cyst morphology alone.",
+        "journal": "Journal of minimally invasive gynecology",
+        "authors": [
+          "Edgardo Somigliana",
+          "Johnny S Younis",
+          "Johnny S. Younis, Edgardo Somigliana"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-09T00:00:00.000Z",
+        "activityAt": "2026-08-10T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42571844/",
+        "sourceKinds": [
+          "journal-rss",
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "超越占位效应：将子宫内膜瘤大小和双侧性与卵巢储备耗竭解耦",
+          "researchQuestion": "探讨卵巢子宫内膜瘤的囊肿大小和双侧性等解剖特征是否与卵巢储备耗竭相关，并质疑传统“占位效应”概念。",
+          "studyDesign": "观点性文章/叙述性综述（摘要未报告具体研究设计）",
+          "populationAndSample": "不适用（观点/综述性文章）；摘要未报告具体样本。",
+          "methods": "摘要未报告系统检索或分析方法；作者基于近期研究、荟萃分析及实验/组织病理学研究提出整合概念框架。",
+          "keyResults": "摘要未报告具体数值结果。传统“占位效应”概念认为囊肿增大和双侧性与卵巢损伤和储备耗竭递增相关，但近期研究和荟萃分析未显示囊肿直径、双侧性与基线卵巢储备标志物之间一致的剂量-反应关系；手术与术后卵巢储备下降的关联则更一致。机制证据涉及炎症、氧化应激、纤维化、血管改变、铁介导毒性和微环境重塑，但证据异质且多为替代标志物。",
+          "limitations": "现有机制证据异质性高，且多基于临床相关性尚未确立的替代生物标志物；摘要未报告其他局限性。",
+          "clinicalInterpretation": "作者提出应结合解剖特征与卵巢损伤的生物学过程进行综合理解，临床管理应整合症状、生殖目标、卵巢储备评估和干预的预期获益/风险，而非仅依据囊肿形态；属观点性建议，非临床指南或共识。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "3c7acaf2a86213bce019b8084f8e9b9e00a3b7c9f2790bbf80bd50d64491d8a3"
+      },
+      {
+        "id": "pmid:42571879",
+        "pmid": "42571879",
+        "doi": "10.1093/humrep/deag119",
+        "title": "Preconception 1-hour blood glucose as an early indicator of gestational diabetes mellitus risk in PMOS/PCOS women undergoing IVF treatment: a multi-centre cohort study.",
+        "abstract": "STUDY QUESTION: Is the preconception 1-h plasma glucose level during the oral glucose tolerance test (OGTT) more strongly associated with subsequent gestational diabetes mellitus than the fasting or 2-h glucose levels in women with PMOS/PCOS undergoing IVF treatment?\nSUMMARY ANSWER: Preconception 1-h plasma glucose showed a stronger and more consistent association with gestational diabetes mellitus than the fasting or 2-h glucose levels in women with PMOS/PCOS undergoing IVF treatment.\nWHAT IS KNOWN ALREADY: Women with PMOS/PCOS have an increased risk of gestational diabetes mellitus. International guidelines recommend a preconception OGTT in women with PMOS/PCOS without pre-existing diabetes because of the risk of hyperglycaemia and pregnancy complications. However, the comparative predictive value of different preconception OGTT time points, particularly 1-h glucose, remains unclear.\nSTUDY DESIGN, SIZE, DURATION: This was a multi-centre retrospective cohort study including 2571 women with PMOS/PCOS who underwent their first IVF treatment at three reproductive medicine centres in China and had a preconception 75-g OGTT between March 2018 and December 2023.\nPARTICIPANTS/MATERIALS, SETTING, METHODS: Women with PMOS/PCOS who completed a preconception 75-g OGTT before initiation of the IVF treatment were included. The primary outcome was GDM diagnosed at 24-28 weeks of gestation. Generalized linear mixed-effects models were used to assess associations between OGTT glucose levels and GDM, adjusting for age, BMI, infertility duration, hormonal profiles, and treatment protocols. Stratified analyses by BMI and PMOS/PCOS phenotype were conducted, and multiple imputation was applied for missing data.\nMAIN RESULTS AND THE ROLE OF CHANCE: Preconception fasting (aOR 1.97 [1.49-2.61]), 1-h (aOR 1.23 [1.13-1.34]) and 2-h glucose (aOR 1.30 [1.17-1.45]) were all significantly associated with GDM (all P < 0.001). Within the diabetic range, only the 1-h glucose measurement of ≥11.6 mmol/l remained a significant indicator. The association of 1-h glucose with GDM was significant in normal-weight and obese women but not in overweight women. The associations were consistent across PMOS/PCOS phenotypes.\nLIMITATIONS, REASONS FOR CAUTION: The retrospective design may have introduced residual confounding and limits causal inference. Missing data required imputation, and subgroup analyses may have limited statistical power.\nWIDER IMPLICATIONS OF THE FINDINGS: These findings suggest that preconception 1-h glucose may provide additional value for identifying women who are a higher risk of GDM among normal-weight and obese women with PMOS/PCOS undergoing IVF treatment, and support its consideration in preconception metabolic assessments.\nFUNDING: This work was supported by the National Natural Science Foundation of China (82522038, 82471670 and 82401908), the Natural Science Foundation of Fujian Province (2025J011428), and the \"Yongjiang Science and Technology Innovation 2035\" Key Research and Development Program (2025Z151).\nDISCLOSURES: The authors declared no competing interests.\nTRIAL REGISTRATION NUMBER: N/A.",
+        "journal": "Human reproduction (Oxford, England)",
+        "authors": [
+          "Guiquan Wang",
+          "Haijie Gao",
+          "Haiping Dai",
+          "Haiyan Yang",
+          "Juanzi Shi",
+          "Liangshan Mu",
+          "Liming Zhou",
+          "Lin Wang",
+          "Liying He",
+          "Lulu Xie",
+          "Luping Xin",
+          "Peiyu Wang",
+          "Ping Li",
+          "Wanyi Xie",
+          "Xi Dong",
+          "Xiaohua Gong",
+          "Xiaoling Liang",
+          "Xiaowei Ji",
+          "Yi Chen",
+          "Zimiao Chen",
+          "Ziyin Ding"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-09T00:00:00.000Z",
+        "activityAt": "2026-08-10T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42571879/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine",
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "孕前1小时血糖作为PMOS/PCOS女性行IVF治疗时妊娠期糖尿病风险的早期指标：一项多中心队列研究",
+          "researchQuestion": "在PMOS/PCOS女性接受IVF治疗时，孕前口服葡萄糖耐量试验（OGTT）1小时血浆血糖水平是否比空腹或2小时血糖水平与后续妊娠期糖尿病的关联更强？",
+          "studyDesign": "多中心回顾性队列研究",
+          "populationAndSample": "2571名PMOS/PCOS女性，接受首次IVF治疗，于2018年3月至2023年12月在中国三家生殖医学中心完成孕前75g OGTT。",
+          "methods": "广义线性混合效应模型评估OGTT血糖水平与GDM的关联，调整年龄、BMI、不孕持续时间、激素谱和治疗方案；按BMI和PMOS/PCOS表型进行分层分析；对缺失数据应用多重插补。主要结局为妊娠24–28周诊断的GDM。",
+          "keyResults": "孕前空腹血糖（aOR 1.97 [1.49-2.61]）、1小时血糖（aOR 1.23 [1.13-1.34]）和2小时血糖（aOR 1.30 [1.17-1.45]）均与GDM显著相关（均P<0.001）。在糖尿病范围内，仅1小时血糖≥11.6 mmol/l仍为显著指标。1小时血糖与GDM的关联在正常体重和肥胖女性中显著，但在超重女性中不显著；各PMOS/PCOS表型间关联一致。",
+          "limitations": "回顾性设计可能引入残余混杂并限制因果推断；缺失数据需要插补；亚组分析统计功效可能有限。",
+          "clinicalInterpretation": "孕前1小时血糖可能为正常体重和肥胖的PMOS/PCOS接受IVF的女性提供额外的GDM高风险识别价值，并支持在孕前代谢评估中加以考虑；但本研究为回顾性队列，不能推断因果关系。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "692824428930ee888819afad7c01d56f872ec69629ee1101c013da9ad75bf0b4"
+      },
+      {
+        "id": "pmid:42572185",
+        "pmid": "42572185",
+        "doi": "10.1002/cam4.72057",
+        "title": "Current Advances of Molecular Biomarkers and Liquid Biopsies Techniques in Ovarian Cancer.",
+        "abstract": "Ovarian cancer (OC) remains a lethal gynecological malignancy with challenges in early diagnosis, treatment monitoring, and overcoming drug resistance. Liquid biopsy, a noninvasive approach analyzing tumor-derived components in bodily fluids, has emerged as a promising tool in OC management. This review summarizes advances in liquid biopsy technologies, focusing on circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs). ctDNA enables minimally invasive assessment for diagnosis, prognosis, treatment guidance (e.g., BRCA1/2-targeted therapy), minimal residual disease (MRD) detection, and monitoring of tumor evolution. CTCs, particularly clusters, provide insights into metastasis and therapeutic response. Emerging modalities such as tumor-educated platelets (TEPs), circular RNAs (circRNAs), and exosomes and protease activity-based liquid biopsy also show diagnostic and prognostic potential. Despite technical challenges like standardization and sensitivity, liquid biopsy holds significant promise for personalized OC care, with ongoing efforts to translate these technologies into clinical practice.",
+        "journal": "Cancer medicine",
+        "authors": [
+          "Hongkai Shang",
+          "Huan Shi",
+          "Jie Yu",
+          "Jingxia Zhang",
+          "Qiaoping Xu",
+          "Weiyan Shan"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-08-01T00:00:00.000Z",
+        "activityAt": "2026-08-10T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42572185/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "卵巢癌分子生物标志物与液体活检技术的当前进展",
+          "researchQuestion": "总结液体活检技术在卵巢癌诊断、治疗监测和耐药管理等临床管理中的研究进展。",
+          "studyDesign": "综述",
+          "populationAndSample": "不适用（综述）；摘要未报告具体患者样本。",
+          "methods": "叙述性综述，聚焦循环肿瘤DNA（ctDNA）和循环肿瘤细胞（CTC），并涉及肿瘤教育血小板（TEPs）、环状RNA（circRNAs）、外泌体和基于蛋白酶活性的液体活检。",
+          "keyResults": "ctDNA可实现对诊断、预后、治疗指导（如BRCA1/2靶向治疗）、微小残留病（MRD）检测和肿瘤演变监测的微创评估；CTC（尤其是细胞簇）提供对转移和治疗反应的见解；肿瘤教育血小板（TEPs）、环状RNA（circRNAs）、外泌体和基于蛋白酶活性的液体活检也显示出诊断和预后潜力。",
+          "limitations": "技术挑战包括标准化和灵敏度；摘要未报告其他局限性。",
+          "clinicalInterpretation": "液体活检在卵巢癌个体化管理中具有显著前景，目前仍在努力将其转化为临床实践；属综述观点，非临床建议。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "95044162fcbf3c8b18f391a180a58851df85b209afd7ea09405cc1c0a90f2faa"
+      },
+      {
+        "id": "pmid:42572293",
+        "pmid": "42572293",
+        "doi": "10.5692/clinicalneurol.cn-002272",
+        "title": "[Cervical cancer metastasis to the lumbosacral spinal root: a case report].",
+        "abstract": "A 67-year-old woman underwent total hysterectomy for cervical cancer followed by chemotherapy, achieving partial remission. Post-treatment, lymph node metastases to the left obturator region remained decreased in size compared with pre-treatment. Nine months prior to the last chemotherapy, she developed abnormal sensations and muscle weakness in her left lower limb. Nerve conduction studies revealed axonal damage in the left tibial, peroneal, and sural nerves. Pelvic CT and lumbar MRI showed continuous contrast enhancement and enlargement of the left L5, S1, and S2 nerve roots originating from the left lumbosacral plexus. We considered this to be metastasis from the lumbosacral plexus near the lymph node metastasis site of cervical cancer to the lumbosacral nerve roots. When multiple peripheral nerves in the lumbosacral region are involved in patients with cervical cancer, the possibility of direct tumor infiltration into the adjacent nerve plexus followed by progression along axons to the nerve roots must be considered, even when the primary tumor is controlled.",
+        "journal": "Rinsho shinkeigaku = Clinical neurology",
+        "authors": [
+          "Chizuko Sugita",
+          "Satoe Fujiwara",
+          "Shigeki Arawaka",
+          "Takafumi Hosokawa",
+          "Yoshitsugu Nakamura",
+          "Yukiyo Yoshimoto"
+        ],
+        "publicationTypes": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-07T00:00:00.000Z",
+        "activityAt": "2026-08-10T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42572293/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "宫颈癌转移至腰骶神经根：一例病例报告",
+          "researchQuestion": "报告一例宫颈癌治疗后腰骶神经根转移的临床表现和影像学特征。",
+          "studyDesign": "病例报告",
+          "populationAndSample": "67岁女性，因宫颈癌行全子宫切除术并接受化疗，达到部分缓解。",
+          "methods": "神经传导研究、盆腔CT和腰椎MRI等检查。",
+          "keyResults": "神经传导研究显示左侧胫神经、腓神经和腓肠神经轴索损伤；盆腔CT和腰椎MRI显示自左侧腰骶丛延伸的左侧L5、S1和S2神经根连续强化和增大，考虑为宫颈癌淋巴结转移部位邻近的腰骶丛转移至腰骶神经根。",
+          "limitations": "摘要未报告局限性。",
+          "clinicalInterpretation": "当宫颈癌患者出现腰骶区多根外周神经受累时，即使原发肿瘤已控制，也需考虑肿瘤直接浸润邻近神经丛并沿轴突向神经根进展的可能性；属病例报告提示，非普遍结论。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "eba9912b2eb625999f3928714327f01cc3837677ee748468ca9b43763f0f95b9"
+      },
+      {
+        "id": "pmid:42572375",
+        "pmid": "42572375",
+        "doi": "10.1111/jog.70437",
+        "title": "Reproductive and Perinatal Outcomes After Trachelectomy: Vaginal Microbiota and Early Preterm Birth.",
+        "abstract": "OBJECTIVE: To evaluate reproductive and perinatal outcomes in patients who underwent trachelectomy for early-stage cervical cancer, focusing on predictors of pregnancy achievement and early preterm birth.\nMETHODS: This retrospective cohort study included 37 patients who underwent trachelectomy between January 2010 and February 2025, with perinatal follow-up and delivery management at Kyoto University Hospital. Reproductive outcomes were analyzed in 20 patients who desired pregnancy and received infertility treatment. Perinatal outcomes were assessed in 17 deliveries, comparing 22-33 weeks and ≥ 34 weeks. Clinical variables were compared between groups using the Mann-Whitney U test and Fisher's exact test.\nRESULTS: Among patients who underwent infertility treatment, 15 (75.0%) achieved at least one clinical pregnancy and 12 (60.0%) achieved live birth. Higher gravida at treatment initiation was significantly associated with pregnancy achievement. Among 17 deliveries, 7 occurred between 22 and 33 weeks and 10 at ≥ 34 weeks. Cervical length before pregnancy and at 22 weeks of gestation did not differ between groups. In contrast, the Nugent score was significantly higher in the 22-33-week group (p = 0.0414), and preterm premature rupture of membranes occurred in all pregnancies in this group versus 40% in the ≥ 34-week group (p = 0.0108).\nCONCLUSIONS: Vaginal microbiota imbalance was significantly associated with early preterm birth after trachelectomy. These findings suggest that ascending infection due to impaired cervical barrier function may contribute to this risk. Prospective studies incorporating longitudinal microbiota profiling and targeted intervention are warranted.",
+        "journal": "The journal of obstetrics and gynaecology research",
+        "authors": [
+          "Akihito Horie",
+          "Asami Ikeda",
+          "Asuka Okunomiya",
+          "Haruko Okamoto",
+          "Haruta Mogami",
+          "Hiromi Takemura",
+          "Mana Taki",
+          "Masaki Mandai",
+          "Yoshitsugu Chigusa"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-01T00:00:00.000Z",
+        "activityAt": "2026-08-10T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42572375/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine",
+          "gynecologic-oncology",
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "子宫颈切除术后的生殖和围产期结局：阴道微生物群与早期早产",
+          "researchQuestion": "评估早期宫颈癌行子宫颈切除术后患者的生殖和围产期结局，重点关注妊娠达成和早期早产的预测因素。",
+          "studyDesign": "回顾性队列研究",
+          "populationAndSample": "2010年1月至2025年2月在京都大学医院行子宫颈切除术并有围产期随访和分娩管理的37例患者；其中20例有生育意愿并接受不孕治疗者纳入生殖结局分析，17例分娩纳入围产期结局分析。",
+          "methods": "比较22–33周分娩组与≥34周分娩组的临床变量；使用Mann-Whitney U检验和Fisher精确检验。主要关注妊娠达成和早期早产的预测因素（摘要未报告其他方法细节）。",
+          "keyResults": "接受不孕治疗的患者中，15例（75.0%）获得至少一次临床妊娠，12例（60.0%）获得活产；治疗开始时较高的孕次与妊娠达成显著相关（效应量摘要未报告）。17例分娩中，7例发生在22–33周，10例发生在≥34周。妊娠前和妊娠22周宫颈长度在两组间无差异。22–33周组的Nugent评分显著更高（p=0.0414）；22–33周组所有妊娠均发生未足月胎膜早破，而≥34周组为40%（p=0.0108）。",
+          "limitations": "摘要未报告局限性。",
+          "clinicalInterpretation": "阴道微生物群失衡与子宫颈切除术后早期早产显著相关，提示宫颈屏障功能受损导致的上行感染可能促成此风险；但需前瞻性研究（含纵向微生物群分析和靶向干预）验证，不可据此制定临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "e19ab70a18b275a665506b8f7799702ebc9faafb30597637bab6adb603e791ae"
+      }
+    ]
+  }
+}
