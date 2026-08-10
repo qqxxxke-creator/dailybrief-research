@@ -1,29 +1,30 @@
 {
-  "hero_headline": "中国专家共识发布：子宫内膜癌类器官标准化建立与临床转化迎来规范化路径",
-  "daily_overview": "今日要点聚焦妇科肿瘤前沿：子宫内膜癌类器官专家共识发布，为药物敏感性测试与个体化治疗提供标准化框架，推动研究向临床转化。",
+  "hero_headline": "中国专家共识发布：子宫内膜癌类器官从标准化建立走向临床转化",
+  "daily_overview": "今日妇产科要闻聚焦子宫内膜癌类器官领域。中华医学会研究型医院学会妇产科学专业委员会在 BMJ Journals 发表中国专家共识，围绕标准化建立、生物样本库及临床转化提出方向，为精准治疗提供新平台。",
   "tech_briefs": [
     {
       "title": "GOCM专栏丨BMJ Journals中国专家共识：子宫内膜癌类器官——从标准化建立到临床转化",
       "url": "https://www.cogonline.com/info/134308238309747500",
       "source": "妇产科在线·临床指南",
-      "summary": "中华医学会研究型医院学会妇产科学专委会发布子宫内膜癌类器官共识，涵盖标准化建立、生物样本库构建及临床转化。共识针对类器官应用缺乏规范问题提供指导，有望推动药物敏感性测试与个体化治疗。原文摘要未说明与既往建议的差异。",
+      "summary": "中华医学会研究型医院学会妇产科学专业委员会在 BMJ Journals 发布子宫内膜癌类器官中国专家共识，旨在解决类器官标准化建立、生物样本库构建及临床转化缺乏共识的问题，为药物敏感性测试和个体化治疗提供平台。原文摘要未说明与既往建议的差异。",
       "importance": 8
     }
   ],
   "finance_briefs": [],
   "politics_briefs": [],
-  "editor_note": "类器官共识填补标准化空白，但落地临床仍需验证。关注后续转化与质控细节。",
+  "editor_note": "子宫内膜癌类器官共识填补标准化空白，精准治疗转化前景可期，期待更多临床落地验证。",
   "keywords": [
     "子宫内膜癌",
     "类器官",
     "专家共识",
-    "个体化治疗",
-    "药物敏感性测试",
-    "临床转化"
+    "精准治疗",
+    "临床转化",
+    "生物样本库",
+    "药物敏感性测试"
   ],
   "research": {
-    "generatedAt": "2026-08-10T22:21:57.346Z",
-    "dataAsOf": "2026-08-10T22:21:57.346Z",
+    "generatedAt": "2026-08-10T23:09:10.828Z",
+    "dataAsOf": "2026-08-10T23:09:10.828Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及超越占位效应：将子宫内膜瘤大小和双侧性与卵巢储备耗竭解耦、孕前1小时血糖作为PMOS/PCOS女性行IVF治疗时妊娠期糖尿病风险的早期指标：一项多中心队列研究、卵巢癌分子生物标志物与液体活检技术的当前进展。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
@@ -52,15 +53,6 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "超越占位效应：将子宫内膜瘤大小和双侧性与卵巢储备耗竭解耦",
           "researchQuestion": "探讨卵巢子宫内膜瘤的囊肿大小和双侧性等解剖特征是否与卵巢储备耗竭相关，并质疑传统“占位效应”概念。",
@@ -72,7 +64,16 @@
           "clinicalInterpretation": "作者提出应结合解剖特征与卵巢损伤的生物学过程进行综合理解，临床管理应整合症状、生殖目标、卵巢储备评估和干预的预期获益/风险，而非仅依据囊肿形态；属观点性建议，非临床指南或共识。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "3c7acaf2a86213bce019b8084f8e9b9e00a3b7c9f2790bbf80bd50d64491d8a3"
+        "summaryInputHash": "3c7acaf2a86213bce019b8084f8e9b9e00a3b7c9f2790bbf80bd50d64491d8a3",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42571879",
@@ -117,15 +118,6 @@
           "maternal-fetal-medicine",
           "reproductive-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "孕前1小时血糖作为PMOS/PCOS女性行IVF治疗时妊娠期糖尿病风险的早期指标：一项多中心队列研究",
           "researchQuestion": "在PMOS/PCOS女性接受IVF治疗时，孕前口服葡萄糖耐量试验（OGTT）1小时血浆血糖水平是否比空腹或2小时血糖水平与后续妊娠期糖尿病的关联更强？",
@@ -137,7 +129,16 @@
           "clinicalInterpretation": "孕前1小时血糖可能为正常体重和肥胖的PMOS/PCOS接受IVF的女性提供额外的GDM高风险识别价值，并支持在孕前代谢评估中加以考虑；但本研究为回顾性队列，不能推断因果关系。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "692824428930ee888819afad7c01d56f872ec69629ee1101c013da9ad75bf0b4"
+        "summaryInputHash": "692824428930ee888819afad7c01d56f872ec69629ee1101c013da9ad75bf0b4",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42572185",
@@ -167,15 +168,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "卵巢癌分子生物标志物与液体活检技术的当前进展",
           "researchQuestion": "总结液体活检技术在卵巢癌诊断、治疗监测和耐药管理等临床管理中的研究进展。",
@@ -187,7 +179,16 @@
           "clinicalInterpretation": "液体活检在卵巢癌个体化管理中具有显著前景，目前仍在努力将其转化为临床实践；属综述观点，非临床建议。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "95044162fcbf3c8b18f391a180a58851df85b209afd7ea09405cc1c0a90f2faa"
+        "summaryInputHash": "95044162fcbf3c8b18f391a180a58851df85b209afd7ea09405cc1c0a90f2faa",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42572293",
@@ -217,15 +218,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "宫颈癌转移至腰骶神经根：一例病例报告",
           "researchQuestion": "报告一例宫颈癌治疗后腰骶神经根转移的临床表现和影像学特征。",
@@ -237,7 +229,16 @@
           "clinicalInterpretation": "当宫颈癌患者出现腰骶区多根外周神经受累时，即使原发肿瘤已控制，也需考虑肿瘤直接浸润邻近神经丛并沿轴突向神经根进展的可能性；属病例报告提示，非普遍结论。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "eba9912b2eb625999f3928714327f01cc3837677ee748468ca9b43763f0f95b9"
+        "summaryInputHash": "eba9912b2eb625999f3928714327f01cc3837677ee748468ca9b43763f0f95b9",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42572375",
@@ -271,15 +272,6 @@
           "gynecologic-oncology",
           "reproductive-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "子宫颈切除术后的生殖和围产期结局：阴道微生物群与早期早产",
           "researchQuestion": "评估早期宫颈癌行子宫颈切除术后患者的生殖和围产期结局，重点关注妊娠达成和早期早产的预测因素。",
@@ -291,7 +283,16 @@
           "clinicalInterpretation": "阴道微生物群失衡与子宫颈切除术后早期早产显著相关，提示宫颈屏障功能受损导致的上行感染可能促成此风险；但需前瞻性研究（含纵向微生物群分析和靶向干预）验证，不可据此制定临床指令。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "e19ab70a18b275a665506b8f7799702ebc9faafb30597637bab6adb603e791ae"
+        "summaryInputHash": "e19ab70a18b275a665506b8f7799702ebc9faafb30597637bab6adb603e791ae",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       }
     ]
   }
