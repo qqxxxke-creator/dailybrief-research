@@ -1,0 +1,293 @@
+{
+  "hero_headline": "《卵巢癌康复期疾病监测与长期管理中国专家共识（2026年版）》发布，聚焦规范化长期管理",
+  "daily_overview": "今日最强信号来自《卵巢癌康复期疾病监测与长期管理中国专家共识（2026年版）》，为卵巢癌患者康复期提供系统化监测与全专结合管理路径。其余方向暂无合格更新。",
+  "tech_briefs": [
+    {
+      "title": "专家共识丨卵巢癌康复期疾病监测与长期管理中国专家共识（2026年版）核心看点",
+      "url": "https://www.cogonline.com/info/134298713208778660",
+      "source": "妇产科在线·临床指南",
+      "summary": "该共识由多学科团队基于国内外证据与中国临床实践制定，系统阐述卵巢癌康复期疾病监测目标、随访频率及生活方式、营养、心理、血液、心血管、肝功、骨松等多维度管理策略，并构建社区转诊与全专结合管理团队。原文摘要未说明与既往建议的差异。",
+      "importance": 9
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "卵巢癌康复期长期管理共识补齐随访与管理细节，推动从急性期治疗转向全程规范化照护。",
+  "keywords": [
+    "卵巢癌",
+    "康复期管理",
+    "专家共识",
+    "疾病监测",
+    "全专结合",
+    "妇科肿瘤",
+    "2026年版"
+  ],
+  "research": {
+    "generatedAt": "2026-08-11T22:25:23.442Z",
+    "dataAsOf": "2026-08-11T22:25:23.442Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及子宫内膜异位症女性的心血管疾病（CVD）风险：一项综合Meta分析、不同教育干预对印度尼西亚农村地区宫颈癌筛查知识、态度和意愿的效果：一项准实验研究、机器人腹部和盆腔手术中的床旁助手模式：关于手术效率、培训暴露和围手术期安全性的系统综述。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42578681",
+        "pmid": "42578681",
+        "doi": "10.1002/clc.70443",
+        "title": "Cardiovascular Disease (CVD) Risk in Women With Endometriosis: A Comprehensive Meta-Analysis.",
+        "abstract": "BACKGROUND: Cardiovascular disease (CVD) remains the leading cause of mortality globally. Emerging evidence indicates that cardiovascular risk in women is frequently underestimated, underscoring the importance of recognizing sex-specific contributors. Endometriosis is a chronic inflammatory disorder affecting 5%-10% of reproductive-aged women. However, previous syntheses evaluating its cardiovascular implications have yielded inconsistent results or were narrow in scope.\nMETHODS: A systematic literature search was conducted across databases, adhering to PRISMA guidelines. Studies comparing cardiovascular outcomes in women with versus without endometriosis were included. Primary outcomes were overall CVD and major adverse cardiovascular events (MACE). Secondary outcomes included ischemic heart disease (IHD), coronary artery disease (CAD), heart failure (HF), arrhythmias, coronary revascularization, and a composite of angina/acute myocardial infarction (Angina-AMI). Random-effects models with inverse variance weighting were used to calculate risk ratios (RRs) and 95% confidence intervals (CIs).\nRESULTS: Women with endometriosis exhibited a significantly higher risk of primary outcomes, including overall CVD (RR 1.21; 95% CI 1.09-1.35; p = 0.004) and MACE (RR 1.23; 95% CI 1.10-1.38; p = 0.01). Regarding secondary outcomes, endometriosis was significantly associated with elevated risks of IHD (RR 1.57; 95% CI 1.14-2.17; p = 0.01), CAD (RR 1.36; 95% CI 1.32-1.41; p < 0.0001), and Angina-AMI (RR 1.62; 95% CI 1.18-2.21; p = 0.002). Moderate-to-high statistical heterogeneity was observed across most secondary endpoints, except for CAD.\nCONCLUSION: Endometriosis is significantly associated with an increased risk of overall CVD, MACE, and ischemic coronary complications. These findings suggest that endometriosis should be recognized as an important sex-specific modifier of cardiovascular risk.",
+        "journal": "Clinical cardiology",
+        "authors": [
+          "Alaa Osman",
+          "Aly Barakat",
+          "Jeffry Samuel",
+          "Joao Ferreira de Barros Neto",
+          "Maneeth Mylavarapu",
+          "Muhammad Junaid Hassan",
+          "Ravitej Thandi",
+          "Reem Mohamed",
+          "Rizwan Mubashir",
+          "Sudeeshna Thiyagarajan",
+          "Vaishnavi Reddy Veeranagari"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-01T00:00:00.000Z",
+        "activityAt": "2026-08-11T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42578681/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "子宫内膜异位症女性的心血管疾病（CVD）风险：一项综合Meta分析",
+          "researchQuestion": "评估子宫内膜异位症与心血管疾病及其亚型风险之间的关联。",
+          "studyDesign": "系统综述与Meta分析（遵循PRISMA指南）",
+          "populationAndSample": "子宫内膜异位症女性和无子宫内膜异位症女性的比较研究；具体样本量摘要未报告。摘要提及子宫内膜异位症影响5%-10%的育龄女性。",
+          "methods": "系统检索多个数据库，纳入比较子宫内膜异位症与无子宫内膜异位症女性心血管结局的研究。主要结局为总体CVD和主要不良心血管事件（MACE），次要结局包括缺血性心脏病（IHD）、冠状动脉疾病（CAD）、心力衰竭（HF）、心律失常、冠状动脉血运重建和心绞痛-急性心肌梗死复合终点（Angina-AMI）。采用随机效应模型和逆方差加权计算风险比（RR）及95%置信区间（CI）。",
+          "keyResults": "子宫内膜异位症女性总体CVD风险显著升高（RR 1.21; 95% CI 1.09-1.35; p=0.004），MACE风险升高（RR 1.23; 95% CI 1.10-1.38; p=0.01）。次要结局中，IHD（RR 1.57; 95% CI 1.14-2.17; p=0.01）、CAD（RR 1.36; 95% CI 1.32-1.41; p<0.0001）和Angina-AMI（RR 1.62; 95% CI 1.18-2.21; p=0.002）风险均显著升高。除CAD外，多数次要终点存在中至高度统计学异质性。",
+          "limitations": "摘要未报告具体的局限性，但提及除CAD外多数次要终点存在中至高度异质性。",
+          "clinicalInterpretation": "子宫内膜异位症与总体CVD、MACE和缺血性冠状动脉并发症风险增加显著相关，提示应将其视为重要的性别特异性心血管风险修饰因素。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "15bb455e2d37b0438b718fadfe2bc8f54928c407fe182234a1cc50cc20f7e4df"
+      },
+      {
+        "id": "pmid:42575548",
+        "pmid": "42575548",
+        "doi": "10.1136/bmjopen-2025-103814",
+        "title": "Effectiveness of different educational interventions on knowledge, attitude and willingness to undergo cervical cancer screening in rural Indonesia: a quasi-experimental study.",
+        "abstract": "OBJECTIVES: The low uptake of cervical cancer screening (CCS) in rural areas is mainly related to the lack of awareness regarding cervical cancer. Using educational interventions has been shown to substantially improve knowledge and attitude towards cervical cancer, which are important determinants of undergoing CCS. The aim of this study was to analyse the impact of different educational intervention methods on knowledge, attitudes and willingness to undergo CCS among women in rural Indonesia.\nDESIGN: A quasi-experimental study with a non-equivalent control group design.\nSETTING: The study was conducted in North Tobelo, a rural district in North Halmahera Regency.\nPARTICIPANTS: Sample size was calculated using Power and Sample Size Calculations software (V.3.1.2). 150 women were recruited via convenience sampling from 12 Integrated Health Service Posts, cluster-randomised into three arms: control (n=50), flipchart (n=50) and video (n=50). A per-protocol approach was applied; all participants completed pre-intervention and post-intervention assessments within a single visit with no loss to follow-up. Continuous outcomes were analysed using the Kruskal-Wallis and Wilcoxon tests; categorical outcomes using χ² or Fisher's exact tests with Bonferroni correction. Non-parametric analysis of covariance (Quade's method) controlled for baseline scores, age at first sexual intercourse and household income, with partial eta-squared reported as the effect size.\nINTERVENTIONS: All study arms received identical educational content presented in simple Indonesian language and avoiding the use of medical terminology. The educational content included cervical cancer epidemiology, aetiology, risk factors, clinical symptoms, prevention methods, various CCS methods, visual inspection with acetic acid screening procedures, benefits and side effects of getting human papillomavirus vaccination and CCS, as well as a brief explanation regarding cervical cancer treatment. Knowledge, attitude and willingness were assessed using a structured pre-intervention and post-intervention questionnaire comprising both dichotomous items and Likert-scale questions.\nRESULTS: Although knowledge improved significantly in all intervention groups (p<0.001), only the video group showed a significant improvement in attitude after the intervention (p=0.016). The median change scores of knowledge and attitude were only significantly higher in the video group when compared with the control group (p=0.041 and p=0.013, respectively), but not significantly different in other pairwise comparisons. Moreover, the proportion of participants who were willing to undergo CCS after the intervention was also increased significantly in the video group when compared with the control group (52% vs 22%; p=0.006) and flipchart group (52% vs 24%; p=0.012).\nCONCLUSIONS: In conclusion, the video-based educational intervention demonstrated the greatest improvements in knowledge, attitude, and willngness to undergo CCS compared to other methods.",
+        "journal": "BMJ open",
+        "authors": [
+          "Christian Homenta",
+          "Fitriyadi Kusuma",
+          "Gatot Purwoto",
+          "Glenardi Glenardi",
+          "Hariyono Winarto",
+          "Hendri Tanjaya",
+          "Laila Nuranna",
+          "Muhammad Habiburrahman",
+          "Tofan Widya Utami",
+          "Tricia Dewi Anggraeni"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-08-10T00:00:00.000Z",
+        "activityAt": "2026-08-11T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42575548/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "不同教育干预对印度尼西亚农村地区宫颈癌筛查知识、态度和意愿的效果：一项准实验研究",
+          "researchQuestion": "分析不同教育干预方法对印度尼西亚农村女性宫颈癌筛查（CCS）知识、态度和意愿的影响。",
+          "studyDesign": "准实验研究，采用非等效对照组设计",
+          "populationAndSample": "150名女性，通过方便抽样自12个综合卫生服务点招募，并整群随机分为三组：对照组（n=50）、挂图组（n=50）和视频组（n=50）。所有参与者均完成干预前和干预后评估，无失访。",
+          "methods": "所有组接受相同的教育内容，使用简单印尼语且避免医学术语，包括宫颈癌流行病学、病因、危险因素、症状、预防方法、筛查方法、醋酸肉眼观察筛查程序、HPV疫苗接种和CCS的获益与副作用以及宫颈癌治疗简述。干预方式分别为对照组（无干预？摘要未明确说明）、挂图、视频。使用结构化问卷评估知识、态度和意愿。连续结局采用Kruskal-Wallis和Wilcoxon检验，分类结局采用χ²或Fisher精确检验并Bonferroni校正；使用非参数协方差分析（Quade法）控制基线分数、首次性行为年龄和家庭收入，效应量报告偏eta平方。",
+          "keyResults": "所有干预组知识均显著改善（p<0.001），但仅视频组干预后态度显著改善（p=0.016）。与对照组相比，仅视频组的知识和态度中位数变化分数显著更高（分别为p=0.041和p=0.013），其他配对比较无显著差异。干预后愿意接受CCS的比例，视频组显著高于对照组（52% vs 22%；p=0.006）和挂图组（52% vs 24%；p=0.012）。",
+          "limitations": "摘要未报告明确的局限性；但研究设计为准实验且采用方便抽样，可能影响外部效度。",
+          "clinicalInterpretation": "基于视频的教育干预在改善宫颈癌筛查知识、态度和意愿方面优于其他方法，可能有助于提升农村地区宫颈癌筛查接受度。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "4d80869ab774bab39db263a987cfb213a5f58981a3272c5a13f864ffda7bc0e9"
+      },
+      {
+        "id": "pmid:42576120",
+        "pmid": "42576120",
+        "doi": "10.1007/s11701-026-03810-x",
+        "title": "Bedside assistant models in robotic abdominal and pelvic surgery: a systematic review of operative efficiency, training exposure, and perioperative safety.",
+        "abstract": "Robotic surgery depends on effective bedside assistance, yet staffing models vary between physician and non-physician assistants. We systematically reviewed comparative evidence evaluating these models in robotic abdominal and pelvic surgery. A PRISMA compliant systematic review was performed. PubMed, Embase, Ovid MEDLINE, Cochrane CENTRAL/CCTR and ClinicalTrials.gov were searched from inception to 12 April 2026. Comparative adult clinical studies were eligible if they directly compared physician bedside assistance with non-physician bedside assistance during robot-assisted abdominal or pelvic surgery. The primary outcome domain was operative efficiency. Training exposure and perioperative safety were secondary domains. Risk of bias was assessed using ROBINS-I. Meta-analysis was not performed because of clinical and outcome heterogeneity. The search identified 1587 records, with 4 additional records from other sources. After duplicate removal, 693 records were screened and 22 full texts assessed; 3 observational studies met inclusion criteria. These included colorectal, gynaecologic oncology, and transplant/hepatopancreatobiliary robotic settings. Across studies, non-physician or dedicated bedside assistance was associated with favourable time-based efficiency outcomes, including shorter operative or console time in selected procedures and improved operational metrics in a dedicated team model. Training exposure was inconsistently reported, although one programme-level study found increased fellow primary surgeon participation after implementation of a dedicated robotic team. Safety outcomes did not show an obvious harm signal, but reporting was heterogeneous and studies were subject to confounding. Direct comparative evidence evaluating physician versus non-physician bedside assistant models in robotic abdominal and pelvic surgery is limited. Available data suggest possible efficiency benefits without an evident safety penalty, but stronger prospective studies with standardised efficiency, training and safety outcomes are needed.",
+        "journal": "Journal of robotic surgery",
+        "authors": [
+          "Amrish Rajkomar",
+          "Baxter Smith",
+          "Chun Yin Yan",
+          "Rathin Gosavi",
+          "Satish Warrier"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-11T00:00:00.000Z",
+        "activityAt": "2026-08-11T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42576120/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "minimally-invasive-surgery"
+        ],
+        "assignedTopicId": "minimally-invasive-surgery",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 7.5,
+          "recency": 10,
+          "total": 92.5,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "机器人腹部和盆腔手术中的床旁助手模式：关于手术效率、培训暴露和围手术期安全性的系统综述",
+          "researchQuestion": "比较机器人辅助腹部和盆腔手术中医生与非医生床旁助手模式的手术效率、培训暴露和围手术期安全性。",
+          "studyDesign": "系统综述（PRISMA compliant）；未进行Meta分析",
+          "populationAndSample": "3项观察性研究，涵盖结直肠、妇科肿瘤和移植/肝胆胰机器人手术场景；具体参与者数量摘要未报告。",
+          "methods": "检索PubMed、Embase、Ovid MEDLINE、Cochrane CENTRAL/CCTR和ClinicalTrials.gov，从建库至2026年4月12日。纳入直接比较医生与非医生床旁助手的成人临床研究。主要结局域为手术效率，次要结局域为培训暴露和围手术期安全性。使用ROBINS-I评估偏倚风险。因临床和结局异质性未进行Meta分析。",
+          "keyResults": "检索识别1587条记录，另有4条其他来源记录，去重后筛选693条，评估22篇全文，最终纳入3项观察性研究。非医生或专职床旁助手与时间效率结局相关，包括在特定手术中更短的手术或控制台时间，以及专职团队模式中改善的运营指标。培训暴露报告不一致，但一项项目级研究发现实施专职机器人团队后，专科培训医师作为主刀参与度增加。安全性结局未显示明显危害信号，但报告异质且存在混杂。",
+          "limitations": "直接比较证据有限；研究为观察性设计且存在混杂；培训暴露报告不一致；安全性报告异质；未进行Meta分析。",
+          "clinicalInterpretation": "现有数据提示非医生或专职床旁助手模式可能带来手术效率获益，且未发现明显安全代价，但仍需更强的前瞻性研究并采用标准化的效率、培训和安全性结局。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "d5dbf0c2b3ae8b798fff1837826063a1cd9fa51275232af8acd7d7970c7bbbf7"
+      },
+      {
+        "id": "pmid:42576341",
+        "pmid": "42576341",
+        "doi": "10.1111/jog.70411",
+        "title": "Conization With Lymph Node Assessment in Early-Stage Cervical Cancer: A Systematic Review and Meta-Analysis.",
+        "abstract": "BACKGROUND: Radical hysterectomy with pelvic lymphadenectomy has been considered the primary treatment for early-stage cervical cancer without lymph node involvement. This study aimed to evaluate recurrence rates and the prevalence of lymph node metastasis after treatment with conization combined with lymph node assessment.\nMETHODS: A systematic literature search was conducted in PubMed, EMBASE, LILACS, Cochrane Library, SCOPUS, and Web of Science. After data extraction, a meta-analysis was performed. Heterogeneity was assessed, and publication bias was investigated using funnel plots and Egger's test, along with sensitivity analyses and exclusion of studies with sample size < 30.\nRESULTS: Twelve studies including 548 women were included. The pooled recurrence rate after conservative surgery was 4% (95% CI: 2%-7%), with low heterogeneity (I 2 = 3.1%). Egger's test did not indicate relevant asymmetry (p = 0.0578). After excluding smaller studies (N < 30), the pooled estimate increased slightly to 5% (95% CI: 3.5%-7%), reflecting greater statistical stability. Regarding nodal positivity, the pooled rate was 3%, with no evidence of heterogeneity (I 2 = 0%). However, the funnel plot showed right-sided asymmetry, and Egger's test confirmed significant bias (p = 0.0016), suggesting influence from small studies with extreme effects. Excluding these studies increased the pooled estimate to 6% and narrowed the confidence interval, indicating greater precision.\nCONCLUSION: Conservative surgery with lymph node evaluation showed low tumor recurrence and low lymph node positivity rates, supporting its feasibility as an alternative approach that may preserve oncologic effectiveness while reducing morbidity.",
+        "journal": "The journal of obstetrics and gynaecology research",
+        "authors": [
+          "Adriana Graca",
+          "Leila Cristina Soares",
+          "Nathália Maria Monteiro Dantas"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-01T00:00:00.000Z",
+        "activityAt": "2026-08-11T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42576341/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 7.5,
+          "recency": 10,
+          "total": 92.5,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "早期宫颈癌锥切术联合淋巴结评估：系统综述与Meta分析",
+          "researchQuestion": "评估早期宫颈癌接受锥切术联合淋巴结评估后的复发率和淋巴结转移发生率。",
+          "studyDesign": "系统综述与Meta分析",
+          "populationAndSample": "12项研究，共548名女性。",
+          "methods": "系统检索PubMed、EMBASE、LILACS、Cochrane Library、SCOPUS和Web of Science。提取数据后进行Meta分析，评估异质性，使用漏斗图和Egger检验调查发表偏倚，并进行敏感性分析和排除样本量<30的研究。",
+          "keyResults": "保守手术后的汇总复发率为4%（95% CI: 2%-7%），低异质性（I²=3.1%）；Egger检验未提示明显不对称（p=0.0578）。排除小样本研究（N<30）后，汇总估计值略升至5%（95% CI: 3.5%-7%）。淋巴结阳性汇总率为3%，无异质性（I²=0%），但漏斗图显示右侧不对称，Egger检验确认显著偏倚（p=0.0016）。排除这些研究后，淋巴结阳性率升至6%，置信区间变窄。",
+          "limitations": "淋巴结阳性率分析存在显著发表偏倚（Egger检验p=0.0016），小样本研究可能影响结果；摘要未报告其他局限性。",
+          "clinicalInterpretation": "锥切术联合淋巴结评估在早期宫颈癌中显示较低的肿瘤复发率和淋巴结阳性率，支持其作为可能减少发病率同时保留肿瘤学有效性的替代治疗方法的可行性。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "3522d0a5b49bf465e4531fbdc0fefea77dfe4c6d8c6aabe9e0c0140eaa233644"
+      },
+      {
+        "id": "pmid:42577078",
+        "pmid": "42577078",
+        "doi": "10.3389/fendo.2026.1872860",
+        "title": "Mapping the evidence and research gaps on preimplantation genetic testing for aneuploidy in recurrent implantation failure: a scoping review.",
+        "abstract": "BACKGROUND: Recurrent implantation failure (RIF) represents a complex and heterogeneous condition in assisted reproductive technology (ART), characterized by unclear etiology and limited evidence-based management strategies. Preimplantation genetic testing for aneuploidy (PGT-A) has been proposed to improve reproductive outcomes through selection of euploid embryos; however, its clinical utility in RIF remains controversial.\nMETHODS: A scoping review was conducted to systematically map the available evidence regarding the role of PGT-A in RIF. A comprehensive literature search identified 18 studies evaluating reproductive outcomes in RIF patients undergoing PGT-A compared with conventional in vitro fertilization/intracytoplasmic sperm injection (IVF/ICSI). Data were extracted and narratively synthesized across key outcomes, including implantation rate (IR), clinical pregnancy rate (CPR), live birth rate (LBR), and miscarriage rate (MR). Methodological quality was assessed using the Newcastle-Ottawa Scale (NOS), and sources of heterogeneity, including variability in RIF definitions, PGT-A methodologies, and patient subgroups, were also explored.\nRESULTS: Several studies reported improved outcomes at the level of individual embryo transfer (ET), including higher IR, CPR, and LBR per transfer following PGT-A. However, these findings were not consistently observed when outcomes were assessed at the patient level. In particular, cumulative live birth rate (CLBR) was generally comparable between PGT-A and non-PGT-A groups, especially in unexplained - uRIF or idiopathic - iRIF populations. Similarly, MR was largely unchanged across studies despite improved embryo selection. Subgroup analyses suggested that PGT-A may provide greater benefit in patients with a higher likelihood of embryo-related implantation failure (IF), such as those of advanced maternal age (AMA), whereas limited benefit was observed in uRIF/iRIF cohorts. Overall, substantial heterogeneity was identified regarding RIF definitions, laboratory methodologies, and clinical protocols.\nCONCLUSIONS: The available evidence suggests that PGT-A may improve treatment efficiency by increasing the probability of success per ET in selected RIF populations. Nevertheless, it does not consistently improve CLBR or reduce miscarriage risk, underscoring the multifactorial nature of IF. Consequently, PGT-A should be considered within an individualized treatment strategy rather than as a universal intervention for all RIF patients. Further prospective studies using standardized definitions and protocols are required to better define its clinical role.",
+        "journal": "Frontiers in endocrinology",
+        "authors": [
+          "Ana-Maria Dabuleanu Cretu",
+          "Bogdan Doroftei",
+          "Mara Doroftei",
+          "Ovidiu-Dumitru Ilie",
+          "Radu Maftei"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Scoping Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-07-27T00:00:00.000Z",
+        "activityAt": "2026-08-11T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42577078/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 3.75,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "胚胎植入前非整倍体遗传学检测在反复种植失败中的证据与研究缺口：一项范围综述",
+          "researchQuestion": "系统梳理PGT-A在反复种植失败（RIF）患者中作用的现有证据，并识别研究缺口。",
+          "studyDesign": "范围综述（Scoping Review）",
+          "populationAndSample": "18项研究，评估接受PGT-A与常规IVF/ICSI的RIF患者的生殖结局。具体样本量摘要未报告。",
+          "methods": "全面文献检索，纳入比较PGT-A与常规IVF/ICSI的RIF患者研究。数据按关键结局（种植率IR、临床妊娠率CPR、活产率LBR、流产率MR）进行提取和叙述性综合。使用纽卡斯尔-渥太华量表（NOS）评估方法学质量，并探索RIF定义、PGT-A方法和患者亚组等异质性来源。",
+          "keyResults": "多项研究报告在单次胚胎移植（ET）水平上，PGT-A后每移植周期的IR、CPR和LBR更高。但这些结果在患者水平评估时不一致。累积活产率（CLBR）在PGT-A与非PGT-A组间通常相当，尤其是在不明原因RIF（uRIF）或特发性RIF（iRIF）人群中。流产率（MR）总体上变化不大。亚组分析提示，PGT-A可能对胚胎相关种植失败可能性较高的患者（如高龄）获益更大，而在uRIF/iRIF队列中获益有限。总体存在关于RIF定义、实验室方法和临床方案的大量异质性。",
+          "limitations": "纳入研究存在显著异质性（RIF定义、PGT-A方法、临床方案、患者亚组）；结果在患者水平不一致；证据主要来自观察性研究（未明确，但使用NOS评估）；需标准化定义和方案的前瞻性研究。",
+          "clinicalInterpretation": "现有证据提示PGT-A可能通过提高每次胚胎移植的成功概率来改善部分RIF人群的治疗效率，但不能一致改善累积活产率或降低流产风险，提示种植失败的多因素本质。PGT-A应被视为个体化治疗策略的一部分，而非对所有RIF患者的普遍干预。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "f5c7be98bf67447e55c727c6d52736652e9502874b668c126cd75e06ed6d89bb"
+      }
+    ]
+  }
+}
