@@ -1,0 +1,222 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-08-12T22:25:06.655Z",
+    "dataAsOf": "2026-08-12T22:25:06.655Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及妊娠期高血压疾病与后代哮喘风险：一项系统综述与荟萃分析、Reduced-port robotic surgery versus multiport robotic surgery in endometrial cancer: a systematic review and meta-analysis.、Culture media for human pre-implantation embryos in assisted reproductive technology cycles.。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42582993",
+        "pmid": "42582993",
+        "doi": "10.3389/fmed.2026.1739697",
+        "title": "Hypertensive disorders in pregnancy and risk of asthma in the offspring: a systematic review and meta-analysis.",
+        "abstract": "BACKGROUND: Hypertensive disorders of pregnancy (HDP), including preeclampsia, gestational hypertension, and eclampsia, are common pregnancy complications that may have long-term consequences for offspring health. Emerging evidence suggests a potential link between maternal hypertension and childhood asthma, though findings remain inconsistent. This systematic review and meta-analysis aimed to synthesize the existing evidence on the association between HDP and asthma risk in offspring.\nMETHODS: A comprehensive search of PubMed, Scopus, Web of Science, and EMBASE was conducted from database inception to 3 December 2024, restricted to peer-reviewed published studies. The eligibility criteria followed the PICOS framework. Observational studies (cohort, case-control, cross-sectional) assessing the association between HDP and asthma in offspring were included. Effect measures were converted to odds ratios (OR) with 95% confidence intervals (CI), and a meta-analysis was performed using random- and fixed-effects models. Heterogeneity was assessed jointly with Cochran's Q test ( p < 0.10) and the I 2 statistic, and publication bias was examined through funnel plots and Egger's test.\nRESULTS: Twenty studies encompassing over three million mother-infant pairs were included. The pooled OR for asthma risk in offspring of mothers with HDP was 1.14 (95% CI: 1.07-1.21), indicating a significant association. Subgroup analyses revealed a positive association with both preeclampsia (OR: 1.20; 95% CI: 1.12-1.28) and gestational hypertension (OR: 1.18; 95% CI: 1.02-1.36). Heterogeneity was high in some subgroups, such as gestational hypertension ( I 2 = 92.6%; p < 0.0001), suggesting variability across studies. As a secondary outcome, the association between HDP and wheezing in the offspring was assessed. The pooled OR was 1.07 (95% CI: 0.99-1.17), not reaching statistical significance, although positive trends were observed in some subtypes.\nCONCLUSION: Maternal HDP is associated with an approximately 14-20% increased risk of asthma in offspring, highlighting the need for targeted early-life monitoring and intervention strategies. Further research is warranted to elucidate underlying mechanisms and optimize maternal-fetal health outcomes.\nSYSTEMATIC REVIEW REGISTRATION: IS: CRD420251000229.",
+        "journal": "Frontiers in medicine",
+        "authors": [
+          "Carlos A Barba",
+          "Carlos Quispe-Vicuña",
+          "Christian A Rodriguez-Saldaña",
+          "Joshuan J Barboza",
+          "Judith Yangali-Vicente",
+          "Nancy D Calzada",
+          "Oriana Rivera-Lozada",
+          "Raul H Sandoval-Ato"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-07-28T00:00:00.000Z",
+        "activityAt": "2026-08-12T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42582993/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "妊娠期高血压疾病与后代哮喘风险：一项系统综述与荟萃分析",
+          "researchQuestion": "系统评价妊娠期高血压疾病（HDP）与后代哮喘风险之间的关联。",
+          "studyDesign": "系统综述与荟萃分析；已在PROSPERO注册（CRD420251000229）。",
+          "populationAndSample": "纳入20项观察性研究，共涵盖超过300万对母婴（队列、病例对照、横断面研究）。",
+          "methods": "检索PubMed、Scopus、Web of Science和EMBASE，时间从建库至2024年12月3日，限同行评议已发表研究；按PICOS框架制定纳入标准；将效应量转换为OR（95% CI），使用随机效应和固定效应模型进行meta分析；采用Cochran's Q检验（p<0.10）和I²统计量评估异质性，并通过漏斗图和Egger检验评估发表偏倚。",
+          "keyResults": "合并OR=1.14（95% CI 1.07–1.21）。亚组分析：子痫前期OR=1.20（95% CI 1.12–1.28），妊娠期高血压OR=1.18（95% CI 1.02–1.36）；妊娠期高血压亚组异质性高（I²=92.6%，p<0.0001）。次要结局喘息：合并OR=1.07（95% CI 0.99–1.17），未达统计学显著性，但部分亚型观察到阳性趋势。",
+          "limitations": "摘要未单独报告局限性；但提及部分亚组（如妊娠期高血压）异质性高，提示研究间存在差异性。",
+          "clinicalInterpretation": "作者结论：母亲HDP与后代哮喘风险增加约14%–20%相关，提示需要针对性的早期监测和干预策略；尚需进一步研究阐明潜在机制并优化母胎健康结局。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "0b0c6b2687b86b300de5661a9a8b0a29d47f7b073060458562f67b30656bdebc"
+      },
+      {
+        "id": "pmid:42584727",
+        "pmid": "42584727",
+        "doi": "10.1007/s11701-026-03795-7",
+        "title": "Reduced-port robotic surgery versus multiport robotic surgery in endometrial cancer: a systematic review and meta-analysis.",
+        "abstract": "Reduced-port robotic surgery, including single-site and single-port approaches, has been increasingly applied in endometrial cancer. However, its clinical value compared with conventional multiport robotic surgery remains uncertain. To systematically compare perioperative outcomes and safety between reduced-port and multiport robotic techniques used for endometrial cancer surgery. Following the PRISMA 2020 recommendations, we carried out a systematic review and meta-analysis that was prospectively registered in PROSPERO (CRD420261443180). Relevant publications were retrieved by searching PubMed, Embase, Web of Science, and the Cochrane Library from their inception until April 2026. Comparative studies evaluating reduced-port robotic surgery (single-site or single-port) against conventional multiport robotic surgery were eligible for inclusion. Treatment effects for continuous variables were pooled as mean differences, while binary outcomes were combined as odds ratios, each with 95% confidence intervals. A random-effects model was consistently applied in all analyses to accommodate anticipated methodological and clinical heterogeneity among the included studies. Eight comparative studies involving 905 patients (350 in the reduced-port group and 555 in the multiport group) met the inclusion criteria. Meta-analysis demonstrated no significant difference in operative time between reduced-port and multiport robotic surgery (MD = 12.54 min, 95% CI: -7.76 to 32.84; P = 0.23). Compared with multiport robotic surgery, the reduced-port approach was associated with modest reductions in estimated blood loss (MD = - 14.83 mL, 95% CI: -29.25 to - 0.41; P = 0.04) and postoperative hospital stay (MD = - 2.12 days, 95% CI: -4.19 to - 0.06; P = 0.04). However, these findings should be interpreted cautiously given the substantial heterogeneity observed across studies. No significant differences were identified in transfusion requirement (OR = 0.55, 95% CI: 0.09-3.16; P = 0.50), conversion to open surgery, intraoperative complications, overall postoperative complications, or Clavien-Dindo grade ≥ III complications (all P > 0.05). Postoperative pain scores were comparable between groups at both 6 and 24 h. Subgroup analysis suggested a potential reduction in early postoperative pain with single-port robotic systems, although this finding did not reach statistical significance in the overall analysis. The available evidence suggests that reduced-port robotic surgery represents a viable option for selected patients with endometrial cancer, with broadly similar short-term perioperative outcomes to conventional multiport surgery. Potential modest reductions in estimated blood loss and postoperative hospital stay were observed; however, the clinical relevance of these differences remains uncertain because of the small absolute effect size and substantial heterogeneity among studies. While no overall benefit in postoperative pain was observed, potential differences between platforms, particularly single-port systems, warrant further investigation.",
+        "journal": "Journal of robotic surgery",
+        "authors": [
+          "Jingqiong Zhan",
+          "Wenfan Tang",
+          "Zexian He"
+        ],
+        "publicationTypes": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-12T00:00:00.000Z",
+        "activityAt": "2026-08-12T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42584727/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology",
+          "minimally-invasive-surgery"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 7.5,
+          "recency": 10,
+          "total": 92.5,
+          "evidenceRank": 1
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42583810",
+        "pmid": "42583810",
+        "doi": "10.1002/14651858.cd007876.pub3",
+        "title": "Culture media for human pre-implantation embryos in assisted reproductive technology cycles.",
+        "abstract": "RATIONALE: Numerous media are commercially available for culture of human pre-implantation embryos in assisted reproductive technology (ART) cycles. It is unknown which culture medium leads to the best success rates after ART. This is the first update of a Cochrane review published in 2015.\nOBJECTIVES: To evaluate the benefits and harms of different human pre-implantation embryo culture media used for in vitro fertilization (IVF) and intracytoplasmic sperm injection (ICSI) cycles, including intracytoplasmic morphologically selected sperm injection (IMSI).\nSEARCH METHODS: We searched the Cochrane Gynecology and Fertility Group's Specialized Trials Register, Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, PsycINFO, the National Research Register, the Medical Research Council's Clinical Trials Register, and the NHS Centre for Reviews and Dissemination databases on 28 August 2025. We also examined the reference lists of all known primary studies, review articles, citation of relevant publications, and abstracts of major scientific meetings, and we contacted experts in the field for additional studies.\nELIGIBILITY CRITERIA: We included all randomized controlled trials that randomized women, cumulus-oocytes complexes, oocytes, or embryos, and compared any two or more commercially available culture media for human pre-implantation embryos in IVF, ICSI, or IMSI protocols.\nOUTCOMES: Critical outcomes: cumulative live birth, live birth, and ongoing pregnancy (confirmed by heartbeat on ultrasound). Important outcomes: clinical and multiple pregnancy, miscarriage, preterm birth, birth weight, and congenital malformation. These outcomes were analyzed in the review, but we did not prioritize them for inclusion in our summary of findings tables; therefore, they are not reported in the synthesis of results section below.\nRISK OF BIAS: To assess the risk of bias in the studies, we used the Cochrane tool RoB 1.\nSYNTHESIS METHODS: Two review authors independently selected studies, assessed their risk of bias, and extracted their data. We sought additional information from the study authors where necessary. Due to heterogeneity, we presented individual study results and did not conduct meta-analysis. We calculated effect estimates as odds ratios (OR) with 95% confidence intervals (CI) using the Mantel-Haenszel fixed-effect model. We assessed the certainty of the evidence using the GRADE method.\nINCLUDED STUDIES: We screened 5779 search records and included 26 studies published as full articles in this updated review. Thirteen studies randomized 3913 women, two randomized 361 cycles, and 12 randomized 30,542 cumulus oocyte complexes, oocytes, or embryos. One study randomized women and oocytes.\nSYNTHESIS OF RESULTS: Of the 26 included studies, eight studies (3315 women) were suitable for analysis of our critical outcomes: cumulative live birth, live birth, and ongoing pregnancy. However, we were unable to pool data because no appropriately designed studies compared the same culture media. Only one study reported cumulative live birth rate and suggested that G5 likely increases live birth compared to HTF (human tubal fluid) (44.1% versus 37.9%; OR 1.29, 95% CI 0.98 to 1.70; 836 participants; moderate-certainty evidence). Six studies (3063 participants) had data for the analysis of live birth rates, providing only very low certainty evidence. It is unclear if there is a difference in live birth rates between different culture media: G5 (22.3%) versus HTF (18.1%) (OR 1.30, 95% CI 0.92 to 1.82; 836 participants; fresh embryo transfers only from first cycle); Sydney IVF cleavage (21.7%) versus G1 series 3 (22.0%) (OR 0.98, 95% CI 0.63 to 1.54; 449 participants); G2 (26.4%) versus BlastAssist M1/M2 (18.0%) (OR 1.64, 95% CI 0.80 to 3.37; 176 participants); GM501 (16.5%) versus Sydney IVF (18.8%) (OR 0.85, 95% CI 0.39 to 1.87; 170 participants); and Sydney IVF (34%) versus EmbryoGen/BlastGen (22%) (OR 1.83, 95% CI 0.75 to 4.44; 100 participants). We presented the results of the sixth study in separate groups: EmbryoAssist (18.4%) versus EmbryoAssist plus GM-CSF (granulocyte-macrophage colony-stimulating factor) (24.0%; low human serum albumin (HSA) concentration) (OR 0.71, 95% CI 0.50 to 1.02; 743 participants) and EmbryoAssist (23.8%) versus EmbryoAssist plus GM-CSF (26.1%; high HSA concentration) (OR 0.96, 95% CI 0.67 to 1.38; 589 participants). Five studies (2520 participants) reported (cumulative) ongoing pregnancy rates. We judged one study to provide moderate-certainty evidence. This study showed a cumulative ongoing pregnancy rate of 45.3% with G5 compared to 38.7% with HTF (OR 1.32, 95% CI 1.00 to 1.73; 836 participants). We judged the remaining four studies to provide very low certainty evidence. Three of them reported the following ongoing pregnancy rates: GM501 (21.2%) versus ISM1 (21.8%) (OR 0.96, 95% CI 0.46 to 1.99; 172 participants); Sydney IVF (36.0%) versus EmbryoGen/BlastGen (22.0%) (OR 1.99, 95% CI 0.82 to 4.83; 100 participants); and ECM/Multiblast (50.0%) versus Global (70.0%) (OR 0.43, 95% CI 0.17 to 1.07; 80 participants). We presented the results of the fourth study in separate groups: EmbryoAssist (21.3%) versus EmbryoAssist plus GM-CSF (30.0%; low HSA concentration) (OR 0.63, 95% CI 0.45 to 0.88; 743 participants) and EmbryoAssist (28.1%) versus EmbryoAssist plus GM-CSF (29.0%; high HSA concentration) (OR 0.96, 95% CI 0.67 to 1.38; 589 participants). In the eight studies contributing to our critical outcomes, we assessed most risk-of-bias domains as unclear. The evidence was limited by methodological problems and incomplete reporting. Outcomes were inconsistently measured, few studies used appropriate designs for live birth outcomes, and cumulative live birth was rarely assessed. Variation in culture conditions further limited comparability across studies.\nAUTHORS: Embryo culture media are important for embryonic development and subsequent success of in vitro fertilization cycles. Determining which is the most appropriate embryo culture medium has been challenging due to many factors involved in assessing efficiency. Numerous studies have been performed, but no two studies that use an appropriate design and assess clinical outcomes have compared the same culture media. One study suggested that G5 medium probably increases cumulative live birth compared with HTF medium; however, the overall evidence base remains limited and inconsistent. We conclude that there is insufficient evidence to support or refute the use of any specific culture medium for human embryo culture. Properly designed and executed randomized trials are necessary.\nFUNDING: This Cochrane review had no dedicated funding.\nREGISTRATION: Protocol (2009) DOI: 10.1002/14651858.CD007524 Original review (2015) DOI: 10.1002/14651858.CD007876.pub2.",
+        "journal": "The Cochrane database of systematic reviews",
+        "authors": [
+          "M A Youssef",
+          "Madelon van Wely",
+          "Maitane Laverde",
+          "Miriam Zagers",
+          "Sebastiaan Mastenbroek",
+          "supported by the Cochrane Gynaecology and Fertility Review Group"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-12T00:00:00.000Z",
+        "activityAt": "2026-08-12T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42583810/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine",
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 3.75,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 1
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "doi:10.1016/j.jmig.2026.08.006",
+        "doi": "10.1016/j.jmig.2026.08.006",
+        "title": "Long-term oncological outcomes of the ROMANHY trial: impact of intrauterine manipulator during minimally invasive surgery for early-stage endometrial cancer",
+        "abstract": "The ROMANHY trial (NCT02762214) was a multicenter randomized study originally designed to assess the impact of intrauterine manipulator (IUM) use on lymphovascular space invasion (LVSI) during minimally invasive staging surgery for presumed early-stage endometrial cancer (EC). This extended follow-up analysis evaluated whether IUM use was associated with long-term oncologic outcomes.",
+        "journal": "Journal of Minimally Invasive Gynecology",
+        "authors": [
+          "Emanuele Perrone, Giuseppe Parisi, Tina Pasciuto, Salvatore Gueli Alletti, Maria Consiglia Giuliano, Ilaria Capasso, Emilia Palmieri, Dario Aprea, Vincenzo Tarantino, Fulvia Pirrelli, Giovanni Esposito, Alessia Fossatelli, Francesco Fanfani"
+        ],
+        "publicationTypes": [],
+        "publishedAt": "2026-08-12T00:00:00.000Z",
+        "activityAt": "2026-08-12T00:00:00.000Z",
+        "url": "https://www.jmig.org/article/S1553-4650(26)00443-7/fulltext?rss=yes",
+        "sourceKinds": [
+          "journal-rss"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42581092",
+        "pmid": "42581092",
+        "doi": "10.1038/s41416-026-03579-8",
+        "title": "Advances in urinary biomarkers for endometrial cancer detection.",
+        "abstract": "The incidence of endometrial cancer is rising globally, placing significant burden on diagnostic pathways for women with abnormal uterine bleeding. Current evaluation relies primarily on transvaginal ultrasound followed by invasive endometrial visualisation and sampling, although most symptomatic women have no sinister underlying pathology. Urine offers a promising non-invasive and easily repeatable biofluid capable of capturing tumour-associated signals through both systemic renal filtration and locally shed uterine material. This review summarises emerging evidence on urinary biomarkers for endometrial cancer detection, including somatic mutations, DNA methylation markers, proteins and peptides, vibrational spectroscopy signatures, microRNAs, metabolites and urine cytology. These biomarkers collectively reflect key biological processes driving endometrial carcinogenesis, including hormonal and metabolic dysregulation, immune activation, epithelial-stromal disruption, cellular proliferation and genomic instability. Among current candidates, DNA methylation panels and mutation-based assays have demonstrated encouraging diagnostic performance, with studies reporting sensitivities and specificities exceeding 80-90% in symptomatic populations. Urine cytology also shows strong diagnostic potential in selected cohorts, while metabolomic, proteomic and spectroscopy-based approaches remain promising but require further standardisation and prospective validation. Although not yet suitable for population screening, urinary biomarkers show considerable potential for risk stratification and triage of symptomatic women, potentially reducing unnecessary invasive investigations. Clinical translation will require standardised protocols, multi-centre validation and integration into existing diagnostic pathways.",
+        "journal": "British journal of cancer",
+        "authors": [
+          "Ananya Choudhury",
+          "Anthony D Whetton",
+          "Emma J Davidson",
+          "Holly Baker-Rand",
+          "Jiexin Cao",
+          "Kelechi Njoku",
+          "Molly Dore",
+          "Richard D Unwin"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-08-11T00:00:00.000Z",
+        "activityAt": "2026-08-12T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42581092/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      }
+    ]
+  }
+}
