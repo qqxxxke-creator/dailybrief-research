@@ -1,0 +1,265 @@
+{
+  "hero_headline": "《女性反复发作非复杂性下尿路感染诊治专家共识》发布：规范诊断与长期管理成关键",
+  "daily_overview": "今日妇产科值得关注的更新来自《女性反复发作非复杂性下尿路感染诊治专家共识》，该共识聚焦成年女性常见泌尿感染问题，统一诊断标准与治疗方案，对妇科门诊实践具有直接指导价值。目前暂无其他手术前沿或国际国内动态。",
+  "tech_briefs": [
+    {
+      "title": "专家共识丨反复发作的非复杂性下尿路感染，女性该如何规范诊治？",
+      "url": "https://www.cogonline.com/info/134298700024096280",
+      "source": "妇产科在线·临床指南",
+      "summary": "该专家共识聚焦女性反复发作非复杂性下尿路感染，针对诊断标准不统一、治疗方案不规范和长期管理缺失等临床挑战，提出规范化诊治建议，以降低复发率与抗生素耐药风险。原文摘要未说明与既往建议的差异。",
+      "importance": 8
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "该共识聚焦女性常见泌尿感染，规范诊治路径有助于缓解患者反复就医困境，值得在妇科与泌尿相关科室推广。",
+  "keywords": [
+    "非复杂性下尿路感染",
+    "专家共识",
+    "女性健康",
+    "规范诊治",
+    "抗生素耐药",
+    "长期管理"
+  ],
+  "research": {
+    "generatedAt": "2026-08-13T22:07:54.654Z",
+    "dataAsOf": "2026-08-13T22:07:54.654Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及宫颈癌放射敏感性与放射抵抗性的分子生物标志物：一项系统综述、大型语言模型对子痫前期风险因素的理解与已验证竞争风险模型的比较、身体圆度指数和身体形状指数作为无既定主要危险因素超重孕妇妊娠期糖尿病孕早期风险分层标志物：一项前瞻性单中心队列研究。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42589685",
+        "pmid": "42589685",
+        "doi": "10.3390/ijms27157033",
+        "title": "Molecular Biomarkers of Radiosensitivity and Radioresistance in Cervical Cancer: A Systematic Review.",
+        "abstract": "The primary aim of this review is to summarize current evidence from clinical and pre-clinical studies on endogenous molecular biomarkers associated with radiosensitivity and radioresistance in cervical cancer, including patients treated with photon-based radiotherapy, cervical cancer cell lines, and xenograft models, and to evaluate the association of these biomarkers with radiotherapy response, residual disease, recurrence and survival, and experimental measures of radiosensitivity. A systematic literature review was conducted for studies published over the last 10 years that evaluated associations between genomic, epigenetic, or protein biomarkers and radiotherapy response or survival outcomes in cervical cancer. Eligible studies included in the current analysis summarize clinical, translational, and pre-clinical studies in correlation with photon-based radiotherapy. Research focusing exclusively on non-coding RNAs, exogenous radiosensitizers, or non-photon modalities was excluded. In total, 112 studies were identified, and 46 of them met the inclusion criteria. The identified biomarkers clustered into several key biological processes: DNA damage response and cell cycle regulation, cancer stemness, hypoxia and microenvironment, epigenetic and transcriptional regulation, and signaling pathways, including exosome-mediated communication. Most markers were linked to radioresistance and adverse outcomes, whereas a smaller subset was associated with increased radiosensitivity. A limited group of biomarkers was linked to clinical outcomes such as local control, residual disease, or survival, and emerging multi-marker protein signatures suggested that combinatorial approaches may outperform single-marker strategies. Radiosensitivity in cervical cancer is regulated by a network of biological pathways. Validated, integrated biomarker panels that capture DNA repair proficiency, stemness, hypoxia adaptation, and key signaling pathways are needed to improve risk stratification and enable biomarker-guided radiosensitization.",
+        "journal": "International journal of molecular sciences",
+        "authors": [
+          "Alexandra Timea Kirsch-Mangu",
+          "Anamaria Hermina Girbovan",
+          "Cristina Balan",
+          "Eva Fischer-Fodor",
+          "Patriciu Achimas-Cadariu"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-05T00:00:00.000Z",
+        "activityAt": "2026-08-13T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42589685/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 3.75,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "宫颈癌放射敏感性与放射抵抗性的分子生物标志物：一项系统综述",
+          "researchQuestion": "总结临床和临床前研究中与宫颈癌放射敏感性和放射抵抗性相关的内源性分子生物标志物的现有证据，并评估这些生物标志物与放疗反应、残留病变、复发和生存以及实验性放射敏感性指标之间的关联。",
+          "studyDesign": "系统综述",
+          "populationAndSample": "共112项研究被识别，其中46项符合纳入标准；研究对象包括接受光子放疗的患者、宫颈癌细胞系和异种移植模型。",
+          "methods": "对过去10年发表的研究进行系统文献综述，纳入评估基因组、表观遗传或蛋白质生物标志物与宫颈癌放疗反应或生存结局相关性的研究；排除仅关注非编码RNA、外源性放射增敏剂或非光子放疗方式的研究。",
+          "keyResults": "已识别的生物标志物聚类于多个关键生物学过程：DNA损伤反应与细胞周期调控、癌症干细胞性、缺氧与微环境、表观遗传和转录调控、信号通路（包括外泌体介导的通讯）。大多数标志物与放射抵抗性和不良结局相关，较少亚组与放射敏感性增加相关。有限的一组标志物与局部控制、残留病变或生存等临床结局相关；新兴多标志物蛋白特征提示组合方法可能优于单一标志物策略。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "宫颈癌放射敏感性受多个生物学通路网络调控。需要经过验证的、整合的生物标志物面板，涵盖DNA修复能力、干细胞性、缺氧适应和关键信号通路，以改善风险分层并实现生物标志物指导的放射增敏。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "ad7af8e0b05ff68757c14c751ff1aae80b728206ce53b03c502de5ad20cae87e"
+      },
+      {
+        "id": "pmid:42587578",
+        "pmid": "42587578",
+        "doi": "10.3390/diagnostics16152340",
+        "title": "Understanding of Preeclampsia Risk Factors in Large Language Models Compared with a Validated Competing-Risks Model.",
+        "abstract": "Background: First-trimester screening for preterm preeclampsia relies on validated competing-risks models integrating maternal characteristics with biochemical and biophysical markers to generate individualized risk estimates. Large language models (LLMs) are increasingly used for pregnancy-related health information, yet their alignment with established clinical risk models remains unclear. Objective: to perform an exploratory, local perturbation-based assessment of how LLM-generated numerical risk estimates reproduce the direction and relative magnitude of established preeclampsia predictor effects compared with the Fetal Medicine Foundation (FMF) competing-risks model. Methods: A total of 129 synthetic clinical scenarios were generated from a low-risk reference pregnancy using a one-factor-at-a-time perturbation approach across 16 risk factors represented as 22 predictors. Eight LLMs (Claude, GPT, DeepSeek, Gemini, Copilot, Meta, Mistral, and Grok) estimated the probability of preeclampsia requiring delivery before 37 weeks. Corresponding risks were calculated using the FMF model. Model behavior was analyzed in logit space using a local perturbation-based modeling approach inspired by Local Interpretable Model-Agnostic Explanations (LIME) to derive feature-effect coefficients. Agreement with the FMF model was assessed using correlation, directional concordance, cosine similarity, and normalized root mean squared error, summarized using an exploratory composite score. Results: The FMF model identified mean arterial pressure, placental growth factor, parity, uterine artery pulsatility index, and chronic hypertension as dominant predictors. Alignment between LLM outputs and the FMF model was heterogeneous, with composite scores ranging from 0.59 to 0.82. Models with higher descriptive scores preserved predictor directionality (up to 90.9%) and rank ordering, but agreement in magnitude and scaling was limited (R 2 : 0.44-0.59). Intermediate models showed preserved directionality with reduced magnitude agreement, while lower-scoring models demonstrated more frequent sign inconsistencies and minimal variance explained. Conclusions: LLMs demonstrated partial, prompt-specific alignment with the FMF model in this local perturbation analysis, particularly for predictor direction and relative importance, but did not consistently reproduce quantitative effect sizes. This approach was intended to characterize local model behavior around a predefined reference case rather than evaluate clinically realistic combinations of interacting risk factors or global clinical prediction performance. Given the evolving nature of LLMs, ongoing reassessment using standardized approaches is required.",
+        "journal": "Diagnostics (Basel, Switzerland)",
+        "authors": [
+          "Alexandra Ursache",
+          "Alexandra-Elena Cristofor",
+          "Alexandru Carauleanu",
+          "Denisa-Oana Zelinschi",
+          "Dragos Nemescu",
+          "Oriana-Maria Onicescu"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-07-26T00:00:00.000Z",
+        "activityAt": "2026-08-13T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42587578/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "大型语言模型对子痫前期风险因素的理解与已验证竞争风险模型的比较",
+          "researchQuestion": "评估大型语言模型生成的数值风险估计能否再现已建立的子痫前期预测因子效应的方向和相对大小，并与胎儿医学基金会（FMF）竞争风险模型进行比较。",
+          "studyDesign": "探索性、基于局部扰动的评估研究",
+          "populationAndSample": "从低风险参考妊娠生成129个合成临床场景，使用一次一个因素的扰动方法，涵盖16个风险因素（表示为22个预测因子）；评估8个大型语言模型（Claude、GPT、DeepSeek、Gemini、Copilot、Meta、Mistral和Grok）。",
+          "methods": "每个LLM估计需要37周前分娩的子痫前期概率，并采用FMF模型计算相应风险。在logit空间中使用基于局部扰动的建模方法（受局部可解释模型无关解释[LIME]启发）推导特征效应系数。使用相关性、方向一致性、余弦相似性和归一化均方根误差评估与FMF模型的一致性，并采用探索性综合评分进行总结。",
+          "keyResults": "FMF模型识别平均动脉压、胎盘生长因子、产次、子宫动脉搏动指数和慢性高血压为主要预测因子。LLM输出与FMF模型的一致性呈异质性，综合评分范围为0.59至0.82。描述性评分较高的模型保留了预测因子方向性（高达90.9%）和排序，但幅度和标度一致性有限（R²：0.44-0.59）。中间模型显示方向性保留但幅度一致性降低，而低分模型显示更频繁的符号不一致和极小的方差解释。",
+          "limitations": "该方法旨在表征预定义参考案例附近的局部模型行为，而非评估临床上现实的交互风险因素组合或全局临床预测性能。由于LLM的不断演进，需要使用标准化方法进行持续重新评估。",
+          "clinicalInterpretation": "在此局部扰动分析中，LLMs与FMF模型表现出部分、提示词特异的一致性，尤其是在预测因子方向和相对重要性方面，但不能一致地再现定量效应大小。LLMs不应被视为已验证临床风险模型的替代物。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "fcee841b8797dc57e4d285110c8a7beab133c0c021c63e0da6e6a1c4f54dbf66"
+      },
+      {
+        "id": "pmid:42587621",
+        "pmid": "42587621",
+        "doi": "10.3390/diagnostics16152384",
+        "title": "Body Roundness Index and A Body Shape Index as First-Trimester Risk-Stratification Markers for Gestational Diabetes in Overweight Pregnant Women Without Established Major Risk Factors: A Prospective Single-Center Cohort Study.",
+        "abstract": "Background/Objectives: Universal screening for gestational diabetes mellitus (GDM) is performed at 24-28 gestational weeks, but recommendations for earlier risk stratification differ across guidelines. Overweight pregnant women (body mass index [BMI] 25.0-29.9 kg/m 2 ) without established major GDM risk factors constitute a clinical gray zone for which current guidelines provide no explicit directive. We evaluated the first-trimester diagnostic performance of two composite anthropometric indices-the Body Roundness Index (BRI) and A Body Shape Index (ABSI)-for subsequent IADPSG-defined GDM within this specific clinical niche. Methods: This prospective single-center cohort study enrolled 198 consecutive overweight pregnant women without major GDM risk factors at 11 + 0 to 13 + 6 gestational weeks; 186 participants completed the 75 g OGTT at 24-28 weeks and were analyzed. Anthropometric measurements were obtained by trained nurses blinded to outcome. Glucose was assayed by hexokinase enzymatic reference method (intra-assay CV ≤ 1.5%). Discrimination, calibration, reclassification (NRI, IDI), decision curve analysis, and three independent internal validation procedures were performed. Results: GDM prevalence was 18.28% (34/186). BRI achieved an AUC of 0.905 (95% CI 0.835-0.974) and ABSI an AUC of 0.889 (95% CI 0.815-0.963), both significantly greater than BMI (AUC 0.705; DeLong p < 0.001). The optimal BRI cutoff of 4.45-interpreted as a cohort-specific analytic anchor rather than a transferable clinical threshold-yielded 85.3% sensitivity and 90.8% specificity. Adding BRI to BMI improved discrimination by 45.6% (IDI). Bootstrap optimism remained below 0.01 across all models. Conclusions: Following internal validation through bootstrap optimism correction and cross-validation, first-trimester BRI and ABSI provided strong supplementary risk stratification for GDM in overweight pregnant women without major risk factors. External validation in independent populations is required before clinical implementation.",
+        "journal": "Diagnostics (Basel, Switzerland)",
+        "authors": [
+          "Bilge Erbey",
+          "Çağanay Soysal",
+          "Cansın Eroğlu",
+          "Mehmet Alican Sapmaz",
+          "Murat Polat",
+          "Ömer Osman Eroğlu",
+          "Sait Erbey"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-07-29T00:00:00.000Z",
+        "activityAt": "2026-08-13T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42587621/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "身体圆度指数和身体形状指数作为无既定主要危险因素超重孕妇妊娠期糖尿病孕早期风险分层标志物：一项前瞻性单中心队列研究",
+          "researchQuestion": "评估孕早期两个复合人体测量指数——身体圆度指数（BRI）和身体形状指数（ABSI）——对后续IADPSG定义的妊娠期糖尿病（GDM）的诊断性能，人群为超重但无主要GDM危险因素的孕妇。",
+          "studyDesign": "前瞻性单中心队列研究",
+          "populationAndSample": "连续纳入198例孕11+0至13+6周、无主要GDM危险因素的超重孕妇；186例完成24-28周75g口服葡萄糖耐量试验（OGTT）并纳入分析。GDM患病率为18.28%（34/186）。",
+          "methods": "由对结局不知情的培训护士获取人体测量数据；葡萄糖采用己糖激酶酶学参考方法测定（批内变异系数≤1.5%）。进行区分度、校准、重分类（NRI、IDI）、决策曲线分析以及三个独立内部验证程序。",
+          "keyResults": "BRI的AUC为0.905（95%CI 0.835-0.974），ABSI的AUC为0.889（95%CI 0.815-0.963），均显著大于BMI的AUC（0.705；DeLong p<0.001）。BRI最佳截断值4.45被解释为队列特异性分析锚点而非可转移临床阈值，其产生85.3%敏感性和90.8%特异性。将BRI加入BMI将判别能力改善45.6%（IDI）。所有模型的Bootstrap乐观度均低于0.01。",
+          "limitations": "内部验证通过bootstrap乐观校正和交叉验证完成；在临床应用前需要独立人群的外部验证。",
+          "clinicalInterpretation": "经内部验证，孕早期BRI和ABSI为无主要危险因素的超重孕妇提供了强有力的GDM补充风险分层。由于截断值为队列特异性，在外部验证前不应将其作为临床阈值使用。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "b03a5add18b7d2670b435deeef9102bcbf5cb606a715e4dcb7bbe98afd00b6f2"
+      },
+      {
+        "id": "pmid:42587706",
+        "pmid": "42587706",
+        "doi": "10.3390/diagnostics16152470",
+        "title": "Intestinal Endometriosis in a 38-Year-Old Woman.",
+        "abstract": "Endometriosis is a common gynecological disorder that can involve the intestinal tract and may present with bleeding, bowel obstruction, and, rarely, perforation or malignant transformation. Intestinal endometriosis can mimic malignant tumors or other conditions, which may lead to unnecessary aggressive surgical resections. It continues to be a challenging diagnosis to make preoperatively. We report a case of intestinal endometriosis with endoscopic features of lymphatic dilatation-like changes, which correlated with the pathological findings, aiming to provide a reference for the endoscopic recognition of intestinal endometriosis.",
+        "journal": "Diagnostics (Basel, Switzerland)",
+        "authors": [
+          "Aiming Yang",
+          "Qiang Wang",
+          "Ruoxi Zhang",
+          "Xiaoqing Li"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-05T00:00:00.000Z",
+        "activityAt": "2026-08-13T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42587706/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "38岁女性肠道子宫内膜异位症",
+          "researchQuestion": "报告一例内镜下表现为淋巴管扩张样改变并与病理结果相关的肠道子宫内膜异位症病例，旨在为肠道子宫内膜异位症的内镜识别提供参考。",
+          "studyDesign": "病例报告",
+          "populationAndSample": "一例38岁女性肠道子宫内膜异位症患者。",
+          "methods": "病例报告，描述其内镜下特征及与病理结果的相关性。",
+          "keyResults": "报道了一例肠道子宫内膜异位症，其内镜特征为淋巴管扩张样改变，与病理结果相关。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "肠道子宫内膜异位症可模拟恶性肿瘤或其他疾病，可能导致不必要的激进手术切除。该病例的内镜特征与病理相关，可为该病的内镜识别提供参考。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "056c40f0fa74ac490eb5e01ca61401a166dfecadd582512a0630b9486d915eab"
+      },
+      {
+        "id": "pmid:42588216",
+        "pmid": "42588216",
+        "doi": "10.3390/healthcare14152249",
+        "title": "Development and Temporal Validation of a Discharge-Based Administrative Data Risk Model for 30-Day Unplanned Readmission After Endometrial Cancer Staging Surgery.",
+        "abstract": "Background : Postoperative complications after staging surgery for endometrial cancer often occur after discharge, and 30-day unplanned readmission is an important post-discharge outcome. Existing models lack same-day usability at discharge and sufficient validation, limiting discharge-time risk stratification and transitional care planning. This study aimed to develop and validate a discharge-time risk prediction model based on administrative data for 30-day unplanned hospital readmission among patients undergoing staging surgery for endometrial cancer. Methods : This retrospective cohort study was conducted in accordance with the TRIPOD reporting guidelines. We constructed a nationally representative adult cohort using the Healthcare Cost and Utilization Project Nationwide Readmissions Database (HCUP-NRD) from 2016 to 2022, including index hospitalizations discharged between January and November to ensure complete 30-day follow-up. Variables available at discharge (demographics, payer/income, presentation, inpatient course, discharge disposition, hospital characteristics, Elixhauser index) were included; age and length of stay were modeled with restricted cubic splines. Complex survey-weighted multivariable logistic regression was used for model development with 1000 bootstrap internal validations. Temporal validation within the NRD was performed using 2020-2021 and 2022 data. Decision curve analysis, subgroup, and sensitivity analyses were conducted. Results : A total of 89,627 hospitalizations were included; development and validation cohorts had balanced baselines. Internal validation showed moderate discrimination (AUC 0.719) and good calibration (Brier 0.045; intercept 0.014; slope 0.955). Discharge to home health or institutional care, non-elective or emergency admission, and a higher Elixhauser readmission index (a measure of comorbidity burden) were associated with increased risk. Age and length of stay showed nonlinear associations. Temporal validation yielded a similar performance (AUC 0.708-0.713; Brier 0.043-0.046), and decision curves indicated positive net clinical benefit. Conclusions : The model demonstrated stable discrimination and maintained good calibration after temporal validation and recalibration. It represents a candidate discharge-time decision-support tool, based on administrative data, for identifying patients at higher risk of 30-day unplanned readmission, and may support nurse-led transitional care planning. External validation and local recalibration are required before application in other healthcare settings.",
+        "journal": "Healthcare (Basel, Switzerland)",
+        "authors": [
+          "Jiong Ma",
+          "Lingdan Lu",
+          "Pu Cheng",
+          "Yanyan Ma",
+          "Yue Pang"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-07-23T00:00:00.000Z",
+        "activityAt": "2026-08-13T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42588216/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      }
+    ]
+  }
+}
