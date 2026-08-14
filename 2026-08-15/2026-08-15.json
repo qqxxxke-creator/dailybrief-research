@@ -1,0 +1,286 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-08-14T22:56:18.998Z",
+    "dataAsOf": "2026-08-14T22:56:18.998Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及富血小板血浆治疗生殖疾病的价值：一项伞形综述、妊娠期维生素D缺乏与LDL-C增幅更大、β-羟基丁酸升高及新生儿代谢标志物改变相关——基于DALI随机对照试验的二次汇总分析、微创根治性子宫切除术后12年宫颈癌IA1期晚期转移性复发。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42599750",
+        "pmid": "42599750",
+        "doi": "10.1111/aji.70305",
+        "title": "The Value of Platelet-Rich Plasma Treatment in Reproductive Disorders: An Umbrella Review.",
+        "abstract": "Platelet-rich plasma (PRP) is an autologous regenerative therapy investigated for improving endometrial receptivity, ovarian function, and reproductive outcomes. To address inconsistent findings across existing reviews, we conducted an umbrella review of systematic reviews and meta-analyses identified from PubMed, Embase, Web of Science, and the Cochrane Library, with evidence appraised using AMSTAR-2 and GRADE. Twenty-one reviews were included. In women with recurrent implantation failure, intrauterine PRP was associated with improved live birth, clinical pregnancy, and biochemical pregnancy rates. Similar benefits were observed in women with previous implantation failure and in assisted reproductive technology (ART) populations. PRP also modestly increased endometrial thickness and implantation rates. In women with thin endometrium or intrauterine adhesions, PRP improved pregnancy outcomes and reduced cycle cancellation, while miscarriage rates were largely unchanged. Intra-ovarian PRP improved ovarian reserve markers, hormone profiles, oocyte yield, and embryo quality in women with poor ovarian response, premature ovarian insufficiency, or diminished ovarian reserve, although effects on pregnancy and live birth were variable. Overall, PRP shows potential benefits, but the certainty of evidence ranged from very low to moderate due to heterogeneity and methodological limitations. High-quality randomized controlled trials are required to confirm efficacy and guide clinical practice.",
+        "journal": "American journal of reproductive immunology (New York, N.Y. : 1989)",
+        "authors": [
+          "Guangyu Ma",
+          "Jian Chen",
+          "Lang Qin",
+          "Rui Gao",
+          "Wanrong Huang",
+          "Xun Zeng"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-01T00:00:00.000Z",
+        "activityAt": "2026-08-14T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42599750/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "富血小板血浆治疗生殖疾病的价值：一项伞形综述",
+          "researchQuestion": "评估富血小板血浆（PRP）在改善子宫内膜容受性、卵巢功能及生殖结局方面的价值及其证据质量。",
+          "studyDesign": "伞形综述（对系统评价和Meta分析的系统再评价）",
+          "populationAndSample": "共纳入21篇系统评价和Meta分析；涉及复发性着床失败、既往着床失败、辅助生殖技术（ART）人群、薄型子宫内膜、宫腔粘连、卵巢低反应、早发性卵巢功能不全及卵巢储备功能减退等患者群体。",
+          "methods": "检索PubMed、Embase、Web of Science和Cochrane Library，使用AMSTAR-2和GRADE工具进行证据评价。",
+          "keyResults": "宫腔内PRP与复发性着床失败女性活产率、临床妊娠率及生化妊娠率改善相关；既往着床失败和ART人群中观察到类似获益。PRP还轻度增加子宫内膜厚度和着床率。在薄型子宫内膜或宫腔粘连女性中，PRP改善妊娠结局并减少周期取消，但流产率基本不变。卵巢内PRP改善卵巢储备标志物、激素谱、获卵数和胚胎质量，但对妊娠和活产的影响不一。证据确定性介于极低至中等。",
+          "limitations": "各原始研究存在异质性及方法学局限性；需要高质量随机对照试验来确证疗效。",
+          "clinicalInterpretation": "PRP在生殖疾病中显示出潜在获益，但目前证据确定性有限，尚不能据此形成明确临床指导。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "42bcc8d26e035d5d910198da6816ea8b80b154e00ba4309b853d9345d73a0117"
+      },
+      {
+        "id": "pmid:42594354",
+        "pmid": "42594354",
+        "doi": "10.1002/edm2.70258",
+        "title": "Vitamin D Deficiency During Pregnancy Is Associated With Greater LDL-C Increase, Elevated β-Hydroxybutyrate and Altered Neonatal Metabolic Markers-A Secondary, Pooled Analysis of the Randomized, Controlled Vitamin D and Lifestyle for Gestational Diabetes Prevention Trial (DALI).",
+        "abstract": "INTRODUCTION: Vitamin D (vitD) plays a role in metabolic regulation, including lipid metabolism and insulin sensitivity. During pregnancy, profound physiological changes in lipid handling and ketogenesis occur to support fetal development. However, the extent to which maternal vitamin D status influences these metabolic adaptations and fetal metabolic markers remains unclear.\nMETHODS: In this secondary analysis, we examined lipid distribution throughout pregnancy-from before 20 weeks' gestation to delivery-in women with overweight or obesity, stratified by vitamin D status (deficiency, insufficiency, or sufficiency), assessing both maternal and cord blood. Main inclusion criteria were: age > =18 years, singleton pregnancy, < 20 weeks' gestation, BMI ≥ 29 kg/m 2 . Women with GDM < 20 weeks' gestation were excluded. In total, 962 pregnant women were divided into vitD deficient (< 30 nmol/L, n = 102), insufficient (30-50 nmol/L, n = 222) and sufficient (> 50 nmol/L, n = 638) groups. VitD levels and lipid concentrations were assessed at < 20, 24-28 and 35-37 weeks' gestation and in cord blood.\nRESULTS: Compared with vitD sufficient women, women with vitD deficiency had significantly larger increases in LDL-C throughout pregnancy and ß-OH-butyrate at 24-28 weeks' gestation, in adjusted analysis. VitD in cord blood was highest in offspring of mothers with vitD sufficiency. In cord blood, significantly higher ß-OH-butyrate was observed with vitD deficiency; lipid concentrations were similar between groups.\nCONCLUSIONS: Early vitamin D deficiency before 20 weeks of gestation was associated with altered metabolic trajectories during pregnancy, including greater increases in LDL cholesterol and ketone body concentrations in women with overweight or obesity, as well as higher cord blood ketone levels in their offspring. These findings suggest that early maternal vitamin D status may influence maternal and fetal metabolic adaptations, although causal relationships and clinical implications require further investigation.\nTRIAL REGISTRATION: Trial registered at ISRCTN registry (https://doi.org/10.1186/ISRCTN70595832) trial number ISRCTN70595832. Registration date 02/12/2011.",
+        "journal": "Endocrinology, diabetes & metabolism",
+        "authors": [
+          "Agnieszka Zawiejska",
+          "Alessandra Bertolotto",
+          "Alexandra Kautzky-Willer",
+          "Annunziata Lapolla",
+          "Christof Worda",
+          "Dagmar Bancher-Todesca",
+          "David Hill",
+          "David Simmons",
+          "Dorte M Jensen",
+          "Elisabeth R Mathiesen",
+          "Ewa Wender-Ozegowska",
+          "Fidelma Dunne",
+          "Frank J Snoek",
+          "Gernot Desoye",
+          "Judith G M Jelsma",
+          "Jürgen Harreiter",
+          "Lilian C Mendoza",
+          "Lise Lotte T Andersen",
+          "Maria G Dalfra",
+          "Mireille N M van Poppel",
+          "Peter Damm",
+          "Roland Devlieger",
+          "Rosa Corcoy",
+          "Sander Galjaard",
+          "Teresa Gisinger"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-09-01T00:00:00.000Z",
+        "activityAt": "2026-08-13T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42594354/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "妊娠期维生素D缺乏与LDL-C增幅更大、β-羟基丁酸升高及新生儿代谢标志物改变相关——基于DALI随机对照试验的二次汇总分析",
+          "researchQuestion": "在超重或肥胖孕妇中，孕早期维生素D状态是否影响孕期血脂和酮体代谢轨迹及胎儿脐血代谢标志物。",
+          "studyDesign": "随机对照试验的二次汇总分析（DALI试验的次要分析）",
+          "populationAndSample": "共962例孕妇，纳入标准为年龄≥18岁、单胎妊娠、孕周<20周、BMI≥29 kg/m²；排除孕20周前诊断妊娠期糖尿病的女性。按维生素D水平分组：缺乏（<30 nmol/L，n=102），不足（30–50 nmol/L，n=222），充足（>50 nmol/L，n=638）。",
+          "methods": "在孕<20周、24–28周、35–37周及脐血中检测维生素D和血脂等指标，并进行校正后的组间比较分析。",
+          "keyResults": "与维生素D充足组相比，维生素D缺乏组在整个孕期的LDL-C增幅显著更大，且24–28周β-羟基丁酸显著升高。脐血维生素D水平在母亲维生素D充足组最高。脐血中，维生素D缺乏组β-羟基丁酸显著更高，但各组血脂浓度相似。",
+          "limitations": "摘要未报告明确的局限性，但指出因果关系和临床意义需要进一步研究。",
+          "clinicalInterpretation": "孕20周前维生素D缺乏与超重或肥胖孕妇孕期代谢轨迹改变（LDL-C和酮体增加）及后代脐血酮体升高相关，提示早期维生素D状态可能影响母胎代谢适应，但尚不能确立因果关系。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "2cfcab031d477d56ee6d96ff74af122ccd6c08d3df6bf9ae0fdb454ec59f4a2c"
+      },
+      {
+        "id": "doi:10.1016/j.jmig.2026.08.007",
+        "doi": "10.1016/j.jmig.2026.08.007",
+        "title": "Late metastatic recurrence of stage IA1 cervical cancer 12 years after minimally invasive radical hysterectomy",
+        "abstract": "Most cervical cancer recurrences occur within the first two years following primary treatment, with recurrence after more than 10 years considered rare1,2.",
+        "journal": "Journal of Minimally Invasive Gynecology",
+        "authors": [
+          "Talah Almsafi, Reitan Ribeiro, Lucy Gilbert, Shuk On Annie Leung"
+        ],
+        "publicationTypes": [],
+        "publishedAt": "2026-08-14T00:00:00.000Z",
+        "activityAt": "2026-08-14T00:00:00.000Z",
+        "url": "https://www.jmig.org/article/S1553-4650(26)00440-1/fulltext?rss=yes",
+        "sourceKinds": [
+          "journal-rss"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "微创根治性子宫切除术后12年宫颈癌IA1期晚期转移性复发",
+          "researchQuestion": "报告一例宫颈癌IA1期在微创根治性子宫切除术后12年发生晚期转移性复发的临床情况（摘要仅提供背景，未给出病例细节）。",
+          "studyDesign": "摘要未报告研究设计；根据标题提示为病例报告。",
+          "populationAndSample": "摘要未报告。",
+          "methods": "摘要未报告。",
+          "keyResults": "摘要仅指出大多数宫颈癌复发发生在初次治疗后前两年内，超过10年的复发罕见；未报告该病例的具体转归数据。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "该报道提示宫颈癌治疗后超过10年仍可能出现晚期复发，但摘要未提供具体病例信息，无法进一步解读。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "86d7a138079a52530f9460fa6bfb12e16518a1b1896387e2bbd70c2c7eca3aeb"
+      },
+      {
+        "id": "pmid:42595793",
+        "pmid": "42595793",
+        "doi": "10.1038/s41417-026-01071-2",
+        "title": "Nicotinamide mononucleotide potentiates the anti-tumor efficacy of CAR-NK cell therapy targeting MSLN in ovarian cancer.",
+        "abstract": "Chimeric antigen receptor-engineered NK cells targeting mesothelin (MSLN CAR-NK) have emerged as promising off-the-shelf immunotherapeutics for multiple malignancies. However, their clinical translation remains constrained by inefficient cytotoxic potency and limited persistence. This study investigated the therapeutic potential of nicotinamide mononucleotide (NMN), a metabolic modulator known to enhance immune cell functionality, in augmenting MSLN CAR-NK cell efficacy against ovarian cancer (OC). Through systematic evaluation, we found that NMN supplementation significantly enhanced CAR-NK cell activation marker expression (CD69, NKG2D), degranulation capacity (CD107a + increased by 21.7 ± 1.1%), and cytokine production (IFN-γ elevated 1.3-fold). In addition, NMN treatment potentiated MSLN CAR-NK cell-mediated cytotoxicity against MSLN + target cells, achieving 32.8 ± 1.4% specific lysis at an effector-to-target ratio of 25:1, while concurrently reducing cellular apoptosis compared with controls. Mechanistic interrogation via transcriptomic profiling revealed NMN-mediated modulation of PLC-γ phosphorylation cascades and mitochondrial redox homeostasis. Notably, NMN effectively counteracted tumor microenvironment-induced mitochondrial ROS accumulation (reduced by 25.1 ± 0.8% in OC-conditioned medium). Critically, in an OVCAR8-MSLN xenograft model, adoptive transfer of NMN-preconditioned CAR-NK cells led to superior tumor control, reduced proliferation (Ki67), diminished angiogenesis (CD31), and enhanced intratumoral CAR-NK infiltration compared with controls. These findings establish NMN as a clinically relevant adjuvant that augments CAR-NK cell efficacy through dual mechanisms: metabolic enhancement of effector functions and protection against microenvironmental oxidative suppression, thereby offering a translatable strategy to improve CAR-NK therapy for ovarian cancer.",
+        "journal": "Cancer gene therapy",
+        "authors": [
+          "Chunming Xiang",
+          "Mengting Wang",
+          "Minghui Chu",
+          "Peng Zhang",
+          "Qizhao Wang",
+          "Shijun Shen",
+          "Xiaotong Deng",
+          "Xin Ouyang",
+          "Xinyu Wei",
+          "Yao Xu",
+          "Zhe Sun"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-13T00:00:00.000Z",
+        "activityAt": "2026-08-14T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42595793/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "烟酰胺单核苷酸增强靶向MSLN的CAR-NK细胞治疗卵巢癌的抗肿瘤疗效",
+          "researchQuestion": "烟酰胺单核苷酸（NMN）能否通过代谢增强和抗微环境氧化抑制来增强靶向间皮素（MSLN）的CAR-NK细胞对卵巢癌的治疗效果。",
+          "studyDesign": "临床前实验研究（体外细胞实验和异种移植动物模型）",
+          "populationAndSample": "卵巢癌细胞系及OVCAR8-MSLN异种移植模型（摘要未报告细胞系和动物模型的详细来源，属临床前研究）。",
+          "methods": "系统评估NMN补充对MSLN CAR-NK细胞激活标志物、脱颗粒能力、细胞因子产生、细胞毒性、凋亡的影响；通过转录组分析探索机制；在含卵巢癌条件培养基中检测线粒体活性氧（ROS）；并在OVCAR8-MSLN异种移植模型中评估NMN预处理的CAR-NK细胞的抗肿瘤效果。",
+          "keyResults": "NMN显著增强CAR-NK细胞激活标志物（CD69、NKG2D）表达；脱颗粒能力CD107a+增加21.7±1.1%；IFN-γ升高1.3倍；在25:1效靶比下对MSLN+靶细胞的特异性裂解达32.8±1.4%；同时较对照组减少细胞凋亡。机制涉及PLC-γ磷酸化级联和线粒体氧化还原稳态调节。NMN使卵巢癌条件培养基诱导的线粒体ROS积累减少25.1±0.8%。在OVCAR8-MSLN异种移植模型中，输注NMN预处理的CAR-NK细胞较对照组实现更优的肿瘤控制、增殖标志物Ki67降低、血管生成标志物CD31降低、瘤内CAR-NK浸润增加。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "NMN可能通过增强效应功能和抵抗微环境氧化抑制的双重机制，作为临床相关的佐剂提升CAR-NK细胞治疗卵巢癌的疗效，但该结论来自临床前研究，仍需进一步验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "d865eb52ce1c629a77d2c5d23fcec11466c77d5a3e57bdf867437fa17ce93d4c"
+      },
+      {
+        "id": "pmid:42596844",
+        "pmid": "42596844",
+        "doi": "10.1080/03007995.2026.2717002",
+        "title": "Assessment of the fetal Evans Index in pregnancies complicated by fetal growth restriction.",
+        "abstract": "BACKGROUND: Fetal growth restriction (FGR) can affect fetal brain development despite adaptive circulatory redistribution. The fetal Evans Index (EI)-the ratio of frontal horn width to inner cranial diameter-may capture proportional cranial remodeling in FGR.\nMETHODS: In a prospective case-control study of singleton pregnancies ≥32 weeks, FGR was defined by Delphi consensus criteria. EI and frontal proportional ratios were obtained on the standardized axial transventricular plane. We evaluated how well EI distinguished FGR cases from controls and whether its association with NICU admission was independent of conventional fetal growth measurements.\nRESULTS: The cohort comprised 129 pregnancies (67 FGR, 62 controls). EI was lower in FGR than in controls (0.28 ± 0.02 vs 0.30 ± 0.02; p < 0.001), alongside reduced frontal horn width and a lower FABD/OFD ratio ( p < 0.001). EI correlated strongly with frontal horn width ( r = 0.752, p < 0.001). EI provided moderate discrimination for FGR (AUC = 0.707, 95% CI 0.617-0.797; cut-off 0.297; sensitivity 78.8%, specificity 51.6%). NICU admission was markedly higher in FGR (44.8% vs 4.8%; p < 0.001). EI ≥ 0.297 was associated with reduced NICU odds in univariate analysis (OR = 0.20, 95% CI 0.07-0.62), but not after adjustment (adjusted OR = 0.38, 95% CI 0.11-1.38); abdominal circumference percentile remained independently associated with NICU admission (adjusted OR = 0.97, 95% CI 0.95-0.99).\nCONCLUSIONS: Late-onset FGR is associated with reduced EI and altered frontal proportional indices, suggesting subtle anterior cerebral remodeling rather than ventriculomegaly. EI may provide complementary neurosonographic information, but its stand-alone diagnostic or prognostic value appears limited.",
+        "journal": "Current medical research and opinion",
+        "authors": [
+          "Ahmet Kurt",
+          "Aykut Kından",
+          "Aziz Kından",
+          "Bahadır Codal",
+          "Belgin Savran Üçok",
+          "Çağlayan Ateş",
+          "Erkan Sağlam",
+          "Kadriye Yakut Yücel",
+          "Mustafa Raşit Özler",
+          "Özgür Volkan Akbulut",
+          "Recep Taha Ağaoğlu"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-14T00:00:00.000Z",
+        "activityAt": "2026-08-14T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42596844/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "胎儿生长受限妊娠中胎儿Evans指数的评估",
+          "researchQuestion": "胎儿生长受限（FGR）是否伴随胎儿Evans指数（EI）改变，以及EI能否区分FGR并预测新生儿重症监护病房（NICU）入住。",
+          "studyDesign": "前瞻性病例对照研究",
+          "populationAndSample": "共129例单胎妊娠（≥32周），其中67例为FGR（按Delphi共识标准定义），62例为对照组。",
+          "methods": "在标准轴位经侧脑室平面测量Evans指数（额角宽度/颅腔内径）及额叶比例指标，评估EI区分FGR与对照的能力，并分析EI与NICU入住的关联是否独立于常规胎儿生长测量指标。",
+          "keyResults": "FGR组EI低于对照组（0.28±0.02 vs 0.30±0.02；p<0.001），额角宽度和FABD/OFD比值也较低（p<0.001）。EI与额角宽度强相关（r=0.752，p<0.001）。EI区分FGR的AUC为0.707（95% CI 0.617–0.797），取截断值0.297时敏感度78.8%、特异度51.6%。FGR组NICU入住率显著高于对照组（44.8% vs 4.8%；p<0.001）。单因素分析中EI≥0.297与NICU入住几率降低相关（OR=0.20，95% CI 0.07–0.62），但校正后不再显著（校正OR=0.38，95% CI 0.11–1.38）；腹围百分位数仍与NICU入住独立相关（校正OR=0.97，95% CI 0.95–0.99）。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "晚发型FGR与EI降低和额叶比例指数改变相关，提示可能存在轻微的前脑重塑而非脑室扩大；EI可提供补充性神经超声信息，但其单独的诊断或预后价值有限。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "991dd49e9a10f7c0e0f2e94d8a0ecaf3b3a17d6d193e344deb79fb6f0402aecf"
+      }
+    ]
+  }
+}
