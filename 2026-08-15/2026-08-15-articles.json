@@ -1,4 +1,17 @@
 {
   "date": "2026-08-15",
-  "articles": []
+  "articles": [
+    {
+      "sourceId": "medical-xpress-obgyn",
+      "title": "Genome analysis uncovers candidate genes for hereditary breast and ovarian cancer",
+      "url": "https://medicalxpress.com/news/2026-08-genome-analysis-uncovers-candidate-genes.html",
+      "excerpt": "Breast cancer is the most common form of cancer among women in Germany: Around 1 in 8 women will develop it during their lifetime. In around 5% to 10% of cases, the condition is caused by a hereditary predisposition. Thirteen risk genes have currently been identified for genetic testing, including t",
+      "publishedAt": "2026-08-14T16:20:04.000Z",
+      "category": "politics",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "该研究通过基因组分析识别遗传性乳腺癌和卵巢癌的候选基因。文中指出乳腺癌是女性最常见癌症，约5%至10%的病例由遗传易感性导致，目前已有13个风险基因用于基因检测。",
+      "reviewStatus": "accepted",
+      "lowPriority": false
+    }
+  ]
 }

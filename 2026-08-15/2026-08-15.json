@@ -1,14 +1,29 @@
 {
-  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
-  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "hero_headline": "基因组分析锁定遗传性乳腺癌与卵巢癌候选基因",
+  "daily_overview": "今日妇产科要闻聚焦一项遗传性乳腺癌与卵巢癌的基因组研究，结果显示约5%至10%的乳腺癌由遗传因素驱动，新候选基因的发现为妇科肿瘤遗传风险评估提供潜在研究线索，临床意义值得关注。",
   "tech_briefs": [],
   "finance_briefs": [],
-  "politics_briefs": [],
-  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
-  "keywords": [],
+  "politics_briefs": [
+    {
+      "title": "Genome analysis uncovers candidate genes for hereditary breast and ovarian cancer",
+      "url": "https://medicalxpress.com/news/2026-08-genome-analysis-uncovers-candidate-genes.html",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "该研究通过基因组分析识别遗传性乳腺癌和卵巢癌候选基因。乳腺癌是德国女性最常见的癌症，约1/8女性一生中会发病，其中5%至10%由遗传因素导致。该发现为妇科肿瘤遗传风险评估提供潜在研究线索，但临床转化意义尚需进一步验证。",
+      "importance": 8
+    }
+  ],
+  "editor_note": "遗传性乳腺癌卵巢癌基因研究是精准防控的重要基础，提示临床应重视高危人群遗传咨询与风险管理，但转化应用仍需循证支持。",
+  "keywords": [
+    "遗传性乳腺癌",
+    "卵巢癌",
+    "基因组分析",
+    "候选基因",
+    "遗传咨询",
+    "妇科肿瘤"
+  ],
   "research": {
-    "generatedAt": "2026-08-14T23:41:43.407Z",
-    "dataAsOf": "2026-08-14T23:41:43.407Z",
+    "generatedAt": "2026-08-14T23:57:17.311Z",
+    "dataAsOf": "2026-08-14T23:57:17.311Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及富血小板血浆治疗生殖疾病的价值：一项伞形综述、妊娠期维生素D缺乏与LDL-C增幅更大、β-羟基丁酸升高及新生儿代谢标志物改变相关——基于DALI随机对照试验的二次汇总分析、微创根治性子宫切除术后12年宫颈癌IA1期晚期转移性复发。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
