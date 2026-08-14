@@ -7,8 +7,8 @@
   "editor_note": "过去24小时暂无符合质量要求的重要更新。",
   "keywords": [],
   "research": {
-    "generatedAt": "2026-08-14T22:56:18.998Z",
-    "dataAsOf": "2026-08-14T22:56:18.998Z",
+    "generatedAt": "2026-08-14T23:41:43.407Z",
+    "dataAsOf": "2026-08-14T23:41:43.407Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及富血小板血浆治疗生殖疾病的价值：一项伞形综述、妊娠期维生素D缺乏与LDL-C增幅更大、β-羟基丁酸升高及新生儿代谢标志物改变相关——基于DALI随机对照试验的二次汇总分析、微创根治性子宫切除术后12年宫颈癌IA1期晚期转移性复发。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
@@ -41,15 +41,6 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 100,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "富血小板血浆治疗生殖疾病的价值：一项伞形综述",
           "researchQuestion": "评估富血小板血浆（PRP）在改善子宫内膜容受性、卵巢功能及生殖结局方面的价值及其证据质量。",
@@ -61,7 +52,16 @@
           "clinicalInterpretation": "PRP在生殖疾病中显示出潜在获益，但目前证据确定性有限，尚不能据此形成明确临床指导。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "42bcc8d26e035d5d910198da6816ea8b80b154e00ba4309b853d9345d73a0117"
+        "summaryInputHash": "42bcc8d26e035d5d910198da6816ea8b80b154e00ba4309b853d9345d73a0117",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:42594354",
@@ -110,15 +110,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 23.75,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 98.75,
-          "evidenceRank": 0.95
-        },
         "summaryZh": {
           "titleZh": "妊娠期维生素D缺乏与LDL-C增幅更大、β-羟基丁酸升高及新生儿代谢标志物改变相关——基于DALI随机对照试验的二次汇总分析",
           "researchQuestion": "在超重或肥胖孕妇中，孕早期维生素D状态是否影响孕期血脂和酮体代谢轨迹及胎儿脐血代谢标志物。",
@@ -130,7 +121,16 @@
           "clinicalInterpretation": "孕20周前维生素D缺乏与超重或肥胖孕妇孕期代谢轨迹改变（LDL-C和酮体增加）及后代脐血酮体升高相关，提示早期维生素D状态可能影响母胎代谢适应，但尚不能确立因果关系。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "2cfcab031d477d56ee6d96ff74af122ccd6c08d3df6bf9ae0fdb454ec59f4a2c"
+        "summaryInputHash": "2cfcab031d477d56ee6d96ff74af122ccd6c08d3df6bf9ae0fdb454ec59f4a2c",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        }
       },
       {
         "id": "doi:10.1016/j.jmig.2026.08.007",
@@ -151,15 +151,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "微创根治性子宫切除术后12年宫颈癌IA1期晚期转移性复发",
           "researchQuestion": "报告一例宫颈癌IA1期在微创根治性子宫切除术后12年发生晚期转移性复发的临床情况（摘要仅提供背景，未给出病例细节）。",
@@ -171,7 +162,16 @@
           "clinicalInterpretation": "该报道提示宫颈癌治疗后超过10年仍可能出现晚期复发，但摘要未提供具体病例信息，无法进一步解读。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "86d7a138079a52530f9460fa6bfb12e16518a1b1896387e2bbd70c2c7eca3aeb"
+        "summaryInputHash": "86d7a138079a52530f9460fa6bfb12e16518a1b1896387e2bbd70c2c7eca3aeb",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42595793",
@@ -205,15 +205,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "烟酰胺单核苷酸增强靶向MSLN的CAR-NK细胞治疗卵巢癌的抗肿瘤疗效",
           "researchQuestion": "烟酰胺单核苷酸（NMN）能否通过代谢增强和抗微环境氧化抑制来增强靶向间皮素（MSLN）的CAR-NK细胞对卵巢癌的治疗效果。",
@@ -225,7 +216,16 @@
           "clinicalInterpretation": "NMN可能通过增强效应功能和抵抗微环境氧化抑制的双重机制，作为临床相关的佐剂提升CAR-NK细胞治疗卵巢癌的疗效，但该结论来自临床前研究，仍需进一步验证。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "d865eb52ce1c629a77d2c5d23fcec11466c77d5a3e57bdf867437fa17ce93d4c"
+        "summaryInputHash": "d865eb52ce1c629a77d2c5d23fcec11466c77d5a3e57bdf867437fa17ce93d4c",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42596844",
@@ -259,15 +259,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "胎儿生长受限妊娠中胎儿Evans指数的评估",
           "researchQuestion": "胎儿生长受限（FGR）是否伴随胎儿Evans指数（EI）改变，以及EI能否区分FGR并预测新生儿重症监护病房（NICU）入住。",
@@ -279,7 +270,16 @@
           "clinicalInterpretation": "晚发型FGR与EI降低和额叶比例指数改变相关，提示可能存在轻微的前脑重塑而非脑室扩大；EI可提供补充性神经超声信息，但其单独的诊断或预后价值有限。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "991dd49e9a10f7c0e0f2e94d8a0ecaf3b3a17d6d193e344deb79fb6f0402aecf"
+        "summaryInputHash": "991dd49e9a10f7c0e0f2e94d8a0ecaf3b3a17d6d193e344deb79fb6f0402aecf",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       }
     ]
   }
