@@ -7,8 +7,8 @@
   "editor_note": "过去24小时暂无符合质量要求的重要更新。",
   "keywords": [],
   "research": {
-    "generatedAt": "2026-08-15T22:54:05.593Z",
-    "dataAsOf": "2026-08-15T22:54:05.593Z",
+    "generatedAt": "2026-08-15T23:01:46.406Z",
+    "dataAsOf": "2026-08-15T23:01:46.406Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及在加拿大消除宫颈癌：目标可及、胎盘ADORA2A基因SNV rs8192446与子痫前期相关：一项初步研究、BUB1通过AKT信号和ACTN1介导的自噬体-溶酶体融合调控宫颈癌细胞增殖和凋亡。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
@@ -44,15 +44,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "在加拿大消除宫颈癌：目标可及",
           "researchQuestion": "加拿大能否实现消除宫颈癌的目标以及需要采取哪些行动？",
@@ -64,7 +55,16 @@
           "clinicalInterpretation": "文章呼吁加强努力和共同责任，认为通过大胆而包容的行动，加拿大有望成为全球首批消除宫颈癌的国家之一。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "ed4a6687e4cd741330faa1d14d787b3f818b51f85e9428c82e81582028b5bd8d"
+        "summaryInputHash": "ed4a6687e4cd741330faa1d14d787b3f818b51f85e9428c82e81582028b5bd8d",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42601945",
@@ -97,15 +97,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "胎盘ADORA2A基因SNV rs8192446与子痫前期相关：一项初步研究",
           "researchQuestion": "胎盘ADORA2A基因单核苷酸变异（SNV）与子痫前期（PE）是否存在关联？",
@@ -117,7 +108,16 @@
           "clinicalInterpretation": "结果提示胎盘ADORA2A rs8192446对子痫前期发生具有功能意义，可能通过扰动下游信号机制参与ADORA2A功能减退；该关联首次在墨西哥人群中被报道。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "e568fd376f9b952c7d61c779feaf0e06e2a80e60085bae65ea2ed19924a6de81"
+        "summaryInputHash": "e568fd376f9b952c7d61c779feaf0e06e2a80e60085bae65ea2ed19924a6de81",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42602342",
@@ -152,15 +152,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "BUB1通过AKT信号和ACTN1介导的自噬体-溶酶体融合调控宫颈癌细胞增殖和凋亡",
           "researchQuestion": "BUB1在宫颈癌中通过何种机制促进肿瘤进展？BUB1是否可作为治疗靶点？",
@@ -172,7 +163,16 @@
           "clinicalInterpretation": "BUB1通过双重机制促进宫颈癌进展，且其激酶活性是必需的；BUB1激酶抑制剂2OH-BNPP1在异种移植模型中显示出肿瘤抑制作用，提示BUB1是宫颈癌潜在的很有希望的治疗靶点。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "63b520d1602ffdf30b078cdc3fbe9f41212883b872bedcc09d4f1cb022b9a02a"
+        "summaryInputHash": "63b520d1602ffdf30b078cdc3fbe9f41212883b872bedcc09d4f1cb022b9a02a",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42602542",
@@ -207,15 +207,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "高级别浆液性卵巢癌的多模态人工智能：整合预测与临床决策",
           "researchQuestion": "多模态人工智能如何整合影像组学、病理全切片图像和多组学等多种数据源，以改善高级别浆液性卵巢癌（HGSOC）的生存预测和治疗反应评估？",
@@ -227,7 +218,16 @@
           "clinicalInterpretation": "多模态AI通过整合互补数据源有望更全面地建模肿瘤生物学并提高预测性能，但在广泛应用于临床决策前需解决验证、可重复性和可解释性等问题。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "1e637c7ae551434696239507dca24fd4ca8752dac6b3fe45c459e40fa279e075"
+        "summaryInputHash": "1e637c7ae551434696239507dca24fd4ca8752dac6b3fe45c459e40fa279e075",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42602809",
@@ -259,15 +259,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "印度Puducherry初级卫生中心高危孕妇孕早期妊娠期糖尿病的患病率和决定因素：一项横断面研究",
           "researchQuestion": "在印度Puducherry初级卫生中心就诊的高危孕妇中，孕早期妊娠期糖尿病（GDM）的患病率及其相关的社会人口学、临床和行为因素是什么？",
@@ -279,7 +270,16 @@
           "clinicalInterpretation": "约六分之一在公立初级卫生中心就诊的高危女性在孕早期即检出GDM，提示存在显著的早期代谢负担；研究支持在印度初级卫生体系中加强早期筛查和预防策略。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "a044bbe0d93d437cbc9df63f0df2379365ac92a94c817bad4c60148745d78ea5"
+        "summaryInputHash": "a044bbe0d93d437cbc9df63f0df2379365ac92a94c817bad4c60148745d78ea5",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       }
     ]
   }
