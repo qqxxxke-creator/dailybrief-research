@@ -1,0 +1,286 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-08-15T22:54:05.593Z",
+    "dataAsOf": "2026-08-15T22:54:05.593Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及在加拿大消除宫颈癌：目标可及、胎盘ADORA2A基因SNV rs8192446与子痫前期相关：一项初步研究、BUB1通过AKT信号和ACTN1介导的自噬体-溶酶体融合调控宫颈癌细胞增殖和凋亡。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42601588",
+        "pmid": "42601588",
+        "doi": "10.17269/s41997-026-01240-8",
+        "title": "Eliminating cervical cancer in Canada is within reach.",
+        "abstract": "Cervical cancer is highly preventable and treatable but continues to affect thousands in Canada each year. Inspired by the World Health Organization's global elimination goal, Canada has committed to eliminating cervical cancer by 2040. The Action Plan for the Elimination of Cervical Cancer in Canada, 2020-2030 outlines key strategies to increase human papillomavirus (HPV) vaccination, implement HPV primary screening, and improve follow-up care. It also prioritizes equity by embedding First Nations-, Inuit-, and Métis-specific actions and addressing systemic barriers faced by equity-denied populations. Provinces and territories have made progress, but more needs to be done to improve vaccination and screening rates. Recent advances, such as reduced HPV dosing schedules and HPV self-screening, offer promising opportunities to accelerate progress. Achieving elimination will require coordinated action to improve access, foster culturally safe care, and enhance data collection to identify and address inequities. This commentary highlights the need for intensified efforts and shared accountability to ensure all people in Canada benefit from cervical cancer prevention and care. With bold and inclusive action, Canada can become one of the first countries in the world to eliminate cervical cancer.",
+        "journal": "Canadian journal of public health = Revue canadienne de sante publique",
+        "authors": [
+          "Caitlyn Timmings",
+          "Corinne Daly",
+          "Cynthia Neilson",
+          "Erica Dias",
+          "Kendall Tisdale",
+          "Michelle Halligan",
+          "Naiomi Lu",
+          "Riley Urquhart-Ducharme",
+          "Robyn Leonard",
+          "Shari Dworkin",
+          "Talia Pfefferle"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-14T00:00:00.000Z",
+        "activityAt": "2026-08-15T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42601588/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "在加拿大消除宫颈癌：目标可及",
+          "researchQuestion": "加拿大能否实现消除宫颈癌的目标以及需要采取哪些行动？",
+          "studyDesign": "评论性文章（Commentary）",
+          "populationAndSample": "摘要未报告（本文为评论性文章，未涉及具体研究人群）",
+          "methods": "摘要未报告系统性研究方法；文章概述了加拿大《2020-2030年消除宫颈癌行动计划》的关键策略，包括提高HPV疫苗接种率、实施HPV初筛、改善随访护理，并强调公平性措施。",
+          "keyResults": "加拿大已承诺到2040年消除宫颈癌；各省和地区取得进展但仍需提高疫苗接种和筛查率；减少HPV接种剂次和HPV自我筛查有望加速进展；需要协调行动改善可及性、提供文化安全护理并加强数据收集以识别和解决不平等问题。",
+          "limitations": "摘要未报告",
+          "clinicalInterpretation": "文章呼吁加强努力和共同责任，认为通过大胆而包容的行动，加拿大有望成为全球首批消除宫颈癌的国家之一。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "ed4a6687e4cd741330faa1d14d787b3f818b51f85e9428c82e81582028b5bd8d"
+      },
+      {
+        "id": "pmid:42601945",
+        "pmid": "42601945",
+        "doi": "10.3389/fphys.2026.1843298",
+        "title": "Placental SNV rs8192446 in the ADORA2A gene is associated with Preeclampsia: a pilot study.",
+        "abstract": "INTRODUCTION: Preeclampsia (PE) is one of the leading causes of maternal and fetal morbidity and mortality worldwide. An impaired trophoblast invasiveness and resulting defective remodeling of spiral arteries lead to placental hypoxia that promotes the release of different antiangiogenic and proinflammatory factors to maternal circulation. Adenosine a purine nucleoside derived from ATP metabolism, is among these factors, and high concentrations have been observed in the sera of women affected with PE. The raise in adenosine levels is linked to elevated placental expression of the adenosine A2A receptor (ADORA2A), yet the contribution of single-nucleotide variations (SNVs) in the ADORA2A gene remains unclear. The association between placental ADORA2A SNVs and preeclampsia was evaluated.\nMETHODS: Five SNVs (rs2298383, rs4822489, rs2236624, rs17650937, and s8192446) were genotyped using real-time PCR with TaqMan probes. The functional effect of the N144K mutation was evaluated through in silico mutagenesis to assess potential structural alterations.\nRESULTS: The SNV rs8192446 was strongly associated with PE [OR=10.42 (95% CI: 2.08-103.39, p=0.0009)], association that remained after BH correction (p=0.0009). The SNV rs8192446 was also associated with mild PE (p=0.0403) and severe PE (p=0.0072). In-silico results revealed that N144K mutation does not alter the recognition of the ligand by ADORA2A but exerts a subtle modulation of the ADORA2A -adenosine interaction.\nDISCUSSION: Taken together, these results suggest that placental ADORA2A rs8192446 is functionally relevant for preeclampsia development contributing to ADORA2A hypofunction through perturbations in downstream signaling mechanisms. This is the first study to report an association between ADORA2A rs8192446 and preeclampsia susceptibility in Mexican population.",
+        "journal": "Frontiers in physiology",
+        "authors": [
+          "Alicia E Damiano",
+          "Carlos Alonso Escudero",
+          "Carlos Felipe Burgos",
+          "Carlos Galaviz-Hernandez",
+          "Jesenia Acurio",
+          "Laurence A Marchat",
+          "Luis E Simental-Mendía",
+          "Mariano Reynoso",
+          "Martha Sosa-Macías",
+          "Perla Valenzuela-Torres"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-07-31T00:00:00.000Z",
+        "activityAt": "2026-08-15T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42601945/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "胎盘ADORA2A基因SNV rs8192446与子痫前期相关：一项初步研究",
+          "researchQuestion": "胎盘ADORA2A基因单核苷酸变异（SNV）与子痫前期（PE）是否存在关联？",
+          "studyDesign": "初步研究（pilot study）；从摘要看为基因关联研究（病例对照设计未明确报告）",
+          "populationAndSample": "摘要未报告具体样本量；研究人群为墨西哥人群",
+          "methods": "使用实时PCR和TaqMan探针对5个SNV（rs2298383、rs4822489、rs2236624、rs17650937、rs8192446）进行基因分型；通过in silico诱变评估N144K突变的功能效应。",
+          "keyResults": "SNV rs8192446与PE强烈相关（OR=10.42，95% CI: 2.08-103.39，p=0.0009），经BH校正后仍显著（p=0.0009）；该SNV还与轻度PE（p=0.0403）和重度PE（p=0.0072）相关。In silico分析显示N144K突变不改变ADORA2A对配体的识别，但对ADORA2A-腺苷相互作用有细微调节。",
+          "limitations": "摘要未报告（例如样本量、研究设计细节等）",
+          "clinicalInterpretation": "结果提示胎盘ADORA2A rs8192446对子痫前期发生具有功能意义，可能通过扰动下游信号机制参与ADORA2A功能减退；该关联首次在墨西哥人群中被报道。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "e568fd376f9b952c7d61c779feaf0e06e2a80e60085bae65ea2ed19924a6de81"
+      },
+      {
+        "id": "pmid:42602342",
+        "pmid": "42602342",
+        "doi": "10.1016/j.isci.2026.117040",
+        "title": "BUB1 regulates cell proliferation and apoptosis in cervical cancer by AKT signaling and autophagosome-lysosome fusion via ACTN1.",
+        "abstract": "Cervical cancer (CC) is the fourth most common cancer in women worldwide. New therapeutic targets are urgently needed considering the inadequacy of current treatments. In this study, we investigated the role of budding uninhibited by benzimidazoles 1 (BUB1) in CC and identified a dual mechanism through which BUB1 promotes tumor progression. BUB1 interacted with α-actinin 1 (ACTN1) and regulated its subcellular distribution: BUB1 maintained ACTN1 at focal adhesions to sustain AKT activation, while facilitating ACTN1-positive comet tail-propelled autophagosome trafficking toward lysosomes. Autophagosome accumulation elevated reactive oxygen species (ROS), which causally contributed to apoptosis, as demonstrated by NAC rescue experiments. Kinase-dead BUB1 failed to rescue these phenotypes. Furthermore, kinase inhibitor of BUB1, 2OH-BNPP1, phenocopied the ACTN1 intracellular localization of BUB1 knockdown, confirming the requirement for BUB1 kinase activity. 2OH-BNPP1 treatment significantly reduced the growth of subcutaneous xenograft tumors, highlighting the potential of BUB1 as a promising therapeutic target for CC.",
+        "journal": "iScience",
+        "authors": [
+          "Baoxia Cui",
+          "Jiaxin Zhang",
+          "Junhua Zhang",
+          "Lingyu Guo",
+          "Qian Chen",
+          "Sai Han",
+          "Shuqi Chi",
+          "Xiaoli Liu",
+          "Youzhong Zhang",
+          "Yu Sun",
+          "Yue Sun",
+          "Zongyang Jia"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-06T00:00:00.000Z",
+        "activityAt": "2026-08-15T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42602342/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "BUB1通过AKT信号和ACTN1介导的自噬体-溶酶体融合调控宫颈癌细胞增殖和凋亡",
+          "researchQuestion": "BUB1在宫颈癌中通过何种机制促进肿瘤进展？BUB1是否可作为治疗靶点？",
+          "studyDesign": "实验研究（体外细胞实验和体内异种移植瘤模型）",
+          "populationAndSample": "摘要未报告具体细胞系和动物品系；使用皮下异种移植肿瘤模型",
+          "methods": "研究BUB1与ACTN1的相互作用及其对ACTN1亚细胞分布的调控；检测AKT激活、自噬体运输、自噬体-溶酶体融合、活性氧（ROS）和凋亡；使用NAC救援实验、激酶失活型BUB1和BUB1激酶抑制剂2OH-BNPP1进行验证；并评估2OH-BNPP1对皮下异种移植肿瘤生长的影响。",
+          "keyResults": "BUB1与ACTN1相互作用并维持ACTN1在黏着斑以持续激活AKT，同时促进ACTN1阳性彗尾驱动的自噬体向溶酶体运输；自噬体积累导致ROS升高，ROS因果性地促进凋亡（NAC救援实验证实）；激酶失活型BUB1不能挽救这些表型；2OH-BNPP1模拟了BUB1敲低时ACTN1的细胞内定位改变；2OH-BNPP1显著抑制皮下异种移植肿瘤生长。",
+          "limitations": "摘要未报告",
+          "clinicalInterpretation": "BUB1通过双重机制促进宫颈癌进展，且其激酶活性是必需的；BUB1激酶抑制剂2OH-BNPP1在异种移植模型中显示出肿瘤抑制作用，提示BUB1是宫颈癌潜在的很有希望的治疗靶点。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "63b520d1602ffdf30b078cdc3fbe9f41212883b872bedcc09d4f1cb022b9a02a"
+      },
+      {
+        "id": "pmid:42602542",
+        "pmid": "42602542",
+        "doi": "10.3389/fonc.2026.1874918",
+        "title": "Multimodal AI in high-grade serous ovarian cancer: integrated prediction and clinical decision-making.",
+        "abstract": "Ovarian cancer remains the most lethal gynecologic malignancy, with high-grade serous ovarian carcinoma (HGSOC) accounting for the majority of deaths. It is typically diagnosed at an advanced stage, characterized by extensive peritoneal dissemination and high rates of recurrence, which contribute to persistently poor survival despite advances in cytoreductive surgery, platinum-based chemotherapy, and targeted therapies such as PARP inhibitors. Clinical outcomes are highly variable, reflecting substantial inter- and intratumoral heterogeneity at the genomic, cellular, and microenvironmental levels. Accurate survival prediction and treatment response assessment therefore remain major challenges. Current clinical and radiological evaluation tools provide only limited resolution of this complexity and fail to fully capture the spatial and temporal dynamics of the disease. As a result, patient stratification and treatment decision-making are often suboptimal, particularly in the context of evolving therapeutic strategies. Artificial intelligence (AI) has emerged as a powerful approach to extract clinically relevant information from diverse data sources, including CT and MRI radiomics, histopathology whole-slide images, and multi-omics data. While promising results have been reported within individual modalities, each captures only a partial view of the disease. Integrating these complementary data sources through multimodal AI approaches offers the potential to more comprehensively model tumor biology and improve predictive performance. In this review, we analyze 31 HGSOC studies using a unified multimodal pipeline taxonomy structured into five sequential stages: feature extraction, intra-modal aggregation, fusion strategy, inter-modal integration, and prediction head. For each stage, we identify and categorize the technical approaches employed across studies, highlighting both common design patterns and novel methodological contributions. To complement this analysis, we provide visual overviews, a paper-by-paper comparative visualization, and structured summary tables. We further discuss key challenges in the field, including inconsistent validation strategies, limited reproducibility, heterogeneous integration of genomic data, and insufficient attention to model explainability.",
+        "journal": "Frontiers in oncology",
+        "authors": [
+          "Chad Estoup-Streiff",
+          "Charles Berger",
+          "Damien Bonzom",
+          "Haiming Li",
+          "Jean-Philippe Villemin",
+          "Marie Pelissier-Combescure",
+          "Pierre-Emmanuel Colombo",
+          "Ramona Woitek",
+          "Stéphanie Nougaret",
+          "Yulia Lakhman",
+          "Zijing Lin"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-07-31T00:00:00.000Z",
+        "activityAt": "2026-08-15T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42602542/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "高级别浆液性卵巢癌的多模态人工智能：整合预测与临床决策",
+          "researchQuestion": "多模态人工智能如何整合影像组学、病理全切片图像和多组学等多种数据源，以改善高级别浆液性卵巢癌（HGSOC）的生存预测和治疗反应评估？",
+          "studyDesign": "综述（Review），纳入31项HGSOC研究进行方法学分析",
+          "populationAndSample": "31项HGSOC相关研究",
+          "methods": "使用统一的多模态流水线分类法，将研究分解为五个阶段：特征提取、模态内聚合、融合策略、模态间整合和预测头；对每项研究的技术方法进行识别和分类，并提供视觉概览、逐篇比较可视化图和结构化汇总表。",
+          "keyResults": "识别了各阶段常用设计模式和新颖的方法学贡献；当前领域存在验证策略不一致、可重复性有限、基因组数据整合方式不统一、对模型可解释性关注不足等挑战。",
+          "limitations": "摘要未报告该综述本身的局限性；但综述指出领域内存在验证策略不一致、可重复性有限、基因组数据整合异质性和模型可解释性不足等挑战。",
+          "clinicalInterpretation": "多模态AI通过整合互补数据源有望更全面地建模肿瘤生物学并提高预测性能，但在广泛应用于临床决策前需解决验证、可重复性和可解释性等问题。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "1e637c7ae551434696239507dca24fd4ca8752dac6b3fe45c459e40fa279e075"
+      },
+      {
+        "id": "pmid:42602809",
+        "pmid": "42602809",
+        "doi": "10.1136/bmjph-2026-005016",
+        "title": "Prevalence and determinants of first-trimester gestational diabetes mellitus among high-risk pregnant women attending primary health centres in Puducherry, India: a cross-sectional study.",
+        "abstract": "INTRODUCTION: Gestational diabetes mellitus (GDM) is increasingly recognised as a public health challenge in India. Although screening is conventionally performed at 24-28 weeks of gestation, emerging evidence suggests that clinically relevant dysglycaemia may be present much earlier in pregnancy. However, data on first-trimester GDM from primary healthcare settings remain limited. This study estimated the prevalence of first-trimester GDM among high-risk pregnant women attending primary health centres in Puducherry, India, and identified associated sociodemographic, clinical and behavioural factors.\nMETHODS: We conducted a cross-sectional analysis of baseline data from 1505 pregnant women (<13 weeks' gestation) enrolled in a community-based cluster randomised controlled trial across 13 primary health centres. GDM was diagnosed using a one-step 75 g oral glucose tolerance test applying WHO 2013/International Association of Diabetes and Pregnancy Study Groups criteria. Prevalence ratios were estimated using modified Poisson regression with robust SEs, accounting for clustering at the primary health centre level.\nRESULTS: The prevalence of first-trimester GDM was 15.1% (95% CI 13.4% to 17.0%). Maternal age >25 years, obesity, nulliparity and previous GDM were independently associated with higher GDM prevalence. In contrast, higher dietary adherence scores, adequate physical activity and energy intake below estimated requirements were also associated with higher GDM prevalence.\nCONCLUSIONS: Approximately one in six high-risk women attending public-sector primary health centres had GDM detected during the first trimester. These findings highlight a substantial early metabolic burden and support strengthening early screening and prevention strategies within primary healthcare systems in India.",
+        "journal": "BMJ public health",
+        "authors": [
+          "Anandalakshmi Varadharajalu",
+          "Kalaiselvy Arikrishnan",
+          "Kanishka D",
+          "Menaka Ayyanar",
+          "Mohammed Kais M",
+          "Murali Subbaiah",
+          "Nivedita Nanda",
+          "Premarajan Cheriyath",
+          "Venkatachalam Jayaseelan"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-06T00:00:00.000Z",
+        "activityAt": "2026-08-15T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42602809/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "印度Puducherry初级卫生中心高危孕妇孕早期妊娠期糖尿病的患病率和决定因素：一项横断面研究",
+          "researchQuestion": "在印度Puducherry初级卫生中心就诊的高危孕妇中，孕早期妊娠期糖尿病（GDM）的患病率及其相关的社会人口学、临床和行为因素是什么？",
+          "studyDesign": "横断面研究（基于一项社区整群随机对照试验的基线数据）",
+          "populationAndSample": "1505名妊娠<13周的高危孕妇，来自13个初级卫生中心",
+          "methods": "使用一步法75g口服葡萄糖耐量试验（OGTT），采用WHO 2013/国际糖尿病与妊娠研究组协会（IADPSG）标准诊断GDM；使用修正Poisson回归并采用稳健标准误估计患病率比，并考虑初级卫生中心层面的整群效应。",
+          "keyResults": "孕早期GDM患病率为15.1%（95% CI 13.4%至17.0%）。母亲年龄>25岁、肥胖、未产和既往GDM与较高的GDM患病率独立相关；而较高的饮食依从得分、充足的体力活动和能量摄入低于估计需求也与较高的GDM患病率相关。",
+          "limitations": "摘要未报告",
+          "clinicalInterpretation": "约六分之一在公立初级卫生中心就诊的高危女性在孕早期即检出GDM，提示存在显著的早期代谢负担；研究支持在印度初级卫生体系中加强早期筛查和预防策略。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "a044bbe0d93d437cbc9df63f0df2379365ac92a94c817bad4c60148745d78ea5"
+      }
+    ]
+  }
+}
