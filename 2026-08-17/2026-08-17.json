@@ -1,0 +1,270 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-08-16T22:52:01.133Z",
+    "dataAsOf": "2026-08-16T22:52:01.133Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及外阴痛与子宫内膜异位症中的性叙事：一项意大利夫妇的定性研究、跨性别、非二元及性别多样化患者的宫颈癌筛查偏好、羊水整合多组学分析识别胎儿生长受限轨迹的预测性生物标志物。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42603818",
+        "pmid": "42603818",
+        "doi": "10.1007/s10508-026-03507-0",
+        "title": "Narratives on Sexuality in Vulvodynia and Endometriosis. A Qualitative Study on Italian Couples.",
+        "abstract": "Although qualitative research on dyspareunia has increased in recent years, most studies have focused on women's individual experiences or on specific difficulties within the couple, leaving underexplored how partners jointly construct the meanings of sexuality when pain becomes part of the relationship. Against this backdrop, this study explored how couples make sense of sexuality and how their interactional processes shape the relational patterns through which they navigate intimacy in the presence of pain. Drawing on episodic interviews with nine Italian heterosexual couples (M age = 34 years) affected by dyspareunia associated with vulvodynia and/or endometriosis, we conducted a reflexive thematic analysis through which four themes were co-constructed: \"Between Body and Emotion: The Shifting Landscape of Sexuality\"; \"He Holds Back, She Consents: Silent Sacrifices\"; \"Together Alone: When Coping Is Delegated\"; and \"From Pain to Partnership: Reimagining Sexuality Together.\" Across narratives, couples described greater connection and intimacy when they were able to co-construct meanings and activate communicative spaces grounded in acknowledgment, mutual support, and negotiation. These findings underscore the importance of couple-centered clinical interventions that focus on interactive processes and promote reciprocity and a shared redefinition of sexuality. Adopting a relational and dialogical lens, the study highlights sexuality not as an individual function disrupted by pain, but as an evolving co-created process through which partners continually remake intimacy together.",
+        "journal": "Archives of sexual behavior",
+        "authors": [
+          "Elena Fabbri",
+          "Giacomo Chiara",
+          "Giulia Rasolo",
+          "Maria Rinaldi"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-15T00:00:00.000Z",
+        "activityAt": "2026-08-16T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42603818/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "外阴痛与子宫内膜异位症中的性叙事：一项意大利夫妇的定性研究",
+          "researchQuestion": "探索当疼痛成为伴侣关系的一部分时，夫妇如何共同建构性的意义，以及他们的互动过程如何塑造其处理亲密关系的关系模式。",
+          "studyDesign": "定性研究（情节访谈 + 反思性主题分析）",
+          "populationAndSample": "9对患有与外阴痛和/或子宫内膜异位症相关的性交痛的意大利异性恋夫妇，平均年龄34岁。",
+          "methods": "采用情节访谈收集资料，通过反思性主题分析共同构建主题。",
+          "keyResults": "共同构建了四个主题：“介于身体与情感之间：性的变动景观”；“他退缩，她同意：沉默的牺牲”；“一起孤独：当应对被委托”；“从痛苦到伴侣关系：共同重新构想性”。在叙述中，当夫妇能够共同建构意义并激活基于承认、相互支持和协商的沟通空间时，他们描述出更强的连接与亲密感。",
+          "limitations": "摘要未报告",
+          "clinicalInterpretation": "强调以夫妇为中心的临床干预，应关注互动过程、促进互惠和共同重新定义性；提示性并非被疼痛破坏的个体功能，而是伴侣在持续互动中共同创造的演变过程。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "0c677f32bc7364616d938e41ef57204e71553130b47fcbad4a461aa7d96b7721"
+      },
+      {
+        "id": "pmid:42603067",
+        "pmid": "42603067",
+        "doi": "10.1097/og9.0000000000000196",
+        "title": "Cervical Cancer Screening Preferences in Transgender, Nonbinary, and Gender-diverse Patients.",
+        "abstract": "OBJECTIVE: To describe the cervical cancer screening preferences of transgender and gender-diverse individuals presenting for care at the study institution.\nMETHODS: We administered a cross-sectional survey to a convenience sample of 50 patients 18-65 years of age assigned female at birth and self-identifying as transgender or gender-diverse (TGD) from a single academic endocrinology clinic. The 30-item survey, adapted from previous research in this population, included gender-neutral language and various multimedia. We used descriptive statistics to characterize preferences for cervical cancer screening in the form of a ranked list, as well as responses regarding comfort with self-swabs and past experiences with screening. We also performed a post hoc content analysis of free-text responses related to respondent cervical cancer screening preferences.\nRESULTS: We enrolled 51 patients, and 50 completed the survey (98% response rate). Overall, 56.0% of respondents chose human papillomavirus (HPV) self-swab as their first-choice cervical cancer screening preference, followed by provider-collected HPV swab (18.0%), decline screening (14.0%), and Pap test (12.0%). Themes identified from free-text responses around cervical cancer screening included fear of provoking gender dysphoria, value of preventive health care, appreciation of privacy with self-swabs, and desire for gender-diverse-competent health care teams.\nCONCLUSION: In this sample of TGD patients, the majority of respondents preferred self-collected HPV tests for cervical cancer screening, and some respondents preferred to forego screening altogether. Participants emphasized the importance of preventive health care and clinician competency in transgender health and trauma-informed care.",
+        "journal": "O&G open",
+        "authors": [
+          "Brittani Steinberg",
+          "Cynthia Herrick",
+          "Jennifer Reeves",
+          "Madison Copeland",
+          "Rachel Paul"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-13T00:00:00.000Z",
+        "activityAt": "2026-08-15T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42603067/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "跨性别、非二元及性别多样化患者的宫颈癌筛查偏好",
+          "researchQuestion": "描述在研究机构就诊的跨性别和性别多样化个体对宫颈癌筛查的偏好。",
+          "studyDesign": "横断面调查研究",
+          "populationAndSample": "便利样本50名（实际入组51名，50名完成调查，响应率98%）出生时被指派为女性、自我认同为跨性别或性别多样化（TGD）的患者，年龄18-65岁，来自单一学术内分泌诊所。",
+          "methods": "使用改编自既往研究的30项调查问卷，采用性别中立语言和多种多媒体，以描述性统计呈现宫颈癌筛查偏好的排序列表，以及自我取样舒适度和既往筛查经历；并对自由文本回答进行事后内容分析。",
+          "keyResults": "56.0%的受访者选择HPV自我取样作为宫颈癌筛查首选，其次为医生采集HPV拭子（18.0%）、拒绝筛查（14.0%）和巴氏涂片（12.0%）。自由文本回答的主题包括：害怕引发性别焦虑、重视预防保健、欣赏自我取样的隐私性，以及渴望具备性别多样化能力的医疗团队。",
+          "limitations": "摘要未报告",
+          "clinicalInterpretation": "在TGD患者样本中，多数受访者偏好HPV自取样进行宫颈癌筛查，部分受访者倾向于完全放弃筛查；参与者强调预防保健的重要性以及临床医生在跨性别健康和创伤知情护理方面的能力。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "cf84f2dbff9bd2e7841ce543b3022fa300e243ed0982f35a75364f0e29248a76"
+      },
+      {
+        "id": "pmid:42603261",
+        "pmid": "42603261",
+        "doi": "10.1080/07853890.2026.2718562",
+        "title": "Integrated multi-omics profiling of amniotic fluid identifies predictive biomarkers for fetal growth restriction trajectories.",
+        "abstract": "BACKGROUND: Fetal growth restriction (FGR) is a complex condition with highly heterogeneous clinical outcomes, making prenatal distinction between transient and persistent growth failure challenging. This study aims to identify amniotic fluid (AF) biomarkers capable of differentiating distinct FGR trajectories and characterizing persistent growth failure mechanisms.\nMETHODS: Integrated proteomic and metabolomic profiling was performed on AF samples from transient FGR ( n = 11), persistent FGR ( n = 9), and healthy controls ( n = 13). Diagnostic and prognostic models were developed using multivariate analysis. Selected protein candidates were validated via ELISA in an independent cohort ( n = 69).\nRESULTS: Multi-omics analysis revealed distinct molecular signatures for FGR stratification. A two-protein diagnostic panel (PDGFA and phospho-STAT5A) achieved an AUC of 1.000 in the discovery stage and 0.780 in the external validation cohort. For prognostic assessment, a molecular signature including IREB2, HLA-C, and PLXNB2 accurately predicted persistent growth failure from transient recovery (AUC = 0.966). Cross-platform integration highlighted the mass spectrometry-derived WASHC2C as a central hub protein with a significant progressive increase across the control, transient, and persistent groups ( p < 0.001).\nCONCLUSIONS: This study establishes a multi-omics framework for prenatal FGR stratification. Our findings identify distinct molecular signatures reflecting the intrauterine environment and provide high-performance molecular tools for predicting divergent fetal growth trajectories to guide personalized clinical decision-making.",
+        "journal": "Annals of medicine",
+        "authors": [
+          "Chongchong Chai",
+          "Dong Wang",
+          "Hongyuan Zhu",
+          "Wenjing Hao",
+          "Yan Cao",
+          "Yan Wang",
+          "Yanhong Zhai",
+          "Yifan Lu",
+          "Ying Liu",
+          "Youran Li",
+          "Yousheng Yan",
+          "Zheng Cao"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-15T00:00:00.000Z",
+        "activityAt": "2026-08-15T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42603261/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "羊水整合多组学分析识别胎儿生长受限轨迹的预测性生物标志物",
+          "researchQuestion": "识别能够区分不同胎儿生长受限（FGR）轨迹并表征持续性生长失败机制的羊水（AF）生物标志物。",
+          "studyDesign": "生物标志物发现与外部验证研究（整合多组学分析）",
+          "populationAndSample": "发现阶段：一过性FGR（n=11）、持续性FGR（n=9）和健康对照（n=13）的羊水样本；独立验证队列（n=69）用于ELISA验证。",
+          "methods": "对羊水样本进行整合蛋白质组学和代谢组学分析，使用多变量分析构建诊断和预后模型，并采用ELISA在独立队列中验证选定的候选蛋白。",
+          "keyResults": "多组学分析识别出FGR分层的不同分子特征。双蛋白诊断组合（PDGFA和磷酸化STAT5A）在发现阶段AUC为1.000，在外部验证队列中为0.780。包含IREB2、HLA-C和PLXNB2的分子特征可准确预测持续性生长失败与一过性恢复，AUC为0.966。整合分析显示，质谱衍生的WASHC2C是中枢蛋白，在对照组、一过性组和持续性组中呈显著进行性增加（p<0.001）。",
+          "limitations": "摘要未报告",
+          "clinicalInterpretation": "该研究建立了产前FGR分层多组学框架，识别出反映宫内环境的不同分子特征，并提供预测不同胎儿生长轨迹的高性能分子工具，有助于指导个性化临床决策。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "a2d6ff4a5d67bdd1c7049134f8caf46ecc6d99faaf3f0fcbfa1fee8157bd8449"
+      },
+      {
+        "id": "pmid:42603309",
+        "pmid": "42603309",
+        "doi": "10.1002/cam4.72171",
+        "title": "Participation and Follow-Up Compliance in Cervical Cancer Screening According to Delivery Strategy for HPV Self-Collection: A Community Trial in Underserved Colombian Areas.",
+        "abstract": "Low- and middle-income countries (LMIC) continue to bear a high burden of cervical cancer (CC). Women's participation in CC screening is challenging in LMICs, but self-collection of HPV tests has shown increased participation in controlled trials. However, data from real-world studies and data on follow-up compliance after positive screening test results are scant. A two-arm community trial was conducted in four municipalities from two different territories in Colombia (HPV self- and clinician-collected tests). A comparison of participation and follow-up compliance was done between arms, both delivered through campaigns and routine screening. Women aged 30-50 without screening records within the previous 30 months were eligible. HPV-positive women were recalled for triage/treatment in a second visit. A follow-up was done at 6 months. In total, 1400 women were expected, but only 532 attended the screening visit. Participation rates were 49% (95% CI: 46-53) in the self-collected and 26% (95% CI: 22.8-29.5) in the clinician-collected arm. Campaigns resulted in higher participation than routine screening for both collection methods (p < 0.05), and significant differences by territory were observed. Follow-up compliance was 89.6% and 71% at triage/treatment and 6-month visits, respectively, without significant differences between study arms. HPV self-collection resulted in higher participation than clinician collection; however, it did not directly translate to screening coverage. Therefore, delivery strategies and contextual barriers should be carefully analyzed for successful implementation. Anyhow, the increased participation and high compliance with the triage/treatment visit support the relevance and suitability of alternative programmatic approaches for HPV-based screening.",
+        "journal": "Cancer medicine",
+        "authors": [
+          "Alexander Salazar",
+          "Ana Karina Ceballos",
+          "Angélica Parra",
+          "Carolina Morante-Caicedo",
+          "Diana Acosta",
+          "Ginna Fernández-Deaza",
+          "Juan David Toca",
+          "Juliana Rodríguez",
+          "Maria Alejandra Arria",
+          "Mario Rodríguez",
+          "Natascha Ortíz",
+          "Raúl Murillo"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-01T00:00:00.000Z",
+        "activityAt": "2026-08-15T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42603309/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "HPV自我采集的实施策略对宫颈癌筛查参与及随访依从性的影响：哥伦比亚服务不足地区的社区试验",
+          "researchQuestion": "比较HPV自我采集与医生采集两种筛查方式在参与率和阳性结果后随访依从性方面的差异，并评估通过活动与常规筛查两种提供策略的效果。",
+          "studyDesign": "两臂社区试验",
+          "populationAndSample": "来自哥伦比亚两个地区四个城市的30-50岁女性，既往30个月内无筛查记录；预期参与1400人，实际有532人参加了筛查访视。",
+          "methods": "设HPV自我采集和医生采集两个试验臂，均通过活动或常规筛查提供。对HPV阳性女性在第二次访视时召回进行分诊/治疗，并在6个月时进行随访；比较两臂的参与率与随访依从性。",
+          "keyResults": "自我采集组的参与率为49%（95% CI: 46-53），医生采集组为26%（95% CI: 22.8-29.5）。对于两种采集方法，活动提供的参与率均高于常规筛查（p<0.05），且存在显著的地区差异。分诊/治疗访视的随访依从性为89.6%，6个月随访为71%，两臂间无显著差异。",
+          "limitations": "摘要未报告",
+          "clinicalInterpretation": "HPV自我采集比医生采集带来更高的参与率，但并未直接转化为筛查覆盖率；需仔细分析提供策略和背景障碍以成功实施。同时，参与率提高和分诊/治疗访视的高依从性支持基于HPV筛查的替代性计划方法的相关性和适宜性。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "3b4e6adbf29f3e15767ebf086866da8493c66d4654a52bf0298964fea75db0b4"
+      },
+      {
+        "id": "pmid:42603321",
+        "pmid": "42603321",
+        "title": "A COMPARATIVE ANALYSIS OF TRENDS IN CERVICAL CANCER MORTALITY AMONG MESTIZO AND INDIGENOUS WOMEN IN ECUADOR, 2010-2024.",
+        "abstract": "Cervical cancer is one of the leading causes of death from malignant neoplasms among women in Ecuador, a problem influenced by social and health determinants. The objective of this study is to analyze the trends and magnitude of inequalities in cervical cancer mortality among mestizo and indigenous women in Ecuador during the period 2010-2024. The study design is observational, retrospective, and ecological, using a time-series approach. A total of 6,090 deaths of women aged 20 years and older recorded by the National Institute of Statistics and Census (ICD-10 code: C53) were included. Age-standardized mortality rates were calculated. Joinpoint regression models were used to assess trends. Risk gaps were quantified using the mortality rate ratio (MRR) by comparing the three-year periods 2010-2012 and 2022-2024. Mestizo women accounted for 87.8% of deaths, and indigenous women for 6%. The trend among the mestizo population remained stable (APC: 0.8%), while the indigenous population increased (APC: 3.3%). A statistically significant increase was observed in the indigenous cohort aged 20 to 44 (APC 11.2%). In the 2010-2012 period, indigenous women aged ≥65 had lower mortality than mestizo women (MRR 0.64); however, in 2022-2024, a numerical trend toward risk reversal was observed (MRR 1.13; 95% CI: 0.82-1.55), without reaching statistical significance. Cervical cancer mortality in Ecuador follows divergent trajectories depending on ethnicity. The increase among young indigenous women and the shift in risk among older women highlight profound structural inequities in access to prevention.",
+        "journal": "Georgian medical news",
+        "authors": [
+          "C Cabezas",
+          "G Sinchiguano",
+          "J Pilco",
+          "L Samaniego"
+        ],
+        "publicationTypes": [
+          "Comparative Study",
+          "Journal Article",
+          "Observational Study"
+        ],
+        "publishedAt": "2026-06-01T00:00:00.000Z",
+        "activityAt": "2026-08-15T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42603321/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "2010-2024年厄瓜多尔混血与土著女性宫颈癌死亡率趋势的比较分析",
+          "researchQuestion": "分析2010-2024年厄瓜多尔混血与土著女性宫颈癌死亡率的趋势及不平等的程度。",
+          "studyDesign": "观察性、回顾性、生态学研究，采用时间序列方法",
+          "populationAndSample": "国家统计与人口普查研究所记录的6,090名20岁及以上女性宫颈癌死亡个案（ICD-10编码C53）。",
+          "methods": "计算年龄标准化死亡率；使用Joinpoint回归模型评估趋势；通过比较2010-2012年和2022-2024年两个三年期的死亡率比（MRR）量化风险差距。",
+          "keyResults": "混血女性占死亡总数的87.8%，土著女性占6%。混血人群的死亡率趋势保持稳定（APC: 0.8%），而土著人群呈上升趋势（APC: 3.3%）。20-44岁土著女性队列中观察到统计学显著性上升（APC 11.2%）。在2010-2012年，≥65岁土著女性死亡率低于混血女性（MRR 0.64）；但在2022-2024年，观察到风险逆转的数值趋势（MRR 1.13；95% CI: 0.82-1.55），未达到统计学显著性。厄瓜多尔的宫颈癌死亡率因族裔不同呈现不同轨迹。",
+          "limitations": "摘要未报告",
+          "clinicalInterpretation": "年轻土著女性的死亡率上升和老年土著女性风险逆转提示预防获取方面存在深刻的结构性不平等，需关注不同族裔人群的宫颈癌预防服务和筛查可及性。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "c235f452be9e7278e59f9fa7abfba1bd60cf9d775d8f38cb5d6dd4d78bb3dd14"
+      }
+    ]
+  }
+}
