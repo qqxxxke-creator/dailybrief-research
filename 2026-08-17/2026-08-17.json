@@ -7,8 +7,8 @@
   "editor_note": "过去24小时暂无符合质量要求的重要更新。",
   "keywords": [],
   "research": {
-    "generatedAt": "2026-08-16T22:52:01.133Z",
-    "dataAsOf": "2026-08-16T22:52:01.133Z",
+    "generatedAt": "2026-08-16T23:44:00.999Z",
+    "dataAsOf": "2026-08-16T23:44:00.999Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及外阴痛与子宫内膜异位症中的性叙事：一项意大利夫妇的定性研究、跨性别、非二元及性别多样化患者的宫颈癌筛查偏好、羊水整合多组学分析识别胎儿生长受限轨迹的预测性生物标志物。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
@@ -37,15 +37,6 @@
         "matchedTopicIds": [
           "endometriosis-benign-gynecology"
         ],
-        "assignedTopicId": "endometriosis-benign-gynecology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "外阴痛与子宫内膜异位症中的性叙事：一项意大利夫妇的定性研究",
           "researchQuestion": "探索当疼痛成为伴侣关系的一部分时，夫妇如何共同建构性的意义，以及他们的互动过程如何塑造其处理亲密关系的关系模式。",
@@ -57,7 +48,16 @@
           "clinicalInterpretation": "强调以夫妇为中心的临床干预，应关注互动过程、促进互惠和共同重新定义性；提示性并非被疼痛破坏的个体功能，而是伴侣在持续互动中共同创造的演变过程。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "0c677f32bc7364616d938e41ef57204e71553130b47fcbad4a461aa7d96b7721"
+        "summaryInputHash": "0c677f32bc7364616d938e41ef57204e71553130b47fcbad4a461aa7d96b7721",
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42603067",
@@ -85,15 +85,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "跨性别、非二元及性别多样化患者的宫颈癌筛查偏好",
           "researchQuestion": "描述在研究机构就诊的跨性别和性别多样化个体对宫颈癌筛查的偏好。",
@@ -105,7 +96,16 @@
           "clinicalInterpretation": "在TGD患者样本中，多数受访者偏好HPV自取样进行宫颈癌筛查，部分受访者倾向于完全放弃筛查；参与者强调预防保健的重要性以及临床医生在跨性别健康和创伤知情护理方面的能力。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "cf84f2dbff9bd2e7841ce543b3022fa300e243ed0982f35a75364f0e29248a76"
+        "summaryInputHash": "cf84f2dbff9bd2e7841ce543b3022fa300e243ed0982f35a75364f0e29248a76",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42603261",
@@ -140,15 +140,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "羊水整合多组学分析识别胎儿生长受限轨迹的预测性生物标志物",
           "researchQuestion": "识别能够区分不同胎儿生长受限（FGR）轨迹并表征持续性生长失败机制的羊水（AF）生物标志物。",
@@ -160,7 +151,16 @@
           "clinicalInterpretation": "该研究建立了产前FGR分层多组学框架，识别出反映宫内环境的不同分子特征，并提供预测不同胎儿生长轨迹的高性能分子工具，有助于指导个性化临床决策。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "a2d6ff4a5d67bdd1c7049134f8caf46ecc6d99faaf3f0fcbfa1fee8157bd8449"
+        "summaryInputHash": "a2d6ff4a5d67bdd1c7049134f8caf46ecc6d99faaf3f0fcbfa1fee8157bd8449",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42603309",
@@ -195,15 +195,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "HPV自我采集的实施策略对宫颈癌筛查参与及随访依从性的影响：哥伦比亚服务不足地区的社区试验",
           "researchQuestion": "比较HPV自我采集与医生采集两种筛查方式在参与率和阳性结果后随访依从性方面的差异，并评估通过活动与常规筛查两种提供策略的效果。",
@@ -215,7 +206,16 @@
           "clinicalInterpretation": "HPV自我采集比医生采集带来更高的参与率，但并未直接转化为筛查覆盖率；需仔细分析提供策略和背景障碍以成功实施。同时，参与率提高和分诊/治疗访视的高依从性支持基于HPV筛查的替代性计划方法的相关性和适宜性。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "3b4e6adbf29f3e15767ebf086866da8493c66d4654a52bf0298964fea75db0b4"
+        "summaryInputHash": "3b4e6adbf29f3e15767ebf086866da8493c66d4654a52bf0298964fea75db0b4",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42603321",
@@ -243,15 +243,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "2010-2024年厄瓜多尔混血与土著女性宫颈癌死亡率趋势的比较分析",
           "researchQuestion": "分析2010-2024年厄瓜多尔混血与土著女性宫颈癌死亡率的趋势及不平等的程度。",
@@ -263,7 +254,16 @@
           "clinicalInterpretation": "年轻土著女性的死亡率上升和老年土著女性风险逆转提示预防获取方面存在深刻的结构性不平等，需关注不同族裔人群的宫颈癌预防服务和筛查可及性。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "c235f452be9e7278e59f9fa7abfba1bd60cf9d775d8f38cb5d6dd4d78bb3dd14"
+        "summaryInputHash": "c235f452be9e7278e59f9fa7abfba1bd60cf9d775d8f38cb5d6dd4d78bb3dd14",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       }
     ]
   }
