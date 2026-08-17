@@ -1,0 +1,271 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-08-17T22:57:08.036Z",
+    "dataAsOf": "2026-08-17T22:57:08.036Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及Sansure人乳头瘤病毒DNA诊断试剂盒用于宫颈癌初筛的临床验证、促黄体生成素/促卵泡刺激素比值预测维生素D缺乏患者的不明原因不孕、MIR210HG通过CDHR5促进子痫前期进展。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42605738",
+        "pmid": "42605738",
+        "doi": "10.1002/jmv.71106",
+        "title": "Clinical Validation of the Sansure Human Papillomavirus DNA Diagnostic Kit for Use in Primary Cervical Cancer Screening.",
+        "abstract": "International guidelines require that human papillomavirus (HPV) assays intended for primary cervical cancer screening demonstrate adequate reproducibility and non-inferior clinical accuracy compared with validated comparator assays. The clinical performance of the Sansure Human Papillomavirus DNA Diagnostic Kit (Sansure HPV Kit), a multiplex real-time PCR assay detecting HPV16 and HPV18 individually and 13 additional HPV types in aggregate, was evaluated according to the Meijer study design. The applied Ct cut-off for HPV-positivity was ≤ 39. A panel of 890 clinician-collected cervical samples from women aged ≥ 30 years participating in routine screening in Belgium, including 90 histologically confirmed CIN2+ cases and 800 ≤ CIN1 controls was collated. The Abbott RealTime High Risk HPV assay served as the comparator test. Non-inferiority margins were ≥ 0.90 for relative sensitivity and ≥ 0.98 for relative specificity. Reproducibility was assessed through re-analysis of previously published data. After exclusion of four invalid samples, 886 samples were included in the accuracy analysis. Relative sensitivity compared with Abbott RealTime was 0.978 (95% CI: 0.947-1.009; pnon-inferiority = 0.007) for CIN2+ and 0.966 (95% CI: 0.921-1.013; pnon-inferiority = 0.045) for CIN3+. Relative specificity for ≤ CIN1 was 1.003 (95% CI: 0.991-1.014; pnon-inferiority = 0.0006). Reproducibility data demonstrated intra-laboratory agreement of 93.8% (κ = 0.842) and inter-laboratory agreement of 94.4% (κ = 0.856), exceeding the Meijer reproducibility thresholds. Considering the Ct clinical cutoff (≤ 39.0), the Sansure HPV Kit fulfils the established international validation criteria for clinical sensitivity, specificity, and reproducibility for use in primary cervical cancer screening using PreservCyt as storage medium for cervical samples. Consideration of genotype composition, including detection of HPV53 within a pooled channel, is warranted in the context of organised screening programmes.",
+        "journal": "Journal of medical virology",
+        "authors": [
+          "Alice Baraquin",
+          "Ana Rita Pereira",
+          "Ardashel Latsuzbaia",
+          "Davy Vandenbroeck",
+          "Jean-Luc Prétet",
+          "Killian Jacquot",
+          "Marc Arbyn",
+          "Nina Redzic",
+          "Quentin Lepiller",
+          "Sharonjit Kaur Dhillon",
+          "Yuliya Tkachenka"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Validation Study"
+        ],
+        "publishedAt": "2026-08-01T00:00:00.000Z",
+        "activityAt": "2026-08-17T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42605738/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 17.5,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 92.5,
+          "evidenceRank": 0.7
+        },
+        "summaryZh": {
+          "titleZh": "Sansure人乳头瘤病毒DNA诊断试剂盒用于宫颈癌初筛的临床验证",
+          "researchQuestion": "评估Sansure HPV试剂盒在宫颈癌初筛中的临床性能，包括重现性和与已验证对照试剂相比的非劣效临床准确性，是否符合国际指南要求。",
+          "studyDesign": "基于Meijer研究设计的临床验证研究。",
+          "populationAndSample": "890份由临床医生采集的宫颈样本，来自比利时参加常规筛查的≥30岁女性，含90例组织学确诊CIN2+病例和800例≤CIN1对照；排除4份无效样本后，886份纳入准确性分析。样本使用PreservCyt作为储存介质。",
+          "methods": "采用Sansure HPV试剂盒（多重实时PCR，单独检测HPV16和HPV18，并聚合检测其他13种HPV类型）进行检测，HPV阳性Ct阈值设为≤39。以Abbott RealTime高危HPV检测作为对照。非劣效界值为相对灵敏度≥0.90、相对特异性≥0.98。重现性通过重新分析既往已发表数据进行评估。",
+          "keyResults": "相对于Abbott RealTime检测，Sansure HPV试剂盒对CIN2+的相对灵敏度为0.978（95%CI: 0.947-1.009；非劣效p=0.007），对CIN3+为0.966（95%CI: 0.921-1.013；非劣效p=0.045）；对≤CIN1的相对特异性为1.003（95%CI: 0.991-1.014；非劣效p=0.0006）。重现性方面，实验室内一致性为93.8%（κ=0.842），实验室间一致性为94.4%（κ=0.856），超过Meijer重现性阈值。在Ct临床cutoff≤39.0条件下，该试剂盒满足既定国际验证标准。作者指出，在组织性筛查项目中需考虑基因型组成，包括在聚合通道中检测HPV53。",
+          "limitations": "摘要未报告明确的局限性。",
+          "clinicalInterpretation": "该研究显示Sansure HPV试剂盒在临床敏感性、特异性和重现性方面满足国际验证标准，使用PreservCyt保存的宫颈样本可用于宫颈癌初筛。但需结合基因型组成（如HPV53在聚合通道中的检测）在组织筛查项目中的意义进行考虑。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "bd547e56c7cd36a5dcd341095a6f717e48cfafd1b9d29e96edbe48861e1bbde2"
+      },
+      {
+        "id": "pmid:42604984",
+        "pmid": "42604984",
+        "doi": "10.4103/npmj.npmj_638_25",
+        "title": "Luteinising Hormone-to-follicle-stimulating Hormone Ratio for Predicting Unexplained Infertility in Patients with Hypovitaminosis D.",
+        "abstract": "BACKGROUND: Hypovitaminosis D critically influences reproductive hormones in women of reproductive age. The luteinising hormone (LH)/follicle-stimulating hormone (FSH) ratio predicts poor ovulatory response.\nOBJECTIVE: To evaluate the correlation between the LH/FSH ratio and hypovitaminosis D as a predictor of unexplained infertility in women.\nMATERIALS AND METHODS: The study was a cross-sectional study with retrospective data collection spanning 2 years, from January 2023 to December 2024, conducted in the Fertility and Gynecology of El Assrar Center of Oran (Algeria). Patients were segregated into the following groups (deficient group vs. insufficient group vs. sufficient group).\nRESULTS: During the study period, 200 patients were admitted. Hypovitaminosis D status was observed in 44.5%. The mean age was 32.24 ± 6.39 years (range: 18-47). In the deficient group, serum LH concentrations were markedly lower compared to the insufficient and sufficient groups (LH = 5.80 ± 3.31 UI/L vs. 8.83 ± 6.90 UI/L vs. 6.48 ± 4.00 UI/L, P = 0.018; respectively). In contrast, the LH/FSH ratio was statistically higher in the deficient group compared to the insufficient and sufficient groups (LH/FSH ratio = 1.67 ± 1.88 vs. 0.94 ± 0.59 vs. 1.02 ± 0.64, P = 0.018; respectively). In addition, the results revealed that the 4th quartile (odds ratios = 11.37 [4.13-22.00], P = 0.021) of LH/FSH ratio was statistically higher in patients with Vitamin D insufficiency and deficiency. The LH/FSH ratio was a significant predictor for unexplained infertility with a diagnostic accuracy of 0.724.\nCONCLUSIONS: Elevated LH/FSH ratio in women with hypovitaminosis D is significantly linked to unexplained infertility. Therefore, the LH/FSH ratio can serve as a reliable clinical marker for predicting successful pregnancy when evaluated alongside Vitamin D levels.",
+        "journal": "The Nigerian postgraduate medical journal",
+        "authors": [
+          "Chahnez Hadj Slimane Mirali",
+          "Fatima Zohra Chenni",
+          "Walid Hassene Hamri"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-17T00:00:00.000Z",
+        "activityAt": "2026-08-17T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42604984/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "促黄体生成素/促卵泡刺激素比值预测维生素D缺乏患者的不明原因不孕",
+          "researchQuestion": "评估LH/FSH比值与维生素D缺乏之间的相关性，以及其作为不明原因不孕预测指标的价值。",
+          "studyDesign": "横断面研究，回顾性数据收集，为期2年（2023年1月至2024年12月）。",
+          "populationAndSample": "200例患者，来自阿尔及利亚奥兰El Assrar中心生育与妇科。维生素D缺乏状态占44.5%。平均年龄32.24±6.39岁（范围18-47）。患者被分为缺乏组、不足组和充足组。",
+          "methods": "患者按维生素D状态分为缺乏组、不足组和充足组；检测血清LH、FSH、维生素D等指标；比较各组间LH及LH/FSH比值；进行LH/FSH比值四分位数分析，并评估其预测不明原因不孕的诊断准确性。",
+          "keyResults": "缺乏组血清LH浓度显著低于不足组和充足组（LH=5.80±3.31 UI/L对8.83±6.90 UI/L对6.48±4.00 UI/L，P=0.018）。相反，缺乏组的LH/FSH比值显著高于不足组和充足组（LH/FSH=1.67±1.88对0.94±0.59对1.02±0.64，P=0.018）。LH/FSH比值第4四分位数在维生素D不足和缺乏患者中显著更高（比值比=11.37 [4.13-22.00]，P=0.021）。LH/FSH比值是不明原因不孕的显著预测因子，诊断准确性为0.724。",
+          "limitations": "摘要未报告明确的局限性。",
+          "clinicalInterpretation": "在维生素D缺乏女性中，LH/FSH比值升高与不明原因不孕显著相关。LH/FSH比值可作为结合维生素D水平评估时的临床标志物，用于预测成功妊娠，但本研究为横断面设计，解读时应注意关联而非因果。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "b359a14b124b7d824373cfde21fd3680b6d8d30d57d4d68fc3eff5a6d48bc8bd"
+      },
+      {
+        "id": "pmid:42605167",
+        "pmid": "42605167",
+        "doi": "10.1080/10641955.2026.2708180",
+        "title": "MIR210HG promotes preeclampsia progression through CDHR5.",
+        "abstract": "OBJECTIVE: Early diagnosis of preeclampsia (PE) remains challenging. We previously linked the long non-coding (lnc) RNA MIR210HG to pathological placental development. Here, we investigated its differential expression, pathophysiological phenotypic specificity, and non-invasive diagnostic potential for PE in the peripheral blood and placental tissue.\nMETHODS: We enrolled 88 PE patients (case group) and 81 normal pregnant women (control group) from the Affiliated Hospital of Qingdao University during January 2020-December 2021. MIR210HG expression was detected via RT-PCR and western blotting, and was modulated using siRNA/overexpression plasmid transfection in human trophoblasts and vascular endothelial cells.\nRESULTS: MIR210HG expression was specifically upregulated in the peripheral blood of patients with early-onset PE, with superior diagnostic efficacy for the PE-fetal growth restriction subtype. Additionally, CDHR5 was upregulated in PE-associated placental tissues ( P = 0.004). Cellular assays confirmed that MIR210HG knockdown reduced CDHR5 expression in trophoblasts and endothelial cells (Bewo: P = 0.019; JEG3: P = 0.006), and CDHR5 knockdown also downregulated MIR210HG expression (Bewo: P = 0.023).\nCONCLUSION: Therefore, MIR210HG may contribute to placental pathological injury by regulating CDHR5, though the pathogenic mechanism remains unclear. In contrast to the invasive and lagging placental-derived lncRNA biomarkers reported in previous studies, peripheral blood MIR210HG allows for non-invasive monitoring during pregnancy, making it more clinically applicable for early screening and phenotypic stratification of PE.",
+        "journal": "Hypertension in pregnancy",
+        "authors": [
+          "Aiping Chen",
+          "Jine Xu",
+          "Lu Zhang",
+          "Mengmeng Han",
+          "Ningxia Sun",
+          "Shiguo Liu"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-16T00:00:00.000Z",
+        "activityAt": "2026-08-17T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42605167/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "MIR210HG通过CDHR5促进子痫前期进展",
+          "researchQuestion": "探讨MIR210HG在子痫前期（PE）中的差异表达、病理生理表型特异性及非侵入性诊断潜力，并研究其与CDHR5的相互调控关系。",
+          "studyDesign": "病例对照研究（含体外细胞实验）。",
+          "populationAndSample": "2020年1月至2021年12月来自青岛大学附属医院的88例PE患者（病例组）和81例正常孕妇（对照组），检测标本包括外周血和胎盘组织。",
+          "methods": "通过RT-PCR和western blot检测MIR210HG表达；在人间充质滋养层细胞和血管内皮细胞中使用siRNA/过表达质粒转染调控MIR210HG表达；检测CDHR5表达变化；评估外周血MIR210HG对PE及其亚型的诊断效能。",
+          "keyResults": "MIR210HG在早发型PE患者外周血中特异性上调，对PE-胎儿生长受限亚型具有更优的诊断效能。CDHR5在PE相关胎盘组织中上调（P=0.004）。细胞实验显示，MIR210HG敲低可降低滋养层和内皮细胞中CDHR5表达（Bewo: P=0.019；JEG3: P=0.006），而CDHR5敲低也可下调MIR210HG表达（Bewo: P=0.023）。",
+          "limitations": "摘要提及致病机制仍不清楚；未报告其他明确的局限性。",
+          "clinicalInterpretation": "MIR210HG可能通过调控CDHR5参与胎盘病理损伤。外周血MIR210HG作为一种非侵入性指标，可能对PE的早期筛查和表型分层具有临床应用价值，但其具体机制仍需进一步研究。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "40bc11832ec39871a869e0ad795184cd0ec309faa458e707e3a87169a732a946"
+      },
+      {
+        "id": "pmid:42605422",
+        "pmid": "42605422",
+        "doi": "10.2147/ppa.s617348",
+        "title": "Precision Medicine and Shared Decision-Making to Advance Gestational Diabetes Management: Genetic, Metabolic, and Gut Microbiota Factors.",
+        "abstract": "Despite the apparent heterogeneity of Gestational Diabetes Mellitus (GDM) and the inter-individual variation, the current management follows standardised protocols that do not account for patients' needs or underlying phenotypic differences. A search of peer-reviewed literature was conducted to focus on precision medicine (PM) and shared decision-making (SDM) approaches in GDM. A narrative synthesis of evidence from clinical studies, reviews, and conceptual frameworks was conducted to explore how integrating PM with SDM may contribute to more individualised, patient-centred GDM care. The Web of Science Core Collection (WoSCC) was searched to assess trends in publications over the past decade. Women with GDM exhibit diverse clinical trajectories and consistently report a desire to be involved in decisions affecting maternal and infant outcomes. PM enables further individualisation through genetic, metabolic, environmental, and emerging markers, including the gut microbiota, to refine risk stratification and guide targeted interventions. SDM supports informed, collaborative treatment choices and is associated with improved engagement, adherence, and satisfaction. Integrating PM and SDM offers a pathway toward truly individualised GDM care by aligning biologically tailored management with women's values and priorities. Combining SDM and PM may provide a more holistic framework for individualised GDM care. This framework could potentially enhance the effectiveness, acceptability, and sustainability of GDM management and may lead to a change in current practice. Despite their promise, both approaches remain underutilised and insufficiently integrated into current GDM care models.",
+        "journal": "Patient preference and adherence",
+        "authors": [
+          "Basem Al-Omari",
+          "Basema Saddik",
+          "Dian Kusuma",
+          "Gayatri Janardhan",
+          "Joviana Farhat",
+          "Kenana Hatab",
+          "Moaz Mohammed",
+          "Rand Tayyem"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-08-12T00:00:00.000Z",
+        "activityAt": "2026-08-17T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42605422/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "精准医学与共同决策推进妊娠期糖尿病管理：遗传、代谢和肠道菌群因素",
+          "researchQuestion": "探索将精准医学（PM）与共同决策（SDM）整合是否有助于更个体化、以患者为中心的妊娠期糖尿病（GDM）管理。",
+          "studyDesign": "综述（基于同行评议文献的叙述性综合，并检索Web of Science核心合集评估过去十年发表趋势）。",
+          "populationAndSample": "不适用（综述）；基于对临床研究、综述和概念框架的证据综合。",
+          "methods": "检索同行评议文献，聚焦PM和SDM在GDM管理中的方法；对相关证据进行叙述性综合；检索Web of Science核心合集以分析出版趋势。",
+          "keyResults": "GDM女性表现出异质性临床轨迹，并希望参与影响母儿结局的决策。PM可通过遗传、代谢、环境和新兴标志物（包括肠道菌群）进一步实现个体化，改善风险分层并指导靶向干预。SDM支持知情、协作的治疗选择，并与参与度、依从性和满意度改善相关。整合PM与SDM可能为真正个体化的GDM护理提供途径。然而，两种方法在当前GDM护理模型中仍未得到充分利用和充分整合。",
+          "limitations": "摘要未报告明确的局限性。",
+          "clinicalInterpretation": "将精准医学与共同决策整合可能为GDM个体化管理提供更全面的框架，有望提高管理的有效性、可接受性和可持续性，但目前尚未充分进入现行GDM护理实践，属于前瞻性概念而非既定临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "c1a171c7ac7715771b2dcd0b93d9354afa97ec0cd4ae8d9c41fe3253ef50b6c0"
+      },
+      {
+        "id": "pmid:42605462",
+        "pmid": "42605462",
+        "doi": "10.22034/ijp.2026.2087408.3647",
+        "title": "Comparative Assessment of Manual Versus Automated Semen Analysis and the Role of Novel Biomarker Calprotectin in Screening for Male Factor Infertility.",
+        "abstract": "BACKGROUND &amp; OBJECTIVE: Although manual semen analysis (MSA) is cost-effective and widely used, it is prone to subjectivity and operator variability, prompting the need for standardized, automated systems such as computer-assisted semen analysis (CASA). This study was conducted to compare semen parameters using manual and automated methods and assess the relationship between calprotectin levels and semen quality.\nMETHODS: This prospective cross-sectional study was conducted over a period of 1 year. A total of 200 semen samples from male partners of infertile couples were evaluated by manual as well as automated methods (MES SQA Vision). Calprotectin in seminal plasma was estimated by ELISA. Pearson correlation was used to assess associations, and paired t test was used to compare measurements. Agreement and systematic bias were evaluated using a Bland-Altman plot.\nRESULTS: A strong correlation was observed between MSA and CASA for total sperm count (r = 0.950), concentration (r = 0.954), motility parameters (rapidly and slowly progressive motility) (r = 0.753 and 0.673), and vitality (r = 0.854), while nonprogressive motility showed a moderate correlation (r = 0.437). Smoking showed weak negative correlations with sperm count (r = -0.0073), concentration (r = -0.01), and motility, and a weak positive correlation with abnormal morphology. Alcohol showed weak positive correlations with count and concentration, but weak negative effects on motility and morphology. Semen calprotectin showed weak negative correlations with sperm count (r = -0.04052), concentration (r = -0.03939), motility (r = -0.16466), and morphology (r = -0.09623) and a weak positive correlation with vitality (r = 0.06115).\nCONCLUSION: The computer-assisted sperm analysis (CASA) system represents a significant advancement in reproductive diagnostics by offering precise, objective, and reproducible assessment of key semen parameters, showing agreement with MSA for most of the parameters. Further studies with larger sample sizes are required to clarify the diagnostic significance of calprotectin, an inflammation-related biomarker in seminal plasma.",
+        "journal": "Iranian journal of pathology",
+        "authors": [
+          "Aiswarya Ab",
+          "Charu Agarwal",
+          "Garima Dhull",
+          "Meenu Pujani",
+          "Mitasha Singh",
+          "Mukta Pujani",
+          "Nishant Gurnani",
+          "Sonam Bhatia",
+          "Varsha Chauhan"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-01T00:00:00.000Z",
+        "activityAt": "2026-08-17T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42605462/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "手动与自动精液分析的比较评估及新型生物标志物钙卫蛋白在男性因素不孕筛查中的作用",
+          "researchQuestion": "比较手动和自动方法评估精液参数的一致性，并评估精浆钙卫蛋白水平与精液质量的关系及其在男性因素不孕筛查中的价值。",
+          "studyDesign": "前瞻性横断面研究，为期1年。",
+          "populationAndSample": "200份来自不育夫妇男性伴侣的精液样本。",
+          "methods": "每份精液样本分别采用手动精液分析（MSA）和自动精液分析系统（MES SQA Vision）评估；采用ELISA检测精浆钙卫蛋白；使用Pearson相关评估关联，配对t检验比较测量值，Bland-Altman图评估一致性和系统偏倚。",
+          "keyResults": "MSA与CASA在总精子数（r=0.950）、精子浓度（r=0.954）、快速前向运动（r=0.753）、慢速前向运动（r=0.673）和存活率（r=0.854）方面呈强相关；非前向运动呈中度相关（r=0.437）。吸烟与精子数（r=-0.0073）、浓度（r=-0.01）和活力呈弱负相关，与异常形态呈弱正相关；饮酒与精子数和浓度呈弱正相关，与活力和形态呈弱负相关。精浆钙卫蛋白与精子数（r=-0.04052）、浓度（r=-0.03939）、活力（r=-0.16466）和形态（r=-0.09623）呈弱负相关，与存活率（r=0.06115）呈弱正相关。",
+          "limitations": "摘要提出需更大样本量的研究以明确精浆钙卫蛋白的诊断意义；未报告其他明确的局限性。",
+          "clinicalInterpretation": "CASA系统可提供精确、客观且可重复的关键精液参数评估，在大多数参数上与MSA具有一致性。钙卫蛋白作为炎症相关生物标志物与精液参数呈弱相关，其诊断意义尚不明确，需进一步研究验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "f3b91dc647be328ce16bf7f18c2e412edfc68174cd718ca2e5ca5bd8a6332138"
+      }
+    ]
+  }
+}
