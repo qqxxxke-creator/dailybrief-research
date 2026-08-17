@@ -7,8 +7,8 @@
   "editor_note": "过去24小时暂无符合质量要求的重要更新。",
   "keywords": [],
   "research": {
-    "generatedAt": "2026-08-17T22:57:08.036Z",
-    "dataAsOf": "2026-08-17T22:57:08.036Z",
+    "generatedAt": "2026-08-17T23:03:46.913Z",
+    "dataAsOf": "2026-08-17T23:03:46.913Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及Sansure人乳头瘤病毒DNA诊断试剂盒用于宫颈癌初筛的临床验证、促黄体生成素/促卵泡刺激素比值预测维生素D缺乏患者的不明原因不孕、MIR210HG通过CDHR5促进子痫前期进展。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
@@ -45,15 +45,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 17.5,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 92.5,
-          "evidenceRank": 0.7
-        },
         "summaryZh": {
           "titleZh": "Sansure人乳头瘤病毒DNA诊断试剂盒用于宫颈癌初筛的临床验证",
           "researchQuestion": "评估Sansure HPV试剂盒在宫颈癌初筛中的临床性能，包括重现性和与已验证对照试剂相比的非劣效临床准确性，是否符合国际指南要求。",
@@ -65,7 +56,16 @@
           "clinicalInterpretation": "该研究显示Sansure HPV试剂盒在临床敏感性、特异性和重现性方面满足国际验证标准，使用PreservCyt保存的宫颈样本可用于宫颈癌初筛。但需结合基因型组成（如HPV53在聚合通道中的检测）在组织筛查项目中的意义进行考虑。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "bd547e56c7cd36a5dcd341095a6f717e48cfafd1b9d29e96edbe48861e1bbde2"
+        "summaryInputHash": "bd547e56c7cd36a5dcd341095a6f717e48cfafd1b9d29e96edbe48861e1bbde2",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 17.5,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 92.5,
+          "evidenceRank": 0.7
+        }
       },
       {
         "id": "pmid:42604984",
@@ -91,15 +91,6 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "促黄体生成素/促卵泡刺激素比值预测维生素D缺乏患者的不明原因不孕",
           "researchQuestion": "评估LH/FSH比值与维生素D缺乏之间的相关性，以及其作为不明原因不孕预测指标的价值。",
@@ -111,7 +102,16 @@
           "clinicalInterpretation": "在维生素D缺乏女性中，LH/FSH比值升高与不明原因不孕显著相关。LH/FSH比值可作为结合维生素D水平评估时的临床标志物，用于预测成功妊娠，但本研究为横断面设计，解读时应注意关联而非因果。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "b359a14b124b7d824373cfde21fd3680b6d8d30d57d4d68fc3eff5a6d48bc8bd"
+        "summaryInputHash": "b359a14b124b7d824373cfde21fd3680b6d8d30d57d4d68fc3eff5a6d48bc8bd",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42605167",
@@ -140,15 +140,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "MIR210HG通过CDHR5促进子痫前期进展",
           "researchQuestion": "探讨MIR210HG在子痫前期（PE）中的差异表达、病理生理表型特异性及非侵入性诊断潜力，并研究其与CDHR5的相互调控关系。",
@@ -160,7 +151,16 @@
           "clinicalInterpretation": "MIR210HG可能通过调控CDHR5参与胎盘病理损伤。外周血MIR210HG作为一种非侵入性指标，可能对PE的早期筛查和表型分层具有临床应用价值，但其具体机制仍需进一步研究。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "40bc11832ec39871a869e0ad795184cd0ec309faa458e707e3a87169a732a946"
+        "summaryInputHash": "40bc11832ec39871a869e0ad795184cd0ec309faa458e707e3a87169a732a946",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42605422",
@@ -192,15 +192,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "精准医学与共同决策推进妊娠期糖尿病管理：遗传、代谢和肠道菌群因素",
           "researchQuestion": "探索将精准医学（PM）与共同决策（SDM）整合是否有助于更个体化、以患者为中心的妊娠期糖尿病（GDM）管理。",
@@ -212,7 +203,16 @@
           "clinicalInterpretation": "将精准医学与共同决策整合可能为GDM个体化管理提供更全面的框架，有望提高管理的有效性、可接受性和可持续性，但目前尚未充分进入现行GDM护理实践，属于前瞻性概念而非既定临床指令。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "c1a171c7ac7715771b2dcd0b93d9354afa97ec0cd4ae8d9c41fe3253ef50b6c0"
+        "summaryInputHash": "c1a171c7ac7715771b2dcd0b93d9354afa97ec0cd4ae8d9c41fe3253ef50b6c0",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42605462",
@@ -244,15 +244,6 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "手动与自动精液分析的比较评估及新型生物标志物钙卫蛋白在男性因素不孕筛查中的作用",
           "researchQuestion": "比较手动和自动方法评估精液参数的一致性，并评估精浆钙卫蛋白水平与精液质量的关系及其在男性因素不孕筛查中的价值。",
@@ -264,7 +255,16 @@
           "clinicalInterpretation": "CASA系统可提供精确、客观且可重复的关键精液参数评估，在大多数参数上与MSA具有一致性。钙卫蛋白作为炎症相关生物标志物与精液参数呈弱相关，其诊断意义尚不明确，需进一步研究验证。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "f3b91dc647be328ce16bf7f18c2e412edfc68174cd718ca2e5ca5bd8a6332138"
+        "summaryInputHash": "f3b91dc647be328ce16bf7f18c2e412edfc68174cd718ca2e5ca5bd8a6332138",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       }
     ]
   }
