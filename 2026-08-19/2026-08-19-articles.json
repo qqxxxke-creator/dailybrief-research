@@ -3,13 +3,13 @@
   "articles": [
     {
       "sourceId": "medpage-today-headlines",
-      "title": "The Doctors Who 'Don’t See Pregnant Patients'",
+      "title": "The Doctors Who 'Don't See Pregnant Patients'",
       "url": "https://www.medpagetoday.com/opinion/second-opinions/122660",
       "excerpt": "(MedPage Today) -- The resident was apologetic over the phone, embarrassed for reasons outside his control. He was transferring, from his hospital to ours, a pregnant patient who required consultation for a non-obstetric illness. This alone was...",
       "publishedAt": "2026-08-18T21:19:22.000Z",
       "category": "politics",
       "source": "MedPage Today",
-      "summary": "文章讲述一位住院医师为一名需要非产科疾病会诊的孕妇转诊，并评论某些医生拒绝接诊孕妇的现象。",
+      "summary": "文章讨论医生不愿接诊孕妇的现象，以一名孕妇因非产科疾病需会诊而被转诊为例，切入相关医疗系统问题。",
       "reviewStatus": "accepted",
       "lowPriority": false
     }

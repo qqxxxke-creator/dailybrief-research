@@ -1,28 +1,28 @@
 {
-  "hero_headline": "医生拒绝接诊孕妇：产科可及性危机引发关注",
-  "daily_overview": "今日唯一值得关注的信息来自 MedPage Today 评论文章，揭示部分医生不愿接诊孕妇的现象，反映产科服务获取困难与转诊压力，对临床一线和医疗系统安排有警示意义。",
+  "hero_headline": "产科转诊困境：当医生「不接诊孕妇」成为临床现实",
+  "daily_overview": "今日妇产科要闻仅有一条相关动态：MedPage Today 发表观点文章，描述住院医师因院方原因不得不将孕妇转诊至其他医院的经历，折射出产科接诊资源与责任分配的临床现实问题。",
   "tech_briefs": [],
   "finance_briefs": [],
   "politics_briefs": [
     {
-      "title": "The Doctors Who 'Don’t See Pregnant Patients'",
+      "title": "The Doctors Who 'Don't See Pregnant Patients'",
       "url": "https://www.medpagetoday.com/opinion/second-opinions/122660",
       "source": "MedPage Today",
-      "summary": "文章报道一名住院医师因医院无法提供所需产科咨询而将孕妇转诊至作者医院，反映部分医生不愿接诊孕妇的现状。该现象可能加剧产科医疗资源分配不均，影响孕妇获得及时救治，值得产科管理者关注转诊路径和接诊意愿问题。原文摘要未说明与既往建议的差异。",
-      "importance": 7
+      "summary": "文章以住院医师电话致歉并转诊孕妇的实例，讨论部分医生或机构不接诊孕妇的现象，涉及产科急诊会诊与资源协调难题。原文为观点文章，未提供系统性数据或政策建议，但提示产科服务可及性值得关注。",
+      "importance": 6
     }
   ],
-  "editor_note": "产科可及性问题是全球性挑战，转诊困境背后是系统承压，需从制度和资源层面共同破题。",
+  "editor_note": "单篇观点虽不足以定论，但产科转诊难题关系母婴安全，值得临床与管理者共同审视。",
   "keywords": [
-    "孕妇转诊",
-    "产科可及性",
-    "医疗资源",
-    "医生接诊意愿",
-    "孕产妇安全"
+    "产科转诊",
+    "孕妇接诊",
+    "MedPage Today",
+    "产科资源",
+    "急诊会诊"
   ],
   "research": {
-    "generatedAt": "2026-08-18T22:57:09.049Z",
-    "dataAsOf": "2026-08-18T22:57:09.049Z",
+    "generatedAt": "2026-08-18T23:43:09.338Z",
+    "dataAsOf": "2026-08-18T23:43:09.338Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及宫颈癌术后下肢淋巴水肿风险预测模型的构建与验证：一项前瞻性队列研究、子宫腺肌病患者经血中PGP9.5和TGF-β1水平与痛经严重程度的相关性：一项横断面研究、2009-2023年非洲卵巢癌负担上升：流行病学变化、年龄特异性模式、COVID-19相关偏差及未来预测。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
@@ -54,15 +54,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 17.5,
-          "clinicalActionability": 11.25,
-          "recency": 10,
-          "total": 88.75,
-          "evidenceRank": 0.7
-        },
         "summaryZh": {
           "titleZh": "宫颈癌术后下肢淋巴水肿风险预测模型的构建与验证：一项前瞻性队列研究",
           "researchQuestion": "分析宫颈癌术后下肢淋巴水肿（LLL）的各种危险因素，构建风险预测模型并验证其预测效果。",
@@ -74,7 +65,16 @@
           "clinicalInterpretation": "该风险预测模型预测效果良好，可为临床医务人员评估宫颈癌术后LLL风险提供有效参考。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "494be2cb6ae96df50f6f750ccb739547c8c72fc2075be96840bdc60a4cb89e58"
+        "summaryInputHash": "494be2cb6ae96df50f6f750ccb739547c8c72fc2075be96840bdc60a4cb89e58",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 17.5,
+          "clinicalActionability": 11.25,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 0.7
+        }
       },
       {
         "id": "pmid:42609181",
@@ -104,15 +104,6 @@
         "matchedTopicIds": [
           "endometriosis-benign-gynecology"
         ],
-        "assignedTopicId": "endometriosis-benign-gynecology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "子宫腺肌病患者经血中PGP9.5和TGF-β1水平与痛经严重程度的相关性：一项横断面研究",
           "researchQuestion": "分析子宫腺肌病患者经血中PGP9.5和TGF-β1水平与痛经严重程度的关联，并评估其诊断性能。",
@@ -124,7 +115,16 @@
           "clinicalInterpretation": "子宫腺肌病患者经血中PGP9.5和TGF-β1水平显著升高，并与痛经严重程度正相关；这些发现为经血PGP9.5和TGF-β1可能作为子宫腺肌病非侵入性生物标志物提供了概念验证。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "78de546b675ee5c9cc765a97a5554baf2c070988c139eb744c9dbd81b02a154d"
+        "summaryInputHash": "78de546b675ee5c9cc765a97a5554baf2c070988c139eb744c9dbd81b02a154d",
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42609197",
@@ -150,15 +150,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "2009-2023年非洲卵巢癌负担上升：流行病学变化、年龄特异性模式、COVID-19相关偏差及未来预测",
           "researchQuestion": "利用GBD 2023估计评估2009年至2023年非洲女性卵巢癌负担的变化趋势及未来预测。",
@@ -170,7 +161,16 @@
           "clinicalInterpretation": "GBD 2023估计显示非洲女性卵巢癌负担上升，且存在显著的地域和年龄特异性异质性；需要加强癌症监测、诊断、病理学、手术和系统性治疗的可及性。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "88065aa7b3e30df2fe457382d99b2eced500a6d6e960f75b89c6317f532b2bb2"
+        "summaryInputHash": "88065aa7b3e30df2fe457382d99b2eced500a6d6e960f75b89c6317f532b2bb2",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42609390",
@@ -203,15 +203,6 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "男性不育中的热休克蛋白：最新进展和临床意义",
           "researchQuestion": "综述热应激诱导男性不育的病理生理过程，总结热应激及热应激相关蛋白导致男性不育的潜在机制，并提出热应激下HSP系统反应的动态模型，以及当前诊断和治疗进展。",
@@ -223,7 +214,16 @@
           "clinicalInterpretation": "该综述为进一步阐明热应激相关男性不育的发病机制、提高诊断准确性以及指导开发靶向治疗策略提供了理论基础。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "0d79d49863a75dafa778c61842cfea4585f60c61876438c0b2af1c5dd12321b1"
+        "summaryInputHash": "0d79d49863a75dafa778c61842cfea4585f60c61876438c0b2af1c5dd12321b1",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42609417",
@@ -248,15 +248,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "预测和诊断子痫前期的血清生物标志物：诊断准确性的系统荟萃分析",
           "researchQuestion": "全面评估七类血清生物标志物对子痫前期的预测潜力，并明确其临床应用价值。",
@@ -268,7 +259,16 @@
           "clinicalInterpretation": "该荟萃分析表明sFlt-1/PIGF比值对子痫前期具有较高的诊断准确性，尤其在妊娠中期。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "0d1891670f9a927ad25677346937186a3f38a2ff2c109a7e3a7db3e71cfbceda"
+        "summaryInputHash": "0d1891670f9a927ad25677346937186a3f38a2ff2c109a7e3a7db3e71cfbceda",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       }
     ]
   }
