@@ -1,0 +1,275 @@
+{
+  "hero_headline": "医生拒绝接诊孕妇：产科可及性危机引发关注",
+  "daily_overview": "今日唯一值得关注的信息来自 MedPage Today 评论文章，揭示部分医生不愿接诊孕妇的现象，反映产科服务获取困难与转诊压力，对临床一线和医疗系统安排有警示意义。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [
+    {
+      "title": "The Doctors Who 'Don’t See Pregnant Patients'",
+      "url": "https://www.medpagetoday.com/opinion/second-opinions/122660",
+      "source": "MedPage Today",
+      "summary": "文章报道一名住院医师因医院无法提供所需产科咨询而将孕妇转诊至作者医院，反映部分医生不愿接诊孕妇的现状。该现象可能加剧产科医疗资源分配不均，影响孕妇获得及时救治，值得产科管理者关注转诊路径和接诊意愿问题。原文摘要未说明与既往建议的差异。",
+      "importance": 7
+    }
+  ],
+  "editor_note": "产科可及性问题是全球性挑战，转诊困境背后是系统承压，需从制度和资源层面共同破题。",
+  "keywords": [
+    "孕妇转诊",
+    "产科可及性",
+    "医疗资源",
+    "医生接诊意愿",
+    "孕产妇安全"
+  ],
+  "research": {
+    "generatedAt": "2026-08-18T22:57:09.049Z",
+    "dataAsOf": "2026-08-18T22:57:09.049Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及宫颈癌术后下肢淋巴水肿风险预测模型的构建与验证：一项前瞻性队列研究、子宫腺肌病患者经血中PGP9.5和TGF-β1水平与痛经严重程度的相关性：一项横断面研究、2009-2023年非洲卵巢癌负担上升：流行病学变化、年龄特异性模式、COVID-19相关偏差及未来预测。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42608880",
+        "pmid": "42608880",
+        "doi": "10.1002/cam4.72194",
+        "title": "Construction and Validation of a Risk Prediction Model for Lower Limb Lymphedema After Cervical Cancer Surgery: A Prospective Cohort Study.",
+        "abstract": "OBJECTIVE: To analyze various risk factors for lower limb lymphedema (LLL) after cervical cancer surgery, to build a risk prediction model and to verify the model's predictive effect.\nMETHODS: Clinical data were collected from 544 patients who underwent cervical cancer surgery in our hospital from January 2020 to December 2022. LASSO regression was used to screen risk factors for postoperative LLL. Then we established a Cox proportional hazard regression model including several parameters screened by LASSO regression. The final prediction model was visualized, and the nomogram for postoperative LLL risk prediction was finally plotted.\nRESULTS: A total of 544 patients undergoing cervical cancer surgery were randomly divided into training and validation sets at a 6:4 ratio. LASSO regression screened out 9 candidate variables. Multivariate Cox regression identified 3 independent risk factors and 1 independent protective factor for postoperative LLL. Statistically significant risk factors included prolonged preoperative static posture (HR = 4.675, p < 0.001), pelvic lymph node dissection (HR = 2.261, p = 0.008), and radiotherapy within 3 months after the surgery (HR = 1.929, p = 0.029). Preoperative labor intensity served as an independent protective factor (HR = 0.536, 95% CI: 0.364-0.790, p = 0.002). The other 5 screened variables had no significant correlation with LLL (all p > 0.05). A nomogram prediction model was constructed and internally validated. The C-index reached 0.835 in the training set and 0.810 in the validation set. The time-dependent AUC values ranged from 0.882 to 0.887 in the training set and 0.882 to 0.890 in the validation set at 12, 24, and 36 months. Calibration curves showed moderate consistency between predicted and observed LLL risks. Decision curve analysis verified that the model yielded satisfactory clinical net benefit within a wide threshold probability range.\nCONCLUSION: Our risk prediction model has a good prediction effect and can provide a valid reference for clinical medical staff to evaluate the risk of LLL after cervical cancer surgery.",
+        "journal": "Cancer medicine",
+        "authors": [
+          "Gaoming Liu",
+          "Guorui Zhao",
+          "Jiali Xu",
+          "Jie Long",
+          "Sen Li",
+          "Xiang Liu"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Validation Study"
+        ],
+        "publishedAt": "2026-08-01T00:00:00.000Z",
+        "activityAt": "2026-08-18T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42608880/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 17.5,
+          "clinicalActionability": 11.25,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 0.7
+        },
+        "summaryZh": {
+          "titleZh": "宫颈癌术后下肢淋巴水肿风险预测模型的构建与验证：一项前瞻性队列研究",
+          "researchQuestion": "分析宫颈癌术后下肢淋巴水肿（LLL）的各种危险因素，构建风险预测模型并验证其预测效果。",
+          "studyDesign": "前瞻性队列研究",
+          "populationAndSample": "2020年1月至2022年12月在某院接受宫颈癌手术的544例患者；按6:4随机分为训练集和验证集。",
+          "methods": "采用LASSO回归筛选术后LLL危险因素，建立包含筛选参数的Cox比例风险回归模型，绘制列线图并对其进行内部验证；采用C指数、时间依赖性AUC、校准曲线和决策曲线分析评价模型。",
+          "keyResults": "LASSO回归筛选出9个候选变量；多因素Cox回归识别出3个独立危险因素和1个独立保护因素：术前长时间静态姿势（HR=4.675，p<0.001）、盆腔淋巴结清扫（HR=2.261，p=0.008）、术后3个月内放疗（HR=1.929，p=0.029），术前劳动强度为保护因素（HR=0.536，95%CI: 0.364-0.790，p=0.002）。其余5个变量与LLL无显著相关性（均p>0.05）。训练集C指数0.835，验证集0.810；12、24、36个月时间依赖性AUC在训练集为0.882-0.887，验证集为0.882-0.890。校准曲线显示预测与观察风险中度一致；决策曲线分析显示在较宽阈值概率范围内有满意的临床净获益。",
+          "limitations": "摘要未报告",
+          "clinicalInterpretation": "该风险预测模型预测效果良好，可为临床医务人员评估宫颈癌术后LLL风险提供有效参考。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "494be2cb6ae96df50f6f750ccb739547c8c72fc2075be96840bdc60a4cb89e58"
+      },
+      {
+        "id": "pmid:42609181",
+        "pmid": "42609181",
+        "doi": "10.2147/ijwh.s619874",
+        "title": "Correlation of PGP9.5 and TGF-β1 Levels in Menstrual Blood with Dysmenorrhea Severity in Adenomyosis Patients: A Cross-Sectional Study.",
+        "abstract": "BACKGROUND: Adenomyosis is a common gynecological disorder characterized by invasion of endometrial tissue into the myometrium, often presenting with severe dysmenorrhea. The pathophysiology involves neurogenesis and inflammation, with protein gene product 9.5 (PGP9.5) as a nerve fiber marker and transforming growth factor-beta 1 (TGF-β1) as an inflammatory mediator. Menstrual blood represents an easily obtainable, non-invasive alternative to conventional tissue-based biomarker assessment.\nOBJECTIVE: To analyze the association between PGP9.5 and TGF-β1 levels in menstrual blood with dysmenorrhea severity in adenomyosis patients, and to evaluate their diagnostic performance.\nMETHODS: This cross-sectional study included 72 women aged 20-45 years (36 with adenomyosis confirmed by histopathology and 36 controls) at Dr. Hasan Sadikin Hospital and Bandung Kiwari Hospital, Indonesia, from September 2025 to January 2026. Menstrual blood samples were collected using menstrual cups on the second or third day of menstruation. PGP9.5 and TGF-β1 levels were measured using ELISA. Dysmenorrhea severity was assessed using the Visual Analog Scale (VAS). Statistical analyses included Mann-Whitney test, Spearman correlation, and ROC curve analysis.\nRESULTS: PGP9.5 levels were significantly higher in adenomyosis patients compared to controls (median 335,77 vs 223,77 ng/L, p<0.001), as were TGF-β1 levels (median 608,92 vs 379,43 ng/mL, p<0.001). VAS scores were also significantly higher in the adenomyosis group (median 9.00 vs 0.50, p<0.001). Significant positive correlations across the overall study population were observed between PGP9.5 and VAS (r = 0.562, p < 0.001), TGF-β1 and VAS (r = 0.581, p < 0.001), and between PGP9.5 and TGF-β1 (r = 0.878, p < 0.001). ROC analysis demonstrated excellent diagnostic performance for PGP9.5 and TGF-β1 with AUC of 0.943 and 0.942, with optimal cut-offs of 260.43 ng/L for PGP9.5 and 482.95 ng/mL for TGF-β1, yielding sensitivity and specificity of 91.7% for both markers.\nCONCLUSION: PGP9.5 and TGF-β1 levels in menstrual blood are significantly elevated in adenomyosis patients and positively correlate with dysmenorrhea severity. These findings provide proof of concept that menstrual blood PGP9.5 and TGF-β1 may serve as non-invasive biomarkers for adenomyosis.",
+        "journal": "International journal of women's health",
+        "authors": [
+          "Anita Rachmawati",
+          "Dian Tjahyadi",
+          "Hanom Husni Syam",
+          "Hartanto Bayuaji",
+          "Ida Bagus Putra Adnyana",
+          "Mulyanusa Amarullah Ritonga",
+          "Yohanes Iddo Adventa"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-11T00:00:00.000Z",
+        "activityAt": "2026-08-18T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42609181/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "子宫腺肌病患者经血中PGP9.5和TGF-β1水平与痛经严重程度的相关性：一项横断面研究",
+          "researchQuestion": "分析子宫腺肌病患者经血中PGP9.5和TGF-β1水平与痛经严重程度的关联，并评估其诊断性能。",
+          "studyDesign": "横断面研究",
+          "populationAndSample": "2025年9月至2026年1月在印度尼西亚Dr. Hasan Sadikin医院和Bandung Kiwari医院纳入的72名20-45岁女性（36例组织病理学确诊的子宫腺肌病患者，36例对照）。",
+          "methods": "使用月经杯于月经第2或第3天收集经血样本；ELISA检测PGP9.5和TGF-β1水平；视觉模拟量表（VAS）评估痛经严重程度；采用Mann-Whitney检验、Spearman相关分析和ROC曲线分析。",
+          "keyResults": "子宫腺肌病患者PGP9.5水平显著高于对照组（中位数335,77 vs 223,77 ng/L，p<0.001），TGF-β1水平也显著升高（中位数608,92 vs 379,43 ng/mL，p<0.001），VAS评分显著更高（中位数9.00 vs 0.50，p<0.001）。总体研究人群中，PGP9.5与VAS（r=0.562，p<0.001）、TGF-β1与VAS（r=0.581，p<0.001）、PGP9.5与TGF-β1（r=0.878，p<0.001）均呈显著正相关。ROC分析显示PGP9.5和TGF-β1的AUC分别为0.943和0.942，最佳截断值分别为260.43 ng/L和482.95 ng/mL，两者的敏感度和特异度均为91.7%。",
+          "limitations": "摘要未报告",
+          "clinicalInterpretation": "子宫腺肌病患者经血中PGP9.5和TGF-β1水平显著升高，并与痛经严重程度正相关；这些发现为经血PGP9.5和TGF-β1可能作为子宫腺肌病非侵入性生物标志物提供了概念验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "78de546b675ee5c9cc765a97a5554baf2c070988c139eb744c9dbd81b02a154d"
+      },
+      {
+        "id": "pmid:42609197",
+        "pmid": "42609197",
+        "doi": "10.2147/ijwh.s617774",
+        "title": "Rising Ovarian Cancer Burden in Africa, 2009-2023: Epidemiological Change, Age-Specific Patterns, COVID-19-Related Deviations, and Future Forecasts.",
+        "abstract": "BACKGROUND: Ovarian cancer is an important cause of cancer morbidity and mortality among women, but continent-wide evidence from Africa remains limited. We used Global Burden of Disease (GBD) 2023 estimates to assess ovarian cancer burden among African females from 2009 to 2023.\nMETHODS: We conducted a population-level ecological analysis of GBD 2023 estimates for 54 African countries. We assessed incidence, prevalence, deaths, disability-adjusted life-years (DALYs), age-standardised rates (ASRs), temporal trends, Socio-demographic Index (SDI) correlations, Das Gupta decomposition, age-specific patterns, COVID-19-period deviations, and exploratory autoregressive integrated moving average (ARIMA) projections to 2040.\nRESULTS: Between 2009 and 2023, incident cases increased from 14,582 to 40,884, deaths from 9,099 to 24,123, and DALYs from 338,844 to 919,069. Nigeria had the largest absolute burden in 2023, whereas the highest ASRs were concentrated mainly in eastern and central sub-Saharan Africa. SDI was not significantly associated with 2023 ASRs, and inverse associations between SDI and temporal increases were weak and nonsignificant. Decomposition attributed the largest share of the increase in absolute burden to the rate-related component, with additional contributions from population growth and ageing. Age-specific incidence and mortality generally increased with age and peaked in older age groups. During 2020-2023, observed burden exceeded counterfactual estimates overall after a below-expected pattern in 2020. Exploratory ARIMA projections suggested possible further ASR increases through 2040, with widening prediction intervals.\nCONCLUSION: GBD 2023 estimates indicate a rising ovarian cancer burden among women in Africa, with substantial geographical and age-specific heterogeneity. Strengthening cancer surveillance, diagnosis, pathology, surgery, and access to systemic treatment is needed.",
+        "journal": "International journal of women's health",
+        "authors": [
+          "Yan Cui",
+          "Yan Jin",
+          "Yongli Jin"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-12T00:00:00.000Z",
+        "activityAt": "2026-08-18T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42609197/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "2009-2023年非洲卵巢癌负担上升：流行病学变化、年龄特异性模式、COVID-19相关偏差及未来预测",
+          "researchQuestion": "利用GBD 2023估计评估2009年至2023年非洲女性卵巢癌负担的变化趋势及未来预测。",
+          "studyDesign": "人群层面生态学分析",
+          "populationAndSample": "GBD 2023估计中非洲54个国家。",
+          "methods": "评估发病率、患病率、死亡数、伤残调整生命年（DALYs）、年龄标准化率（ASRs）、时间趋势、社会人口指数（SDI）相关性、Das Gupta分解、年龄特异性模式、COVID-19时期偏差以及探索性ARIMA预测（至2040年）。",
+          "keyResults": "2009年至2023年，发病例数从14,582例增加到40,884例，死亡从9,099例增加到24,123例，DALYs从338,844增加到919,069。2023年尼日利亚绝对负担最大，而最高ASRs主要集中在撒哈拉以南非洲东部和中部。SDI与2023年ASRs无显著关联，SDI与时间增加的负相关微弱且不显著。分解分析显示绝对负担增加的最大份额来自率相关成分，另有来自人口增长和老龄化的贡献。年龄别发病率和死亡率一般随年龄增长而上升，并在较大年龄组达到峰值。2020-2023年期间，在2020年出现低于预期的模式后，总体观察负担超过反事实估计。探索性ARIMA预测提示到2040年ASRs可能进一步上升，预测区间逐渐变宽。",
+          "limitations": "摘要未报告",
+          "clinicalInterpretation": "GBD 2023估计显示非洲女性卵巢癌负担上升，且存在显著的地域和年龄特异性异质性；需要加强癌症监测、诊断、病理学、手术和系统性治疗的可及性。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "88065aa7b3e30df2fe457382d99b2eced500a6d6e960f75b89c6317f532b2bb2"
+      },
+      {
+        "id": "pmid:42609390",
+        "pmid": "42609390",
+        "doi": "10.3389/fcell.2026.1898983",
+        "title": "Heat shock proteins in male infertility: recent advances and clinical implications.",
+        "abstract": "The decline in male sperm quality has become a global concern for male reproductive health. Research indicates that heat stress is an important external factor that contributes to male infertility, potentially promoting germ cell apoptosis, disrupting redox balance, and affecting proteostasis. Recently, a growing body of research has demonstrated an association between heat stress-related proteins and male infertility. Heat shock proteins (HSPs) and their upstream transcription factors, known as heat shock factors (HSFs), constitute the core molecular system through which cells respond to heat stress. The main heat-shock protein families, including HSPA1, HSPA2, HSP90, HSP60, and small HSPs Small Heat Shock Proteins, play pivotal regulatory roles in spermatogenesis. These protein families influences the balance between germ cell repair and cell death by regulating proteostasis, oxidative homeostasis, and cell survival. The dysregulation of this system may represent an important molecular basis for heat stress-induced male infertility. This review focuses on the pathophysiological process of heat stress-induced male infertility, summarizes the potential mechanisms by which heat stress and heat stress-related proteins contribute to male infertility, and proposes a dynamic model of HSP systemic responses under heat stress. The current progress in the diagnosis and treatment of heat stress-related male infertility is summarized to provide a theoretical basis for further elucidating its pathogenesis, improving diagnostic accuracy, and guiding the developing of targeted therapeutic strategies.",
+        "journal": "Frontiers in cell and developmental biology",
+        "authors": [
+          "Haoran Ding",
+          "Huiyu Ping",
+          "Jinxiang Yuan",
+          "Linhui Xia",
+          "Qin Qin",
+          "Ruqi Han",
+          "Wanting Zhang",
+          "Xiaomei Wang",
+          "Zhongnan Wu"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-08-03T00:00:00.000Z",
+        "activityAt": "2026-08-18T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42609390/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "男性不育中的热休克蛋白：最新进展和临床意义",
+          "researchQuestion": "综述热应激诱导男性不育的病理生理过程，总结热应激及热应激相关蛋白导致男性不育的潜在机制，并提出热应激下HSP系统反应的动态模型，以及当前诊断和治疗进展。",
+          "studyDesign": "综述",
+          "populationAndSample": "摘要未报告（综述文章）",
+          "methods": "综述性论文，总结热应激相关蛋白与男性不育关联的研究进展，提出HSP系统反应的动态模型，并总结相关诊断和治疗进展。",
+          "keyResults": "热应激是导致男性不育的重要外部因素，可能促进生殖细胞凋亡、破坏氧化还原平衡并影响蛋白质稳态。HSPA1、HSPA2、HSP90、HSP60和小热休克蛋白家族在精子发生中发挥关键调节作用，通过调节蛋白质稳态、氧化稳态和细胞存活来影响生殖细胞修复与死亡之间的平衡。该系统的失调可能是热应激诱导男性不育的重要分子基础。文中提出了热应激下HSP系统反应的动态模型。",
+          "limitations": "摘要未报告",
+          "clinicalInterpretation": "该综述为进一步阐明热应激相关男性不育的发病机制、提高诊断准确性以及指导开发靶向治疗策略提供了理论基础。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "0d79d49863a75dafa778c61842cfea4585f60c61876438c0b2af1c5dd12321b1"
+      },
+      {
+        "id": "pmid:42609417",
+        "pmid": "42609417",
+        "doi": "10.3389/fmed.2026.1861345",
+        "title": "Serum biomarkers for the prediction and diagnosis of preeclampsia: a systematic meta-analysis of diagnostic accuracy.",
+        "abstract": "BACKGROUND: Preeclampsia, a life-threatening gestational complication for maternal-fetal health, necessitates prediction (across all trimesters) to improve clinical outcomes. Serum biomarkers, by revealing core pathological mechanisms such as angiogenic imbalance, have emerged as potential screening tools. However, the heterogeneity in their predictive efficacy and clinical utility requires evidence-based synthesis.\nOBJECTIVE: To comprehensively evaluate the predictive potential of seven categories of serum biomarkers and clarify their clinical application value.\nMETHODS: Databases including PubMed, Embase, Cochrane Library, and Web of Science were searched from inception to January 20, 2026, to identify studies evaluating the diagnostic performance of serum biomarkers for preeclampsia. The methodological quality of included studies was assessed using the QUADAS-2 tool. Pooled sensitivity, specificity, positive likelihood ratio (PLR), negative likelihood ratio (NLR), diagnostic odds ratio (DOR), and area under the curve (AUC) were calculated using bivariate random-effects models and the hierarchical summary receiver operating characteristic (HSROC) model.\nRESULTS: A total of 22 studies (7,772 participants) were included. The sFlt-1/PIGF ratio demonstrated the highest diagnostic accuracy, with a pooled sensitivity of 85%, specificity of 83%, and AUC of 0.923. For individual biomarkers, sFlt-1 showed a sensitivity of 78% (95% CI: 74-82%) and specificity of 79% (95% CI: 75-83%) with an AUC of 0.881; PIGF showed a sensitivity of 74% (95% CI: 70-78%) and specificity of 76% (95% CI: 72-80%) with an AUC of 0.859. Endoglin and leptin exhibited moderate diagnostic performance (AUCs of 0.814 and 0.768, respectively) but were limited by high heterogeneity ( I 2 > 75%). Activin A and inhibin A showed preliminary diagnostic potential (AUCs of 0.785 and 0.796, respectively), but these findings are based on only three studies each and require validation in larger prospective cohorts. Subgroup analysis revealed that diagnostic accuracy varied by gestational trimester, with the sFlt-1/PIGF ratio achieving the highest AUC (0.94) in the second trimester. Sensitivity analyses confirmed the robustness of the pooled estimates, and publication bias was assessed using Deeks' funnel plot.\nCONCLUSION: This meta-analysis demonstrates that the sFlt-1/PIGF ratio exhibits superior diagnostic accuracy for preeclampsia, particularly during the second trimester.",
+        "journal": "Frontiers in medicine",
+        "authors": [
+          "Xiang Li"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-08-03T00:00:00.000Z",
+        "activityAt": "2026-08-18T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42609417/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "预测和诊断子痫前期的血清生物标志物：诊断准确性的系统荟萃分析",
+          "researchQuestion": "全面评估七类血清生物标志物对子痫前期的预测潜力，并明确其临床应用价值。",
+          "studyDesign": "系统评价和荟萃分析（诊断准确性）",
+          "populationAndSample": "纳入22项研究，共7,772名参与者；检索数据库自建库至2026年1月20日。",
+          "methods": "检索PubMed、Embase、Cochrane Library和Web of Science；采用QUADAS-2评估纳入研究的方法学质量；使用双变量随机效应模型和层次汇总受试者工作特征（HSROC）模型计算合并敏感度、特异度、阳性似然比（PLR）、阴性似然比（NLR）、诊断比值比（DOR）和曲线下面积（AUC）；进行亚组分析和敏感性分析，采用Deeks漏斗图评估发表偏倚。",
+          "keyResults": "sFlt-1/PIGF比值诊断准确性最高，合并敏感度85%，特异度83%，AUC为0.923。单个标志物中，sFlt-1敏感度78%（95%CI: 74-82%），特异度79%（95%CI: 75-83%），AUC 0.881；PIGF敏感度74%（95%CI: 70-78%），特异度76%（95%CI: 72-80%），AUC 0.859。Endoglin和leptin表现出中等诊断性能（AUC分别为0.814和0.768），但受高异质性限制（I2>75%）。Activin A和inhibin A显示出初步诊断潜力（AUC分别为0.785和0.796），但基于各仅3项研究，需在更大规模前瞻性队列中验证。亚组分析显示诊断准确性随妊娠孕周而变化，sFlt-1/PIGF比值在妊娠中期AUC最高（0.94）。敏感性分析确认合并估计具有稳健性。",
+          "limitations": "摘要未报告",
+          "clinicalInterpretation": "该荟萃分析表明sFlt-1/PIGF比值对子痫前期具有较高的诊断准确性，尤其在妊娠中期。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "0d1891670f9a927ad25677346937186a3f38a2ff2c109a7e3a7db3e71cfbceda"
+      }
+    ]
+  }
+}
