@@ -1,6 +1,6 @@
 {
-  "hero_headline": "FIGO 聚焦「以患者为中心的尊重式护理」：改善产科结局的新视角",
-  "daily_overview": "今日妇产科动态来自 FIGO 健康系统强化与尊重护理委员会，通过播客形式探讨尊重式、以患者为中心的护理对改善结局的价值，强调医患共同决策与人性化服务在产科实践中的重要性。",
+  "hero_headline": "FIGO 强调以尊重患者为中心的护理，改善妇产科结局",
+  "daily_overview": "今日仅一条来自国际妇产科联盟（FIGO）的官方动态，聚焦尊重患者为中心的护理模式，由委员会成员与产科医生及助产士共同探讨，提示妇产科服务质量提升不仅是技术问题，更需融入人文关怀。",
   "tech_briefs": [],
   "finance_briefs": [],
   "politics_briefs": [
@@ -8,23 +8,22 @@
       "title": "Improving outcomes through respectful patient-centred care",
       "url": "https://rss.com/podcasts/figo/3077568",
       "source": "FIGO Society Updates",
-      "summary": "FIGO 健康系统强化与尊重护理委员会发布播客，由 Stella Dantas 博士主持，邀请产科医师 Jezid Miranda 和助产士 Soo Downe 教授，探讨尊重患者为中心的护理如何改善产科结局。该内容强调将患者尊严、自主权纳入照护流程，对推动产科质量改进和减少非必要干预具有方向性意义。",
+      "summary": "FIGO 健康系统强化与尊重护理委员会发布播客，Dr Stella Dantas 与产科医生 Jezid Miranda、助产士教授 Soo Downe 探讨尊重患者为中心的护理对改善产科结局的意义。强调尊重与沟通在妇产科临床实践中的核心作用，提示未来服务模式应更注重患者尊严与参与。",
       "importance": 7
     }
   ],
-  "editor_note": "尊重与共情是产科质量的核心，FIGO 发声提醒临床回归人性化照护。",
+  "editor_note": "尊重患者为中心的护理是妇产科质量改进的重要方向，FIGO 的讨论为临床实践提供了人文视角。",
   "keywords": [
-    "尊重式护理",
-    "患者中心",
-    "产科结局",
+    "尊重护理",
+    "患者为中心",
     "FIGO",
-    "共同决策",
-    "产科质量",
-    "人性化照护"
+    "妇产科质量",
+    "人文关怀",
+    "产科结局"
   ],
   "research": {
-    "generatedAt": "2026-08-19T22:57:55.664Z",
-    "dataAsOf": "2026-08-19T22:57:55.664Z",
+    "generatedAt": "2026-08-19T23:41:52.095Z",
+    "dataAsOf": "2026-08-19T23:41:52.095Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及放疗联合免疫检查点抑制剂对癌症患者的临床价值：系统评价与荟萃分析、基于Swanson关怀理论的干预对接受辅助生殖技术治疗的女性和伴侣减轻不孕相关压力并改善应对策略：一项随机对照试验、中药定向透药疗法对卵巢癌术后患者胃肠功能、肠道菌群和睡眠质量的影响：一项随机对照试验。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
@@ -54,15 +53,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 100,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "放疗联合免疫检查点抑制剂对癌症患者的临床价值：系统评价与荟萃分析",
           "researchQuestion": "评估在放疗基础上加用免疫检查点抑制剂（ICI）对癌症患者的临床价值。",
@@ -74,7 +64,16 @@
           "clinicalInterpretation": "该汇总证据提示，在放疗基础上加用免疫检查点抑制剂可能为非小细胞肺癌和宫颈癌患者带来生存获益，且辅助阶段添加ICI得到本研究支持；但需注意≥3级不良事件风险增加，临床应用需结合具体临床情境，不应直接视为临床指令。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "ab9466708feeef4947e85592be5e00ef3a31cfeebe3b48498eaa9b8dc3798864"
+        "summaryInputHash": "ab9466708feeef4947e85592be5e00ef3a31cfeebe3b48498eaa9b8dc3798864",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:42613486",
@@ -100,15 +99,6 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 23.75,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 98.75,
-          "evidenceRank": 0.95
-        },
         "summaryZh": {
           "titleZh": "基于Swanson关怀理论的干预对接受辅助生殖技术治疗的女性和伴侣减轻不孕相关压力并改善应对策略：一项随机对照试验",
           "researchQuestion": "评估基于Swanson关怀理论的支持性护理干预对接受辅助生殖技术（ART）的女性和伴侣的不孕相关压力和应对策略的效果。",
@@ -120,7 +110,16 @@
           "clinicalInterpretation": "该研究表明基于Swanson关怀理论的支持性护理可能减轻ART夫妇的不孕相关压力并影响其应对方式；但应对模式并非在所有领域和治疗阶段均一致适应，与ART结局不成功相关的探索性结果需谨慎解读。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "58add7ff00d05694af0151033a812909f61b21485ef63b23d1025aad90d2a954"
+        "summaryInputHash": "58add7ff00d05694af0151033a812909f61b21485ef63b23d1025aad90d2a954",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        }
       },
       {
         "id": "pmid:42616157",
@@ -146,15 +145,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 23.75,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 98.75,
-          "evidenceRank": 0.95
-        },
         "summaryZh": {
           "titleZh": "中药定向透药疗法对卵巢癌术后患者胃肠功能、肠道菌群和睡眠质量的影响：一项随机对照试验",
           "researchQuestion": "探讨中药定向透药疗法对卵巢癌术后患者的胃肠功能、肠道菌群和睡眠质量的干预效果。",
@@ -166,7 +156,16 @@
           "clinicalInterpretation": "本随机对照试验提示，中药定向透药疗法可能加快卵巢癌术后胃肠功能恢复、调节特定肠道菌群和功能通路，并减轻术后睡眠质量下降；但研究局限性未报告，其临床应用仍需更多证据支持。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "b48878ce6f0f143f6bda4eabbfe4cbbaa1021c3bbfed2d1ce04e7b6a446aef74"
+        "summaryInputHash": "b48878ce6f0f143f6bda4eabbfe4cbbaa1021c3bbfed2d1ce04e7b6a446aef74",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        }
       },
       {
         "id": "pmid:42613139",
@@ -218,6 +217,7 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
+        "summaryStatus": "success",
         "assignedTopicId": "reproductive-medicine",
         "score": {
           "topicMatch": 50,
@@ -227,7 +227,17 @@
           "total": 98.75,
           "evidenceRank": 0.95
         },
-        "summaryStatus": "failed"
+        "summaryZh": {
+          "titleZh": "卵巢储备作为激素受体阳性、HER2阴性、淋巴结阳性乳腺癌辅助化疗获益的衡量指标：SWOG S1007 (RxPONDER) 试验",
+          "researchQuestion": "在RxPONDER试验中，评估与卵巢储备相关的激素能否进一步细化预测化疗联合内分泌治疗（CET）对比单独内分泌治疗（ET）的获益。",
+          "studyDesign": "III期随机对照试验（RxPONDER的伴随生物标志物研究），激素检测采用盲法。",
+          "populationAndSample": "1556名年龄<55岁、激素受体阳性/HER2阴性、复发评分≤25的乳腺癌患者。",
+          "methods": "盲法检测基线血清雌二醇、孕酮、卵泡刺激素（FSH）、黄体生成素（LH）、抗苗勒管激素（AMH）和抑制素B（INHB），所有标志物使用预设切点。评估各标志物与无侵袭性疾病生存期（IDFS）和无远处复发生存期（DRFS）的关联，以预测CET获益，并校正复发评分。使用Cox回归分析治疗分配及其与潜在标志物的交互作用，并针对多重性进行校正。",
+          "keyResults": "基线雌二醇、孕酮、LH和FSH不能预测CET获益。AMH≥10 pg/ml与IDFS的化疗获益存在显著交互作用（P adj = 0.0034）。在64%的AMH≥10 pg/ml（正常卵巢储备切点）女性中，CET对比单用ET的IDFS更优（HR 0.46，95% CI 0.33-0.65，P adj = 0.00012）；而在36%低卵巢储备（AMH<10 pg/ml）女性中，CET无获益（HR 1.27，95% CI 0.81-1.99，P adj = 0.47）。DRFS结果与AMH呈现相似模式。超灵敏INHB（pg/ml范围）也能预测CET获益。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "在年龄<55岁的绝经前患者中，基线AMH<10 pg/ml者未从CET中获益。AMH比绝经状态、年龄或其他激素更能指示CET获益。卵巢储备指标可能有助于细化选择接受CET的患者。"
+        },
+        "summaryInputHash": "ce94881b39ff58e9d02061a25e5874f5c626e7b6e990acdabb7f8eb1b19c973c"
       },
       {
         "id": "doi:10.1111/1471-0528.70262",
@@ -248,6 +258,7 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
+        "summaryStatus": "success",
         "assignedTopicId": "maternal-fetal-medicine",
         "score": {
           "topicMatch": 50,
@@ -257,7 +268,17 @@
           "total": 85,
           "evidenceRank": 0.4
         },
-        "summaryStatus": "failed"
+        "summaryZh": {
+          "titleZh": "使用无监督机器学习对子痫前期进行表型分型：一项前瞻性队列研究",
+          "researchQuestion": "探索使用无监督机器学习识别具有临床意义的子痫前期表型。",
+          "studyDesign": "前瞻性队列研究。",
+          "populationAndSample": "482名于2013年8月至2024年4月期间在巴塞罗那BCNatal三级母胎医学中心诊断为子痫前期的孕妇。",
+          "methods": "前瞻性收集孕妇人口学、临床、超声和实验室数据，以及分娩细节和母儿并发症。使用 maternal age、height、weight、body-mass index、blood pressure、angiogenic factors、urinary albumin/creatinine ratio、gestational age at birth 和 birthweight centile 生成患者表示。采用均匀流形近似与投影（UMAP）进行降维，随后进行k-means聚类以识别表型。比较各聚类间的母儿特征和并发症率以评估数据驱动表型的临床意义。",
+          "keyResults": "识别出三个表型。聚类A（n=223；46.2%）表现为较早分娩（平均33.1±3.3周）、显著的血管生成失衡、胎儿生长受限普遍（64%），母体并发症率（23%）和新生儿并发症率（41%）最高。聚类B（n=147；30.5%）分娩较晚（37.0±2.1周）、中度血管生成失衡、出生体重百分位中等（15.5±9.7）。聚类C（n=112；23.2%）主要为足月病例（38.2±1.5周）、血管生成失衡最低、出生体重百分位最高（67.9±27.3）；肥胖（31%）和糖尿病（15%）最常见，母体（4%）和新生儿（9%）并发症率最低。",
+          "limitations": "摘要未报告明确的局限性；作者指出需要前瞻性外部验证。",
+          "clinicalInterpretation": "无监督学习描绘了三种子痫前期表型。这些表型可能支持未来进行风险分层和更个体化的管理，但需前瞻性外部验证。"
+        },
+        "summaryInputHash": "97da2180ea80bdccfd1ac1bd7a1511b4941401bff76bb6c6a31a7c6fc40fa0bb"
       }
     ]
   }
