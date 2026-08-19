@@ -1,0 +1,264 @@
+{
+  "hero_headline": "FIGO 聚焦「以患者为中心的尊重式护理」：改善产科结局的新视角",
+  "daily_overview": "今日妇产科动态来自 FIGO 健康系统强化与尊重护理委员会，通过播客形式探讨尊重式、以患者为中心的护理对改善结局的价值，强调医患共同决策与人性化服务在产科实践中的重要性。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [
+    {
+      "title": "Improving outcomes through respectful patient-centred care",
+      "url": "https://rss.com/podcasts/figo/3077568",
+      "source": "FIGO Society Updates",
+      "summary": "FIGO 健康系统强化与尊重护理委员会发布播客，由 Stella Dantas 博士主持，邀请产科医师 Jezid Miranda 和助产士 Soo Downe 教授，探讨尊重患者为中心的护理如何改善产科结局。该内容强调将患者尊严、自主权纳入照护流程，对推动产科质量改进和减少非必要干预具有方向性意义。",
+      "importance": 7
+    }
+  ],
+  "editor_note": "尊重与共情是产科质量的核心，FIGO 发声提醒临床回归人性化照护。",
+  "keywords": [
+    "尊重式护理",
+    "患者中心",
+    "产科结局",
+    "FIGO",
+    "共同决策",
+    "产科质量",
+    "人性化照护"
+  ],
+  "research": {
+    "generatedAt": "2026-08-19T22:57:55.664Z",
+    "dataAsOf": "2026-08-19T22:57:55.664Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及放疗联合免疫检查点抑制剂对癌症患者的临床价值：系统评价与荟萃分析、基于Swanson关怀理论的干预对接受辅助生殖技术治疗的女性和伴侣减轻不孕相关压力并改善应对策略：一项随机对照试验、中药定向透药疗法对卵巢癌术后患者胃肠功能、肠道菌群和睡眠质量的影响：一项随机对照试验。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42613912",
+        "pmid": "42613912",
+        "doi": "10.1080/07853890.2026.2619281",
+        "title": "The clinical value of adding immune checkpoint inhibitors to radiotherapy for cancer: a systematic review and meta-analysis.",
+        "abstract": "BACKGROUND: While several randomized clinical trials (RCTs) have explored the addition of immune checkpoint inhibitor (ICI) treatment for patients undergoing radiotherapy, studies systematically assessing the clinical value of such interventions are lacking.\nMETHODS: PubMed, Embase, and Cochrane Library databases were searched for relevant RCTs of cancers that received ICIs plus radiotherapy or radiotherapy. Eligible studies were those published in English as of 14 April 2024. Two independent reviewers screened the included studies and extracted relevant data, then selected the random or fixed-effects model based on the I 2 statistic. The main outcomes were hazard ratios (HRs) with 95% confidence intervals (CIs) for overall survival (OS) and progression-free survival (PFS); Odds ratios (ORs) with 95% CIs for objective response rate (ORR), disease control rate (DCR), and adverse events (AEs). Stratified analysis was performed based on cancer type, ICI type, and the timing of ICI addition. The study was registered on PROSPERO (CRD42024551008).\nRESULTS: 15 RCTs with 7947 patients were included. Pooled HRs were 0.865 (95% CI, 0.730-1.000; I 2 = 72.1%) for OS and 0.799 (0.677-0.922; I 2 = 82.0%) for PFS in cancer patients. In cancer types, adding immunotherapy to radiotherapy significantly improved patients with non-small-cell lung cancer (OS: 0.544 [0.371-0.717]; PFS: 0.527 [0.438-0.617]) and cervical cancer (OS: 0.722 [0.578-0.867] and PFS: 0.754 [95%CI, 0.621-0.887]). Regarding the ICIs schedule, adjuvant ICI therapy with pooled HRs was 0.742 (0.649-0.834) for OS and 0.638 (0.579-0.697) for PFS. In addition, the pooled ORs for the incidence of grade 3 or higher treatment-related and immune-related adverse events were 1.227 (1.059-1.421; I 2 = 71.9%) and 2.217 (1.743-2.821; I 2 = 74.0%), respectively.\nCONCLUSION: Adding immunotherapy to radiotherapy can provide significant clinical benefits for patients with NSCLC and cervical cancer, and the addition of these ICIs in the adjuvant stage is supported.",
+        "journal": "Annals of medicine",
+        "authors": [
+          "Hong Zhu",
+          "Kun Liu",
+          "Youwen Zhu"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-18T00:00:00.000Z",
+        "activityAt": "2026-08-19T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42613912/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "放疗联合免疫检查点抑制剂对癌症患者的临床价值：系统评价与荟萃分析",
+          "researchQuestion": "评估在放疗基础上加用免疫检查点抑制剂（ICI）对癌症患者的临床价值。",
+          "studyDesign": "系统评价与荟萃分析（纳入随机临床试验）",
+          "populationAndSample": "15项随机临床试验，共7947例癌症患者；纳入截至2024年4月14日以英文发表的随机临床试验。",
+          "methods": "检索PubMed、Embase和Cochrane Library数据库。由两名独立评审者筛选研究并提取数据，根据I²统计量选择随机效应或固定效应模型。主要结局为总生存期（OS）和无进展生存期（PFS）的风险比（HR）及其95%置信区间（CI）；次要结局包括客观缓解率（ORR）、疾病控制率（DCR）和不良事件（AE）的比值比（OR）及其95%CI。按癌症类型、ICI类型和ICI添加时机进行分层分析。已在PROSPERO注册（CRD42024551008）。",
+          "keyResults": "汇总HR：OS为0.865（95%CI 0.730-1.000；I²=72.1%），PFS为0.799（95%CI 0.677-0.922；I²=82.0%）。非小细胞肺癌：OS HR 0.544（95%CI 0.371-0.717），PFS HR 0.527（95%CI 0.438-0.617）；宫颈癌：OS HR 0.722（95%CI 0.578-0.867），PFS HR 0.754（95%CI 0.621-0.887）。辅助ICI治疗：OS HR 0.742（95%CI 0.649-0.834），PFS HR 0.638（95%CI 0.579-0.697）。≥3级治疗相关不良事件合并OR为1.227（95%CI 1.059-1.421；I²=71.9%），免疫相关不良事件合并OR为2.217（95%CI 1.743-2.821；I²=74.0%）。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "该汇总证据提示，在放疗基础上加用免疫检查点抑制剂可能为非小细胞肺癌和宫颈癌患者带来生存获益，且辅助阶段添加ICI得到本研究支持；但需注意≥3级不良事件风险增加，临床应用需结合具体临床情境，不应直接视为临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "ab9466708feeef4947e85592be5e00ef3a31cfeebe3b48498eaa9b8dc3798864"
+      },
+      {
+        "id": "pmid:42613486",
+        "pmid": "42613486",
+        "doi": "10.1007/s00737-026-01750-x",
+        "title": "A Swanson's caring theory-based intervention to reduce infertility-related stress and improve coping strategies in women and their partners undergoing assisted reproductive treatment (ART): a randomized controlled trial.",
+        "abstract": "PURPOSE: This study aimed to evaluate the effects of a supportive care intervention based on Swanson's Caring Theory on infertility-related stress and coping strategies among women and their partners undergoing assisted reproductive treatment (ART).\nMETHODS: This single-blind randomized controlled trial was conducted with 100 couples undergoing ART at the IVF Center of Ondokuz Mayıs University Health Practice and Research Center, Türkiye. Couples were randomly assigned to either the intervention group receiving Swanson's Caring Theory-based supportive care or the control group receiving routine care. Data were collected at baseline prior to treatment initiation (T1), pre-embryo transfer (T2), and one month following embryo transfer (T3). Infertility-related stress and coping strategies were assessed using the COMPI Fertility Problem Stress Scales and the COMPI Coping Strategy Scales. Repeated-measures ANOVA and t tests were used for analyses.\nRESULTS: Compared with controls, women and men in the intervention group demonstrated significantly greater reductions in infertility-related stress scores from T1 to T2 (all p < .001). Significant group × time interactions were also identified for active coping, meaning-based coping, active-avoidance coping, and passive-avoidance coping among both women and men (all p ≤ .010). Active coping and meaning-based coping increased over time in the intervention group, whereas passive-avoidance coping also increased during the active treatment phase. Exploratory analyses among participants with unsuccessful ART outcomes indicated lower infertility-related stress scores in the intervention group at T3. Women in the intervention group also reported lower active-avoidance coping scores, whereas both women and men reported higher active coping and meaning-based coping scores. Passive-avoidance coping scores decreased from T2 to T3 among intervention participants with unsuccessful ART outcomes.\nCONCLUSION: Supportive care grounded in Swanson's Caring Theory may reduce infertility-related stress and influence coping responses among couples undergoing ART treatment. Although increases were observed in active and meaning-based coping, coping patterns were not uniformly adaptive across all domains and treatment stages. The findings support the potential value of integrating structured supportive care into routine IVF services; however, exploratory findings related to unsuccessful ART outcomes should be interpreted with caution. Trial registration ClinicalTrials.gov NCT07557069 (retrospectively registered).",
+        "journal": "Archives of women's mental health",
+        "authors": [
+          "Bilgesu Arslan",
+          "Serap Temiz"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-08-19T00:00:00.000Z",
+        "activityAt": "2026-08-19T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42613486/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "基于Swanson关怀理论的干预对接受辅助生殖技术治疗的女性和伴侣减轻不孕相关压力并改善应对策略：一项随机对照试验",
+          "researchQuestion": "评估基于Swanson关怀理论的支持性护理干预对接受辅助生殖技术（ART）的女性和伴侣的不孕相关压力和应对策略的效果。",
+          "studyDesign": "单盲随机对照试验",
+          "populationAndSample": "土耳其Ondokuz Mayıs大学健康实践与研究中心IVF中心的100对接受ART的夫妇。",
+          "methods": "夫妇被随机分配至干预组（接受基于Swanson关怀理论的支持性护理）或对照组（接受常规护理）。在治疗开始前（T1）、胚胎移植前（T2）和胚胎移植后一个月（T3）收集数据。使用COMPI生育问题压力量表和COMPI应对策略量表评估。采用重复测量方差分析和t检验进行分析。试验注册号：ClinicalTrials.gov NCT07557069（回顾性注册）。",
+          "keyResults": "与对照组相比，干预组女性和男性在T1至T2的不孕相关压力评分显著下降（均p<.001）。女性和男性的主动应对、意义应对、主动回避应对和被动回避应对均存在显著的组别×时间交互作用（均p≤.010）。干预组的主动应对和意义应对随时间增加，被动回避应对在积极治疗阶段也增加。探索性分析显示，ART结局不成功的参与者中，干预组在T3的不孕相关压力评分较低；干预组女性报告较低的主动回避应对评分，而女性和男性均报告较高的主动应对和意义应对评分；干预组中ART结局不成功参与者的被动回避应对评分从T2到T3下降。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "该研究表明基于Swanson关怀理论的支持性护理可能减轻ART夫妇的不孕相关压力并影响其应对方式；但应对模式并非在所有领域和治疗阶段均一致适应，与ART结局不成功相关的探索性结果需谨慎解读。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "58add7ff00d05694af0151033a812909f61b21485ef63b23d1025aad90d2a954"
+      },
+      {
+        "id": "pmid:42616157",
+        "pmid": "42616157",
+        "doi": "10.1007/s00520-026-11096-w",
+        "title": "Effects of traditional Chinese medicine directional drug penetration therapy on gastrointestinal function, gut microbiota, and sleep quality in postoperative ovarian cancer patients: a randomized controlled trial.",
+        "abstract": "PURPOSE: To investigate the intervention effects of TCM directional drug penetration therapy on gastrointestinal function, gut microbiota, and sleep quality in postoperative ovarian cancer patients.\nMETHODS: A total of 112 postoperative ovarian cancer patients were randomly divided into an observation group and a control group, with 56 cases in each group. The control group received conventional postoperative rehabilitation interventions, while the observation group additionally received TCM directional drug penetration therapy until the first bowel movement. Gastrointestinal function recovery indicators, gut microbiota diversity and differential flora composition, and Pittsburgh Sleep Quality Index (PSQI) scores were compared between the two groups.\nRESULTS: The observation group exhibited significantly shorter recovery times to first bowel sounds, anal flatus, and defecation (P < 0.05). LEfSe analysis revealed that the dominant bacteria in the observation group were Veillonellales-Selenomonadales, Megasphaera, and Corynebacterium, whereas the control group was dominated by Gardnerella. KEGG functional prediction indicated that the gene sequence abundance of the phosphotransferase system (PTS) pathway in the gut microbiota of the observation group was significantly lower than that in the control group. Post-intervention, the total PSQI score, sleep duration, sleep efficiency, and sleep disturbance scores in the observation group were significantly lower than those in the control group (P < 0.05).\nCONCLUSION: TCM directional drug penetration therapy can accelerate gastrointestinal function recovery after ovarian cancer surgery, regulate specific gut microbiota and functional pathways, and alleviate postoperative sleep quality decline.",
+        "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+        "authors": [
+          "Wei Wang",
+          "Xiaoxue Wu"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-08-19T00:00:00.000Z",
+        "activityAt": "2026-08-19T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42616157/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "中药定向透药疗法对卵巢癌术后患者胃肠功能、肠道菌群和睡眠质量的影响：一项随机对照试验",
+          "researchQuestion": "探讨中药定向透药疗法对卵巢癌术后患者的胃肠功能、肠道菌群和睡眠质量的干预效果。",
+          "studyDesign": "随机对照试验",
+          "populationAndSample": "112例术后卵巢癌患者，随机分为观察组（56例）和对照组（56例）。",
+          "methods": "对照组接受常规术后康复干预，观察组在常规干预基础上额外接受中药定向透药疗法直至首次排便。比较两组胃肠功能恢复指标、肠道菌群多样性和差异菌群组成，以及匹兹堡睡眠质量指数（PSQI）评分。",
+          "keyResults": "观察组首次肠鸣音、肛门排气和排便恢复时间均显著短于对照组（P<0.05）。LEfSe分析显示，观察组优势菌为Veillonellales-Selenomonadales、Megasphaera和Corynebacterium，对照组以Gardnerella为优势菌。KEGG功能预测显示，观察组肠道菌群中磷酸转移酶系统（PTS）通路的基因序列丰度显著低于对照组。干预后观察组PSQI总分、睡眠时长、睡眠效率和睡眠障碍评分均显著低于对照组（P<0.05）。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "本随机对照试验提示，中药定向透药疗法可能加快卵巢癌术后胃肠功能恢复、调节特定肠道菌群和功能通路，并减轻术后睡眠质量下降；但研究局限性未报告，其临床应用仍需更多证据支持。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "b48878ce6f0f143f6bda4eabbfe4cbbaa1021c3bbfed2d1ce04e7b6a446aef74"
+      },
+      {
+        "id": "pmid:42613139",
+        "pmid": "42613139",
+        "doi": "10.1016/j.annonc.2026.05.697",
+        "title": "Ovarian reserve as a measure of adjuvant chemotherapy benefit in hormone receptor positive (HR-positive), HER2-negative, node-positive breast cancer in SWOG S1007 (RxPONDER).",
+        "abstract": "BACKGROUND: The phase 3 RxPONDER trial compared endocrine therapy (ET) alone or with chemotherapy (CET) in patients with hormone receptor-positive/human epidermal growth factor receptor 2-negative breast cancer with recurrence score (RS) ≤25. CET benefit for the primary outcome, invasive disease-free survival (IDFS), was limited to premenopausal women who largely did not receive ovarian function suppression. In this study, we assessed hormones associated with ovarian reserve to further refine the prediction of CET benefit.\nPATIENTS AND METHODS: Pretreatment serum estradiol, progesterone, follicule-stimulating hormone (FSH), luteinizing hormone (LH), anti-Müllerian hormone (AMH), and inhibin B (INHB) were assessed in a blinded fashion from 1556 participants aged <55 years. All markers used a predefined cut point. Associations with markers and IDFS and distant relapse-free survival (DRFS) were evaluated for prediction of CET benefit, adjusting for RS. Cox regression analyses of assigned treatment and its interaction with potential markers were adjusted for multiplicity.\nRESULTS: Baseline estradiol, progesterone, LH, and FSH were not predictive for CET benefit. AMH ≥10 pg/ml showed significant interaction with chemotherapy benefit for IDFS (P adj = 0.0034). In 64% of women with AMH ≥10 pg/ml (cut-off for normal ovarian reserve), IDFS was superior with CET compared with ET alone [hazard ratio (HR) 0.46, 95% CI 0.33-0.65, P adj = 0.00012], whereas CET was not beneficial in the 36% with low ovarian reserve (AMH <10 pg/ml; HR 1.27, 95% CI 0.81-1.99, P adj = 0.47). DRFS showed a similar pattern of results for AMH. Ultrasensitive INHB measured in the pg/ml range was also predictive of CET benefit.\nCONCLUSION: Among premenopausal patients aged <55 years, participants with baseline AMH <10 pg/ml did not benefit from CET. AMH was a significantly better indicator of CET benefit than menopause status, age, or other hormones. Measures of ovarian reserve may refine the selection of patients for CET.",
+        "journal": "Annals of oncology : official journal of the European Society for Medical Oncology",
+        "authors": [
+          "A F Schott",
+          "A K Godwin",
+          "A Mitra",
+          "A Thompson",
+          "D F Hayes",
+          "D Tripathy",
+          "E A Perez",
+          "E Brain",
+          "F Meric-Bernstam",
+          "G N Hortobagyi",
+          "H B Pathak",
+          "J Gralow",
+          "J-M Ferrero",
+          "J-Y Pierga",
+          "K Kalinsky",
+          "K S Albain",
+          "L J Goldstein",
+          "L Pusztai",
+          "N U Lin",
+          "P Rastogi",
+          "P Sharma",
+          "R V Puri",
+          "S Delaloge",
+          "S K L Chia",
+          "S Shak",
+          "T Home",
+          "W E Barlow"
+        ],
+        "publicationTypes": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-07-24T00:00:00.000Z",
+        "activityAt": "2026-08-18T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42613139/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "doi:10.1111/1471-0528.70262",
+        "doi": "10.1111/1471-0528.70262",
+        "title": "Phenotyping Preeclampsia Using Unsupervised Machine Learning: A Prospective Cohort Study",
+        "abstract": "ABSTRACT Objective To explore clinically meaningful phenotypes of preeclampsia using unsupervised machine learning. Design Prospective cohort study. Setting BCNatal, a tertiary maternal-foetal medicine centre (Barcelona, Spain). Population A total of 482 pregnant women diagnosed with preeclampsia between August 2013 and April 2024. Methods Maternal demographic, clinical, ultrasound and laboratory data were prospectively collected, together with delivery details and maternal and neonatal complications. We generated a patient representation using maternal age, height, weight, body-mass index, blood pressure, angiogenic factors, urinary albumin/creatinine ratio, gestational age at birth and birthweight centile. Dimensionality reduction was performed using Uniform Manifold Approximation and Projection, followed by k-means clustering to identify phenotypes. Main Outcome Measures Maternal and neonatal characteristics and complication rates were compared across clusters to evaluate the clinical significance of the data-driven phenotypes. Results Three phenotypes were identified. Cluster A (n = 223; 46.2%) showed earlier delivery (mean 33.1 ± SD 3.3 weeks), marked angiogenic imbalance, prevalent foetal growth restriction (64%) and the highest rates of maternal (23%) and neonatal (41%) complications. Cluster B (n = 147; 30.5%) had later delivery (37.0 ± 2.1 weeks), moderate angiogenic imbalance and intermediate birthweight centiles (15.5 ± 9.7). Cluster C (n = 112; 23.2%) comprised mostly term cases (38.2 ± 1.5 weeks) with the lowest angiogenic imbalance and the highest birthweight centile (67.9 ± 27.3); obesity (31%) and diabetes (15%) were most prevalent and maternal (4%) and neonatal (9%) complications were least frequent. Conclusions Unsupervised learning delineated three preeclampsia phenotypes. These phenotypes could support the need for future risk stratification and more personalised management; prospective external validation is warranted.",
+        "journal": "BJOG",
+        "authors": [
+          "Ohad Houri, \nLina Youssef, \nFrancesca Crovetto, \nMaria Borrell, \nMaddalena Crimella, \nMaria Giulia Ferrante, \nRommy H. Novoa, \nIrene Casas, \nNoelia Encabo, \nLeticia Benitez, \nMarta Larroya, \nAnna Peguero, \nEva Meler, \nSara Castro‐Barquero, \nBart Bijnens, \nFrancesc Figueras, \nEduard Gratacos, \nGabriel Bernardino, \nFàtima Crispi"
+        ],
+        "publicationTypes": [],
+        "publishedAt": "2026-08-19T00:17:38.000Z",
+        "activityAt": "2026-08-19T00:17:38.000Z",
+        "url": "https://obgyn.onlinelibrary.wiley.com/doi/10.1111/1471-0528.70262?af=R",
+        "sourceKinds": [
+          "journal-rss"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      }
+    ]
+  }
+}
