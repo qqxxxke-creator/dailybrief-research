@@ -1,6 +1,6 @@
 {
-  "hero_headline": "FIGO 强调以尊重患者为中心的护理，改善妇产科结局",
-  "daily_overview": "今日仅一条来自国际妇产科联盟（FIGO）的官方动态，聚焦尊重患者为中心的护理模式，由委员会成员与产科医生及助产士共同探讨，提示妇产科服务质量提升不仅是技术问题，更需融入人文关怀。",
+  "hero_headline": "FIGO倡导以尊重患者为中心的护理，推动产科服务人性化",
+  "daily_overview": "今日国际妇产科动态聚焦于FIGO委员会关于尊重患者护理的讨论，强调产科医生与助产士协作改善分娩体验。仅有一条合格内容，暂无重大指南或手术前沿更新。",
   "tech_briefs": [],
   "finance_briefs": [],
   "politics_briefs": [
@@ -8,22 +8,23 @@
       "title": "Improving outcomes through respectful patient-centred care",
       "url": "https://rss.com/podcasts/figo/3077568",
       "source": "FIGO Society Updates",
-      "summary": "FIGO 健康系统强化与尊重护理委员会发布播客，Dr Stella Dantas 与产科医生 Jezid Miranda、助产士教授 Soo Downe 探讨尊重患者为中心的护理对改善产科结局的意义。强调尊重与沟通在妇产科临床实践中的核心作用，提示未来服务模式应更注重患者尊严与参与。",
+      "summary": "FIGO健康系统强化与尊重护理委员会发布播客，由Dr Stella Dantas与产科医生Dr Jezid Miranda、助产士教授Soo Downe共同探讨尊重患者为中心的护理。内容强调在产科实践中融入尊重与人性化照护，可能影响临床沟通模式和护理质量提升方向。",
       "importance": 7
     }
   ],
-  "editor_note": "尊重患者为中心的护理是妇产科质量改进的重要方向，FIGO 的讨论为临床实践提供了人文视角。",
+  "editor_note": "尊重患者为中心的护理是提升产科质量的核心，FIGO持续关注此议题，提示国内应注重医患沟通与人文关怀。",
   "keywords": [
     "尊重护理",
-    "患者为中心",
     "FIGO",
-    "妇产科质量",
+    "产科",
+    "患者中心",
+    "助产",
     "人文关怀",
-    "产科结局"
+    "医患沟通"
   ],
   "research": {
-    "generatedAt": "2026-08-19T23:41:52.095Z",
-    "dataAsOf": "2026-08-19T23:41:52.095Z",
+    "generatedAt": "2026-08-19T23:53:54.603Z",
+    "dataAsOf": "2026-08-19T23:53:54.603Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及放疗联合免疫检查点抑制剂对癌症患者的临床价值：系统评价与荟萃分析、基于Swanson关怀理论的干预对接受辅助生殖技术治疗的女性和伴侣减轻不孕相关压力并改善应对策略：一项随机对照试验、中药定向透药疗法对卵巢癌术后患者胃肠功能、肠道菌群和睡眠质量的影响：一项随机对照试验。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
@@ -217,16 +218,6 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "summaryStatus": "success",
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 23.75,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 98.75,
-          "evidenceRank": 0.95
-        },
         "summaryZh": {
           "titleZh": "卵巢储备作为激素受体阳性、HER2阴性、淋巴结阳性乳腺癌辅助化疗获益的衡量指标：SWOG S1007 (RxPONDER) 试验",
           "researchQuestion": "在RxPONDER试验中，评估与卵巢储备相关的激素能否进一步细化预测化疗联合内分泌治疗（CET）对比单独内分泌治疗（ET）的获益。",
@@ -237,7 +228,17 @@
           "limitations": "摘要未报告。",
           "clinicalInterpretation": "在年龄<55岁的绝经前患者中，基线AMH<10 pg/ml者未从CET中获益。AMH比绝经状态、年龄或其他激素更能指示CET获益。卵巢储备指标可能有助于细化选择接受CET的患者。"
         },
-        "summaryInputHash": "ce94881b39ff58e9d02061a25e5874f5c626e7b6e990acdabb7f8eb1b19c973c"
+        "summaryStatus": "success",
+        "summaryInputHash": "ce94881b39ff58e9d02061a25e5874f5c626e7b6e990acdabb7f8eb1b19c973c",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        }
       },
       {
         "id": "doi:10.1111/1471-0528.70262",
@@ -258,16 +259,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "summaryStatus": "success",
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "使用无监督机器学习对子痫前期进行表型分型：一项前瞻性队列研究",
           "researchQuestion": "探索使用无监督机器学习识别具有临床意义的子痫前期表型。",
@@ -278,7 +269,17 @@
           "limitations": "摘要未报告明确的局限性；作者指出需要前瞻性外部验证。",
           "clinicalInterpretation": "无监督学习描绘了三种子痫前期表型。这些表型可能支持未来进行风险分层和更个体化的管理，但需前瞻性外部验证。"
         },
-        "summaryInputHash": "97da2180ea80bdccfd1ac1bd7a1511b4941401bff76bb6c6a31a7c6fc40fa0bb"
+        "summaryStatus": "success",
+        "summaryInputHash": "97da2180ea80bdccfd1ac1bd7a1511b4941401bff76bb6c6a31a7c6fc40fa0bb",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       }
     ]
   }
