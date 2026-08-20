@@ -1,0 +1,283 @@
+{
+  "hero_headline": "ACOG强化输卵管切除预防卵巢癌立场，常规子宫切除时应考虑切除输卵管",
+  "daily_overview": "今日唯一核心动态：ACOG发布强化建议，支持在子宫切除术中常规切除输卵管，并向接受其他手术的患者推荐机会性双侧输卵管切除术（OBS），以降低卵巢癌风险。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [
+    {
+      "title": "ACOG Strengthens Support for Fallopian Tube Removal to Prevent Ovarian Cancer",
+      "url": "https://www.medpagetoday.com/hematologyoncology/ovariancancer/122694",
+      "source": "MedPage Today",
+      "summary": "ACOG发布临床实践更新，建议在子宫切除术中常规切除输卵管，并推荐对其他手术患者进行机会性双侧输卵管切除术以预防卵巢癌。",
+      "importance": 5
+    }
+  ],
+  "editor_note": "ACOG立场强化提示卵巢癌预防已从被动筛查走向主动外科预防，妇产科临床应重视手术路径选择与患者沟通。",
+  "keywords": [
+    "卵巢癌预防",
+    "输卵管切除",
+    "ACOG",
+    "机会性双侧输卵管切除术",
+    "子宫切除术",
+    "妇科手术"
+  ],
+  "research": {
+    "generatedAt": "2026-08-20T22:00:48.168Z",
+    "dataAsOf": "2026-08-20T22:00:48.168Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及口服中药方剂治疗早发性卵巢功能不全：系统评价、meta分析和探索性治则亚组分析、精浆和血清铁参数与男性不育的关联：系统评价和meta分析、充气保温毯最适温度预防妇科肿瘤患者术中低体温：一项随机对照试验。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42620742",
+        "pmid": "42620742",
+        "doi": "10.3389/fendo.2026.1870487",
+        "title": "Oral Chinese herbal formulas for premature ovarian insufficiency: a systematic review, meta-analysis, and exploratory therapeutic-principle subgroup analysis.",
+        "abstract": "INTRODUCTION: Premature ovarian insufficiency (POI) is characterized by impaired ovarian endocrine function and reduced ovarian reserve.\nMETHODS: We searched eight bibliographic databases, ClinicalTrials.gov, the World Health Organization International Clinical Trials Registry Platform (WHO ICTRP), and the Chinese Clinical Trial Registry (ChiCTR) from inception to May 30, 2026, for parallel-group randomized controlled trials comparing HRT-based regimens with pure oral Chinese herbal formulas within three prespecified therapeutic-principle categories. This systematic review was registered in the International Prospective Register of Systematic Reviews (PROSPERO; CRD420251234457).\nRESULTS: Menstrual return or resumption was designated as the patient-important outcome, while follicle-stimulating hormone (FSH) and anti-Müllerian hormone (AMH) were designated as primary surrogate biomarkers. Forty-one HRT-controlled trials met the prespecified therapeutic-principle criteria. No clear between-group difference was detected for menstrual return or resumption (4 studies, 266 participants; odds ratio [OR] 1.523, 95% confidence interval [CI] 0.315 to 7.371; I 2 = 86.16%). Point estimates favored oral herbal formulas for FSH (37 studies; mean difference [MD] -5.563, 95% CI -8.230 to -2.896; I 2 = 99.13%) and AMH (12 studies; MD 0.167, 95% CI 0.035 to 0.299; I 2 = 98.17%), but both were surrogate outcomes and their prediction intervals crossed the null. Directionally favorable estimates were also observed for luteinizing hormone (LH), estradiol (E2), antral follicle count (AFC), and peak systolic velocity (PSV), although these were surrogate or exploratory outcomes with substantial uncertainty. Fewer adverse events were reported with oral herbal formulas, but safety remained unestablished because ascertainment and reporting were incomplete. Therapeutic-principle analyses yielded an exploratory subgroup signal only for FSH and did not establish comparative superiority among kidney-tonifying alone (PK), kidney-tonifying and liver-soothing (KL), and kidney-tonifying and blood-activating (KB) categories. All assessed outcomes were rated as very low-certainty evidence.\nDISCUSSION: Current evidence does not support the routine use of any specific Chinese herbal formula or therapeutic-principle category. Guideline-based management, including HRT when clinically appropriate, should remain standard care, and rigorously designed multicenter trials using patient-important outcomes and standardized safety reporting are needed.\nSYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/prospero/, identifier CRD420251234457.",
+        "journal": "Frontiers in endocrinology",
+        "authors": [
+          "Guichun Liu",
+          "Jin Cheng",
+          "Sha Li",
+          "Xiao Jiang",
+          "Xurui Zheng",
+          "Yihong Wu"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-05T00:00:00.000Z",
+        "activityAt": "2026-08-20T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42620742/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "口服中药方剂治疗早发性卵巢功能不全：系统评价、meta分析和探索性治则亚组分析",
+          "researchQuestion": "比较基于激素替代疗法（HRT）的方案与纯口服中药方剂在早发性卵巢功能不全（POI）患者中的疗效，并按预设的治则类别进行亚组分析。",
+          "studyDesign": "系统评价与Meta分析（PROSPERO注册号CRD420251234457）",
+          "populationAndSample": "41项HRT对照随机对照试验；其中月经恢复或重现结局包含4项研究共266名参与者，FSH结局包含37项研究，AMH结局包含12项研究。",
+          "methods": "检索8个文献数据库、ClinicalTrials.gov、WHO ICTRP和ChiCTR，自建库至2026年5月30日，纳入平行组随机对照试验。将月经恢复/重现作为患者重要结局，FSH和AMH作为主要替代生物标志物；比较HRT基础方案与纯口服中药方剂，并分为三个预设治则类别（补肾、补肾疏肝、补肾活血）进行亚组分析。",
+          "keyResults": "月经恢复或重现：4项研究、266名参与者，OR=1.523，95%CI 0.315-7.371，I²=86.16%，组间差异不明确。FSH：37项研究，MD=-5.563，95%CI -8.230至-2.896，I²=99.13%；AMH：12项研究，MD=0.167，95%CI 0.035-0.299，I²=98.17%；两者均为替代结局且预测区间穿过无效。LH、E2、AFC、PSV的点估计方向有利但与大量不确定性相关。口服中药方剂报告的不良事件较少，但因评估和报告不完整，安全性未能确立。亚组分析仅对FSH产生探索性信号，未确立补肾、补肾疏肝、补肾活血三类间的优劣。所有评估结局均被评定为极低确定性证据。",
+          "limitations": "所有评估结局均为极低确定性证据；FSH和AMH预测区间穿过无效；安全性因不良事件记录不完整而未能确立；治疗原则亚组分析仅为探索性。",
+          "clinicalInterpretation": "作者认为当前证据不支持常规使用任何特定中药方剂或治则类别；基于指南的管理（包括临床适当时使用HRT）应保持标准治疗，并需要采用患者重要结局和标准化安全性报告的严格设计多中心试验。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "fafd54e3bfa159f4148dd589fc89b7ecda549203de6562dc91b578341115df3a"
+      },
+      {
+        "id": "pmid:42623487",
+        "pmid": "42623487",
+        "doi": "10.1080/13685538.2026.2719882",
+        "title": "Association between seminal and serum iron parameters and male infertility: a systematic review and meta-analysis.",
+        "abstract": "BACKGROUND: Iron is an essential trace element for normal spermatogenesis, yet excessive iron accumulation may impair male fertility. Preliminary studies imply a link between elevated iron levels and male infertility, but evidence remains limited without systematic quantitative synthesis. This metaanalysis assessed the association between iron concentrations and male infertility.\nMETHODS: We systematically searched PubMed, CBM, CNKI and Cochrane Library. RevMan, Stata and R were used for data analysis. Randomeffects models pooled effect sizes, with forest and funnel plots generated to evaluate seminal and serum iron levels in male infertility.\nRESULTS: After screening studies published up to April 2025, a total of ten eligible articles involving 985 participants were finally included in this meta-analysis. Pooled results revealed that seminal and serum iron concentrations were notably higher in infertile males compared with fertile controls. Specifically, infertile men presented higher seminal iron levels (SMD = 0.44, 95% CI: 0.12-0.76, P < 0.05), as well as elevated serum iron levels (SMD = 3.77, 95% CI: 1.68-5.87, P < 0.05). The present results suggest that increased seminal and serum iron concentrations may be potentially correlated with male infertility risk.",
+        "journal": "The aging male : the official journal of the International Society for the Study of the Aging Male",
+        "authors": [
+          "Jin Zhang",
+          "Junli Wang",
+          "Yanlun Song",
+          "Yannan Jiao",
+          "Yi Wei"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-20T00:00:00.000Z",
+        "activityAt": "2026-08-20T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42623487/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "精浆和血清铁参数与男性不育的关联：系统评价和meta分析",
+          "researchQuestion": "评估铁浓度与男性不育之间的关联。",
+          "studyDesign": "系统评价与Meta分析",
+          "populationAndSample": "10项符合条件的研究，共985名参与者。",
+          "methods": "系统检索PubMed、CBM、CNKI和Cochrane Library，纳入截至2025年4月发表的研究；使用RevMan、Stata和R进行数据分析；采用随机效应模型合并效应量，生成森林图和漏斗图评估男性不育患者精浆和血清铁水平。",
+          "keyResults": "与可生育对照组相比，不育男性精浆铁水平显著升高（SMD=0.44，95%CI 0.12-0.76，P<0.05），血清铁水平也显著升高（SMD=3.77，95%CI 1.68-5.87，P<0.05）。作者认为升高的精浆和血清铁浓度可能与男性不育风险相关。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "该meta分析显示精浆和血清铁浓度升高与男性不育风险之间存在正相关，但属于观察性关联，不能推断因果关系，需谨慎解读。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "ad7c23dbe1911e9e89eb8662b79aab8ab09179012be1d10388b57b9c7dc110cb"
+      },
+      {
+        "id": "pmid:42621069",
+        "pmid": "42621069",
+        "doi": "10.3389/fmed.2026.1835872",
+        "title": "The optimal temperature of air-heated blankets for preventing intraoperative hypothermia in patients with gynecological tumor: a randomized controlled trial.",
+        "abstract": "BACKGROUND: Air-heated blankets can effectively prevent intraoperative hypothermia in patients undergoing major surgeries. However, the optimal temperature of an air-heated blanket for preventing intraoperative hypothermia in these patients has not yet been established. This study aimed to determine the optimal temperature of an air-heated blanket for preventing intraoperative hypothermia in patients undergoing radical resection for endometrial cancer.\nMETHOD: After the induction of general anesthesia, groups A, B, and C received air-heated blankets set to 36°C, 38°C, and 40°C, respectively, for warming until the end of surgery. The core temperature, time to eye opening, extubation time, and time to discharge from the post-anesthesia care unit (PACU) were recorded. Perioperative complications-including hypothermia, emergence agitation, hyperthermia, shivering, delayed awakening, and nausea and vomiting-were also documented.\nRESULTS: There were six cases of hypothermia in group A, while no hypothermia was observed in groups B and C. Statistically significant differences were found in the incidence of hypothermia and shivering among the three groups ( P = 0.002 and P = 0.034, respectively). The extubation time and time to eye opening in group C were shorter than those in group A ( P < 0.05); however, no statistically significant differences were observed between groups B and C.\nCONCLUSION: The optimal temperature of the air-heated blanket for preventing hypothermia in patients undergoing radical resection for endometrial cancer was 38°C. This study offers guidance on the specific warming temperatures used in clinical practice.\nCLINICAL TRIAL REGISTRATION: Identifier: ChiCTR2400080803, https://www.chictr.org.cn/.",
+        "journal": "Frontiers in medicine",
+        "authors": [
+          "Dan Jin",
+          "Pan Youxuan",
+          "Shuxian Zhang",
+          "Yang Li"
+        ],
+        "publicationTypes": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-05T00:00:00.000Z",
+        "activityAt": "2026-08-20T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42621069/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 21.25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 96.25,
+          "evidenceRank": 0.85
+        },
+        "summaryZh": {
+          "titleZh": "充气保温毯最适温度预防妇科肿瘤患者术中低体温：一项随机对照试验",
+          "researchQuestion": "确定充气保温毯在子宫内膜癌根治术患者中预防术中低体温的最适温度。",
+          "studyDesign": "随机对照试验（注册号ChiCTR2400080803）",
+          "populationAndSample": "接受子宫内膜癌根治术的患者，随机分为A、B、C三组；具体样本量摘要未报告。",
+          "methods": "全麻诱导后，A组、B组、C组分别使用设定为36°C、38°C、40°C的充气保温毯加温直至手术结束。记录核心温度、睁眼时间、拔管时间及麻醉后监护室（PACU）停留时间，并记录围手术期并发症（低体温、苏醒期躁动、高热、寒战、苏醒延迟、恶心呕吐）。",
+          "keyResults": "A组发生6例低体温，B、C组无低体温发生；三组间低体温发生率（P=0.002）和寒战发生率（P=0.034）差异有统计学意义。C组拔管时间和睁眼时间短于A组（P<0.05）；B组与C组之间差异无统计学意义。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "作者认为对于子宫内膜癌根治术患者，预防术中低体温的充气保温毯最适温度为38°C，为临床加温温度选择提供指导。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "2d96f7efbe98c65183520acc79a134fd18cba263ec59cbc9440938c210919e26"
+      },
+      {
+        "id": "pmid:42619413",
+        "pmid": "42619413",
+        "doi": "10.1002/ijc.70704",
+        "title": "Cross-Regulation Between DNA Methylation and Circadian Clock Reprogramming in Ovarian Cancer: Mechanistic Insights, Biomarker Potential, and Therapeutic Implications.",
+        "abstract": "Early diagnosis remains challenging, recurrence rates remain high, and platinum resistance frequently develops in ovarian cancer (OC), collectively representing major barriers to long-term patient survival. DNA methylation (DNAm), as a relatively stable yet dynamically modifiable epigenetic signature, can capture alterations in tumor states and evolutionary trajectories associated with therapeutic pressure. Meanwhile, the circadian rhythm system regulates multiple cancer-related processes, including DNA damage repair, cell-cycle progression, metabolic adaptation, and immune microenvironment remodeling, thereby influencing OC development and treatment responses. Accumulating evidence suggests the existence of a bidirectional interplay between DNAm landscapes and the circadian clock network in OC. This review summarizes the emerging mechanisms underlying the crosstalk between DNAm and circadian reprogramming in OC, and further discusses their potential applications in early detection, prognostic stratification, dynamic monitoring of platinum resistance, and chronotherapy-based therapeutic strategies. Although current findings highlight the promising translational potential of the DNAm-circadian axis, its clinical implementation remains constrained by tumor heterogeneity, variations in sampling time points, cellular composition complexity, and insufficient validation across experimental models and clinical cohorts. Future integration of time-resolved sampling approaches, liquid biopsy platforms, single-cell and spatial epigenomic technologies, as well as prospective clinical trials evaluating circadian-guided interventions, may further define the translational boundaries and clinical utility of DNAm-circadian coupling in precision diagnosis and treatment of OC.",
+        "journal": "International journal of cancer",
+        "authors": [
+          "Chang Zhou",
+          "Huiping Liu",
+          "Min Xing",
+          "Shasha Zhou",
+          "Shuhui Xu",
+          "Weiai Liu",
+          "Yi Tang"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-08-19T00:00:00.000Z",
+        "activityAt": "2026-08-20T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42619413/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "卵巢癌中DNA甲基化与生物钟重编程的交叉调控：机制见解、生物标志物潜力和治疗意义",
+          "researchQuestion": "总结卵巢癌中DNA甲基化（DNAm）与生物钟重编程之间双向相互作用的机制，并探讨其在早期检测、预后分层、铂耐药动态监测和时辰治疗中的潜在应用。",
+          "studyDesign": "综述",
+          "populationAndSample": "摘要未报告（综述性文章，不涉及单一研究人群）。",
+          "methods": "摘要未报告具体检索策略和分析方法；本文为叙述性综述，汇总DNA甲基化与生物钟网络在卵巢癌中交叉调控的现有证据。",
+          "keyResults": "DNA甲基化作为相对稳定但可动态修饰的表观遗传特征可捕捉肿瘤状态和治疗压力下的演化轨迹；生物钟系统调节DNA损伤修复、细胞周期进程、代谢适应和免疫微环境重塑。两者在卵巢癌中存在双向相互作用。该轴在早期检测、预后分层、动态监测铂耐药及基于时辰治疗策略方面具有潜在应用价值。但目前临床实施仍受肿瘤异质性、采样时间点差异、细胞组成复杂性以及实验模型和临床队列验证不足的限制。",
+          "limitations": "作者指出肿瘤异质性、采样时间点差异、细胞组成复杂性、跨实验模型和临床队列的验证不足。",
+          "clinicalInterpretation": "作者认为DNA甲基化-生物钟轴具有转化潜力，但尚不足以进入临床；未来需要结合时间分辨采样、液体活检、单细胞和空间表观基因组技术以及前瞻性临床试验，以明确其在卵巢癌精准诊疗中的临床效用。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "f1287c725a78a23d5cd814a7111a879cff68fe364104ce91b7c1d17e9e3af71b"
+      },
+      {
+        "id": "pmid:42619547",
+        "pmid": "42619547",
+        "doi": "10.1002/cnr2.70637",
+        "title": "ANXA1/FPR Signaling Contribute to Paclitaxel Resistance in Ovarian Cancer Through PI3K/AKT-Associated PGC1α Regulation.",
+        "abstract": "BACKGROUND: Ovarian cancer has the highest mortality among gynecologic malignancies, and acquired resistance to paclitaxel severely limits its clinical efficacy.\nAIMS: This study aimed to investigate whether the ANXA1/FPR axis contributes to paclitaxel resistance in ovarian cancer and to elucidate the underlying molecular mechanisms.\nMETHODS AND RESULTS: Using the ANXA1 mimetic peptide Ac2-26 and the FPR antagonist Boc2, we provided pharmacological evidence that activation of the ANXA1/FPR axis promotes paclitaxel resistance in ovarian cancer cells. Mechanistically, ANXA1/FPR signaling activated the PI3K/AKT pathway and upregulated PGC1α, leading to enhanced mitochondrial biogenesis and adaptive energy metabolism remodeling, which in turn prevented paclitaxel-induced cell death.\nCONCLUSION: Our findings suggest that the ANXA1/FPR/PI3K/AKT/PGC1α axis may represent a potential therapeutic target for overcoming paclitaxel resistance in ovarian cancer.",
+        "journal": "Cancer reports (Hoboken, N.J.)",
+        "authors": [
+          "Jiang Mingrui",
+          "Liu Qing",
+          "Qi Hang",
+          "Xia Meihui",
+          "Yan Xiaoyu",
+          "Yu Huimei",
+          "Zhou Li",
+          "Zhou Yueyang"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-01T00:00:00.000Z",
+        "activityAt": "2026-08-20T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42619547/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "ANXA1/FPR信号通过PI3K/AKT相关的PGC1α调控促进卵巢癌紫杉醇耐药",
+          "researchQuestion": "探究ANXA1/FPR轴是否促进卵巢癌紫杉醇耐药及其潜在分子机制。",
+          "studyDesign": "基础实验研究",
+          "populationAndSample": "卵巢癌细胞（体外实验）；具体细胞系名称摘要未报告。",
+          "methods": "使用ANXA1模拟肽Ac2-26和FPR拮抗剂Boc2进行药理学干预；通过检测PI3K/AKT通路、PGC1α表达、线粒体生物发生和能量代谢重塑，评估紫杉醇诱导细胞死亡的变化。",
+          "keyResults": "激活ANXA1/FPR轴可促进卵巢癌细胞紫杉醇耐药；机制上，ANXA1/FPR信号激活PI3K/AKT通路并上调PGC1α，增强线粒体生物发生和适应性能量代谢重塑，从而阻止紫杉醇诱导的细胞死亡。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "作者认为ANXA1/FPR/PI3K/AKT/PGC1α轴可能成为克服卵巢癌紫杉醇耐药的潜在治疗靶点，但这是基于体外实验的初步结论，临床价值需进一步验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "39e7b82c815e948351b193aa7410f3c62ad289add322d1af242d50ed8e75b562"
+      }
+    ]
+  }
+}
