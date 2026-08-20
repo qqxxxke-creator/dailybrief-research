@@ -1,6 +1,6 @@
 {
-  "hero_headline": "ACOG强化支持子宫切除术中常规切除输卵管以预防卵巢癌",
-  "daily_overview": "今日核心动态为美国妇产科医师学会（ACOG）进一步支持在子宫切除术中常规切除输卵管，并向其他手术患者推荐机会性双侧输卵管切除术（OBS），以降低卵巢癌风险。",
+  "hero_headline": "ACOG强化输卵管切除防卵巢癌建议",
+  "daily_overview": "今日核心动态为美国妇产科医师学会（ACOG）加强支持在子宫切除术中常规切除输卵管，并向其他手术患者推荐机会性双侧输卵管切除术（OBS），以降低卵巢癌风险。该建议有望推动妇科手术实践进一步向预防性方向调整。",
   "tech_briefs": [],
   "finance_briefs": [],
   "politics_briefs": [
@@ -8,22 +8,23 @@
       "title": "ACOG Strengthens Support for Fallopian Tube Removal to Prevent Ovarian Cancer",
       "url": "https://www.medpagetoday.com/hematologyoncology/ovariancancer/122694",
       "source": "MedPage Today",
-      "summary": "ACOG临床实践更新建议妇产科医生在子宫切除术中常规切除输卵管，并推荐其他手术患者接受机会性双侧输卵管切除术（OBS）以预防卵巢癌。",
+      "summary": "ACOG临床实践更新建议在子宫切除术中常规切除输卵管，并推荐对其他手术患者实施机会性双侧输卵管切除术（OBS）以预防卵巢癌。",
       "importance": 5
     }
   ],
-  "editor_note": "这一指南更新将推动妇科手术预防策略更积极应用，值得临床医生重点关注。",
+  "editor_note": "输卵管切除作为卵巢癌预防策略获更强支持，妇产科医生应将其纳入手术决策，并注意患者充分知情。",
   "keywords": [
     "卵巢癌预防",
-    "输卵管切除",
+    "输卵管切除术",
     "ACOG",
-    "机会性双侧输卵管切除术",
     "子宫切除术",
-    "妇科手术指南"
+    "机会性双侧输卵管切除术",
+    "妇科手术",
+    "临床指南"
   ],
   "research": {
-    "generatedAt": "2026-08-20T23:45:53.281Z",
-    "dataAsOf": "2026-08-20T23:45:53.281Z",
+    "generatedAt": "2026-08-20T23:56:12.014Z",
+    "dataAsOf": "2026-08-20T23:56:12.014Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及口服中药方剂治疗早发性卵巢功能不全：系统评价、meta分析和探索性治则亚组分析、精浆和血清铁参数与男性不育的关联：系统评价和meta分析、充气保温毯最适温度预防妇科肿瘤患者术中低体温：一项随机对照试验。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
