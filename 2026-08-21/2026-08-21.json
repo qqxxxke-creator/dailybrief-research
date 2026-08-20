@@ -1,6 +1,6 @@
 {
-  "hero_headline": "ACOG强化输卵管切除预防卵巢癌立场，常规子宫切除时应考虑切除输卵管",
-  "daily_overview": "今日唯一核心动态：ACOG发布强化建议，支持在子宫切除术中常规切除输卵管，并向接受其他手术的患者推荐机会性双侧输卵管切除术（OBS），以降低卵巢癌风险。",
+  "hero_headline": "ACOG强化预防卵巢癌策略：推荐子宫切除术中常规切除输卵管",
+  "daily_overview": "今日仅一条核心动态：ACOG发布关于加强输卵管切除以预防卵巢癌的最新立场，建议妇产科医师在子宫切除术中常规切除输卵管，并向接受其他手术的患者推荐机会性双侧输卵管切除（OBS）。",
   "tech_briefs": [],
   "finance_briefs": [],
   "politics_briefs": [
@@ -8,22 +8,22 @@
       "title": "ACOG Strengthens Support for Fallopian Tube Removal to Prevent Ovarian Cancer",
       "url": "https://www.medpagetoday.com/hematologyoncology/ovariancancer/122694",
       "source": "MedPage Today",
-      "summary": "ACOG发布临床实践更新，建议在子宫切除术中常规切除输卵管，并推荐对其他手术患者进行机会性双侧输卵管切除术以预防卵巢癌。",
+      "summary": "ACOG临床实践更新建议在子宫切除术中常规切除输卵管，并推荐对其他手术患者进行机会性双侧输卵管切除术以预防卵巢癌。",
       "importance": 5
     }
   ],
-  "editor_note": "ACOG立场强化提示卵巢癌预防已从被动筛查走向主动外科预防，妇产科临床应重视手术路径选择与患者沟通。",
+  "editor_note": "输卵管切除作为卵巢癌预防策略获权威支持，临床路径将面临调整，需结合证据与患者个体情况落实。",
   "keywords": [
-    "卵巢癌预防",
-    "输卵管切除",
     "ACOG",
-    "机会性双侧输卵管切除术",
+    "输卵管切除",
+    "卵巢癌预防",
+    "机会性双侧输卵管切除",
     "子宫切除术",
     "妇科手术"
   ],
   "research": {
-    "generatedAt": "2026-08-20T22:00:48.168Z",
-    "dataAsOf": "2026-08-20T22:00:48.168Z",
+    "generatedAt": "2026-08-20T23:02:06.281Z",
+    "dataAsOf": "2026-08-20T23:02:06.281Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及口服中药方剂治疗早发性卵巢功能不全：系统评价、meta分析和探索性治则亚组分析、精浆和血清铁参数与男性不育的关联：系统评价和meta分析、充气保温毯最适温度预防妇科肿瘤患者术中低体温：一项随机对照试验。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
@@ -56,15 +56,6 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 100,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "口服中药方剂治疗早发性卵巢功能不全：系统评价、meta分析和探索性治则亚组分析",
           "researchQuestion": "比较基于激素替代疗法（HRT）的方案与纯口服中药方剂在早发性卵巢功能不全（POI）患者中的疗效，并按预设的治则类别进行亚组分析。",
@@ -76,7 +67,16 @@
           "clinicalInterpretation": "作者认为当前证据不支持常规使用任何特定中药方剂或治则类别；基于指南的管理（包括临床适当时使用HRT）应保持标准治疗，并需要采用患者重要结局和标准化安全性报告的严格设计多中心试验。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "fafd54e3bfa159f4148dd589fc89b7ecda549203de6562dc91b578341115df3a"
+        "summaryInputHash": "fafd54e3bfa159f4148dd589fc89b7ecda549203de6562dc91b578341115df3a",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:42623487",
@@ -106,15 +106,6 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 100,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "精浆和血清铁参数与男性不育的关联：系统评价和meta分析",
           "researchQuestion": "评估铁浓度与男性不育之间的关联。",
@@ -126,7 +117,16 @@
           "clinicalInterpretation": "该meta分析显示精浆和血清铁浓度升高与男性不育风险之间存在正相关，但属于观察性关联，不能推断因果关系，需谨慎解读。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "ad7c23dbe1911e9e89eb8662b79aab8ab09179012be1d10388b57b9c7dc110cb"
+        "summaryInputHash": "ad7c23dbe1911e9e89eb8662b79aab8ab09179012be1d10388b57b9c7dc110cb",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:42621069",
@@ -154,15 +154,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 21.25,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 96.25,
-          "evidenceRank": 0.85
-        },
         "summaryZh": {
           "titleZh": "充气保温毯最适温度预防妇科肿瘤患者术中低体温：一项随机对照试验",
           "researchQuestion": "确定充气保温毯在子宫内膜癌根治术患者中预防术中低体温的最适温度。",
@@ -174,7 +165,16 @@
           "clinicalInterpretation": "作者认为对于子宫内膜癌根治术患者，预防术中低体温的充气保温毯最适温度为38°C，为临床加温温度选择提供指导。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "2d96f7efbe98c65183520acc79a134fd18cba263ec59cbc9440938c210919e26"
+        "summaryInputHash": "2d96f7efbe98c65183520acc79a134fd18cba263ec59cbc9440938c210919e26",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 21.25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 96.25,
+          "evidenceRank": 0.85
+        }
       },
       {
         "id": "pmid:42619413",
@@ -205,15 +205,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "卵巢癌中DNA甲基化与生物钟重编程的交叉调控：机制见解、生物标志物潜力和治疗意义",
           "researchQuestion": "总结卵巢癌中DNA甲基化（DNAm）与生物钟重编程之间双向相互作用的机制，并探讨其在早期检测、预后分层、铂耐药动态监测和时辰治疗中的潜在应用。",
@@ -225,7 +216,16 @@
           "clinicalInterpretation": "作者认为DNA甲基化-生物钟轴具有转化潜力，但尚不足以进入临床；未来需要结合时间分辨采样、液体活检、单细胞和空间表观基因组技术以及前瞻性临床试验，以明确其在卵巢癌精准诊疗中的临床效用。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "f1287c725a78a23d5cd814a7111a879cff68fe364104ce91b7c1d17e9e3af71b"
+        "summaryInputHash": "f1287c725a78a23d5cd814a7111a879cff68fe364104ce91b7c1d17e9e3af71b",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42619547",
@@ -256,15 +256,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "ANXA1/FPR信号通过PI3K/AKT相关的PGC1α调控促进卵巢癌紫杉醇耐药",
           "researchQuestion": "探究ANXA1/FPR轴是否促进卵巢癌紫杉醇耐药及其潜在分子机制。",
@@ -276,7 +267,16 @@
           "clinicalInterpretation": "作者认为ANXA1/FPR/PI3K/AKT/PGC1α轴可能成为克服卵巢癌紫杉醇耐药的潜在治疗靶点，但这是基于体外实验的初步结论，临床价值需进一步验证。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "39e7b82c815e948351b193aa7410f3c62ad289add322d1af242d50ed8e75b562"
+        "summaryInputHash": "39e7b82c815e948351b193aa7410f3c62ad289add322d1af242d50ed8e75b562",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       }
     ]
   }
