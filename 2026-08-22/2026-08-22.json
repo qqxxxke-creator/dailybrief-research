@@ -1,0 +1,209 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-08-21T22:57:22.311Z",
+    "dataAsOf": "2026-08-21T22:57:22.311Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及Immunogenicity, efficacy, and safety of different dose schedules of human papillomavirus vaccines: a Bayesian network meta-analysis of randomized controlled trials.、The efficacy and safety of combined traditional Chinese and Western medicine treatment for PCOS-related infertility: an umbrella meta-analysis.、Management and safety of somatostatin receptor ligands and pegvisomant in pregnant women with acromegaly: a narrative review of the literature.。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42625665",
+        "pmid": "42625665",
+        "doi": "10.3389/fimmu.2026.1883217",
+        "title": "Immunogenicity, efficacy, and safety of different dose schedules of human papillomavirus vaccines: a Bayesian network meta-analysis of randomized controlled trials.",
+        "abstract": "BACKGROUND: To enhance global vaccine coverage and reduce costs, Human papillomavirus (HPV) immunization schedules are shifting from the standard three-dose (3D) regimen toward reduced-dose (1D or 2D) schedules. We aimed to evaluate the comparative immunogenicity, efficacy, and safety of diverse dose schedules and vaccine types using a Bayesian network meta-analysis.\nMETHODS: Two reviewers independently searched PubMed, Embase, Cochrane Central Register of Controlled Trials (CENTRAL), CNKI, and Wanfang Data from inception to February 15, 2026, for randomized controlled trials (RCTs) evaluating different dose schedules of HPV vaccines in females aged 9-26 years. Primary outcomes were HPV-16/18 Seroconversion rates (SCR) and 6-month Persistent infection (PI). A Bayesian random-effects model was constructed using the multinma package in R, and treatments were ranked using the Surface Under the Cumulative Ranking (SUCRA) values.\nRESULTS: For immunogenicity, the 9v-3D regimen demonstrated the highest SCR compared with placebo (OR 62.45, 95% CrI 15.20-158.30; SUCRA 0.96). However, these large effect estimates are largely driven by near-zero events in placebo arms. Regarding protective efficacy against PI, while 3-dose regimens ranked highest (9v-3D SUCRA 0.95; 2v-3D SUCRA 0.89), single-dose schedules (1D) maintained clinically significant protection (e.g., 2v-1D vs. placebo: OR 0.32, 95% CrI 0.07-0.96; SUCRA 0.61). Safety rankings identified 1D schedules as having the lowest risk of injection-site pain (SUCRA: 2v-1D 88.0%, 9v-1D 82.0%). Subgroup analysis suggested comparable efficacy of 2-dose regimens in adolescents aged 9-14 years compared to the standard 3D regimen (P-interaction = 0.04).\nCONCLUSIONS: Although reduced-dose schedules induce lower antibody titers than the standard 3-dose regimen, they provide robust protective efficacy against persistent HPV infection with a superior safety profile. Our findings support the widespread adoption of 2-dose schedules in adolescents and suggest that a single-dose strategy is a viable alternative in resource-constrained settings to accelerate the elimination of cervical cancer. However, given the surrogate nature of the study endpoints and the limitations of network meta-analysis for establishing non-inferiority, cautious interpretation of these results is warranted, and further long-term clinical endpoint data are needed.",
+        "journal": "Frontiers in immunology",
+        "authors": [
+          "De-Yan Xie",
+          "Fang Wang",
+          "Jing Ye",
+          "Xiao-Feng He",
+          "Ya Chen",
+          "Zhen-Qiong Zhu"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Network Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-06T00:00:00.000Z",
+        "activityAt": "2026-08-21T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42625665/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42625854",
+        "pmid": "42625854",
+        "doi": "10.3389/fmed.2026.1877844",
+        "title": "The efficacy and safety of combined traditional Chinese and Western medicine treatment for PCOS-related infertility: an umbrella meta-analysis.",
+        "abstract": "BACKGROUND: Polycystic ovary syndrome (PCOS) commonly causes infertility in women of reproductive age. Integrated Chinese-Western medicine is used to improve reproductive outcomes and reduce adverse effects, but its reliability remains uncertain.\nMETHODS: Efficacy and safety meta-analyses of integrated traditional Chinese medicine (TCM) and Western medicine for PCOS-related infertility were synthesized. PubMed, Embase, Web of Science, the Cochrane Library, the China National Knowledge Infrastructure (CNKI), Wanfang, and the Chinese Science and Technology Periodical Database (VIP) were searched from inception to November 2025. A Measurement Tool to Assess Systematic Reviews (AMSTAR) and Grading of Recommendations Assessment, Development and Evaluation (GRADE) assessed quality and certainty. Outcomes were classified by significance and evidence strength.\nRESULTS: Twenty meta-analyses included 39 intervention types and 153 outcomes, 135 outcomes (36 interventions) favored integrated treatment, and 18 (13 interventions) were non-significant. Heterogeneity and publication bias affected 33 and 48.4%, respectively. AMSTAR scores were 4-9. Four outcomes from two interventions met Class I-III criteria. Chinese medicine plus Western medicine using the TCM Cycle Method showed Class I evidence for pregnancy rate (OR: 2.76, 95% CI: 2.43, 3.13) and Class II evidence for total clinical efficiency (OR: 3.78, 95% CI: 3.29, 4.34) and ovulation rate (OR: 2.90, 95% CI: 2.39, 3.50). TCM cycle therapy plus ovulation induction showed Class III evidence for ovulation rate (RR: 1.10, 95% CI: 1.06, 1.14). GRADE ratings were high for 45, moderate for 92, and low for 16 outcomes.\nCONCLUSION: Integrated therapy showed promising associations, but robust evidence remains limited; only four of 153 outcomes met Class I-III criteria. Rigorous randomized trials are required.\nSYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/view/CRD420251275827, Identifier: CRD420251275827.",
+        "journal": "Frontiers in medicine",
+        "authors": [
+          "Chao Sun",
+          "Guangzhong Du",
+          "Hongwen Li",
+          "Qingchen Zhou"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-06T00:00:00.000Z",
+        "activityAt": "2026-08-21T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42625854/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42627560",
+        "pmid": "42627560",
+        "doi": "10.1007/s12020-026-04761-x",
+        "title": "Management and safety of somatostatin receptor ligands and pegvisomant in pregnant women with acromegaly: a narrative review of the literature.",
+        "abstract": "PURPOSE: Pregnancy in acromegaly is a rare event. Its management is still a challenge given the lack of data, the risk of tumor progression and maternal-fetal complications. This study aims to evaluate the impact of different treatment strategies, particularly somatostatin receptor ligands (SRL) and pegvisomant (PEG), on maternal and neonatal outcomes through a comprehensive review of the literature.\nMETHODS: We performed a narrative review of the literature. A PubMed search was performed using the keywords \"acromegaly AND pregnancy\", combined with treatment-related terms, covering publications from January 1, 1988, to January 21, 2026. No publication type restrictions were applied. Additional articles were identified through manual reference screening. Articles published in English and Italian were included.\nRESULTS: A total of 44 articles were identified, comprising 120 patients and 134 pregnancies; we further contribute an additional case of pregnancy with pasireotide exposure, representing the third reported case of pasireotide exposure during pregnancy. Medical management was categorized as follows: treatment withdrawal before conception (n = 40), discontinuation upon pregnancy confirmation (n = 47), and continuation or modification throughout gestation (n = 30). Symptom worsening occurred in 16.7-40%. Maternal complications included gestational diabetes (5.6-18.8%) and pre-eclampsia (2.8-10.3%). Overall, fetal outcomes were favorable, with only one congenital malformation. Breastfeeding was successfully achieved in most cases.\nCONCLUSION: Pregnancy in acromegaly is generally characterized by clinical stability, supporting the safety of treatment withdrawal upon conception in most patients. While early therapy discontinuation is standard, SRL and/or PEG treatment is a viable option for patients requiring tumor and biochemical control. Individualized multidisciplinary management is essential.",
+        "journal": "Endocrine",
+        "authors": [
+          "Alessandro Cicale",
+          "Irene Comune",
+          "Margherita Medici",
+          "Maria Chiara Zatelli",
+          "Maria Rosaria Ambrosio",
+          "Valentino Marino Picciola"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-21T00:00:00.000Z",
+        "activityAt": "2026-08-21T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42627560/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42624863",
+        "pmid": "42624863",
+        "doi": "10.1038/s41467-026-76822-8",
+        "title": "A systematic review and meta-analysis on heat thresholds for maternal health and birth outcomes.",
+        "abstract": "Global warming poses major public health challenges, with pregnant individuals particularly vulnerable to heat. We aim to synthesise evidence on the effects of ambient heat on pregnancy and birth outcomes and identify heat thresholds associated with increased risk of these adverse outcomes. We searched Medline, Web of Science, Scopus, GreenFile and Cinahl (June 2024) for peer-reviewed studies reporting thresholds for ambient heat; heat from medical devices, saunas, pools or studies on conception, IVF, postnatal health were excluded. Participants within studies are limited to individuals capable of becoming pregnant, including women and those identifying differently. Risk of bias is assessed using the Office of Health Assessment and Translation tool. Findings are narratively synthesised according to outcome and exposure metric, and a random effects meta-regression is used to estimate heat thresholds for acute heat effects on adverse outcomes. Evidence is limited by heterogeneity and methodological variability among studies included, and through review process limitations, including no independent dual data extraction and single person performing quality assessment. Meta-analyses determine Tmax thresholds 30.55 °C, 34.11 °C and 39.07 °C for 5%, 10% and 20% risk increase (21 studies, sample=5,589,862), suggesting increasing risk of adverse pregnancy and birth outcomes with increasing heat. The narrative syntheses (103 studies, sample=41,951,950) identifies heterogeneous indicators and a lack of comprehensive heat stress indices. Funding was received through the European Union's Horizon Framework Programme and UKRI Innovate. PROSPERO registration: CRD42024610438.",
+        "journal": "Nature communications",
+        "authors": [
+          "Chuansi Gao",
+          "Clara S Heil",
+          "Günter Alce",
+          "Leonidas G Ioannou",
+          "Susanne Frennert"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-21T00:00:00.000Z",
+        "activityAt": "2026-08-21T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42624863/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 7.5,
+          "recency": 10,
+          "total": 92.5,
+          "evidenceRank": 1
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42625635",
+        "pmid": "42625635",
+        "doi": "10.3389/fendo.2026.1874930",
+        "title": "Islet-autoantibodies in gestational diabetes and risk of progression to postpartum diabetes: a systematic review and meta-analysis.",
+        "abstract": "INTRODUCTION: Gestational diabetes (GDM) is not only associated with markedly increased type 2 diabetes risk but is also associated with increased type 1 diabetes risk in later life. The aim of this work was to systematically evaluate the prevalence and clinical relevance of islet autoantibodies in patients with gestational diabetes.\nMETHOD: A systematic literature search of the predefined keywords \"gestational diabetes\" or \"pregnancy diabetes\" and \"autoantibodies\" in the electronic databases PubMed, ScienceDirect, and ResearchGate from the beginning of the database until November 30, 2025 was performed. The selection of publications was based on the review of studies using predefined inclusion and exclusion criteria. The extracted data obtained were analyzed using meta-analytical techniques.\nRESULTS: Twenty-one studies including a total of 7760 patients with gestational diabetes were included. Heterogeneity among the analyzed studies was high. The overall prevalence of islet autoantibodies was 10.6% (95% CI 8,2-13,0%) (I 2 = 95,9%) in patients with gestational diabetes, which was more than seven-fold higher than in pregnant women without gestational diabetes. Prevalence was highest for ICA and anti-GAD autoantibodies. The prevalence of islet autoantibodies decreased from 10.6% during pregnancy to 3.6% in the postpartum period (95% CI 2.1-5.1%).\nCONCLUSION: Our data show a high prevalence of islet autoantibody positivity in patients with gestational diabetes suggesting a relevant pathophysiological role of autoimmunity in a subgroup of affected patients. These data underline the need of postpartum analysis of the autoantibody status and regular follow-up checks in patients with persistent islet autoantibody positivity. Heterogeneity among analyzed studies was high underlining the need of further prospective studies to more clearly define the role of islet autoantibodies in patients with gestational diabetes.",
+        "journal": "Frontiers in endocrinology",
+        "authors": [
+          "Arantxa González-Saitz",
+          "Susanne Kaser"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-06T00:00:00.000Z",
+        "activityAt": "2026-08-21T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42625635/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 6,
+          "recency": 10,
+          "total": 91,
+          "evidenceRank": 1
+        },
+        "summaryStatus": "failed"
+      }
+    ]
+  }
+}
