@@ -7,10 +7,10 @@
   "editor_note": "过去24小时暂无符合质量要求的重要更新。",
   "keywords": [],
   "research": {
-    "generatedAt": "2026-08-21T23:44:22.775Z",
-    "dataAsOf": "2026-08-21T23:44:22.775Z",
+    "generatedAt": "2026-08-21T23:56:03.107Z",
+    "dataAsOf": "2026-08-21T23:56:03.107Z",
     "isCachedFallback": false,
-    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及人乳头瘤病毒疫苗不同剂量方案的免疫原性、效力和安全性：随机对照试验的贝叶斯网络荟萃分析、中西医结合治疗PCOS相关不孕的有效性和安全性：伞形荟萃分析、Management and safety of somatostatin receptor ligands and pegvisomant in pregnant women with acromegaly: a narrative review of the literature.。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及人乳头瘤病毒疫苗不同剂量方案的免疫原性、效力和安全性：随机对照试验的贝叶斯网络荟萃分析、中西医结合治疗PCOS相关不孕的有效性和安全性：伞形荟萃分析、肢端肥大症孕妇中生长抑素受体配体与培维索孟的管理和安全性：文献叙述性综述。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
       {
         "id": "pmid:42625665",
@@ -41,16 +41,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "summaryStatus": "success",
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 100,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "人乳头瘤病毒疫苗不同剂量方案的免疫原性、效力和安全性：随机对照试验的贝叶斯网络荟萃分析",
           "researchQuestion": "评估不同剂量方案和疫苗类型的人乳头瘤病毒（HPV）疫苗的免疫原性、效力和安全性。",
@@ -61,7 +51,17 @@
           "limitations": "研究终点为替代终点；网络荟萃分析在确立非劣效性方面存在局限性；需要进一步的长期临床终点数据。",
           "clinicalInterpretation": "尽管减量方案诱导的抗体滴度低于标准3剂方案，但它们能提供针对持续性HPV感染的强力保护效力，且安全性更优。研究结果支持在青少年中广泛采用2剂方案，并提示单剂策略在资源受限环境中是加速消除宫颈癌的可行替代方案。由于替代终点和网络荟萃分析的局限性，应对结果进行谨慎解读。"
         },
-        "summaryInputHash": "08b3af264f75bc5ea8007e2089fac1866892193d0543bbae63028d25aad6b9dc"
+        "summaryStatus": "success",
+        "summaryInputHash": "08b3af264f75bc5ea8007e2089fac1866892193d0543bbae63028d25aad6b9dc",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:42625854",
@@ -89,16 +89,6 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "summaryStatus": "success",
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 100,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "中西医结合治疗PCOS相关不孕的有效性和安全性：伞形荟萃分析",
           "researchQuestion": "评估中西医结合治疗多囊卵巢综合征（PCOS）相关不孕症的有效性和安全性。",
@@ -109,7 +99,17 @@
           "limitations": "可靠证据仍然有限；只有153个结局中的4个达到I-III级标准；需要开展严格的随机试验。",
           "clinicalInterpretation": "综合治疗显示出有希望的关联，但证据强度有限；需要严格设计的随机对照试验加以验证。"
         },
-        "summaryInputHash": "ae514c3035bef14aa9ea58478d74b5355cd6be6fe89bb58d44211fa43c7cf300"
+        "summaryStatus": "success",
+        "summaryInputHash": "ae514c3035bef14aa9ea58478d74b5355cd6be6fe89bb58d44211fa43c7cf300",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:42627560",
@@ -140,7 +140,7 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "summaryStatus": "failed",
+        "summaryStatus": "success",
         "assignedTopicId": "maternal-fetal-medicine",
         "score": {
           "topicMatch": 50,
@@ -149,7 +149,18 @@
           "recency": 10,
           "total": 100,
           "evidenceRank": 1
-        }
+        },
+        "summaryZh": {
+          "titleZh": "肢端肥大症孕妇中生长抑素受体配体与培维索孟的管理和安全性：文献叙述性综述",
+          "researchQuestion": "评估肢端肥大症妊娠期不同治疗策略（尤其是生长抑素受体配体SRL和培维索孟PEG）对母体和新生儿结局的影响。",
+          "studyDesign": "叙述性文献综述（PubMed检索，覆盖1988年1月1日至2026年1月21日，无出版类型限制，纳入英文和意大利文文献，并辅以手动参考文献筛查）",
+          "populationAndSample": "共纳入44篇文章，包含120例患者和134次妊娠；作者额外贡献了1例妊娠期暴露于帕瑞肽的病例（为报告的第3例妊娠期帕瑞肽暴露病例）。",
+          "methods": "使用关键词“acromegaly AND pregnancy”结合治疗相关术语进行PubMed检索；将药物治疗分为孕前停药（n=40）、确认妊娠后停药（n=47）以及整个妊娠期继续或调整治疗（n=30）三类进行归纳。",
+          "keyResults": "症状加重发生率为16.7%-40%；母体并发症包括妊娠期糖尿病（5.6%-18.8%）和子痫前期（2.8%-10.3%）；总体胎儿结局良好，仅报告1例先天性畸形；多数案例成功实现母乳喂养。",
+          "limitations": "摘要未报告明确的综述局限性；作为叙述性综述，证据综合方法可能受限于原始研究的异质性和数量。",
+          "clinicalInterpretation": "肢端肥大症妊娠通常临床稳定，支持多数患者受孕后停用治疗的安全性；尽管早期停药是标准做法，但SRL和/或PEG治疗对于需要肿瘤和生化控制的患者是可行选择；个体化的多学科管理至关重要。"
+        },
+        "summaryInputHash": "00ba9836fba3ab2d7c4ec3b93309482365e1b15ecbbab1c2ef73c7e0b2885bb1"
       },
       {
         "id": "pmid:42624863",
@@ -179,7 +190,7 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "summaryStatus": "failed",
+        "summaryStatus": "success",
         "assignedTopicId": "reproductive-medicine",
         "score": {
           "topicMatch": 50,
@@ -188,7 +199,18 @@
           "recency": 10,
           "total": 92.5,
           "evidenceRank": 1
-        }
+        },
+        "summaryZh": {
+          "titleZh": "母体健康与出生结局的热阈值：系统综述与Meta分析",
+          "researchQuestion": "综合环境热对妊娠和出生结局影响的证据，并确定与不良结局风险增加相关的热阈值。",
+          "studyDesign": "系统综述和Meta分析（检索Medline、Web of Science、Scopus、GreenFile和Cinahl，时间截至2024年6月；纳入报告环境热阈值的同行评审研究；排除来自医疗设备、桑拿、泳池的热暴露以及关于受孕、IVF、产后健康的研究）。",
+          "populationAndSample": "Meta分析纳入21项研究，样本量5,589,862；叙述性综合纳入103项研究，样本量41,951,950；参与者限于可能怀孕的个体，包括女性和其他身份认同者。",
+          "methods": "使用Office of Health Assessment and Translation工具评估偏倚风险；按结局和暴露指标进行叙述性综合；采用随机效应Meta回归估计急性热效应对不良结局的热阈值。",
+          "keyResults": "Meta分析得出Tmax阈值：5%风险增加为30.55°C，10%风险增加为34.11°C，20%风险增加为39.07°C，提示随着热强度增加，妊娠和出生不良结局风险增加。",
+          "limitations": "证据受纳入研究的异质性和方法学变异性限制；综述过程存在局限性，包括无独立双重数据提取、仅单人进行质量评估。",
+          "clinicalInterpretation": "环境热暴露与不良妊娠和出生结局风险增加相关，且风险随温度升高而上升；但需注意研究间的异质性和方法学差异，热阈值估计应谨慎解读。"
+        },
+        "summaryInputHash": "6ecdb29481df1e27590b8b8c566aad18c0ba285f378f2050d87a08371d1ce0e4"
       },
       {
         "id": "pmid:42625635",
@@ -215,7 +237,7 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "summaryStatus": "failed",
+        "summaryStatus": "success",
         "assignedTopicId": "maternal-fetal-medicine",
         "score": {
           "topicMatch": 50,
@@ -224,7 +246,18 @@
           "recency": 10,
           "total": 91,
           "evidenceRank": 1
-        }
+        },
+        "summaryZh": {
+          "titleZh": "妊娠期糖尿病中的胰岛自身抗体及产后糖尿病进展风险：系统综述与Meta分析",
+          "researchQuestion": "系统评估妊娠期糖尿病患者中胰岛自身抗体的患病率及其临床相关性。",
+          "studyDesign": "系统综述和Meta分析（系统检索PubMed、ScienceDirect和ResearchGate，从建库至2025年11月30日，采用预定义纳入和排除标准筛选文献）。",
+          "populationAndSample": "纳入21项研究，共7760例妊娠期糖尿病患者。",
+          "methods": "使用预设关键词“gestational diabetes”或“pregnancy diabetes”和“autoantibodies”进行电子数据库检索；对提取的数据进行Meta分析技术分析。",
+          "keyResults": "妊娠期糖尿病患者胰岛自身抗体总体患病率为10.6%（95% CI 8.2%-13.0%），I²=95.9%，比无妊娠期糖尿病的孕妇高7倍以上；ICA和抗GAD自身抗体患病率最高；胰岛自身抗体患病率从妊娠期的10.6%降至产后期的3.6%（95% CI 2.1%-5.1%）。",
+          "limitations": "纳入研究之间的异质性高。",
+          "clinicalInterpretation": "妊娠期糖尿病患者中胰岛自身抗体阳性患病率较高，提示自身免疫在部分患者中具有重要病理生理作用；强调了对持续胰岛自身抗体阳性患者进行产后自身抗体状态分析和定期随访检查的必要性；高异质性提示需进一步前瞻性研究明确其作用。"
+        },
+        "summaryInputHash": "b517265ebf6d4be019dbd74bf3e5f2398438fd77a8f32150d2aa3e2c736439cf"
       }
     ]
   }
