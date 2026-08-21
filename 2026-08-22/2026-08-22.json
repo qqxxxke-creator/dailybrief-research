@@ -7,10 +7,10 @@
   "editor_note": "过去24小时暂无符合质量要求的重要更新。",
   "keywords": [],
   "research": {
-    "generatedAt": "2026-08-21T22:57:22.311Z",
-    "dataAsOf": "2026-08-21T22:57:22.311Z",
+    "generatedAt": "2026-08-21T23:44:22.775Z",
+    "dataAsOf": "2026-08-21T23:44:22.775Z",
     "isCachedFallback": false,
-    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及Immunogenicity, efficacy, and safety of different dose schedules of human papillomavirus vaccines: a Bayesian network meta-analysis of randomized controlled trials.、The efficacy and safety of combined traditional Chinese and Western medicine treatment for PCOS-related infertility: an umbrella meta-analysis.、Management and safety of somatostatin receptor ligands and pegvisomant in pregnant women with acromegaly: a narrative review of the literature.。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及人乳头瘤病毒疫苗不同剂量方案的免疫原性、效力和安全性：随机对照试验的贝叶斯网络荟萃分析、中西医结合治疗PCOS相关不孕的有效性和安全性：伞形荟萃分析、Management and safety of somatostatin receptor ligands and pegvisomant in pregnant women with acromegaly: a narrative review of the literature.。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
       {
         "id": "pmid:42625665",
@@ -41,6 +41,7 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
+        "summaryStatus": "success",
         "assignedTopicId": "gynecologic-oncology",
         "score": {
           "topicMatch": 50,
@@ -50,7 +51,17 @@
           "total": 100,
           "evidenceRank": 1
         },
-        "summaryStatus": "failed"
+        "summaryZh": {
+          "titleZh": "人乳头瘤病毒疫苗不同剂量方案的免疫原性、效力和安全性：随机对照试验的贝叶斯网络荟萃分析",
+          "researchQuestion": "评估不同剂量方案和疫苗类型的人乳头瘤病毒（HPV）疫苗的免疫原性、效力和安全性。",
+          "studyDesign": "贝叶斯网络荟萃分析（Bayesian network meta-analysis）",
+          "populationAndSample": "9-26岁女性；样本量摘要未报告。",
+          "methods": "两位审稿人独立检索PubMed、Embase、Cochrane CENTRAL、CNKI和万方数据库，检索时间从建库至2026年2月15日，纳入评估不同剂量HPV疫苗方案的随机对照试验（RCT）。主要结局为HPV-16/18血清转化率（SCR）和6个月持续感染（PI）。使用R中的multinma包构建贝叶斯随机效应模型，并通过SUCRA值对治疗方案进行排序。",
+          "keyResults": "免疫原性方面，9v-3D方案相比安慰剂的SCR最高（OR 62.45，95% CrI 15.20-158.30；SUCRA 0.96），但这些大的效应估计主要由安慰剂组近零事件驱动。针对持续感染（PI）的保护效力方面，3剂方案排名最高（9v-3D SUCRA 0.95；2v-3D SUCRA 0.89），而单剂方案（1D）保持临床显著保护（如2v-1D vs 安慰剂：OR 0.32，95% CrI 0.07-0.96；SUCRA 0.61）。安全性排名显示1D方案注射部位疼痛风险最低（SUCRA：2v-1D 88.0%，9v-1D 82.0%）。亚组分析提示9-14岁青少年2剂方案与标准3剂方案的疗效相当（P-interaction=0.04）。",
+          "limitations": "研究终点为替代终点；网络荟萃分析在确立非劣效性方面存在局限性；需要进一步的长期临床终点数据。",
+          "clinicalInterpretation": "尽管减量方案诱导的抗体滴度低于标准3剂方案，但它们能提供针对持续性HPV感染的强力保护效力，且安全性更优。研究结果支持在青少年中广泛采用2剂方案，并提示单剂策略在资源受限环境中是加速消除宫颈癌的可行替代方案。由于替代终点和网络荟萃分析的局限性，应对结果进行谨慎解读。"
+        },
+        "summaryInputHash": "08b3af264f75bc5ea8007e2089fac1866892193d0543bbae63028d25aad6b9dc"
       },
       {
         "id": "pmid:42625854",
@@ -78,6 +89,7 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
+        "summaryStatus": "success",
         "assignedTopicId": "reproductive-medicine",
         "score": {
           "topicMatch": 50,
@@ -87,7 +99,17 @@
           "total": 100,
           "evidenceRank": 1
         },
-        "summaryStatus": "failed"
+        "summaryZh": {
+          "titleZh": "中西医结合治疗PCOS相关不孕的有效性和安全性：伞形荟萃分析",
+          "researchQuestion": "评估中西医结合治疗多囊卵巢综合征（PCOS）相关不孕症的有效性和安全性。",
+          "studyDesign": "伞形荟萃分析（umbrella meta-analysis）",
+          "populationAndSample": "PCOS相关不孕女性（具体样本量摘要未报告）。",
+          "methods": "对已发表的关于中西医结合治疗PCOS相关不孕的疗效和安全性荟萃分析进行综合。检索PubMed、Embase、Web of Science、Cochrane Library、CNKI、万方和维普（VIP），从建库至2025年11月。使用AMSTAR和GRADE评估质量和证据确定性，并按显著性和证据强度对结局进行分类。",
+          "keyResults": "纳入20项荟萃分析，包含39种干预类型和153个结局；其中135个结局（36种干预）支持联合治疗，18个结局（13种干预）无显著性差异。异质性和发表偏倚分别影响33和48.4（原文未标注单位）。AMSTAR评分4-9。来自两种干预的四个结局符合I-III级标准：中药加西药采用中医周期法在妊娠率方面显示I级证据（OR 2.76，95% CI 2.43-3.13），总临床有效率（OR 3.78，95% CI 3.29-4.34）和排卵率（OR 2.90，95% CI 2.39-3.50）为II级证据；中医周期疗法加促排卵的排卵率（RR 1.10，95% CI 1.06-1.14）为III级证据。GRADE评级：45个结局为高，92个为中等，16个为低。",
+          "limitations": "可靠证据仍然有限；只有153个结局中的4个达到I-III级标准；需要开展严格的随机试验。",
+          "clinicalInterpretation": "综合治疗显示出有希望的关联，但证据强度有限；需要严格设计的随机对照试验加以验证。"
+        },
+        "summaryInputHash": "ae514c3035bef14aa9ea58478d74b5355cd6be6fe89bb58d44211fa43c7cf300"
       },
       {
         "id": "pmid:42627560",
@@ -118,6 +140,7 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
+        "summaryStatus": "failed",
         "assignedTopicId": "maternal-fetal-medicine",
         "score": {
           "topicMatch": 50,
@@ -126,8 +149,7 @@
           "recency": 10,
           "total": 100,
           "evidenceRank": 1
-        },
-        "summaryStatus": "failed"
+        }
       },
       {
         "id": "pmid:42624863",
@@ -157,6 +179,7 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
+        "summaryStatus": "failed",
         "assignedTopicId": "reproductive-medicine",
         "score": {
           "topicMatch": 50,
@@ -165,8 +188,7 @@
           "recency": 10,
           "total": 92.5,
           "evidenceRank": 1
-        },
-        "summaryStatus": "failed"
+        }
       },
       {
         "id": "pmid:42625635",
@@ -193,6 +215,7 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
+        "summaryStatus": "failed",
         "assignedTopicId": "maternal-fetal-medicine",
         "score": {
           "topicMatch": 50,
@@ -201,8 +224,7 @@
           "recency": 10,
           "total": 91,
           "evidenceRank": 1
-        },
-        "summaryStatus": "failed"
+        }
       }
     ]
   }
