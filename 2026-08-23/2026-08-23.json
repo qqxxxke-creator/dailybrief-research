@@ -1,0 +1,201 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-08-22T22:01:08.721Z",
+    "dataAsOf": "2026-08-22T22:01:08.721Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及Seroprevalence of Bovine Herpesvirus Type 1 Among the Cattle Population in Iran: A Systematic Review and Meta-Analysis.、Cervical cancer screening predictors in Tanzania: a variance component models' approach of national survey 2022.、Nursing intervention and follow-up compliance after abnormal cervical cancer screening.。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42626012",
+        "pmid": "42626012",
+        "doi": "10.32598/ari.80.6.3041",
+        "title": "Seroprevalence of Bovine Herpesvirus Type 1 Among the Cattle Population in Iran: A Systematic Review and Meta-Analysis.",
+        "abstract": "Bovine herpesvirus type 1 (BHV-1) is the causative agent of several clinical manifestations, including infectious bovine rhinotracheitis, infectious pustular vulvovaginitis/balanoposthitis, conjunctivitis, encephalitis, abortion, infertility, mastitis, enteritis, dermatitis, and the systemic form of the infection in newborn calves. Although many investigations regarding the prevalence of BHV-1 infection in cattle in Iran have been conducted, until now there has been a lack of comprehensive information on the BHV-1 status in Iran. We aimed to present the seroprevalence of BHV-1 in the cattle population in Iran based on a systematic review and meta-analysis study and also to give useful outputs in formulating the infection-control strategies. The meta-analysis study was conducted using national and international databases to find articles which evaluated BHV-1 seroprevalence by antibody-capture enzyme linked immono sorbert assay (ELISA) in cattle in Iran by searching terms including Bovine herpesvirus type 1, cow, cattle, bovine, Iran, epidemiology, and prevalence alone or in combination in both English and Farsi languages. After reviewing 124 published documents, a total of 25 studies from 20 documents were eligible to be included in this meta-analysis study. The analysis was performed using the Comprehensive Meta-Analysis software, VERSION 3. The total seroprevalence of BHV-1 in apparently healthy cattle at the animal and herd levels based on the ELISA test was 40.2% (95% CI, 32.3%, 48.6%) and 75.5% (95% CI, 63.9%, 84.2%), respectively. A well-defined control strategy for preventing and controlling BHV-1 infection in Iran should be based on further studies on BHV-1 epidemiology, control of animal and semen importation, the use of marker vaccines, and planned biosecurity measures to control the epidemiological risk of infection due to the presence of BHV-1 latent carriers.",
+        "journal": "Archives of Razi Institute",
+        "authors": [
+          "Hassani Masoud",
+          "Hemmatzadeh Farhid"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2025-11-01T00:00:00.000Z",
+        "activityAt": "2026-08-21T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42626012/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 6,
+          "recency": 10,
+          "total": 91,
+          "evidenceRank": 1
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42629684",
+        "pmid": "42629684",
+        "doi": "10.1097/md.0000000000050260",
+        "title": "Cervical cancer screening predictors in Tanzania: a variance component models' approach of national survey 2022.",
+        "abstract": "Despite the potential for prevention through early detection and treatment, cervical cancer remains the most prevalent cancer among women of reproductive age (WRA). There is a paucity of evidence on the predictors influencing cervical cancer screening nationwide. Thus, this study aimed to determine the predictors associated with cervical cancer screening among WRA in Tanzania using the 2022 Tanzania Demographic and Health Surveys. This study was an analytical cross-sectional study that utilized nationally representative secondary data sourced from the Tanzania Demographic and Health Surveys of 2022. A weighted sample of 15,254 WRA (15-49 years) was included in the study. A multilevel binary logistic regression analysis was used to examine predictors associated with the uptake of cervical cancer screening services. These results were presented using adjusted odds ratios (AORs) with 95% confidence intervals (CIs). Predictors that were found to be significantly associated with cervical cancer screening among WRA in Tanzania were age (AOR = 7.12, 95% CI: 5.42-9.37), education (AOR = 2.58, 95% CI: 1.91-3.48), occupation (AOR = 1.3, 95% CI: 1.10-1.54), having visited a health facility in the past 12 months (AOR = 1.30, 95% CI: 1.13-1.51), the use of contraceptives (AOR = 1.23, 95% CI: 1.06-1.42), human immunodeficiency virus status (AOR = 5.56, 95% CI: 4.33-7.14), and residence (AOR = 0.64, 95% CI: 0.52-0.78). Overall, cervical cancer screening uptake is low in Tanzania. These findings underscore the importance of tailored interventions to improve screening rates, particularly among younger, less educated, rural-dwelling, and socioeconomically disadvantaged women. Efforts to enhance access to healthcare services, increase health literacy, and address barriers to screening participation are essential for reducing cervical cancer disparities and promoting women's health.",
+        "journal": "Medicine",
+        "authors": [
+          "Fabiola Moshi",
+          "Innocent Peter",
+          "Jomo Gimonge",
+          "Jovin R Tibenderana",
+          "Sanun Ally Kessy"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-21T00:00:00.000Z",
+        "activityAt": "2026-08-22T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42629684/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42629693",
+        "pmid": "42629693",
+        "doi": "10.1097/md.0000000000049893",
+        "title": "Nursing intervention and follow-up compliance after abnormal cervical cancer screening.",
+        "abstract": "This study aimed to explore the impact of systematic nursing intervention on follow-up compliance among patients with abnormal cervical cancer screening results. This was a single-center, retrospective, time-grouped cohort study. A total of 182 patients who received cervical cancer screening at our hospital from June 2023 to June 2025 and had abnormal results requiring further follow-up were enrolled. According to the implementation timing of the nursing program, patients from June 2023 to May 2024 were included in the control group (routine nursing, 91 cases), and patients from June 2024 to June 2025 were included in the intervention group (systematic nursing intervention, 91 cases). The primary outcome was short-term follow-up compliance, defined as completion of colposcopy or treatment within 3 months after notification. Follow-up compliance rates, adherence levels, and reasons for loss to follow-up were compared. Univariate and multivariate logistic regression analyses were performed to explore influencing factors, and potential time-period bias was considered when interpreting the results. The follow-up compliance rate in the intervention group was 86.81%, significantly higher than that in the control group (64.84%) (P < .001). Regarding reasons for loss to follow-up, the control group was primarily due to forgetting (34.38%) and fear/anxiety (25.00%), while the intervention group was mainly due to being busy with work (33.33%) and inconvenient transportation (25.00%) (P = .026). Multivariate analysis showed that nursing intervention was independently associated with improved follow-up compliance (odds ratio [OR] = 4.128, P < .001); age ≥51 years (OR = 0.312, P = .010), education level of junior college or above (OR = 3.245, P = .014), and urban residence (OR = 2.436, P = .020) were also independent influencing factors. Subgroup analysis indicated that nursing intervention improved compliance rates across all populations, with more significant effects observed in human papillomavirus-positive and rural populations. Systematic nursing intervention was associated with improved short-term follow-up compliance among patients with abnormal cervical cancer screening results. Because this study used a retrospective cohort based on time grouping and was conducted in a single medical institution, the findings should be interpreted cautiously and applied primarily to similar clinical settings.",
+        "journal": "Medicine",
+        "authors": [
+          "Xiaohui Deng",
+          "Xiaoqing Pang",
+          "Zhengyan Dai"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-21T00:00:00.000Z",
+        "activityAt": "2026-08-22T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42629693/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42629761",
+        "pmid": "42629761",
+        "doi": "10.1097/md.0000000000050354",
+        "title": "Incremental prognostic value of a preoperative immune-metabolic-inflammatory score for disease-free survival in endometrial cancer: A retrospective cohort study.",
+        "abstract": "The systemic immune-inflammation index, fibrinogen, triglyceride/high-density lipoprotein cholesterol ratio, and prognostic nutritional index have each been linked to endometrial cancer outcomes, but their optimal combination is uncertain. We compared alternative formulations and evaluated incremental prognostic value for disease-free survival (DFS). This single-center cohort included 853 surgically treated patients. Four biomarkers and 3 risk-aligned, equally weighted scores were compared: the 4-component immune-metabolic-inflammatory score (IMIS), 3-component simplified IMIS (sIMIS), and a 2-component score. Evaluation included Cox association strength, discrimination, prediction error, out-of-fold (OOF) calibration, and exploratory decision curves. The selected score was assessed alone and after addition to a 4-variable pathology reference model using 1000 patient-level bootstrap samples and stratified 10-fold OOF prediction. Alternative formulations were retained as sensitivity analyses. Median follow-up was 4.93 years, with 94 DFS events. All 4 biomarkers were associated with DFS. sIMIS had the largest likelihood-ratio statistic and numerically highest optimism-corrected and OOF C-indices, while the alternative formulations yielded broadly concordant performance. Each 1 - standard deviation increase in sIMIS was associated with a higher hazard of a DFS event (multivariable hazard ratio, 1.65; 95% confidence interval [CI], 1.45-1.88; P < .001). The pathology + sIMIS model had optimism-corrected and OOF C-indices of 0.820 and 0.819. Relative to pathology alone, the paired C-index difference was 0.0664 (95% CI, 0.0330-0.1025). The 5-year Brier-score gain was 0.0104 (95% CI, 0.0044-0.0165); the 3-year CI included zero. Treatment-by-risk interaction estimates were imprecise and were not statistically significant. In this single-center development cohort, sIMIS provided the most favorable overall balance of prognostic performance, component count, and construct coverage under internal resampling, although the alternative formulations performed broadly similarly. sIMIS remains a candidate risk marker rather than an established clinical or treatment-selection tool; external validation and comparison with contemporary molecularly integrated risk models are required.",
+        "journal": "Medicine",
+        "authors": [
+          "Jiayu Chen",
+          "Jing Yan",
+          "Juan Li",
+          "Mei Wu",
+          "Miaomiao Nie",
+          "Shuhuan Li",
+          "Yawen Shao",
+          "Yuer Sun",
+          "Zhenzhen Wu"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-21T00:00:00.000Z",
+        "activityAt": "2026-08-22T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42629761/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42629968",
+        "pmid": "42629968",
+        "doi": "10.12659/msm.952972",
+        "title": "Serum Isthmin-1 in Gestational Diabetes Mellitus: A Case-Control Study Providing Preliminary Evidence of Elevated Levels and Association With Insulin Resistance.",
+        "abstract": "BACKGROUND This study aimed to evaluate serum Isthmin-1 (ISM1) levels in pregnant women with and without gestational diabetes mellitus (GDM) and to assess its diagnostic value in comparison with established metabolic parameters. MATERIAL AND METHODS A case-control design was employed for this study, which enrolled 60 pregnant women between the ages of 20 and 40 years. Data collection took place over a 6-month period, from September 2023 through February 2024, at a tertiary-level hospital. Thirty women with GDM and 30 healthy pregnant controls were enrolled. Fasting and postprandial glucose, insulin, HOMA-IR, HbA1c, C-peptide, and ISM1 levels were measured. No multivariable adjustment was performed. ISM1 and C-peptide concentrations were analyzed using ELISA. RESULTS When compared to the control group, serum ISM1 concentrations were notably elevated in women with GDM, with median values of 7.67 (6.7-10.8) ng/mL versus 6.96 (6.4-7.6) ng/mL, respectively, a difference that reached statistical significance (P=0.020). ISM1 showed weak positive correlations with insulin (r=0.289, 95% CI: 0.038-0.506, P=0.025) and HOMA-IR (r=0.281, 95% CI: 0.029-0.500, P=0.029), although neither association survived correction for multiple comparisons. The diagnostic performance of ISM1 for GDM yielded an AUC of 0.674, with high specificity (93.3%) but low sensitivity (40%). Insulin and HOMA-IR demonstrated superior predictive values. CONCLUSIONS Serum ISM1 is modestly elevated in GDM and shows weak associations with insulin resistance parameters; its diagnostic performance is characterized by low sensitivity (40%) and an AUC of 0.674 (95% CI: 0.54-0.79) and is insufficient for independent clinical use. Any supportive role as part of a multi-marker panel requires confirmation in adequately powered, prospective studies.",
+        "journal": "Medical science monitor : international medical journal of experimental and clinical research",
+        "authors": [
+          "Burcu Özata",
+          "Büşra Şahin"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-22T00:00:00.000Z",
+        "activityAt": "2026-08-22T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42629968/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      }
+    ]
+  }
+}
