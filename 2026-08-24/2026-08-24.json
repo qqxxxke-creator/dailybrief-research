@@ -7,8 +7,8 @@
   "editor_note": "过去24小时暂无符合质量要求的重要更新。",
   "keywords": [],
   "research": {
-    "generatedAt": "2026-08-23T22:31:51.863Z",
-    "dataAsOf": "2026-08-23T22:31:51.863Z",
+    "generatedAt": "2026-08-23T23:30:19.603Z",
+    "dataAsOf": "2026-08-23T23:30:19.603Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及IVF中黄体期支持联合孕激素给药与单一途径给药的比较：当前证据的叙述性综述、大型继发性脐部子宫内膜异位症（Villar结节）：病例报告、LncRNA驱动的选择性剪接景观与卵巢癌生存结局相关。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
@@ -40,15 +40,6 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "IVF中黄体期支持联合孕激素给药与单一途径给药的比较：当前证据的叙述性综述",
           "researchQuestion": "比较IVF周期中联合（双重或三重）与单一途径孕激素给药用于黄体期支持的效果是否存在差异。",
@@ -60,7 +51,16 @@
           "clinicalInterpretation": "单一途径孕激素给药在IVF黄体期支持中仍然有效；个体化联合方案可能改善妊娠结局，但需要更多设计良好的随机对照试验来验证。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "426a8dd145091ac38a6eaa813b003d06cff0c6a6a9595a72da0bcd66ec1debfc"
+        "summaryInputHash": "426a8dd145091ac38a6eaa813b003d06cff0c6a6a9595a72da0bcd66ec1debfc",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42633119",
@@ -87,15 +87,6 @@
         "matchedTopicIds": [
           "endometriosis-benign-gynecology"
         ],
-        "assignedTopicId": "endometriosis-benign-gynecology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "大型继发性脐部子宫内膜异位症（Villar结节）：病例报告",
           "researchQuestion": "报告一例大型继发性脐部子宫内膜异位症病例，强调其诊断陷阱和手术决策。",
@@ -107,7 +98,16 @@
           "clinicalInterpretation": "在育龄期女性的脐部肿物鉴别诊断中，应考虑脐部子宫内膜异位症的可能性。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "13f719fbdfd9e7c3a75959679a477ca77542e65b63245f0c186515e915e25dad"
+        "summaryInputHash": "13f719fbdfd9e7c3a75959679a477ca77542e65b63245f0c186515e915e25dad",
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42633203",
@@ -139,15 +139,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "LncRNA驱动的选择性剪接景观与卵巢癌生存结局相关",
           "researchQuestion": "探索卵巢癌中lncRNA介导的选择性剪接失调景观及其与生存结局的关联。",
@@ -159,7 +150,16 @@
           "clinicalInterpretation": "研究提供了新的lncRNA生物标志物以及卵巢癌剪接失调的机制见解，为潜在诊断和治疗靶点提供了参考，但需进一步验证。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "5c801b7e4c88880635e4adf03343a89dc69c06d23741ecdc9a78f75526996c87"
+        "summaryInputHash": "5c801b7e4c88880635e4adf03343a89dc69c06d23741ecdc9a78f75526996c87",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42633444",
@@ -187,15 +187,6 @@
           "reproductive-medicine",
           "endometriosis-benign-gynecology"
         ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "子宫腺肌病相关不孕中连接区硬度增加和血清小细胞外囊泡蛋白质组学特征：一项探索性SWE和蛋白质组学研究",
           "researchQuestion": "探索子宫腺肌病相关不孕中连接区硬度（通过剪切波弹性成像测量）和血清小细胞外囊泡蛋白质组学特征，并评估无创评估方法的潜力。",
@@ -207,7 +198,16 @@
           "clinicalInterpretation": "SWE可能作为评估子宫腺肌病相关不孕子宫变化的无创方法；ECM相关蛋白失调伴随连接区硬度增加，但该结果仍处于探索阶段，有待验证。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "e0fb82aae53c4a01db996fd8310c7f1ec7f84bb59e10dc5a80bd87ace1d0a172"
+        "summaryInputHash": "e0fb82aae53c4a01db996fd8310c7f1ec7f84bb59e10dc5a80bd87ace1d0a172",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42633449",
@@ -237,15 +237,6 @@
         "matchedTopicIds": [
           "endometriosis-benign-gynecology"
         ],
-        "assignedTopicId": "endometriosis-benign-gynecology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "西班牙裔女性对子宫内膜异位症护理可及性的感知：一项横断面调查",
           "researchQuestion": "评估西班牙裔和非西班牙裔子宫内膜异位症女性对护理可及性的感知，并比较转诊经历、经济障碍、地理可及性和专科医生可及性。",
@@ -257,7 +248,16 @@
           "clinicalInterpretation": "西班牙裔受访者，特别是居住在美国境外的，报告了更多子宫内膜异位症护理障碍，包括专科医生可及性受限、转诊困难、经济负担和旅行负担；这些发现提示未来干预的可能方向，如转诊途径、专科医生可用性和患者导航，值得进一步评估。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "9471a7d39d99b410e95bab4b01b57485e564c94430b2ac82523cb715dabf7171"
+        "summaryInputHash": "9471a7d39d99b410e95bab4b01b57485e564c94430b2ac82523cb715dabf7171",
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       }
     ]
   }
