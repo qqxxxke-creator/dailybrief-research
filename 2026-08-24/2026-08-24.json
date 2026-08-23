@@ -1,0 +1,264 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-08-23T22:31:51.863Z",
+    "dataAsOf": "2026-08-23T22:31:51.863Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及IVF中黄体期支持联合孕激素给药与单一途径给药的比较：当前证据的叙述性综述、大型继发性脐部子宫内膜异位症（Villar结节）：病例报告、LncRNA驱动的选择性剪接景观与卵巢癌生存结局相关。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42633053",
+        "pmid": "42633053",
+        "doi": "10.18502/jri.v27i1.22114",
+        "title": "Combined Progesterone Administration Versus Single-Route Administration for Luteal Phase Support in IVF: A Narrative Review of Current Evidence.",
+        "abstract": "BACKGROUND: Luteal phase support (LPS) with progesterone is essential for successful implantation and early pregnancy maintenance in IVF cycles. Although various administration routes exist (oral, vaginal, intramuscular, subcutaneous), the comparative effectiveness of combined (dual or triple) versus single-route progesterone regimens remains uncertain due to limited high-quality randomized controlled trials.\nMETHODS: A narrative review was conducted to evaluate studies comparing pregnancy outcomes in IVF cycles using combined versus single-route progesterone administration for LPS. A comprehensive literature search was performed to identify retrospective, prospective, and randomized controlled studies published in peer-reviewed journals. Data regarding clinical pregnancy, live birth, miscarriage, and implantation rates were collected and synthesized narratively due to heterogeneity among included studies.\nRESULTS: Most studies did not demonstrate statistically significant differences in outcomes between single-route and combined progesterone regimens, particularly when dydrogesterone was included. However, certain combinations, especially those involving oral dydrogesterone alongside vaginal or intramuscular progesterone, were associated with improved live birth and clinical pregnancy rates. Despite these encouraging findings, the lack of adequately powered RCTs and the methodological variability among studies limit the generalizability of the results.\nCONCLUSION: While single-route progesterone administration remains effective for luteal phase support in IVF cycles, emerging evidence suggests that individualized combined regimens may enhance pregnancy outcomes. The physiological rationale for combined administration, offering both systemic and local endometrial support, is compelling. Further well-designed randomized controlled trials with standardized protocols are necessary to establish evidence-based guidelines for optimal LPS.",
+        "journal": "Journal of reproduction & infertility",
+        "authors": [
+          "Dimitrios Tourlakis",
+          "Georgios Valsamakis",
+          "Nikolaos Vlahos",
+          "Olga Triantafyllidou",
+          "Panagiotis Vakas",
+          "Vasiliki Dourou"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-01-01T00:00:00.000Z",
+        "activityAt": "2026-08-23T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42633053/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "IVF中黄体期支持联合孕激素给药与单一途径给药的比较：当前证据的叙述性综述",
+          "researchQuestion": "比较IVF周期中联合（双重或三重）与单一途径孕激素给药用于黄体期支持的效果是否存在差异。",
+          "studyDesign": "叙述性综述",
+          "populationAndSample": "纳入已发表的回顾性、前瞻性和随机对照研究；具体样本量摘要未报告。",
+          "methods": "进行全面文献检索；收集临床妊娠、活产、流产和着床率数据；因纳入研究存在异质性，采用叙述性方法进行综合。",
+          "keyResults": "大多数研究未显示单一途径与联合孕激素方案在妊娠结局上有统计学显著差异，特别是包含地屈孕酮时；某些联合方案（尤其是口服地屈孕酮联合阴道或肌内孕激素）与改善的活产率和临床妊娠率相关；但缺乏足够效力的随机对照试验及方法学异质性限制了结果的可推广性。",
+          "limitations": "缺乏足够效力的随机对照试验；纳入研究的方法学差异；结果普适性受限。",
+          "clinicalInterpretation": "单一途径孕激素给药在IVF黄体期支持中仍然有效；个体化联合方案可能改善妊娠结局，但需要更多设计良好的随机对照试验来验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "426a8dd145091ac38a6eaa813b003d06cff0c6a6a9595a72da0bcd66ec1debfc"
+      },
+      {
+        "id": "pmid:42633119",
+        "pmid": "42633119",
+        "doi": "10.1002/ccr3.73397",
+        "title": "A Large Secondary Umbilical Endometriosis (Villar's Nodule): A Case Report.",
+        "abstract": "Umbilical endometriosis is a rare extrapelvic manifestation of endometriosis, presenting diagnostic and surgical challenges. We report a case of a 43-year-old woman with a history of two cesarean sections who presented with a progressively enlarging, painful umbilical mass associated with cyclical symptoms and bloody discharge. The primary objective of this report is to highlight the diagnostic pitfalls and surgical decision-making in large umbilical endometriosis. Preoperative evaluation suggested an irreducible umbilical hernia. Surgical exploration revealed a large lesion extending to the fascia, which was completely excised and subsequently confirmed as umbilical endometriosis on histopathology. This case underscores the importance of including umbilical endometriosis in the differential diagnosis of umbilical masses in women of reproductive age.",
+        "journal": "Clinical case reports",
+        "authors": [
+          "Amirmohammad Khodaei",
+          "Babak Mamaghani",
+          "Mohsen Hasanzadeh",
+          "Zeinab Shakibaee Fard"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-22T00:00:00.000Z",
+        "activityAt": "2026-08-23T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42633119/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "大型继发性脐部子宫内膜异位症（Villar结节）：病例报告",
+          "researchQuestion": "报告一例大型继发性脐部子宫内膜异位症病例，强调其诊断陷阱和手术决策。",
+          "studyDesign": "病例报告",
+          "populationAndSample": "1例43岁女性，有两次剖宫产史，表现为进行性增大的疼痛性脐部肿物，伴周期性症状和血性分泌物。",
+          "methods": "术前评估提示不可复性脐疝；手术探查发现延伸至筋膜的大病灶并完全切除；组织病理学检查确认为脐部子宫内膜异位症。",
+          "keyResults": "术前评估提示不可复性脐疝；手术切除的病灶经组织病理学证实为脐部子宫内膜异位症。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "在育龄期女性的脐部肿物鉴别诊断中，应考虑脐部子宫内膜异位症的可能性。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "13f719fbdfd9e7c3a75959679a477ca77542e65b63245f0c186515e915e25dad"
+      },
+      {
+        "id": "pmid:42633203",
+        "pmid": "42633203",
+        "doi": "10.1016/j.ncrna.2026.06.002",
+        "title": "LncRNA-driven alternative splicing landscapes associate with survival outcomes in ovarian cancer.",
+        "abstract": "Ovarian cancer (OV) has the highest mortality rate among gynecological malignancies, with limited improvement in survival despite emerging treatments, underscoring an urgent need for novel diagnostic and therapeutic targets. Alternative splicing (AS) plays critical roles in OV progression, and long non-coding RNAs (lncRNAs) have recently been implicated as splicing regulators in tumor development. However, the landscape of lncRNA-mediated splicing dysregulation in OV remains unexplored. Here, we performed a genome-wide analysis integrating 207 differentially expressed lncRNAs and 1201 abnormal AS events from OV transcriptomes, identifying 2545 co-expression pairs. By constructing multi-layer regulatory networks incorporating splicing factors, transcription factors, and microRNAs, and applying a restart random walk algorithm seeded with oncogenes, we prioritized 29 hub splicing-regulatory lncRNAs, of which 15 are significantly associated with OV survival. This study provides novel lncRNA biomarkers and mechanistic insights into splicing dysregulation in OV.",
+        "journal": "Non-coding RNA research",
+        "authors": [
+          "Jian Zhao",
+          "Jing Wu",
+          "Jingjing Liu",
+          "Qiong Wu",
+          "Shan He",
+          "Xiaofeng Song",
+          "Yan Cao",
+          "Yixuan Wang",
+          "Yuan Xie"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-13T00:00:00.000Z",
+        "activityAt": "2026-08-23T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42633203/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "LncRNA驱动的选择性剪接景观与卵巢癌生存结局相关",
+          "researchQuestion": "探索卵巢癌中lncRNA介导的选择性剪接失调景观及其与生存结局的关联。",
+          "studyDesign": "基因组范围分析（生物信息学研究）",
+          "populationAndSample": "卵巢癌转录组数据；具体患者数摘要未报告；涉及207个差异表达lncRNAs和1201个异常选择性剪接事件。",
+          "methods": "整合207个差异表达lncRNAs和1201个异常AS事件，识别2545个共表达对；构建包含剪接因子、转录因子和microRNA的多层调控网络；应用以癌基因种子化的重启随机游走算法；优先筛选枢纽剪接调控lncRNAs。",
+          "keyResults": "共获得2545个共表达对；筛选出29个枢纽剪接调控lncRNAs，其中15个与卵巢癌生存显著相关。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "研究提供了新的lncRNA生物标志物以及卵巢癌剪接失调的机制见解，为潜在诊断和治疗靶点提供了参考，但需进一步验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "5c801b7e4c88880635e4adf03343a89dc69c06d23741ecdc9a78f75526996c87"
+      },
+      {
+        "id": "pmid:42633444",
+        "pmid": "42633444",
+        "doi": "10.2147/ijwh.s616756",
+        "title": "Increased Junctional Zone Stiffness and Serum Small Extracellular Vesicle Proteomic Signatures in Adenomyosis-Associated Infertility: An Exploratory SWE and Proteomic Study.",
+        "abstract": "BACKGROUND: This study proposed a non-invasive approach combining shear wave elastography (SWE) to measure junctional zone (JZ) stiffness and serum small extracellular vesicle (sEV) proteomics to explore molecular alterations in adenomyosis-associated infertility.\nMETHODS: SWE was used to measure JZ stiffness in patients with adenomyosis-associated infertility (n=16) and healthy controls (n=8). An exploratory machine-learning analysis using a support vector classifier and SHAP-based interpretability was performed. For proteomic discovery analysis, four samples were randomly selected from each group. Serum sEVs were isolated from both groups, characterized, and proteomic analysis was conducted.\nRESULTS: SWE measurements revealed a significant increase in JZ shear wave velocity in patients with adenomyosis-associated infertility, indicating increased tissue stiffness. Serum proteomic analysis identified 37 downregulated proteins in patients with adenomyosis-associated infertility compared with healthy controls (discovery cohort, n=4 per group). GO enrichment analysis highlighted key terms such as mesoderm development, cell-substrate adhesion, and collagen binding. KEGG analysis identified significant pathways, including extracellular matrix (ECM)-receptor interaction and PI3K-Akt signaling. MSigDB C2 enrichment analysis showed consistent enrichment of ECM- and cell adhesion-related pathways, involving GRB2, ANGPT1, ITGA5, and ITGB1, all of which were downregulated in the adenomyosis-associated infertility group compared with healthy controls.\nCONCLUSION: ECM-related protein dysregulation accompanied by increased JZ stiffness highlights the potential of SWE as a noninvasive approach for assessing uterine changes in this condition. These findings are preliminary and exploratory, requiring validation in larger independent cohorts, and no causal, diagnostic, or mechanistic conclusions can be drawn.",
+        "journal": "International journal of women's health",
+        "authors": [
+          "Guorong Lyu",
+          "Shuangping Deng",
+          "Xiali Wang",
+          "Xiaoping Pan"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-18T00:00:00.000Z",
+        "activityAt": "2026-08-23T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42633444/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine",
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "子宫腺肌病相关不孕中连接区硬度增加和血清小细胞外囊泡蛋白质组学特征：一项探索性SWE和蛋白质组学研究",
+          "researchQuestion": "探索子宫腺肌病相关不孕中连接区硬度（通过剪切波弹性成像测量）和血清小细胞外囊泡蛋白质组学特征，并评估无创评估方法的潜力。",
+          "studyDesign": "探索性研究（SWE和蛋白质组学分析）",
+          "populationAndSample": "子宫腺肌病相关不孕患者16例，健康对照8例；蛋白质组学发现分析每组随机选取4例。",
+          "methods": "使用SWE测量连接区硬度；进行基于支持向量分类器和SHAP可解释性的探索性机器学习分析；分离血清小细胞外囊泡并表征，进行蛋白质组学分析；开展GO、KEGG和MSigDB C2富集分析。",
+          "keyResults": "子宫腺肌病相关不孕患者的连接区剪切波速度显著增加，提示组织硬度增加；与健康对照相比，发现37个下调蛋白（发现队列每组4例）；GO富集包括中胚层发育、细胞-基质粘附、胶原结合；KEGG通路包括细胞外基质-受体相互作用和PI3K-Akt信号；MSigDB C2显示ECM和细胞粘附相关通路一致富集，涉及GRB2、ANGPT1、ITGA5和ITGB1下调。",
+          "limitations": "初步探索性发现，需在更大独立队列中验证；不能得出因果、诊断或机制性结论。",
+          "clinicalInterpretation": "SWE可能作为评估子宫腺肌病相关不孕子宫变化的无创方法；ECM相关蛋白失调伴随连接区硬度增加，但该结果仍处于探索阶段，有待验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "e0fb82aae53c4a01db996fd8310c7f1ec7f84bb59e10dc5a80bd87ace1d0a172"
+      },
+      {
+        "id": "pmid:42633449",
+        "pmid": "42633449",
+        "doi": "10.7759/cureus.113230",
+        "title": "Perceived Access to Endometriosis Care Among Hispanic Women: A Cross-Sectional Survey.",
+        "abstract": "Primary objective We evaluated perceived access to endometriosis-related care among Hispanic and non-Hispanic women with endometriosis. Secondary objectives We compared referral experiences, financial barriers, geographic access, and specialist access between Hispanic and non-Hispanic women and between women residing within and outside of the United States. Design This was a cross-sectional, anonymous, web-based survey. Setting This was an international, online survey including participants in and outside of the United States. Participants A total of 288 adults aged ≥18 years with suspected or confirmed endometriosis, fluent in English or Spanish, were recruited in the study. Interventions None. Measurements and main results The primary outcome was perceived access to care. Across all groups, fewer than one-third of respondents reported adequate access to knowledgeable endometriosis clinicians, with no significant differences observed when comparing U.S. Hispanic (p=0.99) or non-U.S. Hispanic (p=0.10) participants to the U.S. non-Hispanic reference group. Secondary outcomes revealed significant differences in access-related experiences between groups. Hispanic participants were less likely to have been evaluated by an endometriosis specialist when comparing non-U.S. Hispanics and U.S. non-Hispanics only: 47 (55%) vs. 92 (75%), respectively (p=0.002). Diagnostic delays were common, with most participants reporting more than five years between symptom onset and diagnosis. Although not significant, approximately one-third or more of participants across groups reported consulting more than five providers before diagnosis (9 (32%) U.S. Hispanics to 33 (65%) non-U.S. non-Hispanics). Difficulty obtaining referrals was more commonly reported among Hispanic respondents, as seen in 17 (61%) U.S. Hispanics and 68 (79%) non-U.S. Hispanics reporting difficulty compared to 49 (40%) U.S. non-Hispanics (p=0.04 and p<0.001, respectively). Non-U.S. Hispanics reported greater financial barriers, 60 (70%) non-U.S. Hispanics to 65 (53%) U.S. non-Hispanics (p=0.01). Geographic access varied: U.S. Hispanics were less likely to require out-of-state travel, 2 (7%) U.S. Hispanics to 32 (26%) U.S. non-Hispanics (p=0.04), whereas non-U.S. Hispanics more often required cross-border travel, with 34 (40%) to 32 (26%) U.S. non-Hispanics (p=0.04). Conclusion Hispanic respondents in this survey, particularly those living outside the US, reported substantial barriers to endometriosis care, including limited specialist access, referral challenges, financial strain, and travel burden. These findings suggest potential targets for future interventions, including referral pathways, specialist availability, and patient navigation, which warrant further evaluation.",
+        "journal": "Cureus",
+        "authors": [
+          "Courtney Chalmers",
+          "Courtney Mascoe",
+          "Diana Encalada-Soto",
+          "Eliana M Burgos",
+          "Emad Mikhail",
+          "Jason Salemi",
+          "Jean P Tanner"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-07-23T00:00:00.000Z",
+        "activityAt": "2026-08-23T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42633449/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "西班牙裔女性对子宫内膜异位症护理可及性的感知：一项横断面调查",
+          "researchQuestion": "评估西班牙裔和非西班牙裔子宫内膜异位症女性对护理可及性的感知，并比较转诊经历、经济障碍、地理可及性和专科医生可及性。",
+          "studyDesign": "横断面、匿名、在线调查（国际）",
+          "populationAndSample": "288名≥18岁、疑似或确诊子宫内膜异位症、英语或西班牙语流利的成年人，包括美国境内和境外参与者。",
+          "methods": "在线调查；主要结局为感知的护理可及性；次要结局包括转诊经历、经济障碍、地理可及性和专科医生可及性；使用p值进行组间比较。",
+          "keyResults": "所有组中不足三分之一的受访者报告可充分获得知识渊博的子宫内膜异位症临床医生；与美籍非西班牙裔相比，美籍西班牙裔（p=0.99）和非美籍西班牙裔（p=0.10）无显著差异。非美籍西班牙裔接受专科医生评估的比例低于美籍非西班牙裔（55% [47/85] vs 75% [92/123]，p=0.002）。大多数参与者报告症状出现到诊断超过五年。诊断前咨询超过5个提供者的比例为32%~65%。转诊困难在西班牙裔中更常见：美籍西班牙裔61% [17/28]，非美籍西班牙裔79% [68/86]，美籍非西班牙裔40% [49/122]（p=0.04和p<0.001）。经济障碍：非美籍西班牙裔70% [60/86] vs 美籍非西班牙裔53% [65/122]，p=0.01。地理可及性：美籍西班牙裔需要州外旅行比例较低（7% [2/28] vs 26% [32/122]，p=0.04）；非美籍西班牙裔需要跨境旅行比例较高（40% [34/85] vs 26% [32/122]，p=0.04）。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "西班牙裔受访者，特别是居住在美国境外的，报告了更多子宫内膜异位症护理障碍，包括专科医生可及性受限、转诊困难、经济负担和旅行负担；这些发现提示未来干预的可能方向，如转诊途径、专科医生可用性和患者导航，值得进一步评估。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "9471a7d39d99b410e95bab4b01b57485e564c94430b2ac82523cb715dabf7171"
+      }
+    ]
+  }
+}
