@@ -1,0 +1,223 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-08-24T22:36:52.603Z",
+    "dataAsOf": "2026-08-24T22:36:52.603Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及PD-L1表达在卵巢癌中的预后影响：一项接受原发性铂类化疗的真实世界队列分析、Maternal Morbidity and Adverse Fetal Outcomes in a Prospective North Indian Pregnancy Cohort.、Endometriosis-Associated Implantation Failure: Pathophysiology, Biomarkers, and Emerging Therapeutic Strategies.。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42634178",
+        "pmid": "42634178",
+        "doi": "10.1002/cam4.72216",
+        "title": "Prognostic Impact of PD-L1 Expression in Ovarian Cancer: Analysis of a Real-World Cohort Treated With Primary Platinum-Based Chemotherapy.",
+        "abstract": "BACKGROUND: Programmed death-ligand 1 (PD-L1) has emerged as a potential biomarker for prognosis and treatment response in various solid tumors. However, its clinical relevance in ovarian carcinoma (OC) remains unclear, with published studies reporting inconsistent associations with platinum sensitivity and survival. These discrepancies are likely related to the biological heterogeneity of OC and methodological variability in PD-L1 evaluation. In the absence of a standardized, OC-specific assessment methodology, the Combined Positive Score (CPS) with cutoffs of ≥ 1 and ≥ 10, applied in other tumor types, represents a pragmatic approach.\nMETHODS: We retrospectively analyzed a real-world cohort of 146 patients with ovarian carcinoma treated with primary platinum-based chemotherapy at University Hospital Brno between 2010 and 2020. PD-L1 expression was assessed using the 22C3 antibody and CPS methodology on archival, treatment-naive tumor samples obtained from primary tumors or metastatic lesions. Associations between PD-L1 status, platinum treatment-free interval (TFIp), and disease-specific survival (DSS) were evaluated, including subgroup analyses by histological subtypes.\nRESULTS: Among the 144 evaluable cases, 65 patients (45%) demonstrated positive PD-L1 expression (CPS ≥ 1), while 35 patients (24%) exhibited strong positive expression (CPS ≥ 10). In the high-grade serous carcinoma (HGSC) subgroup, CPS ≥ 1 and CPS ≥ 10 were detected in 58/121 (48%) and 30/121 (25%) cases, respectively. PD-L1 positivity did not differ significantly between HGSC and non-HGSC subtypes or between primary and metastatic lesions. PD-L1 positivity defined as CPS ≥ 10 was significantly associated with platinum sensitivity (TFIp ≥ 6 months; p = 0.035 overall; p = 0.028 in HGSC) and longer DSS (p = 0.029). No associations were observed when PD-L1 positivity was defined using a CPS ≥ 1 cutoff.\nCONCLUSIONS: PD-L1 expression assessed by CPS, particularly at a cutoff of ≥ 10, may have prognostic relevance in ovarian cancer and could help identify patients more likely to benefit from platinum-based chemotherapy. Prospective validation is warranted.",
+        "journal": "Cancer medicine",
+        "authors": [
+          "Jitka Hausnerova",
+          "Kvetoslava Matulova",
+          "Leos Kren",
+          "Lubos Minar",
+          "Lucie Ehrlichova",
+          "Marketa Bednarikova",
+          "Michal Felsinger",
+          "Monika Nalezinska",
+          "Ondrej Slaby",
+          "Petra Ovesna",
+          "Vit Weinberger"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-01T00:00:00.000Z",
+        "activityAt": "2026-08-24T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42634178/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "PD-L1表达在卵巢癌中的预后影响：一项接受原发性铂类化疗的真实世界队列分析",
+          "researchQuestion": "探讨卵巢癌中PD-L1表达（以CPS≥1和CPS≥10为阈值）与铂类治疗无间期（TFIp）及疾病特异性生存（DSS）的关联，并评估不同组织学亚型中的差异。",
+          "studyDesign": "回顾性真实世界队列分析",
+          "populationAndSample": "2010-2020年间在布尔诺大学医院接受原发性铂类化疗的146例卵巢癌患者，其中144例可评估；包括高级别浆液性癌（HGSC）亚组（121例）。",
+          "methods": "使用22C3抗体和CPS方法对存档的、治疗初治的原发肿瘤或转移灶样本进行PD-L1表达评估。分析PD-L1状态与铂类治疗无间期（TFIp）和疾病特异性生存（DSS）的关联，并按组织学亚型进行亚组分析。",
+          "keyResults": "144例可评估病例中，65例（45%）PD-L1阳性（CPS≥1），35例（24%）强阳性（CPS≥10）。HGSC亚组中，CPS≥1和CPS≥10分别见于58/121（48%）和30/121（25%）。PD-L1阳性在HGSC与非HGSC之间以及原发灶与转移灶之间无显著差异。以CPS≥10定义的PD-L1阳性与铂类敏感性（TFIp≥6个月；总体p=0.035；HGSC中p=0.028）和更长DSS（p=0.029）显著相关；以CPS≥1为截点时未观察到关联。",
+          "limitations": "摘要未报告明确的局限性。",
+          "clinicalInterpretation": "以CPS≥10为阈值的PD-L1表达可能对接受铂类化疗的卵巢癌患者具有预后参考价值，可能有助于识别更可能从铂类化疗中获益的患者；该结果需前瞻性验证，应谨慎解读。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "a53d41316e5620df4966869ea58f96d2377de2c86ba29b3bc983e7aedca3d01c"
+      },
+      {
+        "id": "pmid:42634384",
+        "pmid": "42634384",
+        "doi": "10.1002/ajhb.70324",
+        "title": "Maternal Morbidity and Adverse Fetal Outcomes in a Prospective North Indian Pregnancy Cohort.",
+        "abstract": "OBJECTIVES: Despite declining maternal mortality in India, pregnancy-related morbidity remains high, with potential implications for fetal growth and development in a population undergoing rapid epidemiological transition. This study estimated the prevalence of major maternal complications and adverse fetal outcomes and examined their independent and combined associations in a post-pandemic cohort in New Delhi, North India.\nMETHODS: In this prospective cohort study (2023-2025), 1005 pregnant women (≤ 12 weeks gestation) were recruited from a tertiary-care public hospital in New Delhi, North India; 596 (59.3%) were followed to pregnancy outcome. Maternal complications ascertained were gestational diabetes mellitus (GDM), gestational hypertension (GHTN), intrahepatic cholestasis of pregnancy (IHCP), and prelabor rupture of membranes (PROM). Adverse birth outcomes, assessed among live births, comprised preterm birth and small-for-gestational-age (SGA) while adverse pregnancy outcomes included pregnancy loss and stillbirth. Multivariable logistic regression examined independent and combined associations, adjusting for maternal age, body mass index (BMI), and co-morbid complications.\nRESULTS: Pregnancy complications affected 51.3% of women, including GDM (28.7%), GHTN (13.8%), IHCP (13.2%), and PROM (8.9%). IHCP prevalence was nearly three times higher than previous North Indian estimates. Pregnancy loss occurred in 21.1% of women, while adverse birth outcomes were observed in 37.9% of live births, primarily SGA (24.5%) and preterm birth (13.5%). GHTN was the only complication independently associated with adverse birth outcomes (adjusted odds ratio [aOR] 1.92; 95% CI 1.12-3.29) and preterm birth (aOR 2.54; 95% CI 1.26-5.14). Coexisting GDM and GHTN markedly amplified risk, with aORs of 2.70 (95% CI 1.17-6.21) for adverse birth outcomes and 4.64 (95% CI 1.74-12.36) for preterm birth.\nCONCLUSIONS: GHTN was the sole independent predictor of adverse fetal outcomes, with risk substantially amplified by coexisting GDM. The unexpectedly high IHCP prevalence warrants multicenter investigation. These findings highlight the importance of maternal health for fetal outcomes and support integrated first-trimester screening for hypertensive and metabolic disorders.",
+        "journal": "American journal of human biology : the official journal of the Human Biology Council",
+        "authors": [
+          "Archna Yadav",
+          "Kallur Nava Saraswathy",
+          "Manju Puri",
+          "Naorem Kiranmala Devi",
+          "Priyosmita Das",
+          "Saheli Dey",
+          "Suniti Yadav"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-01T00:00:00.000Z",
+        "activityAt": "2026-08-24T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42634384/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42634624",
+        "pmid": "42634624",
+        "doi": "10.7759/cureus.113299",
+        "title": "Endometriosis-Associated Implantation Failure: Pathophysiology, Biomarkers, and Emerging Therapeutic Strategies.",
+        "abstract": "Implantation failure remains a major challenge in assisted reproductive technology (ART) and is a significant contributor to infertility in women with endometriosis. Beyond mechanical distortion and ovarian dysfunction, increasing evidence suggests that endometriosis profoundly alters endometrial receptivity through complex inflammatory, immunological, and molecular mechanisms. Chronic inflammation, progesterone resistance, dysregulated immune cell populations, and aberrant cytokine signaling converge to create a hostile endometrial microenvironment that compromises embryo-endometrial crosstalk and implantation success. This narrative review provides a comprehensive overview of the pathophysiological pathways linking endometriosis to implantation failure, with particular emphasis on immune dysregulation and defects in endometrial receptivity. We summarize the current evidence regarding key immune cell populations, including uterine natural killer (uNK) cells and macrophages, and their role in modulating implantation. We further discuss established and emerging biomarkers of impaired receptivity, including BCL6, integrins, endometrial receptivity assays, and epigenetic markers, highlighting their diagnostic potential and current limitations. Finally, we review contemporary and emerging therapeutic strategies aimed at restoring endometrial receptivity in women with endometriosis-associated implantation failure. These include hormonal pretreatment protocols, immunomodulatory approaches, and novel regenerative therapies such as platelet-rich plasma (PRP) and granulocyte colony-stimulating factor (G-CSF). By integrating mechanistic insights with clinical evidence, this review aims to provide a practical framework for the personalized management of implantation failure in women with endometriosis and to identify key directions for future research in this rapidly evolving field.",
+        "journal": "Cureus",
+        "authors": [
+          "Charikleia Papageorgiou",
+          "Chrysi Christodoulaki",
+          "Nikolaos Machairiotis",
+          "Periklis Panagopoulos",
+          "Vaia Sarli"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-07-24T00:00:00.000Z",
+        "activityAt": "2026-08-24T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42634624/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology",
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42634684",
+        "pmid": "42634684",
+        "doi": "10.2147/ijwh.s568256",
+        "title": "Prevention of Venous Thromboembolism in Patients with Ovarian Cancer: The State of the Research.",
+        "abstract": "Ovarian cancer (OC) remains one of the most lethal gynaecological malignancies worldwide, largely due to the absence of effective screening strategies, which frequently results in diagnosis at advanced stages of disease, together with the development of chemoresistance. Moreover, clinical outcomes are significantly compromised by cancer-associated thrombosis (CAT), particularly venous thromboembolism (VTE), which is a major cause of morbidity and mortality in this population. Despite the well-established association between OC and VTE, evidence on thromboprophylaxis remains fragmented. This comprehensive narrative review focuses on the prevention of VTE in OC patients, examining the epidemiology, risk factors, underlying pathophysiological mechanisms, emerging biomarkers, current thromboprophylaxis strategies and further clinical implications. The available evidence indicates a consistently high incidence of VTE across all disease stages, with particularly elevated risk during chemotherapy and among specific histological subtypes, notably clear cell tumours. Established clinical risk factors are supported by consistent evidence across studies, while coagulation abnormalities appear to reflect tumour aggressiveness, highlighting the close interplay between thrombosis and OC biology. Among the biomarkers investigated, D-dimer is the most consistently validated marker for VTE prediction and diagnosis, whereas the clinical utility of emerging biomarkers and currently available risk assessment models, including the Khorana score, remains limited by inconsistent performance and insufficient external validation. Although thromboprophylaxis may offer benefit in selected high-risk groups, uncertainties remain regarding optimal patient selection, timing, and therapeutic approaches. The predominance of retrospective, single-centre studies and heterogeneous patient cohorts further constrains the current evidence base. Future research should prioritise large, prospective, multicentre investigations, the development and external validation of OC-specific risk prediction models, and well-designed clinical trials evaluating personalised thromboprophylaxis strategies to reduce the burden of VTE and improve clinical outcomes in OC patients.",
+        "journal": "International journal of women's health",
+        "authors": [
+          "Rui Medeiros",
+          "Valéria Tavares"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-08-19T00:00:00.000Z",
+        "activityAt": "2026-08-24T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42634684/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42634955",
+        "pmid": "42634955",
+        "doi": "10.1111/cpf.70088",
+        "title": "Cardiac volumes, function, and arterial stiffness five years after severe preeclampsia: A comparison with sedentary and active controls.",
+        "abstract": "AIMS: Preeclampsia is a pregnancy disorder characterized by hypertension and multiorgan failure related to endothelial damage. It is associated with increased risk of cardiovascular disease later in life, but pathophysiological mechanisms are unclear, and strategies to identify women at risk are missing. The aim was to investigate cardiovascular impact 5 years after severe preeclampsia, compared to normotensive pregnancies.\nMETHODS: The study was powered to detect approximately 5% difference between groups by cardiac magnetic resonance (CMR). Ten women experiencing severe preeclampsia, and 20 women with normotensive pregnancies were included: 10 lifestyle-matched and 10 physically active. Brachial blood pressure, echocardiography and CMR were performed 4-7 years after pregnancy.\nRESULTS: There was no difference in systolic or diastolic blood pressure, and all women were normotensive (103 vs. 106 vs. 108 mmHg, p = 0.67; and 66 vs. 66 vs. 64 mmHg, p = 0.78). Indexed left ventricular volumes were larger for active controls than for women with prior preeclampsia (98 vs. 84 mL/m 2 , p = 0.004; and 41 vs. 32 mL/m 2 , p = 0.01). Left ventricular mass, cardiac function and pulse wave velocity did not differ. No participant fulfilled the criteria for diastolic dysfunction.\nCONCLUSION: The difference in left ventricular volumes is most likely related to a physiological adaptation to exercise. The lack of persistent hypertension may be the factor explaining the absence of clinically significant differences between groups using routine investigations for cardiovascular structure and function, despite severe preeclampsia. Structured follow-up is essential to enable early diagnosis of hypertension after preeclampsia, as well as supporting an active and potentially protective lifestyle.",
+        "journal": "Clinical physiology and functional imaging",
+        "authors": [
+          "Ashwin Venkateshvaran",
+          "Camilla Edvinsson",
+          "Erik Hedström",
+          "Katarina Steding-Ehrenborg",
+          "Lena Erlandsson",
+          "Stefan R Hansson"
+        ],
+        "publicationTypes": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-01T00:00:00.000Z",
+        "activityAt": "2026-08-24T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42634955/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      }
+    ]
+  }
+}
