@@ -7,8 +7,8 @@
   "editor_note": "过去24小时暂无符合质量要求的重要更新。",
   "keywords": [],
   "research": {
-    "generatedAt": "2026-08-24T23:30:14.523Z",
-    "dataAsOf": "2026-08-24T23:30:14.523Z",
+    "generatedAt": "2026-08-24T23:50:30.803Z",
+    "dataAsOf": "2026-08-24T23:50:30.803Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及PD-L1表达在卵巢癌中的预后影响：一项接受原发性铂类化疗的真实世界队列分析、印度北部前瞻性妊娠队列中的孕产妇并发症与不良胎儿结局、子宫内膜异位症相关着床失败：病理生理、生物标志物与新兴治疗策略。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
@@ -94,16 +94,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "summaryStatus": "success",
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "印度北部前瞻性妊娠队列中的孕产妇并发症与不良胎儿结局",
           "researchQuestion": "估计主要孕产妇并发症和不良胎儿结局的患病率，并检查其独立和联合关联。",
@@ -114,7 +104,17 @@
           "limitations": "摘要未报告。",
           "clinicalInterpretation": "该研究提示GHTN是不良胎儿结局的唯一独立预测因素，合并GDM会显著放大风险；意外的高IHCP患病率需要多中心调查。研究结果强调孕产妇健康对胎儿结局的重要性，支持将高血压和代谢疾病纳入一体化早孕期筛查。"
         },
-        "summaryInputHash": "a75de1633150e4c1dbe353acf78a7bc9910f4ecbb6a6a370cdd06ad69e930466"
+        "summaryStatus": "success",
+        "summaryInputHash": "a75de1633150e4c1dbe353acf78a7bc9910f4ecbb6a6a370cdd06ad69e930466",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42634624",
@@ -144,16 +144,6 @@
           "endometriosis-benign-gynecology",
           "reproductive-medicine"
         ],
-        "summaryStatus": "success",
-        "assignedTopicId": "endometriosis-benign-gynecology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "子宫内膜异位症相关着床失败：病理生理、生物标志物与新兴治疗策略",
           "researchQuestion": "探讨子宫内膜异位症相关着床失败的病理生理通路、生物标志物及新兴治疗策略，重点关注免疫失调和子宫内膜容受性缺陷。",
@@ -164,7 +154,17 @@
           "limitations": "摘要未报告。",
           "clinicalInterpretation": "该综述旨在为子宫内膜异位症相关着床失败的个体化管理提供实用框架，并指出该快速演变领域未来的研究方向。"
         },
-        "summaryInputHash": "c00120137978efb9a03e7feb9207af11963bd2a5e25abc1a538f4bd9404b4229"
+        "summaryStatus": "success",
+        "summaryInputHash": "c00120137978efb9a03e7feb9207af11963bd2a5e25abc1a538f4bd9404b4229",
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42634684",
@@ -190,16 +190,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "summaryStatus": "success",
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "卵巢癌患者静脉血栓栓塞的预防：研究现状",
           "researchQuestion": "总结卵巢癌患者静脉血栓栓塞（VTE）预防的研究现状，涵盖流行病学、危险因素、病理生理机制、新兴生物标志物、当前预防策略及临床意义。",
@@ -210,7 +200,17 @@
           "limitations": "摘要指出当前证据以回顾性、单中心研究和异质性患者队列为主，限制了证据质量；风险评估模型缺乏外部验证。",
           "clinicalInterpretation": "该综述强调需要大型前瞻性多中心研究、开发并外部验证卵巢癌特异性风险预测模型，以及设计良好的临床试验来评估个体化血栓预防策略，以减轻VTE负担并改善卵巢癌患者结局。"
         },
-        "summaryInputHash": "bf566ca451fe16c56be4560dcb85c1f6a72b644c5b5edc1d3180a3e079517ccd"
+        "summaryStatus": "success",
+        "summaryInputHash": "bf566ca451fe16c56be4560dcb85c1f6a72b644c5b5edc1d3180a3e079517ccd",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42634955",
@@ -240,16 +240,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "summaryStatus": "success",
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "重度先兆子痫后五年的心脏体积、功能与动脉僵硬度：与静坐及运动对照组的比较",
           "researchQuestion": "调查重度先兆子痫后5年（产后4—7年）的心血管影响，并与正常血压妊娠进行比较。",
@@ -260,7 +250,17 @@
           "limitations": "摘要未报告。",
           "clinicalInterpretation": "作者认为左心室容积差异很可能与运动的生理适应有关；缺乏持续性高血压可能是尽管有重度先兆子痫但常规心血管结构和功能检查未显示临床显著差异的原因。结构化随访对于先兆子痫后早期诊断高血压以及支持积极且可能具有保护性的生活方式至关重要。"
         },
-        "summaryInputHash": "1a4177be6f4187d4572e16691ba0c5bc9fbe9ee6a258cf78221bc7e6be2d61d6"
+        "summaryStatus": "success",
+        "summaryInputHash": "1a4177be6f4187d4572e16691ba0c5bc9fbe9ee6a258cf78221bc7e6be2d61d6",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       }
     ]
   }
