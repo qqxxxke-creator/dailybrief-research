@@ -1,29 +1,14 @@
 {
-  "hero_headline": "多系统共存疾病显著增加妊娠不良结局风险",
-  "daily_overview": "今日仅有的一项国际妇产科动态显示，携带两种及以上长期健康问题的女性在妊娠期面临显著更高的流产与严重恶心呕吐风险。该证据提示孕前评估与多学科管理的重要性。本日暂无指南共识或手术前沿更新。",
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
   "tech_briefs": [],
   "finance_briefs": [],
-  "politics_briefs": [
-    {
-      "title": "Women with multiple long-term conditions face increased pregnancy risks",
-      "url": "https://medicalxpress.com/news/2026-08-women-multiple-term-conditions-pregnancy.html",
-      "source": "Medical Xpress Obstetrics & Gynecology",
-      "summary": "这项研究提示，女性在妊娠起始时若存在两种及以上既往长期躯体或心理健康问题，其流产风险增加20%，严重恶心呕吐风险增加69%。提示临床需重视孕前慢病综合评估与个体化妊娠管理，但原文未提供研究设计及人群细节。",
-      "importance": 7
-    }
-  ],
-  "editor_note": "多病共存对妊娠结局的影响值得关注，孕前多学科评估或成关键环节。",
-  "keywords": [
-    "妊娠风险",
-    "多病共存",
-    "流产",
-    "严重恶心呕吐",
-    "孕前评估",
-    "母胎医学"
-  ],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
   "research": {
-    "generatedAt": "2026-08-25T22:37:42.720Z",
-    "dataAsOf": "2026-08-25T22:37:42.720Z",
+    "generatedAt": "2026-08-25T23:33:19.037Z",
+    "dataAsOf": "2026-08-25T23:33:19.037Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及二甲双胍用于高代谢风险妊娠：一项患者层面荟萃分析、醋酸盐缓冲晶体液与乳酸盐缓冲晶体液在无法获得直肠NSAIDs患者中预防ERCP术后胰腺炎的比较：一项多中心双盲随机试验、父亲肥胖在胎儿发育、妊娠并发症和儿童结局中的作用：一项系统综述。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
@@ -80,15 +65,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 100,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "二甲双胍用于高代谢风险妊娠：一项患者层面荟萃分析",
           "researchQuestion": "确定二甲双胍是否能预防妊娠期糖尿病（GDM）和不良妊娠结局。",
@@ -100,7 +76,16 @@
           "clinicalInterpretation": "这项IPD荟萃分析显示，二甲双胍未与GDM风险降低相关，但与分娩时孕周增加相关。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "ade20d7b1ab822e7a5215ac74977694fb87bc1a406346feb394440a3c6ed9e83"
+        "summaryInputHash": "ade20d7b1ab822e7a5215ac74977694fb87bc1a406346feb394440a3c6ed9e83",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:42640715",
@@ -148,15 +133,6 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 23.75,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 98.75,
-          "evidenceRank": 0.95
-        },
         "summaryZh": {
           "titleZh": "醋酸盐缓冲晶体液与乳酸盐缓冲晶体液在无法获得直肠NSAIDs患者中预防ERCP术后胰腺炎的比较：一项多中心双盲随机试验",
           "researchQuestion": "在无法获得直肠NSAIDs的患者中，比较醋酸盐缓冲晶体液（AC）与乳酸盐林格液（LR）对ERCP术后胰腺炎（PEP）的预防效果。",
@@ -168,7 +144,16 @@
           "clinicalInterpretation": "该优效性试验显示，醋酸盐缓冲晶体液未比乳酸盐林格液降低PEP，两者安全性无显著差异。作者据此认为，在无法获得直肠NSAIDs时，乳酸盐林格液仍是积极补液的首选晶体液。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "2e6577a11008a682f90a031ecb59357c1d4f4ed89f842e8251916114b0e85f25"
+        "summaryInputHash": "2e6577a11008a682f90a031ecb59357c1d4f4ed89f842e8251916114b0e85f25",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        }
       },
       {
         "id": "pmid:42639992",
@@ -194,15 +179,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 6,
-          "recency": 10,
-          "total": 91,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "父亲肥胖在胎儿发育、妊娠并发症和儿童结局中的作用：一项系统综述",
           "researchQuestion": "在健康与疾病发育起源（DOHaD）框架内，评估父亲肥胖对胎儿发育和妊娠并发症的影响。",
@@ -214,7 +190,16 @@
           "clinicalInterpretation": "父亲肥胖可能是胎儿发育和妊娠结局的重要风险因素，在孕前保健策略中应考虑。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "d711256aef946f93d60dcae5dfe368940afcbcd2cee0952d988e46c2822be2a7"
+        "summaryInputHash": "d711256aef946f93d60dcae5dfe368940afcbcd2cee0952d988e46c2822be2a7",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 6,
+          "recency": 10,
+          "total": 91,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:42638028",
@@ -241,15 +226,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "加权基因共表达网络分析和机器学习揭示USP1驱动宫颈癌细胞脂质代谢和巨噬细胞极化",
           "researchQuestion": "探索去泛素化酶泛素特异性蛋白酶1（USP1）在宫颈癌脂质代谢和巨噬细胞极化中的作用及机制。",
@@ -261,7 +237,16 @@
           "clinicalInterpretation": "本研究发现USP1敲低可抑制宫颈癌生长和TAM M2极化，提示USP1可能成为宫颈癌治疗的一个有前景的靶点。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "d52968c20415417e419b5313e72f0a27d10da9f33a3cb8e778fa2e4c2be48c39"
+        "summaryInputHash": "d52968c20415417e419b5313e72f0a27d10da9f33a3cb8e778fa2e4c2be48c39",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42638531",
@@ -293,15 +278,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "基于未处理尿液中代谢生物标志物的比色分析用于宫颈癌快速居家诊断",
           "researchQuestion": "开发一种通过尿液代谢生物标志物比色分析进行宫颈癌快速居家诊断的方法。",
@@ -313,7 +289,16 @@
           "clinicalInterpretation": "该研究提出了一种基于尿液硫醇比色分析的居家宫颈癌诊断工具，但具体性能和应用价值仍需进一步验证。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "d347ba5e1c5d64956042acf800ea2e6c30cb49a6bb946d15066dce2ae6997f7d"
+        "summaryInputHash": "d347ba5e1c5d64956042acf800ea2e6c30cb49a6bb946d15066dce2ae6997f7d",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       }
     ]
   }
