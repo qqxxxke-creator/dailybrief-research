@@ -1,0 +1,320 @@
+{
+  "hero_headline": "多系统共存疾病显著增加妊娠不良结局风险",
+  "daily_overview": "今日仅有的一项国际妇产科动态显示，携带两种及以上长期健康问题的女性在妊娠期面临显著更高的流产与严重恶心呕吐风险。该证据提示孕前评估与多学科管理的重要性。本日暂无指南共识或手术前沿更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [
+    {
+      "title": "Women with multiple long-term conditions face increased pregnancy risks",
+      "url": "https://medicalxpress.com/news/2026-08-women-multiple-term-conditions-pregnancy.html",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "这项研究提示，女性在妊娠起始时若存在两种及以上既往长期躯体或心理健康问题，其流产风险增加20%，严重恶心呕吐风险增加69%。提示临床需重视孕前慢病综合评估与个体化妊娠管理，但原文未提供研究设计及人群细节。",
+      "importance": 7
+    }
+  ],
+  "editor_note": "多病共存对妊娠结局的影响值得关注，孕前多学科评估或成关键环节。",
+  "keywords": [
+    "妊娠风险",
+    "多病共存",
+    "流产",
+    "严重恶心呕吐",
+    "孕前评估",
+    "母胎医学"
+  ],
+  "research": {
+    "generatedAt": "2026-08-25T22:37:42.720Z",
+    "dataAsOf": "2026-08-25T22:37:42.720Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及二甲双胍用于高代谢风险妊娠：一项患者层面荟萃分析、醋酸盐缓冲晶体液与乳酸盐缓冲晶体液在无法获得直肠NSAIDs患者中预防ERCP术后胰腺炎的比较：一项多中心双盲随机试验、父亲肥胖在胎儿发育、妊娠并发症和儿童结局中的作用：一项系统综述。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42640169",
+        "pmid": "42640169",
+        "doi": "10.1056/evidoa2500337",
+        "title": "Metformin in High Metabolic Risk Pregnancies - A Patient-Level Meta-Analysis.",
+        "abstract": "BACKGROUND: The goal of this study was to determine whether metformin prevents gestational diabetes (GDM) and adverse pregnancy outcomes.\nMETHODS: We searched Medline/Medline In-Process, Embase, and Evidence-Based Medicine Reviews databases through May 9, 2025, to identify double-blind randomized placebo-controlled trials using metformin in pregnancies without diabetes. Predefined primary maternal outcomes were GDM and glycemic indices from oral glucose tolerance tests (OGTTs). Primary neonatal outcomes were gestational age at delivery and neonatal anthropometry. One-stage mixed-effects models using individual participant data (IPD) were adjusted for maternal age, body mass index, gestational age at commencement, and baseline blood glucose level.\nRESULTS: Ten trials (N=2695) met inclusion criteria and seven provided IPD (n=2485; 92.2% of available IPD). After data harmonization, 2297 pregnancies (1159 participants randomly assigned to metformin and 1138 participants to placebo) were included. Metformin was not associated with reduced GDM in adjusted or unadjusted analyses, including by World Health Organization 1999 criteria (odds ratio, 1.04; 95% CI 0.80 to 1.36; adjusted odds ratio, 1.00; 95% CI 0.71 to 1.41) or by National Institute of Health and Care Excellence 2015 criteria (odds ratio 0.98; 95% CI, 0.76 to 1.27; adjusted odds ratio, 1.00; 95% CI 0.71 to 1.41), except on adjusted analysis using International Association of Diabetes and Pregnancy Study Groups thresholds (odds ratio 0.83; 95% CI, 0.65 to 1.06; adjusted odds ratio 0.71; 95% CI 0.52 to 0.98). Metformin was associated with marginally lower fasting blood glucose level (mean difference [MD], -0.06 mmol/l; 95% CI, -0.10 to -0.01), with no apparent difference in 2-hour postload blood glucose level. Metformin was also associated with longer gestation (MD, 0.30 weeks' gestation; 95% CI, 0.06 to 0.54), lower odds of preterm birth (adjusted odds ratio, 0.64; 95% CI, 0.47 to 0.89), and larger neonatal head circumference (MD, 2.43 percentile; 95% CI, 0.13 to 4.72). Gastrointestinal side effects were more commonly reported with metformin.\nCONCLUSIONS: In this IPD meta-analysis, metformin was not associated with a reduction in GDM, but was associated with an increase in gestational age at delivery.",
+        "journal": "NEJM evidence",
+        "authors": [
+          "Agnieszka Zawiejska",
+          "Andrea Deussen",
+          "Argyro Syngelaki",
+          "Aya Mousa",
+          "Chau Thien Tay",
+          "Christy Burden",
+          "Enav Yefet",
+          "Eszter Vanky",
+          "Hassan Shehata",
+          "Helena J Teede",
+          "Hilkka Nikkinen",
+          "Jahanara Ainuddin",
+          "Jane E Norman",
+          "Janet Rowan",
+          "Jerrie S Refuerzo",
+          "Jiji E Mathews",
+          "Joanne Enticott",
+          "Jodie Dodd",
+          "Kristiina Tertti",
+          "Kypros Nicolaides",
+          "Laure Morin-Papunen",
+          "Magdy A Mohamed",
+          "Masoud Mohebbi",
+          "Rabia Arshad",
+          "Sven M Carlsen",
+          "Tapani Rönnemaa",
+          "Tayyiba Wasim",
+          "Tone S Løvvik",
+          "William M Hague",
+          "Yitayeh Belsti",
+          "Zohar Nachum"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "publishedAt": "2026-08-25T00:00:00.000Z",
+        "activityAt": "2026-08-25T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42640169/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "二甲双胍用于高代谢风险妊娠：一项患者层面荟萃分析",
+          "researchQuestion": "确定二甲双胍是否能预防妊娠期糖尿病（GDM）和不良妊娠结局。",
+          "studyDesign": "患者个体数据（IPD）荟萃分析，纳入双盲随机安慰剂对照试验",
+          "populationAndSample": "10项试验（N=2695）符合纳入标准，7项提供IPD（n=2485，占可用IPD的92.2%）。数据协调后纳入2297例妊娠（二甲双胍1159例，安慰剂1138例）。",
+          "methods": "检索Medline/Medline In-Process、Embase和循证医学评论数据库至2025年5月9日。采用基于个体参与者数据的一阶段混合效应模型，调整母亲年龄、体重指数、用药开始孕周和基线血糖水平。预设主要母体结局为GDM和口服葡萄糖耐量试验（OGTT）血糖指标；主要新生儿结局为分娩孕周和新生儿人体测量指标。",
+          "keyResults": "二甲双胍与GDM减少无关：按WHO 1999标准，OR 1.04（95% CI 0.80–1.36），调整OR 1.00（95% CI 0.71–1.41）；按NICE 2015标准，OR 0.98（95% CI 0.76–1.27），调整OR 1.00（95% CI 0.71–1.41）。仅按IADPSG阈值进行校正分析时显示相关（OR 0.83；95% CI 0.65–1.06；调整OR 0.71；95% CI 0.52–0.98）。二甲双胍与空腹血糖略降低相关（MD −0.06 mmol/l；95% CI −0.10至−0.01），2小时负荷后血糖无明显差异。二甲双胍还与更长孕周（MD 0.30周；95% CI 0.06–0.54）、较低早产几率（调整OR 0.64；95% CI 0.47–0.89）和较大新生儿头围（MD 2.43百分位；95% CI 0.13–4.72）相关。胃肠道副作用在二甲双胍组更常报告。",
+          "limitations": "摘要未报告",
+          "clinicalInterpretation": "这项IPD荟萃分析显示，二甲双胍未与GDM风险降低相关，但与分娩时孕周增加相关。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "ade20d7b1ab822e7a5215ac74977694fb87bc1a406346feb394440a3c6ed9e83"
+      },
+      {
+        "id": "pmid:42640715",
+        "pmid": "42640715",
+        "doi": "10.1002/ueg2.70281",
+        "title": "Acetate- Versus Lactate-Buffered Crystalloids for Prevention of Post-ERCP Pancreatitis in Patients Without Access to Rectal NSAIDs: A Multicentre Double-Blind Randomized Trial.",
+        "abstract": "BACKGROUND: Aggressive peri-procedural intravenous fluid (IVF) therapy with lactated Ringer's solution (LR) reduces the risk of post-ERCP pancreatitis (PEP), but the standard 8-h protocol is impractical in outpatient settings and the optimal fluid type remains uncertain. We compared LR with an acetate-buffered balanced crystalloid (AC) using a symptom-guided 4-h aggressive IVF protocol.\nMETHODS: This multicentre, double-blind, randomized superiority trial was conducted at three academic hospitals in Korea where rectal NSAIDs are unavailable. Adults with native papillae and moderate-to-high PEP risk were randomized to receive LR or AC. The IVF protocol comprised 10 mL/kg boluses before and after ERCP, followed by 3 mL/kg/h for 4 hours and extended to 8 hours if abdominal pain developed or worsened. The primary outcome was PEP incidence; secondary outcomes included early post-ERCP pain and adverse events.\nRESULTS: Of 813 patients (404 LR, 409 AC), PEP occurred in 12.4% of the LR group and 11.5% of the AC group (relative risk [RR] 0.93; 95% CI, 0.64-1.35; P = 0.70). Rates of mild (7.9% vs. 7.1%) and moderate (4.5% vs. 4.4%) PEP were similar, and no severe PEP or fluid overload occurred. Among the 68.3% of patients who remained asymptomatic at 4 hours and required only 4-h IVF, PEP occurred in 7.4%, with no cases of severe PEP.\nCONCLUSION: In this superiority trial, acetate-buffered crystalloid did not reduce PEP compared with lactated Ringer's solution, and no significant safety differences were observed between the two agents. Lactated Ringer's remains the recommended first-line crystalloid for aggressive hydration when rectal NSAIDs are unavailable.\nTRIAL REGISTRATION: ClinicalTrials.gov (NCT05832047).",
+        "journal": "United European gastroenterology journal",
+        "authors": [
+          "Ce Hwan Park",
+          "Do Hyun Park",
+          "Dong-Wan Seo",
+          "Gunn Huh",
+          "Hwa Jung Kim",
+          "In Rae Cho",
+          "Ji Kon Ryu",
+          "Jin Ho Choi",
+          "John Vargo",
+          "Jong Kyun Lee",
+          "Joo Kyung Park",
+          "Kwang Hyuck Lee",
+          "Kyu Taek Lee",
+          "Sang Hyub Lee",
+          "Steven Edmundowicz",
+          "Sung Hyun Cho",
+          "Sunguk Jang",
+          "Taehyung Lee",
+          "Woo Hyun Paik",
+          "Yoonchan Lee",
+          "Young Hoon Choi"
+        ],
+        "publicationTypes": [
+          "Comparative Study",
+          "Equivalence Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-09-01T00:00:00.000Z",
+        "activityAt": "2026-08-25T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42640715/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "醋酸盐缓冲晶体液与乳酸盐缓冲晶体液在无法获得直肠NSAIDs患者中预防ERCP术后胰腺炎的比较：一项多中心双盲随机试验",
+          "researchQuestion": "在无法获得直肠NSAIDs的患者中，比较醋酸盐缓冲晶体液（AC）与乳酸盐林格液（LR）对ERCP术后胰腺炎（PEP）的预防效果。",
+          "studyDesign": "多中心、双盲、随机优效性试验",
+          "populationAndSample": "韩国三家学术医院的813例患者（LR组404例，AC组409例），均为成人、原生乳头、中高PEP风险，且无法获得直肠NSAIDs。",
+          "methods": "采用症状引导的4小时积极静脉补液方案：ERCP前后各给予10 mL/kg推注，随后以3 mL/kg/h持续4小时；若出现或加重腹痛则延长至8小时。主要结局为PEP发生率；次要结局包括早期ERCP后疼痛和不良事件。",
+          "keyResults": "PEP发生率在LR组为12.4%，AC组为11.5%（相对危险度RR 0.93；95% CI 0.64–1.35；P=0.70）。轻度PEP发生率相似（7.9% vs. 7.1%），中度PEP也相似（4.5% vs. 4.4%），未发生重度PEP或液体过载。在68.3%于4小时无症状且仅需4小时静脉输液的患者中，PEP发生率为7.4%，无重度PEP病例。",
+          "limitations": "摘要未报告",
+          "clinicalInterpretation": "该优效性试验显示，醋酸盐缓冲晶体液未比乳酸盐林格液降低PEP，两者安全性无显著差异。作者据此认为，在无法获得直肠NSAIDs时，乳酸盐林格液仍是积极补液的首选晶体液。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "2e6577a11008a682f90a031ecb59357c1d4f4ed89f842e8251916114b0e85f25"
+      },
+      {
+        "id": "pmid:42639992",
+        "pmid": "42639992",
+        "doi": "10.1017/s2040174426100737",
+        "title": "The role of paternal obesity in fetal development, pregnancy complications, and childhood outcomes: a systematic review.",
+        "abstract": "The Developmental Origins of Health and Disease theory proposes that environmental influences during early life have long-term effects on health outcomes. Although maternal factors have been extensively studied, the impact of paternal obesity on fetal development and pregnancy outcomes has received limited attention. This systematic review aimed to evaluate the effects of paternal obesity on fetal development and pregnancy complications within the DOHaD framework. English-language studies published between 2020 and 2025 were searched in PubMed, Scopus, Web of Science, and the Cochrane Library databases. Studies were selected according to the PICOS criteria, and methodological quality was assessed using the Joanna Briggs Institute (JBI) critical appraisal tools. The study selection process followed PRISMA 2020 guidelines, and the protocol was prospectively registered in PROSPERO. A total of sevenprimary studies met the inclusion criteria and were included in the final review. Paternal overweight and obesity were associated with increased risks of macrosomia, large-for-gestational-age infants, low birth weight, preterm birth, preeclampsia, and cesarean delivery. In addition, paternal obesity was found to be potentially associated with childhood obesity and neurodevelopmental disorders. However, the effect of paternal body mass index (BMI) on birth weight was more limited compared to maternal factors. Paternal obesity represents a significant risk factor for fetal development and pregnancy outcomes and should be considered in preconception care strategies.",
+        "journal": "Journal of developmental origins of health and disease",
+        "authors": [
+          "Emine Kaplan Serin",
+          "Tuba Güner Emül"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-25T00:00:00.000Z",
+        "activityAt": "2026-08-25T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42639992/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 6,
+          "recency": 10,
+          "total": 91,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "父亲肥胖在胎儿发育、妊娠并发症和儿童结局中的作用：一项系统综述",
+          "researchQuestion": "在健康与疾病发育起源（DOHaD）框架内，评估父亲肥胖对胎儿发育和妊娠并发症的影响。",
+          "studyDesign": "系统综述（遵循PRISMA 2020指南，方案在PROSPERO前瞻性注册）",
+          "populationAndSample": "共7项原始研究符合纳入标准并纳入最终综述。",
+          "methods": "检索PubMed、Scopus、Web of Science和Cochrane Library数据库，纳入2020年至2025年发表的英文研究。依据PICOS标准筛选研究，并使用Joanna Briggs Institute（JBI）关键评估工具评价方法学质量。",
+          "keyResults": "父亲超重和肥胖与巨大儿、大于胎龄儿、低出生体重、早产、子痫前期和剖宫产的风险增加相关。此外，父亲肥胖可能与儿童肥胖和神经发育障碍潜在相关。然而，父亲体质指数（BMI）对出生体重的影响较母体因素更为有限。",
+          "limitations": "摘要未报告",
+          "clinicalInterpretation": "父亲肥胖可能是胎儿发育和妊娠结局的重要风险因素，在孕前保健策略中应考虑。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "d711256aef946f93d60dcae5dfe368940afcbcd2cee0952d988e46c2822be2a7"
+      },
+      {
+        "id": "pmid:42638028",
+        "pmid": "42638028",
+        "doi": "10.1007/s43032-026-02172-x",
+        "title": "Weighted Gene Co-Expression Network Analysis and Machine Learning Reveal that USP1 Drives Lipid Metabolism and Macrophage Polarization in Cervical Cancer Cells.",
+        "abstract": "Cervical cancer is a leading preventable cause of cancer morbidity and mortality globally. Previous studies have indicated that dysregulation of the ubiquitin-proteasome system participates in lipid metabolism and cervical cancer progression. However, the role and mechanism of deubiquitinase ubiquitin-specific protease 1 (USP1) in cervical cancer are still unclear. The cervical cancer transcriptome data from the GSE90738 database were downloaded from the Gene Expression Omnibus dataset. Differential expression gene (DEG) analysis, weighted gene coexpression network analysis (WGCNA), GeneCards database, and ubibrowser2.0 database were employed to identify potential ubiquitin-related targets involved in lipid metabolism during cervical cancer progression. Then, these intersected targets were subjected to cross-validation using three machine learning algorithms-Least Absolute Shrinkage and Selection Operator (LASSO) regression, Support Vector Machine Recursive Feature Elimination (SVM-RFE), and Random Forest (RF), ultimately identifying one hub gene. GSE90738 and GEPIA databases were used to analyze USP1 expression in cervical cancer patients. The relationship between USP1 and overall survival or progress-free survival of cervical cancer patients was analyzed. USP1 mRNA level was detected by real-time quantitative polymerase chain reaction (RT-qPCR). USP1, FASN, and GPX4 protein levels were determined using western blot assay. Cell proliferation was detected using 5-ethynyl-2'-deoxyuridine (EdU) and colony formation assays. Lipid accumulation (Oil Red O/Nile Red), lipid-ROS, and ferrous iron levels were measured using special kits. A co-culture model of THP1 macrophages and cervical cancer cells was conducted to investigate the impacts of tumor cell-derived USP1 on THP1 macrophage polarization. The effect of USP1 on tumorigenesis was examined using a xenograft tumor model in vivo. A total of 19 potential signature genes were identified by DEG analysis, WGCNA, GeneCards database, and ubibrowser2.0 database. Through the three machine learning algorithms of LASSO, RF, and SVM-RFE, one hub gene (USP1) was identified with diagnostic potential. Furthermore, USP1 was upregulated in cervical cancer, and its silencing could repress cervical cancer cell proliferation, lipid metabolism, and promote ferroptosis. Meanwhile, USP1 silencing could hinder M2 polarization of TAMs by downregulating TGF-β1 and IL-10. Besides, USP1 deficiency suppressed tumor growth in vivo. Through bioinformatics analysis and experiments, this study discovered that USP1 knockdown inhibited cervical cancer growth and TAM M2 polarization, providing a promising therapeutic target for cervical cancer treatment.",
+        "journal": "Reproductive sciences (Thousand Oaks, Calif.)",
+        "authors": [
+          "Fang Wang",
+          "Wenjing Yang",
+          "Xiaojuan Wang",
+          "Yunxia Li"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-24T00:00:00.000Z",
+        "activityAt": "2026-08-25T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42638028/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "加权基因共表达网络分析和机器学习揭示USP1驱动宫颈癌细胞脂质代谢和巨噬细胞极化",
+          "researchQuestion": "探索去泛素化酶泛素特异性蛋白酶1（USP1）在宫颈癌脂质代谢和巨噬细胞极化中的作用及机制。",
+          "studyDesign": "生物信息学分析结合体外和体内实验研究",
+          "populationAndSample": "使用GEO数据库中GSE90738数据集的宫颈癌转录组数据；GEPIA数据库用于表达和生存分析；实验采用宫颈癌细胞、THP1巨噬细胞共培养模型以及异种移植肿瘤模型（具体样本量摘要未报告）。",
+          "methods": "通过差异表达基因（DEG）分析、加权基因共表达网络分析（WGCNA）、GeneCards数据库和ubibrowser2.0数据库筛选与脂质代谢相关的潜在泛素化靶点；使用LASSO回归、支持向量机递归特征消除（SVM-RFE）和随机森林（RF）三种机器学习算法交叉验证，确定核心基因。采用RT-qPCR检测USP1 mRNA水平，Western blot检测USP1、FASN和GPX4蛋白水平；EdU和集落形成实验检测细胞增殖；使用试剂盒检测脂质积累（油红O/尼罗红）、脂质ROS和亚铁离子水平；通过THP1巨噬细胞与宫颈癌细胞共培养模型观察USP1对巨噬细胞极化的影响；并使用异种移植肿瘤模型评估体内成瘤能力。",
+          "keyResults": "通过DEG分析、WGCNA、GeneCards和ubibrowser2.0数据库共鉴定出19个潜在特征基因；经LASSO、RF和SVM-RFE三种机器学习算法确定USP1为具有诊断潜力的核心基因。USP1在宫颈癌中上调，沉默USP1可抑制宫颈癌细胞增殖和脂质代谢，并促进铁死亡；同时，沉默USP1可通过下调TGF-β1和IL-10抑制肿瘤相关巨噬细胞（TAM）的M2极化。此外，USP1缺失在体内抑制肿瘤生长。",
+          "limitations": "摘要未报告",
+          "clinicalInterpretation": "本研究发现USP1敲低可抑制宫颈癌生长和TAM M2极化，提示USP1可能成为宫颈癌治疗的一个有前景的靶点。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "d52968c20415417e419b5313e72f0a27d10da9f33a3cb8e778fa2e4c2be48c39"
+      },
+      {
+        "id": "pmid:42638531",
+        "pmid": "42638531",
+        "doi": "10.1039/d6cc03906e",
+        "title": "Colorimetric analysis of metabolic biomarkers from unprocessed urine for rapid, at-home diagnosis of cervical cancer.",
+        "abstract": "PEGylated AuNPs are developed for home-based cervical cancer diagnosis via colorimetric analysis of urinary thiols.",
+        "journal": "Chemical communications (Cambridge, England)",
+        "authors": [
+          "Dakai Xi",
+          "Shiyi Chen",
+          "Shuwu Zhao",
+          "Xiaowen Liu",
+          "Yang Zhou",
+          "Yanli Lei",
+          "Yulai Chen",
+          "Zeyang Yang",
+          "Zhihe Qing"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-25T00:00:00.000Z",
+        "activityAt": "2026-08-25T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42638531/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "基于未处理尿液中代谢生物标志物的比色分析用于宫颈癌快速居家诊断",
+          "researchQuestion": "开发一种通过尿液代谢生物标志物比色分析进行宫颈癌快速居家诊断的方法。",
+          "studyDesign": "技术开发研究（实验研究）",
+          "populationAndSample": "摘要未报告",
+          "methods": "摘要仅报告开发了聚乙二醇化金纳米颗粒（PEGylated AuNPs），通过对尿液中硫醇类物质进行比色分析，用于居家宫颈癌诊断。具体实验流程和检测步骤摘要未报告。",
+          "keyResults": "摘要仅报告该研究开发了用于未处理尿液中硫醇比色分析的PEG化AuNPs，以实现居家宫颈癌诊断；未报告具体结果数据。",
+          "limitations": "摘要未报告",
+          "clinicalInterpretation": "该研究提出了一种基于尿液硫醇比色分析的居家宫颈癌诊断工具，但具体性能和应用价值仍需进一步验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "d347ba5e1c5d64956042acf800ea2e6c30cb49a6bb946d15066dce2ae6997f7d"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "date": "2026-08-26",
+  "articles": [
+    {
+      "sourceId": "medical-xpress-obgyn",
+      "title": "Women with multiple long-term conditions face increased pregnancy risks",
+      "url": "https://medicalxpress.com/news/2026-08-women-multiple-term-conditions-pregnancy.html",
+      "excerpt": "Women who begin pregnancy with two or more pre-existing long-term physical or mental health conditions have a 20% higher risk of miscarriage, a 69% higher risk of severe nausea and vomiting, and around four times the risk of anxiety and depression compared with those with no long-term conditions.",
+      "publishedAt": "2026-08-19T11:40:03.000Z",
+      "category": "politics",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "研究显示，孕前已有两种或以上长期身体或心理健康问题的女性，流产风险升高20%，严重恶心呕吐风险升高69%，焦虑和抑郁风险约为无长期疾病者的4倍。",
+      "reviewStatus": "accepted",
+      "lowPriority": false
+    }
+  ]
+}
