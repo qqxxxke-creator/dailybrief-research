@@ -1,0 +1,280 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-08-26T23:21:05.414Z",
+    "dataAsOf": "2026-08-26T23:21:05.414Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及膳食炎症指数与地中海饮食在女性生殖健康中的作用：膳食炎症潜力的系统综述与meta分析、子宫内膜异位症患者性功能障碍的患病率：系统综述与meta分析、子宫-胎盘钙和镁离子通道：其改变对产科影响的系统综述。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42643610",
+        "pmid": "42643610",
+        "doi": "10.3389/fnut.2026.1904722",
+        "title": "Dietary inflammatory index and Mediterranean Diet in female reproductive health: a systematic review and meta-analysis of dietary inflammatory potential.",
+        "abstract": "INTRODUCTION: Female reproductive health is increasingly affected by conditions such as infertility, polycystic ovary syndrome (PCOS), and endometriosis. Given the impact of modifiable lifestyle factors, nutrition has emerged as a potential preventive strategy. The Mediterranean Diet, characterised by high contents of anti-inflammatory and antioxidant compounds, may influence ovarian function, hormonal regulation, and reproductive outcomes. This study aimed to evaluate the association between adherence to the Mediterranean Diet and female reproductive health.\nMETHODOLOGY: A systematic review was conducted according to PRISMA 2020 guidelines and registered in PROSPERO (CRD420261295562). PubMed, Scopus, ScienceDirect, and CINAHL databases were searched. Methodological quality was independently assessed using Joanna Briggs Institute critical appraisal tools. A meta-analysis of odds ratios was performed using the inverse variance method, and heterogeneity was assessed using Cochran's Q and I 2 statistics.\nRESULTS: Fifteen unique studies were included in the systematic review and qualitative synthesis, of which two were eligible for quantitative meta-analysis. Higher dietary inflammatory potential, assessed by the Dietary Inflammatory Index (DII), was associated with an increased risk of female infertility (OR = 1.70; 95% CI: 1.23-2.34; p = 0.0013), with no observed heterogeneity ( I 2 = 0%). Qualitative evidence suggested that greater adherence to the Mediterranean Diet was associated with higher anti-Müllerian hormone levels, increased antral follicle counts, reduced risk of poor ovarian response (OR = 0.29), lower likelihood of endometriosis (OR = 0.06), fewer premenstrual symptoms, and improved blastocyst formation rates in assisted reproduction.\nDISCUSSION: These findings support the potential role of anti-inflammatory dietary patterns in female reproductive health. Mediterranean Diet components, including omega-3 fatty acids, polyphenols, and monounsaturated fats, may reduce oxidative stress, improve insulin sensitivity, and modulate endocrine pathways. However, the certainty of evidence was rated as very low due to the predominance of observational studies.\nCONCLUSION: Observational evidence suggests that lower dietary inflammatory potential and greater adherence to the Mediterranean Diet are inversely associated with female infertility and adverse reproductive markers. However, because current evidence is overwhelmingly observational, these findings represent clinical associations rather than proven causal or therapeutic effects, highlighting the need for randomized controlled trials before clinical implementation.\nSYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD420261295562, CRD420261295562.",
+        "journal": "Frontiers in nutrition",
+        "authors": [
+          "Antonio Márquez-Díaz",
+          "Azahara Rúger-Navarrete",
+          "Beatriz Mérida-Yáñez",
+          "Francisco Javier Muñoz-Vela",
+          "Irene Antúnez-Calvente",
+          "Juan Gómez-Salgado",
+          "Miguel Ángel Avellaneda-Roldán",
+          "Naore López-Gómez",
+          "Nerea de la Torre-Pérez",
+          "Sofía García-Oliva"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-11T00:00:00.000Z",
+        "activityAt": "2026-08-26T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42643610/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine",
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "膳食炎症指数与地中海饮食在女性生殖健康中的作用：膳食炎症潜力的系统综述与meta分析",
+          "researchQuestion": "评估坚持地中海饮食与女性生殖健康之间的关联。",
+          "studyDesign": "系统综述和meta分析（依据PRISMA 2020指南，已在PROSPERO注册）。",
+          "populationAndSample": "摘要未明确报告纳入人群的具体特征；共纳入15项独特研究，其中2项符合定量meta分析条件。",
+          "methods": "按照PRISMA 2020指南进行系统综述，并在PROSPERO注册（CRD420261295562）。检索PubMed、Scopus、ScienceDirect和CINAHL数据库。使用Joanna Briggs Institute关键评估工具独立评估方法学质量。采用逆方差法进行比值比的meta分析，使用Cochran's Q和I²统计量评估异质性。",
+          "keyResults": "较高的膳食炎症指数（DII）与女性不孕风险增加相关（OR=1.70；95% CI：1.23-2.34；p=0.0013），未观察到异质性（I²=0%）。定性证据提示，较高的地中海饮食依从性与较高的抗苗勒管激素水平、窦卵泡计数增加、卵巢低反应风险降低（OR=0.29）、子宫内膜异位症可能性降低（OR=0.06）、经前症状减少以及辅助生殖中囊胚形成率改善相关。证据确定性被评为极低。",
+          "limitations": "摘要报告证据确定性极低，主要因为以观察性研究为主；其他局限性摘要未报告。",
+          "clinicalInterpretation": "观察性证据提示较低的膳食炎症潜力和较高的地中海饮食依从性与女性不孕及不良生殖标志物呈负相关，但这些是临床关联而非已证实的因果或治疗效应；在临床实施前需要随机对照试验。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "78ff6fe70aa43c447836bd1e048822ba256d8c89f7e6d6d36a70349b69b061ac"
+      },
+      {
+        "id": "pmid:42647845",
+        "pmid": "42647845",
+        "doi": "10.1093/sxmrev/qeag049",
+        "title": "Prevalence of sexual dysfunction in patients with endometriosis: a systematic review and meta-analysis.",
+        "abstract": "AIM: To systematically assess the prevalence of sexual dysfunction among patients suffering from endometriosis.\nMETHODS: A literature search was carried out using databases such as PubMed, Web of Science, CNKI, and Wanfang from the inception of the databases until July of the year 2025 for literature related to the topic of sexual dysfunction among patients with endometriosis. After screening the literature and extracting the data information, the analysis was carried out using the Stata version 17.1 software.\nRESULTS: A total of 19 studies were included, enrolling a total of 4185 participants with endometriosis. Meta-analysis indicated the prevalence of sexual dysfunction among patients with endometriosis was 62.5% (95% CI, 54.6-70.4). Subgroup analysis showed a higher prevalence of sexual dysfunction in studies published after 2020 (71.0%) than in those published before 2020 (53.9%) (Q = 7.43, P = .006). The prevalence of sexual dysfunction was relatively higher among patients with moderate or severe endometriosis (69.8 vs. 38.2, Q = 16.04, P < .001). Similarly, the prevalence was also significantly higher among patients with pelvic pain (74.2 vs. 35.1, Q = 4.56, P = .033). Univariable and multivariable meta-regression analyses revealed that only publication year (β = 0.21, P = .018) was a significant influencing factor for sexual dysfunction in patients with endometriosis.\nCONCLUSION: The prevalence of sexual dysfunction is relatively high among patients with endometriosis. And the prevalence rate has increased significantly in recent years. It is particularly elevated in patients with greater disease severity and those experiencing pelvic pain. It is suggested that corresponding intervention measures be actively taken to effectively prevent or reduce the occurrence of sexual dysfunction in patients with endometriosis.",
+        "journal": "Sexual medicine reviews",
+        "authors": [
+          "Hui Li",
+          "Liwei Cui",
+          "Meng Wang",
+          "Qian Han",
+          "Yanting Jiang",
+          "Yujie Zhang",
+          "Zhijie Wei",
+          "Ziyue Liu"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-06-30T00:00:00.000Z",
+        "activityAt": "2026-08-26T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42647845/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "子宫内膜异位症患者性功能障碍的患病率：系统综述与meta分析",
+          "researchQuestion": "系统评估子宫内膜异位症患者中性功能障碍的患病率。",
+          "studyDesign": "系统综述和meta分析。",
+          "populationAndSample": "共纳入19项研究，合计4185例子宫内膜异位症参与者。",
+          "methods": "检索PubMed、Web of Science、CNKI和万方数据库，时间从建库至2025年7月。筛选文献并提取数据，使用Stata 17.1软件进行分析。",
+          "keyResults": "子宫内膜异位症患者性功能障碍患病率为62.5%（95% CI：54.6-70.4）。亚组分析显示，2020年后发表的研究患病率更高（71.0% vs 2020年前的53.9%；Q=7.43，P=0.006）；中重度子宫内膜异位症患者患病率相对较高（69.8 vs 38.2；Q=16.04，P<0.001）；伴有盆腔疼痛的患者患病率显著更高（74.2 vs 35.1；Q=4.56，P=0.033）。单变量和多变量meta回归分析显示，仅发表年份（β=0.21，P=0.018）是性功能障碍的显著影响因素。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "子宫内膜异位症患者性功能障碍患病率相对较高，且近年来明显增加；在疾病严重程度较高和经历盆腔疼痛的患者中尤其升高。该研究建议积极采取相应干预措施，以有效预防或减少这些患者性功能障碍的发生。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "0de668eaf8d66429b84822d19c77c4319a11debb4f5e2c7240a15f91f9fad53b"
+      },
+      {
+        "id": "pmid:42644398",
+        "pmid": "42644398",
+        "doi": "10.1080/19336950.2026.2724674",
+        "title": "Utero-placental calcium and magnesium ion channels: A systematic review of obstetric implications of their alterations.",
+        "abstract": "Despite the established roles of calcium (Ca 2+ ) and magnesium (Mg 2+ ) in placental function and uterine contractility, limited information exists on how dysregulation of major ion channels contributes to poor pregnancy outcomes. We synthesized data on the consequences of Ca 2+ and Mg 2+ channelopathies in uterine and placental functions. Using PubMed, Wiley Online, AJOL, and Web of Science databases for article search, a systematic review of forty-nine papers published between 2000 and March 2026 was carried out and reported in accordance with the PRISMA 2020 guideline. Based on the PICO framework, eligible studies involving human, animal, and in vitro designs were chosen and subjected to narrative analysis. L-type and T-type voltage-gated Ca 2+ channels, together with transient receptor potential channels, emerged as principal mediators of placental Ca 2+ transport and myometrial contractility. Mechanosensitive Piezo1 channels mediate stretch-activated Ca 2+ influx, while store-operated Ca 2+ entry pathways involving STIM1-Orai1 sustain intracellular Ca 2+ homeostasis. Potassium-Ca 2+ coupling channels modulated membrane hyperpolarization and anti-labor effects, and intracellular regulators such as PMCA and RYR1 fine-tuned Ca 2+ homeostasis. The Mg 2+ transporters are essential for preserving Mg 2+ homeostasis and regulating Ca 2+ -dependent excitability. Dysregulation of these ion channel systems was consistently linked to abnormal uterine contractility, preterm birth, preeclampsia, fetal growth restriction, and adverse pregnancy outcomes. Both Ca 2+ and Mg 2+ ion channelopathies represent both a potential therapeutic target and a mechanistic factor underlying key obstetric complications.",
+        "journal": "Channels (Austin, Tex.)",
+        "authors": [
+          "Abdul-Rahuf Aderemi Feyitimi",
+          "Abdulazeez Jimoh",
+          "Abdullahi Hussein Umar",
+          "Abdullateef Isiaka Alagbonsi",
+          "Aime Patrick Niyomugabo",
+          "Akaninyene Ubong Ime",
+          "Alphonse Niyodusenga",
+          "Daniel Udofia Owu",
+          "David Chibuike Ikwuka",
+          "Diresebachew Wondimu Haile",
+          "Ejike Daniel Eze",
+          "Elemi John Ani",
+          "Gaudence Ndinganire",
+          "Makinde Vincent Olubiyi",
+          "Mayowa Jeremiah Adeniyi",
+          "Muluken Walle",
+          "Olufunke Onaadepo",
+          "Onyinye Cynthia Okeke"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-26T00:00:00.000Z",
+        "activityAt": "2026-08-26T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42644398/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 3.75,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "子宫-胎盘钙和镁离子通道：其改变对产科影响的系统综述",
+          "researchQuestion": "综合钙和镁离子通道病在子宫和胎盘功能中的后果，以及其对不良妊娠结局的影响。",
+          "studyDesign": "系统综述（依据PRISMA 2020指南报告）。",
+          "populationAndSample": "纳入49篇发表于2000年至2026年3月间的论文；研究设计包括人类、动物和体外研究；具体样本量摘要未报告。",
+          "methods": "使用PubMed、Wiley Online、AJOL和Web of Science数据库进行文献检索。基于PICO框架选择符合条件的研究，并进行叙述性分析。",
+          "keyResults": "L型和T型电压门控Ca²⁺通道以及瞬时受体电位通道是胎盘Ca²⁺转运和子宫肌层收缩性的主要介质。机械敏感Piezo1通道介导牵张激活的Ca²⁺内流，涉及STIM1-Orai1的储库操纵性Ca²⁺内流途径维持细胞内Ca²⁺稳态。钾-Ca²⁺偶联通道调节膜超极化和抗分娩效应，细胞内调节因子如PMCA和RYR1微调Ca²⁺稳态。Mg²⁺转运蛋白对维持Mg²⁺稳态和调节Ca²⁺依赖性兴奋性至关重要。这些离子通道系统的失调一直与异常子宫收缩、早产、子痫前期、胎儿生长受限和不良妊娠结局相关。Ca²⁺和Mg²⁺离子通道病既是潜在治疗靶点，也是主要产科并发症的机制因素。",
+          "limitations": "摘要未报告明确的局限性。",
+          "clinicalInterpretation": "钙和镁离子通道病可能是关键产科并发症的机制因素，并代表潜在的治疗靶点。该系统综述提示离子通道调节在产科疾病中的重要性，但未提供临床实施建议。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "baa23a5920bac3e6e0c627956f4ddaba4572743d7a7cd58cf31f4df4fd7c8457"
+      },
+      {
+        "id": "pmid:42642730",
+        "pmid": "42642730",
+        "doi": "10.1186/s12884-026-09840-5",
+        "title": "Neonatal outcome in macrosomia and gestational diabetes mellitus depending on the definition of macrosomia: a retrospective cohort study.",
+        "abstract": "INTRODUCTION: Gestational diabetes increases the risk of neonatal macrosomia, which is associated with maternal and neonatal morbidity. However, the definition of macrosomia is inconsistent and includes both a fixed weight limit and a gestational age-dependent percentile. This study aimed to evaluate the association between different definitions of macrosomia and short-term neonatal outcome in pregnancies complicated by gestational diabetes.\nMATERIAL AND METHODS: In this retrospective single-center cohort study, 882 women with gestational diabetes and a singleton pregnancy were included. Adverse neonatal outcome was defined as 5-min Apgar score below eight and/or admission to the neonatal intensive care unit. We compared three different definitions of macrosomia: 1.) birthweight ≥ 4000 g, 2.) birthweight > 90th percentile, and 3.) length-related birthweight > 90th percentile. Eutrophic newborns served as controls and small-for-gestational-age infants were excluded. Additionally, umbilical artery Doppler parameters were explored.\nRESULTS: Overall, 220 out of 882 newborns (24.9%) met at least one definition of macrosomia: 129 (14.6%) with birthweight ≥ 4000 g, 126 (14.3%) with birthweight > 90th percentile, and 205 (23.2%) with length-related birthweight > 90th percentile. Short-term adverse neonatal outcome occurred in 6.2% (n = 55). In the total cohort, macrosomia was not associated with adverse outcome. Newborns with a birthweight > 90th percentile showed a higher, but not statistically significant, rate of adverse outcome (odds ratio (OR) 1.5 [0.8-3.1], p = 0.231). In analyses restricted to macrosomic infants, those with birthweight > 90th percentile had higher rates of adverse outcome compared with those ≤ 90th percentile (8.7% vs. 1.1%; OR 8.9, 95% CI 1.1-70.2). This remained associated after adjustment for preterm birth (adjusted OR 8.8, 95% CI 1.1-71.4), although preterm birth was the strongest overall predictor. The effect was mainly observed in infants weighing < 4000 g. Umbilical artery Doppler showed limited predictive value.\nCONCLUSIONS: Macrosomia represents a heterogeneous group not uniformly associated with adverse short-term neonatal outcome. Within this cohort, birthweight > 90th percentile, particularly in infants < 4000 g, was associated with higher rates of adverse outcome, whereas fixed weight thresholds were not. Gestational age-adjusted definitions may better identify at-risk neonates.",
+        "journal": "BMC pregnancy and childbirth",
+        "authors": [
+          "Johannes Stubert",
+          "Luisa Laura Meurer",
+          "Sabine Körber"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-25T00:00:00.000Z",
+        "activityAt": "2026-08-26T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42642730/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "巨大儿和妊娠期糖尿病的围产儿结局取决于巨大儿的定义：一项回顾性队列研究",
+          "researchQuestion": "评估不同巨大儿定义与妊娠期糖尿病孕妇短期围产儿结局之间的关联。",
+          "studyDesign": "回顾性单中心队列研究。",
+          "populationAndSample": "882名妊娠期糖尿病单胎妊娠女性；排除小于胎龄儿，正常营养新生儿作为对照。",
+          "methods": "不良围产儿结局定义为5分钟Apgar评分低于8分和/或入住新生儿重症监护病房。比较三种巨大儿定义：1）出生体重≥4000 g；2）出生体重>第90百分位；3）身长相关出生体重>第90百分位。同时探索脐动脉多普勒参数。",
+          "keyResults": "882名新生儿中有220名（24.9%）满足至少一种巨大儿定义：129名（14.6%）出生体重≥4000 g，126名（14.3%）出生体重>第90百分位，205名（23.2%）身长相关出生体重>第90百分位。短期不良围产儿结局发生率为6.2%（n=55）。在总队列中，巨大儿与不良结局无关。出生体重>第90百分位的新生儿不良结局率较高但无统计学显著性（OR=1.5 [0.8-3.1]，p=0.231）。在局限于巨大儿的分析中，出生体重>第90百分位者与≤第90百分位者相比不良结局率更高（8.7% vs 1.1%；OR=8.9，95% CI：1.1-70.2）。在校正早产后仍存在关联（校正OR=8.8，95% CI：1.1-71.4），尽管早产是整体最强的预测因子。该效应主要在体重<4000 g的婴儿中观察到。脐动脉多普勒预测价值有限。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "巨大儿是一个异质性群体，并非统一与不良短期围产儿结局相关。在该队列中，出生体重>第90百分位，尤其是<4000 g的婴儿，与较高的不良结局率相关，而固定体重阈值则不然。按胎龄校正的定义可能更好地识别高危新生儿。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "b1e659ef72f5d79b079c05f1127806b9b1a24a9533ae792bca3f2b1b3cb8617e"
+      },
+      {
+        "id": "pmid:42642978",
+        "pmid": "42642978",
+        "doi": "10.24171/j.phrp.2026.0252",
+        "title": "Long-term trends and post-pandemic deviations in cervical cancer burden in South India, 1990-2023: a Global Burden of Disease 2023 study.",
+        "abstract": "OBJECTIVES: Cervical cancer remains a major public health challenge in India despite advances in prevention through human papillomavirus (HPV) vaccination and screening. Although national estimates indicate gradual declines, marked regional disparities persist, and coronavirus disease 2019-related disruptions may have affected recent disease trajectories. This study assessed long-term trends, post-pandemic deviations, and progress toward World Health Organization (WHO) elimination targets in South India.\nMETHODS: This population-based observational analysis used Global Burden of Disease Study 2023 estimates for women aged 30-69 years in South India from 1990 to 2023. Pre-pandemic trends and counterfactual projections were evaluated, and age-standardized incidence rates (ASRs) were descriptively compared with the WHO elimination threshold of ≤4 cases per 100,000 woman-years.\nRESULTS: Age-standardized cervical cancer incidence and mortality declined until the early 2010s but remained above national and global rates. Thereafter, declines stagnated and reversed. In 2023, incidence ranged from 26.1 per 100,000 women in Kerala to 65.8 in Telangana; all states exceeded the WHO threshold based on these ASRs. Observed rates exceeded counterfactual projections, but uncertainty envelopes included zero for every location and outcome. Thus, the findings are consistent with possible post-pandemic disruption to cervical cancer services rather than statistically demonstrated excess burden, and this ecological comparison cannot establish causality. Disability-adjusted life-year rates were highest among women aged 50-69 years.\nCONCLUSION: South India appears to have experienced a recent loss of momentum in cervical cancer control. Strengthening HPV vaccination coverage, expanding screening, and improving the resilience of cancer prevention services are essential for accelerating progress toward elimination targets.",
+        "journal": "Osong public health and research perspectives",
+        "authors": [
+          "Anees Ahmed Farooq Mohammed",
+          "Indra Sivakumar",
+          "Jeevarathinam Thirumalai"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-26T00:00:00.000Z",
+        "activityAt": "2026-08-26T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42642978/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "1990-2023年南印度宫颈癌负担的长期趋势和大流行后偏差：一项2023年全球疾病负担研究",
+          "researchQuestion": "评估南印度宫颈癌的长期趋势、大流行后偏差以及实现世界卫生组织（WHO）消除目标的进展。",
+          "studyDesign": "基于人群的观察性分析，使用2023年全球疾病负担研究（GBD 2023）估计。",
+          "populationAndSample": "1990年至2023年南印度30-69岁女性；具体样本量未报告。",
+          "methods": "使用GBD 2023估计，评估大流行前趋势和反事实预测，并将年龄标准化发病率（ASRs）与WHO消除阈值（≤4例/100,000妇女年）进行描述性比较。",
+          "keyResults": "年龄标准化宫颈癌发病率和死亡率下降至2010年代初，但仍高于全国和全球水平；此后下降停滞并逆转。2023年，发病率从喀拉拉邦的每10万名女性26.1例到特伦甘纳邦的65.8例不等；基于这些ASR，所有邦均超过WHO阈值。观察到的发病率超过反事实预测，但每个地点和结局的不确定区间都包含零。因此，结果与宫颈癌服务可能受到大流行后干扰一致，而非统计学上证明的额外负担，且这种生态学比较不能建立因果关系。伤残调整生命年率在50-69岁女性中最高。",
+          "limitations": "摘要指出该生态学比较不能建立因果关系；其他局限性摘要未报告。",
+          "clinicalInterpretation": "南印度近期在宫颈癌控制方面似乎失去了动力。该研究认为，加强HPV疫苗接种覆盖率、扩大筛查并提高癌症预防服务的韧性，对于加速实现消除目标至关重要。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "ed418c8c7262785fb9a781ba3d8c64f0ba26460efff121265ecabf96ea634777"
+      }
+    ]
+  }
+}
