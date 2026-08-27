@@ -1,0 +1,42 @@
+{
+  "date": "2026-08-28",
+  "articles": [
+    {
+      "sourceId": "medical-xpress-obgyn",
+      "title": "Maternity care improvements linked to fewer stillbirths and newborn deaths in sub-Saharan Africa",
+      "url": "https://medicalxpress.com/news/2026-08-maternity-linked-stillbirths-newborn-deaths.html",
+      "excerpt": "A combination of training, quality improvement and leadership support in hospitals across four countries in sub-Saharan Africa is linked to fewer stillbirths and deaths among newborns during the first 24 hours of life, according to a study led by Karolinska Institutet and published in Nature Medicin",
+      "publishedAt": "2026-08-26T09:00:06.000Z",
+      "category": "politics",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "一项发表于Nature Medicine的研究显示，撒哈拉以南非洲四国医院结合培训、质量改进和领导支持，与死产及新生儿出生24小时内死亡减少相关。",
+      "reviewStatus": "accepted",
+      "lowPriority": false,
+      "meta": "近期精选"
+    },
+    {
+      "sourceId": "medpage-today-headlines",
+      "title": "Postpartum Psychosis: Who Is Most at Risk?",
+      "url": "https://www.medpagetoday.com/popmedicine/cultureclinic/122794",
+      "excerpt": "(MedPage Today) -- The trial of Lindsay Clancy, a former nurse who killed her three kids, has brought renewed attention to the most tragic outcomes of postpartum psychosis. However, an expert told MedPage Today that postpartum psychosis is a complicated...",
+      "publishedAt": "2026-08-27T19:59:03.000Z",
+      "category": "politics",
+      "source": "MedPage Today",
+      "summary": "讨论产后精神病的风险因素及最严重后果，结合临床案例引发关注。",
+      "reviewStatus": "accepted",
+      "lowPriority": false
+    },
+    {
+      "sourceId": "medical-xpress-obgyn",
+      "title": "Almost a third of women in their 20s have never been screened for cervical cancer",
+      "url": "https://medicalxpress.com/news/2026-08-women-20s-screened-cervical-cancer.html",
+      "excerpt": "The percentage of women in their 20s who have never been screened for cervical cancer has been increasing at a disturbing rate over the past 20 years—to the point that almost a third of women ages 21 to 29 have never been screened.",
+      "publishedAt": "2026-08-27T15:00:07.000Z",
+      "category": "politics",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "美国21至29岁女性中近三分之一从未接受过宫颈癌筛查，该比例在过去20年持续上升。",
+      "reviewStatus": "accepted",
+      "lowPriority": false
+    }
+  ]
+}

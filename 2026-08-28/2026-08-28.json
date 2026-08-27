@@ -1,0 +1,263 @@
+{
+  "hero_headline": "20多岁女性宫颈癌筛查覆盖率显著下降，成为今日最受关注妇产科公卫信号",
+  "daily_overview": "今日妇产科动态涵盖三项：20多岁女性宫颈癌筛查缺口扩大、产后精神病高危人群再引关注、撒哈拉以南非洲产科护理改进与死产及新生儿死亡减少相关。无新增指南或手术前沿条目。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [
+    {
+      "title": "Almost a third of women in their 20s have never been screened for cervical cancer",
+      "url": "https://medicalxpress.com/news/2026-08-women-20s-screened-cervical-cancer.html",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "过去20年，20多岁女性从未接受宫颈癌筛查的比例持续上升，目前接近三分之一。这一趋势提示年轻女性筛查可及性与健康教育存在缺口，可能影响宫颈癌早诊早治效果，需引起公卫与临床关注。",
+      "importance": 8
+    },
+    {
+      "title": "Postpartum Psychosis: Who Is Most at Risk?",
+      "url": "https://www.medpagetoday.com/popmedicine/cultureclinic/122794",
+      "source": "MedPage Today",
+      "summary": "结合 Lindsay Clancy 案件，文章聚焦产后精神病最严重结局并援引专家观点。原文摘要未细列具体高风险人群，但再次提示围产期心理健康评估与风险管理的重要性。",
+      "importance": 6
+    },
+    {
+      "title": "Maternity care improvements linked to fewer stillbirths and newborn deaths in sub-Saharan Africa",
+      "url": "https://medicalxpress.com/news/2026-08-maternity-linked-stillbirths-newborn-deaths.html",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "在撒哈拉以南非洲四国医院中，培训、质量改进与领导力支持相结合与死产和新生儿早期死亡减少相关。该结果支持系统化产科质量改进策略在资源受限地区的推广价值。",
+      "importance": 7
+    }
+  ],
+  "editor_note": "今日动态以筛查缺口与围产期质量改进为主，提示基层与系统干预仍是降低孕产妇及新生儿不良结局的关键。",
+  "keywords": [
+    "宫颈癌筛查",
+    "产后精神病",
+    "围产期心理健康",
+    "死产",
+    "新生儿死亡",
+    "产科质量改进",
+    "孕产妇健康"
+  ],
+  "research": {
+    "generatedAt": "2026-08-27T22:32:11.243Z",
+    "dataAsOf": "2026-08-27T22:32:11.243Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及Biomarkers of Hypercoagulability and Thromboinflammation in Cervical Cancer-Associated Thrombosis: A Systematic Review with Translational Insights from Breast Cancer.、Global research trends in embryonic mosaicism and mosaic embryo transfer: a bibliometric and science-mapping analysis.、Healthy dietary patterns, typical healthy foods and risk of endometrial cancer: a systematic review and meta-analysis of observational studies.。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42653312",
+        "pmid": "42653312",
+        "doi": "10.3390/ijms27167302",
+        "title": "Biomarkers of Hypercoagulability and Thromboinflammation in Cervical Cancer-Associated Thrombosis: A Systematic Review with Translational Insights from Breast Cancer.",
+        "abstract": "Cancer-associated thrombosis (CAT) is a major cause of morbidity and mortality in patients with malignancy. Biomarkers of hypercoagulability and thromboinflammation may improve risk stratification and support personalised thromboprophylaxis, but evidence remains heterogeneous, particularly in cervical cancer. A systematic review was conducted according to PRISMA 2020. PubMed/MEDLINE, Scopus, Embase, and Web of Science were searched for studies published between January 2009 and March 2025 evaluating biological, molecular, genetic, and imaging biomarkers associated with hypercoagulability and thromboinflammation in women withcervical cancer. Evidence from breast cancer and broader CAT studies was incorporated to provide translational context. Owing to substantial methodological heterogeneity, findings were synthesised qualitatively. Twenty-five cervical cancer studies met eligibility criteria. D-dimer was the most extensively investigated biomarker and was consistently associated with VTE risk, although specificity was limited. Biomarkers of thrombin generation and fibrinolytic activation, including thrombin-antithrombin complexes, prothrombin fragment 1+2, and plasmin-α2-antiplasmin complex, demonstrated greater mechanistic specificity. Multimarker panels integrating coagulation, fibrinolysis, endothelial injury, platelet activation, and inflammation showed superior predictive performance compared with single biomarkers. Emerging biomarkers, including circulating tumour DNA, extracellular vesicles, and microRNAs, further supported tumour-driven thromboinflammation. SERPINE1 and F2 gene variants were associated with thrombotic risk and adverse prognosis. Current evidence supports further evaluation of integrated multimodal biomarker strategies for CAT risk assessment, but prospective, standardised, tumour-specific studies are required before biomarker-guided approaches can be implemented in clinical practice.",
+        "journal": "International journal of molecular sciences",
+        "authors": [
+          "Alfonso Tafur",
+          "Bodaubay Roza",
+          "Dana Taizhanova",
+          "Diana Toleubekova",
+          "Dmitry Zubkov",
+          "Eleftheria Elmina Lefkou",
+          "Fakiha Siddiqui",
+          "Grigoris T Gerotziafas",
+          "Jawed Fareed",
+          "Jovana Mijucic",
+          "Mohammed A Baghdadi",
+          "Nida Saleem",
+          "Nurgul Serikbay",
+          "Patrick Vandreden",
+          "Pedro Henrique Fernandes do Carmo Las Casas",
+          "Prakasha Kempaiah",
+          "Veronica Bovt",
+          "Victoria Bitsadze",
+          "Zoubida Tazi Mezalek"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-16T00:00:00.000Z",
+        "activityAt": "2026-08-27T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42653312/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42656639",
+        "pmid": "42656639",
+        "doi": "10.3389/fmed.2026.1860968",
+        "title": "Global research trends in embryonic mosaicism and mosaic embryo transfer: a bibliometric and science-mapping analysis.",
+        "abstract": "BACKGROUND: Embryonic mosaicism has emerged as a clinically significant topic in assisted reproductive technologies following the widespread adoption of preimplantation genetic testing for aneuploidy (PGT-A). This study aimed to characterize the global research landscape, identify major contributors, and delineate emerging thematic trends in mosaic embryo research using bibliometric and science mapping approaches.\nMETHODS: We conducted a bibliometric and science mapping analysis of original research articles and reviews published between 1990 and 2025 that focused on embryonic mosaicism, mosaic embryos, mosaic embryo transfer, or PGT-A-related mosaicism in reproductive medicine. Publication trends, citation impact, collaboration networks, and thematic evolution were analyzed using Bibliometrix and VOSviewer.\nRESULTS: We included 394 eligible original research and review articles on embryonic mosaicism, mosaic embryo transfer, or PGT-A-related mosaicism in reproductive medicine, revealing a marked acceleration in research activity after 2015. The United States led in both publication volume ( n = 92 corresponding-author publications) and total citation impact (4,406 citations), while the Netherlands demonstrated the highest citation efficiency (105.3 citations/publication). The University of Kent led in institutional productivity (16 publications), while the University of Oxford demonstrated the highest per-paper citation impact (112.1 citations/publication). Three thematic clusters-cytogenetic characterization, NGS-based genomic diagnostics, and clinical outcomes-were consistently identified across keyword co-occurrence, co-citation, and bibliographic coupling analyses, with recent trends toward non-invasive PGT-A and artificial intelligence signaling an emerging fourth domain.\nCONCLUSION: This bibliometric analysis of 394 publications spanning 36 years demonstrates sustained, accelerating growth in research output since 2015, driven by the clinical adoption of NGS-based PGT-A and the subsequent dissemination of major professional society guidelines. The field has evolved from cytogenetic characterization to a clinically integrated discipline that directly informs embryo selection and IVF decision-making. Significant knowledge gaps persist regarding mosaicism thresholds, self-correction mechanisms, and long-term neonatal outcomes, underscoring the need for prospective registries and standardized reporting frameworks.",
+        "journal": "Frontiers in medicine",
+        "authors": [
+          "Mustafa Akşar",
+          "Özgecan Uçyildiz Gülmez",
+          "Sezin Eda Karsli"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-12T00:00:00.000Z",
+        "activityAt": "2026-08-27T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42656639/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42656351",
+        "pmid": "42656351",
+        "doi": "10.3389/fonc.2026.1901081",
+        "title": "Healthy dietary patterns, typical healthy foods and risk of endometrial cancer: a systematic review and meta-analysis of observational studies.",
+        "abstract": "BACKGROUND: Previous observational studies have investigated the associations between adherence to healthy dietary patterns and endometrial cancer risk; however, pooled quantitative evidence synthesizing healthy dietary patterns and typical healthy foods remains limited. Therefore, we conducted this systematic review and meta-analysis to quantitatively synthesize available evidence on healthy dietary patterns, typical healthy foods and endometrial cancer risk.\nMETHODS: Studies published up to February 2026 were systematically identified using PubMed, ISI Web of Science, Embase and China National Knowledge Infrastructure (CNKI) databases. Random- effects or fixed-effects models were used to calculate pooled relative risks (RRs) with corresponding 95% confidence intervals (CIs) where appropriate. Heterogeneity across studies was quantified using Cochran's Q test and the I 2 statistics.\nRESULTS: Thirty-five articles with a total of 533,828 participants and 17,758 endometrial cancer cases were included in our analysis. Compared with the lowest intake of healthy dietary patterns, the highest intake was associated with a 22% lower risk of endometrial cancer (RR = 0.78; 95% CI: 0.65- 0.93, P = 0.006).Additionally, the highest intakes of total vegetables (RR = 0.83;95%CI:0.75-0.92, P = 0.001) and whole grains (RR = 0.90; 95%CI:0.84-0.98, P = 0.012) were significantly associated with reduced risk of endometrial cancer. Comparatively, high intakes of fruits and fish showed no statistically significant association with endometrial cancer risk ( P >0.05).\nCONCLUSIONS: This systematic review and meta-analysis showed that high intakes of healthy dietary patterns, vegetables and whole grains were significantly with a lower risk of endometrial cancer. Further studies, particularly well-designed prospective cohort studies, are needed to confirm these findings.",
+        "journal": "Frontiers in oncology",
+        "authors": [
+          "Jiner Chen",
+          "Ke Zhao",
+          "Yiyi Xu"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-12T00:00:00.000Z",
+        "activityAt": "2026-08-27T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42656351/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 11.25,
+          "recency": 10,
+          "total": 96.25,
+          "evidenceRank": 1
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42656349",
+        "pmid": "42656349",
+        "doi": "10.3389/fendo.2026.1925219",
+        "title": "Effect of varicocele surgical repair on antisperm antibody positivity rate in patients with clinical varicocele: a systematic review and meta-analysis.",
+        "abstract": "BACKGROUND: Varicocele is a common correctable cause of male infertility, and antisperm antibodies (ASA) have been detected at varying rates in affected men. However, the effect of varicocele repair on ASA positivity remains controversial, and no meta-analysis has specifically quantified this outcome in men with clinical varicocele.\nMETHODS: We systematically searched PubMed, Web of Science, Embase, Cochrane Library, CNKI, VIP, Wanfang, and SinoMed up to April 30, 2026. Before-after studies reporting ASA positivity rates or ASA levels in men with clinical varicocele were included. Pooled risk ratios (RRs) with 95% confidence intervals (CIs) were calculated using a random-effects model. Subgroup analyses were performed by surgical technique. Sensitivity analyses and publication bias assessment were conducted.\nRESULTS: Ten studies (13 comparisons, 722 patients) were included in the RR analysis. Varicocele repair was associated with a lower ASA positivity rate compared with preoperative levels (RR = 0.42; 95% CI: 0.35-0.52; P < 0.00001). Subgroup analysis according to surgical technique showed lower postoperative ASA positivity rates in the microsurgical, laparoscopic, and high ligation groups, with the lowest pooled RR observed in the microsurgical subgroup (RR = 0.32). A significant subgroup difference was observed ( P = 0.01). Sensitivity analyses excluding studies with back-calculated data or a 6-month follow-up gave pooled RRs of 0.43 and 0.40, respectively, consistent with the primary analysis. Three studies reporting continuous ASA levels were not pooled because of extreme heterogeneity (I 2 = 98%) and were described narratively.\nCONCLUSION: Varicocele repair was associated with reduced ASA positivity among men with clinical varicocele, with the lowest pooled RR observed in the microsurgical subgroup. The results are robust across sensitivity analyses. These findings suggest that varicocele repair may influence immune-related alterations reflected by ASA positivity; however, the clinical utility of ASA testing for surgical decision-making remains uncertain.",
+        "journal": "Frontiers in endocrinology",
+        "authors": [
+          "Boxian Gao",
+          "Chongfu Zhong",
+          "Shengnan Li",
+          "Tengfei Chen"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-12T00:00:00.000Z",
+        "activityAt": "2026-08-27T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42656349/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 7.5,
+          "recency": 10,
+          "total": 92.5,
+          "evidenceRank": 1
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42658496",
+        "pmid": "42658496",
+        "doi": "10.1001/jamanetworkopen.2026.30668",
+        "title": "A Multilevel Intervention to Identify Individuals for Genetic Testing and Treatment: The IGNITE-TX Pilot Randomized Clinical Trial.",
+        "abstract": "IMPORTANCE: Cascade genetic testing (CGT) is a key strategy for cancer prevention in families with hereditary breast and ovarian cancer syndrome (HBOC) and Lynch syndrome (LS), yet uptake among at-risk relatives remains persistently low, particularly in medically underserved populations where structural and informational barriers limit access to genetic services.\nOBJECTIVE: To evaluate the feasibility and preliminary effects of IGNITE-TX (Identifying Individuals for Genetic Testing and Treatment), a scalable, bilingual, navigator-supported digital intervention designed to increase CGT uptake among at-risk relatives of individuals with HBOC or LS.\nDESIGN, SETTING, AND PARTICIPANTS: In this 2 × 2 factorial pilot randomized clinical trial, probands with HBOC or LS self-enrolled online from October 1, 2023, to February 15, 2025, after recruitment through clinical, laboratory, and community pathways across the US and invited their at-risk relatives to participate. Families were cluster-randomized to 4 study arms (1:1:1:1); outcomes were assessed at 6 months.\nINTERVENTIONS: Usual care with standard printed materials (arm 1); no-cost telegenetic counseling and testing, self-initiated by the at-risk relative (arm 2); IGNITE-TX, comprising proactive family genetic navigator support and access to a bilingual digital education and decision-support platform (arm 3); or IGNITE-TX plus no-cost telegenetic counseling and testing with navigator-assisted access (arm 4).\nMAIN OUTCOMES AND MEASURES: Feasibility outcomes were enrollment and survey completion at baseline and 6 months. Secondary outcomes were CGT completion among at-risk relatives, informed decision-making, and readiness along the genetic testing pathway.\nRESULTS: In this pilot randomized clinical trial, 60 probands (median age, 46.5 [range, 20-83] years; 59 female [98.3%]) and 144 at-risk relatives (median age, 39 [range, 18-87] years; 71 female [49.3%]) were enrolled. Among at-risk relatives, 99 (68.8%) reported at least 1 structural barrier to care. A total of 58 probands (97.2%) and 117 at-risk relatives (81.3%) completed the 6-month survey. Among at-risk relatives, 1 of 29 (3.4%) completed CGT in arm 1, 8 of 39 (20.5%) in arm 2, 17 of 30 (56.7%) in arm 3, and 36 of 46 (78.3%) in arm 4. Compared with non-IGNITE-TX arms, at-risk relatives in IGNITE-TX arms showed greater CGT completion (odds ratio, 26.9; 95% CI, 2.4-59.5), informed decision-making (48 of 60 [80.0%] vs 8 of 57 [14.0%]; P < .001), and readiness to pursue CGT (action stage: 53 of 61 [86.9%] vs 9 of 55 [16.4%]; P < .001).\nCONCLUSIONS AND RELEVANCE: In this pilot randomized clinical trial, IGNITE-TX was feasible to deliver in a community-recruited cohort with structural barriers to care and was associated with higher CGT completion and improved informed decision-making and readiness compared with non-IGNITE-TX arms. These findings support further evaluation of IGNITE-TX as a scalable navigation model for equitable hereditary cancer care.\nTRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT05677048.",
+        "journal": "JAMA network open",
+        "authors": [
+          "Alexa Kanbergs",
+          "Beth Karlan",
+          "Charles A Leath",
+          "Erica M Bednar",
+          "Heidy Bosch",
+          "Isabel Beshar",
+          "J Alejandro Rauh-Hain",
+          "Karen Lu",
+          "Karla Barajas",
+          "Kathy Pratt",
+          "Kirsten A Jorgensen",
+          "Kristofer Jennings",
+          "Maria D Iniesta",
+          "Melissa Frey",
+          "Nuria Agusti",
+          "Ravi Sharaf",
+          "Roni Nitecki Wilke",
+          "Sara Pirzadeh-Miller",
+          "Sayoni Lahiri",
+          "Tara Coffin"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-08-03T00:00:00.000Z",
+        "activityAt": "2026-08-27T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42658496/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 7.5,
+          "recency": 10,
+          "total": 91.25,
+          "evidenceRank": 0.95
+        },
+        "summaryStatus": "failed"
+      }
+    ]
+  }
+}
