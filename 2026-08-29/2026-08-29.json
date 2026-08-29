@@ -1,0 +1,268 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-08-29T02:05:22.479Z",
+    "dataAsOf": "2026-08-29T02:05:22.479Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及运动干预改善女性和男性的生育结局：一项荟萃分析的伞形综述、绘制非洲遗传性乳腺癌和卵巢癌BRCA1与BRCA2突变流行率图谱：系统评价与荟萃分析、脂质营养补充对低体重子痫前期初产妇心血管代谢危险因素的影响：一项随机对照试验。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42661515",
+        "pmid": "42661515",
+        "doi": "10.7189/jogh-16-04282",
+        "title": "Exercise intervention improves fertility outcomes in females and males: an umbrella review of meta-analyses.",
+        "abstract": "BACKGROUND: Infertility is a major global health burden, yet scalable lifestyle strategies to improve reproductive outcomes remain limited. Exercise is low cost and biologically plausible, but evidence on its association with fertility-related outcomes is dispersed across multiple meta-analyses. We therefore conducted an umbrella review of meta-analyses of randomised controlled trials evaluating exercise and fertility-related outcomes in females and males.\nMETHODS: Six databases (PubMed, Cochrane Library, Web of Science, Scopus, EBSCOhost, and Google Scholar) were searched from database inception to 24 November 2025. Eligible studies were systematic reviews with meta-analyses of randomised controlled trials. Overlap among reviews was managed using citation matrices. Methodological quality, risk of bias, and certainty of evidence were assessed using AMSTAR 2, ROBIS, and GRADE, respectively.\nRESULTS: Thirteen meta-analyses were included, covering 24,470 females and 8068 males. In females, exercise showed positive effects in reproductive hormonal profiles, including sex hormone-binding globulin and anti-Müllerian hormone. It also associated with higher ovulation rate, pregnancy rate and clinical pregnancy rate. In males, exercise was linked to amelioration in sperm quality, regarding concentration, morphology, count, and semen volume. Moreover, exercise in male participants was accompanied by higher pregnancy rate in their female partners.\nCONCLUSIONS: Exercise is associated with improved fertility and reproductive health outcomes in both females and males, supporting its potential role as an adjunctive, low-cost, noninvasive component of fertility management. However, the certainty of evidence ranged from high to very low across outcomes, with most evidence rated as low or very low certainty. Heterogeneity across populations and exercise intervention components also limited confidence in these findings. Further high-quality trials are needed to clarify optimal exercise prescriptions and strengthen the certainty of evidence.\nREGISTRATION: PROSPERO: CRD42025638675.",
+        "journal": "Journal of global health",
+        "authors": [
+          "Bekalu Kassie Alemu",
+          "Chi Chiu Wang",
+          "Lai Kwan Lam",
+          "Margie H Davenport",
+          "Yao Wang",
+          "Yiu Leung Chan"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-28T00:00:00.000Z",
+        "activityAt": "2026-08-28T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42661515/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "运动干预改善女性和男性的生育结局：一项荟萃分析的伞形综述",
+          "researchQuestion": "评估运动干预与女性和男性生育相关结局之间的关联。",
+          "studyDesign": "伞形综述（对随机对照试验荟萃分析的系统评价）",
+          "populationAndSample": "13项随机对照试验的荟萃分析，共涵盖24,470名女性和8,068名男性。",
+          "methods": "检索6个数据库（PubMed、Cochrane Library、Web of Science、Scopus、EBSCOhost和Google Scholar），时间从建库至2025年11月24日。纳入针对随机对照试验的系统评价与荟萃分析。使用引用矩阵管理综述重叠；使用AMSTAR 2评估方法学质量，ROBIS评估偏倚风险，GRADE评估证据确定性。",
+          "keyResults": "在女性中，运动对生殖激素谱有积极影响，包括性激素结合球蛋白和抗苗勒管激素；运动与更高的排卵率、妊娠率和临床妊娠率相关。在男性中，运动与精子质量改善相关，涉及精子浓度、形态、计数和精液量；男性运动与其女性伴侣的更高妊娠率相关。证据确定性从高到极低不等，大多数结局的证据确定性为低或极低。",
+          "limitations": "证据确定性从高到极低，多数为低或极低；人群和运动干预方案的异质性限制了结果可信度。",
+          "clinicalInterpretation": "运动与女性和男性生育及生殖健康结局改善相关，可能作为生育管理中一种辅助性、低成本、非侵入性的组成部分；但需更多高质量试验以明确最佳运动处方并增强证据确定性。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "014aaad9d02d7ba6c37a6d64d65f4b3977a0469b7cd71b578d52b00982dcaf45"
+      },
+      {
+        "id": "pmid:42663196",
+        "pmid": "42663196",
+        "doi": "10.31557/apjcp.2026.27.8.2761",
+        "title": "Mapping the Prevalence of BRCA1 and BRCA2 Mutations in Hereditary Breast and Ovarian Cancer Across Africa: A Systematic Review and Meta-Analysis.",
+        "abstract": "BACKGROUND: BRCA1 and BRCA2 gene mutations are major contributors to hereditary breast and ovarian cancer syndrome (HBOC). While mutation prevalence has been well-characterized in high-income countries, African populations remain underrepresented in genomics cancer research. Accurate prevalence data are essential for informing targeted screening, counselling, and personalized treatment strategies across the continent.\nOBJECTIVE: To systematically assess the prevalence and geographic distribution of pathogenic BRCA1 and BRCA2 mutations in African populations affected by HBOC, and identify opportunities to enhance genetic testing and clinical integration.\nMETHODS: A systematic review and meta-analysis were conducted in accordance with PRISMA guidelines. PubMed, Scopus, Web of Science, and Embase were searched for studies published between January 2000 and June 2024. Studies were eligible if they reported germline BRCA1 or BRCA2 mutation data in African individuals with breast and/or ovarian cancer. Two reviewers independently screened studies, extracted data, and assessed methodological quality. Meta-analyses were performed using STATA 18 and RevMan, with fixed-effects models applied. Heterogeneity was evaluated using the I² statistic, and subgroup analyses were conducted based on gene type.\nRESULTS: A total of 52 studies from 19 African countries were included. Most studies originated from Morocco (28.4%), Tunisia (18.9%), South Africa (14.7%), and Nigeria (11.6%). Cross-sectional designs were most common (68.4%). Sanger sequencing was used in 45.3% of studies, followed by next-generation sequencing (31.6%). The overall pooled prevalence of pathogenic BRCA1/2 mutations was 9.0% (95% CI: 7.7-10.4%). Subgroup analyses showed a higher prevalence for BRCA1 mutations (10.5%, 95% CI: 8.3-13.0%) compared to BRCA2 (5.5%, 95% CI: 4.9-6.1%). Over half of the studies did not distinguish between the two genes, highlighting a need for standardized gene-specific reporting.\nCONCLUSION: There is a significant burden of pathogenic BRCA mutations in African HBOC populations, particularly BRCA1. However, gaps in geographic coverage and inconsistent reporting suggest the true burden may be underestimated. Expanding access to genetic testing, improving reporting standards, and integrating hereditary cancer screening into public health strategies are critical steps to advance precision oncology across Africa.",
+        "journal": "Asian Pacific journal of cancer prevention : APJCP",
+        "authors": [
+          "Jean Paul Muambangu Milambo",
+          "Wilson Wezile Chitha"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-01T00:00:00.000Z",
+        "activityAt": "2026-08-28T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42663196/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "绘制非洲遗传性乳腺癌和卵巢癌BRCA1与BRCA2突变流行率图谱：系统评价与荟萃分析",
+          "researchQuestion": "系统评估非洲人群中与遗传性乳腺癌和卵巢癌综合征相关的致病性BRCA1和BRCA2突变流行率及地理分布。",
+          "studyDesign": "系统评价与荟萃分析",
+          "populationAndSample": "纳入来自19个非洲国家的52项研究。研究主要来自摩洛哥（28.4%）、突尼斯（18.9%）、南非（14.7%）和尼日利亚（11.6%）。横断面设计最常见（68.4%）。Sanger测序用于45.3%的研究，其次为二代测序（31.6%）。",
+          "methods": "遵循PRISMA指南。检索PubMed、Scopus、Web of Science和Embase，时间范围为2000年1月至2024年6月。纳入报告非洲乳腺癌和/或卵巢癌患者胚系BRCA1或BRCA2突变数据的研究。两名评审员独立筛选、提取数据并评估方法学质量。使用STATA 18和RevMan进行固定效应模型荟萃分析；使用I²统计量评估异质性；按基因类型进行亚组分析。",
+          "keyResults": "致病性BRCA1/2突变的总体合并流行率为9.0%（95% CI: 7.7-10.4%）。亚组分析显示BRCA1突变流行率（10.5%，95% CI: 8.3-13.0%）高于BRCA2（5.5%，95% CI: 4.9-6.1%）。超过一半的研究未区分两个基因。",
+          "limitations": "地理覆盖存在缺口，报告不一致，真实负担可能被低估。",
+          "clinicalInterpretation": "非洲遗传性乳腺癌卵巢癌人群存在显著的致病性BRCA突变负担，尤其是BRCA1。扩大基因检测可及性、改进报告标准以及将遗传性癌症筛查纳入公共卫生策略，是推进非洲精准肿瘤学的关键步骤。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "5aad994ec72d97bf6a8ece94c54f8131efc2a1759c7cc92139aa54c5b7324e03"
+      },
+      {
+        "id": "pmid:42661175",
+        "pmid": "42661175",
+        "doi": "10.1186/s12884-026-09646-5",
+        "title": "Impact of lipid-based nutritional supplementation on cardio metabolic risk factors in underweight pre-eclamptic primigravidas: A randomized controlled trial.",
+        "abstract": "BACKGROUND: Pre-eclampsia is a major cause of maternal and fetal complications in Pakistan, particularly among primigravidas, where poor nutritional status further increases risk. Emerging evidence suggests that underweight pre-eclamptic women may have distinct cardio metabolic adaptations, higher susceptibility to adverse pregnancy outcomes, and increased long-term cardiovascular risk. Lipid-based nutritional supplementation provides essential energy and micronutrients and may help improve maternal metabolic status and pregnancy outcomes in pre-eclamptic women.\nOBJECTIVE: To determine the effect of lipid-based micronutrient supplementation on lipid profile, Insulin resistance and blood pressure in underweight pre-eclamptic primigravidas at delivery, six months and twelve months postnatal.\nMETHODS: An open label randomized controlled trial was undertaken to explore the effects of supplementation on the cardio metabolic risk factors in the tertiary care hospitals of KPK, Pakistan. A total of sixty primigravidas were randomized equally into two groups; Group A: control group and Group B; supplement group. At delivery, 26 and 28 participants in Groups A and B, respectively and at 6 and 12 months, 23 and 25 participants were analyzed. In addition to their prescribed antenatal treatment of preeclampsia and IFA (60 mg iron and 400ug FA) daily, the Group B also received one 75gm of lipid-based nutrition supplement (LNS) sachet (MAAMTA) daily from their first antenatal visit after enrollment till one year postnatally. The IFA was stopped 6 weeks after delivery.\nRESULTS: There was no discernable difference among the baseline cardio-metabolic parameters like insulin, glucose & HOMA-IR of two groups at delivery. Also, the difference in BP (systolic) was non-significant while BP (diastolic) was decreased in group B (p = 0.025). Similarly, at delivery the significant declined were observed in triglyceride (TGs) levels with LNS supplementation (p = 0.007), Total cholesterol (p = 0.01), LDL (p = 0.02) and VLDL (p = 0.005). At 6 months follow-up systolic (p = 0.002) and diastolic blood pressure (p = 0.013) were decreased significantly in group B & also a significant decline in TGs (p = 0.05), cholesterol (p < 0.001), LDL (p < 0.001) and VLDL levels (p = 0.04) observed in group B. A significant decrease was seen in cholesterol levels (p < 0.001) and LDL levels (p < 0.001) in group B at 12 months postnatal.\nCONCLUSION: This study concludes that long term LNS supplementation can cause a decrease in cholesterol, TGs, LDL and VLDL in underweight pre-eclamptic primigravidas and thus may contribute to a more favorable cardio metabolic risk profile.\nTRIAL REGISTRATION: ClinicalTrials.gov Identifier: ISRCTN 15485068. Registered on April 21, 2018: https://doi.org/10.1186/ISRCTN15485068 .",
+        "journal": "BMC pregnancy and childbirth",
+        "authors": [
+          "Fozia Fozia",
+          "Hafsa Zafar",
+          "Hashim Khan",
+          "Ijaz Ahmad",
+          "Kalsoom Tariq",
+          "Mashal Zafar",
+          "Murad A Mubaraki",
+          "Nabila Sher",
+          "Rubina Nazli"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-07-23T00:00:00.000Z",
+        "activityAt": "2026-08-28T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42661175/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "脂质营养补充对低体重子痫前期初产妇心血管代谢危险因素的影响：一项随机对照试验",
+          "researchQuestion": "确定脂质微量营养素补充对低体重子痫前期初产妇在分娩时、产后6个月和12个月的脂质谱、胰岛素抵抗和血压的影响。",
+          "studyDesign": "开放标签随机对照试验",
+          "populationAndSample": "巴基斯坦开伯尔-普赫图赫瓦省三级医院60例子痫前期初产妇，随机等分为对照组（A组）和补充组（B组）。分娩时分析A组26例、B组28例；6个月和12个月时分别分析23例和25例。",
+          "methods": "两组均接受既定的子痫前期产前治疗和每日叶酸铁剂（60 mg铁和400 μg叶酸）。B组额外从入组后首次产前检查起至产后一年每日接受一袋75 g脂质营养补充剂（MAAMTA）。叶酸铁剂在产后6周停用。比较两组分娩时、产后6个月及12个月的指标。",
+          "keyResults": "分娩时两组的胰岛素、葡萄糖和HOMA-IR差异无统计学意义；收缩压差异不显著，而B组舒张压下降（p = 0.025）。分娩时B组甘油三酯（p = 0.007）、总胆固醇（p = 0.01）、LDL（p = 0.02）和VLDL（p = 0.005）显著下降。产后6个月时，B组收缩压（p = 0.002）、舒张压（p = 0.013）、甘油三酯（p = 0.05）、胆固醇（p < 0.001）、LDL（p < 0.001）和VLDL（p = 0.04）均显著下降。产后12个月时，B组胆固醇和LDL显著降低（均p < 0.001）。",
+          "limitations": "摘要未报告明确的局限性。",
+          "clinicalInterpretation": "长期脂质营养补充可降低低体重子痫前期初产妇的胆固醇、甘油三酯、LDL和VLDL，可能有助于形成更有利的心血管代谢风险谱；但研究为开放标签设计，结果需在更大样本中验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "b3255c76287c6edf136409e454bd99fa99c6ee02f2ddfcd9bfcbfd3b4fad4324"
+      },
+      {
+        "id": "pmid:42664117",
+        "pmid": "42664117",
+        "doi": "10.7417/ct.20262097",
+        "title": "Transvaginal Natural Orifice Transluminal Endoscopic Ovarian Cystectomy versus Laparoscopic Ovarian Cystectomy. A prospective quasi-randomized pilot study.",
+        "abstract": "BACKGROUND: Minimally invasive approaches have revolutionized the management of benign ovarian cysts, with laparoscopy long regarded as the gold standard. Vaginal natural orifice transluminal endoscopic surgery (vNOTES) is an emerging alternative offering the potential for scarless access and reduced postoperative discomfort. However, comparative data on pain outcomes between vNOTES and conventional laparoscopy for ovarian cystectomy remain lacking in the literature.\nOBJECTIVE: To evaluate and compare postoperative pain scores, patient satisfaction, and surgical outcomes between vNOTES and conventional laparoscopic ovarian cystectomy.\nMETHODS: This prospective quasi-randomized pilot study included 20 premenopausal women undergoing ovarian cystectomy for benign pathology at a tertiary care center at Ain Shams University Maternity hospitals, Minimal Access surgery unit. Patients were equally divided into two groups: vNOTES (n = 10) and conventional laparoscopy (n = 10).\nRESULTS: vNOTES was successfully completed in 80% of cases, with one conversion due to adhesions; laparoscopic completion rate was 90%. Operative time was shorter in the vNOTES group (85.6 ± 38.4 min) versus the laparoscopy group (103.7 ± 31.6 min), though not statistically significant (p = 0.26). Pain scores at 6 and 24 hours were lower in the vNOTES group (VAS: 6.0 and 3.0) compared to laparoscopy (VAS: 6.7 and 3.7), and patient satisfaction was significantly higher with vNOTES.\nCONCLUSIONS: vNOTES ovarian cystectomy is a safe, feasible technique associated with reduced early postoperative pain and improved patient satisfaction compared to conventional laparoscopy. These findings support the potential of vNOTES as a patient-centered surgical alternative and warrant further investigation in larger trials.",
+        "journal": "La Clinica terapeutica",
+        "authors": [
+          "Ahmed Hesham Abdel Hakim",
+          "Ahmed Mohamed Abass",
+          "Ahmed Mohamed Essam",
+          "Gasser Mohamed El Bishry",
+          "Omar Gamal Farag Mustafa",
+          "Osama Ismail Kamel"
+        ],
+        "publicationTypes": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-01-01T00:00:00.000Z",
+        "activityAt": "2026-08-28T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42664117/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "minimally-invasive-surgery"
+        ],
+        "assignedTopicId": "minimally-invasive-surgery",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 7.5,
+          "recency": 10,
+          "total": 91.25,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "经阴道自然腔道内镜卵巢囊肿切除术与腹腔镜卵巢囊肿切除术：一项前瞻性准随机先导研究",
+          "researchQuestion": "评估经阴道自然腔道内镜手术（vNOTES）与传统腹腔镜卵巢囊肿切除术在术后疼痛评分、患者满意度和手术结局方面的差异。",
+          "studyDesign": "前瞻性准随机先导研究",
+          "populationAndSample": "20名因良性病变接受卵巢囊肿切除术的绝经前女性，在艾因夏姆斯大学医院微创手术中心纳入，等分为vNOTES组（n = 10）和传统腹腔镜组（n = 10）。",
+          "methods": "比较两组的术后疼痛评分、患者满意度和手术结局。",
+          "keyResults": "vNOTES成功完成率为80%，1例因粘连中转；腹腔镜完成率为90%。vNOTES组手术时间较短（85.6 ± 38.4分钟对比103.7 ± 31.6分钟），但差异无统计学意义（p = 0.26）。vNOTES组术后6小时和24小时疼痛评分较低（VAS分别为6.0和3.0，腹腔镜组为6.7和3.7），且患者满意度显著更高。",
+          "limitations": "摘要未报告明确的局限性；结论指出需更大规模试验进一步验证。",
+          "clinicalInterpretation": "vNOTES卵巢囊肿切除术是一种安全、可行的技术，与传统腹腔镜相比可能减少早期术后疼痛并提高患者满意度；研究结论支持其作为以患者为中心的手术替代方案，但需更大规模试验确认。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "450d97590f41e3d253ecad0239c175a1611a56c63e8d64f8d73d42235345cec4"
+      },
+      {
+        "id": "pmid:42661759",
+        "pmid": "42661759",
+        "doi": "10.3389/fendo.2026.1923604",
+        "title": "First-in-human pilot trial of G-CSF-mobilised platelet-leukocyte concentrate for severe refractory Asherman syndrome.",
+        "abstract": "INTRODUCTION: Severe refractory Asherman syndrome (SRAS) remains difficult to treat, and the benefit of regenerative blood-derived therapies remains uncertain. This study evaluated whether systemic granulocyte colony-stimulating factor (G-CSF) mobilisation combined with targeted intrauterine delivery of autologous peripheral blood platelet-leukocyte concentrate (PBPLC) could improve endometrial thickness in women with SRAS.\nMETHODS: This prospective, single-centre, single-arm pilot study enrolled 10 women with infertility for at least 3 years, severe intrauterine adhesions, poor endometrial development, and failure of previous adhesiolysis, hormonal therapy, and platelet-rich plasma treatment. After G-CSF mobilisation, autologous PBPLC was injected into the endometrial-myometrial junction under hysteroscopic guidance without concurrent formal adhesiolysis. The primary outcome was the change in late pre-ovulatory endometrial thickness (LPO-EMT), analysed using the exact Wilcoxon signed-rank test and Hodges-Lehmann estimates.\nRESULTS: LPO-EMT increased from 4.6 mm (SD 0.7) to 5.8 mm (SD 1.3), with a Hodges-Lehmann paired difference of 1.08 mm (95% CI 0.45-2.50; p = 0.0039). Hysteroscopic cavity restoration, reduced adhesion severity, and subjective menstrual improvement were observed in all participants, and the AFS score decreased from 10.8 to 4.5. No grade 3 or higher treatment-related adverse events occurred. Among nine women who attempted conception, pregnancy was detected in six (66.7%; exact 95% CI 29.9-92.5), including four clinical pregnancies (44.4%; exact 95% CI 13.7-78.8). However, all clinical pregnancies ended in first-trimester miscarriage, and no ongoing pregnancies or live births were achieved during follow-up.\nDISCUSSION: These preliminary findings suggest that G-CSF-mobilised autologous PBPLC may be a feasible approach for improving endometrial thickness and uterine cavity restoration in women with SRAS. However, the findings do not establish reproductive efficacy, and larger controlled studies are warranted.\nCLINICAL TRIAL REGISTRATION: https://cris.nih.go.kr/, identifier KCT0004208.",
+        "journal": "Frontiers in endocrinology",
+        "authors": [
+          "BingJie Rui",
+          "Hye Kyung Yoon",
+          "Jae Eun Jung",
+          "Ji Hyang Kim",
+          "YanFeng Yang"
+        ],
+        "publicationTypes": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-13T00:00:00.000Z",
+        "activityAt": "2026-08-28T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42661759/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 21.25,
+          "clinicalActionability": 7.5,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 0.85
+        },
+        "summaryZh": {
+          "titleZh": "G-CSF动员血小板-白细胞浓缩物用于严重难治性Asherman综合征的首次人体先导试验",
+          "researchQuestion": "评价系统性粒细胞集落刺激因子（G-CSF）动员联合宫腔镜下自体外周血血小板-白细胞浓缩物（PBPLC）靶向输注能否改善严重难治性Asherman综合征女性的子宫内膜厚度。",
+          "studyDesign": "前瞻性、单中心、单臂先导试验",
+          "populationAndSample": "10名女性，不孕至少3年，患有严重宫腔粘连、子宫内膜发育不良，且既往粘连松解术、激素治疗和富血小板血浆治疗均失败。",
+          "methods": "在G-CSF动员后，于宫腔镜引导下将自体PBPLC注射至子宫内膜-肌层交界处，不进行同期正式粘连松解。主要结局为晚期排卵前子宫内膜厚度（LPO-EMT）的变化，使用精确Wilcoxon符号秩检验和Hodges-Lehmann估计进行分析。",
+          "keyResults": "LPO-EMT从4.6 mm（SD 0.7）增至5.8 mm（SD 1.3），Hodges-Lehmann配对差异为1.08 mm（95% CI 0.45-2.50；p = 0.0039）。所有参与者的宫腔镜宫腔恢复、粘连严重程度降低，并主观报告月经改善；AFS评分从10.8降至4.5。未发生3级或以上治疗相关不良事件。9名尝试受孕者中6名检测到妊娠（66.7%；精确95% CI 29.9-92.5），其中4例为临床妊娠（44.4%；精确95% CI 13.7-78.8）。但所有临床妊娠均在孕早期流产，随访期间无持续妊娠或活产。",
+          "limitations": "研究结果不能确立生殖有效性；样本量小、单臂设计，需更大规模对照研究。",
+          "clinicalInterpretation": "这些初步发现提示，G-CSF动员的自体PBPLC可能是改善严重难治性Asherman综合征女性子宫内膜厚度和宫腔恢复的可行方法，但尚不能确立生殖疗效，需进一步大型对照研究验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "f4c59aa7ead7ecfc55a8c997937de34ee574e79983275e0489be4f6d722ad5c4"
+      }
+    ]
+  }
+}
