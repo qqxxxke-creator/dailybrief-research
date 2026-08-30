@@ -1,0 +1,246 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-08-30T00:08:42.126Z",
+    "dataAsOf": "2026-08-30T00:08:42.126Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及NLR、MLR、PLR、SII和SIRI预测子痫前期重大不良母体结局的诊断准确性：系统综述、Ultra-processed food consumption and risk of infertility in adults: a systematic review and meta-analysis.、Early-pregnancy trunk phase angle derived from bioelectrical impedance analysis for the prediction of gestational diabetes mellitus.。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42667110",
+        "pmid": "42667110",
+        "doi": "10.1177/03000605261480854",
+        "title": "Diagnostic accuracy of NLR, MLR, PLR, SII, and SIRI for predicting major adverse maternal outcomes in preeclampsia: A systematic review.",
+        "abstract": "ObjectivePreeclampsia is a major contributor to maternal morbidity worldwide, and early identification of women at risk of major adverse maternal outcomes is essential. However, commonly used biomarkers are costly and poorly accessible. Complete blood count-derived inflammatory ratios are inexpensive and widely available, but their prognostic value remains unclear. Therefore, this study aimed to evaluate whether complete blood count-derived inflammatory ratios are associated with major adverse maternal outcomes (a diagnostic-prognostic question) and whether they can differentiate women with preeclampsia.MethodsWe conducted a Preferred Reporting Items for Systematic reviews and Meta-Analyses 2020-compliant systematic review of observational studies, prospectively registered in International Prospective Register of Systematic Reviews (CRD420251275277). We conducted an extensive search across Scopus, PubMed, Web of Science, and Lens.org for studies published between January 2015 and December 2025. Eligible studies enrolled women with preeclampsia and assessed at least one complete blood count-derived inflammatory ratio (neutrophil-to-lymphocyte ratio, platelet-to-lymphocyte ratio, monocyte-to-lymphocyte ratio, systemic immune-inflammation index, systemic inflammation response index, or delta neutrophil index ) in association with at least one major adverse maternal outcome. Risk of bias was assessed using Quality Assessment of Diagnostic Accuracy Studies-2 and certainty of evidence using Grading of Recommendations Assessment, Development and Evaluation. Owing to substantial heterogeneity in designs, ratios, cutoffs, timing, and outcomes, no meta-analysis was performed, and findings were synthesized narratively.ResultsFifteen studies comprising 11,224 participants were included, of whom 5950 were women with preeclampsia and 1700 were normotensive controls. The remaining participants formed other comparison groups within large screening or hospital cohorts. Neutrophil-to-lymphocyte ratio was the most consistently evaluated marker and demonstrated good-to-excellent discrimination for severe disease and multiorgan complications (area under the curve range: 0.70-0.99). An elevated neutrophil-to-lymphocyte ratio was associated with hemolysis elevated liver enzymes low platelets syndrome, eclampsia, acute kidney injury, and intensive care unit admission. Platelet-to-lymphocyte ratio showed inconsistent patterns, with lower values particularly reported in women with hemolysis elevated liver enzymes low platelets syndrome. Evidence for systemic immune-inflammation index and systemic inflammation response index was limited, and substantial heterogeneity in cut-off values was observed.ConclusionsComplete blood count-derived inflammatory ratios, particularly neutrophil-to-lymphocyte ratio, demonstrated potential as low-cost adjunctive markers of risk in women with preeclampsia. However, the evidence is limited by heterogeneity, predominantly retrospective designs, severity-only and composite outcomes, and sparse outcome-specific data. These ratios should not currently be used as standalone clinical decision tools, and prospective validation in high-burden settings is required before implementation.",
+        "journal": "The Journal of international medical research",
+        "authors": [
+          "Catherine R Lewis",
+          "Emmanuel Okurut",
+          "Esther Namutosi",
+          "Faith Nabushawo",
+          "Jackson Kakooza",
+          "John Katongole",
+          "Musa Kasujja",
+          "Prosper Akankwasa",
+          "Theoneste Hakizimana"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-29T00:00:00.000Z",
+        "activityAt": "2026-08-29T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42667110/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "NLR、MLR、PLR、SII和SIRI预测子痫前期重大不良母体结局的诊断准确性：系统综述",
+          "researchQuestion": "评估全血细胞计数衍生的炎症比率是否与子痫前期重大不良母体结局相关，以及能否区分子痫前期女性。",
+          "studyDesign": "系统综述（符合PRISMA 2020，前瞻性注册于PROSPERO CRD420251275277），未进行meta分析。",
+          "populationAndSample": "纳入15项观察性研究，共11224名参与者，其中5950名子痫前期女性，1700名正常血压对照，其余为大型筛查或医院队列中的其他比较组。",
+          "methods": "检索Scopus、PubMed、Web of Science和Lens.org中2015年1月至2025年12月发表的研究；纳入子痫前期女性并评估至少一种全血细胞计数衍生炎症比率与至少一种重大不良母体结局关联的研究；使用QUADAS-2评估偏倚风险，GRADE评估证据确定性；因设计、比率、截断值、时点和结局存在显著异质性，未进行meta分析，采用叙述性综合。",
+          "keyResults": "NLR是最常评估的标志物，对严重疾病和多器官并发症显示出良好至极好的区分度（AUC范围0.70-0.99）。NLR升高与HELLP综合征、子痫、急性肾损伤和ICU入住相关。PLR模式不一致，尤其在HELLP综合征女性中报告较低值。SII和SIRI证据有限，截断值存在显著异质性。",
+          "limitations": "证据受异质性、主要为回顾性设计、仅严重程度和复合结局、结局特异性数据稀少限制。",
+          "clinicalInterpretation": "全血细胞计数衍生的炎症比率，尤其是NLR，显示出作为子痫前期女性低成本辅助风险标志物的潜力，但当前证据尚不支持将其作为独立临床决策工具，需在高负担环境中进行前瞻性验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "8c4717b3f369deffb0d13da936bc3ba3bd5dbfa8f46fc66fbe40ed92761127b0"
+      },
+      {
+        "id": "pmid:42656424",
+        "pmid": "42656424",
+        "doi": "10.3389/fpubh.2026.1906808",
+        "title": "Ultra-processed food consumption and risk of infertility in adults: a systematic review and meta-analysis.",
+        "abstract": "BACKGROUND: Ultra-processed foods (UPFs) have been linked to multiple adverse health outcomes; however, their association with infertility remains unclear. We conducted a systematic review and meta-analysis to evaluate the relationship between UPF consumption and infertility risk in adults.\nMETHODS: PubMed, Web of Science, and Scopus were searched from inception to May 31, 2026. Eligible studies assessed UPF intake using validated dietary assessment tools based on the NOVA classification and reported infertility outcomes among adults aged ≥18 years. Two reviewers independently conducted study selection, data extraction, and risk of bias assessment using the Newcastle-Ottawa Scale and the Joanna Briggs Institute checklist. Pooled relative risks (RRs) with 95% confidence intervals (CIs) were estimated using random-effects models. Heterogeneity was assessed using the I 2 statistic.\nRESULTS: Four studies providing five independent effect estimates and including 8,769 participants (8,118 women and 651 men) were included. In the random-effects model, higher UPF consumption was not significantly associated with infertility risk (RR = 1.26, 95% CI: 0.94-1.69), although the point estimate suggested a positive direction of association. Substantial between-study heterogeneity was present ( I 2 = 72.0%, p = 0.006). In sex-stratified analyses, no significant association was observed among women (RR = 1.26, 95% CI: 0.79-2.00; I 2 = 68.4%). Subgroup analyses by study design and exposure assessment yielded no statistically significant associations under random-effects models.\nCONCLUSION: Current evidence does not show a statistically robust association between UPF consumption and infertility under random-effects models, although estimates consistently suggest a positive trend. Evidence remains limited by few studies, substantial heterogeneity, and self-reported outcomes. Larger prospective, sex-specific studies are needed.",
+        "journal": "Frontiers in public health",
+        "authors": [
+          "Hui Miao",
+          "Na Li",
+          "Yanzhong Feng"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-12T00:00:00.000Z",
+        "activityAt": "2026-08-27T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42656424/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 6,
+          "recency": 7.5,
+          "total": 88.5,
+          "evidenceRank": 1
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42666171",
+        "pmid": "42666171",
+        "doi": "10.3389/fendo.2026.1870018",
+        "title": "Early-pregnancy trunk phase angle derived from bioelectrical impedance analysis for the prediction of gestational diabetes mellitus.",
+        "abstract": "OBJECTIVE: To evaluate first-trimester predictors of gestational diabetes mellitus (GDM) and develop an early risk model.\nMETHODS: Women at 8-12 weeks of gestation who attended routine antenatal care at Hainan General Hospital between October 2023 and December 2024 were enrolled and followed until 24-28 gestational weeks for a 75-g oral glucose tolerance test (OGTT). Participants were classified into a GDM group or a normal glucose tolerance (NGT) group according to standard diagnostic criteria. General clinical characteristics, fasting biochemical parameters, and body-composition variables were collected in early pregnancy; Body composition was measured at 13 weeks using a multi-frequency bioelectrical impedance analyzer (InBody 770). Logistic regression, ROC, bootstrap validation, calibration plots, and decision curve analysis were used.\nRESULTS: Of 125 women (68 GDM, 57 NGT), GDM had higher age, pre-pregnancy body mass index (p-BMI), assisted conception, family hyperglycemia, first-trimester weight gain, glucose, insulin, HOMA-IR, TyG, lipids, neutrophils, uric acid, and most body-composition indices (all P<0.05). After adjustment, 25 variables (P<0.01) were grouped into six domains. HOMA-IR, triglycerides (TG), first-trimester gestational weight gain (GWG-F), and 50-kHz trunk phase angle (trunk PhA) were selected as core predictors. The BIC-based model identified HOMA-IR (OR = 3.287), TG (OR = 2.277), GWG-F (OR = 1.150), trunk phase angle (OR = 2.615), and age (OR = 1.180) as independent risk factors. The model showed good discrimination (AUC = 0.921), calibration (Hosmer-Lemeshow P = 0.287), and net benefit.\nCONCLUSION: HOMA-IR, TG, GWG-F, trunk PhA, and age are independent early GDM predictors. The combined model (AUC = 0.921) can help identify high-risk women early for timely intervention.",
+        "journal": "Frontiers in endocrinology",
+        "authors": [
+          "Boxia Fu",
+          "Fei Wang",
+          "Haiwei Liu",
+          "Huibiao Quan",
+          "Lan Gao",
+          "Qun Ji",
+          "Yikai Liu"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-14T00:00:00.000Z",
+        "activityAt": "2026-08-29T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42666171/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42666289",
+        "pmid": "42666289",
+        "doi": "10.3389/frph.2026.1837034",
+        "title": "Women's autonomy and discrimination relevant to cervical cancer screening.",
+        "abstract": "INTRODUCTION: Cervical cancer remains the fourth most common cancer affecting women worldwide, with large geographical variations in incidence and mortality rates. The objective of this study is to determine whether women's autonomy is predictive of the use of cervical cancer screening services in Senegal.\nMETHOD: This was a descriptive and analytical cross-sectional study of a sample of 312 women. Data were analyzed using R 4.2 software. Logistic regression was used to analyze associations between indicators of women's autonomy and cervical cancer screening practices.\nRESULTS: Compared with women whose partners made the decision regarding cervical cancer screening, women who reported making the decision themselves (AOR: 10.07; 95% CI: 2.72, 37.33) or jointly with their partner (AOR: 5.34; 95% CI: 1.35, 21.21) were more likely to have undergone screening. Women who were aware of the existence of a cervical cancer screening test were also more likely to have been screened than those who were not aware of it (AOR: 7.67; 95% CI: 1.41, 41.61). In contrast, women residing in Dakar were more likely to have undergone cervical cancer screening than those residing in the Kédougou region (AOR: 0.40; 95% CI: 0.17, 0.96).\nCONCLUSION: This study shows that increased autonomy among women predicts greater use of cervical cancer screening services by women. Therefore, policy interventions should focus on empowering women to make autonomous decisions about their health.",
+        "journal": "Frontiers in reproductive health",
+        "authors": [
+          "Adama Faye",
+          "Adja Maguette Diaw",
+          "Ahmadou Babana El Alaoui",
+          "Aida Barro",
+          "Aida Fall",
+          "Alexis Claire Klima",
+          "Aliath Salami",
+          "Assane Sall",
+          "Caryn E Peterson",
+          "Elle Martell",
+          "Fatou Bintou Seck",
+          "Fatoumata Binetou Diongue",
+          "Hilaire Sarr",
+          "Ibrahima Ndiaye",
+          "J Andrew Dykens",
+          "Ndèye Marème Sougou",
+          "Ndeye Mbombe Dieng",
+          "Omar Gassama",
+          "Sarah Abboud",
+          "Saria Awadalla"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-14T00:00:00.000Z",
+        "activityAt": "2026-08-29T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42666289/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42666392",
+        "pmid": "42666392",
+        "doi": "10.1016/j.gore.2026.102184",
+        "title": "Prognostic value of the nutritional risk index and prognostic nutritional index for immunotherapy outcomes in cervical Cancer.",
+        "abstract": "Objective(s): To evaluate the association of the Prognostic Nutritional Index (PNI) and Nutritional Risk Index (NRI) with immune-related adverse events, immunotherapy response, and oncologic outcomes. Methods: This study is an IRB-approved retrospective, single-institution cohort study in patients with CC treated with IO from January 1, 2017 to January 1, 2023. Clinical, oncologic, and nutritional parameters were collected from patient charts. The NRI and the PNI are validated composite prognostic indices derived from routinely collected laboratory and anthropometric parameters to evaluate nutritional status. Factors associated with NRI and PNI were evaluated. Progression-free survival (PFS) was defined from the start date of IO until progression of disease, and overall survival (OS) from time of diagnosis to death, with censoring at last follow-up. Kaplan Meier methods were used to assess survival outcomes. Results: 71 patients with CC were treated with IO during the study period. 61% ( n = 43) of patients met criteria for low-risk NRI prior to receiving IO, with the remaining 39% ( n = 27) meeting criteria for high-risk NRI. Low-risk NRI scores were associated with lower ECOG scores, increased grade 3/4 immune-related adverse events (G3/4 irAEs), and an improvement in OS, p < 0.05. Low-risk post-IO NRI scores were associated with a significant improvement in PFS and OS, p < 0.05. High-risk PNI scores were associated with higher ECOG scores, fewer G3/4 irAEs, and increased hospitalizations during IO, p < 0.05. Low-risk PNI scores were associated with improved response to IO as well as prolonged PFS and OS, p < 0.05. Conclusion(s): In this cohort of CC patients treated with IO, approximately 39% and 55% of patients were categorized as high risk according to pre-treatment NRI and PNI, respectively. High-risk PNI and NRI classifications were associated with differences in irAEs, IO response, and oncologic outcomes.",
+        "journal": "Gynecologic oncology reports",
+        "authors": [
+          "Anna Gonzalez",
+          "Casey M Cosgrove",
+          "Christa I Nagel",
+          "David E Cohn",
+          "David O'Malley",
+          "Eric McLaughlin",
+          "Floor Backes",
+          "Ioana Marcu",
+          "Jessica Fulton",
+          "Jessica Sciuva",
+          "Julia Chalif",
+          "Kristin L Bixel",
+          "Larry J Copeland",
+          "Laura Chambers",
+          "Molly Morton"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-18T00:00:00.000Z",
+        "activityAt": "2026-08-29T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42666392/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      }
+    ]
+  }
+}
