@@ -1,0 +1,281 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-08-31T23:45:24.930Z",
+    "dataAsOf": "2026-08-31T23:45:24.930Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及King's Mill前后-横向阻滞与宫颈旁阻滞在门诊宫腔镜手术中的比较：一项随机试验、探索土耳其不孕症护理中的女性声音：治疗经历的质性研究、女性不孕症中的长链非编码RNA：从分子见解到临床相关性。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42673361",
+        "pmid": "42673361",
+        "doi": "10.1080/01443615.2026.2723309",
+        "title": "King's Mill anterior-posterior and transverse versus paracervical block in operative outpatient hysteroscopy: a randomised trial.",
+        "abstract": "BACKGROUND: Pain control during operative outpatient hysteroscopy remains a clinical challenge, with the paracervical block (PCB) showing inconsistent efficacy. The King's Mill Anterior-Posterior and Transverse (KAPT) block targets the Lee-Frankenhauser plexus within the uterosacral ligament complex, where the highest density of uterine and cervical sensory fibres lies. We compared the KAPT block with the PCB in operative outpatient hysteroscopy.\nMETHODS: Single-centre, participant- and outcome assessor-blinded randomised controlled trial in a UK district general hospital. Forty-eight women undergoing operative outpatient hysteroscopy were randomised 1:1 to the KAPT block or the PCB, each delivered with 10 ml of prilocaine. Pain was measured on a 10-point Visual Analogue Scale (VAS) during the procedure and 10 minutes post-procedure (co-primary endpoints), and during cervical dilatation (exploratory). Analyses used the Mann-Whitney U test on an intention-to-treat basis, with Hodges-Lehmann median differences, percentile bootstrap 95% confidence intervals, and a hierarchical fixed-sequence testing strategy.\nRESULTS: Median intra-procedural VAS was 1 (IQR 0 to 3) with the KAPT block versus 2 (IQR 1 to 6) with the PCB (Hodges-Lehmann median difference -1.00, 95% CI -3.00 to 0.00; p = 0.040). At 10 minutes post-procedure, median VAS was 0 (IQR 0 to 1.25) versus 2 (IQR 0 to 3.25) (median difference -1.00, 95% CI -2.00 to 0.00; p = 0.011). Both co-primary endpoints reached significance under hierarchical testing. Cervical dilatation pain did not differ significantly (p = 0.146). Satisfaction was 100% in both arms; willingness to recommend was 100% (KAPT) versus 95.8% (PCB). No serious adverse events occurred.\nCONCLUSIONS: The KAPT block was associated with lower intra-procedural and post-procedural pain than the PCB, with effect sizes consistent with a clinically meaningful difference. These findings support the KAPT block as a superior, anatomically targeted alternative to the PCB and justify evaluation in a larger multicentre trial. Trial registration : ISRCTN15619382.",
+        "journal": "Journal of obstetrics and gynaecology : the journal of the Institute of Obstetrics and Gynaecology",
+        "authors": [
+          "Mohamed Saleh",
+          "Raphael Laiyemo"
+        ],
+        "publicationTypes": [
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-08-31T00:00:00.000Z",
+        "activityAt": "2026-08-31T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42673361/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "minimally-invasive-surgery"
+        ],
+        "assignedTopicId": "minimally-invasive-surgery",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 7.5,
+          "recency": 10,
+          "total": 91.25,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "King's Mill前后-横向阻滞与宫颈旁阻滞在门诊宫腔镜手术中的比较：一项随机试验",
+          "researchQuestion": "比较King's Mill前后-横向（KAPT）阻滞与宫颈旁阻滞（PCB）在接受门诊宫腔镜手术女性中的疼痛控制效果。",
+          "studyDesign": "单中心、参与者和结果评估者盲法的随机对照试验",
+          "populationAndSample": "英国一家地区综合医院中48名接受门诊宫腔镜手术的女性，按1:1随机分配至KAPT阻滞或PCB。",
+          "methods": "两组均使用10 ml丙胺卡因进行相应阻滞；通过10分视觉模拟量表（VAS）在术中和术后10分钟测量疼痛（共同主要终点），并在宫颈扩张期间测量疼痛（探索性终点）；采用Mann-Whitney U检验进行意向性治疗分析，报告Hodges-Lehmann中位数差异、百分位bootstrap 95%置信区间，并采用分层固定序贯检验。",
+          "keyResults": "术中VAS中位数：KAPT组1（IQR 0–3）对PCB组2（IQR 1–6），中位数差异-1.00，95%CI -3.00至0.00，p=0.040；术后10分钟VAS中位数：KAPT组0（IQR 0–1.25）对PCB组2（IQR 0–3.25），中位数差异-1.00，95%CI -2.00至0.00，p=0.011；两个共同主要终点在分层检验中均达到显著性。宫颈扩张疼痛无显著差异（p=0.146）。两臂满意度均为100%；愿意推荐率为100%（KAPT）对95.8%（PCB）。未发生严重不良事件。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "该试验提示KAPT阻滞可能与PCB相比降低门诊宫腔镜手术中和术后疼痛，但结论尚需更大规模多中心试验验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "92a1c105d54770be741804b3341a93a043b652710516a89eba608f46dc08f68d"
+      },
+      {
+        "id": "pmid:42670702",
+        "pmid": "42670702",
+        "doi": "10.29063/ajrh2026/v30i16.5",
+        "title": "Exploring women's voices in infertility care in Turkey: A qualitative study of treatment experiences.",
+        "abstract": "This qualitative descriptive study explored the physical, emotional, psychological, and social experiences of women undergoing infertility treatment in Turkey. Semi-structured online interviews were conducted with 21 women who had received infertility treatment within the previous year. Data were analysed using inductive thematic analysis. Six main themes were identified: healthcare professionals' approach, treatment environment, treatment-related challenges, medication issues, treatment outcomes, and overall experiences. Participants reported a lack of information, financial burdens, physical and psychological side effects of medications, health concerns, and disappointment after treatment failure. Conversely, positive experiences and hopeful outcomes strengthened psychological resilience, while spousal and social support were of critical importance. The findings demonstrate that infertility treatment is not only a medical procedure but also a multidimensional life experience, underlining the need for healthcare professionals to adopt a sensitive and holistic approach.",
+        "journal": "African journal of reproductive health",
+        "authors": [
+          "Ebru C Ekrem",
+          "Oya Kavlak",
+          "Ruken Y Altintas",
+          "Seyma K Erciyas"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-31T00:00:00.000Z",
+        "activityAt": "2026-08-31T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42670702/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "探索土耳其不孕症护理中的女性声音：治疗经历的质性研究",
+          "researchQuestion": "探讨土耳其女性在接受不孕症治疗过程中的身体、情感、心理和社会经历。",
+          "studyDesign": "质性描述性研究",
+          "populationAndSample": "21名在过去一年内接受过不孕症治疗的土耳其女性，通过半结构化在线访谈招募。",
+          "methods": "采用半结构化在线访谈收集数据，使用归纳主题分析法分析资料。",
+          "keyResults": "确定六个主要主题：医护人员的态度、治疗环境、治疗相关挑战、药物问题、治疗结果和整体经历。参与者报告了信息缺乏、经济负担、药物的身体和心理副作用、健康担忧以及治疗失败后的失望；同时，积极经历和充满希望的结果增强了心理韧性，配偶和社会支持至关重要。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "不孕症治疗是多维度的生活经历，医护人员需要采取敏感且整体性的照护方法，关注患者的心理和社会支持需求。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "df13ca616154f32c910c2cc2f4ace0d44e1797038c913c33bfe260879b38cb08"
+      },
+      {
+        "id": "pmid:42670749",
+        "pmid": "42670749",
+        "doi": "10.5653/cerm.2025.08536",
+        "title": "Long non-coding RNAs in female infertility: Advancing from molecular insights to clinical relevance.",
+        "abstract": "A broad range of genetic and epigenetic factors contributes to female infertility, a substantial proportion of which is related to ovulatory disorders. Any factor that disrupts the normal function of key ovarian components, including the follicle, the enclosed oocyte, and surrounding somatic cells, may contribute to female infertility. Investigating the molecular factors involved in folliculogenesis and reproductive pathways may substantially improve the treatment of diseases affecting the female reproductive system. Long non-coding RNAs (lncRNAs), as key regulators of molecular and biological processes, play important roles in ovarian function and female fertility. These effects are mediated through interactions with DNA, RNA, and proteins, and lncRNAs are involved in processes such as granulosa cell differentiation, follicular growth, and ovarian hormonal regulation. Altered lncRNA expression may contribute to reproductive disorders such as polycystic ovary syndrome, endometriosis, and primary ovarian insufficiency. In addition, several lncRNAs have been proposed as potential biomarkers for the diagnosis of female reproductive disorders and as novel therapeutic targets. However, many functional mechanisms of these molecules remain unclear. This review summarizes recent scientific findings on the role of lncRNAs in the pathophysiology of female infertility and evaluates their potential for the development of novel diagnostic and therapeutic approaches. A better understanding of these molecular pathways may support more effective strategies for managing and treating female infertility.",
+        "journal": "Clinical and experimental reproductive medicine",
+        "authors": [
+          "Azadeh Sadat Azadbakhsh",
+          "Elaheh Seyed Hosseini",
+          "Hossein Nikzad",
+          "Mohammad Karimian",
+          "Saeedeh Ghazaey Zidanloo",
+          "Tayyebeh Zamani-Badi"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-31T00:00:00.000Z",
+        "activityAt": "2026-08-31T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42670749/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine",
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "女性不孕症中的长链非编码RNA：从分子见解到临床相关性",
+          "researchQuestion": "总结长链非编码RNA（lncRNA）在女性不孕症病理生理中的作用，并评估其作为诊断和治疗方法的新工具潜力。",
+          "studyDesign": "综述",
+          "populationAndSample": "不适用（文献综述）。",
+          "methods": "回顾近期关于lncRNA在卵泡发生、卵巢功能和女性生殖疾病中作用的科学发现，并评估其诊断和治疗潜力。",
+          "keyResults": "lncRNA通过与DNA、RNA和蛋白质相互作用，参与颗粒细胞分化、卵泡生长和卵巢激素调节；lncRNA表达改变可能与多囊卵巢综合征、子宫内膜异位症和卵巢早衰等生殖疾病相关；多种lncRNA被提出可作为女性生殖疾病诊断的潜在生物标志物和新型治疗靶点，但许多功能机制仍不清楚。",
+          "limitations": "摘要报告了许多lncRNA的功能机制仍不清楚。",
+          "clinicalInterpretation": "进一步理解lncRNA相关分子通路可能为女性不孕症的管理和治疗提供新策略，但目前仍处于研究阶段。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "989e53195b63b580d649ba83ab9e9b354ed8ec66b81a072b5da425ede138731f"
+      },
+      {
+        "id": "pmid:42671158",
+        "pmid": "42671158",
+        "doi": "10.1158/1055-9965.epi-26-0765",
+        "title": "The KPROCS Study: A Real-World and Research Resource to Investigate Multilevel Determinants of Ovarian Cancer Treatment and Survival.",
+        "abstract": "BACKGROUND: Compared with non-Hispanic White (NHW) women, Black women with epithelial ovarian cancer (EOC) experience poorer survival, partly due to differences in treatment and access to care. However, these factors do not fully explain survival disparities, and outcomes among other groups remain understudied. Emerging evidence also suggests racial differences in molecular subtypes. The Kaiser Permanente Northern California (KPNC) Research on Ovarian Cancer Survival (KPROCS) Study was established to evaluate how multilevel factors contribute to differences in EOC treatment and survival.\nMETHODS: KPROCS includes women diagnosed at KPNC between 2000 and 2022 with invasive epithelial ovarian, fallopian tube, or peritoneal cancers at age ≥18 years. Diagnostic slides underwent centralized pathology review to classify histotypes according to the 2020 WHO criteria. Addresses at diagnosis were linked to geospatial data to assess healthcare accessibility to chemotherapy infusion centers and neighborhood characteristics. In 540 women with high-grade serous EOC, gene expression molecular subtypes are being characterized.\nRESULTS: The cohort includes 6,067 women with EOC, including 359 Black, 798 Hispanic, 906 non-Hispanic Asian American and Pacific Islander (AAPI), and 3,971 NHW women. Descriptive analyses demonstrate subpopulation differences that may influence survival. For example, Black women were least likely to receive surgery (75%), while AAPI women were the most likely (91%). Overall, 19% of the cohort received neoadjuvant chemotherapy, with the highest proportion among Black women (25%).\nCONCLUSIONS: This integrative approach will provide new insights into persistent differences in EOC treatment and survival across population subgroups.\nIMPACT: KPROCS is a unique resource for EOC disparities research.",
+        "journal": "Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology",
+        "authors": [
+          "Ekaterina Chirikova",
+          "Elisa V Bandera",
+          "Farzin Khosrow-Khavar",
+          "Jennifer A Doherty",
+          "Jia Li",
+          "Juraj Kavecansky",
+          "Laurie Grieshober",
+          "Lawrence H Kushi",
+          "Lindsay J Collin",
+          "Lisa M Moy",
+          "Martin Köbel",
+          "Pushkar P Inamdar",
+          "Salma Shariff-Marco",
+          "Scarlett Lin Gomez",
+          "Valerie S Lee"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-31T00:00:00.000Z",
+        "activityAt": "2026-08-31T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42671158/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "KPROCS研究：调查卵巢癌治疗和生存多水平决定因素的真实世界研究资源",
+          "researchQuestion": "建立KPROCS队列，评估多水平因素对上皮性卵巢癌（EOC）治疗和生存差异的贡献。",
+          "studyDesign": "真实世界队列研究（资源建设与描述性分析）",
+          "populationAndSample": "2000至2022年在Kaiser Permanente Northern California（KPNC）诊断的≥18岁侵袭性上皮性卵巢癌、输卵管癌或腹膜癌女性，共6067名，包括359名黑人、798名西班牙裔、906名亚裔美国人/太平洋岛民（AAPI）和3971名非西班牙裔白人（NHW）女性。",
+          "methods": "诊断切片接受集中病理复查，按2020年WHO标准分类组织学类型；诊断时地址关联地理空间数据以评估化疗输注中心可及性和邻里特征；对540名高级别浆液性EOC女性进行基因表达分子亚型表征。",
+          "keyResults": "接受手术的比例存在亚群差异：黑人女性最低（75%），AAPI女性最高（91%）。总体19%接受新辅助化疗，其中黑人女性比例最高（25%）。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "KPROCS作为研究资源可为上皮性卵巢癌治疗和生存差异的多水平研究提供数据，但描述性结果本身不确立因果关系。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "ba5b5e2ac2005883d9dc597cb7e1a7a0f28455fdad813640fe32db98c40686a3"
+      },
+      {
+        "id": "pmid:42671576",
+        "pmid": "42671576",
+        "doi": "10.1007/s00192-026-06867-2",
+        "title": "Prevalence and Impact of Pelvic Floor Dysfunction in a Large Cohort of Patients with Endometriosis: The Hidden Link.",
+        "abstract": "INTRODUCTION AND HYPOTHESIS: Endometriosis may contribute to the onset of pelvic floor dysfunction (PFD) but data on urologic and bowel symptoms in endometriosis patients are scant. The aim of this study is to determine the prevalence of PFD in women with endometriosis and their impact on quality of life.\nMETHODS: This is a cross-sectional study. A web survey was distributed throughout Italy from November 2022 to November 2023 to fertile age women with a self-reported diagnosis of endometriosis made by a specialist gynecologist or through surgery, assessing: medical history, pregnancies, endometriosis-related pain, urinary symptoms, bowel symptoms, sexual function, and quality of life. The informed consent was signed by 1149 women. Out of 820 eligible, 525 participants completed all questionnaires (64.0%).\nRESULTS: Of the participants, 440 (83.8%) had sexual dysfunction, 346 (65.9%) moderate/severe urinary symptoms, 348 (66.3%) moderate/severe bowel symptoms, 361 (68.8%) moderate to very severe constipation, and 404 (77.0%) mild symptoms of fecal incontinence. The reported symptoms were mainly indicative of high bladder and bowel sensitivity and voiding dysfunction. History of pregnancy did not affect urinary and bowel function, except for incontinence symptoms and rectal prolapse. Medical treatment or previous surgery for endometriosis were not associated with different urinary and bowel function scores. Urinary Distress Inventory 6 and Colorectal-Anal Distress Inventory 8 were correlated with a worse score in all domains of the Endometriosis Health Profile 30 (all rho > 0.28, p < 0.001).\nCONCLUSIONS: PFD is unexpectedly extremely common in women with endometriosis and affects sexual, urinary, and bowel function. This seems to be a potentially underestimated and underdiagnosed condition, with a severe negative impact on quality of life.",
+        "journal": "International urogynecology journal",
+        "authors": [
+          "Alessandro Sturiale",
+          "Andrea Scalera",
+          "Angela Maria Di Puoti",
+          "Clara Baroni",
+          "Cristina Zito",
+          "Elena Pisacreta",
+          "Eleonora Russo",
+          "Gaetano Scalzone",
+          "Giulia Misasi",
+          "Jessica Ottolina",
+          "Marco Torella",
+          "Maria Fernanda Brancalion",
+          "Maria Magdalena Montt-Guevara",
+          "Marta Caretto",
+          "Salvatore Tolone",
+          "Sara Gorini",
+          "Stefano Salvatore",
+          "Tiziana Fidecicchi",
+          "Tommaso Simoncini"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-31T00:00:00.000Z",
+        "activityAt": "2026-08-31T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42671576/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "大样本子宫内膜异位症患者中盆底功能障碍的患病率与影响：隐藏的联系",
+          "researchQuestion": "确定子宫内膜异位症女性盆底功能障碍（PFD）的患病率及其对生活质量的影响。",
+          "studyDesign": "横断面研究（网络调查）",
+          "populationAndSample": "2022年11月至2023年11月意大利各地育龄女性，自我报告由专科妇科医生或手术诊断为子宫内膜异位症；1149名签署知情同意，820名符合条件，525名完成所有问卷（64.0%）。",
+          "methods": "通过网络调查收集病史、妊娠情况、子宫内膜异位症相关疼痛、泌尿症状、肠道症状、性功能和生活质量数据。",
+          "keyResults": "参与者中，440名（83.8%）有性功能障碍，346名（65.9%）有中度/重度泌尿症状，348名（66.3%）有中度/重度肠道症状，361名（68.8%）有中度至非常严重的便秘，404名（77.0%）有轻度大便失禁症状。妊娠史不影响泌尿和肠道功能，但失禁症状和直肠脱垂除外。药物治疗或既往手术与不同的泌尿和肠道功能评分无关。泌尿困扰量表6（UDI-6）和结直肠肛门困扰量表8（CRADI-8）的评分与子宫内膜异位症健康档案30（EHP-30）所有领域的较差评分相关（所有rho>0.28，p<0.001）。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "盆底功能障碍在子宫内膜异位症女性中非常普遍，并对性、泌尿、肠道功能和生活质量造成负面影响，临床中应重视相关症状的评估与管理。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "7dc285197ea3d49a7238301c5a2b896d3f21c82ec8cb43e65855384b665df61b"
+      }
+    ]
+  }
+}
