@@ -1,0 +1,261 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-09-01T22:47:52.844Z",
+    "dataAsOf": "2026-09-01T22:47:52.844Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及富血小板血浆或生长因子富集血浆治疗薄型子宫内膜的疗效：随机对照试验的系统评价与Meta分析、宫腔镜下富血小板血浆与辅助生殖结局：系统评价与SWOT分析、阴道分娩史对无痛宫腔镜检查中奥赛利定联合异丙酚半数有效剂量（ED₅₀）的影响：一项改良Dixon序贯研究。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42676517",
+        "pmid": "42676517",
+        "doi": "10.3389/fendo.2026.1888268",
+        "title": "Efficacy of platelet-rich plasma or plasma rich in growth factors in the treatment of thin endometrium: a systematic review and meta-analysis of randomized controlled trials.",
+        "abstract": "BACKGROUND: Thin endometrium is a recognized cause of implantation failure in assisted reproduction, and conventional treatments are frequently disappointing. Intrauterine infusion of autologous platelet-rich plasma (PRP) or plasma rich in growth factors (PRGF) has emerged as a candidate therapy, but the randomized evidence remains limited and inconsistent.\nOBJECTIVE: To synthesize the randomized controlled evidence on the efficacy of intrauterine PRP or PRGF for women with thin endometrium, with clinical pregnancy as the primary outcome and biochemical pregnancy, endometrial thickness change, and cycle cancellation as secondary outcomes.\nDESIGN: Systematic review and random-effects meta-analysis of randomized controlled trials (RCTs).\nMETHODS: PubMed, EMBASE, the Cochrane Library, and Web of Science were searched from inception to 30 April 2026. RCTs comparing intrauterine PRP or PRGF against a non-PRP control in women with thin endometrium were eligible. Risk of bias was appraised with the Cochrane RoB 2 tool and certainty of evidence with GRADE. Dichotomous outcomes were pooled as risk ratios (RR) and endometrial thickness change as a mean difference (MD), using random-effects models with the Hartung-Knapp adjustment. Heterogeneity was quantified with the I-squared statistic, and leave-one-out sensitivity analyses were performed.\nRESULTS: Seven RCTs were included. For clinical pregnancy, five trials (343 participants) yielded a pooled RR of 2.32 (95% CI 1.02-5.31; p=0.047; I-squared=23.0%). PRP or PRGF significantly increased endometrial thickness (six trials, 370 participants; MD 0.94 mm, 95% CI 0.34-1.55; p=0.010) but with very high heterogeneity (I-squared=90.5%). Biochemical pregnancy (four trials, RR 2.32, 95% CI 0.71-7.52; p=0.108) and cycle cancellation (three trials, exploratory; RR 0.44, 95% CI 0.00-203.51; p=0.622) did not differ significantly. Leave-one-out analysis showed that the clinical-pregnancy result lost statistical significance when any of several trials was removed. Certainty of evidence was very low for pregnancy and thickness outcomes.\nCONCLUSION: Intrauterine PRP or PRGF reliably increases endometrial thickness and shows a marginally significant, fragile improvement in clinical pregnancy, without demonstrable benefit for biochemical pregnancy or cycle cancellation. Given the small number of trials, high risk of bias, and very low certainty of evidence, these findings should be regarded as preliminary and require confirmation in larger, rigorously designed RCTs.\nSYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/home, identifier CRD420261383681.",
+        "journal": "Frontiers in endocrinology",
+        "authors": [
+          "Junqin He",
+          "Mengyuan Li",
+          "Qian Han",
+          "Siqi Guan",
+          "Xiaodan Yin"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-17T00:00:00.000Z",
+        "activityAt": "2026-09-01T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42676517/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "富血小板血浆或生长因子富集血浆治疗薄型子宫内膜的疗效：随机对照试验的系统评价与Meta分析",
+          "researchQuestion": "评估宫腔内输注自体富血小板血浆（PRP）或生长因子富集血浆（PRGF）对薄型子宫内膜女性的疗效，以临床妊娠为主要结局，生化妊娠、子宫内膜厚度变化和周期取消为次要结局。",
+          "studyDesign": "系统评价与随机效应Meta分析，纳入随机对照试验（RCT）",
+          "populationAndSample": "薄型子宫内膜女性；共纳入7项RCT。临床妊娠分析包括5项试验343名参与者，子宫内膜厚度分析包括6项试验370名参与者，生化妊娠分析包括4项试验，周期取消分析包括3项试验。",
+          "methods": "检索PubMed、EMBASE、Cochrane Library和Web of Science，时间截至2026年4月30日。纳入比较宫腔内PRP/PRGF与非PRP对照的RCT。使用Cochrane RoB 2工具评估偏倚风险，GRADE评估证据确定性。二分类结局以风险比（RR）合并，子宫内膜厚度变化以均数差（MD）合并，采用随机效应模型与Hartung-Knapp调整；异质性用I²统计量量化，并进行leave-one-out敏感性分析。",
+          "keyResults": "临床妊娠：5项试验，343名参与者，合并RR=2.32（95% CI 1.02-5.31；p=0.047；I²=23.0%）。子宫内膜厚度：6项试验，370名参与者，MD=0.94 mm（95% CI 0.34-1.55；p=0.010），但异质性极高（I²=90.5%）。生化妊娠：4项试验，RR=2.32（95% CI 0.71-7.52；p=0.108）。周期取消：3项试验，探索性，RR=0.44（95% CI 0.00-203.51；p=0.622），差异均无统计学显著性。Leave-one-out分析显示，移除若干试验中的任何一个时，临床妊娠结果失去统计学显著性。妊娠和厚度结局的证据确定性均为极低。",
+          "limitations": "试验数量少、偏倚风险高、证据确定性极低；临床妊娠结果具有脆弱性（剔除若干试验后失去统计学显著性）；子宫内膜厚度合并分析存在高度异质性。",
+          "clinicalInterpretation": "宫腔内PRP或PRGF可可靠地增加子宫内膜厚度，并显示临床妊娠有边缘显著但脆弱的改善，对生化妊娠或周期取消无明确获益。鉴于证据确定性极低，这些发现应视为初步结果，需在更大规模、设计严谨的RCT中确认。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "d58b5a5af98b5edcf65857aaa6005a15209d0483b18fd74aff3e5bf61d55d4fe"
+      },
+      {
+        "id": "pmid:42678312",
+        "pmid": "42678312",
+        "doi": "10.1080/01443615.2026.2725837",
+        "title": "Hysteroscopic platelet-rich plasma and medically assisted reproduction outcomes: a systematic review and SWOT analysis.",
+        "abstract": "BACKGROUND: Platelet-rich plasma (PRP) has been proposed as an adjuvant treatment in reproductive medicine. While most evidence refers to blind intrauterine instillation, subendometrial administration under hysteroscopic guidance allows targeted delivery under direct visualisation. This systematic review aimed to synthesise the available evidence on hysteroscopic PRP administration and its impact on clinical medically assisted reproduction (MAR) outcomes.\nMETHODS: A systematic search was conducted from inception to December 2025 across major databases. Studies were included if they evaluated hysteroscopic PRP administration in women undergoing MAR, comparing reproductive outcomes between treated and control groups.\nRESULTS: Out of 142 records, 3 studies met the inclusion criteria. Study populations were heterogeneous and included women with refractory thin endometrium and/or a history of implantation failure. Hysteroscopic PRP administration protocols varied in timing, technique, and dosage. In a prospective case-control study, hysteroscopic intraendometrial PRP injection at a depth of 2-3 mm in the four uterine walls, using an ovum aspiration needle, on days 11-13 of the cycle prior to euploid frozen embryo transfer (ET), was associated with higher implantation (IR), clinical pregnancy (CPR), and live birth rates (LBR) compared with standard therapy. Conversely, no significant differences in CPR, miscarriage rate, or LBR were observed in an observational study evaluating a single intraendometrial PRP injection (35-40 mL, 2-3 mm depth), administered via endoscopic needle on days 6-8 of the menstrual cycle preceding frozen ET, alone or after electrical impulse therapy. A randomised controlled trial in women undergoing intrauterine insemination reported a significant improvement in CPR following hysteroscopic subendometrial PRP instillation in the four uterine walls (1.0 mL each).\nCONCLUSIONS: Current literature on hysteroscopic PRP administration in reproductive medicine is limited, and robust conclusions cannot yet be drawn. Well-designed randomised controlled trials with standardised protocols are needed to clarify its clinical role.",
+        "journal": "Journal of obstetrics and gynaecology : the journal of the Institute of Obstetrics and Gynaecology",
+        "authors": [
+          "Antonio Mistretta",
+          "Carla Ettore",
+          "Francesco Leonforte",
+          "Giorgia D'Amico",
+          "Giosuè Giordano Incognito",
+          "Giuseppe Ettore",
+          "Maurizio Somma",
+          "Orazio De Tommasi",
+          "Pierluigi Chieppa",
+          "Roberta Floresta",
+          "Stefano Di Michele"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-09-01T00:00:00.000Z",
+        "activityAt": "2026-09-01T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42678312/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 7.5,
+          "recency": 10,
+          "total": 92.5,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "宫腔镜下富血小板血浆与辅助生殖结局：系统评价与SWOT分析",
+          "researchQuestion": "系统评价宫腔镜下富血小板血浆（PRP）给药对辅助生殖（MAR）临床结局的影响，并进行SWOT分析。",
+          "studyDesign": "系统评价与SWOT分析",
+          "populationAndSample": "接受辅助生殖并行宫腔镜下PRP给药、且设有对照组的女性；从142条记录中纳入3项研究。研究人群异质，包括难治性薄型子宫内膜和/或植入失败史女性。",
+          "methods": "系统检索建库至2025年12月的主要数据库，纳入评估宫腔镜下PRP给药并比较治疗组与对照组生殖结局的研究。摘要未报告偏倚风险评估、数据合并方法等细节。",
+          "keyResults": "结果不一致：一项前瞻性病例对照研究中，在整倍体冻融胚胎移植前周期第11-13天，使用取卵针在子宫四壁2-3mm深度行宫腔镜下子宫内膜内PRP注射，与标准治疗相比植入率、临床妊娠率和活产率更高。另一项观察性研究在冻融胚胎移植前周期第6-8天经内镜针行单次宫腔子宫内膜内PRP注射（35-40 mL，2-3mm深度），单独或联合电脉冲治疗，未观察到临床妊娠率、流产率或活产率的显著差异。一项针对接受宫内人工授精女性的随机对照试验报告，在子宫四壁行宫腔镜下子宫内膜下PRP灌注（每壁1.0 mL）后临床妊娠率显著改善。",
+          "limitations": "现有文献有限，仅纳入3项研究；研究人群和PRP方案（时机、技术、剂量）高度异质，无法得出稳健结论。",
+          "clinicalInterpretation": "宫腔镜下PRP给药在生殖医学中的证据有限，目前不能得出可靠结论；需要采用标准化方案、设计良好的随机对照试验明确其临床作用。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "7e23688a861e8492ec5d876f76f5ef37c4c4087a90c448eebb8502ec46312650"
+      },
+      {
+        "id": "pmid:42676654",
+        "pmid": "42676654",
+        "doi": "10.3389/fmed.2026.1870477",
+        "title": "Effect of vaginal delivery history on oliceridine ED₅₀ combined with propofol during painless hysteroscopy: a modified Dixon sequential study.",
+        "abstract": "OBJECTIVE: To determine the median effective dose (ED 50 ) of oliceridine combined with propofol for inhibiting movement response during hysteroscopy in patients with versus without a history of vaginal delivery.\nMETHODS: Patients scheduled for hysteroscopy who met the inclusion criteria were stratified into two cohorts: those with no history of vaginal delivery (NVD cohort, including nulliparous women and those with prior cesarean section only) and those with a history of vaginal delivery (VD cohort). Based on the Dixon sequential outcomes, patients were further classified as negative subcohort (successful hysteroscopy, indicating no body movement) or positive subcohort (failed hysteroscopy, indicating body movement). An initial intravenous oliceridine dose of 20 μg/kg was administered, followed by propofol 1.5 mg/kg after 2 min. Successful induction was defined as a Modified Observer's Assessment of Alertness/Sedation (MOAA/S) score of 0 (no response to trapezius squeeze) and a bispectral index (BIS) < 60. Intraoperative propofol boluses (0.5 mg/kg) maintained BIS between 40 and 60. Oliceridine dosing was adjusted using a modified Dixon up-and-down sequential method (dose ratio 1:1.2 between adjacent levels) until at least seven crossover points were recorded. The primary outcome was the ED 50 of oliceridine for suppressing body movement, calculated by probit regression with 95% confidence interval (CI). Cohort comparison of ED 50 was performed using a Z -test.\nRESULTS: The ED 50 of oliceridine for suppressing movement response during hysteroscopy was 21.603 μg/kg (95% CI: 19.922-23.752) in the NVD cohort and 17.816 μg/kg (95% CI: 15.880-19.981) in the VD cohort. A formal Z -test confirmed that the NVD cohort required a 21% higher ED 50 than the VD cohort, and this difference was significant ( Z = 2.646, p = 0.008). No significant baseline differences were observed between the negative and positive subcohorts (all p > 0.05). The NVD negative subcohort required higher oliceridine ( Z = 3.19, p < 0.001); the VD negative subcohort consumed more propofol ( t = 2.11, p = 0.038) and oliceridine ( Z = 3.05, p = 0.002). No severe adverse events occurred.\nCONCLUSION: During painless hysteroscopy, the ED 50 of oliceridine combined with propofol for suppressing movement response was 21% higher in patients without a history of vaginal delivery than in those with such a history. This finding suggests that a history of vaginal delivery may be a useful factor to consider when individualizing initial oliceridine dosing in this setting.\nCLINICAL TRIAL REGISTRATION: ChiCTR2500095126 (https://www.chictr.org.cn).",
+        "journal": "Frontiers in medicine",
+        "authors": [
+          "Jianlong Du",
+          "Jinfeng Cao",
+          "Liuqin Jiang",
+          "Xiaoyu Gu",
+          "Xinyang Zhang"
+        ],
+        "publicationTypes": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-17T00:00:00.000Z",
+        "activityAt": "2026-09-01T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42676654/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "minimally-invasive-surgery"
+        ],
+        "assignedTopicId": "minimally-invasive-surgery",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 21.25,
+          "clinicalActionability": 7.5,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 0.85
+        },
+        "summaryZh": {
+          "titleZh": "阴道分娩史对无痛宫腔镜检查中奥赛利定联合异丙酚半数有效剂量（ED₅₀）的影响：一项改良Dixon序贯研究",
+          "researchQuestion": "确定有或无阴道分娩史患者宫腔镜检查中，奥赛利定联合异丙酚抑制体动反应的半数有效剂量（ED₅₀），并比较两队列的ED₅₀。",
+          "studyDesign": "改良Dixon序贯研究（临床研究）",
+          "populationAndSample": "计划行宫腔镜检查并符合纳入标准的患者，按有无阴道分娩史分为无阴道分娩史队列（NVD，包括未产妇和仅剖宫产史者）和有阴道分娩史队列（VD）。摘要未报告总样本量。",
+          "methods": "初始静脉注射奥赛利定20 μg/kg，2分钟后给予异丙酚1.5 mg/kg。成功诱导定义为改良警觉/镇静评分（MOAA/S）为0（对斜方肌挤压无反应）且脑电双频指数（BIS）<60；术中追加异丙酚0.5 mg/kg维持BIS 40-60。采用改良Dixon上下序贯法调整奥赛利定剂量（相邻剂量比1:1.2），直至记录至少7个交叉点。主要结局为奥赛利定抑制体动的ED₅₀，通过probit回归计算95%置信区间，Z检验比较队列间ED₅₀。",
+          "keyResults": "NVD队列ED₅₀为21.603 μg/kg（95% CI: 19.922-23.752），VD队列为17.816 μg/kg（95% CI: 15.880-19.981）。NVD队列所需ED₅₀比VD队列高21%，差异显著（Z=2.646，p=0.008）。阴性亚队列与阳性亚队列基线特征无显著差异（均p>0.05）。NVD阴性亚队列所需奥赛利定更高（Z=3.19，p<0.001）；VD阴性亚队列消耗更多异丙酚（t=2.11，p=0.038）和奥赛利定（Z=3.05，p=0.002）。无严重不良事件发生。",
+          "limitations": "摘要未报告研究局限性。",
+          "clinicalInterpretation": "在无痛宫腔镜检查中，无阴道分娩史患者抑制体动反应所需奥赛利定ED₅₀比有阴道分娩史者高21%，提示阴道分娩史可能是初始奥赛利定剂量个体化时值得考虑的因素。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "87b98222b079a9f78cab31789352e8a7c0c24ca0da98b922ff3f9671fbc0278e"
+      },
+      {
+        "id": "doi:10.1016/j.ajog.2026.08.044",
+        "doi": "10.1016/j.ajog.2026.08.044",
+        "title": "Neonatal outcomes in gestational diabetes trials: What clinicians should consider when interpreting treatment effects",
+        "abstract": "Determining whether treatment of gestational diabetes mellitus benefits the newborn is central to clinical guidelines and patient counseling. However, the conclusions drawn from major trials may depend not only on the biological effect of treatment, but also on the neonatal outcomes and fetal growth standards selected. Composite endpoints can obscure or exaggerate treatment effects when they combine events that differ in clinical importance, frequency, or responsiveness to treatment. Similarly, different definitions of fetal overgrowth can substantially alter the reported prevalence of large- and small-for-gestational-age infants and therefore the apparent balance between treatment benefit and possible overtreatment.",
+        "journal": "American Journal of Obstetrics & Gynecology",
+        "authors": [
+          "Christian Göbl, Tina Linder, Latife Bozkurt, Silke Wegener, Iris Dressler-Steinbach, Martina Mittlböck, Johan Jendle, Tanja Groten, Andrea Tura"
+        ],
+        "publicationTypes": [],
+        "publishedAt": "2026-09-01T00:00:00.000Z",
+        "activityAt": "2026-09-01T00:00:00.000Z",
+        "url": "https://www.ajog.org/article/S0002-9378(26)00469-2/fulltext?rss=yes",
+        "sourceKinds": [
+          "journal-rss"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "妊娠期糖尿病试验中的新生儿结局：临床医生解读治疗效果时需考虑什么",
+          "researchQuestion": "探讨妊娠期糖尿病（GDM）治疗试验中，新生儿结局和胎儿生长标准的选择如何影响治疗效果的解读。",
+          "studyDesign": "评论/观点文章（摘要未报告具体研究设计）",
+          "populationAndSample": "摘要未报告；本文为对GDM试验中新生儿结局解读的评论性讨论。",
+          "methods": "摘要未报告研究方法。文章论述了复合结局可能因合并临床重要性、发生频率或治疗反应性不同的事件而掩盖或夸大治疗效果；胎儿过度生长的不同定义会改变大于胎龄儿（LGA）和小于胎龄儿（SGA）的报告患病率，进而影响治疗获益与潜在过度治疗之间的平衡。",
+          "keyResults": "摘要未报告具体数据结果。主要论点：主要试验的结论可能不仅取决于治疗的生物学效应，还取决于所选择的新生儿结局和胎儿生长标准；复合结局可能掩盖或夸大治疗效果；不同定义可显著改变LGA和SGA报告患病率，从而影响治疗获益与可能过度治疗之间的表观平衡。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "临床医生解读GDM治疗试验时应考虑新生儿结局和胎儿生长标准的选择，因为这些定义会影响对治疗获益与风险的判断；此观点提示需要谨慎解读试验结果，但并未提供具体临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "fd5f67593b06f1447470c31ec9eceaecb289a3112fc62c25d3ca9679200ba6be"
+      },
+      {
+        "id": "pmid:42676074",
+        "pmid": "42676074",
+        "doi": "10.3346/jkms.2026.41.e226",
+        "title": "Pre-Pregnancy Physical Activity Lowers Risk of Diet-Controlled but Not Insulin-Treated Gestational Diabetes Mellitus: A Korean Prospective Cohort Study.",
+        "abstract": "BACKGROUND: Gestational diabetes mellitus (GDM) presents clinically as either diet-controlled (diet-controlled gestational diabetes mellitus, A1GDM) or medication-controlled (insulin-requiring gestational diabetes mellitus, A2GDM) subtypes. Pre-pregnancy physical activity represents a significant modifiable factor in GDM prevention and management. Therefore, this study aimed to investigate the differential effects of physical activity on these two clinical GDM subtypes.\nMETHODS: This secondary analysis utilized data from the Korean Pregnancy Outcome Study, a longitudinal multicenter cohort. From 3,457 singleton pregnant participants, physical activity was assessed at five time points from pre-pregnancy to postpartum using the International Physical Activity Questionnaire Short Form. Logistic regression models were used to estimate adjusted odds ratios (aORs) for GDM subtypes according to physical activity. Firth's penalized logistic regression was used for A2GDM analysis.\nRESULTS: Of the participants, 231 developed GDM (overall prevalence 6.7%). Among these cases, 198 (85.7%) were diagnosed with A1GDM, and 33 (14.3%) with A2GDM. No significant differences in moderate-to-vigorous physical activity or muscle-strengthening activity were observed across three groups in baseline characteristics. However, Women who performed muscle-strengthening activity before pregnancy had a significantly lower risk of A1GDM (aOR, 0.492; 95% confidence interval, 0.262-0.923), with risk decreasing as activity frequency increased ( P for trend = 0.014).\nCONCLUSION: Pre-pregnancy muscle-strengthening activity is associated with significantly reduced risk of A1GDM. These findings highlight the importance of muscle-strengthening activity before conception as a potential strategy for GDM prevention.",
+        "journal": "Journal of Korean medical science",
+        "authors": [
+          "Dong Wook Kwak",
+          "Hye-Ji Han",
+          "Hyun Jung Lee",
+          "Hyun Mee Ryu",
+          "Ji Hyae Lim",
+          "Ji Hyon Jang",
+          "Jin Hoon Chung",
+          "Jin Woo Kim",
+          "Ju Yeon Kim",
+          "MinJeong Kwak",
+          "Nari Kim",
+          "Su Ji Yang",
+          "Tae Ho Kim",
+          "Yong Jun Choi",
+          "You Jung Han"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "publishedAt": "2026-08-31T00:00:00.000Z",
+        "activityAt": "2026-09-01T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42676074/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      }
+    ]
+  }
+}
