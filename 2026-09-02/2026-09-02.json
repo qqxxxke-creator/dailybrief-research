@@ -7,8 +7,8 @@
   "editor_note": "过去24小时暂无符合质量要求的重要更新。",
   "keywords": [],
   "research": {
-    "generatedAt": "2026-09-01T22:47:52.844Z",
-    "dataAsOf": "2026-09-01T22:47:52.844Z",
+    "generatedAt": "2026-09-02T00:00:14.917Z",
+    "dataAsOf": "2026-09-02T00:00:14.917Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及富血小板血浆或生长因子富集血浆治疗薄型子宫内膜的疗效：随机对照试验的系统评价与Meta分析、宫腔镜下富血小板血浆与辅助生殖结局：系统评价与SWOT分析、阴道分娩史对无痛宫腔镜检查中奥赛利定联合异丙酚半数有效剂量（ED₅₀）的影响：一项改良Dixon序贯研究。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
@@ -40,15 +40,6 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 100,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "富血小板血浆或生长因子富集血浆治疗薄型子宫内膜的疗效：随机对照试验的系统评价与Meta分析",
           "researchQuestion": "评估宫腔内输注自体富血小板血浆（PRP）或生长因子富集血浆（PRGF）对薄型子宫内膜女性的疗效，以临床妊娠为主要结局，生化妊娠、子宫内膜厚度变化和周期取消为次要结局。",
@@ -60,7 +51,16 @@
           "clinicalInterpretation": "宫腔内PRP或PRGF可可靠地增加子宫内膜厚度，并显示临床妊娠有边缘显著但脆弱的改善，对生化妊娠或周期取消无明确获益。鉴于证据确定性极低，这些发现应视为初步结果，需在更大规模、设计严谨的RCT中确认。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "d58b5a5af98b5edcf65857aaa6005a15209d0483b18fd74aff3e5bf61d55d4fe"
+        "summaryInputHash": "d58b5a5af98b5edcf65857aaa6005a15209d0483b18fd74aff3e5bf61d55d4fe",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:42678312",
@@ -96,15 +96,6 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 7.5,
-          "recency": 10,
-          "total": 92.5,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "宫腔镜下富血小板血浆与辅助生殖结局：系统评价与SWOT分析",
           "researchQuestion": "系统评价宫腔镜下富血小板血浆（PRP）给药对辅助生殖（MAR）临床结局的影响，并进行SWOT分析。",
@@ -116,7 +107,16 @@
           "clinicalInterpretation": "宫腔镜下PRP给药在生殖医学中的证据有限，目前不能得出可靠结论；需要采用标准化方案、设计良好的随机对照试验明确其临床作用。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "7e23688a861e8492ec5d876f76f5ef37c4c4087a90c448eebb8502ec46312650"
+        "summaryInputHash": "7e23688a861e8492ec5d876f76f5ef37c4c4087a90c448eebb8502ec46312650",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 7.5,
+          "recency": 10,
+          "total": 92.5,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:42676654",
@@ -145,15 +145,6 @@
         "matchedTopicIds": [
           "minimally-invasive-surgery"
         ],
-        "assignedTopicId": "minimally-invasive-surgery",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 21.25,
-          "clinicalActionability": 7.5,
-          "recency": 10,
-          "total": 88.75,
-          "evidenceRank": 0.85
-        },
         "summaryZh": {
           "titleZh": "阴道分娩史对无痛宫腔镜检查中奥赛利定联合异丙酚半数有效剂量（ED₅₀）的影响：一项改良Dixon序贯研究",
           "researchQuestion": "确定有或无阴道分娩史患者宫腔镜检查中，奥赛利定联合异丙酚抑制体动反应的半数有效剂量（ED₅₀），并比较两队列的ED₅₀。",
@@ -165,7 +156,16 @@
           "clinicalInterpretation": "在无痛宫腔镜检查中，无阴道分娩史患者抑制体动反应所需奥赛利定ED₅₀比有阴道分娩史者高21%，提示阴道分娩史可能是初始奥赛利定剂量个体化时值得考虑的因素。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "87b98222b079a9f78cab31789352e8a7c0c24ca0da98b922ff3f9671fbc0278e"
+        "summaryInputHash": "87b98222b079a9f78cab31789352e8a7c0c24ca0da98b922ff3f9671fbc0278e",
+        "assignedTopicId": "minimally-invasive-surgery",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 21.25,
+          "clinicalActionability": 7.5,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 0.85
+        }
       },
       {
         "id": "doi:10.1016/j.ajog.2026.08.044",
@@ -186,15 +186,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "妊娠期糖尿病试验中的新生儿结局：临床医生解读治疗效果时需考虑什么",
           "researchQuestion": "探讨妊娠期糖尿病（GDM）治疗试验中，新生儿结局和胎儿生长标准的选择如何影响治疗效果的解读。",
@@ -206,7 +197,16 @@
           "clinicalInterpretation": "临床医生解读GDM治疗试验时应考虑新生儿结局和胎儿生长标准的选择，因为这些定义会影响对治疗获益与风险的判断；此观点提示需要谨慎解读试验结果，但并未提供具体临床指令。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "fd5f67593b06f1447470c31ec9eceaecb289a3112fc62c25d3ca9679200ba6be"
+        "summaryInputHash": "fd5f67593b06f1447470c31ec9eceaecb289a3112fc62c25d3ca9679200ba6be",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42676074",
@@ -245,6 +245,7 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
+        "summaryStatus": "success",
         "assignedTopicId": "maternal-fetal-medicine",
         "score": {
           "topicMatch": 50,
@@ -254,7 +255,17 @@
           "total": 85,
           "evidenceRank": 0.4
         },
-        "summaryStatus": "failed"
+        "summaryZh": {
+          "titleZh": "孕前体力活动降低饮食控制型但非胰岛素治疗型妊娠期糖尿病的风险：一项韩国前瞻性队列研究",
+          "researchQuestion": "探讨孕前体力活动对两种临床妊娠期糖尿病（GDM）亚型——饮食控制型（A1GDM）与胰岛素治疗型（A2GDM）——的差异化影响。",
+          "studyDesign": "韩国前瞻性队列研究的二次分析，为纵向多中心队列研究。",
+          "populationAndSample": "来自韩国妊娠结局研究的3,457名单胎妊娠参与者；其中231例发展为GDM（总体患病率6.7%），A1GDM 198例（85.7%），A2GDM 33例（14.3%）。",
+          "methods": "使用国际体力活动问卷简表在孕前至产后五个时间点评估体力活动。采用Logistic回归模型估计不同GDM亚型相较于体力活动的调整后比值比（aOR）；A2GDM分析采用Firth惩罚Logistic回归。",
+          "keyResults": "基线特征中，三组间中高强度体力活动或肌肉增强活动无显著差异。孕前进行肌肉增强活动的女性A1GDM风险显著降低（aOR 0.492；95%置信区间0.262-0.923），且随着活动频率增加风险降低（趋势P=0.014）。摘要未报告A2GDM的具体效应结果。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "孕前肌肉增强活动与A1GDM风险显著降低相关，提示孕前肌肉增强活动可能作为GDM预防的潜在策略；但该结论来自单篇观察性研究，不可视为临床指令或指南。"
+        },
+        "summaryInputHash": "d931703ad29551b01f0d8854e5cd04735e3b84a8f0156c4298300b888e914b5a"
       }
     ]
   }
