@@ -1,0 +1,279 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-09-02T22:49:03.477Z",
+    "dataAsOf": "2026-09-02T22:49:03.477Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及生活方式与妇科肿瘤护理干预对生活质量提升影响的Meta分析、产前挤奶对妊娠期糖尿病孕妇产前母乳喂养自我效能、泌乳启动和早期纯母乳喂养的影响：一项随机对照试验、Serplulimab联合贝伐珠单抗和化疗作为复发或转移性宫颈癌一线治疗（ASTRUM-CC01）：一项II期试验。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42683896",
+        "pmid": "42683896",
+        "doi": "10.3791/71085",
+        "title": "A Meta-Analysis of the Impact of Lifestyle and Gynecologic Oncology Nursing Interventions on the Enhancement of Quality of Life.",
+        "abstract": "This meta-analysis evaluated the impact of lifestyle and gynecologic oncology nursing interventions on quality of life (QoL). A systematic search conducted through June 2026 identified 1,123 records. Thirteen randomized controlled trials involving 915 women with gynecologic cancer were included. The impact of lifestyle and gynecologic oncology nursing interventions on QoL was evaluated using pooled mean differences (MDs) with 95% confidence intervals, using random-effects models for the general analyses and fixed-effect models for the cancer-specific subgroup analyses. Compared with controls, interventions significantly improved QoL in women with ovarian cancer (MD 4.28, 95% CI: 0.45-8.10, p = 0.03; I 2 = 0%). No significant differences emerged for 6-month QoL in mixed cancers (MD 2.11, 95% CI: -0.90-5.12, p = 0.17; I 2 = 71%), endometrial cancer at 6 months (MD 2.00, 95% CI: -1.49-5.49, p = 0.26; I 2 = 0%) or mixed cancers at 3 months (MD 6.43, 95% CI: -0.16-13.01, p = 0.06; I 2 = 74%). However, marked heterogeneity, varied designs and interventions, small sample sizes, and variable risk of bias limit the certainty of the findings, which warrant cautious interpretation and confirmation through robust, standardized trials. Lifestyle and gynecologic oncology nursing interventions significantly improved QoL only in women with ovarian cancer at 6 months. However, substantial heterogeneity, methodological limitations, and very low-certainty evidence warrant cautious interpretation, and larger standardized trials are needed.",
+        "journal": "Journal of visualized experiments : JoVE",
+        "authors": [
+          "Chuang Wang",
+          "Daijie Yang",
+          "Hongying Sun",
+          "Jialing Zhang",
+          "Tingting Gong",
+          "Yakun Gao"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Video-Audio Media"
+        ],
+        "publishedAt": "2026-09-01T00:00:00.000Z",
+        "activityAt": "2026-09-02T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42683896/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "生活方式与妇科肿瘤护理干预对生活质量提升影响的Meta分析",
+          "researchQuestion": "评估生活方式与妇科肿瘤护理干预对妇科癌症患者生活质量的影响。",
+          "studyDesign": "Meta分析（系统检索截至2026年6月；纳入13项随机对照试验）",
+          "populationAndSample": "915名妇科癌症女性；亚组分析涉及卵巢癌、混合癌症和子宫内膜癌。",
+          "methods": "通过系统检索识别1123条记录，纳入13项随机对照试验。采用合并均数差（MD）及95%置信区间评估干预对生活质量的影响；总体分析使用随机效应模型，癌症特异性亚组分析使用固定效应模型。",
+          "keyResults": "与对照组相比，干预显著改善了卵巢癌女性的生活质量（MD 4.28，95%CI 0.45-8.10，p=0.03；I²=0%）；混合癌症6个月（MD 2.11，95%CI -0.90-5.12，p=0.17；I²=71%）、子宫内膜癌6个月（MD 2.00，95%CI -1.49-5.49，p=0.26；I²=0%）和混合癌症3个月（MD 6.43，95%CI -0.16-13.01，p=0.06；I²=74%）均未见显著差异。",
+          "limitations": "明显的异质性、多样的研究设计和干预、小样本量以及不同的偏倚风险限制了证据的确定性。",
+          "clinicalInterpretation": "生活方式与妇科肿瘤护理干预仅在卵巢癌女性6个月时显著改善了生活质量，但异质性大、方法学局限和证据确定性极低，结果应谨慎解读，需更大规模的标准化试验加以确认。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "7899e82899ee2e7026b52682d62f2052581abade2fd26fbfab592e4cb85d5703"
+      },
+      {
+        "id": "pmid:42681636",
+        "pmid": "42681636",
+        "doi": "10.1186/s13006-026-00879-w",
+        "title": "Effect of antenatal milk expression on prenatal breastfeeding self-efficacy, lactogenesis onset, and early exclusive breastfeeding in pregnant women with gestational diabetes mellitus: a randomized controlled trial.",
+        "abstract": "BACKGROUND: Pregnant women with gestational diabetes mellitus (GDM) frequently experience delayed onset of lactogenesis, insufficient breastfeeding self-efficacy, and low rates of early exclusive breastfeeding, highlighting the need for effective interventions.\nOBJECTIVE: To investigate the effects of antenatal milk expression (AME) on prenatal breastfeeding self-efficacy, lactogenesis onset, and early exclusive breastfeeding in pregnant women with GDM.\nMETHODS: In this single-center randomized controlled trial conducted at Hangzhou Women's Hospital (Hangzhou Maternity and Child Health Care Hospital) in China, 240 women with GDM in late pregnancy were enrolled and randomly assigned in a 1:1 ratio to an intervention group or a control group. The control group received routine prenatal care, whereas the intervention group received routine care plus AME. Prenatal breastfeeding self-efficacy, time to lactogenesis onset, incidence of delayed onset of lactogenesis II, exclusive breastfeeding rates at 24 h postpartum and before hospital discharge, as well as social support and breastfeeding behavior prediction indicators, were compared between the two groups.\nRESULTS: A total of 233 participants completed the study. Compared with the control group, the intervention group showed significantly higher total and domain scores for prenatal breastfeeding self-efficacy; a significantly shorter time to lactogenesis onset [(41.15 ± 21.94) h vs. (55.74 ± 23.29) h]; a significantly lower incidence of delayed onset of lactogenesis II (8.6% vs. 24.8%); and significantly higher exclusive breastfeeding rates at 24 h postpartum and before discharge (81.9% vs. 66.7%, 43.1% vs. 28.2%). In addition, improvements in social support and breastfeeding behavior prediction indicators were more pronounced in the intervention group. No statistically significant differences in maternal or neonatal outcomes were observed between the groups, and no AME-related maternal or neonatal adverse events were identified during safety monitoring throughout the study period.\nCONCLUSION: AME improved prenatal breastfeeding self-efficacy in women with GDM, was associated with earlier lactogenesis onset and a lower incidence of delayed onset of lactogenesis II, and increased early in-hospital exclusive breastfeeding rates. These breastfeeding findings should be interpreted as early postpartum outcomes rather than evidence of sustained exclusive breastfeeding beyond discharge. When implemented with standardized instruction and safety monitoring in eligible women with GDM, AME may serve as a useful antenatal component of perinatal breastfeeding support.",
+        "journal": "International breastfeeding journal",
+        "authors": [
+          "Fengcheng Cai",
+          "Jingke Yang",
+          "Mengyan Xu",
+          "Mengyu Zeng",
+          "Yina Zhang",
+          "Yingying Wu",
+          "Zhangyue Jia",
+          "Zhenyi Wang"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-08-06T00:00:00.000Z",
+        "activityAt": "2026-09-02T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42681636/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "产前挤奶对妊娠期糖尿病孕妇产前母乳喂养自我效能、泌乳启动和早期纯母乳喂养的影响：一项随机对照试验",
+          "researchQuestion": "探讨产前挤奶（AME）对妊娠期糖尿病（GDM）孕妇产前母乳喂养自我效能、泌乳启动时间和早期纯母乳喂养的影响。",
+          "studyDesign": "单中心随机对照试验（中国杭州妇女医院）",
+          "populationAndSample": "240名妊娠晚期GDM孕妇，按1:1随机分为干预组和对照组；233名完成研究。",
+          "methods": "对照组接受常规产前护理，干预组在常规护理基础上加用产前挤奶（AME）。比较两组产前母乳喂养自我效能、泌乳启动时间、II期泌乳延迟发生率、产后24小时及出院前纯母乳喂养率，以及社会支持和母乳喂养行为预测指标。",
+          "keyResults": "干预组的产前母乳喂养自我效能总分和领域分显著高于对照组；泌乳启动时间显著缩短（41.15±21.94小时 vs 55.74±23.29小时）；II期泌乳延迟发生率显著降低（8.6% vs 24.8%）；产后24小时和出院前纯母乳喂养率显著升高（81.9% vs 66.7%；43.1% vs 28.2%）。社会支持和母乳喂养行为预测指标的改善在干预组更明显。两组母儿结局无统计学显著差异，研究期间安全性监测未发现与AME相关的母儿不良事件。",
+          "limitations": "摘要未明确报告研究局限性；但作者指出这些母乳喂养结果应被解释为早期产后结局，而非出院后持续纯母乳喂养的证据。",
+          "clinicalInterpretation": "在GDM孕妇中，AME可改善产前母乳喂养自我效能、与更早的泌乳启动和更低的II期泌乳延迟发生率相关，并提高院内早期纯母乳喂养率；对符合条件并接受标准化指导和安全性监测的GDM孕妇，AME可作为围产期母乳喂养支持的有用产前组成部分。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "737770d25a153ab6ab79193971f6d8885da9e3062537b60cac203a69f97aae0e"
+      },
+      {
+        "id": "pmid:42682706",
+        "pmid": "42682706",
+        "doi": "10.3389/fimmu.2026.1923961",
+        "title": "Serplulimab combined with bevacizumab and chemotherapy as first-line treatment for recurrent or metastatic cervical cancer (ASTRUM-CC01): a phase II trial.",
+        "abstract": "BACKGROUND: Cervical cancer is one of the leading causes of cancer-related mortality among women worldwide. While immune checkpoint inhibitors combined with bevacizumab and chemotherapy are emerging as the standard first-line therapy for recurrent or metastatic (R/M) cervical cancer, substantial unmet needs remain.\nMETHODS: ASTRUM-CC01 (NCT05444374) is a multicenter, single-arm, phase II trial. Eligible patients were aged 18-75 and had no prior systemic treatment. Patients received 4-6 cycles of serplulimab and bevacizumab combined with cisplatin and paclitaxel, followed by maintenance serplulimab and bevacizumab. The primary endpoint was objective response rate (ORR); secondary endpoints included progression-free survival (PFS), overall survival (OS), duration of response (DoR), and safety.\nRESULTS: A total of 48 patients were enrolled; 43 were evaluable for efficacy. The ORR was 75.00% (95% CI, 60.40-86.36), and the disease control rate (DCR) was 89.58% (95% CI, 77.34-96.53) in the overall population. The median PFS was 21.23 months (95% CI: 14.43-NR); OS data were immature, with an estimated 12-month OS rate of 83.97% (95% CI: 73.66-95.72). Subgroup analysis indicated that high baseline clinical stage at initial diagnosis was a risk factor for PFS (HR = 3.01, P = 0.023); other baseline characteristics, including PD-L1 expression levels and the location of recurrence, did not significantly correlate with survival. No new safety signals were observed. Grade ≥r adverse events occurred in 21 patients (43.75%), including fistula events in 5 patients (10.42%).\nCONCLUSION: First-line treatment with serplulimab in combination with bevacizumab and chemotherapy demonstrated promising antitumor activity and acceptable safety in R/M cervical cancer. These findings support further evaluation in phase III trials.",
+        "journal": "Frontiers in immunology",
+        "authors": [
+          "Chunyan Wang",
+          "Dengfeng Wang",
+          "Ge Lou",
+          "Guonan Zhang",
+          "Hong Liu",
+          "Jie Tang",
+          "Xiumin Li"
+        ],
+        "publicationTypes": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "publishedAt": "2026-08-18T00:00:00.000Z",
+        "activityAt": "2026-09-02T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42682706/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 21.25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 96.25,
+          "evidenceRank": 0.85
+        },
+        "summaryZh": {
+          "titleZh": "Serplulimab联合贝伐珠单抗和化疗作为复发或转移性宫颈癌一线治疗（ASTRUM-CC01）：一项II期试验",
+          "researchQuestion": "评估Serplulimab联合贝伐珠单抗和化疗作为复发或转移性（R/M）宫颈癌一线治疗的抗肿瘤活性和安全性。",
+          "studyDesign": "多中心、单臂、II期临床试验（NCT05444374）",
+          "populationAndSample": "48例患者入组，43例可评估疗效；入组条件为年龄18-75岁且既往未接受过全身治疗的R/M宫颈癌患者。",
+          "methods": "患者接受4-6周期Serplulimab和贝伐珠单抗联合顺铂和紫杉醇治疗，随后予以Serplulimab和贝伐珠单抗维持治疗。主要终点为客观缓解率（ORR）；次要终点包括无进展生存期（PFS）、总生存期（OS）、缓解持续时间（DoR）和安全性。",
+          "keyResults": "总人群ORR为75.00%（95%CI 60.40-86.36），疾病控制率（DCR）为89.58%（95%CI 77.34-96.53）。中位PFS为21.23个月（95%CI 14.43-NR）；OS数据尚不成熟，估计12个月OS率为83.97%（95%CI 73.66-95.72）。亚组分析显示，初始诊断时较高的基线临床分期是PFS的风险因素（HR=3.01，P=0.023）；其他基线特征（包括PD-L1表达水平和复发部位）与生存无显著相关。未观察到新的安全信号。≥r级不良事件在21例患者中出现（43.75%），其中5例患者（10.42%）发生瘘管事件（原文为“Grade ≥r adverse events”）。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "在本II期试验中，Serplulimab联合贝伐珠单抗和化疗作为R/M宫颈癌一线治疗显示出良好的抗肿瘤活性和可接受的安全性，结果支持进行III期试验进一步评估。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "5de34ed1d142c1ac14d0c3778616881ec74e7f0543110b30c9fe3a36385fc968"
+      },
+      {
+        "id": "pmid:42682824",
+        "pmid": "42682824",
+        "doi": "10.3389/fimmu.2026.1734660",
+        "title": "Natural killer cells in preeclampsia: an overview of current research.",
+        "abstract": "BACKGROUND: Preeclampsia is a pregnancy disorder endangering maternal and fetal health, often accompanied by complications such as hypertension and proteinuria. Natural killer cells are indispensable in the occurrence and development of preeclampsia. Up to now, there has been no bibliometric study on NK cells and preeclampsia. Thus, we conducted a bibliometric analysis based on a systematic literature retrieval strategy.\nMETHODS: Publications related to NK cells and preeclampsia were retrieved from the Web of Science Core Collection and PubMed databases. CiteSpace and VOSviewer were applied to analyze publication trends, collaboration networks, co-citation patterns, and research hotspots.\nRESULTS: The findings indicated that the prevailing research focal points in this domain predominantly encompass the maternal-fetal interface in preeclampsia, inflammatory mechanisms, immune mechanisms, and other related areas. Implantation, extracellular vesicles, and oxidative stress represent the emerging hotspots in this field in recent years.\nCONCLUSION: This study has systematically summarized the future trends in preeclampsia and natural killer cells research through bibliometrics, highlighted the current research frontiers and development trends, and provided valuable references for researchers in this field.",
+        "journal": "Frontiers in immunology",
+        "authors": [
+          "Cuijuan Zhang",
+          "Hang Su",
+          "Qichun Chen",
+          "Qinghua Li",
+          "Weiwei Yang",
+          "Xuehui Bi",
+          "Yipeng Zhang",
+          "Yuchao Zhang",
+          "Yuhan Meng"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-18T00:00:00.000Z",
+        "activityAt": "2026-09-02T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42682824/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 6,
+          "recency": 10,
+          "total": 91,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "子痫前期中的自然杀伤细胞：当前研究概述",
+          "researchQuestion": "对自然杀伤（NK）细胞与子痫前期相关的研究进行文献计量分析，以总结研究现状、前沿和趋势。",
+          "studyDesign": "文献计量学分析（基于系统文献检索策略）",
+          "populationAndSample": "从Web of Science核心合集和PubMed数据库检索到的NK细胞与子痫前期相关出版物。",
+          "methods": "采用CiteSpace和VOSviewer分析发表趋势、合作网络、共被引模式和研究热点。",
+          "keyResults": "该领域的主要研究热点涵盖子痫前期的母胎界面、炎症机制、免疫机制等相关领域；着床、细胞外囊泡和氧化应激是近年来出现的新兴热点。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "该文献计量研究系统总结了子痫前期与NK细胞研究的未来趋势，凸显当前研究前沿和发展方向，为该领域研究人员提供参考。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "0950a497c18c40cdd30d70e606127de977c95961004a2e261dfa2542415c17cb"
+      },
+      {
+        "id": "pmid:42680949",
+        "pmid": "42680949",
+        "doi": "10.1007/s10815-026-04020-y",
+        "title": "Consistency and reproducibility of sonographic diagnosis of adenomyosis: an interobserver variability study.",
+        "abstract": "PURPOSE: To study whether there is a marked interobserver discrepancy in the diagnosis of adenomyosis based on reviewing stored sonographic images of infertile patients?\nMETHODS: Three reproductive endocrinology and infertility specialists reviewed stored ultrasound images of 2134 patients attending tertiary IVF-centers. The physicians were blinded to each other as well as to the original diagnosis. The revised Morphological Uterus Sonographic Assessment (MUSA) criteria was used.\nRESULTS: The overall three-rater agreement for adenomyosis (Yes/No) was 62.3%, with Fleiss' κ = 0.317 (z = 25.4; p < 0.001), indicating fair interobserver reliability. Within cases where all three raters diagnosed adenomyosis (n = 179), interobserver reliability for revised MUSA signs ranged from slight to fair. Overall, even among adenomyosis-positive cases, reproducibility of individual signs varied considerably, with myometrial cysts being the most commonly agreed upon direct feature (K 0.315, 95% CI 0.213-0.412) and asymmetrical myometrial thickening for the indirect features (K 0.406, 95% CI 0.321-0.491).\nCONCLUSIONS: Our findings demonstrate only fair interobserver reproducibility for the sonographic assessment of adenomyosis based on the assessment of stored static ultrasound images using the revised MUSA criteria. This degree of variability highlights the challenges associated with consistent interpretation of sonographic features and suggests a need for further refinement and improved standardization of diagnostic approaches.",
+        "journal": "Journal of assisted reproduction and genetics",
+        "authors": [
+          "Anastasia Salame",
+          "Barbara Lawrenz",
+          "Hamidreza Didar",
+          "Human Fatemi",
+          "Maryam Farid Mojtahedi",
+          "Raquel Del Gallego",
+          "Salma Selim",
+          "Sara Peralta",
+          "Tatjana Blagojevic"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-02T00:00:00.000Z",
+        "activityAt": "2026-09-02T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42680949/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology",
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "子宫腺肌病超声诊断的一致性和可重复性：一项观察者间变异研究",
+          "researchQuestion": "评估基于存储超声图像的不同观察者对子宫腺肌病诊断是否存在显著差异。",
+          "studyDesign": "观察者间变异研究（对存储超声图像进行回顾性评估）",
+          "populationAndSample": "2134例在三级IVF中心就诊的不孕患者。",
+          "methods": "3位生殖内分泌与不孕症专家独立回顾存储超声图像，彼此盲法且对原始诊断盲法，使用修订版形态学子宫超声评估（MUSA）标准。",
+          "keyResults": "三观察者对于子宫腺肌病（是/否）的总一致率为62.3%，Fleiss' κ=0.317（z=25.4；p<0.001），表明观察者间可靠性一般。在三位观察者均诊断子宫腺肌病的病例（n=179）中，修订版MUSA征象的观察者间可靠性介于轻微至一般之间。总体而言，即使在腺肌病阳性病例中，各征象的可重复性差异也很大，其中子宫肌层囊肿是最常达成一致意见的直接征象（K=0.315，95%CI 0.213-0.412），不对称肌层增厚是最常达成一致意见的间接征象（K=0.406，95%CI 0.321-0.491）。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "基于修订版MUSA标准和静态超声图像，子宫腺肌病超声评估的观察者间可重复性仅为一般。这种变异性凸显了超声特征一致解读的挑战，提示需要进一步完善和改善诊断方法的标准化。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "3405a7ab8ba028445c67e13ac04233817b5e9340f9c037e5894d5ddc7b2da929"
+      }
+    ]
+  }
+}
