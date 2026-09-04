@@ -1,0 +1,265 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-09-04T00:01:05.617Z",
+    "dataAsOf": "2026-09-04T00:01:05.617Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及硫酸镁用于有早产风险的女性以保护胎儿神经、多组分复合物治疗男性不育症的疗效和安全性：一项开放标签随机比较临床研究、妇科癌症手术女性下肢淋巴水肿预防方案：一项试点随机对照研究。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42689525",
+        "pmid": "42689525",
+        "doi": "10.1002/14651858.cd004661.pub5",
+        "title": "Magnesium sulphate for women at risk of preterm birth for neuroprotection of the fetus.",
+        "abstract": "BACKGROUND: Magnesium sulphate is a common therapy in perinatal care. Its benefits when given to women at risk of preterm birth for fetal neuroprotection (prevention of cerebral palsy for children) were shown in a 2009 Cochrane review. Internationally, use of magnesium sulphate for preterm cerebral palsy prevention is now recommended practice. As new randomised controlled trials (RCTs) and longer-term follow-up of prior RCTs have since been conducted, this review updates the previously published version.\nOBJECTIVES: To assess the effectiveness and safety of magnesium sulphate as a fetal neuroprotective agent when given to women considered to be at risk of preterm birth.\nSEARCH METHODS: We searched Cochrane Pregnancy and Childbirth's Trials Register, ClinicalTrials.gov, and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) on 17 March 2023, as well as reference lists of retrieved studies.\nSELECTION CRITERIA: We included RCTs and cluster-RCTs of women at risk of preterm birth that assessed prenatal magnesium sulphate for fetal neuroprotection compared with placebo or no treatment. All methods of administration (intravenous, intramuscular, and oral) were eligible. We did not include studies where magnesium sulphate was used with the primary aim of preterm labour tocolysis, or the prevention and/or treatment of eclampsia.\nDATA COLLECTION AND ANALYSIS: Two review authors independently assessed RCTs for inclusion, extracted data, and assessed risk of bias and trustworthiness. Dichotomous data were presented as summary risk ratios (RR) with 95% confidence intervals (CI), and continuous data were presented as mean differences with 95% CI. We assessed the certainty of the evidence using the GRADE approach.\nMAIN RESULTS: We included six RCTs (5917 women and their 6759 fetuses alive at randomisation). All RCTs were conducted in high-income countries. The RCTs compared magnesium sulphate with placebo in women at risk of preterm birth at less than 34 weeks' gestation; however, treatment regimens and inclusion/exclusion criteria varied. Though the RCTs were at an overall low risk of bias, the certainty of evidence ranged from high to very low, due to concerns regarding study limitations, imprecision, and inconsistency. Primary outcomes for infants/children: Up to two years' corrected age, magnesium sulphate compared with placebo reduced cerebral palsy (RR 0.71, 95% CI 0.57 to 0.89; 6 RCTs, 6107 children; number needed to treat for additional beneficial outcome (NNTB) 60, 95% CI 41 to 158) and death or cerebral palsy (RR 0.87, 95% CI 0.77 to 0.98; 6 RCTs, 6481 children; NNTB 56, 95% CI 32 to 363) (both high-certainty evidence). Magnesium sulphate probably resulted in little to no difference in death (fetal, neonatal, or later) (RR 0.96, 95% CI 0.82 to 1.13; 6 RCTs, 6759 children); major neurodevelopmental disability (RR 1.09, 95% CI 0.83 to 1.44; 1 RCT, 987 children); or death or major neurodevelopmental disability (RR 0.95, 95% CI 0.85 to 1.07; 3 RCTs, 4279 children) (all moderate-certainty evidence). At early school age, magnesium sulphate may have resulted in little to no difference in death (fetal, neonatal, or later) (RR 0.82, 95% CI 0.66 to 1.02; 2 RCTs, 1758 children); cerebral palsy (RR 0.99, 95% CI 0.69 to 1.41; 2 RCTs, 1038 children); death or cerebral palsy (RR 0.90, 95% CI 0.67 to 1.20; 1 RCT, 503 children); and death or major neurodevelopmental disability (RR 0.81, 95% CI 0.59 to 1.12; 1 RCT, 503 children) (all low-certainty evidence). Magnesium sulphate may also have resulted in little to no difference in major neurodevelopmental disability, but the evidence is very uncertain (average RR 0.92, 95% CI 0.53 to 1.62; 2 RCTs, 940 children; very low-certainty evidence). Secondary outcomes for infants/children: Magnesium sulphate probably resulted in little to no difference in severe intraventricular haemorrhage (grade 3 or 4) (RR 0.81, 95% CI 0.64 to 1.04; 6 RCTs, 6542 infants; moderate-certainty evidence) and may have resulted in little to no difference in chronic lung disease/bronchopulmonary dysplasia (average RR 0.92, 95% CI 0.77 to 1.10; 5 RCTs, 6689 infants; low-certainty evidence). Primary outcomes for women: Magnesium sulphate may have resulted in little or no difference in severe maternal outcomes potentially related to treatment (death, cardiac arrest, respiratory arrest) (RR 0.32, 95% CI 0.01 to 7.92; 4 RCTs, 5300 women; low-certainty evidence). However, magnesium sulphate probably increased maternal adverse effects severe enough to stop treatment (average RR 3.21, 95% CI 1.88 to 5.48; 3 RCTs, 4736 women; moderate-certainty evidence). Secondary outcomes for women: Magnesium sulphate probably resulted in little to no difference in caesarean section (RR 0.96, 95% CI 0.91 to 1.02; 5 RCTs, 5861 women) and postpartum haemorrhage (RR 0.94, 95% CI 0.80 to 1.09; 2 RCTs, 2495 women) (both moderate-certainty evidence). Breastfeeding at hospital discharge and women's views of treatment were not reported.\nAUTHORS: The currently available evidence indicates that magnesium sulphate for women at risk of preterm birth for neuroprotection of the fetus, compared with placebo, reduces cerebral palsy, and death or cerebral palsy, in children up to two years' corrected age. Magnesium sulphate may result in little to no difference in outcomes in children at school age. While magnesium sulphate may result in little to no difference in severe maternal outcomes (death, cardiac arrest, respiratory arrest), it probably increases maternal adverse effects severe enough to stop treatment. Further research is needed on the longer-term benefits and harms for children, into adolescence and adulthood. Additional studies to determine variation in effects by characteristics of women treated and magnesium sulphate regimens used, along with the generalisability of findings to low- and middle-income countries, should be considered.",
+        "journal": "The Cochrane database of systematic reviews",
+        "authors": [
+          "Caroline A Crowther",
+          "Dwight J Rouse",
+          "Emily S Shepherd",
+          "Hanne T Wolf",
+          "Lex W Doyle",
+          "Peter Pryde",
+          "Philippa Middleton",
+          "Shona Goldsmith",
+          "Stéphane Marret"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-09-03T00:00:00.000Z",
+        "activityAt": "2026-09-03T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42689525/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "硫酸镁用于有早产风险的女性以保护胎儿神经",
+          "researchQuestion": "评估硫酸镁作为胎儿神经保护剂，给予被认为有早产风险的女性时的有效性和安全性。",
+          "studyDesign": "Cochrane系统综述与Meta分析，纳入随机对照试验和群随机对照试验",
+          "populationAndSample": "6项随机对照试验，共5917名女性和6759名随机时存活的胎儿；所有试验均在高收入国家开展，纳入孕周小于34周的有早产风险女性。",
+          "methods": "检索Cochrane妊娠与分娩试验注册库、ClinicalTrials.gov、WHO ICTRP及参考文献列表。纳入比较硫酸镁与安慰剂或无治疗的RCT和群随机对照试验，静脉、肌注和口服途径均可。两名综述作者独立评估纳入、提取数据、偏倚风险和可信度；二分类数据以风险比（RR）和95%置信区间（CI）表示，连续数据以均数差表示；使用GRADE评估证据确定性。",
+          "keyResults": "至校正年龄2岁时，硫酸镁与安慰剂相比降低了脑瘫（RR 0.71，95%CI 0.57至0.89；6项RCT，6107名儿童；需治疗获益人数NNTB 60，95%CI 41至158）和死亡或脑瘫（RR 0.87，95%CI 0.77至0.98；6项RCT，6481名儿童；NNTB 56，95%CI 32至363），均为高确定性证据。死亡（胎儿、新生儿或后期死亡）可能几乎没有差异（RR 0.96，95%CI 0.82至1.13，6项RCT，6759名儿童）；重大神经发育障碍（RR 1.09，95%CI 0.83至1.44，1项RCT，987名儿童）；死亡或重大神经发育障碍（RR 0.95，95%CI 0.85至1.07，3项RCT，4279名儿童），均为中等确定性证据。学龄早期，死亡（RR 0.82，95%CI 0.66至1.02）、脑瘫（RR 0.99，95%CI 0.69至1.41）、死亡或脑瘫（RR 0.90，95%CI 0.67至1.20）、死亡或重大神经发育障碍（RR 0.81，95%CI 0.59至1.12）为低确定性证据；重大神经发育障碍为极低确定性证据（平均RR 0.92，95%CI 0.53至1.62）。严重脑室内出血（3级或4级）RR 0.81（95%CI 0.64至1.04）；慢性肺病/支气管肺发育不良平均RR 0.92（95%CI 0.77至1.10）。妇女严重母体结局（死亡、心脏骤停、呼吸骤停）RR 0.32（95%CI 0.01至7.92，低确定性）；严重到需要停止治疗的不良反应平均RR 3.21（95%CI 1.88至5.48，中等确定性）；剖宫产RR 0.96（95%CI 0.91至1.02）；产后出血RR 0.94（95%CI 0.80至1.09）。出院时母乳喂养和妇女对治疗的观点未报告。",
+          "limitations": "证据确定性范围从高至极低，存在研究局限性、不精确和不一致；各试验的治疗方案及纳入/排除标准不同；出院时母乳喂养和妇女对治疗的观点未报告；需要进一步评估儿童直至青春期和成年的长期获益与危害。",
+          "clinicalInterpretation": "现有证据表明，与安慰剂相比，对有早产风险的孕妇使用硫酸镁进行胎儿神经保护，可降低儿童校正年龄2岁以内脑瘫及死亡或脑瘫的风险，且可能对学龄期结局几乎没有差异；虽然严重母体结局可能几乎没有差异，但很可能增加严重到需停止治疗的不良反应。这些结论来自系统综述证据，不应被解读为临床指南或指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "27dee91672e6968c17bb1f908595d87b33f46075af89d8acb3d689ee952a494a"
+      },
+      {
+        "id": "pmid:42687540",
+        "pmid": "42687540",
+        "title": "[Open-label randomized comparative clinical study of the efficacy and safety of the multicomponent complex in the treatment of male infertility].",
+        "abstract": "AIM: To evaluate the efficacy and safety of the multicomponent complex in the treatment of male infertility.\nMATERIALS AND METHODS: A total of 90 patients aged 18-45 years with a confirmed diagnosis of male infertility, defined as oligozoospermia and/or asthenozoospermia were included in the study. After application of the exclusion criteria, the patients were divided into three groups. Patients in group 1 received standard lifestyle modification recommendations and the complex dietary supplement, 1 sachet once daily for 3 months; patients in group 2 received 2 sachets daily; and patients in group 3 received standard lifestyle modification recommendations only. Semen analysis was performed before enrolment and on days 30, 60, and 90. Statistical analysis was performed using IBM SPSS Statistics version 26.0.00.\nRESULTS: After 90 days of therapy, significant differences between the study groups were identified in sperm motility parameters and reactive oxygen species (ROS) generation. Significant between-group differences were observed in the proportion of progressively motile spermatozoa (p=0.0037), total sperm motility (p=0.002), total progressively motile sperm count (p=0.029), total motile sperm count (p=0.0165), and ROS levels (p=0.0086). Ejaculate volume, sperm concentration, total sperm count, sperm morphology, DNA fragmentation index, and HBA test results did not differ significantly between the groups (p>0.05). Post hoc analysis showed significant differences in the proportion of motile and progressively motile spermatozoa, as well as in ROS levels, between groups 1 and 3 and between groups 2 and 3; no significant differences were observed between groups 1 and 2.\nCONCLUSION: The use of the complex dietary supplement was associated with improved sperm motility parameters and reduced oxidative stress as early as during the first 1-2 months of administration, with the effect persisting through day 90.",
+        "journal": "Urologiia (Moscow, Russia : 1999)",
+        "authors": [
+          "A Trupakova A",
+          "I Gamidov S",
+          "I Safiullin R",
+          "U Mammaev R",
+          "V Shatylko T",
+          "Yu Popova A"
+        ],
+        "publicationTypes": [
+          "Comparative Study",
+          "English Abstract",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-07-01T00:00:00.000Z",
+        "activityAt": "2026-09-03T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42687540/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "多组分复合物治疗男性不育症的疗效和安全性：一项开放标签随机比较临床研究",
+          "researchQuestion": "评估多组分复合物治疗男性不育症的疗效和安全性。",
+          "studyDesign": "开放标签随机对照比较临床研究",
+          "populationAndSample": "90名年龄18—45岁、确诊为男性不育症（少精子症和/或弱精子症）的患者；应用排除标准后分为3组。",
+          "methods": "第1组接受标准生活方式调整建议和复合膳食补充剂，每日1袋，共3个月；第2组每日2袋；第3组仅接受标准生活方式调整建议。在入选前及第30、60、90天进行精液分析；使用IBM SPSS Statistics 26.0.00进行统计。",
+          "keyResults": "治疗90天后，组间在精子活力参数和活性氧（ROS）生成方面存在显著差异：前向运动精子比例p=0.0037，总精子活力p=0.002，总前向运动精子数p=0.029，总活动精子数p=0.0165，ROS水平p=0.0086。精液量、精子浓度、总精子数、精子形态、DNA碎片指数和HBA试验结果组间无显著差异（p>0.05）。事后分析显示，第1组与第3组、第2组与第3组之间在前向运动精子比例、活动精子比例和ROS水平方面有显著差异；第1组与第2组之间无显著差异。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "该开放标签随机研究显示，使用该复合膳食补充剂与精子活力参数改善和氧化应激降低相关，效果最早在用药1—2个月内出现并持续至第90天；但第1、2组之间无显著差异。该结果仅反映本研究，尚不能作为临床常规推荐。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "4c412facfe8ac05cc707c1ffcc5b4e28469178ebaf810e18f08fc7f4105eaf73"
+      },
+      {
+        "id": "pmid:42690377",
+        "pmid": "42690377",
+        "doi": "10.1188/26.onf.e26535375",
+        "title": "Lower Extremity Lymphedema Prevention Program for Women Undergoing Gynecologic Cancer Surgery: A Pilot Randomized Controlled Study.",
+        "abstract": "OBJECTIVES: To develop and evaluate the feasibility, acceptability, and preliminary effectiveness of a symptom management theory-based lower extremity lymphedema prevention program (LEL-PP) for women undergoing gynecologic cancer surgery.\nSAMPLE AND SETTING: A pilot randomized controlled trial was conducted with 27 women undergoing gynecologic cancer surgery involving lymph node dissection in the gynecologic oncology unit of a hospital in Istanbul, Türkiye.\nMETHODS AND VARIABLES: Participants were randomly assigned to an intervention group (n = 14) that received structured nurse-led education and follow-up support (LEL-PP), or a control group (n = 13) that received standard care. Quality of life, self-efficacy, lymphedema symptoms, and leg circumferences were assessed at baseline, postoperative day 3, and three-month follow-up using validated instruments.\nRESULTS: The LEL-PP was feasible, with 93.3% participation and 96.4% completion, and highly acceptable, with a mean satisfaction score of 4.54 of 5. The intervention group reported significantly greater improvements in quality of life, general health, and self-efficacy, and reduced lymphedema symptoms. No significant short-term changes in leg circumference measurements were observed, except for point left 6 in the control group.\nIMPLICATIONS FOR NURSING: The symptom management theory-based LEL-PP is feasible and well accepted, and it may be beneficial for the prevention and early detection of LEL.",
+        "journal": "Oncology nursing forum",
+        "authors": [
+          "Erkan Şimşek",
+          "Maide Nur Tümkaya",
+          "Memnun Seven"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-08-25T00:00:00.000Z",
+        "activityAt": "2026-09-03T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42690377/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 7.5,
+          "recency": 10,
+          "total": 91.25,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "妇科癌症手术女性下肢淋巴水肿预防方案：一项试点随机对照研究",
+          "researchQuestion": "开发并评估基于症状管理理论的下肢淋巴水肿预防方案（LEL-PP）在接受妇科癌症手术女性中的可行性、可接受性和初步有效性。",
+          "studyDesign": "试点随机对照试验",
+          "populationAndSample": "27名在土耳其伊斯坦布尔某医院妇科肿瘤病房接受涉及淋巴结清扫的妇科癌症手术女性；干预组14人，对照组13人。",
+          "methods": "参与者被随机分配至干预组（接受结构化护士主导教育和随访支持，即LEL-PP）或对照组（接受常规护理）。在基线、术后第3天和3个月随访时使用经验证工具评估生活质量、自我效能、淋巴水肿症状和腿围。",
+          "keyResults": "LEL-PP可行，参与率为93.3%，完成率为96.4%；可接受性高，平均满意度评分为4.54/5。干预组在生活质量、总体健康、自我效能方面显著改善更大，淋巴水肿症状减轻。除对照组左侧第6测量点外，未观察到腿围测量的显著短期变化。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "该试点随机对照试验表明，基于症状管理理论的LEL-PP具有可行性和良好接受度，可能有助于下肢淋巴水肿的预防和早期检测。由于是试点研究，初步疗效需更大样本研究确认。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "482f5a64f8aef9d216f2f5b7f4728b6d5799a7e0ff03107aa486c77ed23e9078"
+      },
+      {
+        "id": "pmid:42684354",
+        "pmid": "42684354",
+        "doi": "10.4103/nah.nah_83_26",
+        "title": "Maternal Gestational Diabetes Mellitus as an Independent Risk Factor for Hearing Impairment in Hyperbilirubinemia Newborns: A Prospective Birth Cohort With Genetic Profiling.",
+        "abstract": "BACKGROUND: Gestational diabetes mellitus (GDM) may exacerbate hyperbilirubinemia-induced auditory neurotoxicity via oxidative stress, whereas genetic susceptibility (e.g., GJB2 variants) heightens cochlear vulnerability. However, the tripartite interplay among maternal metabolic dysregulation, neonatal hyperbilirubinemia and genetic predisposition remains poorly characterized.\nOBJECTIVE: This study aimed to investigate the synergistic interaction between GDM and neonatal hyperbilirubinemia in auditory dysfunction, focusing on the modifying role of deafness-associated genetic variants (GJB2, SLC26A4, and mtDNA).\nMETHODS: In this prospective cohort study (our hospital, 2023-2025), 350 neonates were classified by an exposure-based 2 × 2 factorial design into four groups: GDM-exposed hyperbilirubinemia ( n = 98), non-GDM hyperbilirubinemia ( n = 185), GDM-only ( n = 42) and healthy controls ( n = 25). Genetic screening was performed via Sanger sequencing. Serial audiological assessments (automated auditory brainstem response) and brainstem auditory evoked potential [BAEP]) and biochemical monitoring (bilirubin-to-albumin [B/A]), malondialdehyde [MDA] and superoxide dismutase) were conducted at birth, 72 h, 1 month, and 3 months. Cox proportional hazards models, multivariable logistic regression and bootstrapped causal mediation analysis were used to evaluate risk factors and oxidative stress-mediated pathways.\nRESULTS: GDM-exposed hyperbilirubinemia neonates exhibited a 2.3-fold higher incidence of severe hearing loss compared with those with hyperbilirubinemia alone (34.7% vs. 15.1%, P < 0.001). GJB2 variant carriers showed significantly greater BAEP threshold elevation (Δ = 9.2 ± 3.1 dB vs. 3.1 ± 1.8 dB, P = 0.002) than their counterparts. The B/A ratio was a GDM-dependent prognostic marker, with B/A > 5.5 predicting hearing loss only in the GDM subgroup (odds ratio = 4.17, 95% confidence interval [CI]: 2.33-7.45). MDA accounted for 38% of the total effect of GDM-hyperbilirubinemia on auditory impairment (indirect effect β = 0.28, 95% CI: 0.19-0.39).\nCONCLUSION: GDM significantly modifies hyperbilirubinemia-induced auditory toxicity through oxidative stress and genetic interaction, particularly in GJB2 carriers. Integrated screening of maternal glycemic status, neonatal bilirubin dynamics, and deafness-associated genes is warranted.",
+        "journal": "Noise & health",
+        "authors": [
+          "LingJing Yan",
+          "LiQin Ruan",
+          "XiaoXiao Su",
+          "Zong Zheng"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-31T00:00:00.000Z",
+        "activityAt": "2026-09-03T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42684354/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "母体妊娠期糖尿病作为高胆红素血症新生儿听力损害的独立危险因素：一项带基因分型的前瞻性出生队列研究",
+          "researchQuestion": "研究妊娠期糖尿病（GDM）与新生儿高胆红素血症在听觉功能障碍中的协同交互作用，重点关注耳聋相关基因变异（GJB2、SLC26A4和mtDNA）的修饰作用。",
+          "studyDesign": "前瞻性出生队列研究（基于暴露的2×2析因设计）",
+          "populationAndSample": "2023—2025年在某医院纳入350名新生儿，分为GDM暴露高胆红素血症组（n=98）、非GDM高胆红素血症组（n=185）、仅GDM组（n=42）和健康对照组（n=25）。",
+          "methods": "采用Sanger测序进行基因筛查；在出生、72小时、1个月和3个月时进行系列听力学评估（自动听性脑干反应和脑干听觉诱发电位[BAEP]）及生化监测（胆红素/白蛋白比值[B/A]、丙二醛[MDA]和超氧化物歧化酶）。使用Cox比例风险模型、多因素logistic回归和bootstrap因果中介分析评估危险因素及氧化应激介导途径。",
+          "keyResults": "GDM暴露的高胆红素血症新生儿重度听力损失发生率是单纯高胆红素血症组的2.3倍（34.7% vs. 15.1%，P<0.001）。GJB2变异携带者的BAEP阈值升高显著大于非携带者（Δ=9.2±3.1 dB vs. 3.1±1.8 dB，P=0.002）。B/A比值是GDM依赖的预后标志物；仅在GDM亚组中B/A>5.5可预测听力损失（OR=4.17，95%CI：2.33—7.45）。MDA介导了GDM-高胆红素血症对听觉损伤总效应的38%（间接效应β=0.28，95%CI：0.19—0.39）。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "该前瞻性队列研究显示，母体GDM暴露与高胆红素血症新生儿重度听力损失风险增高相关，且GJB2变异携带者及B/A升高者风险更明显；氧化应激标志物MDA部分介导该关联。作为观察性队列，这些发现提示关联而非因果；综合筛查孕母血糖状态、新生儿胆红素动态和耳聋相关基因可能具有价值，但需更多验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "427ad5a9e25d225232c39d7c79bffbdfc850d355f1e40cd92de0b839e35288ed"
+      },
+      {
+        "id": "pmid:42684934",
+        "pmid": "42684934",
+        "doi": "10.1097/pgp.0000000000001211",
+        "title": "POLD1 and Endometrial Cancer: Molecular Mechanisms, Genomic Pathology, and Emerging Therapeutics.",
+        "abstract": "Endometrial cancer (EC) is a major gynecologic malignancy whose classification and treatment paradigms are evolving because of molecular profiling. Mutations in DNA polymerases, particularly in DNA polymerase epsilon (POLE) and DNA polymerase delta 1 (POLD1), have become central to a subset of ultramutated ECs with crucial clinical and prognostic effects. The molecular mechanisms of POLD1 dysfunction in EC, its clinical manifestations, emerging diagnostic challenges, and therapeutic opportunities are explored in this review. Mutations in the exonuclease domain of POLD1 lead to ultramutation. Recent evidence suggests a unique recessive mechanism where an oncogenic mutation is coupled with the loss of the wild-type allele, abrogating the cell's ability to correct replication errors. Mutations in 4 conserved acidic residues (D316, E318, D402, and D515)-the DEDD motif-such as p. D402N result in the loss of proofreading capacity and confer a high tumor mutational burden. Small nuclear ribonucleoprotein polypeptide B overexpression in EC also modulates POLD1 splicing, contributing to its oncogenicity. POLD1-mutant ECs probably represent a subset of the ultramutated molecular category, paralleling POLE-mutated tumors, with implications for diagnostics, genetic counseling, and targeted therapy; their identification necessitates expanded genomic testing, mutational signature analysis, and awareness of their unique splicing and functional biology.",
+        "journal": "International journal of gynecological pathology : official journal of the International Society of Gynecological Pathologists",
+        "authors": [
+          "Anas Houlal",
+          "Georgia Karpathiou",
+          "Michel Péoc'h",
+          "Mousa Mobarki",
+          "Shaqraa Musawi"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-02T00:00:00.000Z",
+        "activityAt": "2026-09-03T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42684934/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "POLD1与子宫内膜癌：分子机制、基因组病理学与新兴治疗",
+          "researchQuestion": "综述POLD1功能障碍在子宫内膜癌中的分子机制、临床表现、诊断挑战和治疗机会。",
+          "studyDesign": "综述（摘要中未报告系统检索方法）",
+          "populationAndSample": "摘要未报告具体患者队列；为子宫内膜癌POLD1相关证据的综合性综述。",
+          "methods": "回顾并探讨POLD1在子宫内膜癌中的作用机制、临床影响、诊断挑战和治疗前景；摘要未报告具体文献检索和质量评价方法。",
+          "keyResults": "POLD1核酸外切酶结构域突变导致超突变。近期证据提示一种独特的隐性机制：致癌突变与野生型等位基因缺失同时存在，使细胞无法纠正复制错误。DEDD基序中4个保守酸性残基（D316、E318、D402和D515）的突变，如p.D402N，导致校对功能丧失并赋予高肿瘤突变负荷。子宫内膜癌中小核核糖核蛋白多肽B过表达也调节POLD1剪接，促进其致癌性。POLD1突变型子宫内膜癌可能代表超突变分子类别的一个亚群，与POLE突变肿瘤平行，对诊断、遗传咨询和靶向治疗具有意义；识别这些肿瘤需要扩展基因组检测、突变特征分析，并认识其独特的剪接和功能生物学。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "该综述提出POLD1突变是子宫内膜癌超突变亚群的重要分子改变，p.D402N等DEDD基序突变可丧失校对能力并增加肿瘤突变负荷，可能为诊断分型、遗传咨询和未来靶向治疗提供方向。这些为综述性观点，不应视为指南或临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "a2984b6044144e8f127e279e56e65a1c2f49e0ce8b0487f1000f9a59bfebf009"
+      }
+    ]
+  }
+}
