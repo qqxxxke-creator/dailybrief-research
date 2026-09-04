@@ -1,0 +1,224 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-09-04T23:56:59.293Z",
+    "dataAsOf": "2026-09-04T23:56:59.293Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及免疫检查点抑制剂治疗复发或转移性宫颈癌的疗效和安全性：系统综述与Meta分析、Maternal anemia and the risk of preterm birth: a meta-analysis.、Uterus-Preserving Cold-Knife Adenomyomectomy within a Three-Stage Treatment Strategy for Severe Diffuse Adenomyosis and Its effect on IVF/ICSI and Perinatal Outcomes。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42693878",
+        "pmid": "42693878",
+        "doi": "10.2174/0115665232459323260803060556",
+        "title": "Efficacy and Safety of Immune Checkpoint Inhibitors for Recurrent or Metastatic Cervical Cancer: A Systematic Review and Meta-Analysis.",
+        "abstract": "BACKGROUND: Cervical cancer is a major global health challenge and requires the exploration of novel treatment strategies. Immune checkpoint inhibitors, particularly those targeting Programmed Death 1 (PD-1) and Programmed Death-Ligand 1 (PD-L1), have emerged as promising therapeutic agents in oncology. This study aimed to evaluate the efficacy and safety of these inhibitors in the treatment of cervical cancer.\nMETHODS: A comprehensive literature search was conducted across PubMed, Embase, Web of Science, Scopus, the Cochrane Library, and the China National Knowledge Infrastructure to identify studies published up to November 1, 2024. A total of 26 relevant studies were included, including 21 Non-Randomized Controlled Trials (Non-RCTs) and 5 Randomized Controlled Trials (RCTs). The analysis primarily evaluated the efficacy and safety of PD-1/PD-L1 inhibitors in patients with advanced cervical cancer. The primary outcomes included the objective response rate, disease control rate, progression-free survival, overall survival, and adverse events. Non-RCTs and RCTs were evaluated using ROBINS-I and ROB 2, respectively. Data analysis and visualization were performed using STATA 17.0 and GraphPad. This study has been registered with PROSPERO (registration number CRD42024510357).\nRESULTS: Therapeutic outcomes indicated that the objective response rate in patients with cervical cancer was 44.30% (95% CI 31.06%-57.93%), and the disease control rate was 63.05% (95% CI 51.67%-73.78%). The complete response, partial response, stable disease, and progressive disease rates were 12.58% (95% CI 6.46%-20.13%), 26.87% (95% CI 19.92%-34.40%), 17.95% (95% CI 12.50%-24.07%), and 27.61% (95% CI 17.68%-38.71%), respectively. The median PFS was 6.22 months (95% CI 3.86-8.59), with 6- and 12-month PFS rates of 58.93% (95% CI 47.78%-69.65%) and 45.20% (95% CI 32.73%-57.96%), respectively. The median OS was 14.81 months (95% CI 8.45-21.16), with 6- and 12-month OS rates of 86.57% (95% CI 80.92%-91.42%) and 70.34% (95% CI 61.47%-78.53%), respectively. Regarding safety, the incidence of treatment-related adverse events was 83.24% (95% CI 73.93%-90.94%), serious adverse events was 25.71% (95% CI 15.33%-37.58%), adverse drug reactions was 71.57% (95% CI 57.61%-83.78%), and immunerelated adverse events was 34.26% (95% CI 27.11%-41.76%). Common treatment-related adverse events included anemia, diarrhea, nausea, and leukopenia.\nCONCLUSION: The findings indicate that immune checkpoint inhibitors represent a potentially effective treatment option for patients with cervical cancer; however, their safety profile warrants careful consideration. Combination therapies involving PD-1 inhibitors appear to improve efficacy while maintaining manageable safety.",
+        "journal": "Current gene therapy",
+        "authors": [
+          "Jiake Wang",
+          "Songyi Wang",
+          "Ye Lei",
+          "Yirui Mai",
+          "Yu Wang",
+          "Yuanyuan Li",
+          "Zhixi You"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "publishedAt": "2026-08-22T00:00:00.000Z",
+        "activityAt": "2026-09-04T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42693878/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "免疫检查点抑制剂治疗复发或转移性宫颈癌的疗效和安全性：系统综述与Meta分析",
+          "researchQuestion": "评估程序性死亡受体1（PD-1）/程序性死亡配体1（PD-L1）抑制剂治疗宫颈癌（标题特指复发或转移性宫颈癌）的疗效与安全性。",
+          "studyDesign": "系统综述与Meta分析（纳入5项随机对照试验和21项非随机对照试验）。",
+          "populationAndSample": "共纳入26项相关研究，包括21项非随机对照试验和5项随机对照试验；对象为晚期宫颈癌患者。总患者样本量摘要未报告。",
+          "methods": "全面检索PubMed、Embase、Web of Science、Scopus、Cochrane Library及中国知网，检索截止2024年11月1日。主要评估PD-1/PD-L1抑制剂在晚期宫颈癌患者中的疗效和安全性，主要结局包括客观缓解率、疾病控制率、无进展生存期、总生存期和不良事件。非随机对照试验采用ROBINS-I评价，随机对照试验采用ROB 2评价；使用STATA 17.0和GraphPad进行数据",
+          "keyResults": "摘要未报告",
+          "limitations": "摘要未报告",
+          "clinicalInterpretation": "摘要未报告"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "e4bd0e44c2c553966f049444faf374eb977ad8cde225f745edb21c3f9edc6573"
+      },
+      {
+        "id": "pmid:42692818",
+        "pmid": "42692818",
+        "doi": "10.1080/14767058.2026.2722830",
+        "title": "Maternal anemia and the risk of preterm birth: a meta-analysis.",
+        "abstract": "BACKGROUND: Globally, preterm birth continues to be a primary contributor to neonatal complications and fatalities. Anemia among the most common nutritional disorders in pregnancy has been proposed as a potential contributor to early delivery. Although extensively studied, the available evidence does not yet provide a clear consensus. This study aimed to conduct a meta-analysis to quantitatively assess the relationship between maternal anemia and the risk of preterm birth.\nMETHODS: This meta-analysis was conducted and reported in accordance with the PRISMA guidelines and the MOOSE checklist. A systematic and exhaustive search was performed across multiple electronic databases PubMed, Scopus, Web of Science, Embase, and the Cochrane Library to identify relevant studies published from inception to 1 January 2025. Effect sizes were combined using a random-effects meta-analysis.\nRESULTS: A total of 45 articles, reporting 60 independent study populations comprising 2,119,392 pregnant individuals were included. Considerable heterogeneity was found across the included studies (I 2 = 95.54%, p < 0.001), which justified the application of a random-effects model for pooling effect sizes. Maternal anemia was significantly associated with an increased risk of preterm birth (pooled odds ratio[OR] = 1.28, 95% confidence interval [CI]: 1.20-1.36, p < 0.001). Despite substantial heterogeneity, sensitivity analyses confirmed the robustness of this association. The relationship was strongest in studies conducted in Asia (OR = 1.30, 95% CI: 1.22-1.40; p < 0.001) and the Europe (OR = 1.24, 95% CI: 1.08-1.41; p = 0.001) and reached statistical significance when anemia was assessed during the first trimester (OR = 1.12, 95% CI: 1.03-1.51; p = 0.007) and the third trimester (OR = 1.65, 95% CI: 1.42-1.91; p < 0.001), while no significant associations were found in the second trimesters (OR = 1.10, 95% CI: 0.99-1.22; p = 0.05). Funnel plot asymmetry and a significant Egger's test ( p = 0.001) indicated potential publication bias, although Begg's test was not significant ( p = 0.425).\nCONCLUSIONS: The current evidence suggests that maternal anemia, particularly in the third trimester, is significantly associated with an increased risk of preterm birth. These findings emphasize the clinical imperative for comprehensive and timely anemia screening during the third trimester. Integrating targeted interventions such as iron and micronutrient supplementation, is essential to mitigate the risk of preterm delivery and improve neonatal outcomes.",
+        "journal": "The journal of maternal-fetal & neonatal medicine : the official journal of the European Association of Perinatal Medicine, the Federation of Asia and Oceania Perinatal Societies, the International Society of Perinatal Obstetricians",
+        "authors": [
+          "Milad Azami",
+          "Mohammad Mehdi Nourollahi",
+          "Parviz Karimi",
+          "Zahra Nourollahi"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-09-03T00:00:00.000Z",
+        "activityAt": "2026-09-03T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42692818/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "doi:10.1016/j.jmig.2026.08.024",
+        "doi": "10.1016/j.jmig.2026.08.024",
+        "title": "Uterus-Preserving Cold-Knife Adenomyomectomy within a Three-Stage Treatment Strategy for Severe Diffuse Adenomyosis and Its effect on IVF/ICSI and Perinatal Outcomes",
+        "abstract": "Objective: To evaluate the effects of a three-stage treatment strategy featured by cold-knife adenomyomectomy, enhanced endometrial protection and postoperative uterine monitoring for severe diffuse adenomyosis on IVF/ICSI and perinatal outcomes.Design: Retrospective study.Setting: Tertiary reproductive center.Participants: This study included 221 infertile women with diffuse adenomyosis treated from January 2021 to October 2025, comprising 125 patients with medically refractory disease or recurrent implantation failure who underwent three-stage treatment (surgery group) and 96 patients without these indications who received GnRHa-only therapy (control group).",
+        "journal": "Journal of Minimally Invasive Gynecology",
+        "authors": [
+          "Zhi Zeng, Rui Xiang, Yingying Liu, Jintao Peng, Manchao Li, Panyu Chen, Jingjie Li, Weie Zhao, Xiaolan Li, Yujie Li, Qian Li, Haitao Zeng, Xiaoyan Liang"
+        ],
+        "publicationTypes": [],
+        "publishedAt": "2026-09-04T00:00:00.000Z",
+        "activityAt": "2026-09-04T00:00:00.000Z",
+        "url": "https://www.jmig.org/article/S1553-4650(26)00463-2/fulltext?rss=yes",
+        "sourceKinds": [
+          "journal-rss"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine",
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42693191",
+        "pmid": "42693191",
+        "doi": "10.1038/s41431-026-02161-3",
+        "title": "Prevalence of BRCA1/2 variants in an Ovarian Cancer Cohort: outcomes from a Nationwide Testing Program.",
+        "abstract": "Poly(ADP-ribose) polymerase inhibitors (PARPi) have revolutionized the management of BRCA1- and BRCA2-associated ovarian cancer (OC). In 2020, Ireland implemented a nationwide, oncology-led pathway for mainstreamed BRCA1/2 testing in patients with OC. This study evaluated the pathway and characterised the BRCA1/2 landscape in an Irish cohort of patients with OC. Samples collected between January 2020 and December 2023 were tested in two national molecular diagnostic laboratories. Single-molecule molecular inversion probe sequencing was used to detect single nucleotide variants, while multiplex ligation-dependent probe amplification assessed large genomic rearrangements. Variants were classified according to the American College of Medical Genetics and Genomics and Association for Clinical Genomic Science 2020 guidelines and CanVIG-UK specifications. In total, 535 patients were included, with a median age of 65.5 years (range, 27-89 years). Of these, 455/535 (85.0%) underwent germline BRCA1/2 (gBRCA) testing using peripheral blood, and 360/535 (67.2%) underwent tumour BRCA1/2 (tBRCA) testing, resulting in 292/535 (54.6%) patients having paired testing. Among gBRCA-tested patients, 10.3% (47/455) had a clinically actionable variant (CAV), while 2.1% (10/455) had a variant of uncertain significance. Of the 262 patients who underwent paired testing and had negative gBRCA results, 9.5% (25/262) had a somatic BRCA CAV. Recurrent germline BRCA CAVs were identified in regional clusters, including BRCA1 c.5266dup, BRCA1 c.1175_1214del, and BRCA2 c.4398_4402del. This nationwide real-world study demonstrates that mainstreamed germline and somatic BRCA1/2 testing is feasible in Ireland and reports the prevalence of BRCA CAVs in a cohort of patients with OC. Although the observed prevalence of germline BRCA CAVs was lower than anticipated, it is consistent with UK real-world data. The identification of recurrent, regionally clustered germline variants further enhances the characterisation of the Irish genomic landscape.",
+        "journal": "European journal of human genetics : EJHG",
+        "authors": [
+          "Andrea Hennessy",
+          "Anne-Marie Baird",
+          "Brendan Doyle",
+          "Cathal O'Brien",
+          "Ciara S McNevin",
+          "Emer Atkinson",
+          "Georgia Thodi",
+          "Karen A Cadoo",
+          "Kate Murphy",
+          "Niamh Coleman",
+          "Orla Fitzpatrick",
+          "Paul Smyth",
+          "Pierre Murchan",
+          "Roshni Deepa Kalachand",
+          "Sharon O'Toole",
+          "Stephen P Finn",
+          "Steven G Gray",
+          "Trudi McDevitt"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-03T00:00:00.000Z",
+        "activityAt": "2026-09-04T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42693191/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42693330",
+        "pmid": "42693330",
+        "doi": "10.1007/s10735-026-10966-1",
+        "title": "Exosomal miR-22-3p targets p53 to regulate endometrial epithelial cell function in the pathogenesis of endometriosis.",
+        "abstract": "Endometriosis (EMs) is a widespread gynecological disease, affecting approximately 6-10% of females of child-bearing age. Despite its significant influence on women's health, the specific pathophysiology remains unclear. The enrichment of miR-22-3p in exosomes has been implicated in cellular proliferation and migration. This study aimed to elucidate the mechanisms by which exosomal miR-22-3p affects endometrial epithelial cell function in the etiology of endometriosis. The patient samples and clinical data were acquired from the Affiliate Hospital of Inner Mongolia Medical University. Quantitative reverse transcription‒polymerase chain reaction (qRT‒PCR), a miRNA microarray and Western blotting were used to confirm that the level of miR-22-3p was specifically elevated in peripheral blood exosomes from EMs patients. The influence of miR-22-3p on EMs-derived exosomes was determined by Transwell and cell counting kit-8 (CCK-8) assays. Luciferase reporter assays, RNA pull-down assays, and fluorescence in situ hybridization (FISH) were performed to determine whether exosomal miR-22-3p binds to p53. miR-22-3p expression was significantly elevated in peripheral blood exosomes (p < 0.001) from patients with endometriosis. ROC curve analysis demonstrated the high sensitivity (93.55%) and specificity (84.85%) of this correlation, suggesting that miR-22-3p is a promising diagnostic biomarker. Endometrial epithelial cell proliferation, migration, and invasion are regulated by exosomal miR-22-3p, which targets and inhibits p53, a crucial tumor suppressor related to cell cycle regulation and apoptosis. Exosomal miR-22-3p regulates endometrial epithelial cell proliferation, migration, and invasion by targeting and inhibiting p53. Combining standard endometriosis treatments with exosome-mediated miR-22-3p targeting of p53 could restore p53 function, induce apoptosis, and reduce disease recurrence, providing a promising therapeutic strategy for endometriosis management.",
+        "journal": "Journal of molecular histology",
+        "authors": [
+          "Congxiang Yu",
+          "Gele Qi",
+          "Qiao Qiao",
+          "Yuefei Li"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-04T00:00:00.000Z",
+        "activityAt": "2026-09-04T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42693330/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      }
+    ]
+  }
+}
