@@ -7,8 +7,8 @@
   "editor_note": "过去24小时暂无符合质量要求的重要更新。",
   "keywords": [],
   "research": {
-    "generatedAt": "2026-09-05T22:51:04.832Z",
-    "dataAsOf": "2026-09-05T22:51:04.832Z",
+    "generatedAt": "2026-09-05T23:12:42.301Z",
+    "dataAsOf": "2026-09-05T23:12:42.301Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及长链非编码RNA GAS5结合miR-137并调控Nrf2改善妊娠期糖尿病脂肪组织中的胰岛素抵抗、使用CA125、CA153、CA19-9、CEA、HE4及ROMA指数等多种生物标志物诊断卵巢癌、超越时钟：卵巢储备功能减退中的生育力重编程。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
@@ -36,15 +36,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "长链非编码RNA GAS5结合miR-137并调控Nrf2改善妊娠期糖尿病脂肪组织中的胰岛素抵抗",
           "researchQuestion": "探讨GAS5是否通过miR-137/Nrf2轴改善妊娠期糖尿病（GDM）相关的胰岛素抵抗（IR），从而阐明GDM发病的潜在新机制。",
@@ -56,7 +47,16 @@
           "clinicalInterpretation": "该研究提示GAS5可能通过海绵吸附miR-137上调Nrf2，从而改善脂肪细胞胰岛素抵抗和脂质代谢紊乱，为GDM发病机制提供新的潜在靶点；这属于单篇机制研究，尚不能直接作为临床干预依据。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "8e338ee3ebf44dc251e6a829956135f061c30c95335d912fbb861c5d5ae07243"
+        "summaryInputHash": "8e338ee3ebf44dc251e6a829956135f061c30c95335d912fbb861c5d5ae07243",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42698297",
@@ -85,15 +85,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "使用CA125、CA153、CA19-9、CEA、HE4及ROMA指数等多种生物标志物诊断卵巢癌",
           "researchQuestion": "探讨肿瘤标志物CA125、CA153、CA19-9、CEA、人附睾蛋白4（HE4）及ROMA指数联合应用对上皮性卵巢肿瘤的诊断价值。",
@@ -105,7 +96,16 @@
           "clinicalInterpretation": "该研究提示ROMA2和CA125可能对上皮性交界性肿瘤具有较高诊断价值，ROMA2、CA125、ROMA1、HE4和CA153可能对卵巢癌具有较高临床应用价值；CA19-9升高可能提示黏液性肿瘤。结果来自回顾性研究，解释时需谨慎。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "bf3d722db1ca971c2e2b20b60e02af040af0d42f92c069fdae740acde338047e"
+        "summaryInputHash": "bf3d722db1ca971c2e2b20b60e02af040af0d42f92c069fdae740acde338047e",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42693959",
@@ -131,15 +131,6 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "超越时钟：卵巢储备功能减退中的生育力重编程",
           "researchQuestion": "综述卵巢储备功能减退（DOR）中衰老重编程的作用，并总结其分子机制、诊断标准、生物标志物及潜在治疗策略。",
@@ -151,7 +142,16 @@
           "clinicalInterpretation": "该综述强调衰老相关分子事件与卵巢功能之间的关系，认为基于衰老重编程的干预可能为改善DOR女性的生殖健康提供新的治疗思路；这些为综述性观点，仍需更多临床验证。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "9d1f87153fc1d5abc387a0597a1624d696b759de218ae5a132a969244053748c"
+        "summaryInputHash": "9d1f87153fc1d5abc387a0597a1624d696b759de218ae5a132a969244053748c",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42694335",
@@ -176,15 +176,6 @@
         "matchedTopicIds": [
           "endometriosis-benign-gynecology"
         ],
-        "assignedTopicId": "endometriosis-benign-gynecology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "子宫内膜异位症患者血管生成素样蛋白4水平的评估",
           "researchQuestion": "评估子宫内膜异位症患者血清和腹腔液中血管生成素样蛋白4（ANGPTL4）水平，探索其在子宫内膜异位症发病机制中的潜在作用。",
@@ -196,7 +187,16 @@
           "clinicalInterpretation": "该研究表明血清ANGPTL4在子宫内膜异位症患者中显著升高，并与疼痛、CA125、腹腔液ANGPTL4及AMH相关，可能作为子宫内膜异位症临床评估的支持性生物标志物；但其诊断敏感度和特异度有限，需进一步验证。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "c9c879eff66d6b0d68d6dbf2f110fdb0a455d41f228d5fe6d5e4346f71747ff2"
+        "summaryInputHash": "c9c879eff66d6b0d68d6dbf2f110fdb0a455d41f228d5fe6d5e4346f71747ff2",
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42694566",
@@ -226,6 +226,7 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
+        "summaryStatus": "success",
         "assignedTopicId": "gynecologic-oncology",
         "score": {
           "topicMatch": 50,
@@ -235,7 +236,17 @@
           "total": 85,
           "evidenceRank": 0.4
         },
-        "summaryStatus": "failed"
+        "summaryZh": {
+          "titleZh": "乌干达北部一所高校女性学生与教职工对宫颈癌筛查的知识、态度及筛查接受度的横断面研究",
+          "researchQuestion": "考察乌干达北部一所高校女性对宫颈癌筛查的知识、态度及筛查接受度（uptake）。",
+          "studyDesign": "横断面定量研究",
+          "populationAndSample": "乌干达北部一所高校的335名女性（学生和教职工），年龄25-49岁，通过分层随机抽样从计算目标336人中选取，1份问卷因不完整被排除。被分析人群的中位年龄为27岁（IQR 26-30）。",
+          "methods": "采用结构化问卷收集数据，使用Stata版本17（StataCorp, College Station, TX, USA）分析。描述性统计总结知识、态度和接受度；Logistic回归分析与筛查接受度相关的因素。所有统计检验均为双侧，p<0.05视为有统计学意义。",
+          "keyResults": "宫颈癌知晓率几乎普遍（97.9%，328/335），最常见的信源为卫生机构（50.0%，164/328）。83.3%（279/335）表现出良好知识，但对HPV和筛查方法等具体条目的知识明显较低。态度呈混合状态：52.5%（176/335）为负面态度，47.5%（159/335）为正面态度。宫颈癌筛查接受度为31.3%（105/335）。在未筛查者（68.7%，230/335）中，障碍包括缺乏筛查地点信息（84/230，35.4%）、担心疼痛（78/230，32.9%）、自以为健康（56/230，23.6%）和害羞（19/230，8.0%）。多变量Logistic回归中，年龄较大（aOR 1.11，95% CI 1.05-1.18，p<0.001）和身为教职工（aOR 2.37，95% CI 1.15-4.92，p=0.02）与较高筛查接受度显著相关。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "尽管总体知识水平较高，但超过一半的参与者对筛查持负面态度，且筛查接受度仍然较低，提示存在显著的知识-态度-实践差距。作者建议对高校女性开展针对性教育并改善服务可及性，以提高筛查率并减轻宫颈癌负担。注意此为单篇研究结果，不构成指南或临床指令。"
+        },
+        "summaryInputHash": "702c368f73282cc28c2c79bd36f0c4292c81a92505c3e0d3d57151003ff86724"
       }
     ]
   }
