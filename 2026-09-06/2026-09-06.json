@@ -1,0 +1,242 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-09-05T22:51:04.832Z",
+    "dataAsOf": "2026-09-05T22:51:04.832Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及长链非编码RNA GAS5结合miR-137并调控Nrf2改善妊娠期糖尿病脂肪组织中的胰岛素抵抗、使用CA125、CA153、CA19-9、CEA、HE4及ROMA指数等多种生物标志物诊断卵巢癌、超越时钟：卵巢储备功能减退中的生育力重编程。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42698187",
+        "pmid": "42698187",
+        "doi": "10.1111/dme.70451",
+        "title": "Long non-coding RNA GAS5 binds to miR-137 and regulates Nrf2 to ameliorate insulin resistance in adipose tissue in gestational diabetes mellitus.",
+        "abstract": "OBJECTIVE: This study aimed to explore whether GAS5 improves gestational diabetes mellitus (GDM)-associated insulin resistance (IR) via the miR-137/Nrf2 axis, thereby elucidating a potential novel mechanism underlying GDM pathogenesis.\nMETHODS: GAS5 and Nrf2 expression was compared between GDM patients and normal glucose tolerance pregnant women, and their correlations with IR and lipid metabolism indexes were analysed. A dexamethasone-induced adipocyte IR model was constructed. Cellular functional changes in glucose uptake, fatty acid metabolism and lipid deposition were detected following GAS5 overexpression and miR-137/Nrf2 intervention to validate the regulatory mechanism.\nRESULTS: GAS5 and Nrf2 were markedly decreased in GDM peripheral blood and closely correlated with IR and lipid metabolic phenotypes. GAS5 overexpression increased adipocyte glucose uptake and alleviated IR and lipid disorders. Mechanistically, GAS5 directly binds and inhibits miR-137 to upregulate Nrf2. Rescue assays showed that miR-137 elevation or Nrf2 suppression partially reversed the protective effects of GAS5, reducing glucose uptake and fatty acid oxidation while increasing free fatty acid release and lipid accumulation.\nCONCLUSION: GAS5 and Nrf2 are lowly expressed in GDM patients. This study demonstrates that GAS5 ameliorates adipocyte IR and lipid metabolic dysfunction by sponging miR-137 to elevate Nrf2 expression, providing a novel mechanistic insight for GDM.",
+        "journal": "Diabetic medicine : a journal of the British Diabetic Association",
+        "authors": [
+          "Jingru Jiao",
+          "Xian Zheng",
+          "Yuanyuan Guo"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-04T00:00:00.000Z",
+        "activityAt": "2026-09-05T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42698187/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "长链非编码RNA GAS5结合miR-137并调控Nrf2改善妊娠期糖尿病脂肪组织中的胰岛素抵抗",
+          "researchQuestion": "探讨GAS5是否通过miR-137/Nrf2轴改善妊娠期糖尿病（GDM）相关的胰岛素抵抗（IR），从而阐明GDM发病的潜在新机制。",
+          "studyDesign": "GDM患者与正常糖耐量孕妇的比较研究，并结合地塞米松诱导的脂肪细胞胰岛素抵抗模型进行细胞机制验证；摘要未具体说明研究类型。",
+          "populationAndSample": "GDM患者与正常糖耐量孕妇的外周血，以及地塞米松诱导的脂肪细胞胰岛素抵抗模型；具体样本量、年龄及孕周等摘要未报告。",
+          "methods": "比较GDM患者与正常糖耐量孕妇外周血中GAS5和Nrf2表达，分析其与IR及脂代谢指标的相关性；构建地塞米松诱导的脂肪细胞IR模型，在GAS5过表达及miR-137/Nrf2干预下检测葡萄糖摄取、脂肪酸代谢和脂质沉积等细胞功能改变；并通过直接结合与拯救实验验证调控机制。",
+          "keyResults": "GAS5和Nrf2在GDM外周血中显著降低，并与IR及脂质代谢表型密切相关。GAS5过表达可增加脂肪细胞葡萄糖摄取并缓解IR和脂质紊乱。机制上，GAS5直接结合并抑制miR-137而上调Nrf2；拯救实验显示miR-137升高或Nrf2抑制可部分逆转GAS5的保护作用，表现为葡萄糖摄取和脂肪酸氧化降低，而游离脂肪酸释放和脂质蓄积增加。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "该研究提示GAS5可能通过海绵吸附miR-137上调Nrf2，从而改善脂肪细胞胰岛素抵抗和脂质代谢紊乱，为GDM发病机制提供新的潜在靶点；这属于单篇机制研究，尚不能直接作为临床干预依据。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "8e338ee3ebf44dc251e6a829956135f061c30c95335d912fbb861c5d5ae07243"
+      },
+      {
+        "id": "pmid:42698297",
+        "pmid": "42698297",
+        "doi": "10.1684/abc.2026.2060",
+        "title": "Diagnosis of ovarian cancer using multiple biomarkers of CA 125, CA153, CA 19-9, CEA, HE4 and ROMA index.",
+        "abstract": "To investigate the value of tumor biomarkers of CA125, CA153, CA 19-9, CEA, human epididymis protein 4 (HE4) and ROMA index in combination for the diagnosis of epithelial ovarian tumors. Patients with epithelial ovarian tumors were retrospectively enrolled in comparison with healthy controls. The venous blood samples were tested and analyzed. The CA 19-9 value was significantly (P < 0.05) greater in borderline tumors than in ovarian cancers, benign tumors or healthy controls, and significantly (P < 0.05) greater in benign tumors than in healthy controls. Compared with the borderline tumors, the ovarian cancer in stages III and IV had significantly (P < 0.05) greater CA 125, CA 153, HE 4, ROMA 1 and ROMA 2 but significantly (P < 0.05) smaller CA 19-9. Stage-II ovarian cancer also had significantly (p < 0.05) greater CA 153 but smaller CA 19-9 than borderline tumors. The CA 19-9 value was significantly greater in the epithelial mucous cancer (50.15) or the borderline non-mucinous (22.90) or mucinous (47.55) tumor than in the non-mucinous cancer (12.15), benign tumors (14.80), or healthy controls (9.40). CA 125, CA 19-9, HE 4, ROMA 1, ROMA 2 and CA 153 had larger AUC and Youden indexes for diagnosing borderline tumors, and CA 125, CA 153, HE 4, ROMA 1 and ROMA 2 had larger AUC and Youden indexes for diagnosing ovarian cancers. For epithelial borderline tumors, CA 125, HE 4, ROMA 1, and ROMA 2 may have higher diagnostic value, especially ROMA 2 and CA 125. For ovarian cancer, ROMA 2, CA125, ROMA 1, HE4, and CA153 may have the highest clinical application value. CA 19-9 elevation may indicate mucinous ovarian cancer or mucinous borderline tumor. Elevated CA153 also has certain application value.",
+        "journal": "Annales de biologie clinique",
+        "authors": [
+          "Bu-Lang Gao",
+          "Chun-Feng Ren",
+          "Gen-Hui Ren",
+          "Jing-Jing Pan",
+          "Li-Wei Ma",
+          "Qian Chang"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-04T00:00:00.000Z",
+        "activityAt": "2026-09-05T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42698297/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "使用CA125、CA153、CA19-9、CEA、HE4及ROMA指数等多种生物标志物诊断卵巢癌",
+          "researchQuestion": "探讨肿瘤标志物CA125、CA153、CA19-9、CEA、人附睾蛋白4（HE4）及ROMA指数联合应用对上皮性卵巢肿瘤的诊断价值。",
+          "studyDesign": "回顾性诊断性研究（上皮性卵巢肿瘤患者与健康对照者比较）。",
+          "populationAndSample": "纳入上皮性卵巢肿瘤患者并与健康对照者比较，涉及交界性肿瘤、卵巢癌、良性肿瘤和健康对照组；各组具体人数及年龄等摘要未报告。",
+          "methods": "采集并检测静脉血标本中的CA125、CA153、CA19-9、CEA、HE4和ROMA指数，比较不同组间水平；采用AUC和约登指数评估各标志物对交界性肿瘤及卵巢癌的诊断价值。具体检测流程和统计方法摘要未详细报告。",
+          "keyResults": "CA19-9在交界性肿瘤中的水平显著高于卵巢癌、良性肿瘤和健康对照，且在良性肿瘤中显著高于健康对照。与交界性肿瘤相比，III期和IV期卵巢癌的CA125、CA153、HE4、ROMA1和ROMA2显著更高，而CA19-9显著更低；II期卵巢癌的CA153显著高于交界性肿瘤，CA19-9显著低于交界性肿瘤。CA19-9在黏液性癌（50.15）、非黏液性交界性肿瘤（22.90）和黏液性交界性肿瘤（47.55）中显著高于非黏液性癌（12.15）、良性肿瘤（14.80）和健康对照（9.40）。CA125、CA19-9、HE4、ROMA1、ROMA2和CA153在诊断交界性肿瘤时具有较大AUC和约登指数；CA125、CA153、HE4、ROMA1和ROMA2在诊断卵巢癌时具有较大AUC和约登指数。具体AUC值摘要未报告。摘要还指出，CA19-9升高可能提示黏液性卵巢癌或黏液性交界性肿瘤，CA153升高也有一定应用价值。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "该研究提示ROMA2和CA125可能对上皮性交界性肿瘤具有较高诊断价值，ROMA2、CA125、ROMA1、HE4和CA153可能对卵巢癌具有较高临床应用价值；CA19-9升高可能提示黏液性肿瘤。结果来自回顾性研究，解释时需谨慎。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "bf3d722db1ca971c2e2b20b60e02af040af0d42f92c069fdae740acde338047e"
+      },
+      {
+        "id": "pmid:42693959",
+        "pmid": "42693959",
+        "doi": "10.1093/reprod/xaag112",
+        "title": "Beyond the Clock: Reprogramming Fertility in Diminished Ovarian Reserve.",
+        "abstract": "Diminished Ovarian Reserve (DOR) is a significant manifestation of female reproductive aging that profoundly impacts fertility and quality of life. In recent years, the emergence of aging reprogramming technologies has provided new insights into the mechanisms underlying DOR and potential therapeutic approaches. This review synthesizes current knowledge on the role of aging reprogramming in DOR, focusing on key molecular events such as telomere shortening, mitochondrial dysfunction, and epigenetic alterations. Furthermore, we summarize clinical diagnostic criteria and emerging biomarkers for DOR, while exploring the limitations of existing treatment strategies and the potential interventions based on aging reprogramming. By addressing these issues, this review aims to highlight the interplay between aging processes and ovarian function, paving the way for innovative therapeutic avenues to improve reproductive health in women experiencing DOR.",
+        "journal": "Reproduction (Cambridge, England)",
+        "authors": [
+          "Tingyu Lang",
+          "Xiaolei Liang",
+          "Yongxiu Yang"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-04T00:00:00.000Z",
+        "activityAt": "2026-09-04T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42693959/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "超越时钟：卵巢储备功能减退中的生育力重编程",
+          "researchQuestion": "综述卵巢储备功能减退（DOR）中衰老重编程的作用，并总结其分子机制、诊断标准、生物标志物及潜在治疗策略。",
+          "studyDesign": "综述性文章。",
+          "populationAndSample": "不适用；本文章为综述，无原始研究人群描述。",
+          "methods": "综合当前关于衰老重编程在DOR中作用的知识，重点围绕端粒缩短、线粒体功能障碍和表观遗传改变等分子事件，同时总结DOR临床诊断标准、新兴生物标志物、现有治疗策略的局限性以及基于衰老重编程的潜在干预措施。",
+          "keyResults": "该综述无具体实验数据。摘要提出DOR是女性生殖衰老的重要表现，对生育力和生活质量有显著影响；衰老重编程技术为理解DOR机制和潜在治疗方向提供了新见解。综述列举的关键分子事件包括端粒缩短、线粒体功能障碍和表观遗传改变，并讨论了现有治疗的局限及未来干预前景。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "该综述强调衰老相关分子事件与卵巢功能之间的关系，认为基于衰老重编程的干预可能为改善DOR女性的生殖健康提供新的治疗思路；这些为综述性观点，仍需更多临床验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "9d1f87153fc1d5abc387a0597a1624d696b759de218ae5a132a969244053748c"
+      },
+      {
+        "id": "pmid:42694335",
+        "pmid": "42694335",
+        "doi": "10.4274/jtgga.galenos.2026.2026-2-15",
+        "title": "Evaluation of angiopoietin-like protein 4 levels in patients with endometriosis.",
+        "abstract": "OBJECTIVE: Endometriosis is a chronic inflammatory disorder lacking definitive laboratory diagnostic markers. Angiopoietin-like protein-4 (ANGPTL4) is a protein involved in the regulation of angiogenesis and inflammation. The aim of the present study was to evaluate serum and peritoneal fluid (PF) levels of ANGPTL4 to explore its potential role in the pathogenesis of endometriosis.\nMATERIAL AND METHODS: This prospective study included women with surgically confirmed endometriosis and age-matched healthy controls with similar demographic characteristics. Clinical and laboratory parameters, including serum ANGPTL4, anti-Müllerian hormone (AMH), and cancer antigen-125 (CA125) levels were compared between groups. In addition, PF ANGPTL4 levels were assessed in the endometriosis group.\nRESULTS: Serum ANGPTL4 (512.65±46.91 vs. 177.60±11.84 ng/mL, p<0.001) and CA125 (53.52±6.05 vs. 20.10±3.18 U/mL, p<0.001) levels were significantly higher in endometriosis group. Serum ANGPTL4 positively correlated with the severity of pelvic pain and dyspareunia, serum CA125 level and PF ANGPTL4, and negatively correlated with AMH (r=0.743, p<0.001; r=0.624, p<0.001; r=0.444, p<0.001; r=0.841, p<0.001; and r=-0.380, p<0.001, respectively). Receiver operating characteristic analysis identified an optimal serum ANGPTL4 cut-off value of 188.61 ng/mL (area under the curve =0.755, sensitivity 75% and specificity 62.5%, positive predictive value 66.7%, and negative predictive value 71.4%).\nCONCLUSION: Serum ANGPTL4 levels were significantly higher in women with endometriosis and were associated with clinical and laboratory parameters. It may serve as a supportive biomarker in the clinical assessment of endometriosis.",
+        "journal": "Journal of the Turkish German Gynecological Association",
+        "authors": [
+          "Esin Merve Erol Koç",
+          "Merve Didem Eşkin Tanrıverdi"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-04T00:00:00.000Z",
+        "activityAt": "2026-09-04T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42694335/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "子宫内膜异位症患者血管生成素样蛋白4水平的评估",
+          "researchQuestion": "评估子宫内膜异位症患者血清和腹腔液中血管生成素样蛋白4（ANGPTL4）水平，探索其在子宫内膜异位症发病机制中的潜在作用。",
+          "studyDesign": "前瞻性研究（纳入手术确诊的子宫内膜异位症女性与年龄匹配的健康对照者）。",
+          "populationAndSample": "手术确诊的子宫内膜异位症女性及年龄匹配、人口学特征相似的健康对照者；各组具体人数、疾病分期等摘要未报告。",
+          "methods": "比较两组临床和实验室指标，包括血清ANGPTL4、抗缪勒管激素（AMH）和CA125水平；检测子宫内膜异位症组腹腔液ANGPTL4水平；使用受试者工作特征（ROC）分析评估血清ANGPTL4的诊断界值。具体检测方法等摘要未详细报告。",
+          "keyResults": "子宫内膜异位症组血清ANGPTL4（512.65±46.91 vs 177.60±11.84 ng/mL，p<0.001）和CA125（53.52±6.05 vs 20.10±3.18 U/mL，p<0.001）显著高于对照组。血清ANGPTL4与盆腔疼痛严重程度（r=0.743，p<0.001）、性交痛（r=0.624，p<0.001）、血清CA125（r=0.444，p<0.001）和腹腔液ANGPTL4（r=0.841，p<0.001）呈正相关，与AMH呈负相关（r=-0.380，p<0.001）。ROC分析确定血清ANGPTL4最佳界值为188.61 ng/mL，AUC=0.755，敏感度75%，特异度62.5%，阳性预测值66.7%，阴性预测值71.4%。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "该研究表明血清ANGPTL4在子宫内膜异位症患者中显著升高，并与疼痛、CA125、腹腔液ANGPTL4及AMH相关，可能作为子宫内膜异位症临床评估的支持性生物标志物；但其诊断敏感度和特异度有限，需进一步验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "c9c879eff66d6b0d68d6dbf2f110fdb0a455d41f228d5fe6d5e4346f71747ff2"
+      },
+      {
+        "id": "pmid:42694566",
+        "pmid": "42694566",
+        "doi": "10.1002/hsr2.73191",
+        "title": "Knowledge, Attitudes, and Uptake of Cervical Cancer Screening Among Female Students and Staff at a Tertiary Institution in Northern Uganda: A Cross-Sectional Study.",
+        "abstract": "BACKGROUND AND AIMS: Cervical cancer remains a leading cause of cancer-related deaths among women in low-resource settings like Uganda. Screening is essential for early detection and prevention, yet knowledge, attitudes, and uptake among university females are poorly understood. This study aimed to investigate knowledge, attitudes, and uptake of cervical cancer screening among females at a tertiary institution in Northern Uganda.\nMETHODS: A cross-sectional quantitative study was conducted at a tertiary institution in Northern Uganda, involving 335 females aged 25-49 years (students and staff) selected via stratified random sampling (from a calculated target of 336; one questionnaire was excluded for incompleteness). Data were collected using a structured questionnaire and analyzed with Stata version 17 (StataCorp, College Station, TX, USA). Descriptive statistics summarized knowledge, attitudes, and uptake. Logistic regression examined factors associated with screening uptake. All statistical tests were two-sided, and a p < 0.05 was considered statistically significant.\nRESULTS: A total of 335 women (median age 27 years, IQR 26-30) were analyzed. Awareness of cervical cancer was almost universal (97.9%, 328/335), with health institutions the commonest information source (50.0%, 164/328). Overall, 83.3% (279/335) demonstrated good knowledge, although knowledge of specific items such as HPV and screening methods was substantially lower. Attitudes were mixed: 52.5% (176/335) negative and 47.5% (159/335) positive towards screening. Uptake of cervical cancer screening was 31.3% (105/335). Among the unscreened (68.7%, 230/335), barriers included lack of screening-location information (84/230, 35.4%), pain concerns (78/230, 32.9%), perceived good health (56/230, 23.6%), and shyness (19/230, 8.0%). In multivariable logistic regression, older age (aOR 1.11, 95% CI 1.05-1.18, p < 0.001) and being staff (aOR 2.37, 95% CI 1.15-4.92, p = 0.02) were significantly associated with higher screening uptake.\nCONCLUSION: Despite high overall knowledge, more than half of participants demonstrated negative attitudes toward screening, and uptake remained low, revealing a substantial knowledge-attitude-practice gap. Targeted education to University females and improved service access interventions are recommended to enhance screening and reduce cervical cancer burden.",
+        "journal": "Health science reports",
+        "authors": [
+          "David Komakec",
+          "Emmanuel Alyoomu",
+          "Habert Aziku",
+          "Milton Anguyo",
+          "Morrish Obol Okello",
+          "Pebalo Francis Pebolo",
+          "Ruth Catherine Ouma"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-02T00:00:00.000Z",
+        "activityAt": "2026-09-04T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42694566/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      }
+    ]
+  }
+}
