@@ -1,0 +1,216 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-09-06T23:07:50.266Z",
+    "dataAsOf": "2026-09-06T23:07:50.266Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及肯尼亚梅鲁县女性早期宫颈癌筛查中醋酸肉眼观察与巴氏涂片检测的评价、Diagnostic Accuracy of DNA Methylation Markers for Detecting Cervical Precancer and Cervical Cancer: A Systematic Review and Meta-analysis.、Pre-radiotherapy modified prognostic nutritional index predicts acute radiation enteritis in patients with cervical cancer undergoing radiotherapy: A retrospective study.。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42698913",
+        "pmid": "42698913",
+        "doi": "10.4102/ajlm.v15i1.3054",
+        "title": "Evaluation of visual inspection with acetic acid and Pap smear tests in early cervical cancer screening among women in Meru County, Kenya.",
+        "abstract": "BACKGROUND: Early cervical dysplasia screening can save women from death resulting from cervical cancer.\nOBJECTIVE: To evaluate and compare the diagnostic performance of the Papanicolaou (Pap) smear and visual inspection with acetic acid (VIA) against histopathology as the reference test.\nMETHODS: We recruited 160 women aged 25-60 years who were undergoing early cervical screenings at the Meru teaching and referral hospital, from June to October 2024. The sensitivity, specificity, positive predictive value (PPV), and negative predictive value (NPV) were calculated by comparing VIA and Pap smear outcomes against histology (gold standard).\nRESULTS: Mean age of the study sample was 44.96 years (s.d. = 9.49). Eighteen (11%) had inflammation, 3 (1.9%) had squamous cell carcinoma against 11 (6.9%) detected by histology, and 14 (8.8%) had precancerous lesions. There was no statistical significance between age or number of pregnancies and histology-confirmed cervical lesions. Pap smear had a sensitivity of 100% (95% confidence interval [CI]: 86-100), specificity of 94% (95%CI: 89-97), PPV of 76% (95%CI: 58-89), and NPV of 100% (95%CI: 97-100). In comparison, VIA showed diagnostic performance with sensitivity of 72% (95%CI: 51-88), specificity of 81% (95%CI: 74-88), PPV of 42% (95%CI: 27-58), and NPV of 94% (95%CI: 88-98).\nCONCLUSION: Pap smear showed higher overall diagnostic accuracy than VIA in diagnosing cervical lesions. While less specific, VIA showed a high NPV, suggesting its potential in ruling out disease in low-resource settings. Although age and pregnancy showed no statistical significance with cervical dysplasia, more studies including characteristics are required.\nWHAT THIS STUDY ADDS: Results provide updated evidence on the relative diagnostic performance of VIA and Pap smear, to guide cervical cancer screening strategies in settings with limited resources.",
+        "journal": "African journal of laboratory medicine",
+        "authors": [
+          "Mary N Chege",
+          "Scolastica N Kimani",
+          "Stanley Kang'ethe"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-05T00:00:00.000Z",
+        "activityAt": "2026-09-06T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42698913/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "肯尼亚梅鲁县女性早期宫颈癌筛查中醋酸肉眼观察与巴氏涂片检测的评价",
+          "researchQuestion": "评估并比较巴氏涂片（Pap smear）与醋酸肉眼观察（VIA）以组织病理学为参考标准的诊断性能。",
+          "studyDesign": "诊断试验准确性评价研究（VIA和Pap smear结果与组织学金标准比较）",
+          "populationAndSample": "2024年6月至10月在肯尼亚Meru教学和转诊医院接受早期宫颈癌筛查的160名25-60岁女性；平均年龄44.96岁（标准差9.49）。",
+          "methods": "计算VIA和Pap smear与组织学（金标准）比较的灵敏度、特异度、阳性预测值（PPV）和阴性预测值（NPV）。",
+          "keyResults": "18例（11%）有炎症，3例（1.9%）有鳞状细胞癌，组织学检出11例（6.9%）鳞状细胞癌，14例（8.8%）有癌前病变；年龄或妊娠次数与组织学确认的宫颈病变之间无统计学显著性。Pap smear灵敏度100%（95%CI 86-100）、特异度94%（95%CI 89-97）、PPV 76%（95%CI 58-89）、NPV 100%（95%CI 97-100）；VIA灵敏度72%（95%CI 51-88）、特异度81%（95%CI 74-88）、PPV 42%（95%CI 27-58）、NPV 94%（95%CI 88-98）。",
+          "limitations": "摘要未报告明确的局限性；作者提出仍需开展纳入更多特征的研究。",
+          "clinicalInterpretation": "本研究中Pap smear诊断宫颈病变的总体准确性高于VIA；VIA虽然特异度较低但NPV较高，提示其在资源有限环境中可能具有排除病变的潜在价值。作者认为这些结果可为资源有限地区的宫颈癌筛查策略提供最新证据。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "f08f560c9d38059a057eda5e76d1769bbd902d24eb80c6a97fda2ec38ec1c062"
+      },
+      {
+        "id": "pmid:42699011",
+        "pmid": "42699011",
+        "doi": "10.22037/aaem.v14i1.3062",
+        "title": "Diagnostic Accuracy of DNA Methylation Markers for Detecting Cervical Precancer and Cervical Cancer: A Systematic Review and Meta-analysis.",
+        "abstract": "BACKGROUND: DNA methylation markers have been proposed as molecular triage tools for detecting cervical precancer and cancer, particularly among HPV-positive women. However, diagnostic performance varies across markers, assays, specimens, and clinical settings. This study aimed to evaluate the marker-specific diagnostic accuracy of DNA methylation markers and methylation panels for detecting CIN2+ and CIN3+ in cervical cancer screening, triage, and related diagnostic contexts.\nMETHODS: This systematic review and diagnostic test accuracy meta-analysis was reported according to PRISMA-DTA 10. Marker-specific analyses were performed separately by endpoint to avoid double counting. Pooled sensitivity, specificity, diagnostic odds ratio, clinical utility estimates, risk of bias, publication bias, and certainty of evidence were assessed using diagnostic test accuracy methods, QUADAS-2 11, Deeks' test 14, and GRADE-DTA 12,13.\nRESULTS: The broad main diagnostic meta-analysis included 74 eligible studies 15-88, contributing 260 diagnostic test accuracy comparisons across 130 marker-endpoint-sample analyses. A strict sensitivity dataset included 164 comparisons from 51 studies. Seven marker analyses were available for CIN2+ and seven for CIN3+. Diagnostic performance varied by marker and endpoint. For CIN2+, S5 EPB41L3 plus HPV16/18/31/33 methylation showed the highest sensitivity but lower specificity, whereas PAX1, JAM3, SOX1, PAX1/JAM3, and Six-gene/GynTect showed higher specificity. For CIN3+, S5 showed the highest sensitivity, while PAX1/JAM3, JAM3, SOX1, PAX1, and Six-gene/GynTect had more balanced performance. Deeks' test did not show strong evidence of publication bias for most analyses, although borderline findings were observed in selected marker-endpoint analyses. GRADE-DTA certainty was low or very low across marker-endpoint analyses.\nCONCLUSIONS: DNA methylation markers showed heterogeneous diagnostic accuracy for detecting CIN2+ and CIN3+. Some markers demonstrated potentially useful sensitivity- or specificity-oriented profiles, but certainty of evidence was low or very low. Further standardized prospective validation is required before routine clinical implementation.",
+        "journal": "Archives of academic emergency medicine",
+        "authors": [
+          "Maedeh Arabpour",
+          "Mohammad Hossein Modarressi",
+          "Mostafa Hosseini",
+          "Sham Tahir Abdulla Horamee"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-08-12T00:00:00.000Z",
+        "activityAt": "2026-09-06T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42699011/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42699227",
+        "pmid": "42699227",
+        "doi": "10.3892/ol.2026.15826",
+        "title": "Pre-radiotherapy modified prognostic nutritional index predicts acute radiation enteritis in patients with cervical cancer undergoing radiotherapy: A retrospective study.",
+        "abstract": "Acute radiation enteritis (ARE) is a common complication of pelvic radiotherapy in patients with cervical cancer and may adversely affect treatment tolerance and nutritional status. The present retrospective study investigated whether the pre-radiotherapy modified prognostic nutritional index (mPNI), a cholesterol-modified nutritional and immune-related score, is associated with ARE in patients with cervical cancer receiving radiotherapy. A total of 92 patients with pathologically confirmed cervical cancer who completed radiotherapy at Fuyang People's Hospital Affiliated to Anhui Medical University (Fuyang, China) between January 2023 and December 2025 were included. ARE was graded according to the Radiation Therapy Oncology Group acute lower gastrointestinal toxicity criteria, with grade ≥1 ARE defined as the primary endpoint. Sensitivity analyses were conducted using grade ≥2 and grade ≥3 ARE as more clinically relevant endpoints. mPNI was calculated from pre-radiotherapy total cholesterol level, albumin level and total lymphocyte count. During radiotherapy, 67 patients developed grade ≥1 ARE. Pre-radiotherapy mPNI was higher in the ARE group than in the non-ARE group [median, 88.27 (interquartile range, 81.26-97.02) vs. 76.41 (interquartile range, 70.22-80.38); P<0.001]. In the clinically adjusted logistic regression model, a higher mPNI remained significantly associated with grade ≥1 ARE [odds ratio (OR), 1.163; 95% confidence interval (CI), 1.072-1.261; P<0.001]. Sensitivity analyses likewise demonstrated significant associations between mPNI and grade ≥2 ARE (OR, 1.069; 95% CI, 1.023-1.117; P=0.003) and grade ≥3 ARE (OR, 1.071; 95% CI, 1.013-1.133; P=0.016). Receiver operating characteristic curve analysis showed good discriminatory performance for grade ≥1 ARE, with an area under the curve of 0.835 (95% CI, 0.732-0.917), an optimal cut-off value of 80.406, a sensitivity of 79.1% and a specificity of 76.0%. These findings suggest that pre-radiotherapy mPNI may serve as a practical laboratory-based indicator for identifying patients with cervical cancer at increased risk of developing ARE during radiotherapy.",
+        "journal": "Oncology letters",
+        "authors": [
+          "Chunqiu Wu",
+          "Rui Huang",
+          "Wei Zhang",
+          "Wenqiang Qin",
+          "Yani Zou"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-21T00:00:00.000Z",
+        "activityAt": "2026-09-06T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42699227/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42700474",
+        "pmid": "42700474",
+        "doi": "10.1016/j.srhc.2026.101272",
+        "title": "The potential benefits of yoga for psychological well-being among people facing infertility.",
+        "abstract": "INTRODUCTION: Infertility is a global health concern affecting millions of persons, and is associated with psychological strains, including anxiety, stress and depressive symptoms. Women undergoing investigation and Artificial Reproductive Technologies may seek complementary interventions, such as yoga, to support psychological well-being.\nAIM: The aim of this scoping review was to map and synthesize the existing research on the use of yoga among women undergoing investigation and/or treatment for infertility, and to identify reported outcomes and research gaps.\nMETHOD: A scoping review was conducted according to JBI methodology and reported in accordance with the PRISMA-ScR checklist. Systematic searches were performed in CINAHL, PubMed and Web of Science for articles published between 2014 and 2025. Studies examining yoga interventions among women with infertility were included and charted.\nRESULTS: Three studies involving a total of 297 women met the inclusion criteria. The studies were conducted in Canada, Italy and Turkey and applied different yoga interventions, primarily Hatha yoga. The findings of this study are presented under two main categories: Characteristics of study samples and interventions and Impact of yoga on mental health indicators and quality of life. None of the included studies assessed pregnancy or fertility treatment outcomes.\nCONCLUSION: Yoga appears to be a promising complementary intervention for reducing psychological distress among women experiencing infertility. However, the limited number of valuable studies and heterogeneity of study designs highlight the need for further research, particularly regarding long-term effects and reproductive outcomes.",
+        "journal": "Sexual & reproductive healthcare : official journal of the Swedish Association of Midwives",
+        "authors": [
+          "Ani Henttonen",
+          "Charlotta Eskilson",
+          "Karin Gåård",
+          "Margareta Westerbotn",
+          "Maria Wahlström",
+          "Marie Tyrrell",
+          "Taina Sormunen"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-09-03T00:00:00.000Z",
+        "activityAt": "2026-09-06T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42700474/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42700927",
+        "pmid": "42700927",
+        "doi": "10.1016/j.ajogmf.2026.102106",
+        "title": "Gestational diabetes mellitus and life-course health.",
+        "abstract": "Gestational diabetes mellitus (GDM), traditionally defined as a disorder of hyperglycaemia with first onset or recognition during pregnancy, is a common condition which is complicated, costly, and controversial. Advances in understanding and awareness of GDM pathophysiology are resulting in an increasingly loud call for the application of personalised medicine approaches to both research in, and clinical care of, GDM. There is a shift away from viewing GDM as a condition to be diagnosed at 24 weeks of gestation and followed until 12 weeks postpartum, to a condition of metabolic vulnerability that precedes pregnancy, persists after pregnancy and requires a precision, life-course approach for health optimization facilitated by integrated, health system-wide supports. This article reviews emerging areas of focus in GDM with an emphasis on the relationship between the development of GDM and future health complications. The terms woman and women, mother and maternal are used in this paper to refer to all those, regardless of gender, who can or have become pregnant.",
+        "journal": "American journal of obstetrics & gynecology MFM",
+        "authors": [
+          "Amy Claire O'Higgins",
+          "Asma Fagear Mohamed",
+          "Jennifer Hogan",
+          "Joseph Gallagher",
+          "Mairéad M Kennelly",
+          "Syeda Farah Nazir"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-09-05T00:00:00.000Z",
+        "activityAt": "2026-09-06T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42700927/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      }
+    ]
+  }
+}
