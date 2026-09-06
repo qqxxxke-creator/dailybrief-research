@@ -7,10 +7,10 @@
   "editor_note": "过去24小时暂无符合质量要求的重要更新。",
   "keywords": [],
   "research": {
-    "generatedAt": "2026-09-06T23:07:50.266Z",
-    "dataAsOf": "2026-09-06T23:07:50.266Z",
+    "generatedAt": "2026-09-06T23:46:02.596Z",
+    "dataAsOf": "2026-09-06T23:46:02.596Z",
     "isCachedFallback": false,
-    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及肯尼亚梅鲁县女性早期宫颈癌筛查中醋酸肉眼观察与巴氏涂片检测的评价、Diagnostic Accuracy of DNA Methylation Markers for Detecting Cervical Precancer and Cervical Cancer: A Systematic Review and Meta-analysis.、Pre-radiotherapy modified prognostic nutritional index predicts acute radiation enteritis in patients with cervical cancer undergoing radiotherapy: A retrospective study.。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及肯尼亚梅鲁县女性早期宫颈癌筛查中醋酸肉眼观察与巴氏涂片检测的评价、DNA甲基化标志物检测宫颈癌前病变和宫颈癌的诊断准确性：系统评价与Meta分析、放疗前改良预后营养指数预测接受放疗的宫颈癌患者急性放射性肠炎：一项回顾性研究。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
       {
         "id": "pmid:42698913",
@@ -36,15 +36,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "肯尼亚梅鲁县女性早期宫颈癌筛查中醋酸肉眼观察与巴氏涂片检测的评价",
           "researchQuestion": "评估并比较巴氏涂片（Pap smear）与醋酸肉眼观察（VIA）以组织病理学为参考标准的诊断性能。",
@@ -56,7 +47,16 @@
           "clinicalInterpretation": "本研究中Pap smear诊断宫颈病变的总体准确性高于VIA；VIA虽然特异度较低但NPV较高，提示其在资源有限环境中可能具有排除病变的潜在价值。作者认为这些结果可为资源有限地区的宫颈癌筛查策略提供最新证据。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "f08f560c9d38059a057eda5e76d1769bbd902d24eb80c6a97fda2ec38ec1c062"
+        "summaryInputHash": "f08f560c9d38059a057eda5e76d1769bbd902d24eb80c6a97fda2ec38ec1c062",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42699011",
@@ -84,6 +84,7 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
+        "summaryStatus": "success",
         "assignedTopicId": "gynecologic-oncology",
         "score": {
           "topicMatch": 50,
@@ -93,7 +94,17 @@
           "total": 85,
           "evidenceRank": 0.4
         },
-        "summaryStatus": "failed"
+        "summaryZh": {
+          "titleZh": "DNA甲基化标志物检测宫颈癌前病变和宫颈癌的诊断准确性：系统评价与Meta分析",
+          "researchQuestion": "评估DNA甲基化标志物及甲基化组合在宫颈癌筛查、分流及相关诊断背景下检测CIN2+和CIN3+的标志物特异性诊断准确性。",
+          "studyDesign": "系统评价与诊断试验准确性Meta分析（依据PRISMA-DTA 10报告）",
+          "populationAndSample": "主要诊断Meta分析纳入74项符合条件的研究，贡献260项诊断试验准确性比较，涵盖130项标志物-终点-样本分析；严格敏感性数据集包括来自51项研究的164项比较。",
+          "methods": "按终点分别进行标志物特异性分析以避免重复计数；使用诊断试验准确性方法汇总灵敏度、特异度、诊断比值比和临床效用估计，并采用QUADAS-2 11评估偏倚风险、Deeks检验14评估发表偏倚、GRADE-DTA 12,13评估证据确定性。",
+          "keyResults": "可获得CIN2+的7项标志物分析和CIN3+的7项标志物分析。诊断性能因标志物和终点而异。对于CIN2+，S5 EPB41L3联合HPV16/18/31/33甲基化显示最高灵敏度但较低特异度，而PAX1、JAM3、SOX1、PAX1/JAM3和Six-gene/GynTect显示较高特异度。对于CIN3+，S5显示最高灵敏度，而PAX1/JAM3、JAM3、SOX1、PAX1和Six-gene/GynTect表现更均衡。Deeks检验未显示大多数分析存在强发表偏倚证据，但在部分特定标志物-终点分析中观察到临界结果。GRADE-DTA证据确定性在所有标志物-终点分析中为低或极低。",
+          "limitations": "摘要报告证据确定性为低或极低，且诊断性能在不同标志物、检测方法、标本和临床场景中存在差异；常规临床实施前需要进一步标准化前瞻性验证。其他具体局限性摘要未报告。",
+          "clinicalInterpretation": "DNA甲基化标志物在检测CIN2+和CIN3+方面显示出异质性的诊断准确性，部分标志物表现出可能有用的以灵敏度或特异度为导向的特征，但证据确定性低或极低，尚不能作为常规临床实施依据，需进一步标准化前瞻性验证。"
+        },
+        "summaryInputHash": "09577bba8d82dbe2ab61221e41b3c6476ca6d0c6fe62d13710346053c075cccc"
       },
       {
         "id": "pmid:42699227",
@@ -121,6 +132,7 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
+        "summaryStatus": "success",
         "assignedTopicId": "gynecologic-oncology",
         "score": {
           "topicMatch": 50,
@@ -130,7 +142,17 @@
           "total": 85,
           "evidenceRank": 0.4
         },
-        "summaryStatus": "failed"
+        "summaryZh": {
+          "titleZh": "放疗前改良预后营养指数预测接受放疗的宫颈癌患者急性放射性肠炎：一项回顾性研究",
+          "researchQuestion": "探讨放疗前改良预后营养指数（mPNI）是否与接受放疗的宫颈癌患者发生急性放射性肠炎（ARE）相关。",
+          "studyDesign": "回顾性研究",
+          "populationAndSample": "92例于2023年1月至2025年12月在安徽医科大学附属阜阳人民医院完成放疗并经病理确诊的宫颈癌患者；放疗期间67例发生≥1级ARE。",
+          "methods": "ARE根据放射治疗肿瘤学组急性下消化道毒性标准分级，主要终点为≥1级ARE，敏感性分析使用≥2级和≥3级ARE作为更临床相关的终点。mPNI由放疗前总胆固醇、白蛋白水平和总淋巴细胞计数计算。采用临床校正的logistic回归模型和接受者操作特征曲线分析。",
+          "keyResults": "放疗前mPNI在ARE组高于非ARE组[中位数88.27（四分位距81.26-97.02） vs 76.41（70.22-80.38）；P<0.001]。校正临床因素后，较高mPNI与≥1级ARE显著相关[比值比（OR）1.163；95%置信区间（CI）1.072-1.261；P<0.001]。敏感性分析显示mPNI与≥2级ARE（OR 1.069；95%CI 1.023-1.117；P=0.003）及≥3级ARE（OR 1.071；95%CI 1.013-1.133；P=0.016）显著相关。ROC曲线对≥1级ARE的曲线下面积为0.835（95%CI 0.732-0.917），最佳截断值为80.406，灵敏度79.1%，特异度76.0%。",
+          "limitations": "摘要未报告局限性。",
+          "clinicalInterpretation": "放疗前mPNI可能作为识别宫颈癌患者放疗期间发生ARE风险增加的实用实验室指标，但该关联来自回顾性研究，不能推断因果关系。"
+        },
+        "summaryInputHash": "e9ea736cd554be6691911010b87ee598aec738885a3deae0828b33d5de6b7e0e"
       },
       {
         "id": "pmid:42700474",
@@ -161,6 +183,7 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
+        "summaryStatus": "success",
         "assignedTopicId": "reproductive-medicine",
         "score": {
           "topicMatch": 50,
@@ -170,7 +193,17 @@
           "total": 85,
           "evidenceRank": 0.4
         },
-        "summaryStatus": "failed"
+        "summaryZh": {
+          "titleZh": "瑜伽对面临不孕症人群心理健康的潜在益处",
+          "researchQuestion": "绘制并综合关于接受不孕症检查和/或治疗期间使用瑜伽的现有研究，并报告已报道的结局和研究空白。",
+          "studyDesign": "范围综述（遵循JBI方法学，并根据PRISMA-ScR清单报告）",
+          "populationAndSample": "3项研究，共涉及297名女性；研究在加拿大、意大利和土耳其进行。",
+          "methods": "系统检索CINAHL、PubMed和Web of Science，纳入2014年至2025年间发表、针对不孕女性瑜伽干预的研究；发现结果按两个主要类别呈现：研究样本和干预措施特征、瑜伽对心理健康指标和生活质量的影响。",
+          "keyResults": "三项研究符合纳入标准，应用了不同的瑜伽干预，主要是哈他瑜伽。所有纳入研究均未评估妊娠或生育治疗结局。瑜伽似乎是减少经历不孕的女性心理困扰的一种有前景的补充干预，但由于研究数量有限且研究设计存在异质性，需进一步开展研究，特别是关于长期效果和生殖结局的研究。",
+          "limitations": "摘要未单独列局限性，但指出纳入研究数量有限、研究设计异质性大，缺乏妊娠或生育治疗结局的评估。",
+          "clinicalInterpretation": "瑜伽可能作为减少不孕女性心理困扰的有前景的补充干预，但现有证据有限且异质性大，不能将其作为临床指令或确定性推荐。"
+        },
+        "summaryInputHash": "60919808e92674636c9d9bb1260b67fc236278fb8de65fa11a6df873d726640a"
       },
       {
         "id": "pmid:42700927",
@@ -200,6 +233,7 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
+        "summaryStatus": "success",
         "assignedTopicId": "maternal-fetal-medicine",
         "score": {
           "topicMatch": 50,
@@ -209,7 +243,17 @@
           "total": 85,
           "evidenceRank": 0.4
         },
-        "summaryStatus": "failed"
+        "summaryZh": {
+          "titleZh": "妊娠期糖尿病与生命全程健康",
+          "researchQuestion": "综述妊娠期糖尿病（GDM）的新兴关注领域，重点强调GDM发展与未来健康并发症之间的关系。",
+          "studyDesign": "综述文章（Journal Article/Review；具体综述类型摘要未报告）",
+          "populationAndSample": "摘要未报告。",
+          "methods": "摘要未报告具体方法；本文回顾了GDM的新兴关注领域，并强调GDM发生与未来健康并发症之间的关系。",
+          "keyResults": "GDM传统上定义为妊娠期首次发生或首次识别的高血糖症，是一种常见、复杂、昂贵且有争议的疾病。对GDM病理生理学的理解和认识进展正促使人们越来越强烈地呼吁在GDM研究和临床护理中应用个体化医学方法。视角正从将GDM视为妊娠24周诊断并随访至产后12周的状况，转变为一种先于妊娠存在、妊娠后持续存在的代谢脆弱状态，需要通过整合的全卫生系统范围支持，采用精准、生命全程的方法来优化健康。本文使用woman/women、mother/maternal术语指代所有可能怀孕或已经怀孕的人，无论性别。",
+          "limitations": "摘要未报告局限性。",
+          "clinicalInterpretation": "本文为综述观点，提出GDM应被视为孕前-孕期-产后延续的代谢脆弱状态，并需要生命全程的精准管理；上述内容为作者对领域发展方向的论述，不构成临床指南或指令。"
+        },
+        "summaryInputHash": "29324aabd2906e0242e708ea41ca58b77afed1778d2848f09fa088cb56ba42fd"
       }
     ]
   }
