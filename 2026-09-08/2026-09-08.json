@@ -1,0 +1,261 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-09-07T23:26:42.735Z",
+    "dataAsOf": "2026-09-07T23:26:42.735Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及循环残余胆固醇水平作为预测妊娠期糖尿病的潜在生物标志物：一项系统评价、人乳头瘤病毒对精子参数的影响：一项伞状评价与Meta分析、盆底物理治疗对不孕女性胚胎移植期间子宫内膜厚度的有效性：系统评价与Meta分析。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42703955",
+        "pmid": "42703955",
+        "doi": "10.1155/jdr/9942007",
+        "title": "Circulating Levels of Remnant Cholesterol as Potential Biomarkers for Predicting Gestational Diabetes: A Systematic Review.",
+        "abstract": "OBJECTIVES: Gestational diabetes mellitus (GDM) is a common pregnancy complication with serious consequences for both mother and child. Current diagnostic methods are invasive and limited. The present study was conducted to evaluate circulating remnant cholesterol (RC) as a potential predictive and diagnostic biomarker for GDM.\nMETHODS: The present study was conducted following PRISMA guidelines. Databases including Scopus, PubMed, Web of Science (WoS), Embase, ProQuest, Cochrane, and Google Scholar were searched up to August 2025 using standardized keywords. The search results were independently screened by two researchers in two stages. The quality of included articles was assessed using the Newcastle-Ottawa Scale (NOS).\nRESULTS: Finally, 11 studies were included in this systematic review. Women who developed GDM had higher circulating RC levels than those who did not. Overall, higher RC levels in early pregnancy were linked to a greater risk of GDM, with even small increases in RC translating into a higher likelihood of the condition. Although the strength of this link varied across studies and one suggested a possible protective effect, the evidence points to a fairly consistent association.\nCONCLUSIONS: This systematic review indicates that circulating RC is a promising candidate biomarker for early risk stratification of GDM. RC levels in the first trimester show a significant positive association with GDM risk, highlighting its potential for clinical integration. Further studies are needed to define cutoffs, validate across populations, and confirm real-world applicability.",
+        "journal": "Journal of diabetes research",
+        "authors": [
+          "Farzad Sadri",
+          "Fatemeh Abdi",
+          "Fatemeh Alsadat Rahnemaei",
+          "Fatemeh Khosravani",
+          "Yaser Mohammadi"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-01-01T00:00:00.000Z",
+        "activityAt": "2026-09-07T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42703955/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "循环残余胆固醇水平作为预测妊娠期糖尿病的潜在生物标志物：一项系统评价",
+          "researchQuestion": "评估循环残余胆固醇（RC）作为妊娠期糖尿病（GDM）潜在预测和诊断生物标志物的价值。",
+          "studyDesign": "系统评价（遵循PRISMA指南）",
+          "populationAndSample": "最终纳入11项研究。摘要未报告各研究参与者的具体数量和特征。",
+          "methods": "检索Scopus、PubMed、Web of Science（WoS）、Embase、ProQuest、Cochrane和Google Scholar，检索截止至2025年8月，使用标准化关键词。由两名研究者分两阶段独立筛选。采用纽卡斯尔-渥太华量表（NOS）评估纳入文章的质量。",
+          "keyResults": "发生GDM的女性循环RC水平高于未发生者。总体而言，妊娠早期较高的RC水平与更高的GDM风险相关，即使RC小幅升高也与更大的GDM可能性相关。尽管这种关联的强度在不同研究间存在差异，且一项研究提示可能存在保护效应，但证据总体指向较为一致的关联。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "该系统评价提示循环RC可能是GDM早期风险分层的候选生物标志物，早孕期RC水平与GDM风险存在显著正相关，具有潜在的临床整合价值。但需进一步研究确定切点、在不同人群中验证并确认真实世界适用性。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "ba8da4763090ae437fa6d04eb7ff70502dea682067fa42c051cf1f28b632bd1b"
+      },
+      {
+        "id": "pmid:42703824",
+        "pmid": "42703824",
+        "doi": "10.22074/ijfs.2025.2061653.1880",
+        "title": "The Effect of Human Papillomavirus on Sperm Parameters: An Umbrella Review and Meta-analysis.",
+        "abstract": "OBJECTIVE: Human papillomavirus (HPV) is a prevalent sexually transmitted virus hypothesised to contribute to unexplained male infertility that potentially affects sperm quality. The current research looks at the impact of HPV infections on sperm quality.\nMATERIALS AND METHODS: Web of Science, PubMed, Cochrane Library, Medline, and Embase databases were searched on August 24, 2024 for reviews that examined the relationship between sperm quality and HPV infection, which were published between 1996 and 2024. PRISMA guidelines were followed for this study. The AMSTAR tool was used to assess the risk of bias. Evaluation of heterogeneity was conducted by the Q test and I² statistics. Pooled effect sizes were expressed as the standardised mean difference (SMD) with a 95% confidence interval (95% CI). These were synthesised using fixed-effect or random effects models as appropriate.\nRESULTS: Out of 537 initially identified articles, 16 systematic reviews and meta-analyses were eligible for inclusion. Our umbrella review results showed that HPV infection in semen significantly reduced progressive motility (SMD = -0.48, 95% CI: -0.75, - 0.21), total motility (SMD = -0.59, 95% CI: -0.82, -0.35), sperm count (SMD = -0.27, 95% CI: -0.43, -0.10), viability (SMD = -0.38, 95% CI: -0.62, -0.14), and morphology (SMD = -0.32, 95% CI: -0.53, -0.10).\nCONCLUSION: HPV infections in semen may be a significant factor in the reduction of sperm quality, as observed in HPV-positive relative to HPV-negative individuals.",
+        "journal": "International journal of fertility & sterility",
+        "authors": [
+          "Maryam Dastoorpour",
+          "Maryam Zahedian",
+          "Mina Iravani",
+          "Parvin Esfandiarinezhad",
+          "Solmaz Mohammadi"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-08T00:00:00.000Z",
+        "activityAt": "2026-09-07T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42703824/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 11.25,
+          "recency": 10,
+          "total": 96.25,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "人乳头瘤病毒对精子参数的影响：一项伞状评价与Meta分析",
+          "researchQuestion": "评估人乳头瘤病毒（HPV）感染对精子质量的影响。",
+          "studyDesign": "伞状评价与Meta分析（遵循PRISMA指南；使用AMSTAR工具评估偏倚风险）",
+          "populationAndSample": "从最初识别的537篇文章中，最终纳入16篇评估精子质量与HPV感染关系的系统评价和Meta分析。摘要未报告各评价涉及的原始受试者总样本量。",
+          "methods": "检索Web of Science、PubMed、Cochrane Library、Medline和Embase数据库，检索日期为2024年8月24日，纳入1996年至2024年间发表的检验精子质量与HPV感染关系的综述。采用Q检验和I²统计量评估异质性。合并效应量以标准化均数差（SMD）及95%置信区间（95% CI）表示，并根据情况采用固定效应或随机效应模型进行合成。",
+          "keyResults": "HPV感染显著降低精子前向运动力（SMD=-0.48，95% CI：-0.75至-0.21）、总运动力（SMD=-0.59，95% CI：-0.82至-0.35）、精子计数（SMD=-0.27，95% CI：-0.43至-0.10）、存活率（SMD=-0.38，95% CI：-0.62至-0.14）和形态（SMD=-0.32，95% CI：-0.53至-0.10）。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "与HPV阴性个体相比，精液中HPV感染可能是HPV阳性个体精子质量下降的一个重要因素。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "8594255b11f8ba0b07af797011018e7f3952b4cfc3e37f74dd58a60f23dd65d9"
+      },
+      {
+        "id": "pmid:42703823",
+        "pmid": "42703823",
+        "doi": "10.22074/ijfs.2025.2047467.1794",
+        "title": "The Effectiveness of Pelvic Floor Physiotherapy on Endometrial Thickness during Embryo Transfer in Infertile Women: A Systematic Review and Meta-analysis.",
+        "abstract": "OBJECTIVE: Embryo transfer is a complex process that often fails due to poor endometrial growth. Pelvic floor physiotherapy improves endometrial thickness by enhancing pelvic blood circulation and stimulating uterine muscle with varied frequency flows, consequently boosting embryo implantation and pregnancy success rates. The present study aimed to assess the effectiveness of pelvic floor physiotherapy on endometrial thickness during embryo transfer.\nMATERIALS AND METHODS: We systematically reviewed databases with no time restriction (out of 574 retrieved records, 8 studies were meta-analysed). This study analyzed randomized controlled trials (RCTs) assessing pelvic floor physiotherapy effects on endometrial thickness in infertile women, compared to routine treatments such as estradiol valerate tablets with vaginal progesterone gel, and oral Progynova. Participants were infertile women undergoing in vitro fertilization/intracytoplasmic sperm injection-embryo transfer (IVF/ICSI-ET) or frozen ET (FET). Outcomes included endometrial thickness (primary outcome), arterial resistance index (RI), pulsatility index (PI), and pregnancy rate (secondary outcomes).\nRESULTS: A total of 8 studies were meta-analyzed and we found that electrical physiotherapy combined with routine treatments, may increase the endometrial thickness versus controls [mean difference (MD)=0.93, 95% confidence interval (CI): 0.30 to 1.55; 7 trials, P=0.004; low-certainty evidence], but does not affect RI (MD=-0.03, 95% CI: -0.14 to 0.07; 4 trials, P=0.570; very low-certainty evidence) and PI (MD=-0.16, 95% CI: -0.41 to 0.09; 3 trials, P=0.210; very low-certainty evidence). However, physiotherapy with routine treatments may increase pregnancy rates with low-quality evidence (OR=2.72, 95% CI: 1.87 to 3.95; 6 trials, P<0.001; low-certainty evidence).\nCONCLUSION: Our study suggests that combining pelvic floor physiotherapy with standard infertility treatments may enhance endometrial thickness and boost fertility rates compared to standard treatments alone. Critically, this conclusion is based on low to very low-quality evidence, limiting confidence in the observed benefits. Furthermore, the effect of physiotherapy on uterine arterial resistance and pulsatility indices is currently undetermined due to insufficient data (Prospero ID: CRD42023442310).",
+        "journal": "International journal of fertility & sterility",
+        "authors": [
+          "Mahsa Farasati",
+          "Mojgan Mirghafourvand",
+          "Sakineh Mohammad-Alizadeh-Charandabi",
+          "Somayeh Abdolalipour"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-08T00:00:00.000Z",
+        "activityAt": "2026-09-07T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42703823/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 3.75,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "盆底物理治疗对不孕女性胚胎移植期间子宫内膜厚度的有效性：系统评价与Meta分析",
+          "researchQuestion": "评估盆底物理治疗对胚胎移植期间子宫内膜厚度的影响。",
+          "studyDesign": "系统评价与Meta分析（纳入随机对照试验）",
+          "populationAndSample": "研究对象为接受体外受精/卵胞浆内单精子注射-胚胎移植（IVF/ICSI-ET）或冻融胚胎移植（FET）的不孕女性。在574篇检索记录中，8项研究被纳入Meta分析。",
+          "methods": "无时间限制地系统检索数据库。比较盆底物理治疗联合常规治疗与常规治疗（如戊酸雌二醇片联合阴道黄体酮凝胶、口服补佳乐）对子宫内膜厚度的影响。主要结局为子宫内膜厚度；次要结局包括动脉阻力指数（RI）、搏动指数（PI）和妊娠率。",
+          "keyResults": "电理疗联合常规治疗可能较对照组增加子宫内膜厚度（均数差MD=0.93，95% CI：0.30至1.55；7项试验，P=0.004；低质量证据），但不影响RI（MD=-0.03，95% CI：-0.14至0.07；4项试验，P=0.570；极低质量证据）和PI（MD=-0.16，95% CI：-0.41至0.09；3项试验，P=0.210；极低质量证据）。物理治疗联合常规治疗可能提高妊娠率（OR=2.72，95% CI：1.87至3.95；6项试验，P<0.001；低质量证据）。",
+          "limitations": "结论基于低至极低质量的证据，限制了对观察获益的置信度；因数据不足，物理治疗对子宫动脉阻力和搏动指数的影响尚未确定。PROSPERO注册号：CRD42023442310。",
+          "clinicalInterpretation": "与单独标准治疗相比，盆底物理治疗联合标准不孕治疗可能增加子宫内膜厚度并提高妊娠率；但证据质量为低至极低，应谨慎解释。对子宫动脉阻力和搏动指数的影响目前尚不确定。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "f42992212c48993c3269076a936f590c0b3109aa3959a5cd976eba750cb039d9"
+      },
+      {
+        "id": "pmid:42702737",
+        "pmid": "42702737",
+        "doi": "10.1111/nhs.70420",
+        "title": "Women's Experiences Living With Endometriosis: An Interpretative Phenomenological Study.",
+        "abstract": "The aim was to explore the lived experiences of women diagnosed with endometriosis and receiving care in Spain to understand its impact across multiple areas of their lives. This qualitative study utilized a hermeneutic phenomenological approach. Data were collected between February 2023 and June 2025. Semi-structured individual interviews were conducted with 17 women and were audio recorded with the participants' consent. Interview data were transcribed verbatim and analyzed following the theoretical framework of van Manen's phenomenology of practice approach. We identified four themes: interpersonal (dis)connections: the relational impact of endometriosis; self-management and redefinition: learning to live with endometriosis; when womanhood hurts: the disruptive embodiment of endometriosis; and fragile alliances with healthcare: between hope and abandonment. Participants described how endometriosis profoundly disrupts their lives through constant pain, social invisibility, and emotional exhaustion, affecting emotional, social, professional, and bodily dimensions. Women experience endometriosis as a challenge for their identity, fertility expectations, and trust in healthcare. Participants emphasized coping strategies such as self-management, peer support, and advocacy as essential for a condition that demands personal resilience.",
+        "journal": "Nursing & health sciences",
+        "authors": [
+          "Blanca Ochoa-Sáenz",
+          "Carolina E Watson",
+          "Rebeca Gómez-Ibáñez"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-01T00:00:00.000Z",
+        "activityAt": "2026-09-07T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42702737/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "患有子宫内膜异位症女性的生活体验：一项解释性现象学研究",
+          "researchQuestion": "探索在西班牙被诊断患有子宫内膜异位症并接受护理的女性的生活体验，以理解该疾病对其生活多个领域的影响。",
+          "studyDesign": "质性研究，采用诠释学（解释性）现象学方法，遵循van Manen的实践现象学理论框架。",
+          "populationAndSample": "17名在西班牙被诊断患有子宫内膜异位症并接受护理的女性。数据收集于2023年2月至2025年6月期间。",
+          "methods": "对17名女性进行半结构化个体访谈，经参与者同意后录音。访谈数据经逐字转录，并按照van Manen的实践现象学方法进行分析。",
+          "keyResults": "识别出四个主题：人际（失）联结：子宫内膜异位症的关系影响；自我管理与重新定义：学会与子宫内膜异位症共存；当女性身份受伤：子宫内膜异位症的破坏性具身体验；与医疗系统的脆弱联盟：在希望与被遗弃之间。参与者描述了子宫内膜异位症通过持续疼痛、社会不可见性和情绪耗竭深刻扰乱其生活，影响情感、社会、职业和身体维度。女性将该疾病经历视为对其身份、生育期望和医疗信任的挑战。参与者强调自我管理、同伴支持和倡导等应对策略对于这一需要个人韧性的疾病至关重要。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "该研究提供了子宫内膜异位症对女性生活多维度影响的深入现象学理解，并突出了自我管理、同伴支持和倡导在患者应对疾病过程中的重要作用。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "230d9600623f8599e33bb455d8faa02e477cde151c4f68002dbee90022345dae"
+      },
+      {
+        "id": "pmid:42702885",
+        "pmid": "42702885",
+        "doi": "10.1111/ajo.70170",
+        "title": "Improving Clinical Outcomes Related to Preeclampsia: Real-World Impacts of Implementation of a Redesigned Approach to Antenatal Care-The Initial Maternity Assessment and Planning (IMAP) Service.",
+        "abstract": "INTRODUCTION: Preeclampsia is a major contributor to maternal and perinatal morbidity. First-trimester predictive models for preterm preeclampsia have better efficacy than history-based screening for prevention of this adverse pregnancy outcome. There are, however, few data describing implementation of this method of screening at a population level within public healthcare.\nMATERIALS AND METHODS: A retrospective service evaluation compared a historical cohort receiving standard maternity care and a contemporary cohort managed through the Initial Maternity Assessment and Planning (IMAP) service, a redesigned antenatal care approach focused on early multidisciplinary specialist maternity assessment and algorithm-based preeclampsia screening prior to 14 weeks gestation. Singleton pregnancies within a metropolitan public hospital catchment were included. The primary outcome was preterm preeclampsia (leading to birth < 37 weeks). Secondary clinical outcomes included early-onset preeclampsia (leading to birth < 32 weeks), severe maternal preterm preeclampsia, and rates of potential aspirin-related obstetric complications. Secondary service outcomes included gestation at first visit and rates of early aspirin therapy for women at elevated risk.\nRESULTS: Historical and contemporary cohorts included 5 004 and 6 036 pregnancies, respectively. Median gestation at first visit decreased from 20 to 12 weeks. Analysis demonstrated a 49% reduction in the odds of preterm preeclampsia (0.91% to 0.60%; aOR 0.51, 95% CI 0.31-0.82) and a 59% reduction in the odds of severe preterm preeclampsia (0.38% to 0.20%; aOR 0.43, 95% CI 0.19-0.91). No significant differences were observed in early-onset or term preeclampsia, fetal growth restriction, or complications related to antiplatelet therapy. The screen positive rate fell from 9.0% to 7.2%, while aspirin recommendation for high-risk women increased from 23.9% to 77.8% overall and 98.2% in those receiving FMF screening.\nCONCLUSION: A comprehensive, population-based multidisciplinary first-trimester assessment service, prioritizing FMF preeclampsia screening, can be successfully implemented within a public health setting and may be associated with lower odds of adverse clinical outcomes.",
+        "journal": "The Australian & New Zealand journal of obstetrics & gynaecology",
+        "authors": [
+          "Ailsa Borbolla Foster",
+          "Caroline Kuhne",
+          "Felicity Park",
+          "Harriet Calvert",
+          "Jennifer Haxton",
+          "Jon Hyett",
+          "Madeleine Hinwood",
+          "Nicole Bennett"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-01T00:00:00.000Z",
+        "activityAt": "2026-09-07T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42702885/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "改善子痫前期相关临床结局：重新设计的产前保健方法——初始产科评估与计划（IMAP）服务的真实世界影响",
+          "researchQuestion": "评估以重设计的早期多学科产前保健和基于算法的子痫前期筛查为核心的IMAP服务，在公共医疗环境中对早产子痫前期及相关临床结局的影响。",
+          "studyDesign": "回顾性服务评价，比较接受标准产科护理的历史队列与通过IMAP服务管理的同期队列。",
+          "populationAndSample": "来自一个都市公立医院产科的收治区域内的单胎妊娠。历史队列5004例妊娠，同期队列6036例妊娠。",
+          "methods": "IMAP服务是一种重设计的产前保健方法，重点是在14周孕前由多学科专科进行早期产科评估并采用基于子痫前期筛查算法。历史队列接受标准产科护理。主要结局为早产子痫前期（导致<37周分娩）。次要临床结局包括早发型子痫前期（导致<32周分娩）、严重母体早产子痫前期，以及潜在阿司匹林相关产科并发症发生率。次要服务结局包括首次就诊孕周和高风险女性早期阿司匹林治疗率。",
+          "keyResults": "首次就诊孕周中位数从20周降至12周。早产子痫前期几率降低49%（发生率从0.91%降至0.60%；aOR=0.51，95% CI：0.31至0.82）；重度早产子痫前期几率降低59%（发生率从0.38%降至0.20%；aOR=0.43，95% CI：0.19至0.91）。早发型或足月子痫前期、胎儿生长受限及抗血小板治疗相关并发症未见显著差异。筛查阳性率从9.0%降至7.2%，高风险女性接受阿司匹林建议的比例从23.9%增至77.8%，其中接受FMF筛查的高风险女性中达98.2%。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "一个以FMF子痫前期筛查为重点的全面、基于人群的多学科早孕期评估服务可在公共卫生环境中成功实施，并可能与不良临床结局的较低几率相关。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "6206f0b2064618055eae2021854b0b11db35c7513f8c7e8a0237d3ea1d647646"
+      }
+    ]
+  }
+}
