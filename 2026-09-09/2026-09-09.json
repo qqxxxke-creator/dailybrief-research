@@ -1,0 +1,230 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-09-08T22:56:43.058Z",
+    "dataAsOf": "2026-09-08T22:56:43.058Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及Brucea javanica oil emulsion as an adjunct to chemoradiotherapy in cervical cancer: a systematic review and meta-analysis of adverse effects reduction and immune enhancement.、Association Between Isolated Maternal Hypothyroxinemia and Adverse Maternal and Infant Outcomes.、Meta-analysis on the association of the COMT Val158Met variant with preeclampsia risk.。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42707440",
+        "pmid": "42707440",
+        "doi": "10.3389/or.2026.1880668",
+        "title": "Brucea javanica oil emulsion as an adjunct to chemoradiotherapy in cervical cancer: a systematic review and meta-analysis of adverse effects reduction and immune enhancement.",
+        "abstract": "BACKGROUND: Brucea javanica oil emulsion (BJOE) has been proposed as an adjuvant therapy to mitigate adverse reactions in cervical cancer patients receiving radiotherapy/chemotherapy, yet its efficacy remains understudied. This meta-analysis aimed to systematically evaluate the clinical benefits and safety of BJOE in this population.\nMETHODS: We searched PubMed, Embase, Cochrane Library, and six other databases for Randomized controlled trials (RCTs) up to February 2025. Primary outcomes included adverse reactions (rectal symptoms, nausea/vomiting, leukopenia, radiation cystitis) and immune function markers (CD3 + , CD4 + , CD8 + ). Pooled risk ratios (RR) and mean differences (MD) with 95% confidence intervals (CIs) were calculated using RevMan 5.4 and Stata 13.0.\nRESULTS: Five RCTs (N = 372 patients) were included. BJOE supplementation significantly reduced the incidence of rectal symptoms (RR = 0.56, 95%CI: 0.45-0.68), nausea/vomiting (RR = 0.60, 95%CI: 0.43-0.85), leukopenia (RR = 0.52, 95%CI: 0.34-0.77), and radiation cystitis (RR = 0.46, 95%CI: 0.33-0.63). Immune function improved markedly (CD3+: MD = 4.42, 95%CI: 3.76-5.08; CD4+: MD = 2.50, 95%CI: 1.88-3.13; CD8+: MD = 3.14, 95%CI: 1.84-4.43).\nCONCLUSION: As an adjunctive rather than a direct antitumor agent, BJOE effectively reduces treatment-related adverse effects and enhances immune responses in patients with cervical cancer undergoing chemoradiotherapy, supporting its clinical utility. However, the current evidence grades predominantly fall into the low or very low categories, further large-scale trials are warranted to validate these findings.",
+        "journal": "Oncology reviews",
+        "authors": [
+          "Buwei Han",
+          "Ding Qi",
+          "Jinzhe Liu",
+          "Mingge Liang",
+          "Wenlan Li",
+          "Wenxia Ai",
+          "Yangfan Qu",
+          "Yue Yang"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-24T00:00:00.000Z",
+        "activityAt": "2026-09-08T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42707440/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42706499",
+        "pmid": "42706499",
+        "doi": "10.1111/jog.70488",
+        "title": "Association Between Isolated Maternal Hypothyroxinemia and Adverse Maternal and Infant Outcomes.",
+        "abstract": "AIM: The current meta-analysis aims to assess the incidence of isolated maternal hypothyroxinemia (IMH) and its impact on pregnancy complications and adverse pregnancy outcomes.\nMETHODS: PubMed, Embase, Web of Science, and Cochrane databases were searched until November 15, 2024. Cochrane, a risk-of-bias assessment tool, was used to evaluate the quality of literature; R Studio and Stata 15.0 were employed for data analysis and publication bias assessment.\nRESULTS: In total, 22 cohort studies were analyzed, with a sample size of 33,1640 cases, including 16 390 IMH patients. The meta-analysis revealed that the prevalence of IMH was 5.7% (95% CI: 3.5, 8.4%). Compared to pregnant women with normal thyroid function, the prevalence of gestational diabetes mellitus (GDM) in IMH patients was 1.12% (95% CI: 1.01,1.24), macrosomia was 1.41% (95% CI: 1.12, 1.65), preterm birth was 1.26% (95% CI: 1.12, 1.41), and preeclampsia/eclampsia was 1.26% (95% CI: 1.12, 1.41) (p < 0.05).\nCONCLUSIONS: Patients with IMH have an elevated risk of GDM, preeclampsia, eclampsia, preterm birth, and macrosomia relative to normal pregnant women. It is anticipated that future studies will further confirm the complications related to pregnancy in patients with IMH.",
+        "journal": "The journal of obstetrics and gynaecology research",
+        "authors": [
+          "Jianlan Zheng",
+          "Shixuan Liu",
+          "Wenlei Zhang",
+          "Wenyan Wang",
+          "Xuejing Ding"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review"
+        ],
+        "publishedAt": "2026-09-01T00:00:00.000Z",
+        "activityAt": "2026-09-08T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42706499/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 11.25,
+          "recency": 10,
+          "total": 96.25,
+          "evidenceRank": 1
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42705884",
+        "pmid": "42705884",
+        "doi": "10.48095/cccg2026314",
+        "title": "Meta-analysis on the association of the COMT Val158Met variant with preeclampsia risk.",
+        "abstract": "Catecholamine-O-methyl transferase (COMT) catalyzes the O-methylation of catechol-structured compounds such as catecholamines and catecholestrogens. A genetic variation in the human COMT gene (rs4680 or Val158Met) significantly reduces three-to-four-fold catecholamine metabolism and influences neurotransmitter levels, thereby modulating preeclampsia (PE) susceptibility. The present meta-analysis was conducted to evaluate the link between the COMT Val158Met variant and PE risk. Case-control studies published until November 20, 2025 were systematically searched from PubMed, Google Scholar, and Web of Science databases. To assess the association between the COMT Val158Met variant and PE, Odds ratios and 95% confidence intervals were calculated under three genetic models. The results indicated no significant association between the COMT Val158Met variant and PE risk across three genetic models, including the allele (Met vs. Val: Overall OR 1.19, 95% CI 1.00-1.43, P = 0.052), recessive (Met/Met + Met/Val vs. Val/Val: Overall OR 1.16, 95% CI 0.95-1.40, P = 0.137), and dominant (Met/Met vs. Met/Val + Val/Val OR 1.39, 95% CI 0.97-2.00, P = 0.075) models. Furthermore, subgroup analyses based on ethnicity also indicated no association between the Val158Met variant and PE risk in Caucasian and Asian populations. Sensitivity analyses conducted using the leave-one-out method revealed that the results are robust. Asymmetry observed in Begg's funnel plot indicated a significant publication bias in the dominant model (P = 0.012). In summary, results showed that the COMT Val158Met variant is not associated with PE risk. As this meta-analysis contradicts the biological plausibility that COMT alleles influence catecholamine neurotransmitters and PE, the results warrant careful interpretation and further investigation.",
+        "journal": "Ceska gynekologie",
+        "authors": [
+          "Babul Meher",
+          "Henu Kumar Verma",
+          "L V K S Bhaskar",
+          "Nisha Sahu",
+          "Sagar Jangde"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "publishedAt": "2026-01-01T00:00:00.000Z",
+        "activityAt": "2026-09-07T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42705884/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 11.25,
+          "recency": 10,
+          "total": 96.25,
+          "evidenceRank": 1
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42706058",
+        "pmid": "42706058",
+        "doi": "10.3760/cma.j.cn112141-20260311-00131",
+        "title": "[Efficacy and safety of hexaminolevulinate photodynamic therapy for CIN2].",
+        "abstract": "Objective: To evaluate the efficacy and safety of hexaminolevulinate photodynamic therapy (HAL-PDT) for the treatment of cervical intraepithelial neoplasia 2 (CIN2). Methods: Data of this study were derived from an international multicenter, randomized, double-blind, placebo-controlled phase Ⅲ clinical trial (the APRICITY study) conducted between October 2020 and July 2023, with medical records obtained from 61 medical centers across 7 countries. A subgroup analysis was performed in patients with histologically confirmed CIN2 from this trial. Participants were randomly assigned in a 2∶1 ratio to the HAL-PDT group [5% hexaminolevulinate ointment and a light-emitting diode (LED) light source device] or the placebo group (placebo ointment with a non-illuminating device). The primary endpoint was the response rate at 6 months after the initial treatment. Secondary endpoints included histological regression rate, high-risk human papillomavirus (HR-HPV) clearance rate. Safety endpoints included treatment-related adverse events (TRAEs). Results: A total of 182 patients with CIN2 were included (120 in the HAL-PDT group, 62 in the placebo group). Baseline characteristics were balanced between the two groups (all P >0.05). At 6 months, the response rate [49.2% (59/120) vs 22.6% (14/62), P =0.001] and histological regression rates [57.5% (69/120) vs 30.6% (19/62), P =0.001] in the HAL-PDT group were significantly higher than those in the placebo group. The colposcopic lesion clearance rate at 6 months was also higher in the HAL-PDT group than in the placebo group [60.6% (60/99) vs 32.7% (17/52), P =0.001]. The risk of disease progression was lower in the HAL-PDT group ( RR =0.55, 95% CI :0.29-1.06; P =0.068). Analyses stratified by age, HR-HPV infection status, region, and lesion size consistently demonstrated benefit in the HAL-PDT group regarding response and histological regression rates. At the 12-month follow-up, HR-HPV clearance rates in the HAL-PDT group were significantly improved, reaching 45.9% for any HR-HPV subtype, 58.8% for HPV 16, and 55.4% for HPV 16/18. There was no statistically significant difference in the incidence of TRAEs between the two groups [31.1% (37/119) vs 25.8% (16/62), P =0.496]. The most commonly reported adverse events in the HAL-PDT group were increased vaginal discharge, abdominal pain, and vulvovaginal pain, all of which were mild and self-limiting. Conclusion: HAL-PDT demonstrated favorable efficacy and safety in patients with CIN2, providing a non-surgical treatment alternative for patients seeking fertility preservation and the maintenance of cervical integrity.",
+        "journal": "Zhonghua fu chan ke za zhi",
+        "authors": [
+          "B Wei",
+          "F Chen",
+          "H J Ruan",
+          "J D Wang",
+          "J H Lang",
+          "J L Wang",
+          "J Yu",
+          "L M Feng",
+          "L Sui",
+          "L Zhu",
+          "Q Zhou",
+          "W G Lyu",
+          "X J Sheng",
+          "X Y Chen",
+          "Y Wang",
+          "Y Z Zhang",
+          "Z X You"
+        ],
+        "publicationTypes": [
+          "Clinical Trial, Phase III",
+          "English Abstract",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-08-25T00:00:00.000Z",
+        "activityAt": "2026-09-07T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42706058/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 7.5,
+          "recency": 10,
+          "total": 91.25,
+          "evidenceRank": 0.95
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42707480",
+        "pmid": "42707480",
+        "doi": "10.3389/fimmu.2026.1788725",
+        "title": "Building bridges to immunotherapy: a knowledge-mapping analysis of cervical cancer organoid research.",
+        "abstract": "Cervical cancer, a human papillomavirus (HPV) -driven malignancy with inherent viral antigenicity, serves as a key model in immuno-oncology. Yet, the variable efficacy of immune checkpoint inhibitors highlights a critical gap: the lack of preclinical models that accurately mirror the patient-specific tumor microenvironment (TME). Patient-derived organoids (PDOs) offer a transformative solution, preserving autologous tumor and immune components for personalized therapeutic testing. This study provides the first bibliometric analysis of this evolving field, mapping its knowledge structure from model development to immuno-oncological application. By analyzing 130 publications (1992-2025) from Web of Science, PubMed, and Scopus using VOSviewer and CiteSpace, we delineate a clear, three-stage evolution: from foundational HPV virology and culture techniques, through pivotal organoid methodology establishment (e.g., Burk RD, 2017), to the current translational phase. This progression is marked by citation bursts in TME modeling (e.g., Lohmussaar K, 2021) and the emergence of keywords like \"drug screening\" and \"immunotherapy\". Research is dominated by the U.S., China, and European nations, published within an interdisciplinary core of oncology, immunology, and virology journals. Our analysis highlights the role of organoids as a crucial bridge linking basic virology to clinical immuno-oncology. However, standardization hurdles and suboptimal establishment rates for certain subtypes impede clinical translation. To realize the full potential of PDOs, future work must prioritize standardized immune-competent co-culture systems, integrate AI for high-content data analysis, and promote equitable global collaborations. Our analysis suggests the role of organoids as a crucial bridge linking basic virology to clinical immuno-oncology, highlighting that current advancements in tumor microenvironment modeling are establishing the necessary foundation for future immunotherapeutic applications.",
+        "journal": "Frontiers in immunology",
+        "authors": [
+          "Chi Qin",
+          "Hui Chang",
+          "Jian Jin",
+          "Jinjin Liu",
+          "Shuoshi Zhao",
+          "Wenjun Ding",
+          "Xin Zhao",
+          "Yuanyuan Tian"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-24T00:00:00.000Z",
+        "activityAt": "2026-09-08T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42707480/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 3.75,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 1
+        },
+        "summaryStatus": "failed"
+      }
+    ]
+  }
+}
