@@ -1,0 +1,262 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-09-09T22:43:06.224Z",
+    "dataAsOf": "2026-09-09T22:43:06.224Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及妊娠期RSV-Pre-F疫苗接种与新生儿结局：系统综述与Meta分析、GNA12环状DNA作为早发型子痫前期孕早期血浆eccDNA标志物的发现与验证、妊娠期糖尿病持续葡萄糖监测的矛盾证据：当前挑战与个体参与者数据Meta分析的迫切需要。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42712161",
+        "pmid": "42712161",
+        "doi": "10.1002/iid3.70510",
+        "title": "RSV-Pre-F Vaccination During Pregnancy and Neonatal Outcomes-A Systematic Review and Meta-Analysis.",
+        "abstract": "OBJECTIVES: Respiratory syncytial virus (RSV) is a major cause of infant morbidity and mortality worldwide. Recent preventive strategies include maternal vaccination and monoclonal antibodies. However, maternal RSV vaccination has raised safety concerns due to possible associations with preterm birth. This systematic review and meta-analysis evaluated whether maternal RSV vaccination increases the risk of preterm birth and neonatal intensive care unit (NICU) admission.\nMETHODS: A systematic search of PubMed, Scopus, and Web of Science was conducted on August 1st, 2025. We used the following keywords in the search: RSV, vaccine, preterm, and neonate. Eligible studies included randomized controlled trials (RCTs) and observational studies assessing currently approved RSV-PreF vaccines in pregnancy and reporting preterm birth (< 37 weeks) or NICU admission. Data extraction and risk of bias assessments (RoB 2.0, ROBINS-I) were performed independently by two reviewers. Meta-analyses were conducted using random-effects models with risk ratios (RRs) as effect measures, and the certainty of evidence was graded using the GRADE framework.\nRESULTS: Seven studies met inclusion criteria: three RCTs (n = 12,833 births) and four observational studies (n = 4245 births). In RCTs, RSV vaccination was associated with an increased risk of preterm birth (RR 1.26, 95% CI 1.08-1.46), while observational studies showed no association (RR 0.78, 95% CI 0.46-1.32). Pooled analysis revealed no overall association (RR 0.96, 95% CI 0.68-1.38). NICU admission risk was not significantly affected (RR 0.74, 95% CI 0.34-1.61). Certainty of evidence was rated low to very low.\nCONCLUSIONS: This meta-analysis found no overall evidence linking maternal RSV vaccination to preterm birth, though RCT subgroup findings suggest a potential increased risk. Continued surveillance and long-term safety monitoring are essential as global implementation expands.\nTRIAL REGISTRATION: Open Science Framework (https://osf.io/3tfkn/).",
+        "journal": "Immunity, inflammation and disease",
+        "authors": [
+          "Ilari Kuitunen",
+          "Marjut Haapanen",
+          "Niko Leskinen"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-09-01T00:00:00.000Z",
+        "activityAt": "2026-09-09T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42712161/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "妊娠期RSV-Pre-F疫苗接种与新生儿结局：系统综述与Meta分析",
+          "researchQuestion": "评估妊娠期接种呼吸道合胞病毒（RSV）疫苗是否增加早产和新生儿重症监护室（NICU）入住风险。",
+          "studyDesign": "系统综述和Meta分析",
+          "populationAndSample": "共7项符合纳入标准的研究，包括3项随机对照试验（12,833例新生儿）和4项观察性研究（4,245例新生儿）。",
+          "methods": "检索PubMed、Scopus和Web of Science（检索日期2025年8月1日）；纳入评估当前已批准的RSV-PreF疫苗在妊娠期应用的随机对照试验和观察性研究；由两名评审者独立进行数据提取和偏倚风险评估（RoB 2.0、ROBINS-I）；采用随机效应模型以风险比（RR）作为效应指标进行Meta分析，并使用GRADE框架评价证据确定性。",
+          "keyResults": "在随机对照试验中，RSV疫苗与早产风险增加相关（RR 1.26，95% CI 1.08–1.46）；观察性研究未显示关联（RR 0.78，95% CI 0.46–1.32）；合并分析未发现总体关联（RR 0.96，95% CI 0.68–1.38）。NICU入住风险未见显著影响（RR 0.74，95% CI 0.34–1.61）。证据确定性被评为低至极低。",
+          "limitations": "摘要内未报告具体局限性，但证据确定性被评为低至极低，且随机对照试验与观察性研究结果方向不一致。",
+          "clinicalInterpretation": "本Meta分析未发现妊娠期RSV疫苗接种与早产之间存在总体关联的证据，但随机对照试验亚组结果提示可能存在风险增加，提示随着全球实施范围扩大，需要持续监测和长期安全性追踪。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "a34f6f9100e510cb4969ceff7d4d0813acaf2159938941edf8e76a0948435130"
+      },
+      {
+        "id": "pmid:42712436",
+        "pmid": "42712436",
+        "doi": "10.3389/fneur.2026.1900036",
+        "title": "Discovery and validation of GNA12 circle as a first-trimester plasma eccDNA marker for early-onset preeclampsia.",
+        "abstract": "BACKGROUND: Early-onset preeclampsia (EOPE) is a major cause of maternal and perinatal morbidity and is characterized by placental dysfunction, systemic endothelial injury, and hypertensive vascular stress. Because hypertensive disorders of pregnancy may also signal later maternal cardiovascular and cerebrovascular vulnerability, effective biomarkers for first-trimester risk assessment remain clinically important. Extrachromosomal circular DNA (eccDNA), a stable form of circulating cell-free DNA, has emerged as a potential source of disease-associated biomarkers. This study aimed to characterize first-trimester plasma eccDNA alterations associated with subsequent EOPE and to identify and validate a candidate circulating eccDNA marker for early risk assessment.\nMETHODS: A two-stage nested case-control study was conducted within a prospective birth cohort. In the discovery stage, plasma samples collected at 11-13 weeks of gestation from 5 women who subsequently developed EOPE and 5 matched normotensive controls were profiled by Circle-Seq to characterize genome-wide eccDNA alterations. Candidate eccDNAs were prioritized through differential abundance analysis and were further confirmed by outward PCR and Sanger sequencing. In the validation stage, the candidate selected marker was quantified by junction-specific qPCR in an independent cohort of 109 EOPE cases and 109 controls. Its potential predictive value was further evaluated alone and in combination with routine first-trimester clinical variables.\nRESULTS: In the exploratory discovery analysis, 410 nominally differentially abundant candidate eccDNAs were identified as a hypothesis-generating pool. Among these, GNA12 circle (chr7:2876332-2,876,692) was prioritized and experimentally validated at the circular junction. In the independent validation cohort, plasma GNA12 circle levels were significantly higher in women who later developed EOPE than in controls. When combined with routine first-trimester variables, GNA12 circle improved predictive performance. The RF model showed the best overall cross-validated performance among the evaluated classifiers, with a mean held-out test-fold AUC of 0.843.\nCONCLUSION: First-trimester plasma eccDNA profiling revealed distinct alterations associated with subsequent EOPE, from which GNA12 circle was identified and validated as a candidate circulating marker. These findings support further investigation of circulating eccDNA for early EOPE risk assessment in larger multicenter populations.",
+        "journal": "Frontiers in neurology",
+        "authors": [
+          "Fei Hou",
+          "Hua Jin",
+          "Jin Wang",
+          "Juntian Hao",
+          "Yingying Peng"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Validation Study"
+        ],
+        "publishedAt": "2026-08-25T00:00:00.000Z",
+        "activityAt": "2026-09-09T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42712436/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 17.5,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 92.5,
+          "evidenceRank": 0.7
+        },
+        "summaryZh": {
+          "titleZh": "GNA12环状DNA作为早发型子痫前期孕早期血浆eccDNA标志物的发现与验证",
+          "researchQuestion": "表征与后续发生早发型子痫前期（EOPE）相关的孕早期（11–13周）血浆染色体外环状DNA（eccDNA）改变，并识别和验证候选循环eccDNA标志物用于早期风险评估。",
+          "studyDesign": "基于前瞻性出生队列开展的两阶段巢式病例对照研究（发现阶段+验证阶段）",
+          "populationAndSample": "发现阶段：5名后续发生EOPE的孕妇和5名匹配的正常血压对照；验证阶段：独立的109例EOPE病例和109例对照。",
+          "methods": "发现阶段使用Circle-Seq对孕11–13周血浆样本进行全基因组eccDNA分析；通过差异丰度分析筛选候选eccDNA，并使用outward PCR和Sanger测序进行验证；验证阶段使用连接点特异性qPCR在独立队列中定量候选标志物；单独或联合常规孕早期临床变量评估其预测价值。",
+          "keyResults": "发现阶段识别出410个名义差异丰度的候选eccDNA；其中GNA12环（chr7:2876332-2,876,692）被优先选择并在环状连接处获得实验验证。在独立验证队列中，后续发生EOPE的女性血浆GNA12环水平显著高于对照组；与常规孕早期变量联合时改善了预测性能；随机森林模型在评估的分类器中表现最佳，平均保留测试折AUC为0.843。",
+          "limitations": "摘要未明确报告局限性；摘要结论指出需要在更大规模多中心人群中进一步研究。",
+          "clinicalInterpretation": "孕早期血浆eccDNA谱分析显示与后续EOPE相关的差异改变，GNA12环被鉴定和验证为候选循环标志物；该结果支持开展更大规模多中心人群研究，以进一步探索循环eccDNA用于EOPE早期风险评估的潜力。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "201c0ebe11593b9db10a16bdd02258d0cf9e0d98f34c270ce5c5b63ca6fdb24b"
+      },
+      {
+        "id": "pmid:42711707",
+        "pmid": "42711707",
+        "doi": "10.1186/s12916-026-05191-2",
+        "title": "Conflicting evidence for continuous glucose monitoring in gestational diabetes: current challenges and the imperative for individual participant data meta-analysis.",
+        "abstract": "BACKGROUND: The incidence of gestational diabetes mellitus (GDM) is rising along with rates of obesity and type 2 diabetes. GDM is associated with an increased risk of various short- and long-term complications for both mother and child, including type 2 diabetes. Managing GDM requires a multidisciplinary approach that includes dietary guidance, promoting regular physical activity, and performing self-monitoring of blood glucose (SMBG). Continuous glucose monitoring (CGM) has transformed pregnancy care in women with type 1 diabetes and is increasingly being proposed as a strategy to improve glycaemic management in GDM. By capturing postprandial glucose excursions, glycaemic variability, and time in range, CGM provides a more detailed picture of glycaemia and has raised expectations of improved metabolic control and pregnancy outcomes.\nMAIN BODY: Despite these theoretical advantages, evidence for CGM in GDM remains conflicting. More recently, several large randomized controlled trials (RCT's) show conflicting data: some studies show modest improvements in glycaemic measures, whereas others report no clear benefit for key maternal or neonatal outcomes, leaving the clinical value and cost-effectiveness of CGM unclear. A major limitation is the absence of validated CGM-based glycaemic targets specific to GDM, and current guidelines offer little direction beyond conventional SMBG guidelines. Future research should prioritize adequately powered large RCT's representing a broad population, and, importantly, individual participant data meta-analyses to reconcile inconsistent findings, identify subgroups most likely to benefit, establish pregnancy-specific CGM thresholds, and evaluate the impact on both obstetric outcomes and long-term postpartum metabolic risk.\nCONCLUSIONS: This ongoing debate underscores the need to critically appraise the role of CGM in GDM, summarize results from completed RCT's and meta-analyses, recognize key methodological and clinical evidence gaps, and outline the steps required for CGM to become fully integrated into standard GDM care.",
+        "journal": "BMC medicine",
+        "authors": [
+          "Catherine Yu",
+          "Ina Geerts",
+          "Katrien Benhalima",
+          "Nina Embo"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-08-27T00:00:00.000Z",
+        "activityAt": "2026-09-09T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42711707/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "妊娠期糖尿病持续葡萄糖监测的矛盾证据：当前挑战与个体参与者数据Meta分析的迫切需要",
+          "researchQuestion": "梳理和评价持续葡萄糖监测（CGM）在妊娠期糖尿病（GDM）中的现有证据，讨论其临床价值与证据缺口，并提出协调相互矛盾结果的研究路径。",
+          "studyDesign": "叙述性综述（观点/评论类文章）",
+          "populationAndSample": "摘要未报告具体研究人群，讨论内容涉及GDM患者及CGM相关妊娠管理。",
+          "methods": "基于已完成的大型随机对照试验和Meta分析进行总结和批判性评价，识别方法学和临床证据缺口，并提出开展个体参与者数据Meta分析及未来研究方向的建议。",
+          "keyResults": "多个大型随机对照试验结果相互矛盾：部分研究显示血糖指标出现适度改善，另一些研究则未发现关键母婴结局的明确获益，使CGM的临床价值和成本效益仍不明确。主要局限是缺乏针对GDM的经过验证的CGM血糖目标，当前指南除传统自我血糖监测（SMBG）指导外提供的信息有限。",
+          "limitations": "摘要未报告量化结果；文章强调缺乏经过验证的CGM特异性血糖目标、现有证据相互矛盾，并且需要更大规模、充分把握度且覆盖广泛人群的随机对照试验。",
+          "clinicalInterpretation": "CGM在GDM中的临床作用仍存在争议，尚不能认为其已可完全整合为GDM常规标准照护；未来需通过个体参与者数据Meta分析等研究来验证CGM阈值、识别最可能获益的亚组并评估母婴结局及产后长期代谢风险。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "c7ad5b5ccef88a9d06d844909db57da26355decd99e0f739e9891eabee69b0f5"
+      },
+      {
+        "id": "pmid:42712225",
+        "pmid": "42712225",
+        "doi": "10.1002/ijgo.71302",
+        "title": "Evolving dynamics of ovarian cancer in midlife women: A three-decade age-period-cohort study.",
+        "abstract": "BACKGROUND: Ovarian cancer, being the most lethal female-specific cancers, presents a significant health threat to midlife women undergoing the menopause and perimenopause transition. This study aims to investigate the patterns and trends of ovarian cancer among this population from 1990 to 2021.\nMETHODS: Using 1990-2021 data, we calculated age-standardized rates (ASRs) and estimated annual percentage changes (EAPCs) for ovarian cancer among midlife women, including those aged 40-59 years (encompassing the perimenopausal transition) and those aged 45-54 years (the typical menopausal age range). Temporal trends in incidence, mortality, prevalence, and disability-adjusted life years (DALYs) were analyzed using joinpoint regression to identify significant inflection points, age-period-cohort modeling to estimate independent effects of age, period, and birth cohort, and Bayesian age-period-cohort projections to forecast disease burden up to 2035.\nRESULTS: From 1990 to 2021, new ovarian cancer cases among women aged 45-54 years increased by 92.6% and among those aged 40-59 years by 90.4%, while ASRs declined (incidence EAPC: -0.46 and -0.42, respectively). An inverted U-shaped relationship between socio-demographic index (SDI) and burden was observed: ASRs decreased in high-SDI regions but increased in low-middle SDI areas. The 55-59-year age group consistently carried the highest burden, accounting for approximately 35% of incident cases and 40% of deaths among midlife women. Cohort effects showed a progressive decline in risk for women born after 1956. Bayesian projections predict continued global increases in new cases, deaths, and DALYs from 2022 to 2035, with rising ASRs for incidence and prevalence.\nCONCLUSION: This pioneering analysis of Global Burden of Disease Study 2021 data reveals persistent socioeconomic disparities, distinct age-specific patterns (peak burden at 55-59 years), and ongoing epidemiological transitions in ovarian cancer among midlife women. Based on our findings, potential public health priorities could include sustaining recent progress in high-SDI regions to maintain declining trends and enhancing diagnostic capacity and risk-factor management in low-middle SDI settings to counter rising burden. These population-level patterns might further research and health policy planning tailored to regional sociodemographic contexts.",
+        "journal": "International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics",
+        "authors": [
+          "Chaoyan Yue",
+          "Chenyang Zhao",
+          "Jun Wu",
+          "Rui Yang",
+          "Siang Lv",
+          "Xiang Xu"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-09T00:00:00.000Z",
+        "activityAt": "2026-09-09T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42712225/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "中年女性卵巢癌的演变动态：一项三十年的年龄-时期-队列研究",
+          "researchQuestion": "调查1990—2021年中年（围绝经期和绝经期）女性卵巢癌的发病、死亡、患病和伤残调整生命年模式与趋势，并预测至2035年的疾病负担。",
+          "studyDesign": "基于全球疾病负担研究2021（GBD 2021）数据的年龄-时期-队列趋势分析",
+          "populationAndSample": "关注40–59岁（涵盖围绝经期转变）和45–54岁（典型绝经年龄段）的女性人群，数据时间范围为1990—2021年。",
+          "methods": "计算年龄标准化率（ASRs）和估算年度百分比变化（EAPCs）；使用联结点回归识别显著转折点；采用年龄-时期-队列模型估计年龄、时期和出生队列的独立效应；使用贝叶斯年龄-时期-队列投影预测截至2035年的疾病负担。",
+          "keyResults": "1990—2021年，45–54岁女性新发卵巢癌病例增加92.6%，40–59岁女性增加90.4%，但ASRs下降（发病率EAPC分别为−0.46和−0.42）。社会人口指数（SDI）与负担呈倒U型关系：高SDI地区ASRs下降，而中低SDI地区上升。55–59岁年龄组负担最高，约占中年女性发病病例的35%和死亡病例的40%。出生队列效应显示1956年以后出生的女性风险逐渐下降。贝叶斯预测显示2022—2035年全球新病例、死亡和DALYs持续增加，发病率和患病率ASRs上升。",
+          "limitations": "摘要未明确报告局限性；该研究属于基于全球汇总数据的生态趋势分析，报告了来自GBD 2021的估算。",
+          "clinicalInterpretation": "结果表明中年女性卵巢癌负担存在持续的社会经济差异、年龄特异模式（高峰在55–59岁）和流行病学转变；高SDI地区需维持下降趋势，而低中SDI地区可能需要加强诊断能力和危险因素管理；这些群体层模式可为区域社会人口背景下的研究和卫生政策规划提供参考。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "f663a01b1363db55d88856f40b5aae34877bc7fc9eee5c327b48d0db304b42db"
+      },
+      {
+        "id": "pmid:42712360",
+        "pmid": "42712360",
+        "doi": "10.3389/fendo.2026.1884571",
+        "title": "Comparative effectiveness of dienogest versus ethinyl estradiol/levonorgestrel combined oral contraceptive therapy in women with endometriosis-associated chronic pelvic pain.",
+        "abstract": "OBJECTIVE: To compare the clinical effectiveness of combined oral contraceptive pills (levonorgestrel-containing COC) and dienogest in the management of endometriosis-associated chronic pelvic pain and related symptoms.\nMETHODS: This prospective observational cohort study was conducted in the Department of Obstetrics and Gynecology at GSVM Medical College, Kanpur, India, between 2023 and 2024. A total of 140 women with clinically and ultrasonographically diagnosed endometriosis-associated pelvic pain completed the study and were included in the final analysis. Participants received either dienogest (2 mg once daily) or a continuous combined oral contraceptive containing ethinyl estradiol 0.03 mg and levonorgestrel 0.15 mg for 3 months. Pain severity was assessed using the Visual Analog Scale (VAS) at baseline and during monthly follow-up visits. Longitudinal changes in pain scores and associated symptoms were compared between the treatment groups.\nRESULTS: Baseline demographic and clinical characteristics were comparable between the groups. The mean age of participants in the OCP and dienogest groups was 31.47 ± 8.90 and 31.08 ± 8.78 years, respectively (p=0.794). Baseline mean VAS scores were 8.55 ± 0.98 and 7.77 ± 0.90 in the OCP and dienogest groups, respectively. A significant reduction in VAS scores was observed in both groups throughout the follow-up period (p<0.001). At 3 months, the mean VAS score decreased to 4.28 ± 1.15 and 5.22 ± 1.66 in the OCP and dienogest groups, respectively (p<0.001). Significant improvement in dysmenorrhea, dyspareunia, menstrual irregularities, and chronic pelvic pain was also observed in both groups during follow-up.\nCONCLUSION: Both treatments were associated with significant improvement in endometriosis-associated pain, and the OCP group showed greater short-term pain reduction in this cohort, suggesting that the evaluated levonorgestrel/ethinyl estradiol regimen may represent a conservative treatment option, particularly in resource-limited healthcare settings. Larger multicenter longitudinal studies are warranted to further validate these findings.",
+        "journal": "Frontiers in endocrinology",
+        "authors": [
+          "Alok Raghav",
+          "Bushra Bahar",
+          "Neena Gupta",
+          "Rashmi Yadav",
+          "Uruj Jahan"
+        ],
+        "publicationTypes": [
+          "Comparative Study",
+          "Journal Article",
+          "Observational Study"
+        ],
+        "publishedAt": "2026-08-25T00:00:00.000Z",
+        "activityAt": "2026-09-09T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42712360/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "地诺孕素对比含炔雌醇/左炔诺孕酮的复方口服避孕药治疗子宫内膜异位症相关慢性盆腔痛的疗效比较",
+          "researchQuestion": "比较左炔诺孕酮复方口服避孕药与地诺孕素在子宫内膜异位症相关慢性盆腔痛及伴随症状管理中的临床有效性。",
+          "studyDesign": "前瞻性观察性队列研究",
+          "populationAndSample": "2023—2024年间在印度坎普尔GSVM医学院妇产科就诊的140名经临床和超声诊断的子宫内膜异位症相关盆腔痛女性，完成研究并纳入最终分析。",
+          "methods": "参与者接受地诺孕素（2 mg每日一次）或连续复方口服避孕药（炔雌醇0.03 mg + 左炔诺孕酮0.15 mg）治疗3个月；在基线和每月随访中使用视觉模拟评分量表（VAS）评估疼痛严重程度，比较两组疼痛评分和伴随症状的纵向变化。",
+          "keyResults": "两组基线人口学和临床特征具有可比性。口服避孕药组和地诺孕素组平均年龄分别为31.47 ± 8.90岁和31.08 ± 8.78岁（p=0.794）。基线平均VAS评分分别为8.55 ± 0.98和7.77 ± 0.90。随访期间两组VAS评分均显著下降（p<0.001）；3个月时口服避孕药组平均VAS降至4.28 ± 1.15，地诺孕素组降至5.22 ± 1.66（p<0.001）。痛经、性交痛、月经不规则和慢性盆腔痛在两组中均显著改善。",
+          "limitations": "摘要未明确报告局限性，且未说明是否为随机分配；该研究为单中心、观察性、短期（3个月）随访，摘要最后提及需要更大规模多中心纵向研究验证。",
+          "clinicalInterpretation": "两种治疗均与子宫内膜异位症相关疼痛的显著改善相关；在该队列中，含左炔诺孕酮/炔雌醇的复方口服避孕药表现出更大的短期疼痛缓解，可能作为资源有限医疗环境中的保守治疗选项，但仍需更大规模多中心纵向研究进一步验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "1ba1ceb50922a8bf4017793f8586462d9c9033375ee5ff8418dae5c6577bc812"
+      }
+    ]
+  }
+}
