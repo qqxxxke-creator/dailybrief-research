@@ -1,0 +1,233 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-09-10T22:45:05.811Z",
+    "dataAsOf": "2026-09-10T22:45:05.811Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及子痫或子痫前期患者中与后部可逆性脑病综合征（PRES）相关的临床、实验室和影像学因素：系统综述与荟萃分析、Immune checkpoint inhibitor-based combination therapy for platinum-resistant or platinum-refractory recurrent ovarian cancer: a systematic review and meta-analysis of prospective trials.、Short Communication: Conflicting Conclusions in PGT-A: Live Birth Rates per Initiated Cycle or Oocyte Retrieval Show No Benefit, but Significant Improvement per Embryo Transfer.。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42717136",
+        "pmid": "42717136",
+        "doi": "10.1007/s10072-026-09366-w",
+        "title": "Clinical, Laboratory and Radiological Factors associated with posterior reversible encephalopathy syndrome (PRES) in patients with eclampsia or pre-eclampsia: a systematic review and meta-analysis.",
+        "abstract": "BACKGROUND: Posterior reversible encephalopathy syndrome (PRES) remains a serious neurological complication associated with eclampsia/pre-eclampsia. Early identification remains challenging due to heterogeneous presentations and limited consensus on associated clinical and laboratory factors. Therefore, we aimed to assess clinical and laboratory factors associated with PRES by pooling data from primary studies.\nMETHODS: A systematic review was conducted following PRISMA 2020 guidelines. PubMed, Embase, and Web of science were searched from inception to March 25, 2025. Primary outcomes included PRES incidence, while secondary outcomes included biomarkers, maternal and fetal outcomes, and imaging characteristics. Risk of bias was assessed using Newcastle Ottawa's scale and National Institutes of Health (NIH) tool. A random-effects model was employed for meta-analysis.\nRESULTS: A total of 28 studies were included. The pooled incidence of PRES was 38.68% (95% CI: 29.63-48.59), with significant heterogeneity (I²=98.5%). Patients with PRES had significantly higher liver enzymes (ALT: MD 35.88 IU/L; AST: MD 48.69 IU/L) and lower platelet counts (MD: -31.15 × 10⁹/L). Total bilirubin was also elevated. Maternal mortality risk was increased but not statistically significant (RR: 4.06), while stillbirth and preterm birth showed no significant associations. Imaging findings commonly involved the frontal (43.05%) and temporal lobes (20.33%).\nCONCLUSION: PRES is a frequent complication of pre-eclampsia and eclampsia, with identifiable clinical and biochemical factors associated with its occurrence, particularly elevated liver enzymes and thrombocytopenia. Despite substantial heterogeneity, these findings may help inform clinical assessment, especially in resource-limited settings. Further high-quality prospective studies are needed to develop standardized predictive models and improve early detection.",
+        "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+        "authors": [
+          "Ahmed Harb",
+          "Hafsa Arshad Azam Raja",
+          "Imad Akbar",
+          "Mahnoor Zafarullah",
+          "Mizhgan Abid",
+          "Muhammad Hamza",
+          "Muhammad Nouman Javed",
+          "Pranjal Kumar Singh",
+          "Siraj Ul Muneer",
+          "Syeda Nimra Qadri"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-09-10T00:00:00.000Z",
+        "activityAt": "2026-09-10T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42717136/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "子痫或子痫前期患者中与后部可逆性脑病综合征（PRES）相关的临床、实验室和影像学因素：系统综述与荟萃分析",
+          "researchQuestion": "评估子痫或子痫前期患者中与PRES相关的临床、实验室和影像学因素，并汇总PRES发生率、生物标志物、母胎结局和影像学特征。",
+          "studyDesign": "系统综述与荟萃分析，遵循PRISMA 2020指南，采用随机效应模型。",
+          "populationAndSample": "共纳入28项研究；研究对象为子痫或子痫前期患者（据标题和摘要）。总受试者数摘要未报告。",
+          "methods": "检索PubMed、Embase和Web of Science，时间从建库至2025年3月25日。主要结局为PRES发生率；次要结局包括生物标志物、母体和胎儿结局及影像学特征。使用Newcastle Ottawa量表和NIH工具评估偏倚风险，采用随机效应模型进行荟萃分析。",
+          "keyResults": "共28项研究。PRES合并发生率为38.68%（95% CI 29.63-48.59），异质性显著（I²=98.5%）。PRES患者的肝酶显著更高（ALT平均差35.88 IU/L；AST平均差48.69 IU/L），血小板计数更低（平均差-31.15 ×10⁹/L），总胆红素也升高。母体死亡风险增加但无统计学意义（RR 4.06）；死产和早产无显著关联。影像学常累及额叶（43.05%）和颞叶（20.33%）。",
+          "limitations": "合并发生率存在显著异质性（I²=98.5%）。作者指出仍需进一步高质量前瞻性研究以建立标准化预测模型并改善早期检测。摘要未报告其他局限性。",
+          "clinicalInterpretation": "该荟萃分析提示PRES是子痫前期和子痫的常见并发症，并与肝酶升高和血小板减少等可识别临床生化因素相关；作者认为这些发现可能有助于临床评估，尤其在资源有限地区。由于异质性很高且为关联性汇总，不能据此推断因果或形成标准化预测模型；仍需高质量前瞻性研究。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "3b0af8c8f47fecd09a4e4efda780768f40a39c79e6ead75d65ac6bd3be5f0a73"
+      },
+      {
+        "id": "pmid:42718730",
+        "pmid": "42718730",
+        "doi": "10.3389/fonc.2026.1837967",
+        "title": "Immune checkpoint inhibitor-based combination therapy for platinum-resistant or platinum-refractory recurrent ovarian cancer: a systematic review and meta-analysis of prospective trials.",
+        "abstract": "BACKGROUND: The clinical value of immune checkpoint inhibitor (ICI)-based combinations in platinum-resistant or platinum-refractory recurrent ovarian cancer remains regimen-dependent and uncertain. We updated the evidence base and separated nonrandomized response evidence from randomized comparative evidence.\nMETHODS: PubMed/MEDLINE, Embase, Web of Science, and the Cochrane Central Register of Controlled Trials (CENTRAL) were searched from inception to 23 July 2026, supplemented by reference and citation searching. Eligible reports were peer-reviewed prospective phase II or III trials of an ICI-containing combination in adults with platinum-resistant or platinum-refractory recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer. Front-line, maintenance-only, ICI-monotherapy, retrospective, phase I-only, protocol-only, and mixed platinum-status cohorts without extractable resistant/refractory data were excluded. Objective response rate (ORR) and disease control rate (DCR) from compatible nonrandomized cohorts were synthesized as proportions using a logit random-effects model with Paule-Mandel variance estimation and Hartung-Knapp confidence intervals. Randomized hazard ratios were synthesized descriptively and were not pooled.\nRESULTS: Twenty-one eligible prospective reports were included, comprising 14 nonrandomized reports and 7 randomized trials. Of the 14 nonrandomized reports, 13 provided compatible confirmed response data for the pooled ORR analysis, yielding 112 objective responses among 490 participants and a pooled ORR of 21.9% (95% CI, 13.1%-34.3%; I² = 70.7%). The remaining nonrandomized report was retained for narrative synthesis only because it reported an unconfirmed response. Ten nonrandomized reports contributed 211 disease-control events among 354 participants, yielding a pooled DCR of 59.9% (95% CI, 46.4%-72.1%; I² = 71.7%). The seven randomized trials were summarized separately and were not pooled with the nonrandomized reports. KEYNOTE-B96 demonstrated improved progression-free survival (HR, 0.70; 95% CI, 0.58-0.84) and overall survival (HR, 0.82; 95% CI, 0.69-0.97), whereas JAVELIN Ovarian 200, EORTC 1508, NRG-GY023, and AGO-OVAR 2.29 did not meet their primary efficacy objectives.\nCONCLUSIONS: ICI-based combinations show measurable but highly heterogeneous activity in platinum-resistant/refractory ovarian cancer. The evidence does not support a uniform class effect: a survival benefit is established for pembrolizumab plus weekly paclitaxel in KEYNOTE-B96, whereas several other randomized strategies were negative. Future trials should prioritize regimen-specific validation, biomarker enrichment, and harmonized toxicity reporting.",
+        "journal": "Frontiers in oncology",
+        "authors": [
+          "Jing Xu",
+          "Lin Zhang",
+          "Wen-Ying Yang",
+          "Xiao-Jing Cai",
+          "Xiong Xiao"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-26T00:00:00.000Z",
+        "activityAt": "2026-09-10T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42718730/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42720316",
+        "pmid": "42720316",
+        "doi": "10.5935/1518-0557.20260055",
+        "title": "Short Communication: Conflicting Conclusions in PGT-A: Live Birth Rates per Initiated Cycle or Oocyte Retrieval Show No Benefit, but Significant Improvement per Embryo Transfer.",
+        "abstract": "OBJECTIVE: To determine whether studies evaluating preimplantation genetic testing for aneuploidy (PGT-A) reach different conclusions depending on the denominator used to calculate live birth rates.\nMETHODS: A systematic review of studies published be-tween 2017 and 2025 was conducted using PubMed, Sco-pus, and Google Scholar. Randomized and non-randomized studies comparing IVF/ICSI cycles with and without PGT-A were included. Outcomes were analyzed per initiated cy-cle, oocyte retrieval, or embryo transfer. Relative risks were calculated using a random-effects model.\nRESULTS: Eleven studies were included. No significant difference was observed when live birth rates were ana-lyzed per initiated cycle or oocyte retrieval (RR 1.04, 95% CI 0.91-1.18). However, PGT-A significantly improved live birth rates when analyzed per embryo transfer (RR 1.21, 95% CI 1.05-1.40).\nCONCLUSION: The apparent benefit of PGT-A depends on the denominator used. Reporting outcomes per embryo transfer introduces selection bias and overestimates treat-ment effectiveness. Clinically meaningful outcomes should be reported per initiated cycle or oocyte retrieval.",
+        "journal": "JBRA assisted reproduction",
+        "authors": [
+          "Andreia Nicoletti",
+          "Antonio H Oliani",
+          "Bianca C Matuella",
+          "Bruna Petersen",
+          "Camila Zamara",
+          "Claudia Petersen",
+          "Elisangela V Espirito-Santo",
+          "Fabiana C Massaro",
+          "Isabela M Pasotti",
+          "Joao B Meziara",
+          "Joao Batista A Oliveira",
+          "Jose G Franco",
+          "Juliana Ricci",
+          "Laura D Vagnini",
+          "Renata A Pouza"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-07-01T00:00:00.000Z",
+        "activityAt": "2026-09-10T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42720316/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42720188",
+        "pmid": "42720188",
+        "doi": "10.1080/14647273.2026.2689659",
+        "title": "Autophagy activation in granulosa cells as a mechanism of astaxanthin action: evidence from a pilot randomised trial in PMOS-associated infertility.",
+        "abstract": "Astaxanthin (AST) has been reported to influence oxidative stress, endoplasmic reticulum stress, and apoptosis in women with polyendocrine metabolic ovarian syndrome (PMOS), formerly referred to as polycystic ovary syndrome (PCOS), but its effects on granulosa-cell (GC) autophagy remain unclear. Given the central role of autophagy in follicular development, this triple-blind, placebo-controlled pilot randomised trial evaluated whether AST modulates autophagy-related signalling in GCs and how these molecular effects relate to ovarian response. Fifty women with PMOS-related anovulatory infertility were enrolled between November 2023 and September 2024 and received AST (12 mg/day) or placebo for six weeks prior to oocyte retrieval; forty-four completed the study (21 AST, 23 placebo). Primary exploratory endpoints were molecular markers of adenosine monophosphate-activated protein kinase (AMPK)-autophagy signalling, and primary clinical outcomes included ovarian response indicators and cleavage stage embryo quality. AST supplementation increased autophagy-related gene 7 (ATG7) expression, enhanced autophagy flux, reduced apoptosis, and showed a trend toward increased AMPK activation. Before adjustment, AST improved oocyte maturity rate (OMR) and increased mature (metaphase II; MII) oocyte yield. After adjusting for age, body mass index, and anti-mullerian hormone level, total oocyte and MII oocyte yields remained significantly higher with AST, while OMR became non-significant. Among embryology outcomes, both the top-ranking embryo rate and the number of embryos suitable for cryopreservation were significantly higher with AST after adjustment. Pregnancy outcomes were numerically higher but not statistically significant. This pilot trial suggests that AST activates autophagy- and apoptosis-related pathways in GCs and may enhance oocyte competence and embryo quality in PMOS. Larger studies are needed to confirm these mechanistic and clinical effects.",
+        "journal": "Human fertility (Cambridge, England)",
+        "authors": [
+          "Arezoo Maleki-Hajiagha",
+          "Ashraf Aleyasin",
+          "Fardin Amidi"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-09-10T00:00:00.000Z",
+        "activityAt": "2026-09-10T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42720188/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42717121",
+        "pmid": "42717121",
+        "doi": "10.1007/s43032-026-02184-7",
+        "title": "Research Progress of Histone Deacetylase and Its Inhibitors in Endometriosis.",
+        "abstract": "Endometriosis is a complex chronic inflammatory disease with an unclear etiology and limited treatment options, severely affecting the reproductive health and quality of life of many women. Histone deacetylases (HDACs), as key epigenetic regulatory molecules, play a significant role in the pathogenesis and progression of endometriosis. This article reviews the abnormal expression of HDACs in endometriosis and their molecular mechanisms in driving the disease by regulating processes such as cell proliferation, apoptosis, inflammation, and epithelial-mesenchymal transition (EMT). It also summarizes the therapeutic potential of histone deacetylase inhibitors (HDACis) such as Vorinostat, Romidepsin, and Butyrate demonstrated in preclinical studies, and analyzes the main challenges currently faced in clinical translation. Finally, this article discusses the challenges and future research directions for developing novel endometriosis therapies targeting HDACs, aiming to provide references for in-depth research and clinical translation in this field.",
+        "journal": "Reproductive sciences (Thousand Oaks, Calif.)",
+        "authors": [
+          "Jingjing Pu",
+          "Junjie Xu",
+          "Liping Jiang",
+          "Shaojie Zhao",
+          "Shisi Xiong"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-09-09T00:00:00.000Z",
+        "activityAt": "2026-09-10T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42717121/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      }
+    ]
+  }
+}
