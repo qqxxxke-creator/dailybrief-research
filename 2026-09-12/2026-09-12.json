@@ -1,0 +1,295 @@
+{
+  "hero_headline": "孕期贫血与婴儿早期脑发育差异相关：便携MRI研究提供新证据",
+  "daily_overview": "今日候选更新集中于妇产科研究动态：孕期贫血与婴儿脑发育差异的影像学关联、盆底器官脱垂的光学成像探索，以及子宫免疫细胞在生殖中的作用。指南与共识、妇产科手术前沿领域本次无合格更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [
+    {
+      "title": "Anemia in pregnancy linked to differences in babies' brain development",
+      "url": "https://medicalxpress.com/news/2026-09-anemia-pregnancy-linked-differences-babies.html",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "一项便携式MRI研究显示，约12月龄婴儿脑容量出现可测量差异，为母体贫血影响婴儿脑发育提供较早影像学证据。原文摘要未说明具体机制与干预建议，仅提示孕期贫血筛查与治疗具有潜在长期意义。",
+      "importance": 8
+    },
+    {
+      "title": "Hidden immune cells may hold key to tackling female infertility",
+      "url": "https://medicalxpress.com/news/2026-09-hidden-immune-cells-key-tackling.html",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "曼彻斯特大学团队发现子宫内免疫细胞具有此前未知的作用，为不孕、流产及其他生殖疾病的治疗打开新方向。该发现尚属基础研究阶段，原文摘要未说明是否已开展临床验证；可能推动生殖免疫治疗研究布局。",
+      "importance": 7
+    },
+    {
+      "title": "Light-based scans can uncover hidden tissue damage in pelvic organ prolapse",
+      "url": "https://medicalxpress.com/news/2026-09-based-scans-uncover-hidden-tissue.html",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "盆底器官脱垂因支撑盆腔器官的组织变弱所致，影响数百万女性却常被忽视。该研究提示基于光的扫描可发现隐匿性组织损伤；原文摘要未说明该技术的具体指标与临床应用时间。该方向可能改善盆底损伤评估与手术决策。",
+      "importance": 6
+    }
+  ],
+  "editor_note": "三项研究均处早期阶段，证据尚不足以改变临床路径；孕期贫血的神经发育线索与盆底成像探索值得持续跟踪。",
+  "keywords": [
+    "盆底器官脱垂",
+    "孕期贫血",
+    "婴儿脑发育",
+    "生殖免疫",
+    "不孕",
+    "流产",
+    "便携式MRI",
+    "光学成像"
+  ],
+  "research": {
+    "generatedAt": "2026-09-11T22:45:38.580Z",
+    "dataAsOf": "2026-09-11T22:45:38.580Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及胎盘DNA甲基化特征用于早发型子痫前期分类的机器学习与功能分析、单细胞转录组分析揭示上皮性卵巢癌中铁死亡相关特征和肿瘤微环境异质性、治疗初治高级别浆液性卵巢癌腹水的BRCA1/2分层免疫分析发现Treg富集的腹水免疫表型。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42722973",
+        "pmid": "42722973",
+        "doi": "10.1007/s43032-026-02183-8",
+        "title": "Machine Learning and Functional Analysis of Placental DNA Methylation Signatures for Early-Onset Preeclampsia.",
+        "abstract": "Early-onset preeclampsia (EOPE) is a pregnancy disorder characterized by abnormal placental development and substantial maternal and fetal risk. DNA methylation at CpG sites has emerged as a key epigenetic mechanism in EOPE. In this study, we developed machine learning models for EOPE classification using β-values from CpG sites in placental tissue. Starting from 599 EOPE-associated CpG sites reported earlier, we used attribute selection in WEKA to identify 30 statistically significant descriptors, which mapped to 19 unique genes. Multiple classifiers were trained and evaluated, and the SPegasos classifier demonstrated the best performance, achieving 95.45% accuracy and an area under the receiver operating characteristic curve of 0.9545 in tenfold cross‑validation, and 95% accuracy in an independent validation dataset. These findings suggest a potentially high correlation between the CpG methylation signatures and EOPE. By creating a machine learning model, we can potentially classify a sample as having EOPE or a normal pregnancy using DNA methylation data at specific CpG sites in placental tissue. Furthermore, we identified the adipogenesis pathway to be central to the disease's pathophysiology. Gain ratio analysis highlighted a subset of CpG sites with particularly strong discriminative power between EOPE and control placentas. Functional annotation of the 19 CpG‑associated genes using protein and pathway enrichment analyses revealed enrichment in signal transduction, steroid and lipid metabolism, and cell developmental processes. Pathway analysis identified adipogenesis as a central pathway, consistent with dysregulated adipokine signaling and systemic inflammation in EOPE. These findings demonstrate that placental CpG methylation signatures can accurately distinguish EOPE from normal pregnancies and provide mechanistic insight into disrupted adipogenesis‑related pathways. The identified CpG methylation signature may serve as a basis for developing early molecular biomarkers and targeted strategies to improve EOPE diagnosis and management.",
+        "journal": "Reproductive sciences (Thousand Oaks, Calif.)",
+        "authors": [
+          "Igor F Tsigelny",
+          "Raunak Sharda",
+          "Valentina L Kouznetsova"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-10T00:00:00.000Z",
+        "activityAt": "2026-09-11T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42722973/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "胎盘DNA甲基化特征用于早发型子痫前期分类的机器学习与功能分析",
+          "researchQuestion": "能否利用胎盘组织CpG位点β值建立机器学习模型区分早发型子痫前期（EOPE）与正常妊娠，并探索相关通路？",
+          "studyDesign": "基于胎盘组织DNA甲基化数据的机器学习分类模型构建与功能注释分析。",
+          "populationAndSample": "摘要未报告具体样本量或人群特征；起始为既往报道的599个EOPE相关CpG位点。",
+          "methods": "从既往报道的599个EOPE相关CpG位点出发，使用WEKA进行属性选择以识别30个具有统计学意义的描述符，并映射到19个独特基因；训练和评估多个分类器；采用十折交叉验证和一个独立验证数据集；进行gain ratio分析；对19个CpG相关基因进行蛋白和通路富集分析。",
+          "keyResults": "SPegasos分类器表现最佳：十折交叉验证准确率95.45%，受试者工作特征曲线下面积0.9545，独立验证数据集准确率95%。识别出30个描述符，映射到19个独特基因。Gain ratio分析突出显示在EOPE与对照胎盘间具有较强区分能力的CpG位点子集。功能注释显示富集于信号转导、类固醇和脂质代谢及细胞发育过程；通路分析确定脂肪生成（adipogenesis）为中心通路，与EOPE中脂肪因子信号失调和全身炎症一致。",
+          "limitations": "摘要未报告研究局限性；独立验证数据集的样本量及人群特征摘要未报告。",
+          "clinicalInterpretation": "摘要提示胎盘CpG甲基化特征可能准确区分EOPE与正常妊娠，并可能为早期分子生物标志物及改善EOPE诊断和管理的靶向策略提供基础；摘要未报告临床推荐或指南性结论。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "2a012e5298c08d4d38b468079e99703ec8a2e8538a68ab922961d228e5eb7b8c"
+      },
+      {
+        "id": "pmid:42723230",
+        "pmid": "42723230",
+        "doi": "10.1002/cam4.72257",
+        "title": "Single-Cell Transcriptomic Analysis Reveals Ferroptosis-Related Signatures and Tumor Microenvironment Heterogeneity in Epithelial Ovarian Cancer.",
+        "abstract": "Epithelial ovarian cancer (EOC) is the deadliest gynecological malignancy. Ferroptosis, an iron-dependent lipid peroxidation-associated cell death mode, provides a new target for tumor therapy. Nevertheless, its impact on EOC tumorigenesis is not well defined. The quality control, dimensionality reduction, and EOC clustering for the gene expression data were performed through the Scanpy pipeline for single-cell RNA sequence from GEO (GSE165897). Ferroptosis pathway scoring, computation of transcription factor activity, and analyzes for cell-cell communication were conducted. An independent validation cohort (GSE300897, n = 19,002 cells) was analyzed to confirm ferroptosis signature robustness. Expression of ferroptosis-related genes in SKOV3 and OVCAR3 cells was confirmed using RT-qPCR and immunoassays after treatment with erastin, RSL3, and ferrostatin-1 rescue. NRF2 siRNA knockdown and co-culture experiments were performed for functional validation. A total of 51,702 cells from 11 patients were analyzed and clustered into 18 clusters that included EOC cells (16.9%), immune cells (67.6%), and stromal cells (15.6%), encompassing 27 fine-grained cell subtypes. KEGG enrichment revealed that ferroptosis, fatty acid metabolism, and glutathione metabolism were the major pathways. Transcription factor profiling indicated increased NRF2 activation in EOC cells, which implied an augmented ferroptosis-resistance capacity. Signaling between cells also revealed three key ligand-receptor interactions, SPP1-CD44, VEGFA-KDR, and CCL2-CCR2, which are involved in the regulation of ferroptosis and were functionally validated in a triple co-culture model. NRF2 siRNA knockdown synergistically enhanced erastin-induced ferroptosis sensitization (C11-BODIPY: 4.52-fold), rescued by ferrostatin-1. Platinum-refractory patients in GSE300897 showed significantly altered ferroptosis scores (Mann-Whitney p = 3.22e-24), linking ferroptosis to clinical platinum sensitivity. Our work uncovers ferroptosis dysregulation as a key driver of EOC pathogenesis, with NRF2 being a master regulator of resistance to ferroptosis and suggesting new therapeutic approaches for ovarian cancer.",
+        "journal": "Cancer medicine",
+        "authors": [
+          "Bingxin Li",
+          "Hui Liang",
+          "Jie Liu",
+          "Jing Li"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-01T00:00:00.000Z",
+        "activityAt": "2026-09-11T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42723230/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "单细胞转录组分析揭示上皮性卵巢癌中铁死亡相关特征和肿瘤微环境异质性",
+          "researchQuestion": "在上皮性卵巢癌（EOC）中探索铁死亡相关特征和肿瘤微环境异质性，并考察NRF2在铁死亡抵抗中的作用。",
+          "studyDesign": "单细胞RNA测序分析联合体外功能验证研究。",
+          "populationAndSample": "发现数据集GSE165897包含11例患者的51,702个细胞；独立验证队列GSE300897包含19,002个细胞；体外使用SKOV3和OVCAR3细胞。",
+          "methods": "使用Scanpy流程对GEO（GSE165897）单细胞RNA测序数据进行质控、降维和EOC聚类；进行铁死亡通路评分、转录因子活性计算和细胞-细胞通讯分析；在GSE300897验证铁死亡特征稳健性；用erastin、RSL3和ferrostatin-1处理后通过RT-qPCR和免疫测定确认铁死亡相关基因表达；进行NRF2 siRNA敲低和共培养实验进行功能验证。",
+          "keyResults": "共分析11例患者的51,702个细胞，聚类为18个簇，包括EOC细胞（16.9%）、免疫细胞（67.6%）和基质细胞（15.6%），涵盖27种精细细胞亚型。KEGG富集显示铁死亡、脂肪酸代谢和谷胱甘肽代谢为主要通路。转录因子分析提示EOC细胞中NRF2活化增加，暗示铁死亡抵抗能力增强。细胞间信号分析显示SPP1-CD44、VEGFA-KDR和CCL2-CCR2三个关键配体-受体相互作用参与铁死亡调控，并在三重共培养模型中功能验证。NRF2 siRNA敲低协同增强erastin诱导的铁死亡敏化（C11-BODIPY：4.52倍），可被ferrostatin-1挽救。GSE300897中铂耐药患者铁死亡评分显著改变（Mann-Whitney p = 3.22e-24），将铁死亡与临床铂敏感性联系起来。",
+          "limitations": "摘要未报告研究局限性。",
+          "clinicalInterpretation": "摘要提出铁死亡失调参与EOC发病，NRF2被描述为铁死亡抵抗的主要调控因子，并提示新的治疗方向；摘要未报告临床建议或指南性结论。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "44a66ebe227c342c4aaf3bcb1363a16f33575c35c61a2488147f8f799c05b92f"
+      },
+      {
+        "id": "pmid:42723305",
+        "pmid": "42723305",
+        "doi": "10.4132/jptm.2026.07.27",
+        "title": "BRCA1/2-stratified immune profiling of treatment-naive high-grade serous ovarian cancer ascites identifies a Treg-enriched ascitic immune phenotype.",
+        "abstract": "BACKGROUND: Malignant ascites is a common presentation in advanced high-grade serous ovarian carcinoma (HGSOC), yet its immune composition and genetic correlates remain poorly defined. This study explored the immune microenvironment of ascitic fluid in ovarian carcinoma and its association with BRCA mutation status, chemotherapy response, and survival.\nMETHODS: Ascitic fluid from 133 patients (33 non-malignant controls, 31 non-ovarian carcinoma, and 69 HGSOC cases) was analyzed using multiparameter flow cytometry to quantify lymphocyte and macrophage subsets, and programmed cell death 1/programmed cell death ligand 1 immune-checkpoint marker expression. Targeted sequencing of TP53 and BRCA1/2 was performed in HGSOC, and findings were correlated to immune parameters, chemotherapy response, progression-free and overall survival.\nRESULTS: Ovarian carcinoma ascites, compared with non-malignant effusions, showed increased CD3+ and CD8+ T-cell frequencies, higher regulatory T cell (Treg)-associated populations, and reduced CD19+CD20+ B-cell levels. Targeted sequencing identified TP53 mutations in 97.4% and BRCA1/2 mutations in 35.9% of sequenced HGSOC cases. BRCA-wild-type cases showed significantly lower CD4+ T-cell and B-cell levels, higher Treg levels, and shorter progression-free and overall survival than BRCA1/2-mutated cases. Higher CD3+ and CD8+ T-cell levels were associated with poor chemotherapy response. In exploratory multivariable Cox models, BRCA-wild-type status remained significantly associated with poorer overall survival, whereas immune-cell groups were not independently significant.\nCONCLUSIONS: HGSOC ascites showed a Treg-enriched immune profile, with relatively higher Treg levels in BRCA-wild-type cases. BRCA-wild-type status was associated with poorer outcomes, while the evaluated immune-cell subsets were not independently prognostic in exploratory analysis. Ascitic fluid-based immune and molecular profiling may provide prognostic information worthy of validation in larger independent cohorts.",
+        "journal": "Journal of pathology and translational medicine",
+        "authors": [
+          "Amit Raj Sharma",
+          "Bhavana Rai",
+          "Bhavneet Kaur",
+          "Man Updesh Singh Sachdeva",
+          "Megha Sharma",
+          "Parikshaa Gupta",
+          "Radhika Srinivasan",
+          "Rashmi Bagga",
+          "Upasana Gautam"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-11T00:00:00.000Z",
+        "activityAt": "2026-09-11T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42723305/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "治疗初治高级别浆液性卵巢癌腹水的BRCA1/2分层免疫分析发现Treg富集的腹水免疫表型",
+          "researchQuestion": "探索卵巢癌腹水免疫微环境及其与BRCA突变状态、化疗反应和生存的关联。",
+          "studyDesign": "基于腹水样本的多参数流式细胞术免疫分型和靶向测序研究。",
+          "populationAndSample": "133例患者的腹水，包括33例非恶性对照、31例非卵巢癌和69例HGSOC；在HGSOC中进行TP53和BRCA1/2靶向测序。",
+          "methods": "使用多参数流式细胞术定量淋巴细胞和巨噬细胞亚群及PD-1/PD-L1免疫检查点标志物表达；对HGSOC进行TP53和BRCA1/2靶向测序；将结果与免疫参数、化疗反应、无进展生存和总生存进行关联分析。",
+          "keyResults": "卵巢癌腹水与非恶性积液相比，显示CD3+和CD8+ T细胞频率增加，Treg相关群体更高，CD19+CD20+ B细胞水平降低。测序发现HGSOC中TP53突变97.4%，BRCA1/2突变35.9%。与BRCA1/2突变病例相比，BRCA野生型病例CD4+ T细胞和B细胞水平显著较低，Treg水平较高，无进展生存和总生存较短。较高的CD3+和CD8+ T细胞水平与较差的化疗反应相关。在探索性多变量Cox模型中，BRCA野生型状态仍与较差总生存显著相关，而免疫细胞组无独立显著性。",
+          "limitations": "摘要指出该分析为探索性，需要在更大独立队列中验证；免疫细胞亚群在探索性多变量模型中未显示独立预后意义；其他局限性摘要未报告。",
+          "clinicalInterpretation": "HGSOC腹水呈Treg富集免疫表型，BRCA野生型病例Treg相对较高；BRCA野生型状态与较差结局相关，而所评估免疫细胞亚群在探索性分析中无独立预后意义。基于腹水的免疫和分子分型可能提供值得在更大独立队列中验证的预后信息；摘要未报告临床建议。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "d4ca3eead5108cdcead44abf89bc4ef586e06dc6034548b7f07291b8e91878e9"
+      },
+      {
+        "id": "pmid:42723498",
+        "pmid": "42723498",
+        "doi": "10.1002/cncr.70581",
+        "title": "The evolving role of immunotherapy in ovarian cancer.",
+        "abstract": "Ovarian cancer remains a major cause of gynecologic cancer mortality; and, although immune checkpoint inhibitors have transformed treatment in other solid tumors, their activity in ovarian cancer has been limited by tumor heterogeneity, an immunosuppressive tumor microenvironment, and the lack of robust predictive biomarkers. Recent research therefore has shifted toward combination and precision-based strategies, including dual-checkpoint blockade, integration with chemotherapy, antiangiogenic therapy, and poly(adenosine diphosphate-ribose) polymerase inhibitors, as well as adoptive cell therapies, vaccines, and oncolytic viruses. To date, added benefit from checkpoint inhibition has been clearest in chemotherapy-based combinations for programmed death-ligand-positive, platinum-resistant disease, whereas its contribution to maintenance therapy with poly(adenosine diphosphate-ribose) polymerase inhibitors and/or bevacizumab in first-line or platinum-sensitive relapse appears limited. Emerging evidence also supports the role of antibody-drug conjugates as both direct cytotoxic agents and immune modulators. In parallel, biomarkers such as programmed death-ligand 1, tumor mutational burden, microsatellite instability high, and immune-cell infiltrates are being evaluated to improve patient selection, while artificial intelligence and machine learning are increasingly being explored to integrate clinical, pathologic, radiomic, and molecular data for response prediction. Research directions to make ovarian cancer more susceptible to immunotherapy are moving from empiric treatment to more biologically informed, multimodal approaches aimed at overcoming immune suppression, enhancing antitumor immunity, and personalizing treatment for patients with ovarian cancer.",
+        "journal": "Cancer",
+        "authors": [
+          "Amit M Oza",
+          "Ana Carolina Veneziani",
+          "Laura Venegas"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-09-15T00:00:00.000Z",
+        "activityAt": "2026-09-11T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42723498/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "免疫治疗在卵巢癌中不断演变的作用",
+          "researchQuestion": "综述卵巢癌免疫治疗的演变，包括免疫检查点抑制剂活性受限原因、组合和精准策略、生物标志物及研究方向。",
+          "studyDesign": "综述（Review；Journal Article）。",
+          "populationAndSample": "摘要未报告（综述）。",
+          "methods": "摘要未报告系统检索方法；摘要概述近期研究转向组合和精准策略，包括双检查点阻断、与化疗、抗血管生成治疗和PARP抑制剂整合，以及过继细胞治疗、疫苗和溶瘤病毒。",
+          "keyResults": "卵巢癌仍是妇科癌症死亡的主要原因。尽管免疫检查点抑制剂改变了其他实体瘤的治疗，其在卵巢癌中的活性受肿瘤异质性、免疫抑制性肿瘤微环境和缺乏稳健预测生物标志物限制。迄今，检查点抑制的额外获益在PD-L1阳性、铂耐药疾病的化疗联合方案中最明确，而在PARP抑制剂和/或贝伐珠单抗用于一线或铂敏感复发的维持治疗中的贡献似乎有限。新出现的证据也支持抗体-药物偶联物作为直接细胞毒性药物和免疫调节剂的作用。PD-L1、肿瘤突变负荷、微卫星高度不稳定和免疫细胞浸润等生物标志物正在被评估以改善患者选择，人工智能和机器学习日益被探索用于整合临床、病理、影像组学和分子数据以预测反应。研究方向正从经验性治疗转向更具生物学信息的多模式方法，旨在克服免疫抑制、增强抗肿瘤免疫并为卵巢癌患者个体化治疗。",
+          "limitations": "摘要未报告系统检索、纳入排除标准或证据分级等综述方法学信息，也未报告局限性。",
+          "clinicalInterpretation": "摘要提出卵巢癌免疫治疗正从经验性治疗转向更具生物学信息的多模式策略，以克服免疫抑制、增强抗肿瘤免疫和个体化治疗；摘要未报告具体临床推荐或指南性结论。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "dcc481bb2f56318c2d897602fa563d27b05054adaa4eb672abf8a809377a9e27"
+      },
+      {
+        "id": "pmid:42723787",
+        "pmid": "42723787",
+        "doi": "10.3389/fendo.2026.1938890",
+        "title": "Pre-treatment serum phosphate as a metabolic correlate of live birth after IVF/ICSI: a retrospective cohort study.",
+        "abstract": "BACKGROUND: Oocyte developmental competence is influenced by the systemic metabolic milieu during folliculogenesis. Inorganic phosphate is essential for ATP synthesis, nucleic acid metabolism, and phosphorylation-dependent signalling, but its relationship with assisted reproductive technology outcomes remains unclear. We investigated whether pre-treatment fasting serum phosphate was associated with live birth after first IVF/ICSI fresh embryo transfer.\nMETHODS: This retrospective cohort study included 2, 226 women aged 20-42 years undergoing their first IVF/ICSI cycle with fresh embryo transfer between January 2022 and June 2024. Serum phosphate was measured before ovarian stimulation and analysed as quartiles and per 1-SD increase (0.146 mmol/L). Multivariable logistic regression assessed associations with live birth, adjusting for demographic, ovarian reserve, metabolic, and treatment-related factors. Restricted cubic splines evaluated dose-response relationships. Measurement-window analyses stratified participants by the interval between biochemistry assessment and oocyte retrieval.\nRESULTS: The overall live birth rate was 60%, increasing from 56% in the lowest phosphate quartile to 66% in the highest (P for trend = 0.003). Each 1-SD increase in serum phosphate was associated with higher odds of live birth (adjusted OR 1.15, 95% CI 1.06-1.26; P = 0.002), with a linear dose-response (P for non-linearity = 0.305). Serum phosphate was not associated with MII oocyte count or usable embryo count. In measurement-window analyses, the association was consistent in the 60-120 day window (n = 1, 485; adjusted OR 1.18, 95% CI 1.03-1.35) and the 120-180 day window (n = 637; adjusted OR 1.16, 95% CI 1.01-1.34). The 0-60 day stratum was underpowered (n = 104). Additional adjustment for calcium, alkaline phosphatase, fasting glucose, and trigger-day progesterone did not materially alter the results.\nCONCLUSIONS: Higher pre-treatment serum phosphate was associated with higher odds of live birth after IVF/ICSI, independent of oocyte yield. External validation and mechanistic studies are required before clinical application.",
+        "journal": "Frontiers in endocrinology",
+        "authors": [
+          "Chuanming Liu",
+          "Feifei Lu",
+          "Jie Mei",
+          "Lingjuan Wang",
+          "Na Kong",
+          "Qingqing Shi",
+          "Ruiwei Jiang",
+          "Weihong Zhou",
+          "Xiaoyue Shen",
+          "Yuan Yan",
+          "Yue Jiang",
+          "Zhilong Wang"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-27T00:00:00.000Z",
+        "activityAt": "2026-09-11T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42723787/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "治疗前血清磷酸盐作为IVF/ICSI后活产的代谢相关因素：一项回顾性队列研究",
+          "researchQuestion": "治疗前空腹血清磷酸盐是否与首次IVF/ICSI新鲜胚胎移植后活产相关。",
+          "studyDesign": "回顾性队列研究。",
+          "populationAndSample": "2022年1月至2024年6月期间接受首次IVF/ICSI周期并新鲜胚胎移植的2,226名20-42岁女性；血清磷酸盐在卵巢刺激前测量。",
+          "methods": "将血清磷酸盐按四分位数和每1-SD增加（0.146 mmol/L）分析；多变量logistic回归评估与活产的关联，校正人口学、卵巢储备、代谢和治疗相关因素；限制性立方样条评估剂量-反应关系；测量窗口分析按生化评估与取卵间隔分层。",
+          "keyResults": "总体活产率为60%，从最低磷酸盐四分位的56%升高至最高四分位的66%（趋势P = 0.003）。血清磷酸盐每增加1-SD与活产odds升高相关（校正OR 1.15，95% CI 1.06-1.26；P = 0.002），呈线性剂量-反应（非线性P = 0.305）。血清磷酸盐与MII卵母细胞数或可用胚胎数无关。测量窗口分析中，60-120天窗口（n = 1,485；校正OR 1.18，95% CI 1.03-1.35）和120-180天窗口（n = 637；校正OR 1.16，95% CI 1.01-1.34）关联一致；0-60天分层统计效能不足（n = 104）。额外校正钙、碱性磷酸酶、空腹血糖和扳机日孕酮未实质性改变结果。",
+          "limitations": "回顾性研究；摘要指出需要外部验证和机制研究，之后才能临床应用；0-60天分层统计效能不足；其他局限性摘要未报告。",
+          "clinicalInterpretation": "治疗前较高血清磷酸盐与IVF/ICSI后活产odds较高相关，且独立于卵母细胞产量；摘要强调需要外部验证和机制研究后方可临床应用，未报告临床建议或指南性结论。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "4257cdd6dd9578ca14ca8999781e165264f2d04ceb67748db36fb5eff22744b2"
+      }
+    ]
+  }
+}

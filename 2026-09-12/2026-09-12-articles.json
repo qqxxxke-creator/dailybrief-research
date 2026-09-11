@@ -1,0 +1,41 @@
+{
+  "date": "2026-09-12",
+  "articles": [
+    {
+      "sourceId": "medical-xpress-obgyn",
+      "title": "Light-based scans can uncover hidden tissue damage in pelvic organ prolapse",
+      "url": "https://medicalxpress.com/news/2026-09-based-scans-uncover-hidden-tissue.html",
+      "excerpt": "Pelvic organ prolapse is a common but often overlooked condition that affects millions of women. It occurs when the tissues that support the pelvic organs weaken, allowing organs such as the bladder, uterus or rectum to shift from their normal position. Doctors can assess how severe the prolapse is,",
+      "publishedAt": "2026-09-11T17:40:07.000Z",
+      "category": "politics",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "标题指出基于光的扫描可发现盆腔器官脱垂中的隐藏组织损伤；摘录说明该病由支撑盆腔器官的组织变弱，导致膀胱、子宫或直肠等移位，医生可评估脱垂严重程度。",
+      "reviewStatus": "accepted",
+      "lowPriority": false
+    },
+    {
+      "sourceId": "medical-xpress-obgyn",
+      "title": "Anemia in pregnancy linked to differences in babies' brain development",
+      "url": "https://medicalxpress.com/news/2026-09-anemia-pregnancy-linked-differences-babies.html",
+      "excerpt": "Researchers using a portable MRI scanner found that measurable differences in brain volumes emerged at around 12 months of age, offering some of the earliest evidence yet that maternal anemia shapes infant brain development in the first year of life and beyond.",
+      "publishedAt": "2026-09-09T15:20:14.000Z",
+      "category": "politics",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "孕期贫血与婴儿脑发育差异相关；使用便携式MRI发现约12月龄出现可测量的脑容量差异，提示母体贫血影响婴儿第一年及以后的脑发育。",
+      "reviewStatus": "accepted",
+      "lowPriority": false
+    },
+    {
+      "sourceId": "medical-xpress-obgyn",
+      "title": "Hidden immune cells may hold key to tackling female infertility",
+      "url": "https://medicalxpress.com/news/2026-09-hidden-immune-cells-key-tackling.html",
+      "excerpt": "University of Manchester scientists have uncovered a hidden role for immune cells in the womb, opening the door to new treatments for infertility, miscarriage and other reproductive conditions that affect millions of women worldwide. The findings are a breakthrough in our understanding of women's re",
+      "publishedAt": "2026-09-08T15:00:01.000Z",
+      "category": "politics",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "曼彻斯特大学科学家发现子宫内免疫细胞具有此前未知的作用，可能为不孕、流产及其他影响数百万女性的生殖疾病提供新治疗方向。",
+      "reviewStatus": "accepted",
+      "lowPriority": false
+    }
+  ]
+}
