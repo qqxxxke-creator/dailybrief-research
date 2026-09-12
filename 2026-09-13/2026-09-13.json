@@ -1,0 +1,255 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-09-12T22:12:01.928Z",
+    "dataAsOf": "2026-09-12T22:12:01.928Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及既往疾病患者的严重孕产妇并发症：一项前瞻性观察性队列研究（ForMaT 试验）、血浆致动脉粥样硬化指数及其改良指数与妊娠期糖尿病的关联：一项基于韩国人群的前瞻性队列研究、精益管理干预对印度尼西亚某国家转诊医院妇科肿瘤手术服务等待时间和服务效率的影响：一项带精益浪费分析的间断时间序列研究。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42728272",
+        "pmid": "42728272",
+        "doi": "10.1038/s41598-026-69115-z",
+        "title": "Severe maternal morbidity in patients with pre-existing diseases: a prospective observational cohort study (ForMaT trial).",
+        "abstract": "Severe maternal morbidity (SMM) is increasingly used as an indicator of maternal health. Registry-based studies have reported higher SMM rates among women with pre-existing diseases, but prospective data describing the timing and clinical context of these events remain limited. In this prospective observational cohort study conducted at a tertiary perinatal center in Germany between November 2022 and March 2024, SMM was defined according to the Centers for Disease Control and Prevention (CDC) criteria. Outcomes in women with pre-existing diseases were compared with two control groups: healthy women with obstetric risk factors and women with uncomplicated pregnancies. A total of 657 women with pre-existing diseases and 742 women in the control groups were included in the final analysis. Overall, 19 women experienced SMM, including 14 in the study group and 5 in the control groups. Women with pre-existing diseases had a higher risk of SMM than controls (relative risk (RR) 3.40, 95% confidence interval 1.22-9.49, adjusted for age, body mass index and parity). Half of the SMM events in the study group occurred antepartum and were attributable to the underlying disease, whereas events in the control groups occurred predominantly during the peripartum period and were mainly obstetric in origin. Women with pre-existing diseases also had higher risks of preterm birth (RR = 2.27; 95% CI 1.64-3.44) and neonatal intensive care unit admission (RR = 1.84; 95% CI 1.31-2.59). These findings suggest that pre-existing diseases substantially increase the risk of severe maternal morbidity and that a considerable proportion of events occur before delivery and are related to the underlying disease.",
+        "journal": "Scientific reports",
+        "authors": [
+          "Chiara Flugel",
+          "Elena Jost",
+          "Jennifer Nadal",
+          "Matthias Schmid",
+          "Philipp Kosian",
+          "Waltraut M Merz"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Observational Study"
+        ],
+        "publishedAt": "2026-09-11T00:00:00.000Z",
+        "activityAt": "2026-09-12T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42728272/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "既往疾病患者的严重孕产妇并发症：一项前瞻性观察性队列研究（ForMaT 试验）",
+          "researchQuestion": "在既往有疾病的孕产妇中，严重孕产妇并发症（SMM）的发生风险、发生时间及临床背景如何？其结局与健康但存在产科危险因素的孕妇及无并发症妊娠孕妇相比有何差异？",
+          "studyDesign": "前瞻性观察性队列研究，在德国一家三级围产中心于2022年11月至2024年3月开展。",
+          "populationAndSample": "最终分析纳入657名有既往疾病的女性，以及742名对照组女性；对照组包括健康但有产科危险因素的女性及无并发症妊娠女性。",
+          "methods": "SMM依据美国疾病控制与预防中心（CDC）标准定义。比较有既往疾病女性与两个对照组女性的结局，并对年龄、体质指数和产次进行调整。",
+          "keyResults": "共有19名女性发生SMM，其中研究组14名、对照组5名。有既往疾病女性发生SMM的风险高于对照组（相对危险度RR 3.40，95%置信区间1.22-9.49，已校正年龄、体质指数和产次）。研究组中一半SMM事件发生在产前，且可归因于基础疾病；对照组事件主要发生在围产期，且主要为产科原因。有既往疾病女性早产风险更高（RR=2.27；95%CI 1.64-3.44），新生儿重症监护病房入住风险也更高（RR=1.84；95%CI 1.31-2.59）。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "这些观察性队列结果提示，既往疾病与严重孕产妇并发症风险升高相关，且相当比例事件发生在分娩前并与基础疾病有关；该人群的早产和新生儿重症监护病房入住风险也观察到升高。该结果为关联性发现，不能据此推断因果关系或形成临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "87935f4c63e93e9a9880ce5e9d38610fafc1ea8a95380896c9db1e317228d83f"
+      },
+      {
+        "id": "pmid:42723813",
+        "pmid": "42723813",
+        "doi": "10.3389/fendo.2026.1923064",
+        "title": "Association of atherogenic index of plasma and its modified indices with gestational diabetes mellitus: a prospective cohort study based on the Korean population.",
+        "abstract": "BACKGROUND: Gestational diabetes mellitus (GDM) is a common pregnancy complication, yet current diagnosis at 24-28 weeks may occur after metabolic changes have already begun. The atherogenic index of plasma (AIP, log₁₀[TG/HDL-C]) has shown promise for early GDM risk stratification, but it does not incorporate obesity-related parameters. We evaluated whether first-trimester AIP and its modified indices, AIP-BMI and AIP-WC, are associated with subsequent GDM and compared their predictive performance.\nMETHODS: This secondary analysis of a prospective Korean cohort included 581 women with singleton pregnancies. AIP, AIP-BMI (AIP × BMI), and AIP-WC (AIP × waist circumference) were calculated using fasting measurements obtained at 10-14 weeks of gestation; BMI and waist circumference were algebraically reconstructed from the full-precision components of the hepatic steatosis index and fatty liver index because contemporaneous direct measurements were unavailable in the public dataset. GDM was diagnosed at 24-28 weeks using the two-step ACOG approach. Multivariable logistic regression, restricted cubic spline, sensitivity, subgroup, and receiver operating characteristic analyses were performed.\nRESULTS: GDM occurred in 36 women (6.2%). In the fully adjusted model, AIP (per 0.1-unit increase: OR 1.66, 95% CI 1.36-2.03; Q3 vs Q1: OR 7.86, 95% CI 1.93-32.08), AIP-BMI (OR 1.20, 95% CI 1.11-1.31), and AIP-WC (OR 1.05, 95% CI 1.03-1.08) were associated with GDM (all P < 0.001). Overall associations were significant in restricted cubic spline analyses, without evidence of nonlinearity. Among individual indices, AIP-BMI had the largest apparent AUC (83.05%, sensitivity 81%, specificity 80%), followed by AIP-WC (81.32%) and AIP (78.66%). The AIP + AIP-BMI model had the largest apparent AUC among evaluated models (84.19%, sensitivity 81%, specificity 81%). Results remained broadly consistent in sensitivity analyses excluding participants with NAFLD, whereas subgroup analyses were underpowered to detect interactions.\nCONCLUSION: First-trimester AIP, AIP-BMI, and AIP-WC were associated with subsequent GDM, and AIP-BMI showed higher apparent discrimination than AIP alone in this sample. These findings require confirmation in larger cohorts with directly measured anthropometry and appropriate internal and external validation.",
+        "journal": "Frontiers in endocrinology",
+        "authors": [
+          "Feng Lu",
+          "Yingjie Chen"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-27T00:00:00.000Z",
+        "activityAt": "2026-09-11T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42723813/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "血浆致动脉粥样硬化指数及其改良指数与妊娠期糖尿病的关联：一项基于韩国人群的前瞻性队列研究",
+          "researchQuestion": "妊娠早期血浆致动脉粥样硬化指数（AIP）及其改良指数AIP-BMI、AIP-WC是否与后续妊娠期糖尿病（GDM）相关？它们的预测性能如何比较？",
+          "studyDesign": "基于前瞻性韩国队列的二次分析。",
+          "populationAndSample": "纳入581名单胎妊娠女性。GDM发生在36名女性中（6.2%）。",
+          "methods": "使用妊娠10-14周空腹测量值计算AIP、AIP-BMI（AIP×BMI）和AIP-WC（AIP×腰围）。由于公共数据集中无同期直接测量值，BMI和腰围由肝脂肪变性指数和脂肪肝指数的全精度组分进行代数重建。GDM在24-28周采用ACOG两步法诊断。开展多变量logistic回归、限制性立方样条、敏感性分析、亚组分析和受试者工作特征分析。",
+          "keyResults": "GDM发生在36名女性中（6.2%）。在完全校正模型中，AIP（每增加0.1单位：OR 1.66，95%CI 1.36-2.03；Q3 vs Q1：OR 7.86，95%CI 1.93-32.08）、AIP-BMI（OR 1.20，95%CI 1.11-1.31）和AIP-WC（OR 1.05，95%CI 1.03-1.08）与GDM相关（所有P<0.001）。限制性立方样条分析中总体关联显著，无非线性证据。在各单一指数中，AIP-BMI的显见表观AUC最大（83.05%，敏感性81%，特异性80%），其次为AIP-WC（81.32%）和AIP（78.66%）。在评估的模型中，AIP+AIP-BMI模型的显见表观AUC最大（84.19%，敏感性81%，特异性81%）。排除NAFLD参与者的敏感性分析中结果大体一致，而亚组分析把握度不足以检测交互作用。",
+          "limitations": "BMI和腰围因缺乏同期直接测量而由肝脂肪变性指数和脂肪肝指数的全精度组分代数重建；亚组分析把握度不足；作者指出需在更大队列中采用直接测量的人体测量学并开展适当的内部和外部验证。",
+          "clinicalInterpretation": "在该样本中，妊娠早期AIP、AIP-BMI和AIP-WC与后续GDM相关，AIP-BMI的表观判别力高于单用AIP。这些发现尚需在直接测量人体测量学的大队列中验证，目前不能据此将上述指数作为临床决策依据。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "4d5079cb36fe1c25e31e3404b65503e0105d59657176820da364f2b11dfc5110"
+      },
+      {
+        "id": "pmid:42724072",
+        "pmid": "42724072",
+        "doi": "10.52225/narra.v6i2.3100",
+        "title": "Impact of a lean management intervention on waiting time and service efficiency in gynecologic oncology surgical services in a national referral hospital in Indonesia: An interrupted time-series study with lean waste analysis.",
+        "abstract": "Long surgical waiting times in gynecologic oncology reflect operational inefficiencies and limited operating room capacity, compromising timely care and patient outcomes. This study specifically focuses on gynecologic oncology surgical services at Dr. Hasan Sadikin Hospital, Bandung, a major national referral hospital in Indonesia. It evaluated the impact of lean-based dedicated operating slots on surgical waiting times and service efficiency. A mixed-methods explanatory sequential design was applied. Quantitative data comprised 24 monthly time points (12 pre-intervention and 12 post-intervention) and were analyzed using interrupted time series analysis, while qualitative data were obtained through in-depth interviews with seven key informants to explain operational changes after the intervention. The intervention introduced one specialized operating room and nine weekly elective surgery slots dedicated to gynecologic oncology. The results demonstrated a significant reduction in mean waiting time, from 8.16 weeks pre-intervention to 3.64 weeks post-intervention. Interrupted Time Series Analysis (ITSA) showed a significant immediate level reduction following implementation, with an estimated change of -2.87 weeks, indicating an immediate reduction in surgical backlog. Trend analysis further demonstrated a significant post-intervention slope change (0.48), reflecting a modification in waiting time trajectory after implementation. Although a slight upward trend was observed afterward due to surgical throughput, waiting times remained substantially lower than in the pre-intervention period. Lean waste analysis revealed reductions in waiting, overprocessing, and inter-unit coordination inefficiencies. These findings indicate that lean-oriented dedicated operating slots improve operational efficiency, enhance patient access, and minimize systemic waste in high-volume oncology surgical services. The study provides empirical evidence supporting structured scheduling and lean principles as effective strategies for improving time-sensitive surgical care in tertiary hospitals.",
+        "journal": "Narra J",
+        "authors": [
+          "Elsye M Rosa",
+          "Sagiran Sagiran",
+          "Sri Dr Syarief"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-05-27T00:00:00.000Z",
+        "activityAt": "2026-09-11T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42724072/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "精益管理干预对印度尼西亚某国家转诊医院妇科肿瘤手术服务等待时间和服务效率的影响：一项带精益浪费分析的间断时间序列研究",
+          "researchQuestion": "基于精益的专用手术时段对印度尼西亚某国家转诊医院妇科肿瘤手术等待时间和服务效率有何影响？",
+          "studyDesign": "混合方法解释性序贯设计，定量部分为间断时间序列分析，定性部分为深度访谈。",
+          "populationAndSample": "研究在印度尼西亚万隆Dr. Hasan Sadikin医院妇科肿瘤手术服务中开展。定量数据包含24个月度时间点（干预前12个、干预后12个）；定性数据来自对7名关键信息提供者的深度访谈。",
+          "methods": "干预引入1个专用手术室和每周9个妇科肿瘤择期手术时段。定量数据采用间断时间序列分析；定性访谈用于解释干预后的运营变化。另进行精益浪费分析。",
+          "keyResults": "平均等待时间从干预前的8.16周降至干预后的3.64周。间断时间序列分析显示实施后出现显著即刻水平下降，估计变化为-2.87周，提示手术积压即刻减少。趋势分析进一步显示干预后斜率变化显著（0.48），反映等待时间轨迹发生改变。此后因手术吞吐量出现轻微上升趋势，但等待时间仍显著低于干预前。精益浪费分析显示等待、过度加工和跨单元协调低效有所减少。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "在该国家转诊医院中，精益导向的专用手术时段与手术等待时间降低、服务效率改善和系统性浪费减少相关，研究提供了结构化排程和精益原则可能改善三级医院时效性手术服务的经验证据。该设计主要支持运营干预与结局变化之间的关联，不应直接推广为其他机构的临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "815f7d514f456ec97ad4844288fb1849d19b36a9ba7033240412329a7a142ecd"
+      },
+      {
+        "id": "pmid:42724096",
+        "pmid": "42724096",
+        "doi": "10.52225/narra.v6i2.3131",
+        "title": "Association and predictive performance of platelet-to-lymphocyte ratio and maternal serum ferritin level for preterm birth: A prospective cohort study.",
+        "abstract": "Although maternal inflammation is increasingly recognized in the pathogenesis of preterm birth, evidence regarding the combined predictive value of platelet-to-lymphocyte ratio (PLR) and maternal serum ferritin levels remains scarce. The aim of this study was to evaluate the association and predictive performance of PLR and maternal serum ferritin levels, two readily available inflammatory biomarkers, with the incidence of preterm birth. A prospective cohort study was conducted. Pregnant women with singleton pregnancies between 28 and 36 weeks 6 days of gestation were consecutively recruited and followed until delivery. PLR was calculated from absolute platelet and lymphocyte counts obtained from complete blood count analysis, while maternal serum ferritin levels were measured using electrochemiluminescence immunoassay. The present study found that higher PLR (odds ratio (OR): 1.013; 95%CI: 1.002-1.025; p =0.025) and maternal serum ferritin levels (OR: 1.016; 95%CI: 1.002-1.031; p =0.029) were significantly associated with the incidence of preterm birth. In multivariable analysis, PLR ≥134.4 (adjusted OR: 3.701; 95%CI: 1.186-11.548; p =0.024) and maternal serum ferritin levels ≥29.3 ng/mL (adjusted OR: 4.513; 95%CI: 1.351-15.075; p =0.014) remained independently associated with preterm birth. Receiver operating characteristic analysis demonstrated very modest discriminatory performance for both PLR (area under the curve (AUC): 0.632, p =0.076) and maternal serum ferritin levels (AUC: 0.645, p =0.052), with optimal cut-off values of 134.4 and 29.3 ng/mL, respectively. These findings support the contribution of maternal inflammatory processes to the development of preterm birth and suggest that PLR and maternal serum ferritin levels may provide complementary information for risk assessment. However, the modest predictive performance observed indicates that these biomarkers are unlikely to be sufficient as standalone screening tools and should be interpreted alongside established clinical predictors.",
+        "journal": "Narra J",
+        "authors": [
+          "Cut M Yeni",
+          "Hasanuddin Hasanuddin",
+          "Muhammad Yani",
+          "Niken A Utami",
+          "Sofie D Wahyudi",
+          "Yusra Septivera"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-07-28T00:00:00.000Z",
+        "activityAt": "2026-09-11T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42724096/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "血小板与淋巴细胞比值和母体血清铁蛋白水平对早产的关联及预测性能：一项前瞻性队列研究",
+          "researchQuestion": "血小板与淋巴细胞比值（PLR）和母体血清铁蛋白水平与早产发生率的关联如何？二者对早产的预测性能如何？",
+          "studyDesign": "前瞻性队列研究。",
+          "populationAndSample": "连续招募孕28周至36周6天的单胎妊娠孕妇并随访至分娩；总样本量摘要未报告。",
+          "methods": "PLR由全血细胞计数分析获得的绝对血小板计数和淋巴细胞计数计算；母体血清铁蛋白水平采用电化学发光免疫分析法测量。评估PLR和铁蛋白与早产的关联及预测性能，并进行受试者工作特征分析。",
+          "keyResults": "较高的PLR（比值比OR：1.013；95%CI：1.002-1.025；p=0.025）和母体血清铁蛋白水平（OR：1.016；95%CI：1.002-1.031；p=0.029）与早产发生率显著相关。多变量分析中，PLR≥134.4（校正OR：3.701；95%CI：1.186-11.548；p=0.024）和母体血清铁蛋白水平≥29.3 ng/mL（校正OR：4.513；95%CI：1.351-15.075；p=0.014）仍与早产独立相关。受试者工作特征分析显示二者判别性能均很有限：PLR的曲线下面积（AUC）为0.632（p=0.076），母体血清铁蛋白AUC为0.645（p=0.052），最佳切点分别为134.4和29.3 ng/mL。",
+          "limitations": "作者指出观察到的预测性能仅为中等，这些生物标志物不太可能作为单独筛查工具，应与已确立的临床预测因素结合解读。",
+          "clinicalInterpretation": "这些发现支持母体炎症过程可能参与早产发生，并提示PLR和母体血清铁蛋白可能为风险评估提供补充信息。然而其判别性能有限，提示它们不太可能单独作为筛查工具，应与既有临床预测因素联合解读。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "b9c3a888668d1a144fdd0debe358cbb247ac43d6432aa627c2bd743ad2669f6b"
+      },
+      {
+        "id": "pmid:42724217",
+        "pmid": "42724217",
+        "doi": "10.52225/narra.v6i2.3086",
+        "title": "Correlation of nutritional status and anxiety with quality of life among ovarian cancer patients undergoing chemotherapy: A cross-sectional study at a provincial referral hospital in Indonesia.",
+        "abstract": "Ovarian cancer and its treatment are associated with substantial physical and psychological burden, which may adversely affect patients' quality of life (QoL). While nutritional status and psychological factors are both considered important determinants of QoL, their contributions in patients undergoing chemotherapy remain unclear. This study aimed to evaluate the correlation between nutritional status and anxiety level with QoL among patients with ovarian cancer undergoing chemotherapy. A cross-sectional study was conducted at Dr. Zainoel Abidin Hospital, Banda Aceh, Indonesia, in 2025. Nutritional status was assessed using body mass index (BMI) and serum albumin levels; anxiety was measured using the Zung Self-Rating Anxiety Scale (SAS); and QoL was evaluated using the EORTC QLQ-C30 questionnaire. Data were analyzed using Pearson correlation tests followed with multivariate linear regression test. A total of 101 patients with ovarian cancer undergoing chemotherapy were included in this study. Nutritional status indicators, BMI and serum albumin, were not significantly correlated with QoL across all domains, with very weak correlation coefficients ( r =-0.165 to 0.097). In contrast, anxiety level demonstrated significant negative correlations with global health status ( r =-0.426), physical function ( r =-0.449), emotional function ( r =-0.427), cognitive function ( r =-0.337), and social function ( r =-0.466) (all p <0.05), but not with role function. Multivariate analysis confirmed that anxiety was the only independent predictor of QoL across these domains, whereas BMI and serum albumin showed no significant association. These findings indicate that anxiety plays a more prominent role than nutritional status in determining QoL among patients with ovarian cancer undergoing chemotherapy. Routine screening and management of anxiety could be beneficial to be integrated into oncologic care to improve patient outcomes.",
+        "journal": "Narra J",
+        "authors": [
+          "Hasanuddin Hasanuddin",
+          "Ima Indirayani",
+          "Inong I Meutia",
+          "Munizar Munizar",
+          "Rusnaidi Rusnaidi"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-05-21T00:00:00.000Z",
+        "activityAt": "2026-09-11T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42724217/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "接受化疗的卵巢癌患者营养状态和焦虑与生活质量的关联：印度尼西亚某省级转诊医院的横断面研究",
+          "researchQuestion": "在接受化疗的卵巢癌患者中，营养状态和焦虑水平与生活质量（QoL）是否存在相关？",
+          "studyDesign": "横断面研究。",
+          "populationAndSample": "研究于2025年在印度尼西亚班达亚齐Dr. Zainoel Abidin医院开展，纳入101名接受化疗的卵巢癌患者。",
+          "methods": "营养状态采用体质指数（BMI）和血清白蛋白水平评估；焦虑采用Zung自评焦虑量表（SAS）测量；生活质量采用EORTC QLQ-C30问卷评估。数据分析采用Pearson相关检验，随后进行多变量线性回归检验。",
+          "keyResults": "营养状态指标BMI和血清白蛋白与所有领域的QoL均无显著相关，相关系数很弱（r=-0.165至0.097）。相比之下，焦虑水平与总体健康状况（r=-0.426）、躯体功能（r=-0.449）、情绪功能（r=-0.427）、认知功能（r=-0.337）和社会功能（r=-0.466）呈显著负相关（所有p<0.05），但与角色功能无显著相关。多变量分析确认，焦虑是这些领域QoL的唯一独立预测因素，而BMI和血清白蛋白无显著关联。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "在该横断面样本中，焦虑与接受化疗的卵巢癌患者多个QoL领域呈负相关，而BMI和血清白蛋白未显示显著关联，提示焦虑在该人群中可能比营养状态更突出。作者提出将焦虑的常规筛查和管理整合入肿瘤照护可能有益；但横断面设计不能推断因果关系，该发现不应直接转化为临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "118c79f1647055462872e56c696bd40de81128b2937b7e9deff24b0060376214"
+      }
+    ]
+  }
+}
