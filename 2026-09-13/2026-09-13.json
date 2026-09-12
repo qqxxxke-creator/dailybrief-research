@@ -1,14 +1,37 @@
 {
-  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
-  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "hero_headline": "跨党派项目认捐1亿美元，目标将美国孕产妇死亡率减半",
+  "daily_overview": "今日无新增妇产科指南或共识条目，手术前沿亦无合格内容。国际与国内动态方面，美国跨党派项目「Healthy Moms, Healthy Babies America」宣布1亿美元认捐，目标让分娩更安全并把孕产妇死亡率减半；另有报道聚焦乳腺致密组织与乳腺癌发生的关联，提示致密乳腺人群的随访筛查价值。",
   "tech_briefs": [],
   "finance_briefs": [],
-  "politics_briefs": [],
-  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
-  "keywords": [],
+  "politics_briefs": [
+    {
+      "title": "Bipartisan Campaign Pledges $100M to Cut U.S. Maternal Mortality Rate in Half",
+      "url": "https://www.medpagetoday.com/obgyn/pregnancy/122964",
+      "source": "MedPage Today",
+      "summary": "由慈善家 Olivia 和 Tom Walton 发起的跨党派项目「Healthy Moms, Healthy Babies America」宣布认捐1亿美元，目标是让美国分娩更安全、将孕产妇死亡率减半。该资金承诺可能推动产科安全改进与相关项目落地，值得关注后续资金投向及对产科实践的影响。",
+      "importance": 8
+    },
+    {
+      "title": "This is how dense breast tissue may lead to cancer",
+      "url": "https://medicalxpress.com/news/2026-09-dense-breast-tissue-cancer.html",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "原文摘要指出，乳腺癌常发生在异常致密的乳腺组织中，因此临床医生会在乳腺X线摄影后对致密乳腺女性安排随访。报道聚焦致密乳腺组织与乳腺癌发生的关联；原文未提供研究设计、样本量或具体机制细节，也未说明与既往建议的差异。",
+      "importance": 4
+    }
+  ],
+  "editor_note": "本期指南与手术栏目暂无合格更新，仅保留两条与孕产妇安全及乳腺肿瘤机制相关的动态，供临床与研究方向参考。",
+  "keywords": [
+    "孕产妇死亡率",
+    "乳腺致密组织",
+    "乳腺癌",
+    "跨党派倡议",
+    "美国产科",
+    "随访筛查",
+    "慈善认捐"
+  ],
   "research": {
-    "generatedAt": "2026-09-12T22:12:01.928Z",
-    "dataAsOf": "2026-09-12T22:12:01.928Z",
+    "generatedAt": "2026-09-12T23:17:38.634Z",
+    "dataAsOf": "2026-09-12T23:17:38.634Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及既往疾病患者的严重孕产妇并发症：一项前瞻性观察性队列研究（ForMaT 试验）、血浆致动脉粥样硬化指数及其改良指数与妊娠期糖尿病的关联：一项基于韩国人群的前瞻性队列研究、精益管理干预对印度尼西亚某国家转诊医院妇科肿瘤手术服务等待时间和服务效率的影响：一项带精益浪费分析的间断时间序列研究。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
@@ -40,15 +63,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "既往疾病患者的严重孕产妇并发症：一项前瞻性观察性队列研究（ForMaT 试验）",
           "researchQuestion": "在既往有疾病的孕产妇中，严重孕产妇并发症（SMM）的发生风险、发生时间及临床背景如何？其结局与健康但存在产科危险因素的孕妇及无并发症妊娠孕妇相比有何差异？",
@@ -60,7 +74,16 @@
           "clinicalInterpretation": "这些观察性队列结果提示，既往疾病与严重孕产妇并发症风险升高相关，且相当比例事件发生在分娩前并与基础疾病有关；该人群的早产和新生儿重症监护病房入住风险也观察到升高。该结果为关联性发现，不能据此推断因果关系或形成临床指令。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "87935f4c63e93e9a9880ce5e9d38610fafc1ea8a95380896c9db1e317228d83f"
+        "summaryInputHash": "87935f4c63e93e9a9880ce5e9d38610fafc1ea8a95380896c9db1e317228d83f",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42723813",
@@ -85,15 +108,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "血浆致动脉粥样硬化指数及其改良指数与妊娠期糖尿病的关联：一项基于韩国人群的前瞻性队列研究",
           "researchQuestion": "妊娠早期血浆致动脉粥样硬化指数（AIP）及其改良指数AIP-BMI、AIP-WC是否与后续妊娠期糖尿病（GDM）相关？它们的预测性能如何比较？",
@@ -105,7 +119,16 @@
           "clinicalInterpretation": "在该样本中，妊娠早期AIP、AIP-BMI和AIP-WC与后续GDM相关，AIP-BMI的表观判别力高于单用AIP。这些发现尚需在直接测量人体测量学的大队列中验证，目前不能据此将上述指数作为临床决策依据。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "4d5079cb36fe1c25e31e3404b65503e0105d59657176820da364f2b11dfc5110"
+        "summaryInputHash": "4d5079cb36fe1c25e31e3404b65503e0105d59657176820da364f2b11dfc5110",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42724072",
@@ -131,15 +154,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "精益管理干预对印度尼西亚某国家转诊医院妇科肿瘤手术服务等待时间和服务效率的影响：一项带精益浪费分析的间断时间序列研究",
           "researchQuestion": "基于精益的专用手术时段对印度尼西亚某国家转诊医院妇科肿瘤手术等待时间和服务效率有何影响？",
@@ -151,7 +165,16 @@
           "clinicalInterpretation": "在该国家转诊医院中，精益导向的专用手术时段与手术等待时间降低、服务效率改善和系统性浪费减少相关，研究提供了结构化排程和精益原则可能改善三级医院时效性手术服务的经验证据。该设计主要支持运营干预与结局变化之间的关联，不应直接推广为其他机构的临床指令。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "815f7d514f456ec97ad4844288fb1849d19b36a9ba7033240412329a7a142ecd"
+        "summaryInputHash": "815f7d514f456ec97ad4844288fb1849d19b36a9ba7033240412329a7a142ecd",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42724096",
@@ -180,15 +203,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "血小板与淋巴细胞比值和母体血清铁蛋白水平对早产的关联及预测性能：一项前瞻性队列研究",
           "researchQuestion": "血小板与淋巴细胞比值（PLR）和母体血清铁蛋白水平与早产发生率的关联如何？二者对早产的预测性能如何？",
@@ -200,7 +214,16 @@
           "clinicalInterpretation": "这些发现支持母体炎症过程可能参与早产发生，并提示PLR和母体血清铁蛋白可能为风险评估提供补充信息。然而其判别性能有限，提示它们不太可能单独作为筛查工具，应与既有临床预测因素联合解读。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "b9c3a888668d1a144fdd0debe358cbb247ac43d6432aa627c2bd743ad2669f6b"
+        "summaryInputHash": "b9c3a888668d1a144fdd0debe358cbb247ac43d6432aa627c2bd743ad2669f6b",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42724217",
@@ -228,15 +251,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "接受化疗的卵巢癌患者营养状态和焦虑与生活质量的关联：印度尼西亚某省级转诊医院的横断面研究",
           "researchQuestion": "在接受化疗的卵巢癌患者中，营养状态和焦虑水平与生活质量（QoL）是否存在相关？",
@@ -248,7 +262,16 @@
           "clinicalInterpretation": "在该横断面样本中，焦虑与接受化疗的卵巢癌患者多个QoL领域呈负相关，而BMI和血清白蛋白未显示显著关联，提示焦虑在该人群中可能比营养状态更突出。作者提出将焦虑的常规筛查和管理整合入肿瘤照护可能有益；但横断面设计不能推断因果关系，该发现不应直接转化为临床指令。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "118c79f1647055462872e56c696bd40de81128b2937b7e9deff24b0060376214"
+        "summaryInputHash": "118c79f1647055462872e56c696bd40de81128b2937b7e9deff24b0060376214",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       }
     ]
   }

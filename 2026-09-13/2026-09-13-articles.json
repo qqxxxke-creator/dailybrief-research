@@ -1,4 +1,29 @@
 {
   "date": "2026-09-13",
-  "articles": []
+  "articles": [
+    {
+      "sourceId": "medpage-today-headlines",
+      "title": "Bipartisan Campaign Pledges $100M to Cut U.S. Maternal Mortality Rate in Half",
+      "url": "https://www.medpagetoday.com/obgyn/pregnancy/122964",
+      "excerpt": "(MedPage Today) -- Healthy Moms, Healthy Babies America, a bipartisan campaign founded by philanthropists Olivia and Tom Walton, announced a $100 million pledge to make giving birth in the U.S. safer. The 5-year commitment aims to cut the maternal...",
+      "publishedAt": "2026-09-12T20:00:00.000Z",
+      "category": "politics",
+      "source": "MedPage Today",
+      "summary": "美国两党 campaign“Healthy Moms, Healthy Babies America”宣布认捐1亿美元，计划用5年将美国孕产妇死亡率减半，以提升分娩安全。",
+      "reviewStatus": "accepted",
+      "lowPriority": false
+    },
+    {
+      "sourceId": "medical-xpress-obgyn",
+      "title": "This is how dense breast tissue may lead to cancer",
+      "url": "https://medicalxpress.com/news/2026-09-dense-breast-tissue-cancer.html",
+      "excerpt": "Breast cancer often grows in tissue that is unusually dense. That's why clinicians flag women with this kind of breast tissue for follow-up after a mammogram.",
+      "publishedAt": "2026-09-08T20:40:05.000Z",
+      "category": "politics",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "内容指出乳腺癌常发生在异常致密的乳腺组织中，临床医生因此会在乳腺X线检查后对乳腺致密女性进行随访。",
+      "reviewStatus": "accepted",
+      "lowPriority": false
+    }
+  ]
 }
