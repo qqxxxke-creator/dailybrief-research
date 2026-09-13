@@ -1,0 +1,239 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-09-13T22:21:10.280Z",
+    "dataAsOf": "2026-09-13T22:21:10.280Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及肥胖与正常体重患者瑞马唑仑镇静下宫腔镜阿芬太尼剂量探索：一项上下法试验、基于整合生物信息学分析的铁死亡相关基因在子宫内膜异位症中的诊断与预测价值、Persistent adverse perinatal outcomes among pregnancies with gestational diabetes in the U.S.。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42732300",
+        "pmid": "42732300",
+        "doi": "10.2147/dddt.s623136",
+        "title": "Dose-Finding of Alfentanil for Hysteroscopy Under Remimazolam Sedation in Obese and Normal-Weight Patients: An Up-and-Down Trial.",
+        "abstract": "BACKGROUND: Hysteroscopy is a minimally invasive procedure with rapid recovery. However, obesity may alter opioid pharmacokinetics and pharmacodynamics, and optimal alfentanil dosing remains uncertain. This study estimated the median effective dose (ED 50 ) and explored the 95% effective dose (ED 95 ) of alfentanil for suppressing predefined procedural responses during hysteroscopy under remimazolam sedation in obese and normal-weight patients.\nMETHODS: This was an up-and-down sequential allocation trial. Patients were classified as obese or normal-weight according to body mass index (BMI). Recruitment and dose allocation were conducted independently within each group until seven crossover pairs were obtained. Alfentanil was administered initially at 10 μg/kg, with subsequent doses adjusted using a 1 μg/kg step size according to the preceding patient's response. Remimazolam was administered as a 0.4 mg/kg bolus followed by infusion at 1 mg/kg/h, titrated to maintain a bispectral index (BIS) of 40-60. The ED50 was initially estimated using the modified Dixon up-and-down method, followed by probit regression to estimate model-derived ED 50 and exploratory ED 95 .\nRESULTS: Sixty patients (31 normal-weight, 29 obese) were enrolled. Probit regression estimated an ED 50 of 9.71 μg/kg (95% confidence interval [CI], 7.81-12.26) in obese patients and 13.67 μg/kg (95% CI, 12.77-15.07) in normal-weight patients (P = 0.001). The corresponding ED 95 estimates were 12.57 μg/kg (95% CI, 10.92-28.28) and 16.24 μg/kg (95% CI, 14.92-21.48), respectively. The wider confidence interval for ED 95 in obese patients indicated limited precision.\nCONCLUSION: The total-body-weight (TBW)-normalized ED 50 of alfentanil was significantly lower in obese than in normal-weight patients (P = 0.001). The ED 95 estimates are model-based and carry substantial uncertainty; no formal hypothesis test was performed for ED 95 comparisons. Close respiratory monitoring and individualized titration remain necessary.",
+        "journal": "Drug design, development and therapy",
+        "authors": [
+          "Jie Zou",
+          "Jindi Cao",
+          "Jinghui Ma",
+          "Jingyan Chen",
+          "Xue Dong",
+          "Yongxin Liang"
+        ],
+        "publicationTypes": [
+          "Case Reports",
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-08T00:00:00.000Z",
+        "activityAt": "2026-09-13T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42732300/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "minimally-invasive-surgery"
+        ],
+        "assignedTopicId": "minimally-invasive-surgery",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 21.25,
+          "clinicalActionability": 7.5,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 0.85
+        },
+        "summaryZh": {
+          "titleZh": "肥胖与正常体重患者瑞马唑仑镇静下宫腔镜阿芬太尼剂量探索：一项上下法试验",
+          "researchQuestion": "在接受瑞马唑仑镇静的宫腔镜操作中，肥胖与正常体重患者使用阿芬太尼抑制预设操作反应的中位有效剂量（ED50）和95%有效剂量（ED95）分别是多少？",
+          "studyDesign": "上下法序贯分配试验。",
+          "populationAndSample": "共纳入60例患者，其中正常体重31例、肥胖29例；按体重指数（BMI）分为肥胖或正常体重组。每组内独立招募并进行剂量分配，直至获得7个交叉配对。",
+          "methods": "阿芬太尼初始剂量为10 μg/kg，后续剂量根据前一位患者的反应以1 μg/kg步长调整。瑞马唑仑以0.4 mg/kg弹丸注射后按1 mg/kg/h输注，滴定维持脑电双频指数（BIS）40–60。ED50先用改良Dixon上下法估计，随后用probit回归估计模型推导的ED50及探索性ED95。",
+          "keyResults": "probit回归估计肥胖患者ED50为9.71 μg/kg（95% CI 7.81–12.26），正常体重患者为13.67 μg/kg（95% CI 12.77–15.07）（P=0.001）。相应ED95估计分别为12.57 μg/kg（95% CI 10.92–28.28）和16.24 μg/kg（95% CI 14.92–21.48）。肥胖患者ED95的置信区间更宽，提示精度有限。结论指出，阿芬太尼按总体重（TBW）标准化的ED50在肥胖患者中显著低于正常体重患者（P=0.001）；ED95估计基于模型且存在较大不确定性；未对ED95比较进行正式假设检验；仍需密切呼吸监测和个体化滴定。",
+          "limitations": "ED95估计基于模型且具有较大不确定性；肥胖患者ED95置信区间更宽，精度有限；未对ED95比较进行正式假设检验。",
+          "clinicalInterpretation": "该上下法试验显示，按总体重标准化后，肥胖患者抑制预设宫腔镜操作反应的阿芬太尼ED50低于正常体重患者；摘要强调仍需密切呼吸监测和个体化滴定，ED95结果不确定性较大。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "d1eb19eac1031b3482108832e6f91edaf0a6f426b782b9cbdd431be63f561406"
+      },
+      {
+        "id": "pmid:42728524",
+        "pmid": "42728524",
+        "doi": "10.1007/s43032-026-02142-3",
+        "title": "Diagnostic and Predictive Values of Ferroptosis-Related Genes in Endometriosis Based on Integrated Bioinformatic Analysis.",
+        "abstract": "Endometriosis (EMs) is a prevalent gynecological disorder. Ferroptosis, known as a novel type of programmed cell death, contributes to EMs pathogenesis by promoting ectopic endometrial migration. This study was designed to investigate ferroptosis-related genes as diagnostic/predictive biomarkers for EMs using bioinformatics. EMs-related datasets were obtained from the Gene Expression Omnibus (GEO) database, while ferroptosis-related data were retrieved from the FerrDb database. Through differential expression analysis (Limma), weighted gene co-expression network analysis (WGCNA), functional enrichment analysis (GO, KEGG, and Metascape), protein-protein interaction (PPI) network analysis, LASSO regression, Random Forest algorithm, immune infiltration analysis, and matrix correlation analysis, miRNA-target gene regulatory network was constructed. Identification of the potential immune-related hub genes and their regulatory miRNAs was performed to develop early diagnostic strategies, prognostic biomarkers, and therapeutic targets for EMs. Bioinformatics analysis revealed 18 differentially expressed genes (DEGs) and 36 WGCNA module genes associated with ferroptosis in EMs. Eleven core genes were identified, and a multi-gene predictive logistic regression model was established. LASSO regression and Random Forest analyses refined the selection to six genes: BRD7, OSBPL9, AGPS, NRAS, PEX12, and NCOA4, with high diagnostic value. CIBERSORT analysis showed that immune microenvironment alterations in EMs may be closely related to these six hub genes. Additionally, three key miRNAs-hsa-mir-125a-5p, hsa-mir-218-5p, and hsa-mir-124-3p-were predicted. The six immune-related hub genes (BRD7, OSBPL9, AGPS, NRAS, PEX12, and NCOA4) and three regulatory miRNAs (hsa-mir-125a-5p, hsa-mir-218-5p, and hsa-mir-124-3p) may serve as promising targets for the early diagnosis, prognostic evaluation, and therapeutic intervention of EMs.",
+        "journal": "Reproductive sciences (Thousand Oaks, Calif.)",
+        "authors": [
+          "Adilai Maimaitimin",
+          "Buhaiqiemu Kadeer",
+          "Nuramatjan Ablat",
+          "Shaadaiti Wufuer",
+          "Xiaopeng Li",
+          "Zhifang Chen"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-11T00:00:00.000Z",
+        "activityAt": "2026-09-13T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42728524/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "基于整合生物信息学分析的铁死亡相关基因在子宫内膜异位症中的诊断与预测价值",
+          "researchQuestion": "利用生物信息学方法，探讨铁死亡相关基因是否可作为子宫内膜异位症（EMs）的诊断/预测生物标志物，并寻找早期诊断策略、预后生物标志物和治疗靶点？",
+          "studyDesign": "生物信息学分析研究。",
+          "populationAndSample": "EMs相关数据集来自基因表达综合数据库（GEO），铁死亡相关数据来自FerrDb数据库；摘要未报告具体样本量或人群特征。",
+          "methods": "采用Limma差异表达分析、加权基因共表达网络分析（WGCNA）、功能富集分析（GO、KEGG和Metascape）、蛋白-蛋白相互作用（PPI）网络分析、LASSO回归、随机森林算法、免疫浸润分析（CIBERSORT）和矩阵相关分析，并构建miRNA-靶基因调控网络。",
+          "keyResults": "生物信息学分析发现18个差异表达基因（DEGs）和36个与EMs中铁死亡相关的WGCNA模块基因。识别出11个核心基因，并建立多基因预测logistic回归模型。LASSO回归和随机森林分析将选择精炼至6个基因：BRD7、OSBPL9、AGPS、NRAS、PEX12和NCOA4，具有较高诊断价值。CIBERSORT分析显示EMs免疫微环境改变可能与这6个枢纽基因密切相关。此外预测出3个关键miRNA：hsa-mir-125a-5p、hsa-mir-218-5p和hsa-mir-124-3p。结论认为这6个免疫相关枢纽基因和3个调控miRNA可能作为EMs早期诊断、预后评估和治疗干预的有前景靶点。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "该生物信息学研究提出6个免疫相关枢纽基因和3个miRNA可能作为EMs早期诊断、预后评估和治疗干预的有前景靶点；摘要未报告临床验证或可直接应用的诊断/治疗建议。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "b1e66c0ad8a361f7a01ae5e6d62b0b068e1d71206a52953409cde40dcc141b44"
+      },
+      {
+        "id": "pmid:42728719",
+        "pmid": "42728719",
+        "doi": "10.1055/a-2957-5259",
+        "title": "Persistent adverse perinatal outcomes among pregnancies with gestational diabetes in the U.S.",
+        "abstract": "OBJECTIVES: To evaluate the prevalence of large-for-gestational-age (LGA) births and hypertensive disorders of pregnancy (HDP) among pregnant individuals with gestational diabetes mellitus (GDM) following the 2014 U.S. Preventive Services Task Force (USPSTF) universal screening recommendation Study Design: We analyzed linked U.S. birth and infant death datasets for singleton, non-anomalous births delivered between 230/7 and 426/7 weeks' gestation from 2014-2022. Multivariate Poisson regression models estimated the independent association between GDM and LGA, SGA or HDP.\nRESULTS: Among the 31,791,459 total births included in the analysis, 6.8% had GDM and the LGA prevalence declined from 17.9% in 2014 to 14.9% in 2022 (risk ratio [RR] 0.83; 95% CI 0.82-0.84; rate difference -3.06%) without an increase in rates of small-for-gestational age infants (SGA). However, the overall frequency of LGA among pregnancies complicated by GDM were higher than pregnancies that were not complicated by GDM in the U.S. during this study period ([GDM] 16.2% vs. [non-GDM] 10.8%, P <0.001; RR 1.53 [95% CI 1.52-1.54]). In contrast, HDP prevalence increased from 11.1% to 15.5% during the same period among pregnancies complicated by GDM (RR 1.40; 95% CI 1.38-1.42; rate difference 4.46%). GDM remained independently associated with LGA (aRR 1.34 [95% CI 1.33-1.34]) and HDP (aRR 1.67 [1.66-1.68]).\nCONCLUSION: While universal GDM screening and current management strategies have reduced LGA at the population level, LGA still remains persistently higher than non-GDM pregnancies and HDP rates continue to rise. Future studies should focus on innovative interventions to improve outcomes.",
+        "journal": "American journal of perinatology",
+        "authors": [
+          "Aaron B Caughey",
+          "Amy M Valent",
+          "Bharti Garg",
+          "Teri Hernandez"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-11T00:00:00.000Z",
+        "activityAt": "2026-09-13T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42728719/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42728889",
+        "pmid": "42728889",
+        "doi": "10.1111/phn.70186",
+        "title": "Why Women Don't Return: Nurse Perspectives on Follow-Up Care After Abnormal Cervical Cancer Screening Results in Mississippi's Public Health System.",
+        "abstract": "OBJECTIVE: To explore public health nurses' perspectives on reasons women in Mississippi may fail to receive follow-up care after abnormal cervical cancer (CC) screenings.\nBACKGROUND: Mississippi's high cervical cancer mortality rate poses a significant public health challenge. Understanding public health nurses' perspectives on barriers to follow-up may help improve timely diagnostic care.\nMETHODS: This qualitative descriptive study used focus groups to examine barriers and facilitators to follow-up care. Sixteen registered nurses who manage follow-up care in Mississippi public health clinics participated in five virtual focus groups. Participants represented diverse ages and experience levels (mean age 45.5 years; mean 10 years' experience). Semi-structured interviews elicited perspectives on patient, nursing, and system-level barriers and facilitators. Data was thematically analyzed.\nRESULTS: Three overarching barriers emerged: patient-level (limited health literacy, financial constraints, unreliable contact information), nursing-level (language differences, staffing shortages, declining motivation), and system-level (underuse of electronic health records, limited access to specialty care). Facilitators included early patient education, proactive communication, language resources, adequate staffing and training, and full utilization of electronic health record tools.\nCONCLUSION: Nurses identified multilevel barriers and facilitators influencing CC follow-up in Mississippi. These insights can inform strategies to improve follow-up care and reduce CC disparities in rural and underserved populations.",
+        "journal": "Public health nursing (Boston, Mass.)",
+        "authors": [
+          "Amy Parker",
+          "Carolann Risley",
+          "Christina D Ferrell",
+          "Jimmie Wells",
+          "Jon Daniels",
+          "Katherine C Hall",
+          "Katherine Farrington",
+          "Mary W Stewart",
+          "Megan A Clarke",
+          "Nicholas Wentzensen",
+          "Rhonda Rives",
+          "Sydney Reaves"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-12T00:00:00.000Z",
+        "activityAt": "2026-09-13T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42728889/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42728918",
+        "pmid": "42728918",
+        "doi": "10.12688/f1000research.166604.2",
+        "title": "Evaluation and Clinical Relevance of Plan Quality Indices in Intracavitary Brachytherapy for Cervical Cancer.",
+        "abstract": "BACKGROUND: Cervical cancer remains to be a significant health concern globally, with India contributing to nearly one-quarter of cases worldwide. Intracavitary brachytherapy (ICBT) combined with external beam radiotherapy (EBRT) is the standard of care, optimizing tumour dose while sparing normal tissues. Plan quality indices such as Dose Homogeneity Index (DHI), Overdose Index (OI), Dose Non-uniformity Ratio (DNR), and Conformity Index (COIN) are crucial in evaluating treatment plans, yet their predictive clinical relevance remains underexplored.\nMETHODOLOGY: In this Retrospective study, 84 patients with histologically confirmed cervical cancer undergoing definitive chemoradiation followed by CT-based HDR ICBT (Co-60) were evaluated. Plan indices were calculated per ICRU 89 and GEC-ESTRO guidelines. Correlation with tumour response (RECIST v1.1), toxicity (≥ grade 2 bladder/rectal), and clinical factors (FIGO stage, HRCTV volume, EQD2, BED, treatment duration) was assessed using t-tests, regression analyses, and Pearson's correlation.\nRESULTS: Mean DHI was 0.403; OI 0.358; DNR 0.594; COIN 0.636. Higher DHI (p=0.019) and lower OI (p=0.004) were associated with tumour response; DNR and COIN were not significant. No plan index predicted ≥ grade 2 bladder or rectal toxicity. COIN correlated poorly with other indices. Multiple regression showed no consistent predictors of dosimetric indices. Logistic regression did not establish any index as a definitive predictor of 3-month response.\nCONCLUSION: Plan quality indices provide useful quantitative insights into dose distribution in High dose rate intracavitary brachytherapy for cervical cancer. In this study, DHI and OI showed an association with early tumour response, while no significant correlation was observed between plan indices and treatment-related toxicity.",
+        "journal": "F1000Research",
+        "authors": [
+          "Abhishek Krishna",
+          "Athiyamaan Ms",
+          "Bharat Sai Makkapati",
+          "Challapalli Srinivas",
+          "Dilson Lobo",
+          "Johan Sunny",
+          "Juvie Leona Lobo",
+          "Paul Simon",
+          "Pooja Ms",
+          "Sourjya Banerjee"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-19T00:00:00.000Z",
+        "activityAt": "2026-09-13T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42728918/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      }
+    ]
+  }
+}
