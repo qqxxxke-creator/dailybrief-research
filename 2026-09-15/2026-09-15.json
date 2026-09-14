@@ -1,0 +1,245 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-09-14T22:25:56.777Z",
+    "dataAsOf": "2026-09-14T22:25:56.777Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及使用澳大利亚行政健康数据确定卵巢癌治疗信息：与病历的验证研究、Mirvetuximab Soravtansine治疗复发性卵巢癌的真实世界结局：来自大学附属机构的结果、Linustedastat (OG-6219)治疗中重度子宫内膜异位症相关疼痛女性的一项2a/b期随机双盲安慰剂对照平行组疗效与安全性研究。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42734015",
+        "pmid": "42734015",
+        "doi": "10.1071/pu25097",
+        "title": "Using administrative health data to ascertain ovarian cancer treatment information in Australia: a validation against medical records.",
+        "abstract": "OBJECTIVES: Understanding patterns of cancer care is important for improving patient safety and reducing inequity. Linked administrative datasets offer a cost-efficient alternative to medical chart abstraction, but the information may not be as comprehensive and accurate. Our aim was to determine the validity of using linked administrative data to identify ovarian cancer primary treatment in Australia, using data from medical charts for comparison.\nMETHODS: We used data from the Ovarian cancer Prognosis And Lifestyle study, a national prospective cohort study including women diagnosed with ovarian cancer from 2012 to 2015. Treatment information collected via medical records was used as the reference standard. Linked administrative data were obtained from national (Medicare Benefits Schedule, Pharmaceutical Benefits Scheme) and state/territory (hospital admitted patient data collections) data linkage units. The data were partitioned into training (60%, n = 413) and validation (40%, n = 271) datasets. Initial definitions were developed and further refined using the training set and based on clinical advice. The final definitions were assessed using the validation set. Sensitivity, specificity, negative predictive value, positive predictive value and kappa were calculated for receipt of treatment, whereas agreement was assessed for dates and continuous measures.\nRESULTS: Sensitivity and specificity were high for receipt of chemotherapy (99%, 100%), cytoreductive surgery (97%, 100%), platinum-based chemotherapy (97%, 100%), taxane-based chemotherapy (98%, 88%), intra-peritoneal chemotherapy (93%, 99%) and whether chemotherapy was given in the adjuvant setting (100%, 90%). Agreement for treatment dates was high for surgery (exact agreement 90%, 97% ±7 days) and first chemotherapy (85%, 96% ±7 days). Agreement was moderately high for end of primary chemotherapy (72%, 82% ±7 days), number of chemotherapy cycles (65%, 89% ±1 cycle) and chemotherapy regimen (86%).\nCONCLUSIONS: Linked administrative data can provide accurate information on core aspects of ovarian cancer treatment when there are barriers to accessing patient medical records.",
+        "journal": "Public health research & practice",
+        "authors": [
+          "Jim Codde",
+          "Kate Gersekowski",
+          "Paul A Cohen",
+          "Penelope M Webb",
+          "Peter Grant",
+          "Susan J Jordan"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Validation Study"
+        ],
+        "publishedAt": "2026-09-24T00:00:00.000Z",
+        "activityAt": "2026-09-14T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42734015/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 17.5,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 92.5,
+          "evidenceRank": 0.7
+        },
+        "summaryZh": {
+          "titleZh": "使用澳大利亚行政健康数据确定卵巢癌治疗信息：与病历的验证研究",
+          "researchQuestion": "评价使用澳大利亚链接行政数据识别卵巢癌主要治疗信息的有效性，以医疗病历数据作为参照标准。",
+          "studyDesign": "验证性研究，基于卵巢癌预后与生活方式（Ovarian cancer Prognosis And Lifestyle）全国前瞻性队列，使用病历作为参考标准，并与链接行政数据比较。",
+          "populationAndSample": "纳入2012至2015年诊断卵巢癌的女性；数据划分为训练集60%（n=413）和验证集40%（n=271）。",
+          "methods": "链接行政数据来自全国（Medicare Benefits Schedule、Pharmaceutical Benefits Scheme）以及州/领地（医院住院患者数据收集）数据链接单元。在训练集中建立并基于临床建议进一步完善定义，最终定义在验证集中评估。针对是否接受治疗计算敏感性、特异性、阴性预测值、阳性预测值和kappa；针对日期和连续变量评估一致性。",
+          "keyResults": "化疗接受情况（敏感性99%、特异性100%）、减瘤手术（97%、100%）、铂类化疗（97%、100%）、紫杉烷类化疗（98%、88%）、腹腔内化疗（93%、99%）以及辅助化疗（100%、90%）的敏感性和特异性均较高。手术日期一致性高（完全一致90%，±7天97%），首次化疗日期一致性高（85%，±7天96%）。主要化疗结束日期一致性中等偏高（72%，±7天82%），化疗周期数（65%，±1周期89%），化疗方案（86%）。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "在难以获取患者病历的情况下，链接行政数据可能为卵巢癌治疗的核心内容提供准确信息；该结论来自验证性研究，具体应用取决于数据系统、链接质量和所采用的定义。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "6c08e6e127e0e8c6976f91600926fc2e7cee4b05c648752ce362f5e0cad64577"
+      },
+      {
+        "id": "pmid:42733650",
+        "pmid": "42733650",
+        "doi": "10.1016/j.gore.2026.102197",
+        "title": "Real-world outcomes after Mirvetuximab Soravtansine treatment for recurrent ovarian Cancer: Results from a university setting.",
+        "abstract": "BACKGROUND: Mirvetuximab Soravtansine (MIRV) is an antibody-drug conjugate targeting folate receptor alpha (FRα), expressed in most ovarian cancers. Pivotal trials reported favorable outcomes but used stringent eligibility criteria, and real-world effectiveness and toxicity remain incompletely characterized. We evaluated overall survival (OS), progression-free survival (PFS), and toxicity among a general gynecologic oncology population treated with MIRV for recurrent ovarian cancer.\nMETHODS: This retrospective study analyzed data from patients with recurrent ovarian cancer who received MIRV at a tertiary NCI-designated cancer center and an affiliated private hospital between November 2022 and April 2025. Demographics, disease and treatment characteristics, and toxicities were abstracted from the electronic medical record. OS and PFS were estimated using the Kaplan-Meier method. Multivariable Cox proportional hazards models assessed associations between clinical factors and survival.\nRESULTS: Sixty-six patients received MIRV. Most had stage IIIC-IVB disease (89%), 86% had a PS of 0 or 1, and 77% had received ≥3 prior therapeutic regimens. Most (52%) had platinum-resistant disease, and FRα expression was positive in 77% of cases. Median OS was 16.4 months (95% CI 12.4 to NE) and PFS was 5.3 months (95% CI 4.1-7.1). OS and PFS did not differ by platinum status. ECOG PS >1 was associated with worse OS (median 6.0 vs 20.3 months for PS 0-1; P = 0.0006). Toxicity was common (91%).\nCONCLUSION: MIRV demonstrates clinically meaningful survival, but outcomes are strongly influenced by performance status. Patients with ECOG PS >1 should be counseled about substantially shorter survival, and clinicians should anticipate and manage MIRV toxicities.",
+        "journal": "Gynecologic oncology reports",
+        "authors": [
+          "Anna V Jones",
+          "Brooke E Sanders",
+          "Dong Wang",
+          "L Stewart Massad",
+          "Mary M Mullen",
+          "Rachel L Furuya"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-01T00:00:00.000Z",
+        "activityAt": "2026-09-14T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42733650/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "Mirvetuximab Soravtansine治疗复发性卵巢癌的真实世界结局：来自大学附属机构的结果",
+          "researchQuestion": "在接受Mirvetuximab Soravtansine（MIRV）治疗的复发性卵巢癌一般妇科肿瘤人群中，评估总生存期（OS）、无进展生存期（PFS）和毒性。",
+          "studyDesign": "回顾性研究，分析2022年11月至2025年4月期间在一家NCI指定三级癌症中心和一家附属私立医院接受MIRV治疗的患者数据。",
+          "populationAndSample": "66例接受MIRV的复发性卵巢癌患者；大多数为IIIC–IVB期（89%），86%的PS为0或1，77%既往接受过≥3线治疗，52%为铂耐药，77%FRα表达阳性。",
+          "methods": "从电子病历中提取人口学、疾病与治疗特征及毒性；采用Kaplan-Meier法估计OS和PFS；多变量Cox比例风险模型评估临床因素与生存之间的关联。",
+          "keyResults": "中位OS为16.4个月（95% CI 12.4至NE），中位PFS为5.3个月（95% CI 4.1–7.1）。OS和PFS在铂敏感状态间无差异。ECOG PS >1与更差OS相关（中位6.0个月 vs PS 0–1的20.3个月；P=0.0006）。毒性常见（91%）。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "在这项真实世界回顾性分析中，MIRV显示出有临床意义的生存期，但结局受体能状态强烈影响；作者结论提出ECOG PS >1患者生存期显著更短，临床需预期并管理MIRV毒性。该结果来自回顾性单中心及附属医院数据，不能直接外推为指南或治疗指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "7a4471d9b08cae0197bf3d933696081cad76d233d387ace8ce93cee2781a9e47"
+      },
+      {
+        "id": "pmid:42733850",
+        "pmid": "42733850",
+        "doi": "10.2147/ijwh.s622776",
+        "title": "A Phase 2a/b, Randomized, Double-Blind, Placebo-Controlled, Parallel Group, Study to Evaluate the Efficacy and Safety of Linustedastat (OG-6219) in Women with Moderate to Severe Endometriosis-Related Pain.",
+        "abstract": "PURPOSE: Endometriosis causes pelvic pain, dysmenorrhea (DYS), dyspareunia, and fertility issues. Linustedastat (OG-6219) is an oral, selective inhibitor of 17β-hydroxysteroid dehydrogenase type 1 (HSD17β1), an enzyme involved in local estradiol biosynthesis. This study evaluated the efficacy, safety, and tolerability of linustedastat in pre-menopausal women aged 18-49 years with moderate to severe endometriosis-related pain (ERP).\nPATIENTS AND METHODS: In this global, phase 2a/b randomized, double-blind, placebo-controlled, multicenter study, eligible participants were randomized (1:1:1:1) to linustedastat 50/100/150mg twice daily, or placebo, for up to 12 weeks. Primary efficacy and safety endpoints were change in mean overall pelvic pain (OPP) score from baseline cycle (BC) to treatment cycle 3 (TRC3) and the proportion of participants reporting treatment-emergent adverse events (TEAEs), or serious adverse events (SAEs) during the study period, respectively. Secondary efficacy endpoints included change in DYS, non-menstrual pelvic pain (NMPP) and dyspareunia scores, and mean number of rescue medication tablets used from BC to TRC3. Key pharmacodynamic parameters were assessed. Pairwise comparisons were conducted between each dose group and placebo, and the differences were presented with 95% CI and two-sided p-values.\nRESULTS: Overall, 353 patients (mean age of 35.2 years) were included. No statistically significant differences were reported between linustedastat and placebo for OPP, DYS, NMPP, or dyspareunia scores or in the number of rescue medication tablets used compared to placebo (p>0.05) at any dose. Serum estrogens levels showed statistically significant differences versus placebo at visit 5 and visit 7; serum progesterone levels showed no differences. Linustedastat was generally well tolerated, with TEAEs of mild to moderate severity. A dose-related trend of methemoglobinemia was observed.\nCONCLUSION: Despite a theoretical rationale, selective inhibition of HSD17β1 with linustedastat did not show any trends indicative of clinical efficacy in reducing ERP. Linustedastat was safe and well tolerated in pre-menopausal women with moderate to severe ERP.\nCLINICAL TRIAL REGISTRATION INFORMATION: A Study to Investigate Efficacy and Safety of OG-6219 BID in 3 Dose Levels Compared With Placebo in Participants Aged 18 to 49 With Moderate to Severe Endometriosis-related Pain (ELENA); NCT05560646; https://clinicaltrials.gov/study/NCT05560646.",
+        "journal": "International journal of women's health",
+        "authors": [
+          "Daniela Colaci",
+          "Felipe Arbelaez",
+          "Julia Yureneva",
+          "Keith Gordon",
+          "Krzysztof Wilk",
+          "Leon Dupclay",
+          "Per Larsson"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-09T00:00:00.000Z",
+        "activityAt": "2026-09-14T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42733850/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "Linustedastat (OG-6219)治疗中重度子宫内膜异位症相关疼痛女性的一项2a/b期随机双盲安慰剂对照平行组疗效与安全性研究",
+          "researchQuestion": "在18–49岁中重度子宫内膜异位症相关疼痛（ERP）的绝经前女性中，评价linustedastat（OG-6219）的疗效、安全性和耐受性。",
+          "studyDesign": "全球、2a/b期、随机、双盲、安慰剂对照、多中心研究；参与者按1:1:1:1随机分配。",
+          "populationAndSample": "共纳入353例患者，平均年龄35.2岁；为18–49岁、患有中重度ERP的绝经前女性。",
+          "methods": "随机接受linustedastat 50/100/150 mg每日两次或安慰剂，最长12周。主要疗效终点为基线周期（BC）至治疗周期3（TRC3）的平均总体盆腔痛（OPP）评分变化；主要安全性终点为研究期间报告治疗中出现的不良事件（TEAEs）或严重不良事件（SAEs）的比例。次要疗效终点包括DYS、非经期盆腔痛（NMPP）和性交痛评分变化，以及BC至TRC3平均急救药物片数；评估关键药效学参数。各剂量组与安慰剂进行成对比较，差异以95% CI和双侧p值表示。",
+          "keyResults": "在各剂量下，linustedastat与安慰剂在OPP、DYS、NMPP、性交痛评分或急救药物片数方面均无统计学显著差异（p>0.05）。血清雌激素水平在第5次和第7次访视时与安慰剂相比有统计学显著差异；血清孕酮水平无差异。linustedastat总体耐受良好，TEAEs为轻至中度；观察到高铁血红蛋白血症的剂量相关趋势。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "尽管有理论依据，选择性抑制HSD17β1的linustedastat在本试验中未显示降低ERP的临床疗效趋势；在绝经前中重度ERP女性中安全且耐受良好。该结论来自一项2a/b期试验，需后续研究验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "2434a00111256cb77b9935b06730e527bb513fd3908c5d201d7f6ca19af238e7"
+      },
+      {
+        "id": "pmid:42734152",
+        "pmid": "42734152",
+        "doi": "10.1002/ptr.70446",
+        "title": "Chaetocin Induces Ferroptosis in Cisplatin-Resistant Ovarian Cancer Cells Through Neddylation-Mediated TFRC Upregulation.",
+        "abstract": "Ovarian cancer (OV) is a highly lethal gynecological tumor, often developing platinum chemotherapy resistance and treatment failure. With their diverse and complex structures, natural products offer potential solutions to drug resistance. This study systematically examines chaetocin's effects on cisplatin-resistant OV cells and its underlying molecular mechanisms. We utilized a cell counting Kit-8, transwell assays, flow cytometry, immunohistochemistry, and western blotting to evaluate chaetocin's effects on cisplatin-resistant OV cells. Proteomic analysis and bioinformatics were utilized to identify the molecular targets of chaetocin, which were validated via cell transfection and co-immunoprecipitation. Additionally, a cisplatin-resistant OV xenograft model was developed for in vivo studies. Chaetocin suppressed the malignancy of cisplatin-resistant OV cells in a dose-dependent manner to suppress cell proliferation, impede cell migration and invasion, and induce both cell apoptosis and cell cycle arrest. Furthermore, in vivo studies showed that chaetocin inhibited tumor growth in a cisplatin-resistant OV xenograft model. In terms of mechanism, chaetocin induced ferroptosis in these cells, inhibiting TFRC ubiquitination and upregulating its expression by reducing the levels of cullin1 and its neddylation binding (cullin1-NEDD8). Our study uncovers a previously unrecognized mechanism: Chaetocin induces ferroptosis by inhibiting TFRC neddylation to upregulate its expression in OV. Unlike its known role as an SUV39H1 inhibitor, chaetocin functions through the neddylation-TFRC-ferroptosis axis, a pathway not previously linked to this compound. Moreover, while neddylation has recently been reported to regulate ferroptosis via SLC7A11, our study reveals an entirely distinct mechanism involving TFRC-mediated iron transport. This epigenetic regulation stabilizes TFRC, sensitizing resistant cells to ferroptosis, providing a dual-mechanistic insight not found in existing literature. By linking chaetocin's gene regulation to iron-dependent cell death, we offer new insights and potential therapies for cisplatin-resistant OV.",
+        "journal": "Phytotherapy research : PTR",
+        "authors": [
+          "Hanfei Xie",
+          "Lu Sun",
+          "Tao Zhu",
+          "Wangang Gong",
+          "Wumin Dai",
+          "Yingli Zhang"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-14T00:00:00.000Z",
+        "activityAt": "2026-09-14T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42734152/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "Chaetocin通过Neddylation介导的TFRC上调诱导顺铂耐药卵巢癌细胞铁死亡",
+          "researchQuestion": "系统检验chaetocin对顺铂耐药卵巢癌（OV）细胞的作用及其潜在分子机制。",
+          "studyDesign": "临床前研究，包括体外细胞实验和顺铂耐药OV异种移植模型的体内研究。",
+          "populationAndSample": "顺铂耐药OV细胞；以及顺铂耐药OV异种移植模型。未报告人类受试者样本。",
+          "methods": "使用CCK-8、Transwell实验、流式细胞术、免疫组织化学和蛋白质印迹评估chaetocin对顺铂耐药OV细胞的影响；用蛋白质组学分析和生物信息学识别分子靶点，并通过细胞转染和共免疫沉淀验证；建立顺铂耐药OV异种移植模型进行体内研究。",
+          "keyResults": "Chaetocin以剂量依赖性方式抑制顺铂耐药OV细胞的恶性程度，抑制细胞增殖，阻碍迁移和侵袭，并诱导细胞凋亡和细胞周期阻滞。体内研究显示，chaetocin抑制顺铂耐药OV异种移植模型的肿瘤生长。机制上，chaetocin在这些细胞中诱导铁死亡，通过降低cullin1及其neddylation结合（cullin1-NEDD8）水平，抑制TFRC泛素化并上调其表达。研究提出，chaetocin通过neddylation–TFRC–铁死亡轴发挥作用，而非其已知的SUV39H1抑制角色；该机制不同于近期报道的经SLC7A11调控铁死亡，涉及TFRC介导的铁转运，这种表观遗传调控稳定TFRC，使耐药细胞对铁死亡敏感。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "该临床前研究提示，chaetocin可通过neddylation–TFRC–铁死亡轴在顺铂耐药OV中发挥作用，为顺铂耐药OV提供了潜在治疗方向；但尚需进一步研究以明确其临床转化价值。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "c4ae5f337f450f07a2eb45383a2df3429299910775f00c897e2d12a4603aed71"
+      },
+      {
+        "id": "doi:10.1111/1471-0528.70256",
+        "doi": "10.1111/1471-0528.70256",
+        "title": "Efficacy and Safety of Elagolix Versus Dienogest for Treatment of Moderate‐to‐Severe Endometriosis Pain: A Phase III, Multicentric, Double‐Blind, Active‐Controlled, Non‐Inferiority Study",
+        "abstract": "ABSTRACT Objective To compare the efficacy, safety and tolerability of elagolix with dienogest in women with moderate-to-severe endometriosis-associated pain. Design A multicentre, double-blind, double-dummy, randomised, parallel-group, active-controlled, non-inferiority phase III study. Setting Nineteen clinical centres across India. Study Population Women (18–49 years) diagnosed with endometriosis and experiencing moderate-to-severe pain. Methods Participants were randomised (1:1) to receive oral elagolix (150 mg once daily) or dienogest (2 mg once daily) for 24 weeks. Outcome Measures The primary outcome was change in endometriosis-related pain (Numeric Rating Scale [NRS]) from baseline to Day 85. Secondary outcomes included changes in NRS (Day 169), dysmenorrhoea, non-menstrual pelvic pain (NMPP) scores (Days 85 and 169), rescue medication use, patient global impression of change (PGIC), adverse events and bone mineral density. Results Of 340 patients screened, 230 were randomised (115 per group). At Day 85, both arms showed similar reductions in NRS pain scores with a treatment difference of 0.04 (95% CI: −0.3, 0.37) [p = 0.9747] demonstrating non-inferiority as upper 95% CI was below pre-specified margin of 1.5. At Day 169, both arms showed comparable improvements in overall pain, dysmenorrhoea and NMPP from baseline (p = 0.9372, p = 0.8884, and p = 0.9616, respectively). Rescue medication use and PGIC were comparable between treatment arms. Adverse event incidence was similar (elagolix: 14.8%; dienogest: 19.1%), with no serious TEAEs or discontinuations. No significant bone mineral density changes were observed. Conclusions Elagolix demonstrated non-inferiority to dienogest with an acceptable safety and tolerability profile, supporting its use in managing endometriosis-associated pain. Trial Registration ClinicalTrials.gov identifier: CTRI/2023/01/049292",
+        "journal": "BJOG",
+        "authors": [
+          "Sneha Bhoir, \nJaldhara Patel, \nTushar Palve, \nMrinal Kanti Dash, \nSweety Saigal, \nGourisankar Kamilya, \nShalini Srivastava, \nKartikbhai Savalia, \nTanusree Gupta, \nDeepa Choudhary, \nManohar Rangaswamy, \nVidya V Bhatt, \nNeena Gupta, \nMalathi Ponnuru, \nParul Shah, \nApurva Shetty, \nShruti Saha, \nReshma Quadros, \nSucheta Pandit, \nDipak Patil, \nPiyush Patel, \nPravin Ghadge, \nLalit Lakhwani, \nSuyog Mehta, \nSadhana Joglekar"
+        ],
+        "publicationTypes": [],
+        "publishedAt": "2026-09-13T23:49:20.000Z",
+        "activityAt": "2026-09-13T23:49:20.000Z",
+        "url": "https://obgyn.onlinelibrary.wiley.com/doi/10.1111/1471-0528.70256?af=R",
+        "sourceKinds": [
+          "journal-rss"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      }
+    ]
+  }
+}
