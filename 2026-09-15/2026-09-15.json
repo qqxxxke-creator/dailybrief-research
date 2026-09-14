@@ -7,8 +7,8 @@
   "editor_note": "过去24小时暂无符合质量要求的重要更新。",
   "keywords": [],
   "research": {
-    "generatedAt": "2026-09-14T22:25:56.777Z",
-    "dataAsOf": "2026-09-14T22:25:56.777Z",
+    "generatedAt": "2026-09-14T23:58:26.265Z",
+    "dataAsOf": "2026-09-14T23:58:26.265Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及使用澳大利亚行政健康数据确定卵巢癌治疗信息：与病历的验证研究、Mirvetuximab Soravtansine治疗复发性卵巢癌的真实世界结局：来自大学附属机构的结果、Linustedastat (OG-6219)治疗中重度子宫内膜异位症相关疼痛女性的一项2a/b期随机双盲安慰剂对照平行组疗效与安全性研究。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
@@ -40,15 +40,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 17.5,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 92.5,
-          "evidenceRank": 0.7
-        },
         "summaryZh": {
           "titleZh": "使用澳大利亚行政健康数据确定卵巢癌治疗信息：与病历的验证研究",
           "researchQuestion": "评价使用澳大利亚链接行政数据识别卵巢癌主要治疗信息的有效性，以医疗病历数据作为参照标准。",
@@ -60,7 +51,16 @@
           "clinicalInterpretation": "在难以获取患者病历的情况下，链接行政数据可能为卵巢癌治疗的核心内容提供准确信息；该结论来自验证性研究，具体应用取决于数据系统、链接质量和所采用的定义。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "6c08e6e127e0e8c6976f91600926fc2e7cee4b05c648752ce362f5e0cad64577"
+        "summaryInputHash": "6c08e6e127e0e8c6976f91600926fc2e7cee4b05c648752ce362f5e0cad64577",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 17.5,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 92.5,
+          "evidenceRank": 0.7
+        }
       },
       {
         "id": "pmid:42733650",
@@ -89,15 +89,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "Mirvetuximab Soravtansine治疗复发性卵巢癌的真实世界结局：来自大学附属机构的结果",
           "researchQuestion": "在接受Mirvetuximab Soravtansine（MIRV）治疗的复发性卵巢癌一般妇科肿瘤人群中，评估总生存期（OS）、无进展生存期（PFS）和毒性。",
@@ -109,7 +100,16 @@
           "clinicalInterpretation": "在这项真实世界回顾性分析中，MIRV显示出有临床意义的生存期，但结局受体能状态强烈影响；作者结论提出ECOG PS >1患者生存期显著更短，临床需预期并管理MIRV毒性。该结果来自回顾性单中心及附属医院数据，不能直接外推为指南或治疗指令。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "7a4471d9b08cae0197bf3d933696081cad76d233d387ace8ce93cee2781a9e47"
+        "summaryInputHash": "7a4471d9b08cae0197bf3d933696081cad76d233d387ace8ce93cee2781a9e47",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42733850",
@@ -139,15 +139,6 @@
         "matchedTopicIds": [
           "endometriosis-benign-gynecology"
         ],
-        "assignedTopicId": "endometriosis-benign-gynecology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "Linustedastat (OG-6219)治疗中重度子宫内膜异位症相关疼痛女性的一项2a/b期随机双盲安慰剂对照平行组疗效与安全性研究",
           "researchQuestion": "在18–49岁中重度子宫内膜异位症相关疼痛（ERP）的绝经前女性中，评价linustedastat（OG-6219）的疗效、安全性和耐受性。",
@@ -159,7 +150,16 @@
           "clinicalInterpretation": "尽管有理论依据，选择性抑制HSD17β1的linustedastat在本试验中未显示降低ERP的临床疗效趋势；在绝经前中重度ERP女性中安全且耐受良好。该结论来自一项2a/b期试验，需后续研究验证。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "2434a00111256cb77b9935b06730e527bb513fd3908c5d201d7f6ca19af238e7"
+        "summaryInputHash": "2434a00111256cb77b9935b06730e527bb513fd3908c5d201d7f6ca19af238e7",
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42734152",
@@ -188,15 +188,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "Chaetocin通过Neddylation介导的TFRC上调诱导顺铂耐药卵巢癌细胞铁死亡",
           "researchQuestion": "系统检验chaetocin对顺铂耐药卵巢癌（OV）细胞的作用及其潜在分子机制。",
@@ -208,7 +199,16 @@
           "clinicalInterpretation": "该临床前研究提示，chaetocin可通过neddylation–TFRC–铁死亡轴在顺铂耐药OV中发挥作用，为顺铂耐药OV提供了潜在治疗方向；但尚需进一步研究以明确其临床转化价值。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "c4ae5f337f450f07a2eb45383a2df3429299910775f00c897e2d12a4603aed71"
+        "summaryInputHash": "c4ae5f337f450f07a2eb45383a2df3429299910775f00c897e2d12a4603aed71",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "doi:10.1111/1471-0528.70256",
@@ -229,6 +229,7 @@
         "matchedTopicIds": [
           "endometriosis-benign-gynecology"
         ],
+        "summaryStatus": "success",
         "assignedTopicId": "endometriosis-benign-gynecology",
         "score": {
           "topicMatch": 50,
@@ -238,7 +239,17 @@
           "total": 85,
           "evidenceRank": 0.4
         },
-        "summaryStatus": "failed"
+        "summaryZh": {
+          "titleZh": "依拉戈利对比地诺孕素治疗中重度子宫内膜异位症疼痛的疗效与安全性：一项III期、多中心、双盲、活性对照、非劣效性研究",
+          "researchQuestion": "在18–49岁、诊断为子宫内膜异位症并伴有中重度疼痛的女性中，口服依拉戈利150 mg每日一次与地诺孕素2 mg每日一次相比，在疗效、安全性和耐受性方面如何？",
+          "studyDesign": "多中心、双盲、双模拟、随机、平行组、活性对照、非劣效性III期研究；在印度19个临床中心开展。",
+          "populationAndSample": "筛查340例，随机230例（每组115例）；研究人群为18–49岁、诊断为子宫内膜异位症并伴有中重度疼痛的女性。",
+          "methods": "参与者按1:1随机接受口服依拉戈利150 mg每日一次或地诺孕素2 mg每日一次，共24周。主要结局为基线至第85天子宫内膜异位症相关疼痛NRS评分变化；次要结局包括第169天NRS变化、痛经、非经期盆腔痛（NMPP）评分（第85天和第169天）、补救药物使用、患者总体印象变化（PGIC）、不良事件和骨密度。",
+          "keyResults": "在第85天，两组NRS疼痛评分降低相似，治疗差异为0.04（95% CI：−0.3，0.37）[p=0.9747]，因95% CI上限低于预设非劣效界值1.5，显示非劣效性。第169天，两组在总体疼痛、痛经和NMPP较基线的改善方面相当（分别为p=0.9372、p=0.8884、p=0.9616）。补救药物使用和PGIC在两组间相当。不良事件发生率相似（依拉戈利：14.8%；地诺孕素：19.1%），无严重TEAE或停药。未观察到显著骨密度变化。试验注册号：CTRI/2023/01/049292。",
+          "limitations": "摘要未报告明确的局限性。",
+          "clinicalInterpretation": "在这项III期非劣效性试验中，依拉戈利150 mg每日一次在改善中重度子宫内膜异位症相关疼痛方面不劣于地诺孕素2 mg每日一次，且安全性和耐受性特征可接受。摘要结论认为该结果支持其用于管理子宫内膜异位症相关疼痛；但这是单篇研究结果，不应改写为临床指南、共识或普遍临床指令。"
+        },
+        "summaryInputHash": "24613e2fcc52acf6e6e97c9da3db1391a1988cbaba849bb4d751841c18d23c37"
       }
     ]
   }
