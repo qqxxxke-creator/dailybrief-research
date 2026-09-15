@@ -1,0 +1,17 @@
+{
+  "date": "2026-09-16",
+  "articles": [
+    {
+      "sourceId": "medical-xpress-obgyn",
+      "title": "AI helps pathologists find signs of preeclampsia, advancing diagnosis and treatment",
+      "url": "https://medicalxpress.com/news/2026-09-ai-pathologists-preeclampsia-advancing-diagnosis.html",
+      "excerpt": "Preeclampsia is one of the leading causes of pregnancy-related death. Even after a healthy delivery, mother and baby can go home only to show signs of a postpartum hypertensive disorder days or weeks later.",
+      "publishedAt": "2026-09-15T15:40:04.000Z",
+      "category": "politics",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "AI辅助病理学家识别子痫前期征象，以推进诊断和治疗；子痫前期是妊娠相关死亡的主要原因之一，产后高血压疾病可在顺利分娩后数天至数周出现。",
+      "reviewStatus": "accepted",
+      "lowPriority": false
+    }
+  ]
+}

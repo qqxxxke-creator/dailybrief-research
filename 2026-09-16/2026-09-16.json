@@ -1,0 +1,289 @@
+{
+  "hero_headline": "AI辅助病理学家发现子痫前期征象，推动诊断与治疗进步",
+  "daily_overview": "今日妇产科动态聚焦子痫前期诊断：AI辅助病理识别子痫前期征象，可能推进诊断与治疗；指南与共识、手术前沿无合格更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [
+    {
+      "title": "AI helps pathologists find signs of preeclampsia, advancing diagnosis and treatment",
+      "url": "https://medicalxpress.com/news/2026-09-ai-pathologists-preeclampsia-advancing-diagnosis.html",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "子痫前期是妊娠相关死亡的主要原因之一。该报道指出，AI可帮助病理学家发现子痫前期征象，从而推进诊断与治疗；即使健康分娩后，母婴也可能在数天或数周后出现产后高血压性疾病表现。原文摘要未说明研究设计、样本量及与既往诊断路径的差异，技术阶段尚无法判断。",
+      "importance": 7
+    }
+  ],
+  "editor_note": "子痫前期仍是妊娠相关死亡重要原因，AI病理辅助诊断值得关注，但需更多临床验证；原文摘要未说明研究细节。",
+  "keywords": [
+    "子痫前期",
+    "AI病理",
+    "妊娠期高血压疾病",
+    "产后高血压",
+    "诊断",
+    "母胎医学"
+  ],
+  "research": {
+    "generatedAt": "2026-09-15T22:25:31.941Z",
+    "dataAsOf": "2026-09-15T22:25:31.941Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及提升宫颈癌预防实践依从性的数字工具：系统综述、音乐疗法在夫精人工授精中的应用：对心理困扰和临床妊娠率的影响、IVF实验室中的自动化与自主性：概念及其对胚胎学家的意义。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42741336",
+        "pmid": "42741336",
+        "doi": "10.3389/fpubh.2026.1851751",
+        "title": "Digital tools to enhance adherence to cervical cancer prevention practices: systematic review.",
+        "abstract": "BACKGROUND: Human papillomavirus (HPV) vaccination and regular cervical screening are fundamental pillars of the World Health Organization (WHO) strategy to eliminate cervical cancer. While conventional one-way digital notifications moderately support preventive uptake, the specific behavioral impact of two-way, interactive patient-facing digital assistants-such as conversational artificial intelligence (AI) and gamified health applications-warrants rigorous, isolated synthesis.\nOBJECTIVE: To systematically assess whether patient-facing interactive digital assistants are associated with improved initiation and completion of HPV vaccination and cervical cancer screening, strictly distinguishing between formative usability evidence and clinical effectiveness.\nMETHODS: Following PRISMA 2020 guidelines and PROSPERO registration (CRD420261333651), six academic databases were systematically searched (January 1, 2016-February 10, 2026). Eligible interventions were limited to interactive patient-facing digital tools. Data synthesis utilized a structured narrative approach, applying the Mixed Methods Appraisal Tool (MMAT 2018) for individual domain risk of bias and GRADE principles for evidence certainty.\nRESULTS: The synthesis included 14 reports representing 13 independent studies. Formative evaluations indicated high usability and user acceptability. Within behavioral trials, conversational AI chatbots showed promising effects for short-term increases in HPV vaccine appointment booking (Moderate certainty). However, multi-dose series completion remained severely constrained by high attrition rates (Low certainty). For secondary prevention, theory-based apps were associated with enhanced short-term cytology uptake (Moderate certainty). A serious game correlated with a higher diagnostic rate of cervical precancer (CIN2+); however, profound uncontrolled confounding limits causal attribution.\nCONCLUSION: Interactive patient-facing digital assistants may improve short-term appointment scheduling and screening participation. Nevertheless, the current literature is heavily constrained by self-selection, attrition, and the inability to isolate the effects of multicomponent interventions. Future pragmatic trials are essential to replicate these findings.\nSYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/view/CRD420261333651, CRD420261333651.",
+        "journal": "Frontiers in public health",
+        "authors": [
+          "Adina Kusniyeva",
+          "Almabayeva Aigul",
+          "Ayagyoz Umbetzhanova",
+          "Çigdem Çaglayan",
+          "Gulmira Derbissalina",
+          "Gulnur Tanbayeva",
+          "Naila Toktarova",
+          "Vitaliy Koikov",
+          "Zhanagul Bekbergenova"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-31T00:00:00.000Z",
+        "activityAt": "2026-09-15T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42741336/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "提升宫颈癌预防实践依从性的数字工具：系统综述",
+          "researchQuestion": "患者面向的交互式数字助手是否与改善HPV疫苗接种和宫颈癌筛查的启动和完成相关，并严格区分形成性可用性证据与临床有效性。",
+          "studyDesign": "系统综述，遵循PRISMA 2020指南和PROSPERO注册（CRD420261333651），检索六个学术数据库（2016年1月1日至2026年2月10日）；采用结构化叙述性综合，使用MMAT 2018评估各领域偏倚风险，并依据GRADE原则评估证据确定性。",
+          "populationAndSample": "纳入14篇报告，代表13项独立研究；合格干预限定为面向患者的交互式数字工具；具体人群特征摘要未报告。",
+          "methods": "系统检索六个学术数据库；纳入患者面向的交互式数字工具；采用结构化叙述性综合；使用MMAT 2018进行个体领域偏倚风险评估；依据GRADE原则评估证据确定性。",
+          "keyResults": "形成性评价显示高可用性和用户可接受性。在行为试验中，会话式AI聊天机器人显示短期增加HPV疫苗预约接种的有希望效果（中等确定性）。然而，多剂次系列完成仍受高失访率严重限制（低确定性）。对于二级预防，基于理论的应用与短期细胞学筛查接受度提高相关（中等确定性）。一款严肃游戏与更高的宫颈癌前病变（CIN2+）诊断率相关；但严重未控制的混杂限制因果归因。",
+          "limitations": "当前文献严重受自我选择、失访和无法分离多组分干预效果的限制。",
+          "clinicalInterpretation": "患者面向的交互式数字助手可能改善短期预约安排和筛查参与；但当前文献受限，未来需务实试验重复这些发现。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "78ef42e755e3780ea16883800f8a07b386380633830b7345c83e6abf59f564bc"
+      },
+      {
+        "id": "pmid:42736802",
+        "pmid": "42736802",
+        "doi": "10.1097/md.0000000000050655",
+        "title": "Music therapy in artificial insemination by husband: Effects on psychological distress and clinical pregnancy rate.",
+        "abstract": "BACKGROUND: Infertility treatment can be psychologically burdensome. Evidence on music listening during artificial insemination by husband (AIH) remains limited. We evaluated whether a standardized periprocedural music intervention reduced psychological distress and explored its association with clinical pregnancy.\nMETHODS: In this single-center, open-label randomized trial, 254 women undergoing AIH were allocated 1:1 to routine care or routine care plus two 30-minute music-listening sessions, immediately before and after AIH. The prespecified primary outcome was the continuous 21-item Depression Anxiety Stress Scales (DASS-21) score at follow-up; clinical pregnancy was secondary. DASS-21 was completed at baseline and at day 35 after AIH. Clinical pregnancy was assessed by ultrasonography at days 30 to 35.\nRESULTS: Continuous DASS-21 anxiety, depression, and stress scores did not differ between groups after adjustment for baseline scores (all P ≥ .868). Absolute postintervention differences were 0.01 point or less for anxiety and depression and 0.08 point for stress, indicating neither statistical nor clinically meaningful improvement. Clinical pregnancy occurred in 34/127 participants (26.77%) in the intervention group and 14/127 (11.02%) in the control group (exploratory secondary outcome; P = .001).\nCONCLUSION: The intervention did not improve the primary psychological outcome. The higher clinical pregnancy rate is hypothesis-generating because the trial was not powered for pregnancy, the proposed psychological mechanism was not demonstrated, and nonspecific attention and other unmeasured factors cannot be excluded. Replication using an attention-matched control, immediate state-anxiety and physiological measures, participant-preference assessment, and live-birth follow-up is required.",
+        "journal": "Medicine",
+        "authors": [
+          "Rubing Hu",
+          "Xianwen Jin",
+          "Xiaocha Zhu",
+          "Xuewei Chen"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-09-11T00:00:00.000Z",
+        "activityAt": "2026-09-15T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42736802/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "音乐疗法在夫精人工授精中的应用：对心理困扰和临床妊娠率的影响",
+          "researchQuestion": "标准化围手术期音乐干预是否降低心理困扰，并探索其与临床妊娠的关联。",
+          "studyDesign": "单中心、开放标签随机试验；254名接受夫精人工授精（AIH）的女性按1:1分配。",
+          "populationAndSample": "254名接受AIH的女性；干预组127名，对照组127名。",
+          "methods": "按1:1分配至常规护理或常规护理加两次30分钟音乐聆听会话，分别在AIH前和AIH后立即进行。预设主要结局为随访时连续21项抑郁焦虑压力量表（DASS-21）评分；临床妊娠为次要结局。DASS-21在基线和AIH后第35天完成。临床妊娠通过第30至35天超声评估。",
+          "keyResults": "调整基线评分后，DASS-21焦虑、抑郁、压力连续评分在组间无差异（所有P ≥ .868）。干预后焦虑和抑郁的绝对差异为0.01分或更小，压力为0.08分，表明既无统计学意义也无临床意义改善。临床妊娠发生在干预组34/127（26.77%）和对照组14/127（11.02%）（探索性次要结局；P = .001）。",
+          "limitations": "试验未针对妊娠结局把握度；所提出的心理机制未获证实；非特异性关注和其他未测量因素不能排除；需要使用注意力匹配对照、即时状态焦虑和生理测量、参与者偏好评估以及活产随访进行重复研究。",
+          "clinicalInterpretation": "该干预未改善主要心理结局。较高的临床妊娠率属于假设生成性，不能据此推断因果效应，需要重复研究。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "05b71ce0fb528d9afb0b820c7d7a5efc913d8e7992843492db671115f0a42d97"
+      },
+      {
+        "id": "pmid:42735458",
+        "pmid": "42735458",
+        "doi": "10.1016/j.rbmo.2026.105920",
+        "title": "Automation and autonomy in the IVF laboratory: concepts and implications for embryologists.",
+        "abstract": "Automation is regarded as the next phase in the evolution of laboratory IVF. Despite technological advances, most laboratory procedures remain operator-dependent, contributing to variability in performance and outcomes. While automation has improved reproducibility and efficiency in many areas of medicine, its adoption in IVF has been slow. This review examines how automation may be integrated into IVF laboratories through a set of conceptual distinctions. Automation refers to the execution of procedural steps by machine-controlled systems, whereas autonomy describes the degree to which such systems can operate without human intervention. This review distinguishes between static automation, which maintains or monitors the laboratory environment, and dynamic automation, which manipulates biological material directly. This review also introduces the concepts of under- and over-automation, and considers the relationship between autonomy and technical complexity. These distinctions highlight the unique challenges of IVF, where procedures involve handling irreplaceable cells. Increasing automation does not necessarily imply increasing autonomy. Effective design must balance standardization with human oversight and intervention. Automation in IVF laboratories will likely progress gradually through integration of dynamic systems under continued human supervision. The central challenge will be to improve consistency and laboratory capacity while preserving clinical responsibility, trust in automation, and professional satisfaction.",
+        "journal": "Reproductive biomedicine online",
+        "authors": [
+          "Gerardo Mendizabal-Ruiz",
+          "Giles Anthony Palmer",
+          "Giuseppe Silvestri",
+          "Jacques Cohen",
+          "Mina Alikani"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-08-18T00:00:00.000Z",
+        "activityAt": "2026-09-15T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42735458/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "IVF实验室中的自动化与自主性：概念及其对胚胎学家的意义",
+          "researchQuestion": "该综述旨在通过一组概念区分考察自动化如何整合进IVF实验室，并讨论其对胚胎学家的意义。",
+          "studyDesign": "综述；摘要未报告系统检索与合成方法。",
+          "populationAndSample": "摘要未报告具体人群或样本量；讨论对象为IVF实验室流程和胚胎学家。",
+          "methods": "提出概念区分：自动化指机器控制系统执行程序步骤，自主性描述此类系统无需人工干预可操作的程度；区分静态自动化（维持或监测实验室环境）与动态自动化（直接操作生物材料）；引入自动化不足和过度自动化概念，并考虑自主性与技术复杂性的关系。",
+          "keyResults": "在医学许多领域，自动化已提高可重复性和效率，但在IVF中采纳缓慢。增加自动化不一定意味着增加自主性。有效设计必须平衡标准化与人工监督和干预。IVF实验室自动化可能通过在人持续监督下整合动态系统逐步推进。中心挑战是提高一致性和实验室能力，同时保持临床责任、对自动化的信任和专业满意度。",
+          "limitations": "摘要未报告明确的局限性；叙述中强调IVF涉及处理不可替代细胞的独特挑战，以及有效设计需平衡标准化与人工监督。",
+          "clinicalInterpretation": "IVF实验室自动化预计将逐步进展，并需持续人工监督；增加自动化不等同于增加自主性，设计需平衡标准化和人工干预。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "5ef9da3fbbbe018f8dc01d702d4df927629f2246e4db6d48f5dd1ce80823f0b9"
+      },
+      {
+        "id": "pmid:42735512",
+        "pmid": "42735512",
+        "doi": "10.1016/j.cyto.2026.157210",
+        "title": "Adipokines in preeclampsia: Pathophysiological insights and biomarker potential.",
+        "abstract": "Preeclampsia is a multifactorial hypertensive disorder of pregnancy with major clinical consequences. Adipokines-bioactive peptides secreted by adipose tissue-may contribute to its pathogenesis through mechanisms involving inflammation, angiogenesis, and endothelial dysfunction. This review summarizes findings from various clinical and experimental studies evaluating serum levels of adipokines such as leptin, adiponectin, resistin, visfatin, chemerin, and apelin in preeclamptic versus normotensive pregnancies. Findings across studies are heterogeneous for most adipokines. While the majority of studies report elevated leptin and chemerin levels in preeclampsia, conflicting data exist, including reports of no significant difference or even inverse associations, particularly in obese populations and across different preeclampsia phenotypes. Adiponectin, resistin, visfatin, and apelin show even more variable trends, with studies reporting elevation, reduction, or no change depending on gestational age, body mass index, and disease severity. These molecules may hold potential as early indicators of disease, though further research is needed to clarify their diagnostic value and clinical applicability.",
+        "journal": "Cytokine",
+        "authors": [
+          "Ahmad Movahedpour",
+          "Jasur Rizaev",
+          "Mahsa Mehrabadi",
+          "Maryam Zamani Sani",
+          "Monireh Motaqi",
+          "Rasul Taghvaeefar",
+          "Sajad Ehtiati",
+          "Zainb A Talib"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-09-14T00:00:00.000Z",
+        "activityAt": "2026-09-15T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42735512/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "子痫前期中的脂肪因子：病理生理学见解和生物标志物潜力",
+          "researchQuestion": "该综述总结评估瘦素、脂联素、抵抗素、内脏脂肪素、趋化素和爱帕琳等脂肪因子在子痫前期与正常血压妊娠中血清水平的研究，并探讨其病理生理机制和生物标志物潜力。",
+          "studyDesign": "综述，总结各种临床和实验研究；摘要未报告系统检索方法。",
+          "populationAndSample": "各种临床和实验研究；比较子痫前期与正常血压妊娠；具体样本量摘要未报告。",
+          "methods": "总结评估血清脂肪因子水平的临床和实验研究，涉及炎症、血管生成和内皮功能障碍机制。",
+          "keyResults": "多数脂肪因子的研究结果存在异质性。多数研究报告子痫前期中瘦素和趋化素水平升高，但存在矛盾数据，包括无显著差异甚至反向关联，尤其在肥胖人群和不同子痫前期表型中。脂联素、抵抗素、内脏脂肪素和爱帕琳趋势更可变，研究报告升高、降低或无变化，取决于孕龄、体重指数和疾病严重程度。这些分子可能作为疾病早期指标，但需进一步研究明确其诊断价值和临床适用性。",
+          "limitations": "多数脂肪因子研究结果异质；存在矛盾数据；诊断价值和临床适用性需进一步研究明确。",
+          "clinicalInterpretation": "脂肪因子可能具有早期指标潜力，但当前证据不一致，其诊断价值和临床适用性尚未明确。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "271d0f077730373f1bec9a845fe8add106feb3dcca092124d816c737e86e6379"
+      },
+      {
+        "id": "pmid:42735734",
+        "pmid": "42735734",
+        "doi": "10.1016/j.phrs.2026.108453",
+        "title": "NRF2 Signalling in Endometriosis: A Hormone-Independent Axis for Fertility-Preserving Therapeutic Innovation.",
+        "abstract": "Endometriosis is a chronic inflammatory disease characterised by pain, infertility and recurrence. Current pharmacological management relies largely on hormonal suppression, which can reduce pain and disease activity but does not eradicate ectopic lesions, and symptoms often recur after treatment withdrawal. Adverse effects and incomplete responses further limit long-term use. Because hormonal therapies suppress ovulation and menstruation without improving spontaneous fertility, they are unsuitable for patients seeking pregnancy, underscoring the need for non-hormonal strategies that control lesions while preserving reproductive function. Recurrent bleeding, erythrocyte degradation and iron accumulation create an oxidative microenvironment linking ferroptosis dysregulation, chronic inflammation and defective immune clearance. NRF2 coordinates antioxidant defence, lipid-peroxide removal, iron and haem handling, and inflammatory and immune responses, but its effects are context dependent. To organise these divergent findings, we propose a testable framework of redox-adapted and redox-exhausted lesion states and consider how redox capacity, cellular compartment, intervention intensity and timing may shape NRF2-directed interventions. This review integrates NRF2 regulation with evidence on oxidative stress, ferroptosis, inflammation, immunity and reproductive-tissue protection in endometriosis. We distinguish direct disease evidence from mechanistic extrapolation, evaluate pharmacological, immune-informed and materials-based approaches for selective or local NRF2 modulation, and discuss cell-specific effects and cycle-dependent reproductive-tissue vulnerability. We further define key translational requirements, including human-lesion validation, predictive biomarkers, therapeutic thresholds, reproductive-safety assessment and cell-selective or lesion-restricted delivery. This framework provides testable questions and a staged basis for future preclinical and early translational studies.",
+        "journal": "Pharmacological research",
+        "authors": [
+          "Anli Weng",
+          "Li Feng",
+          "Luxuan Wang",
+          "Mingtao Xu",
+          "Shen Chen",
+          "Xuefang Liang",
+          "Yongxia Wang",
+          "Yun Lu",
+          "Yuxi Miao",
+          "Zhiqi Wang"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-09-14T00:00:00.000Z",
+        "activityAt": "2026-09-15T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42735734/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology",
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "子宫内膜异位症中的NRF2信号：面向保留生育力治疗创新的激素非依赖轴",
+          "researchQuestion": "该综述旨在整合NRF2调控与子宫内膜异位症中氧化应激、铁死亡、炎症、免疫和生殖组织保护证据，提出可检验的氧化还原适应/耗竭病灶状态框架，并评估选择性或局部NRF2调节的治疗策略。",
+          "studyDesign": "综述；整合机制与证据；提出可检验框架；摘要未报告系统检索方法。",
+          "populationAndSample": "摘要未报告具体人群或样本量；讨论对象为子宫内膜异位症病灶和生殖组织保护，区分直接疾病证据与机制外推。",
+          "methods": "整合NRF2调控与氧化应激、铁死亡、炎症、免疫和生殖组织保护证据；提出氧化还原适应和氧化还原耗竭病灶状态框架；考虑氧化还原能力、细胞区室、干预强度和时机；评估药理学、免疫导向和材料学方法用于选择性或局部NRF2调节；讨论细胞特异性效应和周期依赖的生殖组织脆弱性；界定转化要求。",
+          "keyResults": "当前药物治疗主要依赖激素抑制，可减少疼痛和疾病活动但不根除异位病灶，停药后症状常复发；不良反应和不完全反应限制长期使用；激素治疗抑制排卵和月经而不改善自然生育力，不适合寻求妊娠的患者。反复出血、红细胞降解和铁积累形成氧化微环境，连接铁死亡失调、慢性炎症和免疫清除缺陷。NRF2协调抗氧化防御、脂质过氧化物清除、铁和血红素处理以及炎症和免疫反应，但其效应取决于情境。提出框架并界定转化要求，包括人类病灶验证、预测性生物标志物、治疗阈值、生殖安全性评估和细胞选择性或病灶限制性递送；提供可检验问题和分阶段基础。",
+          "limitations": "摘要未报告明确的研究局限性；指出NRF2效应具情境依赖性，并区分直接疾病证据与机制外推；转化需人类病灶验证、预测性生物标志物、治疗阈值、生殖安全性评估和选择性递送。",
+          "clinicalInterpretation": "该框架提供未来临床前和早期转化研究的可检验问题与分阶段基础；不代表已确立的临床疗法或指南。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "e89e2de8e6ac4c6357a841fb5ae356f6852cae552a533609f26df24f87d8144b"
+      }
+    ]
+  }
+}
