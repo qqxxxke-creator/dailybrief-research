@@ -1,0 +1,203 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-09-16T22:53:16.594Z",
+    "dataAsOf": "2026-09-16T22:53:16.594Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及Progesterone receptor modulators for endometriosis.、Validation of Ukrainian breast and cervical cancer screening questionnaire.、Development and external validation of a metabolic and lipid-based model for predicting subsequent pregnancy in women with endometriosis.。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42746927",
+        "pmid": "42746927",
+        "doi": "10.1002/14651858.cd009881.pub3",
+        "title": "Progesterone receptor modulators for endometriosis.",
+        "abstract": "RATIONALE: Endometriosis is defined as the presence of endometrium-like tissue developing outside the uterine cavity. This condition is oestrogen-dependent and thus is seen primarily during the reproductive years. Owing to their antiproliferative effects on the endometrium, progesterone receptor modulators (PRMs) have been advocated for the treatment of endometriosis. This is an update of a Cochrane review previously published in 2017.\nOBJECTIVES: To assess the effectiveness and safety of progesterone receptor modulators (PRMs) in the management of endometriosis.\nSEARCH METHODS: To identify studies, we searched online sources, including the Cochrane Gynaecology and Fertility (CGF) Group trials register, CENTRAL, MEDLINE, Embase, PsycINFO, ClinicalTrials.gov and the WHO (World Health Organization) trial registry up to 16 April 2026. We also checked reference lists and contacted study authors and experts.\nELIGIBILITY CRITERIA: We included randomised controlled trials (RCTs) comparing PRMs with placebo, no treatment or other medical treatment, in women with symptomatic endometriosis.\nOUTCOMES: Our critical outcomes were overall pain; improvement in the most troublesome symptom, including dysmenorrhoea and dyspareunia; and adverse events resulting from the PRM intervention. Our important outcomes included quality of life (QoL) and patient satisfaction with treatment.\nRISK OF BIAS: We used the Cochrane tool RoB 2 to assess the risk of bias in the outcomes of this review.\nSYNTHESIS METHODS: Two review authors independently assessed studies against the inclusion criteria, extracted data and assessed risk of bias, consulting a third review author where required. We analysed dichotomous outcomes using Mantel-Haenszel odds ratios (ORs), 95% confidence intervals (CIs) and the fixed-effect model. We analysed continuous outcomes using the mean difference (MD) between groups, presented with 95% CIs. We employed the GRADE approach to assess the certainty of the evidence as high, moderate, low or very low.\nINCLUDED STUDIES: No new studies were eligible for inclusion in this update. Of the nine studies (922 women) already included in the review, two compared mifepristone versus placebo or compared different doses of mifepristone, and four either compared gestrinone versus danazol, gestrinone versus gonadotropin-releasing hormone (GnRH) analogues or compared different doses of gestrinone. One study compared asoprisnil versus placebo. The asoprisnil study did not provide extractable numerical data and was included in the narrative synthesis only. Two of the studies did not report any of the review's prespecified outcomes.\nSYNTHESIS OF RESULTS: Certainty of the evidence We judged the certainty of evidence as low to very low. The main limitations of the evidence were serious risk of bias (associated with poor reporting of methods and high or unclear rates of attrition), very serious imprecision (associated with low event rates and wide confidence intervals, with some large effect estimates) and serious indirectness (outcomes assessed in selected subgroups). PRM versus placebo Mifepristone versus placebo These results are based on one study (360 participants) that measured outcomes after three months. The study did not report overall pain. At three months, mifepristone may improve dysmenorrhoea (OR 0.07, 95% CI 0.03 to 0.15; 1 study, 342 participants; low-certainty evidence), suggesting that if 40% of women taking placebo experience dysmenorrhoea, then between 3% and 10% of women taking mifepristone will do so. We are uncertain whether mifepristone improves dyspareunia (OR 0.23, 95% CI 0.10 to 0.51; 1 study, 223 participants; very low-certainty evidence). However, mifepristone may increase hot flushes (OR 28.79, 95% CI 3.93 to 210.73; 1 study, 360 participants; low-certainty evidence). Mifepristone may make little or no difference after three months of treatment to the prevalence of nausea (OR 1.72, 95% CI 0.20 to 15.03; 1 study, 360 participants; low-certainty evidence). PRM versus other medical treatment Gestrinone versus danazol These results are based on two studies (302 participants) that measured outcomes after six months. We are uncertain of the effects of gestrinone relative to danazol on the improvement of overall pain (dichotomous outcome: participants reporting no or mild pelvic pain counted as 'improved') (OR 0.47, 95% CI 0.04 to 5.70; 1 study, 38 participants), dysmenorrhoea (Not estimable; 1 study, 38 participants), or dyspareunia (OR 1.00, 95% CI 0.13 to 7.94; 1 study, 38 participants (all very low-certainty evidence). We are uncertain about the effects of gestrinone relative to danazol on hot flushes (OR 0.79, 95% CI 0.50 to 1.26; 2 studies, 302 participants; very low-certainty evidence). There may be little or no difference between gestrinone and danazol in rates of nausea (OR 1.36, 95% CI 0.84 to 2.19; 2 studies, 302 participants; low-certainty evidence). Gestrinone versus a GnRH analogue (leuprorelin) These results are based on one study (55 participants) that measured outcomes after six months. There may be little to no difference between gestrinone and leuprorelin in non-menstrual pain (MD -0.41, 95% CI -1.76 to 0.94; 1 study, 55 participants; low-certainty evidence). Women taking gestrinone may have higher dysmenorrhoea scores than those taking leuprorelin (MD 0.82, 95% CI 0.15 to 1.49; 1 study, 55 participants; low-certainty evidence), but gestrinone may improve dyspareunia more than leuprorelin (MD -1.16, 95% CI -2.08 to -0.24; 1 study, 52 participants; low-certainty evidence). There may be lower rates of hot flushes with gestrinone than leuprorelin (OR 0.20, 95% CI 0.06 to 0.63; 1 study, 55 participants; low-certainty evidence). There may be little or no difference between gestrinone and leuprorelin in rates of nausea (OR 1.04, 95% CI 0.06 to 17.49; 1 study, 55 participants; low-certainty evidence).\nAUTHORS: Mifepristone may improve dysmenorrhoea in women with endometriosis, but it might increase the prevalence of adverse events, such as hot flushes. The evidence is very uncertain regarding its effect on dyspareunia. Gestrinone may be less effective than leuprorelin in treating dysmenorrhoea, but it may improve dyspareunia. It may be associated with lower rates of hot flushes and similar rates of nausea. We are uncertain about the effect of gestrinone compared to danazol. We found insufficient evidence to permit firm conclusions about the safety and effectiveness of other progesterone receptor modulators.\nFUNDING: This Cochrane review had no dedicated funding.\nREGISTRATION: Protocol (2012) DOI: 10.1002/14651858.CD009881 Review (2017) DOI: 10.1002/14651858.CD009881.pub2.",
+        "journal": "The Cochrane database of systematic reviews",
+        "authors": [
+          "Alexandros Loukas Grammatis",
+          "Christian M Becker",
+          "Eberechi N Anucha",
+          "Tatjana Gibbons"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-09-16T00:00:00.000Z",
+        "activityAt": "2026-09-16T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42746927/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42748308",
+        "pmid": "42748308",
+        "doi": "10.36740/wlek/222250",
+        "title": "Validation of Ukrainian breast and cervical cancer screening questionnaire.",
+        "abstract": "OBJECTIVE: Aim: This study aimed to develop and validate the Ukrainian Breast and Cervical Cancer Screening Questionnaire (UBC-SQ) to assess women's believes, behavior, knowledge and practices toward breast cancer and cervical cancer screening.\nPATIENTS AND METHODS: Materials and Methods: The validation study was conducted between June 2023 and January 2024 in Uzhhorod, Ukraine, among women aged 21-74, recruited through social centers for internally displaced persons and a family medicine clinic. Participants completed the questionnaire either online or on paper.\nRESULTS: Results: The UBC-SQ was adapted from the two prototypes about breast and cervical cancer screening behaviour using translation and back-translation. Content validity was confirmed by expert review (CVR ≥ 0.62, CVI ≥ 0.79). External validity was assessed through item impact scores (IIS ≥ 1.5). Reliability was evaluated using test-retest (Weighted Kappa ≥ 0.3) and internal consistency (Cronbach's alpha ≥ 0.7).\nCONCLUSION: Conclusions: The UBC-SQ is a valid, reliable, and culturally appropriate tool for assessing BC and CC screening believes, behavior, knowledge and practices in Ukrainian women.",
+        "journal": "Wiadomosci lekarskie (Warsaw, Poland : 1960)",
+        "authors": [
+          "Nataliia Ponzel",
+          "Pavlo Kolesnik"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Validation Study"
+        ],
+        "publishedAt": "2026-01-01T00:00:00.000Z",
+        "activityAt": "2026-09-16T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42748308/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 17.5,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 92.5,
+          "evidenceRank": 0.7
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42745858",
+        "pmid": "42745858",
+        "doi": "10.3389/fimmu.2026.1893630",
+        "title": "Development and external validation of a metabolic and lipid-based model for predicting subsequent pregnancy in women with endometriosis.",
+        "abstract": "BACKGROUND: Endometriosis is frequently associated with impaired fertility. Metabolic abnormalities and dyslipidemia may be relevant to reproductive dysfunction among women with endometriosis; however, their associations with subsequent reproductive outcomes and their predictive value remain unclear. This study aimed to examine the associations of metabolic and lipid-related indicators with subsequently recorded delivery and to develop and validate a prediction model among women with endometriosis.\nMETHODS: We included 5,604 women of reproductive age with endometriosis from the UK Biobank and an independent cohort from the Affiliated Hospital of Qingdao University. The primary outcome in the UK Biobank was subsequently recorded delivery during follow-up, whereas the corresponding outcome in the external cohort was clinical pregnancy. Associations were evaluated using logistic regression, subgroup analysis, restricted cubic splines, and threshold-effect analysis. The UK Biobank cohort was randomly divided into training and internal validation sets at a 7:3 ratio. Predictors were selected using least absolute shrinkage and selection operator regression with 10-fold cross-validation, followed by multivariable logistic regression and nomogram construction. Model performance was evaluated in the training, internal validation, and external validation cohorts.\nRESULTS: During a median follow-up of 13 years, 209 of the 5,604 women in the UK Biobank cohort had a subsequently recorded delivery. Higher body mass index, waist circumference, triglyceride levels, atherogenic index of plasma, triglyceride-glucose index, and non-high-density lipoprotein cholesterol-to-high-density lipoprotein cholesterol ratio were independently associated with a lower likelihood of subsequently recorded delivery. The final prediction model incorporated age, body mass index, Townsend deprivation index, current smoking status, educational attainment, total cholesterol, and triglyceride-glucose index. The model demonstrated areas under the receiver operating characteristic curve of 0.869 in the training set, 0.854 in the internal validation set, and 0.851 in the external validation cohort.\nCONCLUSIONS: Less favorable metabolic and lipid profiles were associated with a lower likelihood of subsequently recorded delivery among women with endometriosis. The model may provide complementary information for reproductive risk stratification. However, differences in outcome ascertainment between cohorts and the limited number of events warrant cautious interpretation. Further prospective, multicenter validation is required before clinical application.",
+        "journal": "Frontiers in immunology",
+        "authors": [
+          "Aiping Chen",
+          "Yanan Duan",
+          "Yushuang Yao"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Validation Study"
+        ],
+        "publishedAt": "2026-09-01T00:00:00.000Z",
+        "activityAt": "2026-09-16T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42745858/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 17.5,
+          "clinicalActionability": 11.25,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 0.7
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42745019",
+        "pmid": "42745019",
+        "doi": "10.1007/s43032-026-02168-7",
+        "title": "Assisted Reproductive Technology as Predictor for Preeclampsia: A Systematic Review of Current Clinical Prediction Models.",
+        "abstract": "Assisted Reproductive Technology (ART) increases the risk of preeclampsia (PE), yet no specific prediction model tailored to the ART population exists. This review evaluates prediction models incorporating ART as a predictor, focusing on risk of bias, performance, generalizability and clinical applicability. A systematic MEDLINE search up to July 2023 identified models predicting PE that included ART as a predictor. Exclusion comprised studies on outcomes after PE onset, univariable models and validation studies of previously validated models. Risk of bias, applicability and generalizability were assessed using the Prediction model Risk Of Bias ASsessment Tool (PROBAST) and the Transparent Reporting of a multivariable prediction model for Individual Prognosis and Diagnosis (TRIPOD) guideline. Out of 15,305 records, 161 articles were assessed in full-text, yielding fifteen eligible studies. Eleven studies were added from a prior systematic review. Performance varied widely (AUC 0.58-0.99) and only few (7/26) models had been externally validated. Risk of bias was unclear in most studies (21/26), due to analytical issues. Despite ART being an established risk factor for PE, robust and generalizable models with proven external validity are lacking. Future research should prioritize development of a high quality prediction model including ART, or a model developed specifically within ART populations.",
+        "journal": "Reproductive sciences (Thousand Oaks, Calif.)",
+        "authors": [
+          "Eileen E L O Lashley",
+          "Géraldine C M Lafeber",
+          "Marie-Louise P van der Hoorn",
+          "Saskia le Cessie"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-09-15T00:00:00.000Z",
+        "activityAt": "2026-09-16T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42745019/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42745835",
+        "pmid": "42745835",
+        "doi": "10.3389/fonc.2026.1880629",
+        "title": "Leveraging machine learning algorithms to assess the impact of cervical cancer early detection on patients' survival.",
+        "abstract": "BACKGROUND: Cervical cancer morbidity and mortality remain a significant global health challenge worldwide, with an age-standardized incidence rate (ASR) of 7.3/100,000 in 2022. Low and Middle-Income Countries (LMICs), especially sub-Saharan Africa, have the highest incidence and mortality of cervical cancer, with 70% to 90% of cervical cancer cases and deaths, respectively. Despite Rwanda's considerable efforts, cervical cancer remained the second most prevalent cancer among Rwandan women in 2023. Although numerous studies have explored the relationship between early detection and better outcomes, there is a lack of comprehensive research assessing the overall impact of early detection on patient survival in Rwanda. This study sought to explore the impact of early detection on survival outcomes, explore the use of machine learning (ML) techniques for survival prediction in cervical cancer patients, to provide a thorough understanding of the impact of cervical cancer early detection on patient survival.\nMETHODS: This retrospective cohort study analyzed data from the Rwanda National Cancer Registry (2016-2023). Kaplan-Meier survival analysis, Log-rank Test, and Cox proportional hazards models were employed to evaluate survival rates and risk factors. Gradient Boosting, Logistic Regression, and Survival Support Vector Machines (SSVM) models were developed, tested, and validated using 5-fold stratified cross-validation for survival prediction. Data cleaning retained 2,476 records with complete clinical information.\nRESULTS: Early detection reduced the hazard of death by 39% compared to late detection. The Gradient Boosting ML Model demonstrated superior performance with an accuracy of 82.2%, sensitivity of 99.7%, and the lowest Brier score of 0.1408. 5-fold cross-validation confirmed model stability (AUC 0.550 ± 0.038 for Gradient Boosting. Key predictors of poor survival included older age at diagnosis and HIV positivity.\nCONCLUSION: Early detection significantly improves survival outcomes for cervical cancer patients. HIV positivity and age at diagnosis returned as key influencers for the survival outcome. ML models offer robust predictive capabilities, enabling resource optimization and personalized care in LMICs. Findings emphasize the importance of scaling early detection initiatives and leveraging ML for informed decision-making in cervical cancer management.",
+        "journal": "Frontiers in oncology",
+        "authors": [
+          "Absolomon Gashaija",
+          "Belson Rugwizangoga",
+          "Emmanuel Christian Nyabyenda",
+          "Felix K Rubuga",
+          "Jean Damascene Hagenimana",
+          "Piero Mazimpaka Irakiza",
+          "Semakula Muhammed"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-01T00:00:00.000Z",
+        "activityAt": "2026-09-16T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42745835/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      }
+    ]
+  }
+}
