@@ -7,8 +7,8 @@
   "editor_note": "过去24小时暂无符合质量要求的重要更新。",
   "keywords": [],
   "research": {
-    "generatedAt": "2026-09-16T22:53:16.594Z",
-    "dataAsOf": "2026-09-16T22:53:16.594Z",
+    "generatedAt": "2026-09-16T23:49:06.754Z",
+    "dataAsOf": "2026-09-16T23:49:06.754Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及Progesterone receptor modulators for endometriosis.、Validation of Ukrainian breast and cervical cancer screening questionnaire.、Development and external validation of a metabolic and lipid-based model for predicting subsequent pregnancy in women with endometriosis.。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
@@ -40,6 +40,7 @@
         "matchedTopicIds": [
           "endometriosis-benign-gynecology"
         ],
+        "summaryStatus": "failed",
         "assignedTopicId": "endometriosis-benign-gynecology",
         "score": {
           "topicMatch": 50,
@@ -48,8 +49,7 @@
           "recency": 10,
           "total": 100,
           "evidenceRank": 1
-        },
-        "summaryStatus": "failed"
+        }
       },
       {
         "id": "pmid:42748308",
@@ -75,6 +75,7 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
+        "summaryStatus": "failed",
         "assignedTopicId": "gynecologic-oncology",
         "score": {
           "topicMatch": 50,
@@ -83,8 +84,7 @@
           "recency": 10,
           "total": 92.5,
           "evidenceRank": 0.7
-        },
-        "summaryStatus": "failed"
+        }
       },
       {
         "id": "pmid:42745858",
@@ -111,6 +111,7 @@
         "matchedTopicIds": [
           "endometriosis-benign-gynecology"
         ],
+        "summaryStatus": "failed",
         "assignedTopicId": "endometriosis-benign-gynecology",
         "score": {
           "topicMatch": 50,
@@ -119,8 +120,7 @@
           "recency": 10,
           "total": 88.75,
           "evidenceRank": 0.7
-        },
-        "summaryStatus": "failed"
+        }
       },
       {
         "id": "pmid:42745019",
@@ -148,6 +148,7 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
+        "summaryStatus": "failed",
         "assignedTopicId": "maternal-fetal-medicine",
         "score": {
           "topicMatch": 50,
@@ -156,8 +157,7 @@
           "recency": 10,
           "total": 85,
           "evidenceRank": 0.4
-        },
-        "summaryStatus": "failed"
+        }
       },
       {
         "id": "pmid:42745835",
@@ -187,6 +187,7 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
+        "summaryStatus": "failed",
         "assignedTopicId": "gynecologic-oncology",
         "score": {
           "topicMatch": 50,
@@ -195,8 +196,7 @@
           "recency": 10,
           "total": 85,
           "evidenceRank": 0.4
-        },
-        "summaryStatus": "failed"
+        }
       }
     ]
   }
