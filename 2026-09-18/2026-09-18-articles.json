@@ -1,0 +1,29 @@
+{
+  "date": "2026-09-18",
+  "articles": [
+    {
+      "sourceId": "medpage-today-headlines",
+      "title": "Lawsuit Blames Texas Abortion Ban for Woman's Death",
+      "url": "https://www.medpagetoday.com/obgyn/abortion/123045",
+      "excerpt": "(MedPage Today) -- The family of a 37-year-old pregnant San Antonio woman who died of preeclampsia is claiming in a new lawsuit that Texas' abortion ban led to her death. The family of Tierra Walker, who died when she was 20 weeks pregnant, is...",
+      "publishedAt": "2026-09-17T19:45:51.000Z",
+      "category": "politics",
+      "source": "MedPage Today",
+      "summary": "得州一名37岁孕妇在孕20周因子痫前期死亡，家属提起诉讼，称得州堕胎禁令导致其死亡；涉及产科急救、孕产妇死亡与堕胎监管政策。",
+      "reviewStatus": "accepted",
+      "lowPriority": false
+    },
+    {
+      "sourceId": "medical-xpress-obgyn",
+      "title": "Robotic help in high-risk twin pregnancies: Panoramic guidance for a flexible laser scope",
+      "url": "https://medicalxpress.com/news/2026-09-robotic-high-twin-pregnancies-panoramic.html",
+      "excerpt": "In Switzerland, around 2,400 children are born as twins every year. When the fetuses share a placenta, they are connected to one another via blood vessels. If the blood circulation becomes unbalanced, this can be life-threatening for both, as too much blood flows from one fetus to the other.",
+      "publishedAt": "2026-09-17T13:00:15.000Z",
+      "category": "politics",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "瑞士每年约2400名双胎出生；共享胎盘的双胎通过血管相连，血流失衡可危及两个胎儿。该报道介绍机器人辅助全景引导用于柔性激光镜，以处理高风险双胎妊娠。",
+      "reviewStatus": "accepted",
+      "lowPriority": false
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "hero_headline": "德州堕胎禁令相关诉讼指向子痫前期孕妇死亡，妊娠急症救治边界再受审视",
+  "daily_overview": "今日无妇产科指南与共识更新。手术前沿方面，瑞士团队报告机器人辅助、全景引导的柔性激光内镜用于单绒毛膜双胎血流失衡的宫内干预。国际动态集中在美国：德州一名37岁孕妇死于子痫前期，家属提起诉讼，指堕胎禁令导致其死亡，妊娠急症例外条款的执行边界成为争议焦点。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [
+    {
+      "title": "Lawsuit Blames Texas Abortion Ban for Woman's Death",
+      "url": "https://www.medpagetoday.com/obgyn/abortion/123045",
+      "source": "MedPage Today",
+      "summary": "美国圣安东尼奥一名37岁孕妇死于子痫前期，其家属提起新诉讼，主张德州堕胎禁令导致其死亡。该案把妊娠急症救治受限与法律限制直接关联，可能影响各州对妊娠急症例外条款的解释与执行，并波及产科急症处置流程。原文未披露更多临床与法律细节。",
+      "importance": 8
+    },
+    {
+      "title": "Robotic help in high-risk twin pregnancies: Panoramic guidance for a flexible laser scope",
+      "url": "https://medicalxpress.com/news/2026-09-robotic-high-twin-pregnancies-panoramic.html",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "瑞士每年约2400名双胎出生；共享胎盘的双胎通过血管相连，血流失衡可危及两个胎儿。该报道介绍机器人辅助全景引导用于柔性激光镜，以处理高风险双胎妊娠。",
+      "importance": 5
+    }
+  ],
+  "editor_note": "今日信号集中在两处：一边是法律限制对产科急症救治的实际挤压，一边是宫内胎儿手术向机器人化、可视化演进，两者都指向妊娠风险管理的能力边界。",
+  "keywords": [
+    "堕胎禁令诉讼",
+    "妊娠急症",
+    "子痫前期",
+    "母胎医学",
+    "单绒毛膜双胎",
+    "胎儿宫内干预",
+    "机器人辅助手术",
+    "医疗可及性"
+  ],
+  "research": {
+    "generatedAt": "2026-09-17T22:05:26.137Z",
+    "dataAsOf": "2026-09-17T22:05:26.137Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及非洲原住民社区对生殖健康的认知：关于文化信仰、实践与健康结局的系统综述、2003-2024年全球孕妇甲状腺功能障碍患病率：系统综述与荟萃分析、母体绒毛膜羊膜炎使用N-乙酰半胱氨酸对胎儿和新生儿的影响：系统综述。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42751697",
+        "pmid": "42751697",
+        "doi": "10.29063/ajrh2026/v30i17.12",
+        "title": "Perceptions of reproductive health among indigenous communities in Africa: A systematic review of cultural beliefs, practices, and health outcomes.",
+        "abstract": "Diverse conceptualisation of reproductive health is a major public health problem in Africa, especially among indigenous communities were cultural beliefs shape health behaviours and outcomes. This review, following the PRISMA framework, looked at how indigenous African people understand reproductive health by examining studies published from 2015 to 2025. A thorough search was done in PubMed, Scopus, Web of Science, CINAHL, and African Journals Online, resulting in 30 studies being identified for this study. An analysis of these showed that ideas about fertility, pregnancy, and contraception are strongly linked to traditions. Infertility, for instance, was often thought to be caused by ancestors' anger or witchcraft, while menstruation and pregnancy were controlled by taboos and rituals. Traditional birth attendants are essential in looking after mothers, especially where formal health services are difficult to reach. Even though these customs build and exploit cultural trust, they sometimes cause delays in communities seeking formal medical help, leading to adverse outcomes. The conclusion from this research is that combining traditional knowledge with modern health services will help improve reproductive health in Africa.",
+        "journal": "African journal of reproductive health",
+        "authors": [
+          "Matshidze Pfarelo",
+          "Mokwena T Johhannes",
+          "Munyangane O Livhuwani"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-09-17T00:00:00.000Z",
+        "activityAt": "2026-09-17T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42751697/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 6,
+          "recency": 10,
+          "total": 91,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "非洲原住民社区对生殖健康的认知：关于文化信仰、实践与健康结局的系统综述",
+          "researchQuestion": "非洲原住民如何理解生殖健康？文化信仰、实践与健康结局如何影响其生殖健康？",
+          "studyDesign": "系统综述，遵循PRISMA框架。",
+          "populationAndSample": "纳入2015年至2025年发表的研究，共识别30项研究；摘要未报告具体人群特征和地区分布。",
+          "methods": "在PubMed、Scopus、Web of Science、CINAHL和African Journals Online中进行全面检索，并对纳入研究进行分析。",
+          "keyResults": "分析显示，关于生育力、妊娠和避孕的观念与传统文化密切相关。不孕常被认为由祖先愤怒或巫术导致；月经和妊娠受禁忌与仪式控制。传统接生员在照护母亲方面至关重要，尤其是在正规卫生服务难以到达的地区。尽管这些习俗建立并利用了文化信任，但有时会导致社区延迟寻求正规医疗帮助，从而造成不良结局。结论认为，将传统知识与现代卫生服务相结合将有助于改善非洲的生殖健康。",
+          "limitations": "摘要未报告该综述的局限性、纳入研究质量评估及异质性分析等信息。",
+          "clinicalInterpretation": "该综述提示文化信仰与实践可能与生殖健康相关行为和就医延迟有关；作者结论认为传统知识与现代卫生服务相结合可能有助于改善非洲生殖健康。摘要未报告具体干预方案或临床推荐。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "6a96eb2d5d35e7671db2d80eee2bd07453e36e778245c0e6d01572af06e5017a"
+      },
+      {
+        "id": "pmid:42751815",
+        "pmid": "42751815",
+        "doi": "10.1177/17455057261490607",
+        "title": "Global Prevalence of Thyroid Dysfunction Among Pregnant Women, 2003-2024: A Systematic Review and Meta-analysis.",
+        "abstract": "IntroductionThyroid dysfunction is the second most common endocrine disorder globally, posing a significant public health challenge during pregnancy after gestational diabetes mellitus. Given the wide regional variations in reported data, this systematic review and meta-analysis aims to determine a definitive pooled prevalence of thyroid dysfunction among pregnant women to better inform clinical practice.MethodsThis study followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines and is registered in PROSPERO with registration protocol number of CRD42024581530. Five primary databases-PubMed, Embase, Google Scholar, Scopus, and Web of Science were searched to identify relevant studies. Study quality was assessed using the Joanna Briggs Institute appraisal tool. Data were extracted into Microsoft Excel and analyzed using STATA (version 17) software. Pooled prevalence estimates for thyroid dysfunction and its primary components were determined using a random-effects model. Heterogeneity was measured via I 2 statistics, and publication bias was evaluated using Funnel plots and Egger's test.ResultA total of 48 studies were included in this systematic review and meta-analysis. The pooled prevalence of thyroid dysfunction among pregnant women was 16.12% (95% CI: 13.97, 18.27, I 2 =98.16, p<0.001) using random effect model. The pooled prevalence of subclinical hypothyroidism, overt hypothyroidism, subclinical hyperthyroidism, and overt hyperthyroidism were 11.53% (95% CI: 8.954, 14.095), 3.29 (95% CI: 2.242, 4.330), 1.56% (95% CI: 0.809, 2.312), and 1.13% (95% CI: 0.363, 1.888) respectively.ConclusionThis meta-analysis found that thyroid dysfunction is a significant health concern among pregnant women affecting a significant proportion across studies. Subclinical hypothyroidism was identified as the most common subtype, while overt hyperthyroidism was comparatively rare.",
+        "journal": "Women's health (London, England)",
+        "authors": [
+          "Abebaw Worede",
+          "Arega Zenaw",
+          "Belete Biadgo",
+          "Berhanu Woldu",
+          "Elias Chane",
+          "Getnet Fetene",
+          "Nigusie Alemu",
+          "Sintayehu Admas",
+          "Teshiwal Dires",
+          "Yonatan Kindie"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-09-17T00:00:00.000Z",
+        "activityAt": "2026-09-17T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42751815/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 6,
+          "recency": 10,
+          "total": 91,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "2003-2024年全球孕妇甲状腺功能障碍患病率：系统综述与荟萃分析",
+          "researchQuestion": "确定孕妇甲状腺功能障碍的明确合并患病率，以更好指导临床实践。",
+          "studyDesign": "系统综述与荟萃分析，遵循PRISMA指南，已在PROSPERO注册，注册号为CRD42024581530。",
+          "populationAndSample": "共纳入48项研究，研究对象为孕妇；摘要未报告纳入孕妇的具体特征和地区分布。",
+          "methods": "检索PubMed、Embase、Google Scholar、Scopus和Web of Science五个主要数据库；使用Joanna Briggs Institute评估工具评价研究质量；数据提取至Microsoft Excel，并使用STATA 17软件分析；采用随机效应模型确定甲状腺功能障碍及其主要组分的合并患病率；通过I2统计量衡量异质性，通过漏斗图和Egger检验评估发表偏倚。",
+          "keyResults": "孕妇甲状腺功能障碍的合并患病率为16.12%（95% CI：13.97，18.27，I2=98.16，p<0.001，随机效应模型）。亚临床甲状腺功能减退、临床甲状腺功能减退、亚临床甲状腺功能亢进和临床甲状腺功能亢进的合并患病率分别为11.53%（95% CI：8.954，14.095）、3.29（95% CI：2.242，4.330）、1.56%（95% CI：0.809，2.312）和1.13%（95% CI：0.363，1.888）。结论认为甲状腺功能障碍是孕妇中重要的健康问题，亚临床甲状腺功能减退是最常见亚型，而临床甲状腺功能亢进相对罕见。",
+          "limitations": "摘要未报告明确的局限性讨论；报告异质性很高（I2=98.16），并进行了发表偏倚评估（漏斗图和Egger检验）。",
+          "clinicalInterpretation": "该荟萃分析估计孕妇甲状腺功能障碍合并患病率为16.12%，其中亚临床甲状腺功能减退最常见，临床甲状腺功能亢进相对罕见。摘要未报告筛查、治疗或随访推荐。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "498bb71a51f270376537d01d63f4b564c71c9733f27f22692882c884362d8b63"
+      },
+      {
+        "id": "pmid:42751421",
+        "pmid": "42751421",
+        "doi": "10.3389/fped.2026.1819220",
+        "title": "Fetal and neonatal effects of N-acetylcysteine for maternal chorioamnionitis: a systematic review.",
+        "abstract": "BACKGROUND: Maternal chorioamnionitis (mCA) and intra-amniotic infection/inflammation (Triple I) are major causes of fetal inflammatory injury and are associated with preterm birth, white matter injury, cerebral palsy, bronchopulmonary dysplasia (BPD), and necrotising enterocolitis (NEC). No established therapy directly targets the inflammatory and oxidative pathways underlying fetal neuroinjury. N-acetylcysteine (NAC), a glutathione precursor with antioxidant and anti-inflammatory properties, has emerged as a potential adjunctive neuroprotective therapy, although human evidence remains limited.\nOBJECTIVE: To evaluate fetal and neonatal outcomes associated with antenatal or intrapartum NAC administration in pregnancies complicated by mCA or Triple I.\nMETHODS: A systematic review was conducted using MEDLINE, Embase, Cochrane CENTRAL, and ClinicalTrials.gov from inception to December 23, 2025. Eligible studies included randomised controlled trials, prospective cohorts, non-randomised studies, and translational animal models evaluating NAC exposure in mCA or Triple I. Clinical outcomes, biomarkers, pharmacokinetics, and mechanistic pathways were synthesised narratively. Risk of bias was assessed using RoB 2, ROBINS-I, and SYRCLE tools.\nRESULTS: Ten studies met the inclusion criteria, including five human and six translational animal studies. Human evidence involved approximately 143 mother-infant dyads. NAC exposure was associated with preserved cerebrovascular coupling, improved delivery-room adaptation, reduced severe neonatal morbidity, and lower BPD rates without major safety concerns. Pharmacokinetic studies demonstrated rapid placental transfer and gestation-dependent neonatal clearance. Animal studies consistently showed reductions in inflammatory cytokines, oxidative stress, apoptosis, and microstructural brain injury.\nCONCLUSION: NAC demonstrates biologically plausible neuroprotective potential in mCA and Triple I; however, the evidence remains preliminary due to small sample sizes and heterogeneous protocols. However, some studies showed no or negative effects. Large multicenter randomised trials with standardised dosing and long-term neurodevelopmental follow-up are needed before routine clinical implementation can be recommended.",
+        "journal": "Frontiers in pediatrics",
+        "authors": [
+          "Bashir A Lwaleed",
+          "Fawzia Mohamed Elgharbawy",
+          "Kenni W Ajele",
+          "Mohammad A A Bayoumi"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-09-02T00:00:00.000Z",
+        "activityAt": "2026-09-17T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42751421/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 3.75,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "母体绒毛膜羊膜炎使用N-乙酰半胱氨酸对胎儿和新生儿的影响：系统综述",
+          "researchQuestion": "在合并母体绒毛膜羊膜炎（mCA）或羊膜腔内感染/炎症（Triple I）的妊娠中，产前或产时给予N-乙酰半胱氨酸（NAC）与胎儿和新生儿结局的关联如何？",
+          "studyDesign": "系统综述，纳入随机对照试验、前瞻性队列、非随机研究和转化动物模型。",
+          "populationAndSample": "共纳入10项研究，包括5项人类研究和6项转化动物研究；人类证据涉及约143对母婴。",
+          "methods": "检索MEDLINE、Embase、Cochrane CENTRAL和ClinicalTrials.gov，检索时间从建库至2025年12月23日；对临床结局、生物标志物、药代动力学和机制通路进行叙述性综合；使用RoB 2、ROBINS-I和SYRCLE工具评估偏倚风险。",
+          "keyResults": "NAC暴露与脑血流耦合保留、产房适应改善、严重新生儿发病率降低和支气管肺发育不良（BPD）发生率降低相关，且无重大安全性担忧。药代动力学研究显示NAC可快速通过胎盘，新生儿清除率随胎龄变化。动物研究一致显示炎症细胞因子、氧化应激、凋亡和脑微结构损伤减少。部分研究显示无效应或负效应。结论认为NAC在mCA和Triple I中具有生物学上合理的神经保护潜力，但由于样本量小和方案异质，证据仍属初步；在推荐常规临床实施前，需要标准化给药和长期神经发育随访的大型多中心随机试验。",
+          "limitations": "证据仍属初步；样本量小；方案异质；部分研究显示无效应或负效应；人类证据有限。",
+          "clinicalInterpretation": "摘要结论认为NAC在mCA和Triple I中具有生物学上合理的神经保护潜力，但现有证据初步且存在小样本、方案异质和部分无效应或负效应结果。摘要未报告可推荐常规临床实施的具体方案。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "a1b979eccdba363f4f51e60053f082cdf3bb12b0229700ab3d68b2c0f2c95223"
+      },
+      {
+        "id": "pmid:42750300",
+        "pmid": "42750300",
+        "doi": "10.3802/jgo.2027.38.e21",
+        "title": "Current status of fertility preservation for borderline ovarian tumor in Asian countries: results from ASGO-special task force for fertility preservation; part II. Fertility and pregnancy planning following initial treatment.",
+        "abstract": "OBJECTIVE: To examine current practices of fertility preservation (FP) and infertility treatment after fertility-sparing surgery for borderline ovarian tumors (BOTs) across Asian regions.\nMETHODS: A cross-national survey was conducted among gynecologic oncology experts in 10 Asian regions (Chinese Mainland, Hong Kong, India, Indonesia, Japan, Malaysia, South Korea, Taiwan, Thailand, and the Philippines) using a 7 survey questions assessing ovarian function monitoring, FP timing and methods, and management after childbirth or recurrence.\nRESULTS: Ovarian function was routinely monitored in 7 of the 10 regions (70%), although the methods and duration of follow-up varied. Oocyte pickup was performed intraoperatively in 5 of the 10 regions (50%) and postoperatively in 7 of the 10 regions (70%). Three of the 10 regions (30%) routinely performed completion surgery after childbirth, which appeared to be less common in high-income regions. FP in recurrent BOT was considered feasible in 8 regions (80%).\nCONCLUSION: Inter regions differences were observed in the adoption of advanced assisted reproductive technologies for BOT and in the prioritization of FP. Because the oncologic safety of these approaches remains supported by limited evidence, further studies are required before their widespread implementation in clinical practice. In addition, consensus based on robust evidence, including oncologic outcomes, is needed regarding the management of recurrence and post-childbirth treatment strategies.",
+        "journal": "Journal of gynecologic oncology",
+        "authors": [
+          "Allen Gideon Tan",
+          "Angela Cho",
+          "Biswajit Dash",
+          "Christine Shan-Chi Chiu",
+          "Doris R Benavides",
+          "Emiri Miyamoto",
+          "Geon Woo Lee",
+          "Hiroaki Kajiyama",
+          "Jae-Weon Kim",
+          "Jennifer Ko",
+          "Kensuke Sakai",
+          "Kosuke Shigematsu",
+          "Ling Lim",
+          "Masato Yoshihara",
+          "Min-Hyun Baek",
+          "Mohd Faizal Ahmad",
+          "Motohiro Chosokabe",
+          "Motoki Takenaka",
+          "Nao Suzuki",
+          "Navamol Lekskul",
+          "Pinyada Panyavaranant",
+          "Reeta Mahey",
+          "Romelyn Imperio-Onglao",
+          "Rudrika Chandra",
+          "Sanghoon Lee",
+          "Sarita Kumari",
+          "Se Ik Kim",
+          "Shiho Kuji",
+          "Shohei Iyoshi",
+          "Siew Fei Ngu",
+          "Syamel Muhammad",
+          "Tingyan Shi",
+          "Very Great Eka Putra",
+          "Virgilio M Novero",
+          "Yu Xue"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-07T00:00:00.000Z",
+        "activityAt": "2026-09-17T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42750300/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine",
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "亚洲国家卵巢交界性肿瘤生育力保存现状：ASGO生育力保存特别工作组结果；第二部分：初始治疗后的生育与妊娠计划",
+          "researchQuestion": "检查亚洲地区卵巢交界性肿瘤（BOT）保留生育功能手术后，生育力保存（FP）和不孕症治疗的当前实践。",
+          "studyDesign": "跨国调查，由ASGO生育力保存特别工作组开展。",
+          "populationAndSample": "调查对象为10个亚洲地区的妇科肿瘤专家：中国大陆、香港、印度、印度尼西亚、日本、马来西亚、韩国、台湾、泰国和菲律宾；摘要未报告具体应答者数量。",
+          "methods": "使用7个调查问题，评估卵巢功能监测、生育力保存时机和方法，以及分娩后或复发后的管理。",
+          "keyResults": "10个地区中有7个（70%）常规监测卵巢功能，但随访方法和持续时间不同。10个地区中有5个（50%）在术中取卵，10个地区中有7个（70%）在术后取卵。10个地区中有3个（30%）在分娩后常规进行完成手术，这在高收入地区似乎较不常见。8个地区（80%）认为复发BOT中的生育力保存可行。结论认为，各地区在BOT中采用先进辅助生殖技术和生育力保存优先次序方面存在差异；由于这些方法的肿瘤安全性证据有限，在临床实践中广泛实施前需要进一步研究；关于复发和分娩后治疗策略的管理，需要基于包括肿瘤学结局在内的稳健证据达成共识。",
+          "limitations": "这些方法的肿瘤安全性仍由有限证据支持；摘要未报告调查应答率、样本量或其他调查局限性。",
+          "clinicalInterpretation": "调查显示亚洲不同地区在BOT患者卵巢功能监测、取卵时机、分娩后完成手术和复发时生育力保存方面存在实践差异。摘要结论认为这些方法在广泛临床实施前需进一步研究，并需就复发和分娩后治疗策略形成基于稳健证据的共识。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "8e2db5d7ece60e98d25dc1b858937f4bf6f84e53ffa5d453e5de535daf0e1f47"
+      },
+      {
+        "id": "pmid:42750302",
+        "pmid": "42750302",
+        "doi": "10.3802/jgo.2027.38.e25",
+        "title": "Endometrial cancer in G20 countries, 1990-2050: trends, projections, and machine learning-based risk drivers.",
+        "abstract": "OBJECTIVE: This study aimed to evaluate long-term trends and future trajectories of endometrial cancer burden and population-level factors associated with its incidence across G20 countries.\nMETHODS: Using Global Burden of Disease 2023 data, we assessed incidence, prevalence, mortality, and disability-adjusted life years (DALYs) among women in G20 countries from 1990 to 2023. Trends were analyzed by age and country using estimated annual percentage change, Joinpoint regression, cluster analysis, and decomposition. Future burden was projected using autoregressive integrated moving average, exponential smoothing, and Bayesian age-period-cohort models. Summary exposure values for 85 risk factors were incorporated into machine-learning models interpreted using SHapley Additive exPlanations (SHAP).\nRESULTS: Substantial cross-national heterogeneity was observed in 2023. Although absolute case numbers increased in most countries, age-standardized mortality and DALYs generally stabilized or declined. Population ageing and growth primarily drove rising case numbers, whereas epidemiological improvements offset mortality. Projections indicated continued growth in absolute burden. Machine-learning analyses identified nonlinear associations of incidence with age structure, sociodemographic development, and lifestyle-related factors.\nCONCLUSION: Endometrial cancer burden in G20 countries is shifting from a mortality-dominated pattern toward increasing chronic health loss, largely because of population ageing and growth. Prevention and control strategies should extend beyond mortality reduction to emphasize risk stratification, early detection, survivorship care, and long-term management. Machine-learning and SHAP findings provide exploratory evidence of population-level exposure profiles associated with incidence and should be considered hypothesis-generating rather than causal.",
+        "journal": "Journal of gynecologic oncology",
+        "authors": [
+          "Biqing Chen",
+          "Haizhu Sun",
+          "Xiaohong Qiu"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-03T00:00:00.000Z",
+        "activityAt": "2026-09-17T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42750302/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "G20国家子宫内膜癌1990-2050：趋势、预测及基于机器学习的风险驱动因素",
+          "researchQuestion": "评估G20国家子宫内膜癌负担的长期趋势和未来轨迹，以及与发病率相关的人群层面因素。",
+          "studyDesign": "基于Global Burden of Disease 2023数据的趋势分析、预测建模和机器学习分析。",
+          "populationAndSample": "研究对象为G20国家女性，评估1990年至2023年的发病率、患病率、死亡率和伤残调整生命年（DALYs）；未来负担预测至2050年；摘要未报告个体样本量。",
+          "methods": "使用估计年度百分比变化、Joinpoint回归、聚类分析和分解分析，按年龄和国家分析趋势；使用自回归积分滑动平均、指数平滑和贝叶斯年龄-时期-队列模型预测未来负担；将85个风险因素的汇总暴露值纳入机器学习模型，并使用SHAP进行解释。",
+          "keyResults": "2023年观察到显著的跨国异质性。尽管大多数国家的绝对病例数增加，年龄标化死亡率和DALYs总体稳定或下降。人口老龄化和增长主要推动病例数上升，而流行病学改善抵消了死亡率。预测显示绝对负担继续增长。机器学习分析发现发病率与年龄结构、社会人口学发展和生活方式相关因素之间存在非线性关联。结论认为G20国家子宫内膜癌负担正从以死亡为主转向慢性健康损失增加，主要原因是人口老龄化和增长。预防和控制策略应超越降低死亡率，强调风险分层、早期检测、生存者照护和长期管理。机器学习和SHAP结果提供了与发病率相关的人群暴露特征的探索性证据，应被视为产生假设而非因果。",
+          "limitations": "机器学习和SHAP发现为探索性证据，应视为产生假设而非因果；摘要未报告其他具体局限性。",
+          "clinicalInterpretation": "该研究提示G20国家子宫内膜癌绝对负担可能继续增长，负担模式正转向慢性健康损失；机器学习识别的人群暴露关联为探索性，非因果。摘要未报告具体筛查、治疗或随访推荐。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "6b3e8def29f24e5a3d19fbbb02f10450790d811397ca4a0f6fd7331faf5051a5"
+      }
+    ]
+  }
+}
