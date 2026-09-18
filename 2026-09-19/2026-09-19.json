@@ -1,0 +1,254 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-09-18T22:46:53.973Z",
+    "dataAsOf": "2026-09-18T22:46:53.973Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及孕妇营养不良双重负担的患病率：系统综述与荟萃分析、早发型重度子痫前期期待管理期间降压治疗升级与母体结局、子宫内膜异位症中的生活方式因素与症状负担：关于营养、体力活动和心理社会健康的探索性混合方法分析。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42755021",
+        "pmid": "42755021",
+        "doi": "10.1111/jhn.70347",
+        "title": "Double Burden of Malnutrition Prevalence in Pregnant Women: Systematic Review and Meta-Analysis.",
+        "abstract": "INTRODUCTION: The coexistence of undernutrition and overweight, obesity, or diet-related noncommunicable diseases and micronutrient deficiency in pregnant women is defined by the WHO as a double burden of malnutrition (DBM). These coexistences are a critical aspect of maternal and antenatal care, especially in low- and middle-income countries.\nOBJECTIVE: To estimate the global prevalence of DBM in pregnant women through a systematic review and meta-analysis.\nMETHODS: The systematic review was conducted in accordance with the PRISMA recommendations. Studies that reported prevalence measures of DBM in healthy pregnant women were included. DBM was considered as the coexistence of underweight with gestational diabetes mellitus (GDM), underweight with hypertension, overweight/obesity with anemia, overweight/obesity with vitamin D deficiency, overweight/obesity with vitamin B12 deficiency, and overweight/obesity with folate deficiency. The meta-analysis used a random-effects model with inverse-variance weighting. Risk of bias was assessed using Joanna Briggs Institute tools, and the certainty of the evidence was evaluated using the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) framework.\nRESULTS: The systematic review included 62 articles totaling 1,386,245 pregnant women, at 8-42 gestational weeks and 13-45 years of age. The most common DBMs identified were overweight/obesity and vitamin D deficiency (21%; 95% CI: 14%-27%, n = 10 studies) and overweight/obesity and anemia (9%; 95% CI: 7%-10%, n = 18 studies). A meta-analysis of overweight/obesity and micronutrient deficiency was not conducted due to the small number of eligible studies. Most studies (66.3%) had high methodological quality; however, GRADE rated the overall certainty of evidence as low.\nCONCLUSION: A high prevalence of overweight/obesity with vitamin D deficiency and anemia were observed. These results emphasize the need for stronger public policies to ensure equitable access to healthy diets, evidence-based supplementation, and continuous nutritional monitoring during pregnancy.",
+        "journal": "Journal of human nutrition and dietetics : the official journal of the British Dietetic Association",
+        "authors": [
+          "Amanda Biete",
+          "Camila Biete",
+          "Erika S O Patriota",
+          "Nathalia Pizato",
+          "Vivian S S Gonçalves"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-01T00:00:00.000Z",
+        "activityAt": "2026-09-18T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42755021/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 6,
+          "recency": 10,
+          "total": 91,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "孕妇营养不良双重负担的患病率：系统综述与荟萃分析",
+          "researchQuestion": "估计全球孕妇营养不良双重负担（DBM）的患病率。",
+          "studyDesign": "系统综述与荟萃分析；遵循PRISMA建议；采用随机效应模型和逆方差加权；使用Joanna Briggs Institute工具评估偏倚风险，并使用GRADE框架评估证据确定性。",
+          "populationAndSample": "纳入62篇文章，共1,386,245名健康孕妇，孕周8-42周，年龄13-45岁。",
+          "methods": "纳入报告健康孕妇DBM患病率的研究。DBM定义为低体重与妊娠期糖尿病（GDM）共存、低体重与高血压共存、超重/肥胖与贫血共存、超重/肥胖与维生素D缺乏共存、超重/肥胖与维生素B12缺乏共存，以及超重/肥胖与叶酸缺乏共存。采用随机效应模型和逆方差加权进行荟萃分析；使用Joanna Briggs Institute工具评估偏倚风险，并使用GRADE评估证据确定性。",
+          "keyResults": "最常见的DBM为超重/肥胖与维生素D缺乏（21%；95% CI：14%-27%，n=10项研究）以及超重/肥胖与贫血（9%；95% CI：7%-10%，n=18项研究）。由于符合条件的研究数量少，未对超重/肥胖与微量营养素缺乏进行荟萃分析。66.3%的研究方法学质量高；GRADE评定总体证据确定性为低。",
+          "limitations": "摘要报告：因符合条件的研究数量少，未对超重/肥胖与微量营养素缺乏进行荟萃分析；GRADE评定总体证据确定性为低。",
+          "clinicalInterpretation": "摘要结论指出，观察到超重/肥胖与维生素D缺乏及贫血的患病率较高；这些结果强调需要更强的公共政策，以确保公平获得健康饮食、循证补充剂以及孕期持续营养监测。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "673fd2b85bc7584a46e24b65f9daaef02338c24922d9ecb27ef00fd3c0815ef7"
+      },
+      {
+        "id": "doi:10.1016/j.ajog.2026.09.019",
+        "doi": "10.1016/j.ajog.2026.09.019",
+        "title": "Antihypertensive Treatment Escalation and Maternal Outcomes During Expectant Management of Early-Onset Preeclampsia With Severe Features",
+        "abstract": "Early-onset preeclampsia with severe features is associated with substantial maternal morbidity. During expectant management, oral antihypertensive medications are frequently escalated and intravenous agents are administered for severe hypertension, yet the clinical significance of escalating antihypertensive treatment has not been well characterized.",
+        "journal": "American Journal of Obstetrics & Gynecology",
+        "authors": [
+          "Yossi Bart, Zakaria Doughan, Laura Diab, Ahmed Salaheldin Zaki Moustafa, Baha M. Sibai"
+        ],
+        "publicationTypes": [],
+        "publishedAt": "2026-09-18T00:00:00.000Z",
+        "activityAt": "2026-09-18T00:00:00.000Z",
+        "url": "https://www.ajog.org/article/S0002-9378(26)00502-8/fulltext?rss=yes",
+        "sourceKinds": [
+          "journal-rss"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "早发型重度子痫前期期待管理期间降压治疗升级与母体结局",
+          "researchQuestion": "在接受期待管理的早发型重度子痫前期中，降压治疗升级（包括口服药物升级和静脉用药治疗重度高血压）的临床意义如何？",
+          "studyDesign": "摘要未报告",
+          "populationAndSample": "摘要未报告",
+          "methods": "摘要未报告",
+          "keyResults": "摘要未报告",
+          "limitations": "摘要未报告",
+          "clinicalInterpretation": "摘要未报告"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "b8a96607a04dd0b126838b25ee325fa4010ca906fada1ad86c6de6c59b12b842"
+      },
+      {
+        "id": "pmid:42754873",
+        "pmid": "42754873",
+        "doi": "10.1186/s12905-026-04886-1",
+        "title": "Lifestyle factors and symptom burden in endometriosis: an exploratory mixed-methods analysis of nutrition, physical activity, and psychosocial well-being.",
+        "abstract": "BACKGROUND: Endometriosis affects approximately 10% of reproductive-age women worldwide, with symptom burden significantly impacting quality of life. While current treatment guidelines focus primarily on hormonal and surgical interventions, the role of lifestyle factors in symptom management remains underexplored. Major clinical guidelines acknowledge insufficient evidence for specific lifestyle recommendations, highlighting the need for exploratory research. Therefore, our aim is to explore potential associations between lifestyle factors (nutrition, physical activity, psychosocial well-being) and symptom burden in women with endometriosis using a mixed-methods approach.\nMETHODS: A convergent mixed-method design combining a cross-sectional online survey (n = 378) with semi-structured expert interviews (n = 5) was conducted between January and March 2025. Lifestyle factors were assessed using study-specific composite indices for dietary habits, physical activity, and psychosocial well-being. Symptom burden was evaluated using validated endometriosis-related items informed by established assessment tools and 11-point numeric rating scales for symptom frequency and intensity.\nRESULTS: In exploratory analyses, the Dietary Habits Index was not significantly associated with overall symptom burden in the study cohort. However, subgroup analysis revealed a weak negative correlation in participants without food intolerances (β = -0.144, p = 0.021). Physical activity and psychosocial well-being indices showed weak associations with symptom burden (physical activity: β = 0.133, p = 0.010; psychosocial well-being: β = -0.261, p < 0.001). Expert interviews emphasized the importance of individualized, multimodal approaches and highlighted psychosocial factors as particularly relevant for symptom management.\nCONCLUSIONS: This exploratory study identified weak and context-dependent associations between selected lifestyle factors and endometriosis symptom burden, with psychosocial well-being showing the most consistent relationship. The findings highlight the potential relevance of individualized lifestyle support as an adjunct to conventional medical care. Given the cross-sectional design and methodological limitations, these hypothesis-generating findings require confirmation in longitudinal and intervention studies.",
+        "journal": "BMC women's health",
+        "authors": [
+          "A Henze",
+          "D Portius",
+          "L Wulfhorst"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-17T00:00:00.000Z",
+        "activityAt": "2026-09-18T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42754873/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "子宫内膜异位症中的生活方式因素与症状负担：关于营养、体力活动和心理社会健康的探索性混合方法分析",
+          "researchQuestion": "探索子宫内膜异位症女性的生活方式因素（营养、体力活动、心理社会健康）与症状负担之间的潜在关联。",
+          "studyDesign": "探索性混合方法研究；采用收敛式混合方法设计，结合横断面在线调查和半结构化专家访谈。",
+          "populationAndSample": "横断面在线调查n=378；半结构化专家访谈n=5；研究时间为2025年1月至3月。背景提及子宫内膜异位症影响全球约10%的育龄女性。",
+          "methods": "采用收敛式混合方法设计，结合横断面在线调查（n=378）与半结构化专家访谈（n=5），于2025年1月至3月进行。使用研究特定复合指数评估饮食习惯、体力活动和心理社会健康。症状负担使用经过验证的子宫内膜异位症相关条目（参考既有评估工具）以及11点数字评分量表评估症状频率和强度。",
+          "keyResults": "在探索性分析中，饮食习惯指数与研究队列的总体症状负担无显著关联。亚组分析显示，在没有食物不耐受的参与者中存在弱负相关（β = -0.144，p = 0.021）。体力活动和心理社会健康指数与症状负担呈弱关联（体力活动：β = 0.133，p = 0.010；心理社会健康：β = -0.261，p < 0.001）。专家访谈强调个体化、多模式方法的重要性，并突出心理社会因素对症状管理尤其相关。",
+          "limitations": "摘要报告：横断面设计和方法学局限性；这些产生假设的发现需要在纵向和干预性研究中确认；关联较弱且依赖背景。",
+          "clinicalInterpretation": "摘要结论指出，这项探索性研究识别出所选生活方式因素与子宫内膜异位症症状负担之间较弱且依赖背景的关联，中心理社会健康关系最一致；这些发现提示个体化生活方式支持作为常规医疗辅助的潜在相关性。因果关系未被确立。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "303e77ee4ce3824d4c54904f5f18b79b612d1b0635f44c4adf08e633b62b78f9"
+      },
+      {
+        "id": "pmid:42754925",
+        "pmid": "42754925",
+        "doi": "10.1186/s40748-026-00299-y",
+        "title": "The risk of late-onset fetal growth restriction and unfavorable neonatal outcomes among fetuses within the 10th-25th weight percentile: a prospective cohort study.",
+        "abstract": "BACKGROUND: While negative neonatal outcomes are more frequent in fetuses with estimated fetal weight (EFW) < 10%, they also occur often in fetuses with appropriate-for-gestational-age. This study aimed to evaluate the neonatal outcomes in 10th-25th percentile weight fetuses versus > 25th-<90th percentile.\nMETHODS: This prospective cohort study took place at the Maternal-Fetal Medicine Department of a tertiary center in Tehran, Iran, from May 2024- March 2026. Low risk pregnant mothers aged 18-39 years, with singleton pregnancies, exhibiting EFW of 10th-90th percentile, were classified into: 10th-25th percentile group and > 25th-<90th percentile group. Both groups underwent biometric ultrasound at 32-33 weeks of gestation and additionally received biometric and fetal vascular Doppler ultrasound three weeks afterwards. We evaluated the two groups on: (1) Doppler parameters including umbilical artery pulsatility index (UA-PI), middle cerebral artery pulsatility index (MCA-PI), average uterine artery PI, and cerebroplacental ratio (CPR), (2) adverse perinatal and neonatal outcomes including fetal growth restriction (FGR), intrauterine fetal demise, oligohydramnios, meconium-stained liquor, low birth weight (LBW), cesarean section due to fetal distress, abnormal cord arterial blood gas (ABG), low APGAR score, neonatal intensive care unit (NICU) admission, respiratory distress syndrome (RDS), and neonatal mortality. We examined whether the Doppler indices had any predictive value for adverse outcomes in 10th-25th percentile weight fetuses.\nRESULTS: Of 402 individuals, 320 (79.6%) were in the > 25th-<90th percentile group, while 82 (20.4%) were in the 10th-25th percentile group. The incidence of negative perinatal and neonatal outcomes like FGR (25.60% vs. 2.81%), LBW (20.73% vs. 0.31%), RDS (13.41% vs. 5.31%), low APGAR scores (14.63% vs. 5.31%), abnormal ABG (13.41% vs. 3.75%), and NICU admission (28.04% vs. 9.37%) was higher in the 10th-25th percentile group compared to the > 25th-<90th percentile group. Although abnormal UA-PI, abnormal MCA-PI, and abnormal CPR were more frequently found in fetuses weighing in the 10th-25th percentile group; however, fetal Doppler indices did not successfully predict negative outcomes for fetuses in this weight range.\nCONCLUSIONS: Adverse perinatal and neonatal outcomes were higher in fetuses within 10th-25th percentile for birth weight, with abnormal Doppler indices more common, but these indices did not predict negative outcomes effectively.",
+        "journal": "Maternal health, neonatology and perinatology",
+        "authors": [
+          "Ameneh Ranjbar",
+          "Fakhri Khalighi",
+          "Mahtab Motevasselian",
+          "Maryam Kashanian",
+          "Maryam Salari",
+          "Neda Hashemi",
+          "Negar Esmaeili",
+          "Nooshin Eshraghi",
+          "Tahmineh Ezazi Bojnordi"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-17T00:00:00.000Z",
+        "activityAt": "2026-09-18T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42754925/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "第10-25百分位体重胎儿发生晚发型胎儿生长受限及不良新生儿结局的风险：一项前瞻性队列研究",
+          "researchQuestion": "评估第10-25百分位体重胎儿与>25th-<90th百分位胎儿相比的新生儿结局，并检验多普勒指标是否对第10-25百分位体重胎儿的不良结局具有预测价值。",
+          "studyDesign": "前瞻性队列研究。",
+          "populationAndSample": "伊朗德黑兰一家三级中心的母胎医学部，2024年5月至2026年3月；低风险孕妇，年龄18-39岁，单胎妊娠，估计胎儿体重（EFW）为第10-90百分位；分为第10-25百分位组和>25th-<90th百分位组。共402人：320人（79.6%）在>25th-<90th百分位组，82人（20.4%）在第10-25百分位组。",
+          "methods": "两组在孕32-33周接受生物测量超声，并在三周后额外接受生物测量和胎儿血管多普勒超声。评估（1）多普勒参数：脐动脉搏动指数（UA-PI）、大脑中动脉搏动指数（MCA-PI）、平均子宫动脉PI和脑胎盘比（CPR）；（2）不良围产期和新生儿结局：胎儿生长受限（FGR）、宫内胎儿死亡、羊水过少、胎粪污染羊水、低出生体重（LBW）、因胎儿窘迫行剖宫产、脐动脉血气（ABG）异常、低APGAR评分、新生儿重症监护病房（NICU）入住、呼吸窘迫综合征（RDS）和新生儿死亡。并检验多普勒指数对第10-25百分位体重胎儿不良结局是否具有预测价值。",
+          "keyResults": "在402人中，320人（79.6%）属于>25th-<90th百分位组，82人（20.4%）属于第10-25百分位组。与>25th-<90th百分位组相比，第10-25百分位组的围产期和新生儿不良结局发生率更高：FGR（25.60% vs. 2.81%）、LBW（20.73% vs. 0.31%）、RDS（13.41% vs. 5.31%）、低APGAR评分（14.63% vs. 5.31%）、ABG异常（13.41% vs. 3.75%）和NICU入住（28.04% vs. 9.37%）。异常UA-PI、异常MCA-PI和异常CPR在第10-25百分位体重胎儿中更常见；然而，胎儿多普勒指数未能成功预测该体重范围胎儿的不良结局。",
+          "limitations": "摘要报告：多普勒指标未能有效预测第10-25百分位体重胎儿的不良结局；研究为前瞻性队列设计，摘要未报告其他专门局限性。",
+          "clinicalInterpretation": "摘要结论指出，出生体重位于第10-25百分位的胎儿不良围产期和新生儿结局更高，异常多普勒指数更常见，但这些指标未能有效预测不良结局。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "be8b3e94131c92bca762bdcd772e60a070c9ee250e9bb44519c2a56f7177954c"
+      },
+      {
+        "id": "pmid:42755024",
+        "pmid": "42755024",
+        "doi": "10.1111/jog.70413",
+        "title": "Cervical, Uterine, and Ovarian Cancers in Chinese Women Aged 55 Years and Older: Burden, Temporal Trends, Risk Attribution, and Future Projections From the Global Burden of Disease Study 2021.",
+        "abstract": "AIM: To compare the burden, temporal trends, risk factor attribution, and future projections of cervical, uterine, and ovarian cancers among Chinese women aged 55 years and older.\nMETHODS: We conducted a population-based descriptive and projection analysis using data from the Global Burden of Disease Study 2021. Incidence, mortality, disability-adjusted life years (DALYs), and corresponding age-standardized rates for cervical, uterine, and ovarian cancers were extracted for 1990-2021. Age-specific burden, temporal trends, and attributable risk factors were examined. Incidence and mortality from 2022 to 2036 were projected using a Bayesian age-specific trend model.\nRESULTS: From 1990 to 2021, the absolute numbers of incident cases, deaths, and DALYs increased for all three cancers among Chinese women aged 55 years and older, whereas age-standardized mortality and DALY rates generally declined. In 2021, cervical cancer showed the highest overall burden, with mortality rates increasing markedly in the oldest age groups. Uterine cancer showed the largest increase in incidence age-standardized rate and a burden concentrated mainly in the younger segment of older women. Ovarian cancer showed a relatively unfavorable mortality pattern and was projected to have increasing incidence and mortality through 2036. Risk attribution differed by cancer type: cervical cancer mortality was mainly attributable to unsafe sex, uterine cancer mortality to high body mass index, and ovarian cancer mortality to mixed metabolic and environmental or occupational risks.\nCONCLUSION: Cervical, uterine, and ovarian cancers remain substantial and heterogeneous health burdens among older Chinese women. Despite declines in age-standardized mortality and DALY rates, population aging is likely to increase the absolute burden. Age-specific prevention, screening, early detection, and resource allocation are needed for older women in China.",
+        "journal": "The journal of obstetrics and gynaecology research",
+        "authors": [
+          "Shang Zheng",
+          "Tao Zhu",
+          "Xin Zhang",
+          "Zhan Gao",
+          "Zhenhui Han"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-01T00:00:00.000Z",
+        "activityAt": "2026-09-18T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42755024/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "中国55岁及以上女性宫颈癌、子宫癌和卵巢癌：基于2021年全球疾病负担研究的负担、时间趋势、风险归因和未来预测",
+          "researchQuestion": "比较中国55岁及以上女性宫颈癌、子宫癌和卵巢癌的负担、时间趋势、风险因素归因和未来预测。",
+          "studyDesign": "基于人群的描述性和预测分析，使用2021年全球疾病负担研究数据。",
+          "populationAndSample": "中国55岁及以上女性；数据来自GBD 2021；提取1990-2021年的宫颈癌、子宫癌和卵巢癌数据。",
+          "methods": "从GBD 2021提取1990-2021年宫颈癌、子宫癌和卵巢癌的发病率、死亡率、残疾调整生命年（DALYs）及相应年龄标准化率。分析年龄别负担、时间趋势和归因风险因素。使用贝叶斯年龄别趋势模型预测2022-2036年的发病率和死亡率。",
+          "keyResults": "1990年至2021年，中国55岁及以上女性中三种癌症的绝对发病例数、死亡人数和DALYs均增加，而年龄标准化死亡率和DALY率总体下降。2021年，宫颈癌总体负担最高，最年长年龄组的死亡率显著上升。子宫癌的年龄标准化发病率增幅最大，负担主要集中在较年轻的老年女性。卵巢癌显示相对不利的死亡模式，并预测其发病率和死亡率到2036年持续增加。风险归因因癌症类型而异：宫颈癌死亡主要归因于不安全性行为，子宫癌死亡归因于高体重指数，卵巢癌死亡归因于混合的代谢及环境或职业风险。",
+          "limitations": "摘要未报告",
+          "clinicalInterpretation": "摘要结论指出，宫颈癌、子宫癌和卵巢癌在中国老年女性中仍是巨大且异质性的健康负担；尽管年龄标准化死亡率和DALY率下降，人口老龄化可能增加绝对负担。作者提出需要针对老年女性的年龄别预防、筛查、早期发现和资源分配。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "a66b83c914b5003aba0754a1463fdba618a459ed3f83e6faf79ed2e27c4291b4"
+      }
+    ]
+  }
+}
