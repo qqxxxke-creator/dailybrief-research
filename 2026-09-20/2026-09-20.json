@@ -1,0 +1,216 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-09-19T22:54:07.310Z",
+    "dataAsOf": "2026-09-19T22:54:07.310Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及PAX1/JAM3甲基化在高危HPV阳性女性中的Meta分析、The NF-κB pathway in inflammatory responses in preeclampsia: A systematic review and meta-analysis.、Early life trauma and endometriosis: A case-control study on type and timing of adverse experiences.。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42760652",
+        "pmid": "42760652",
+        "doi": "10.1097/md.0000000000050757",
+        "title": "Meta-analysis of PAX1/JAM3 methylation performance in high-risk HPV-positive women.",
+        "abstract": "BACKGROUND: DNA methylation is an emerging biomarker for cervical cancer screening. This study aimed to evaluate the diagnostic performance of paired box gene 1/junctional adhesion molecule 3 (JAM3) dual-gene methylation analysis for detecting high-grade cervical intraepithelial neoplasia and cervical cancer, and to explore its potential utility as a triage biomarker for high-risk human papillomavirus positive women.\nMETHODS: A systematic search was conducted across 5 databases, including PubMed, for studies on PAX1/JAM3 methylation testing in cervical cancer screening. Following quality assessment via the QUADAS-2 tool, statistical analyses were performed using Meta-Disc 1.4 and Stata 17 software.\nRESULTS: Eight studies involving 7494 participants were included in the meta-analysis. For diagnosing cervical intraepithelial neoplasia grade 2 and above the pooled sensitivity was 0.81 (95% CI: 0.73-0.88), specificity was 0.95 (95% CI: 0.94-0.96), and the area under the curve was 0.96. For diagnosing cervical intraepithelial neoplasia grade 3 and above the pooled sensitivity was 0.85 (95% CI: 0.75-0.92), specificity was 0.88 (95% CI: 0.86-0.89), and the area under the curve was 0.90.\nCONCLUSIONS: PAX1/JAM3 dual-gene methylation testing demonstrates high diagnostic accuracy for detecting high-grade cervical intraepithelial neoplasia and cervical cancer, supporting its potential role as a triage biomarker in high-risk human papillomavirus positive women.",
+        "journal": "Medicine",
+        "authors": [
+          "Lianxing Qi",
+          "Minxia Luo",
+          "Yinfang Wu"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "publishedAt": "2026-09-18T00:00:00.000Z",
+        "activityAt": "2026-09-19T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42760652/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "PAX1/JAM3甲基化在高危HPV阳性女性中的Meta分析",
+          "researchQuestion": "评估配对盒基因1/连接黏附分子3（PAX1/JAM3）双基因甲基化分析检测高级别宫颈上皮内瘤变和宫颈癌的诊断性能，并探讨其作为高危人乳头瘤病毒阳性女性分诊生物标志物的潜在用途。",
+          "studyDesign": "系统综述与Meta分析；系统检索5个数据库（包括PubMed），使用QUADAS-2工具进行质量评价，采用Meta-Disc 1.4和Stata 17软件进行统计分析。",
+          "populationAndSample": "纳入8项研究，共7494名参与者；研究关注宫颈癌筛查中的PAX1/JAM3甲基化检测。",
+          "methods": "系统检索5个数据库（包括PubMed）中关于PAX1/JAM3甲基化检测用于宫颈癌筛查的研究；使用QUADAS-2工具进行质量评价；采用Meta-Disc 1.4和Stata 17软件进行统计分析。",
+          "keyResults": "诊断CIN2及以上时，合并敏感度为0.81（95% CI: 0.73-0.88），特异度为0.95（95% CI: 0.94-0.96），曲线下面积为0.96。诊断CIN3及以上时，合并敏感度为0.85（95% CI: 0.75-0.92），特异度为0.88（95% CI: 0",
+          "limitations": "摘要未报告",
+          "clinicalInterpretation": "摘要未报告"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "958a4de874ecfb7a7dce09c3b8480d28bd6a42fd1056b2f5edcee0df0ad6c267"
+      },
+      {
+        "id": "pmid:42760699",
+        "pmid": "42760699",
+        "doi": "10.1097/md.0000000000050552",
+        "title": "The NF-κB pathway in inflammatory responses in preeclampsia: A systematic review and meta-analysis.",
+        "abstract": "BACKGROUND: Preeclampsia is a pregnancy-specific hypertensive disorder associated with systemic inflammation, endothelial dysfunction, and adverse maternal and fetal outcomes. The nuclear factor kappa B (NF-κB) signaling pathway has been implicated in inflammatory activation, but its role in preeclampsia remains incompletely defined. This systematic review and meta-analysis aimed to evaluate the association between NF-κB pathway activation and inflammatory responses in preeclampsia.\nMETHODS: This meta-analysis reviewed 15 peer-reviewed articles focusing on the involvement of the NF-κB pathway in preeclampsia. Quantitative assessments included changes in systolic and diastolic blood pressure and levels of key inflammatory mediators, including tumor necrosis factor-alpha (TNF-α), interleukin-1 beta, interleukin-6 (IL-6), and NF-κB.\nRESULTS: Systolic and diastolic blood pressure were significantly elevated in patients with preeclampsia. TNF-α and NF-κB levels were also significantly increased, indicating enhanced inflammatory activation associated with the disease. In contrast, interleukin-1 beta and IL-6 levels did not differ significantly, although IL-6 showed a nonsignificant trend toward increased levels.\nCONCLUSION: This meta-analysis suggests that NF-κB activation, together with increased TNF-α levels, may contribute to the inflammatory pathophysiology of preeclampsia. These findings support further investigation of NF-κB-related pathways, including Sirtuin 1-mediated regulation, as potential biomarkers and therapeutic targets.",
+        "journal": "Medicine",
+        "authors": [
+          "Hui Zhang",
+          "Lihan Feng",
+          "Meiqi Huang",
+          "Riyuan Wei",
+          "Yanhua Nong"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-09-18T00:00:00.000Z",
+        "activityAt": "2026-09-19T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42760699/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 6,
+          "recency": 10,
+          "total": 91,
+          "evidenceRank": 1
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42760359",
+        "pmid": "42760359",
+        "doi": "10.1007/s00737-026-01768-1",
+        "title": "Early life trauma and endometriosis: A case-control study on type and timing of adverse experiences.",
+        "abstract": "PURPOSE: Endometriosis is a common chronic inflammatory gynaecological condition characterised by the abnormal presence of endometrial tissue outside the uterus. Different risk factors for endometriosis have been proposed, with some research finding a significant relationship between endometriosis and early life trauma. This study aimed to determine the prevalence, age, and type of early life trauma in a clinical sample of women with existing diagnosis of endometriosis compared with the prevalence in the general Australian female population.\nMETHODS: Participants were recruited from the Multidisciplinary Alfred Psychiatry research centre Women's Mental Health Clinic (WMHC). Women who self-reported a diagnosis of endometriosis were identified from the WMHC patient database, established in 2017. In patients who reported a presence of early life trauma, information regarding the type and age of the early traumatic experience(s) was recorded. The prevalence of each type of trauma in our participants was compared to the general female population in Australia.\nRESULTS: Of 68 included participants, the mean (SD) age was 41.6 (9.7) years. 86.8% of participants (n = 59) reported experience of any early life trauma, most commonly occurring between ages 6-10 (89.8%). The most reported type of trauma was emotional abuse (76.5%). Compared to the general female population, the prevalence of emotional abuse (76.5% vs. 37.3%), neglect (35.3% vs. 10.8%), and sexual abuse (39.7% vs. 37.3%) were higher in our sample.\nCONCLUSION: The findings of this study found high prevalence rates of early life trauma, in particular emotional abuse and neglect, in our clinical sample of women with endometriosis.",
+        "journal": "Archives of women's mental health",
+        "authors": [
+          "Eveline Mu",
+          "Jayashri Kulkarni",
+          "Lauren Chiu",
+          "Lucy Ingleby",
+          "Qi Li"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-19T00:00:00.000Z",
+        "activityAt": "2026-09-19T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42760359/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42760525",
+        "pmid": "42760525",
+        "doi": "10.1186/s12880-026-02772-8",
+        "title": "FDG-PET/CT-based treatment response predicts recurrence and overall survival in locally advanced cervical cancer.",
+        "abstract": "BACKGROUND: [18 F]-fluorodeoxyglucose (FDG) positron emission tomography combined with computed tomography (PET-CT) is used for staging and treatment response evaluation in patients with locally advanced cervical cancer. While the maximum standardised uptake value (SUVmax) is a commonly used PET parameter, volume-based parameters (metabolic tumour volume (MTV) and total lesion glycolysis (TLG)) may offer superior predictive value. This study aimed to investigate the predictive value of different treatment response outcomes assessed with PET-CT, using both standard and volume-based PET parameters.\nMETHODS: We retrospectively analyzed 133 patients with locally advanced cervical cancer treated with (chemo)radiotherapy who underwent PET-CT pre- and post-treatment. SUVmax, MTV and TLG were semi-automatically extracted from all scans, including tumour, lymph nodes and metastases. Treatment response was classified as complete metabolic response (CMR) (complete resolution of FDG uptake in all lesions), partial metabolic response (PMR) (> 25% reduction of SUVmax/MTV/TLG), progressive metabolic disease (PMD) (> 25% increase of SUVmax/MTV/TLG or appearance of new FDG-avid lesions) or stable disease (SD) (does not qualify for CMR, PMR or PMD). The three PET-parameters were analysed separately. PMR and SD were analysed as one group due to limited number of events. Associations between treatment response and overall survival (OS) as well as recurrence (binary variable) were analysed through Cox and logistic regression models, respectively.\nRESULTS: For recurrence (binary variable), the odds ratio (OR) was 1.2 for patients with PMR/SD for SUVmax, MTV and TLG, while in the group of patients with PMD, it was 1.7 for SUVmax and 1.8 for MTV and TLG, using CMR as reference (i.e. for CMR, the OR is 1.0). The hazard ratio (HR) for OS was 4.0 for patients with PMR/SD and 16.0 for those with PMD, based on SUVmax; for MTV and TLG, HRs were 2.9 for patients with PMR/SD and 16.0 for those with PMD, using CMR as reference (HR 1.0). C-index from adjusted Cox models were comparable: 0.84 for SUVmax, and 0.86 for both MTV and TLG.\nCONCLUSION: FDG-PET/CT-based assessment of treatment response is a strong predictor of recurrence and overall survival in locally advanced cervical cancer. SUVmax, MTV, and TLG demonstrated similar predictive performance.",
+        "journal": "BMC medical imaging",
+        "authors": [
+          "David Minarik",
+          "Elin Trägårdh",
+          "Hanna Sartor",
+          "Maria Bjurberg",
+          "Maria Markus"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-18T00:00:00.000Z",
+        "activityAt": "2026-09-19T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42760525/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42755554",
+        "pmid": "42755554",
+        "doi": "10.3389/fonc.2026.1886770",
+        "title": "Molecular classification of endometrial cancer in fertility-sparing-treatment: toward a personalized clinical approach.",
+        "abstract": "Molecular classification has emerged as a promising tool to improve patient selection and prognostic stratification in fertility sparing treatment (FST) for endometrial cancer (EC). Although FST is currently considered a valid option for carefully selected patients with early stage, low grade endometrioid EC, recurrence rates remain substantial and conventional clinicopathologic criteria inadequately capture tumor biological heterogeneity. Current evidence suggests that NSMP tumors represent the most favorable subgroup for FST, showing the highest complete response rates and lowest recurrence rates, likely due to preserved estrogen and progesterone receptor signaling. In contrast, MMRd/MSI H and p53abn tumors demonstrate poorer oncologic outcomes, reduced sensitivity to progestin therapy, and higher recurrence rates. Although POLEmut tumors are associated with excellent prognosis after standard surgical management, this advantage does not clearly translate into superior outcomes during hormonal treatment. Additional biomarkers, including hormone receptor expression, PI3K/AKT/mTOR pathway alterations, and ARID1A, CTNNB1, and ESR1 mutations, may further refine prediction of treatment response within molecular subgroups. Despite its clinical potential, the widespread implementation of molecular classification remains limited by economic and infrastructural barriers, including restricted access to sequencing technologies. Future prospective studies are needed to validate molecular guided fertility sparing strategies and to integrate molecular profiling with additional predictive biomarkers in order to optimize individualized management of young women with EC.",
+        "journal": "Frontiers in oncology",
+        "authors": [
+          "Andrea Puppo",
+          "Elena Olearo",
+          "Filippo Alberto Ferrari",
+          "Giorgio Bogani",
+          "Marcello Ceccaroni",
+          "Matteo Pavone"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-09-03T00:00:00.000Z",
+        "activityAt": "2026-09-18T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42755554/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      }
+    ]
+  }
+}
