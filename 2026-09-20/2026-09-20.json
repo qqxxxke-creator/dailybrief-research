@@ -7,10 +7,10 @@
   "editor_note": "过去24小时暂无符合质量要求的重要更新。",
   "keywords": [],
   "research": {
-    "generatedAt": "2026-09-19T22:54:07.310Z",
-    "dataAsOf": "2026-09-19T22:54:07.310Z",
+    "generatedAt": "2026-09-19T23:27:09.103Z",
+    "dataAsOf": "2026-09-19T23:27:09.103Z",
     "isCachedFallback": false,
-    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及PAX1/JAM3甲基化在高危HPV阳性女性中的Meta分析、The NF-κB pathway in inflammatory responses in preeclampsia: A systematic review and meta-analysis.、Early life trauma and endometriosis: A case-control study on type and timing of adverse experiences.。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及PAX1/JAM3甲基化在高危HPV阳性女性中的Meta分析、NF-κB通路在子痫前期炎症反应中的作用：系统综述与荟萃分析、早期生活创伤与子宫内膜异位症：关于不良经历类型和发生时间的病例对照研究。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
       {
         "id": "pmid:42760652",
@@ -37,15 +37,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 100,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "PAX1/JAM3甲基化在高危HPV阳性女性中的Meta分析",
           "researchQuestion": "评估配对盒基因1/连接黏附分子3（PAX1/JAM3）双基因甲基化分析检测高级别宫颈上皮内瘤变和宫颈癌的诊断性能，并探讨其作为高危人乳头瘤病毒阳性女性分诊生物标志物的潜在用途。",
@@ -57,7 +48,16 @@
           "clinicalInterpretation": "摘要未报告"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "958a4de874ecfb7a7dce09c3b8480d28bd6a42fd1056b2f5edcee0df0ad6c267"
+        "summaryInputHash": "958a4de874ecfb7a7dce09c3b8480d28bd6a42fd1056b2f5edcee0df0ad6c267",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:42760699",
@@ -87,6 +87,7 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
+        "summaryStatus": "success",
         "assignedTopicId": "maternal-fetal-medicine",
         "score": {
           "topicMatch": 50,
@@ -96,7 +97,17 @@
           "total": 91,
           "evidenceRank": 1
         },
-        "summaryStatus": "failed"
+        "summaryZh": {
+          "titleZh": "NF-κB通路在子痫前期炎症反应中的作用：系统综述与荟萃分析",
+          "researchQuestion": "旨在评估NF-κB通路激活与子痫前期炎症反应之间的关联。",
+          "studyDesign": "系统综述与荟萃分析，审查了15篇同行评审文章。",
+          "populationAndSample": "摘要未报告患者总样本量；纳入15篇同行评审文章，聚焦NF-κB通路在子痫前期中的参与。",
+          "methods": "定量评估包括收缩压和舒张压的变化，以及关键炎症介质水平，包括肿瘤坏死因子-alpha（TNF-α）、白细胞介素-1 beta、白细胞介素-6（IL-6）和NF-κB。",
+          "keyResults": "子痫前期患者收缩压和舒张压显著升高。TNF-α和NF-κB水平也显著增加，表明与该疾病相关的炎症激活增强。相反，白细胞介素-1 beta和IL-6水平无显著差异，尽管IL-6呈非显著升高趋势。",
+          "limitations": "摘要未报告局限性。",
+          "clinicalInterpretation": "该荟萃分析提示，NF-κB激活伴随TNF-α水平升高可能参与子痫前期的炎症病理生理。这些发现支持进一步研究NF-κB相关通路，包括Sirtuin 1介导的调控，作为潜在生物标志物和治疗靶点。此为关联性发现，不能推断因果关系或直接用于临床决策。"
+        },
+        "summaryInputHash": "cd74a7e4dcfe920d22ad5c4d4d84e3baaa92bf8aef21de1eab59b7a172e22901"
       },
       {
         "id": "pmid:42760359",
@@ -124,6 +135,7 @@
         "matchedTopicIds": [
           "endometriosis-benign-gynecology"
         ],
+        "summaryStatus": "success",
         "assignedTopicId": "endometriosis-benign-gynecology",
         "score": {
           "topicMatch": 50,
@@ -133,7 +145,17 @@
           "total": 85,
           "evidenceRank": 0.4
         },
-        "summaryStatus": "failed"
+        "summaryZh": {
+          "titleZh": "早期生活创伤与子宫内膜异位症：关于不良经历类型和发生时间的病例对照研究",
+          "researchQuestion": "旨在确定已确诊子宫内膜异位症的女性临床样本中早期生活创伤的患病率、发生年龄和类型，并与澳大利亚一般女性人群的患病率进行比较。",
+          "studyDesign": "病例对照研究；从临床数据库识别自我报告子宫内膜异位症诊断的女性。",
+          "populationAndSample": "68名纳入参与者，平均（SD）年龄为41.6（9.7）岁；来自Multidisciplinary Alfred Psychiatry research centre Women's Mental Health Clinic（WMHC）患者数据库（2017年建立），为自我报告子宫内膜异位症诊断的女性。",
+          "methods": "从WMHC患者数据库识别自我报告子宫内膜异位症诊断的女性。对报告存在早期生活创伤的患者，记录早期创伤经历的类型和发生年龄。将本研究中每种创伤类型的患病率与澳大利亚一般女性人群进行比较。",
+          "keyResults": "86.8%的参与者（n=59）报告经历过任何早期生活创伤，最常发生在6-10岁（89.8%）。报告最多的创伤类型是情感虐待（76.5%）。与一般女性人群相比，本样本中情感虐待（76.5% vs. 37.3%）、忽视（35.3% vs. 10.8%）和性虐待（39.7% vs. 37.3%）的患病率更高。",
+          "limitations": "摘要未报告局限性。",
+          "clinicalInterpretation": "研究提示，在该子宫内膜异位症女性临床样本中，早期生活创伤尤其是情感虐待和忽视的患病率较高。这是观察性关联，不能推断早期生活创伤导致子宫内膜异位症；结果来自特定临床样本，需谨慎外推并进一步研究验证。"
+        },
+        "summaryInputHash": "51cb539bd92383734fac7de4c82bb5afc069c78372d63e79ec6e87d7879fa4b2"
       },
       {
         "id": "pmid:42760525",
@@ -161,6 +183,7 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
+        "summaryStatus": "success",
         "assignedTopicId": "gynecologic-oncology",
         "score": {
           "topicMatch": 50,
@@ -170,7 +193,17 @@
           "total": 85,
           "evidenceRank": 0.4
         },
-        "summaryStatus": "failed"
+        "summaryZh": {
+          "titleZh": "基于FDG-PET/CT的治疗反应预测局部晚期宫颈癌的复发和总生存",
+          "researchQuestion": "旨在探讨使用标准和体积基PET参数评估的PET-CT治疗反应结局对局部晚期宫颈癌的预测价值。",
+          "studyDesign": "回顾性分析。",
+          "populationAndSample": "133例接受（放）化疗且治疗前后接受PET-CT的局部晚期宫颈癌患者。",
+          "methods": "从所有扫描中半自动提取SUVmax、MTV和TLG，包括肿瘤、淋巴结和转移灶。治疗反应分为完全代谢缓解（CMR；所有病灶FDG摄取完全消退）、部分代谢缓解（PMR；SUVmax/MTV/TLG下降>25%）、进展性代谢疾病（PMD；SUVmax/MTV/TLG增加>25%或出现新的FDG高摄取病灶）或疾病稳定（SD；不符合CMR、PMR或PMD）。三种PET参数分别分析。因事件数有限，PMR和SD合并为一组。通过Cox和logistic回归模型分别分析治疗反应与总生存（OS）及复发（二分类变量）的关联。",
+          "keyResults": "对于复发（二分类变量），以CMR为参照（OR为1.0），PMR/SD患者的SUVmax、MTV和TLG的OR均为1.2；PMD组中SUVmax的OR为1.7，MTV和TLG的OR为1.8。基于SUVmax的OS的HR在PMR/SD患者中为4.0，PMD患者中为16.0；基于MTV和TLG的HR在PMR/SD患者中为2.9，PMD患者中为16.0，以CMR为参照（HR为1.0）。校正Cox模型的C-index相当：SUVmax为0.84，MTV和TLG均为0.86。",
+          "limitations": "摘要未报告局限性；研究为回顾性分析。",
+          "clinicalInterpretation": "FDG-PET/CT评估的治疗反应是局部晚期宫颈癌复发和总生存的强预测因素；SUVmax、MTV和TLG显示出相似的预测性能。结果来自回顾性分析，需谨慎解释，不能直接作为临床指南或指令。"
+        },
+        "summaryInputHash": "625255a44eab5d2bf0fa4dfc887f6acbaade0fde647afdd8c17cc591b149c502"
       },
       {
         "id": "pmid:42755554",
@@ -200,6 +233,7 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
+        "summaryStatus": "success",
         "assignedTopicId": "gynecologic-oncology",
         "score": {
           "topicMatch": 50,
@@ -209,7 +243,17 @@
           "total": 85,
           "evidenceRank": 0.4
         },
-        "summaryStatus": "failed"
+        "summaryZh": {
+          "titleZh": "子宫内膜癌生育力保留治疗中的分子分型：迈向个体化临床方法",
+          "researchQuestion": "探讨分子分型在子宫内膜癌生育力保留治疗（FST）中改善患者选择和预后分层的潜力。",
+          "studyDesign": "综述。",
+          "populationAndSample": "摘要未报告具体研究人群或样本量；讨论背景为经仔细选择的早期、低级别子宫内膜样子宫内膜癌患者，FST目前被视为其一种有效选择。",
+          "methods": "摘要未报告系统检索或综述方法。",
+          "keyResults": "当前证据提示，NSMP肿瘤是FST最有利的亚组，完全缓解率最高、复发率最低，可能因雌激素和孕激素受体信号保存。相反，MMRd/MSI-H和p53abn肿瘤显示较差的肿瘤学结局、对孕激素治疗敏感性降低和更高的复发率。尽管POLEmut肿瘤在标准手术治疗后预后极佳，但该优势并未明确转化为激素治疗期间更优的结局。其他生物标志物，包括激素受体表达、PI3K/AKT/mTOR通路改变以及ARID1A、CTNNB1和ESR1突变，可能进一步细化分子亚组内治疗反应的预测。",
+          "limitations": "分子分型的广泛实施仍受经济与基础设施障碍限制，包括测序技术可及性有限；需要未来前瞻性研究验证分子指导的生育力保留策略，并将分子分型与其他预测性生物标志物整合。",
+          "clinicalInterpretation": "分子分型在子宫内膜癌生育力保留治疗中具有改善患者选择和预后分层的潜力，可能支持个体化管理，但尚不能视为标准临床推荐；其广泛应用受限于资源和测序可及性，需前瞻性研究验证。"
+        },
+        "summaryInputHash": "e4a9f77b7e05e9f641c114689c7d333bf492733235e9faad4546879b2679b977"
       }
     ]
   }
