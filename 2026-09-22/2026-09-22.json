@@ -1,0 +1,265 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-09-21T23:11:59.186Z",
+    "dataAsOf": "2026-09-21T23:11:59.186Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及生活在未解决的创伤系统中：女性不孕相关痛苦体验的适应性信息处理视角、拓展生育力保存的视野：多样化人群、新兴适应证与伦理考量、度鲁特韦与其他抗逆转录病毒治疗方案相比与印度孕妇较低的妊娠期糖尿病 odds 相关：一项横断面分析。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42765326",
+        "pmid": "42765326",
+        "doi": "10.1177/17455057261490949",
+        "title": "Living in an unresolved trauma system: Women's experiences of infertility-related distress through an adaptive information processing lens.",
+        "abstract": "BackgroundInfertility-related distress is associated with elevated rates of anxiety, depression, grief, and identity disruption. While existing frameworks often conceptualise infertility distress through stress and coping paradigms, these approaches may not fully explain the cumulative and reactivating experience of infertility distress. Trauma-informed perspectives, including the Adaptive Information Processing (AIP) model, may offer an alternative framework for understanding infertility-related distress.ObjectivesTo explore how women experiencing infertility describe and make meaning of their experiences, and whether their narratives reflect processes consistent with trauma-informed and AIP frameworks.DesignQualitative study embedded within a randomised controlled trial of Eye Movement Desensitisation and Reprocessing (EMDR) therapy for infertility-related distress, using baseline pre-intervention session transcripts.MethodsEighteen women experiencing infertility-related distress participated in an initial EMDR assessment and case conceptualisation session. Sessions were audio-recorded, transcribed verbatim, and analysed using Reflexive Thematic Analysis within an experiential and contextualist framework informed by trauma-informed perspectives and the AIP model.ResultsFive interconnected themes were identified: (1) The Burden of Responsibility, (2) Defectiveness and Diminished Worth, (3) Loss of Autonomy and Suspended Futures, (4) Threat, Vulnerability and Mistrust, and (5) Isolation and Disconnection. Participants described infertility as a cumulative, unresolved experience, often characterised by shame, self-blame, uncertainty, diminished agency, loss of trust, and relational disconnection. Infertility generated distress and reactivated broader beliefs about responsibility, worth, safety, control, and belonging. Interpreted through the AIP model, these findings suggest distress may be maintained by the repeated activation of inadequately processed experiences organised around of shame, helplessness, threat, and loss.ConclusionFindings suggest that infertility may be experienced as both a traumatising and a re-traumatising process that disrupts identity, agency, safety, and belonging. A trauma-informed framework informed by the AIP model may provide a useful lens for understanding the enduring psychological impact of infertility and informing interventions that address unresolved experiences underlying infertility-related distress.",
+        "journal": "Women's health (London, England)",
+        "authors": [
+          "Karen Tracey Hallam",
+          "Patricia L Jackson",
+          "Peter Saunders",
+          "Simone Mizzi"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-09-21T00:00:00.000Z",
+        "activityAt": "2026-09-21T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42765326/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "生活在未解决的创伤系统中：女性不孕相关痛苦体验的适应性信息处理视角",
+          "researchQuestion": "经历不孕的女性如何描述并赋予其体验意义，以及这些叙述是否反映与创伤知情和适应性信息处理（AIP）框架一致的过程？",
+          "studyDesign": "定性研究，嵌入一项针对不孕相关痛苦的EMDR治疗随机对照试验，分析基线干预前会谈转录。",
+          "populationAndSample": "18名经历不孕相关痛苦的女性。",
+          "methods": "参与者参加初始EMDR评估和案例概念化会谈；会谈录音并逐字转录，在经验和情境主义框架内使用反思性主题分析，分析参考创伤知情视角和AIP模型。",
+          "keyResults": "识别出五个相互关联主题：(1) 责任负担，(2) 缺陷感与价值降低，(3) 自主性丧失与未来悬置，(4) 威胁、脆弱与不信任，(5) 隔离与脱节。参与者将不孕描述为累积性、未解决的体验，常以羞耻、自责、不确定、能动性下降、信任丧失和关系脱节为特征。不孕引发痛苦，并重新激活关于责任、价值、安全、控制和归属的更广泛信念。按AIP模型解释，这些发现提示痛苦可能由围绕羞耻、无助、威胁和丧失组织起来的、加工不充分体验的反复激活所维持。作者总结认为，不孕可能被体验为创伤化和再创伤化过程， disrupts identity, agency, safety, and belonging。结合AIP模型的创伤知情框架可能为理解不孕的持久心理影响以及为干预提供信息提供有用视角。",
+          "limitations": "摘要未报告明确的局限性；该定性分析基于18名女性在EMDR干预前的基线评估会谈转录。",
+          "clinicalInterpretation": "作者提出，不孕可能同时是创伤化和再创伤化过程，会扰乱身份、能动性、安全感和归属感；结合AIP模型的创伤知情框架可能有助于理解不孕的持久心理影响，并为处理不孕相关痛苦背后未解决体验的干预提供视角。摘要未报告临床指南或指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "d7f012e7bb1b5be7df80a80d33947cdde211b0dc976447002068633a7ac3dd30"
+      },
+      {
+        "id": "doi:10.1016/j.fertnstert.2026.09.006",
+        "doi": "10.1016/j.fertnstert.2026.09.006",
+        "title": "Expanding Horizons in Fertility Preservation: Diverse Populations, Emerging Indications, and Ethical Considerations",
+        "abstract": "Fertility preservation has traditionally centered on intervention before gonadotoxic cancer treatment, yet many patients do not fit this conventional pathway. Reproductive risk may arise before puberty, result from a genetic predisposition to primary ovarian insufficiency, intersect with gender-affirming care, or be recognized only after gonadotoxic exposure. This Views and Reviews series examines fertility preservation in transgender and gender-diverse patients, girls before and during puberty, patients with genetic conditions associated with primary ovarian insufficiency, and individuals seeking preservation after chemotherapy or radiation.",
+        "journal": "Fertility and Sterility",
+        "authors": [
+          "Allison Eubanks, Eric Widra"
+        ],
+        "publicationTypes": [],
+        "publishedAt": "2026-09-21T00:00:00.000Z",
+        "activityAt": "2026-09-21T00:00:00.000Z",
+        "url": "https://www.fertstert.org/article/S0015-0282(26)01787-5/fulltext?rss=yes",
+        "sourceKinds": [
+          "journal-rss"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "拓展生育力保存的视野：多样化人群、新兴适应证与伦理考量",
+          "researchQuestion": "该Views and Reviews系列旨在审视哪些传统路径之外的生育力保存人群与适应证？",
+          "studyDesign": "Views and Reviews系列（综述/评论系列）。",
+          "populationAndSample": "摘要未报告具体样本；讨论人群包括跨性别和性别多元患者、青春期前及青春期女孩、与原发性卵巢功能不全相关的遗传疾病患者，以及化疗或放疗后寻求保存者。",
+          "methods": "摘要未报告具体方法；本文为Views and Reviews系列概述。",
+          "keyResults": "摘要未报告原始研究结果。该系列指出，生育力保存传统上集中于性腺毒性癌症治疗前的干预，但许多患者不符合这一常规路径；生殖风险可能出现在青春期前，源于原发性卵巢功能不全的遗传易感性，与性别肯定照护交叉，或仅在性腺毒性暴露后被识别。系列审视上述跨性别和性别多元患者、青春期前及青春期女孩、与原发性卵巢功能不全相关遗传疾病患者，以及化疗或放疗后寻求保存的个体。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "该系列旨在将生育力保存的讨论范围扩展至传统路径之外的人群与情形；摘要未报告具体临床结局、推荐或实施建议。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "afcc9499e90fc2930fd1ad7e903404cb453d31f4b4d6c7c65a533df1474c7513"
+      },
+      {
+        "id": "pmid:42764545",
+        "pmid": "42764545",
+        "doi": "10.1002/jia2.70200",
+        "title": "Dolutegravir Is Associated With Lower Odds of Gestational Diabetes Compared to Other Antiretroviral Therapy Regimens Among Pregnant Women in India: A Cross-Sectional Analysis.",
+        "abstract": "INTRODUCTION: In non-pregnant adults living with HIV, dolutegravir is associated with weight gain and increased type 2 diabetes risk. In pregnancy, data on the effect of dolutegravir on gestational diabetes (GDM) risk is inconclusive. Data are particularly limited in Asian populations, where diabetes risk is especially high and not always associated with weight gain. We examined the association of dolutegravir with GDM among women living with HIV in India.\nMETHODS: We combined data from two cohorts of pregnant women living with HIV conducted at BJ Government Medical College in Pune, India-the PRACHITi study (2016-2019) and the PRAGATHi study (2023-present). Women were screened for GDM with the fasting 2-h 75 g oral glucose tolerance test and diagnosed by World Health Organization criteria. Demographics, anthropometrics, antiretroviral therapy (ART), CD4 count and HIV viral load were collected at screening. Multivariate logistic regression was used to determine the association between current dolutegravir use and GDM.\nRESULTS: Of 254 women living with HIV, 99.2% (n = 252) were on ART, of whom 66.3% (n = 167) were on dolutegravir-, 22.6% (n = 57) were on efavirenz- and 6.3% (n = 16) were on protease inhibitor (PI)-based ART. Overall, median CD4 count was 549.5 cells/mm 3 (IQR 401-753), and 82.2% (n = 198) had undetectable viral load. Median body-mass index (BMI) was 21.3 kg/m 2 (IQR 19.4-23.8). The prevalence of GDM was 11.8% (N = 30). Among women on dolutegravir-based ART, the prevalence was 10.8% (N = 18); among women on efavirenz-based ART, the prevalence was 12.3% (N = 7), and the prevalence was 25% (N = 4) among women on PI-based ART. Compared to women not taking dolutegravir, women taking dolutegravir had similar age and BMI but greater weight gain from the second to the third trimester (3.7 vs. 2.9 kg, p <0.01) and infant birthweight percentile (14.2 vs. 6.9, p <0.01). On multivariate logistic regression, dolutegravir use was associated with lower odds of GDM than other ART (aOR 0.2, 95% CI 0.1-1.0) irrespective of viral load and time on ART. Older age (aOR 1.1, 95% CI 1.1-1.2) and second-trimester BMI (aOR 1.2 per kg/m 2 , 95% CI 1.1-1.3) were also associated with GDM.\nCONCLUSIONS: Women on dolutegravir had lower odds of GDM compared to women taking other ART, despite greater weight gain. Ongoing studies are investigating the possible anti-inflammatory mechanisms.",
+        "journal": "Journal of the International AIDS Society",
+        "authors": [
+          "Aditi Kole",
+          "Amita Gupta",
+          "Farheen Ahmed",
+          "Jyoti S Mathad",
+          "Mallika Alexander",
+          "Nikhil Gupte",
+          "Priyanka Raichur",
+          "Puja Chebrolu",
+          "Ramesh Bhosale",
+          "Sanjaykumar Tambe",
+          "Shilpa Naik",
+          "Sonali Kante",
+          "Todd T Brown",
+          "Vandana Kulkarni"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-01T00:00:00.000Z",
+        "activityAt": "2026-09-21T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42764545/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "度鲁特韦与其他抗逆转录病毒治疗方案相比与印度孕妇较低的妊娠期糖尿病 odds 相关：一项横断面分析",
+          "researchQuestion": "在印度HIV感染孕妇中，当前使用度鲁特韦是否与妊娠期糖尿病（GDM）相关？",
+          "studyDesign": "横断面分析，合并两个在印度Pune的BJ Government Medical College开展的妊娠HIV感染女性队列（PRACHITi研究2016-2019和PRAGATHi研究2023至今）。",
+          "populationAndSample": "254名印度HIV感染孕妇；99.2%（n=252）接受ART，其中66.3%（n=167）使用含度鲁特韦方案，22.6%（n=57）使用含依非韦伦方案，6.3%（n=16）使用含蛋白酶抑制剂（PI）方案。中位CD4计数549.5 cells/mm3（IQR 401-753）；82.2%（n=198）病毒载量不可测；中位BMI 21.3 kg/m2（IQR 19.4-23.8）。",
+          "methods": "使用空腹2小时75g口服葡萄糖耐量试验筛查GDM，并按世界卫生组织标准诊断。筛查时收集人口学、人体测量、ART、CD4计数和HIV病毒载量。采用多因素logistic回归评估当前度鲁特韦使用与GDM的关联。",
+          "keyResults": "GDM患病率11.8%（N=30）。使用含度鲁特韦ART者GDM患病率10.8%（N=18），含依非韦伦ART者12.3%（N=7），含PI ART者25%（N=4）。与未使用度鲁特韦的女性相比，使用度鲁特韦者年龄和BMI相似，但从孕中期到孕晚期体重增加更多（3.7 vs. 2.9 kg，p<0.01），婴儿出生体重百分位数更高（14.2 vs. 6.9，p<0.01）。多因素logistic回归中，度鲁特韦使用与其他ART相比与GDM odds较低相关（aOR 0.2，95% CI 0.1-1.0），且不受病毒载量和ART使用时间影响。较大年龄（aOR 1.1，95% CI 1.1-1.2）和孕中期BMI（每kg/m2 aOR 1.2，95% CI 1.1-1.3）也与GDM相关。",
+          "limitations": "摘要未报告明确的局限性；研究设计为横断面分析，并合并两个不同时期队列的数据。",
+          "clinicalInterpretation": "在印度HIV感染孕妇中，使用度鲁特韦与其他ART相比与GDM odds较低相关，尽管体重增加更多；该结果为观察性关联，摘要未报告因果结论或临床建议。作者提到正在进行的研究正在探讨可能的抗炎机制。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "951daf1e4033e339bc8f43ffd0cf2af6b04644e98b6df05153909d13acf720a2"
+      },
+      {
+        "id": "pmid:42764742",
+        "pmid": "42764742",
+        "doi": "10.2174/0115665240483768260902064538",
+        "title": "Quantitative SEPT9 Methylation in Colorectal and Endometrial Cancers Suspected of Lynch Syndrome.",
+        "abstract": "INTRODUCTION: Lynch syndrome (LS) is associated with increased risks of colorectal cancer (CRC), endometrial cancer (EC), and other malignancies. This exploratory study evaluated quantitative SEPT9 promoter methylation in archived tumor tissue and whole blood from patients with suspected LS.\nMETHODS: In this retrospective observational study with cross-sectional molecular analysis, DNA from 22 paired formalin-fixed paraffin-embedded (FFPE) tumors and 22 matched EDTA whole-blood specimens (17 CRC and 5 EC) was analyzed. Methylation at five SEPT9 CpG sites was quantified by bisulfite pyrosequencing following nested PCR amplification. Tissue-blood methylation-status concordance was assessed descriptively using a ≥5% threshold.\nRESULTS: Whole-blood SEPT9 methylation was higher in CRC than in EC (P<0.01), with relatively prominent signals at CpG2 and CpG4. Tissue-blood concordance was 59.1% overall (13/22), 58.8% in CRC (10/17), and 60.0% in EC (3/5). Within CRC, concordance was 16.7% in early-stage disease (1/6) and 66.7% in advanced-stage disease (8/11). These findings were exploratory and descriptive.\nDISCUSSION: The observed stage-related pattern and tissue-blood concordance support further investigation of quantitative SEPT9 methylation as a complementary marker. The small cohort and exploratory nature of the thresholds preclude conclusions regarding diagnostic or prognostic performance.\nCONCLUSION: Quantitative SEPT9 methylation was detectable in archived FFPE tumors and whole blood from LS-suspected patients. Larger prospective studies are required to validate the observed differences and determine their clinical relevance.",
+        "journal": "Current molecular medicine",
+        "authors": [
+          "Pawana Panomket",
+          "Sarawut Chanta",
+          "Surasak Wanram",
+          "Worrawit Wanitsuwan"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-15T00:00:00.000Z",
+        "activityAt": "2026-09-21T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42764742/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "疑似Lynch综合征的结直肠癌和子宫内膜癌中定量SEPT9甲基化",
+          "researchQuestion": "在疑似Lynch综合征患者中，定量SEPT9启动子甲基化在存档肿瘤组织和全血中的表现如何，以及组织-血液甲基化状态一致性如何？",
+          "studyDesign": "回顾性观察研究并横断面分子分析。",
+          "populationAndSample": "22对配对样本：22份福尔马林固定石蜡包埋（FFPE）肿瘤和22份匹配EDTA全血标本；包括17例结直肠癌（CRC）和5例子宫内膜癌（EC），来自疑似Lynch综合征患者。",
+          "methods": "提取DNA，经巢式PCR扩增后，用亚硫酸氢盐焦磷酸测序定量5个SEPT9 CpG位点甲基化。使用≥5%阈值描述性评估组织-血液甲基化状态一致性。",
+          "keyResults": "全血SEPT9甲基化在结直肠癌中高于子宫内膜癌（P<0.01），CpG2和CpG4信号相对突出。组织-血液一致性总体为59.1%（13/22），结直肠癌58.8%（10/17），子宫内膜癌60.0%（3/5）。在结直肠癌中，早期疾病一致性16.7%（1/6），晚期疾病66.7%（8/11）。这些发现为探索性和描述性。",
+          "limitations": "小队列和探索性阈值；作者指出这些限制妨碍关于诊断或预后性能的结论。",
+          "clinicalInterpretation": "定量SEPT9甲基化可在疑似Lynch综合征患者的存档FFPE肿瘤和全血中检出。观察到的分期相关模式和组织-血液一致性支持进一步研究其作为补充标志物；摘要未报告诊断或预后应用建议，需更大前瞻性研究验证并确定临床相关性。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "f97ec19dc1ac70d5b57b4506c11e948e8f43128006639dd602aacd40d3129b1c"
+      },
+      {
+        "id": "pmid:42764800",
+        "pmid": "42764800",
+        "doi": "10.7759/cureus.114891",
+        "title": "Role of the Reproductive Tract Microbiome in Infertility and Assisted Reproductive Technologies: A Comprehensive Review.",
+        "abstract": "The female reproductive tract microbiome has emerged as a potential factor associated with reproductive health, infertility, and outcomes of assisted reproductive technologies (ARTs). Growing interest in host-microbiome interactions has highlighted the potential roles of microbial communities in implantation, immune regulation, and endometrial receptivity. This comprehensive narrative review summarizes current evidence on the reproductive tract microbiome and its relationship with infertility and ART outcomes. Relevant literature was identified from MEDLINE, Embase, and Web of Science from database inception through March 2026, with emphasis on observational, interventional, and mechanistic studies involving human participants or human-derived samples. The review examines microbial communities of the vagina, cervix, endometrium, and fallopian tubes and their associations with infertility, recurrent pregnancy loss, implantation failure, and ART outcomes. Proposed biological mechanisms, including alterations in epithelial barrier integrity, immune modulation, inflammatory signaling, and hormonal-microbial interactions, are also discussed. In addition, the review evaluates emerging microbiome-based diagnostic approaches and potential therapeutic strategies, including antibiotics, probiotics, micronutrient supplementation, and vaginal microbiota transplantation. Current evidence suggests that the reproductive tract microbiome may be associated with reproductive health and fertility outcomes and represents a promising area of translational research. However, substantial methodological heterogeneity, limited high-quality interventional evidence, and the lack of standardized diagnostic criteria currently restrict clinical implementation. Well-designed prospective studies and randomized clinical trials are needed to clarify causal relationships, evaluate microbiome-targeted interventions, and determine whether microbiome-based approaches can improve infertility and ART care.",
+        "journal": "Cureus",
+        "authors": [
+          "Afrah Saleef Abdul Salam",
+          "Amara R Cheema",
+          "Carolina Ramirez Cabal",
+          "Daniela Ruiz",
+          "Mariam Doucoure",
+          "Olushola Ariyo",
+          "Rajat Das Gupta",
+          "Rimane Abi Younes",
+          "Sarah Ayoub Ibrahim",
+          "Victoria Robinson",
+          "Weiai Song"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-08-20T00:00:00.000Z",
+        "activityAt": "2026-09-21T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42764800/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "生殖道微生物组在不孕症和辅助生殖技术中的作用：一项综合综述",
+          "researchQuestion": "生殖道微生物组与不孕症、复发性流产、着床失败和ART结局有何关联，基于微生物组的诊断和治疗策略证据如何？",
+          "studyDesign": "综合叙述性综述。",
+          "populationAndSample": "摘要未报告具体样本；综述纳入涉及人类参与者或人源样本的观察性、干预性和机制性研究。",
+          "methods": "检索MEDLINE、Embase和Web of Science，自数据库建库至2026年3月；综述阴道、宫颈、子宫内膜和输卵管微生物群落及其与不孕、复发性流产、着床失败和ART结局的关联；讨论上皮屏障完整性改变、免疫调节、炎症信号和激素-微生物相互作用等提出机制；评估新兴微生物组诊断方法以及抗生素、益生菌、微量营养素补充和阴道微生物群移植等潜在治疗策略。",
+          "keyResults": "当前证据提示，生殖道微生物组可能与生殖健康和生育结局相关，是一个有前景的转化研究领域。然而，方法学异质性大、高质量干预证据有限、缺乏标准化诊断标准，目前限制临床实施。",
+          "limitations": "方法学异质性大，高质量干预证据有限，缺乏标准化诊断标准，限制临床实施。",
+          "clinicalInterpretation": "作者提出需要设计良好的前瞻性研究和随机临床试验来阐明因果关系、评估微生物组靶向干预，并确定基于微生物组的方法能否改善不孕和ART照护；摘要未报告临床推荐或指南。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "7ef39b6dc2f6df9690fa67032693e251f133d16926236466614811470ddf2ad8"
+      }
+    ]
+  }
+}
