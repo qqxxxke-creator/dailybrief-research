@@ -1,0 +1,264 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-09-21T00:08:46.785Z",
+    "dataAsOf": "2026-09-21T00:08:46.785Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及初次评估延迟驱动子宫内膜癌的社会经济照护差异、扩散加权MRI和ADC值在鉴别非典型子宫肌瘤与子宫肉瘤中的诊断性能、莱斯特黑人及南亚裔女性较白人女性更高的孕产妇死亡率和早产率的相关因素：一项叙述性综述。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42763482",
+        "pmid": "42763482",
+        "doi": "10.1016/j.gore.2026.102204",
+        "title": "Delays to initial evaluation drive socioeconomic care disparities in endometrial cancer.",
+        "abstract": "Objective: This study examines the association of socioeconomic status (SES) with delays in care and treatment timeline for endometrial cancer (EC) patients receiving primary surgery. Methods: This was a retrospective cohort study of patients who underwent surgical management of EC between 2018 and 2024. SES was determined by Area Deprivation Index (ADI) national percentile rank. Demographics, dates of symptom onset, provider visits, tissue diagnosis, and surgery were abstracted from the electronic medical record. Results: Of the 2191 patients who had surgical management for EC, we analyzed 185 (ADI1, most advantaged) and 257 (ADI4, least advantaged). Patients in ADI1 had a lower mean BMI (31.1 kg/m 2 vs 35.6 kg/m 2 , p < 0.001). Although the majority of the cohort was White (91.0%), ADI4 included more Black patients (6.6% vs 1.1%, p = 0.003). Time from symptom onset to surgery was 30 days longer in ADI4 compared to ADI1 (126.0 days vs 96.0 days, p = 0.003). Specifically, time from symptom onset to first visit with a healthcare provider differed significantly between ADI1 and ADI4, with a median of 20.5 days versus 50.0 days ( p < 0.001). There were no statistically significant differences in intervals between other care timepoints. Conclusions: The discrepancy in time to surgical management of EC was driven by delays in first provider visit, indicating that disparities are related to symptom recognition and access to initial evaluation rather than delays within specialty care. These findings can inform interventions for reducing socioeconomic and geographic disparities in endometrial cancer care.",
+        "journal": "Gynecologic oncology reports",
+        "authors": [
+          "Amanda Tapia",
+          "Amanika Kumar",
+          "Elizabeth Ingersent",
+          "Emma Donigan",
+          "Evelyn A Reynolds",
+          "Jessica Gorzelitz",
+          "Manisha Salinas",
+          "Shariska Harrington",
+          "Shilpa Mokshagundam"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-03T00:00:00.000Z",
+        "activityAt": "2026-09-20T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42763482/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "初次评估延迟驱动子宫内膜癌的社会经济照护差异",
+          "researchQuestion": "本研究探讨社会经济地位（SES）与接受初次手术的子宫内膜癌（EC）患者照护延迟及治疗时间线的关联。",
+          "studyDesign": "回顾性队列研究，纳入2018年至2024年间接受子宫内膜癌手术治疗的患者。",
+          "populationAndSample": "共2191例接受子宫内膜癌手术治疗的患者；分析185例ADI1（最具优势）和257例ADI4（最不具优势）。",
+          "methods": "SES由Area Deprivation Index（ADI）全国百分位排名确定；从电子病历中提取人口学资料、症状发作日期、提供者就诊日期、组织诊断日期和手术日期。",
+          "keyResults": "ADI1患者平均BMI较低（31.1 kg/m² vs 35.6 kg/m²，p < 0.001）。尽管队列大多数为白人（91.0%），ADI4中黑人患者更多（6.6% vs 1.1%，p = 0.003）。从症状发作到手术的时间在ADI4比ADI1长30天（126.0天 vs 96.0天，p = 0.003）。具体而言，从症状发作到首次就诊于医疗提供者的时间在ADI1和ADI4之间差异显著，中位数分别为20.5天和50.0天（p < 0.001）。其他照护时间点之间的间隔无统计学显著差异。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "摘要认为，子宫内膜癌手术治疗时间的差异主要由首次提供者就诊延迟所致，提示差异与症状识别和初次评估的可及性相关，而非专科照护内的延迟。摘要指出，这些发现可为减少子宫内膜癌照护中的社会经济和地理差异提供干预信息。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "d0854c2847bf585721202ffd6ff647527e2970b1b341f5742d392350cdaa0b62"
+      },
+      {
+        "id": "pmid:42763695",
+        "pmid": "42763695",
+        "doi": "10.12865/chsj.52.02.241",
+        "title": "Diagnostic Performance of Diffusion-Weighted MRI and ADC Values in Differentiating Atypical Leiomyomas from Uterine Sarcomas.",
+        "abstract": "BACKGROUND: Leiomyomas are the most common benign uterine tumors, whereas uterine sarcomas are rare malignant neoplasms associated with high morbidity and mortality. Differentiation using imaging remains challenging because of overlapping radiologic features.\nPURPOSE: To evaluate magnetic resonance imaging (MRI) characteristics of atypical leiomyomas and uterine sarcomas, with emphasis on diffusion-weighted imaging (DWI) and apparent diffusion coefficient (ADC) values.\nMATERIALS AND METHODS: In this retrospective study, 22 patients with histopathologically confirmed uterine leiomyoma or sarcoma underwent MRI for atypical or suspicious uterine lesions. MRI assessment included T2-weighted imaging, DWI with ADC maps, and fat-suppressed T1-weighted sequences before and after gadolinium administration.\nRESULTS: Thirteen atypical leiomyomas (59%) and nine sarcomas (41%) were analyzed. Mean patient age was similar between groups. Abnormal vaginal bleeding was more frequent in sarcomas (89% vs. 38%). Sarcomas more commonly showed irregular margins (89% vs. 69%) and T2 hyperintensity (89% vs. 15%). Heterogeneous enhancement and cystic or hemorrhagic changes occurred in both tumor types, while extrauterine disease was observed only in sarcomas. All sarcomas demonstrated high DWI signal intensity exceeding that of the endometrium, whereas most leiomyomas showed intermediate signal intensity. Mean ADC values were significantly lower in sarcomas (0.813 × 10⁻³mm²/s) than in leiomyomas (1.050 × 10⁻³ mm²/s), with an optimal cutoff of 0.892 × 10⁻³mm²/s.\nCONCLUSION: MRI, particularly DWI and ADC analysis, provides valuable differentiation between atypical leiomyomas and uterine sarcomas, with sarcomas demonstrating higher DWI signal intensity and significantly lower ADC values.",
+        "journal": "Current health sciences journal",
+        "authors": [
+          "Alexandre Ionescu",
+          "Ana Magdalena Bratu",
+          "Gheorghe Iana",
+          "Ioana-Andreea Gheonea",
+          "Iulia Alecsandra Salcianu",
+          "Ramona-Andreea Rizescu"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-06-30T00:00:00.000Z",
+        "activityAt": "2026-09-20T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42763695/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "扩散加权MRI和ADC值在鉴别非典型子宫肌瘤与子宫肉瘤中的诊断性能",
+          "researchQuestion": "评估非典型子宫肌瘤和子宫肉瘤的磁共振成像（MRI）特征，重点关注扩散加权成像（DWI）和表观扩散系数（ADC）值。",
+          "studyDesign": "回顾性研究。",
+          "populationAndSample": "22例经组织病理学确诊为子宫肌瘤或肉瘤、因非典型或可疑子宫病变接受MRI的患者；其中非典型肌瘤13例（59%），肉瘤9例（41%）。",
+          "methods": "MRI评估包括T2加权成像、带ADC图的DWI，以及钆给药前后的脂肪抑制T1加权序列。",
+          "keyResults": "两组平均患者年龄相似。异常阴道出血在肉瘤中更常见（89% vs 38%）。肉瘤更常表现为边缘不规则（89% vs 69%）和T2高信号（89% vs 15%）。异质强化以及囊性或出血性改变在两种肿瘤类型中均可发生，而宫外病变仅见于肉瘤。所有肉瘤均显示高于子宫内膜的高DWI信号强度，而大多数肌瘤显示中等信号强度。肉瘤平均ADC值显著低于肌瘤（0.813 × 10⁻³mm²/s vs 1.050 × 10⁻³mm²/s），最佳截断值为0.892 × 10⁻³mm²/s。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "摘要认为，MRI，尤其是DWI和ADC分析，有助于鉴别非典型子宫肌瘤与子宫肉瘤；肉瘤表现为更高的DWI信号强度和显著更低的ADC值。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "5c3e2759a9addc9d1cf03022a66f6d3e8bd24aeb4ec5d73cd6b6bc424af5e4c6"
+      },
+      {
+        "id": "pmid:42763765",
+        "pmid": "42763765",
+        "doi": "10.7759/cureus.114857",
+        "title": "Factors Contributing to Higher Maternal Mortality and Preterm Birth Rates Among Black and South Asian Women Than Caucasian Women in Leicester: A Narrative Review.",
+        "abstract": "This narrative review aims to explore why ethnic inequalities in preterm birth and maternal mortality are present, specifically among Black and South Asian women within the United Kingdom. We are particularly focusing on Leicester and Leicestershire. This review aims to address the underlying reasons as to why these inequalities are present. Leicester has a high proportion of ethnic minorities compared with the rest of the United Kingdom, making it an important context for exploring disparities in maternity outcomes. A structured search in Medline (OVID) was conducted using keywords and MeSH terms related to ethnicity, maternal mortality, and preterm birth. Studies conducted only within the UK were included, as no Leicester-specific studies were identified; findings were therefore considered in relation to Leicester's diverse demographic to assess the likely relevance in this setting rather than direct evidence for this population. Overall, 90 studies were screened against the inclusion criteria; 18 studies were deemed relevant; however, due to time constraints, 8 were included within this narrative review. The findings showed consistent evidence of increased risk of preterm birth and maternal mortality within the Black and South Asian population. Socioeconomic and demographic factors were unable to explain this increased risk. Some studies did show that these ethnic minorities engaged in more positive health behaviors than Caucasian women, therefore suggesting that lifestyle and health factors are not an adequate explanation for these inequalities. Some suggested explanations for these inequalities include language barriers, limited access to care due to a lack of knowledge regarding services available, and negative experiences with the NHS. However, many of these explanations do not fully explain inequalities in ethnic minorities who were born within the UK, who have no language barriers present, and who are aware of the services available. Overall, no definitive cause was found across the studies. Also, no specific study was found in Leicester or the surrounding Leicestershire area. This review further demonstrates that there is a substantial inequality present in preterm birth and maternal mortality within the UK; however, the exact amount of inequality within Leicester and surrounding areas is unknown due to a lack of research. Given Leicester's exceptionally high minority population, it is plausible that these inequalities may be similar or more prevalent within Leicester and Leicestershire due to the higher ethnic minorities compared with the rest of the UK; however, this remains an inference drawn from wider UK evidence rather than local evidence. This narrative review suggests that multiple complex factors could explain these inequalities; however, it is unlikely that lifestyle factors alone explain these inequalities. Further research is needed, particularly within Leicester, to understand why these inequalities are present and to provide solutions to help remedy these inequalities.",
+        "journal": "Cureus",
+        "authors": [
+          "Samira Mendheria",
+          "Subhaan Hafeez"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-08-20T00:00:00.000Z",
+        "activityAt": "2026-09-20T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42763765/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "莱斯特黑人及南亚裔女性较白人女性更高的孕产妇死亡率和早产率的相关因素：一项叙述性综述",
+          "researchQuestion": "探讨英国，尤其是莱斯特和莱斯特郡，黑人及南亚裔女性中早产和孕产妇死亡方面族裔不平等存在的原因。",
+          "studyDesign": "叙述性综述。",
+          "populationAndSample": "在Medline（OVID）中进行结构化检索，仅纳入英国研究；由于未发现莱斯特特异性研究，结果结合莱斯特多样化人口进行评估，视为在该环境下可能的相关性而非该人群的直接证据。共筛选90项研究，18项被认为相关；由于时间限制，最终纳入8项。",
+          "methods": "使用与族裔、孕产妇死亡和早产相关的关键词和MeSH术语在Medline（OVID）中进行结构化检索；仅纳入在英国开展的研究。",
+          "keyResults": "研究显示一致证据表明黑人和南亚裔人群早产和孕产妇死亡风险增加。社会经济和人口因素无法解释这一增加风险。一些研究显示这些少数族裔比白人女性采取更多积极健康行为，因此提示生活方式和健康因素不足以解释这些不平等。部分提出的解释包括语言障碍、因不了解可用服务而限制就医，以及对NHS的负面体验。然而，许多解释不能完全解释在英国出生、无语言障碍且知晓可用服务的少数族裔中的不平等。总体而言，各研究未发现明确原因。未发现莱斯特或周边莱斯特郡地区的具体研究。该综述进一步表明英国早产和孕产妇死亡中存在显著不平等；但由于缺乏研究，莱斯特及周边地区不平等的确切程度未知。鉴于莱斯特少数族裔人口异常高，这些不平等在莱斯特和莱斯特郡可能相似或更普遍，但这是从更广泛英国证据中得出的推断，而非本地证据。",
+          "limitations": "未发现莱斯特特异性研究；由于时间限制，仅纳入8项研究；许多解释不能完全解释不平等；关于莱斯特的结论是从更广泛英国证据中得出的推断，而非本地证据。",
+          "clinicalInterpretation": "摘要认为，多种复杂因素可能解释这些不平等，但生活方式因素单独不太可能解释这些不平等。需要进一步研究，尤其是在莱斯特，以理解这些不平等存在的原因并提供有助于改善这些不平等的解决方案。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "ed2eb950dbfda4871cf7a273e1c8b38fa41f4cbfbbcddf94855787c01e275159"
+      },
+      {
+        "id": "pmid:42761210",
+        "pmid": "42761210",
+        "doi": "10.3389/fpsyt.2026.1895713",
+        "title": "Correlation between treatment-related symptom burden and psychological flexibility in patients with cervical cancer and their combined correlational association with emotional distress.",
+        "abstract": "OBJECTIVE: To explore the correlation between treatment-related symptom burden and psychological flexibility in patients with cervical cancer, as well as the combined correlational association of these two factors with patients' emotional distress, so as to provide a theoretical basis for formulating targeted psychological intervention strategies in clinical practice.\nMETHODS: A cross-sectional survey was conducted. A total of 216 patients with cervical cancer who received treatment in our hospital from June 2025 to January 2026 were selected as the research subjects. Data were collected using a general information questionnaire, the Memorial Symptom Assessment Scale (MSAS), the Multidimensional Psychological Flexibility Inventory-24 (MPFI-24), the Acceptance and Action Questionnaire-II (AAQ-II), and the Hospital Anxiety and Depression Scale (HADS). Pearson correlation analysis was used to explore the relationships among symptom burden, psychological flexibility, and different dimensions of emotional distress. Hierarchical regression analysis was performed to examine the correlational association of the interaction between symptom burden and psychological flexibility on emotional distress.\nRESULTS: Showed that the total HADS score of the 216 patients with cervical cancer was (14.32 ± 4.56) points, with an emotional distress detection rate of 48.15%. Pearson correlation analysis indicated that the total symptom burden score and its subscale scores were positively correlated with the anxiety and depression subscale scores of HADS ( P < 0.05). The total MPFI-24 score, its subscale scores, and the AAQ-II score were negatively correlated with the anxiety and depression subscale scores of HADS ( P < 0. 05). In addition, the total symptom burden score was negatively correlated with the total MPFI-24 score and the AAQ-II score ( P < 0.05). Hierarchical regression analysis further showed that, after controlling for general demographic and disease-related variables, symptom burden and psychological flexibility were independent correlates of emotional distress, and their interaction had a significant correlational association on emotional distress ( P < 0.05).\nCONCLUSION: Patients with cervical cancer experience a significant treatment-related symptom burden and relatively low levels of psychological flexibility, and both factors jointly affect patients' emotional states. In clinical practice, comprehensive intervention measures aimed at reducing symptom burden and improving psychological flexibility may help alleviate emotional distress and enhance the quality of life of these patients.",
+        "journal": "Frontiers in psychiatry",
+        "authors": [
+          "Haixiang Wang",
+          "Jiao Ma",
+          "Qin Chen",
+          "Xinying He",
+          "Yan Peng"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-04T00:00:00.000Z",
+        "activityAt": "2026-09-19T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42761210/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 7.5,
+          "total": 82.5,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "宫颈癌患者治疗相关症状负担与心理灵活性的相关性及其与情绪困扰的联合相关关联",
+          "researchQuestion": "探讨宫颈癌患者治疗相关症状负担与心理灵活性之间的相关性，以及这两个因素与患者情绪困扰的联合相关关联，从而为临床制定针对性心理干预策略提供理论依据。",
+          "studyDesign": "横断面调查。",
+          "populationAndSample": "选取2025年6月至2026年1月在本院接受治疗的216例宫颈癌患者作为研究对象。",
+          "methods": "使用一般信息问卷、纪念症状评估量表（MSAS）、多维心理灵活性量表-24（MPFI-24）、接纳与行动问卷第二版（AAQ-II）和医院焦虑抑郁量表（HADS）收集数据。采用Pearson相关分析探讨症状负担、心理灵活性与情绪困扰不同维度之间的关系；采用分层回归分析检验症状负担与心理灵活性交互作用与情绪困扰的相关关联。",
+          "keyResults": "216例宫颈癌患者HADS总分为（14.32 ± 4.56）分，情绪困扰检出率为48.15%。Pearson相关分析表明，症状负担总分及其子量表得分与HADS焦虑和抑郁子量表得分呈正相关（P < 0.05）。MPFI-24总分、其子量表得分及AAQ-II得分与HADS焦虑和抑郁子量表得分呈负相关（P < 0.05）。此外，症状负担总分与MPFI-24总分及AAQ-II得分呈负相关（P < 0.05）。分层回归分析进一步显示，在控制一般人口学和疾病相关变量后，症状负担和心理灵活性是情绪困扰的独立相关因素，且二者的交互作用对情绪困扰有显著相关关联（P < 0.05）。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "摘要认为，宫颈癌患者经历显著的治疗相关症状负担和相对较低的心理灵活性，这两个因素共同影响患者的情绪状态。摘要提出，在临床实践中，旨在降低症状负担并提高心理灵活性的综合干预措施可能有助于缓解情绪困扰并提升这些患者的生活质量。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "a12b7ceb2194dddb8dd52e4a6feae52b8264f8e353c2f16ca63764480ab1cf58"
+      },
+      {
+        "id": "pmid:42761386",
+        "pmid": "42761386",
+        "doi": "10.1002/ccr3.73530",
+        "title": "Breast and Contralateral Axillary Lymph Node Metastases After Ovarian Cancer Surgery: A Case Report.",
+        "abstract": "Breast masses with contralateral axillary lymphadenopathy in patients with a previous ovarian tumor should not be presumed to be primary breast cancer. Careful review of prior pathology, broad immunohistochemical evaluation, and the least invasive tissue-sampling strategy sufficient for diagnosis may help avoid misdiagnosis and unnecessary axillary surgery.",
+        "journal": "Clinical case reports",
+        "authors": [
+          "Chenxi Yuan",
+          "Jiaru Gao",
+          "Linjiao Jia",
+          "Mengshen Wang",
+          "Minghui Zheng",
+          "Qiaonan Ye",
+          "Sihan Zhang",
+          "Wentao Li",
+          "Zhiyuan Zhang"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-17T00:00:00.000Z",
+        "activityAt": "2026-09-19T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42761386/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 7.5,
+          "total": 82.5,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "卵巢癌术后乳腺和对侧腋窝淋巴结转移：一例病例报告",
+          "researchQuestion": "摘要未报告明确研究问题；该病例报告提示，既往有卵巢肿瘤的患者出现乳腺肿块伴对侧腋窝淋巴结病变时，不应推定其为原发性乳腺癌。",
+          "studyDesign": "病例报告。",
+          "populationAndSample": "一例既往接受卵巢癌手术的患者，出现乳腺和对侧腋窝淋巴结转移；摘要未报告更多人口学或样本细节。",
+          "methods": "摘要未报告具体方法；摘要提及应仔细复核既往病理、进行广泛免疫组化评估，并采用足以诊断的最小侵入性组织取样策略。",
+          "keyResults": "摘要未报告具体结果或数值。摘要结论为：既往有卵巢肿瘤的患者出现乳腺肿块伴对侧腋窝淋巴结病变时，不应推定其为原发性乳腺癌；仔细复核既往病理、广泛免疫组化评估和足以诊断的最小侵入性组织取样策略可能有助于避免误诊和不必要的腋窝手术。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "摘要提示，对于既往有卵巢肿瘤的患者，乳腺肿块伴对侧腋窝淋巴结病变不应被假定为原发性乳腺癌。仔细复核既往病理、进行广泛免疫组化评估，并采用足以诊断的最小侵入性组织取样策略，可能有助于避免误诊和不必要的腋窝手术。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "d91a8165b0a83fb5addb1b479710b8792633f4c24c5e3ada54ba891422f86bef"
+      }
+    ]
+  }
+}
