@@ -1,0 +1,261 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-09-22T22:23:51.143Z",
+    "dataAsOf": "2026-09-22T22:23:51.143Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及深部浸润型与浅表型子宫内膜异位症的产科和新生儿结局：一项回顾性队列研究、利用全转录组数据和下一代知识发现策略解析原发性卵巢癌的失调通路及候选治疗化合物、妊娠中期胰岛素敏感性和分泌缺陷对妊娠期糖尿病女性早期产后糖耐量异常的影响。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42768257",
+        "pmid": "42768257",
+        "doi": "10.1007/s43032-026-02215-3",
+        "title": "Obstetric and Neonatal Outcomes in Deep Infiltrating Versus Superficial Endometriosis: A Retrospective Cohort Study.",
+        "abstract": "To compare obstetric and neonatal outcomes between women with surgically confirmed deep infiltrating endometriosis (DIE) and superficial endometriosis, focusing on lesion-specific risk profiles. This retrospective cohort study included women with surgically confirmed endometriosis who achieved singleton pregnancies at a tertiary referral center between 2015 and 2024. Patients were classified as having deep infiltrating or superficial endometriosis. Obstetric and neonatal outcomes were obtained from medical records. Primary outcomes were placenta previa and preterm birth before 37 gestational weeks. Secondary outcomes included placenta-related complications, maternal perinatal outcomes, and neonatal morbidity. Multivariable logistic regression analyses were performed adjusting for maternal age, pre-pregnancy body mass index, parity, assisted reproductive technology use, adenomyosis, and previous uterine surgery. A total of 268 pregnancies were analyzed (102 DIE, 166 superficial endometriosis). Placenta previa was significantly more frequent in the DIE group and remained independently associated after adjustment (adjusted odds ratio 2.41, 95% confidence interval 1.02-5.68). Preterm birth was more common among women with DIE, but this association did not remain significant. A placenta-related composite outcome, including placenta previa and placental abruption, was independently associated with DIE. Neonatal intensive care unit admission was also more frequent in the DIE group and remained independently associated (adjusted odds ratio 1.89, 95% confidence interval 1.01-3.54). Deep infiltrating endometriosis is associated with higher risks of placenta-related complications and adverse neonatal outcomes compared with superficial endometriosis. Lesion-based phenotyping may support clinically relevant perinatal risk stratification in pregnancies complicated by endometriosis.",
+        "journal": "Reproductive sciences (Thousand Oaks, Calif.)",
+        "authors": [
+          "Aylin Yılmaz",
+          "Buket Yigit Civi",
+          "Dilanur Agir",
+          "Ece Nokay",
+          "Esra Keles",
+          "İsmail Baglar",
+          "Khayala Alakbarli Guliyeva",
+          "Mehmet Karahan",
+          "Sule Yildirim Kopuk",
+          "Tamer Topaloglu"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-21T00:00:00.000Z",
+        "activityAt": "2026-09-22T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42768257/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology",
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "深部浸润型与浅表型子宫内膜异位症的产科和新生儿结局：一项回顾性队列研究",
+          "researchQuestion": "比较经手术确诊的深部浸润型子宫内膜异位症（DIE）与浅表型子宫内膜异位症女性的产科和新生儿结局，并关注病变特异性的风险特征。",
+          "studyDesign": "回顾性队列研究。",
+          "populationAndSample": "2015年至2024年期间在一家三级转诊中心实现单胎妊娠、经手术确诊子宫内膜异位症的女性；共分析268例妊娠，其中DIE 102例，浅表型子宫内膜异位症166例。",
+          "methods": "根据手术确认的病变将患者分为DIE或浅表型子宫内膜异位症；从医疗记录获取产科和新生儿结局。主要结局为前置胎盘和妊娠37周前早产；次要结局包括胎盘相关并发症、母体围产期结局和新生儿发病率。采用多变量logistic回归分析，校正母亲年龄、孕前体质指数、产次、辅助生殖技术使用、子宫腺肌症和既往子宫手术。",
+          "keyResults": "前置胎盘在DIE组显著更常见，校正后仍独立相关（校正比值比2.41，95%置信区间1.02-5.68）。早产在DIE女性中更常见，但校正后该关联未保持显著。包含前置胎盘和胎盘早剥的胎盘相关复合结局与DIE独立相关。新生儿重症监护病房入住率在DIE组也更常见，并保持独立相关（校正比值比1.89，95%置信区间1.01-3.54）。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "该回顾性队列提示，与浅表型子宫内膜异位症相比，DIE与胎盘相关并发症和不良新生儿结局的风险升高相关；不能据此推断因果关系，也不构成临床指南。摘要提出基于病变的表型分析可能支持合并子宫内膜异位症妊娠的围产期风险分层，但仍需进一步研究验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "ce7cd07b7a71d3407ed0ace916fd7698f434f8609b582a4dc5be2c61921b4f8e"
+      },
+      {
+        "id": "pmid:42769006",
+        "pmid": "42769006",
+        "doi": "10.1111/jcmm.71356",
+        "title": "Deciphering the Dysregulated Pathways and Candidate Therapeutic Compounds for Primary Ovarian Cancer Using Whole Transcriptomics Data and Next Generation Knowledge Discovery Strategies.",
+        "abstract": "Ovarian cancer (OC) is a type of gynaecological cancer with a higher mortality rate due to diagnosis at an advanced stage and limited treatment options. This study aimed to leverage transcriptomic data to identify cellular and molecular pathways and potential anti-cancer compounds that specifically target primary invasive epithelial ovarian cancer (EOC). By employing next-generation knowledge discovery (NGKD) methodologies, we sought to unravel the intricate molecular landscape of primary invasive EOC using RNA sequencing (RNA-seq) data and decipher potential therapeutics for this debilitating disease. We performed NGKD analysis of the Gene Expression Omnibus (GEO) dataset GSE1295399 obtained from whole RNA-seq experiments. Using the raw counts and filtered metadata from GEO, we identified 2123 differentially expressed genes (DEGs) based on a Log 2 fold change (≤ ±0.6) and a p-value cutoff of < 0.05, between primary invasive EOC and benign EOC using the ExpressAnalyst platform. The DEGs were further analysed using both ExpressAnalyst and WebGestalt tools for differentially regulated cellular and molecular pathways and gene ontology (GOs), including biological process (GO-BP), molecular function (GO-MF) and cellular components (GO-CC). Both L1000 Fire Works Display (L1000FWD) and L1000 Characteristic Direction Signature Search Engine (L1000CDS2) tools were used to decipher synthetic or natural chemical compounds with the potential to reverse OC-associated gene signatures. DEGs implicated in key cellular and molecular pathways, such as oxidative phosphorylation, cell cycle, proteasome, programmed cell death protein-1 (PD-1) signalling, nuclear factor kappa B (NF-kB) signalling, cytokine and chemokine signalling, natural killer cell-mediated cytotoxicity and microRNAs in cancer, were positively enriched. The ribosome, translation, translational initiation and elongation and transforming growth factor-beta (TGF-β) signalling were negatively enriched in primary invasive EOC. Based on NGKD analysis, we identified approximately 50 synthetic or natural compounds, including naproxol, palbociclib, etoposide, wortmannin, PP-110, AZD-8055, amsacrine and BRD-K6595526. The results of this study could aid in the development of personalized treatment plans based on the unique profile of each tumour type, thus facilitating the development of personalized or precision treatment plans and improving diagnostic and prognostic capabilities in the clinic. In conclusion, the combination of RNA-seq and cutting-edge NGKD methodologies holds significant promise for identifying key cellular and molecular pathways and OC therapeutics.",
+        "journal": "Journal of cellular and molecular medicine",
+        "authors": [
+          "Alaa G Alahmadi",
+          "Ammar Al-Farga",
+          "Hind A Alkhatabi",
+          "Kalamegam Gauthaman",
+          "Peter Natesan Pushparaj",
+          "Reem Nabil Hassan"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-01T00:00:00.000Z",
+        "activityAt": "2026-09-22T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42769006/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "利用全转录组数据和下一代知识发现策略解析原发性卵巢癌的失调通路及候选治疗化合物",
+          "researchQuestion": "利用转录组数据识别原发性侵袭性上皮性卵巢癌（EOC）相关的细胞和分子通路，以及可能靶向该疾病的潜在抗癌化合物。",
+          "studyDesign": "基于GEO RNA-seq数据的计算/生物信息学分析（下一代知识发现，NGKD）。",
+          "populationAndSample": "摘要提及使用Gene Expression Omnibus（GEO）数据集GSE1295399的全RNA-seq实验数据，比较原发性侵袭性EOC与良性EOC；摘要未报告具体样本量或人群特征。",
+          "methods": "使用GEO原始计数和过滤后的元数据，通过ExpressAnalyst平台基于log2倍数变化（≤ ±0.6）和p值<0.05鉴定差异表达基因（DEGs）。使用ExpressAnalyst和WebGestalt分析差异调控的细胞和分子通路及基因本体（GO），包括生物过程（GO-BP）、分子功能（GO-MF）和细胞组分（GO-CC）。使用L1000FWD和L1000CDS2工具解析可能逆转卵巢癌相关基因特征的合成或天然化合物。",
+          "keyResults": "共鉴定2123个DEGs。氧化磷酸化、细胞周期、蛋白酶体、程序性细胞死亡蛋白-1（PD-1）信号、核因子kappa B（NF-kB）信号、细胞因子和趋化因子信号、自然杀伤细胞介导的细胞毒性及癌症相关microRNAs等关键细胞和分子通路呈正向富集。核糖体、翻译、翻译起始和延伸以及转化生长因子-β（TGF-β）信号在原发性侵袭性EOC中呈负向富集。基于NGKD分析，鉴定出约50种合成或天然化合物，包括naproxol、palbociclib、etoposide、wortmannin、PP-110、AZD-8055、amsacrine和BRD-K6595526。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "该计算分析提示，RNA-seq与NGKD方法结合可能有助于识别关键细胞和分子通路及卵巢癌治疗候选化合物，并可能支持基于肿瘤类型特征的个体化或精准治疗计划；这些结果来自计算预测，摘要未报告临床验证或因果证据，不构成临床指南。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "a9e193bdb54d267acbe3c08de2e8977623d29a2c31c92c3562a987cda4185445"
+      },
+      {
+        "id": "pmid:42769035",
+        "pmid": "42769035",
+        "doi": "10.3389/fendo.2026.1901350",
+        "title": "Effect of insulin sensitivity and secretion defects at mid-pregnancy on early postpartum glucose intolerance in women with gestational diabetes mellitus.",
+        "abstract": "OBJECTIVE: This study aimed to evaluate how insulin sensitivity and secretion defects during mid-pregnancy influence the development of early postpartum glucose intolerance in women diagnosed with gestational diabetes mellitus (GDM).\nMETHODS: A total of 1,256 pregnant women diagnosed with GDM between October 2005 and March 2023 were enrolled. Participants were categorized into four groups: GDM-normal, GDM-secretion defect only, GDM-sensitivity defect only, and GDM-mixed defect. Postpartum glucose intolerance was defined as fasting plasma glucose ≥ 100 mg/dL or 2-h plasma glucose ≥ 140 mg/dL during a 75-g oral glucose tolerance test at 6-12 weeks after delivery.\nRESULTS: Women presenting with a sensitivity defect at mid-pregnancy showed a significantly higher rate of postpartum glucose intolerance than those without sensitivity defect (64.9% vs. 46.6%, P < 0.001). Conversely, the presence of a secretion defect alone did not result in a significant difference. The highest prevalence of postpartum glucose intolerance was observed in patients with GDM-mixed defect (GDM-normal 45.7%, GDM-secretion defect only 48.5%, GDM-sensitivity defect only 62.8%, GDM-mixed defect 91.3%; P for trend < 0.001). The risk of postpartum glucose intolerance was 1.46 times higher (95% CI 1.07-2.00) for the GDM-sensitivity defect only group and 5.43 times higher (95% CI 1.20-24.56) for the GDM-mixed defect group, compared with the GDM-normal group.\nCONCLUSIONS: Among women with GDM, impaired insulin sensitivity identified at mid-pregnancy is associated with a substantially increased risk of early postpartum glucose intolerance, whereas insulin secretion defects are not significantly related to this risk.",
+        "journal": "Frontiers in endocrinology",
+        "authors": [
+          "Arim Choi",
+          "Hyunju Park",
+          "Kyung-Soo Kim",
+          "Soo-Kyung Kim",
+          "Yong-Wook Cho"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-07T00:00:00.000Z",
+        "activityAt": "2026-09-22T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42769035/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "妊娠中期胰岛素敏感性和分泌缺陷对妊娠期糖尿病女性早期产后糖耐量异常的影响",
+          "researchQuestion": "评估妊娠中期胰岛素敏感性和分泌缺陷如何影响妊娠期糖尿病（GDM）女性早期产后糖耐量异常的发生。",
+          "studyDesign": "摘要未明确报告研究设计；研究纳入GDM孕妇，按妊娠中期胰岛素敏感性和分泌缺陷分为四组，并评估产后6-12周糖代谢结局。",
+          "populationAndSample": "2005年10月至2023年3月期间诊断GDM并纳入的1,256例孕妇；分为GDM-normal、仅分泌缺陷、仅敏感性缺陷和混合缺陷四组。",
+          "methods": "参与者按妊娠中期胰岛素敏感性和分泌缺陷分类。产后糖耐量异常定义为产后6-12周75-g口服葡萄糖耐量试验中空腹血浆葡萄糖≥100 mg/dL或2小时血浆葡萄糖≥140 mg/dL。",
+          "keyResults": "妊娠中期存在敏感性缺陷的女性产后糖耐量异常率显著高于无敏感性缺陷者（64.9% vs. 46.6%，P<0.001）。单纯分泌缺陷未导致显著差异。产后糖耐量异常患病率最高见于GDM混合缺陷组（GDM-normal 45.7%、仅分泌缺陷48.5%、仅敏感性缺陷62.8%、混合缺陷91.3%；趋势P<0.001）。与GDM-normal组相比，仅敏感性缺陷组产后糖耐量异常风险为1.46倍（95% CI 1.07-2.00），混合缺陷组风险为5.43倍（95% CI 1.20-24.56）。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "在GDM女性中，妊娠中期识别的胰岛素敏感性受损与早期产后糖耐量异常风险显著升高相关，而胰岛素分泌缺陷与该风险无显著相关。该结果为观察性关联，不能推断因果关系，也不构成临床指南；可能提示妊娠中期胰岛素敏感性表型有助于识别产后糖代谢异常风险较高者，但需进一步研究验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "b51180cc1eacca89592a8a38ceae21b766521f0a600456156674def4da3f2bbc"
+      },
+      {
+        "id": "pmid:42769152",
+        "pmid": "42769152",
+        "doi": "10.3389/fendo.2026.1898210",
+        "title": "Ovarian cancer proteomic landscape changes across different pathological stages and biomarker-sets identified with integrative multiomics analysis.",
+        "abstract": "BACKGROUND: Ovarian cancer (OV) is a highly lethal gynecological malignant tumor, with a high mortality, low survival rate, and lacking effective biomarkers. The concept of predictive, preventive, and personalized medicine (PPPM) underscores the need for early warning systems and tailored interventions, creating a demand for reliable, stage-specific biomarkers.\nMETHODS: A comprehensive proteomic analysis of 60 OV tissues across pathological stages I-IV, and 17 benign ovarian tissues were analyzed with data-independent acquisition (DIA) mass spectrometry. Moreover, these proteomic findings were integrated with TCGA/GTEx data for survival analysis and key molecules, followed by experimental validation with western blot and multiplex immunohistochemistry.\nRESULTS: Totally, 1,669 differentially abundant proteins (DAPs) were significantly different in each pathological stage (I, II, III, and IV) of OVs compared to controls. DAPs in the early stage (Stage I-II) were mainly enriched in biological processes related to cell proliferation, such as cell cycle process and chromosome segregation, DAPs in advanced stages (Stages III-IV) were mainly enriched in pathways including extracellular matrix (ECM) organization and cell adhesion. Trend cluster analysis of these DAPs identified six types of trend clusters across different stages of OVs (C1-C6). PPI network analysis identified 28 hub proteins with multiple centrality algorithms. Of them, hub protein SMC2 was localized at nuclear and upregulated during early stage (I/II), which was significantly upregulated at its mRNA and protein levels in OV tissues with TCGA/GTEx, western blotting, and multiplex immunofluorescence analyses, and had a significant relationship with reduced overall survival (HR = 1.31, 95% CI: 1.12-1.55, p = 0.0011) with Kaplan-Meier survival analysis.\nCONCLUSION: This study provided the large-scale stage-resolved proteomic atlas of OVs, identifies a 28-protein core module governing cell cycle and genome stability, and reveals SMC2 plays crucial roles in OVs.",
+        "journal": "Frontiers in endocrinology",
+        "authors": [
+          "Liang Chen",
+          "Nuo Xu",
+          "Xianquan Zhan",
+          "Yan Wang",
+          "Zheng Fang"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-07T00:00:00.000Z",
+        "activityAt": "2026-09-22T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42769152/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "卵巢癌蛋白质组景观在不同病理阶段的变化及基于整合多组学鉴定的生物标志物集",
+          "researchQuestion": "描绘卵巢癌（OV）不同病理阶段的蛋白质组变化，并通过整合多组学分析识别生物标志物集和关键分子。",
+          "studyDesign": "观察性蛋白质组学/多组学整合分析，含实验验证。",
+          "populationAndSample": "60份覆盖病理阶段I-IV的OV组织和17份良性卵巢组织用于数据非依赖采集（DIA）质谱分析；另整合TCGA/GTEx数据用于生存分析和关键分子分析。",
+          "methods": "对60份OV组织和17份良性卵巢组织进行DIA质谱分析；将蛋白质组发现与TCGA/GTEx数据整合进行生存分析和关键分子分析；随后用western blot和多重免疫组化进行实验验证。",
+          "keyResults": "与对照相比，各病理阶段（I、II、III、IV）OV中共有1,669个差异丰度蛋白（DAPs）显著不同。早期阶段（I-II）DAPs主要富集于细胞增殖相关生物过程，如细胞周期过程和染色体分离；晚期阶段（III-IV）DAPs主要富集于细胞外基质（ECM）组织和细胞黏附等通路。趋势聚类分析鉴定出OV不同阶段的六种趋势聚类类型（C1-C6）。PPI网络分析通过多种中心性算法鉴定出28个枢纽蛋白。其中枢纽蛋白SMC2定位于细胞核，在早期阶段（I/II）上调；TCGA/GTEx、western blotting和多重免疫荧光分析显示其在OV组织中mRNA和蛋白水平显著上调，并与总生存降低显著相关（HR=1.31，95% CI 1.12-1.55，p=0.0011；Kaplan-Meier生存分析）。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "该研究提供了卵巢癌大规模、阶段分辨的蛋白质组图谱，识别出调控细胞周期和基因组稳定性的28蛋白核心模块，并提示SMC2在卵巢癌中可能发挥重要作用且与总生存降低相关。这些发现不直接构成临床指南，SMC2等候选标志物的临床应用需进一步验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "4068410afaff74fad8282c1041fd08c91303529927f4be54817f716ce2661de0"
+      },
+      {
+        "id": "pmid:42769307",
+        "pmid": "42769307",
+        "doi": "10.62347/rjts1592",
+        "title": "Regulation of endometriosis by long non-coding RNA SRA through estrogen receptor: research progress.",
+        "abstract": "Endometriosis (EMS) is an estrogen-dependent chronic gynecologic condition that affects approximately 10%-15% of women of childbearing age. Long non-coding RNA SRA (lncRNA SRA) was the first identified non-coding RNA that possesses dual functions: it acts as an RNA scaffold and also encodes the SRAP protein. It participates in estrogen signaling by co-activating estrogen receptors. Recent studies have revealed a distinct expression pattern in ectopic lesions of EMS: lncRNA SRA and ERα are coordinately downregulated, whereas SRAP and ERβ are coordinately upregulated. This inverse correlation highlights a unique dual-function switching mechanism of the SRA/SRAP axis in the pathogenesis of EMS. In this review, we systematically summarize the conserved domain features of lncRNA SRA and its dual roles as an RNA scaffold and a protein-coding transcript. We then dissect the molecular mechanisms by which SRA/SRAP influences the ERα/ERβ balance, thereby modulating cell proliferation, apoptosis, and the inflammatory microenvironment in EMS. Based on current evidence, we propose a dual-function switching model: the EMS microenvironment drives alternative splicing of the SRA gene, shifting the output from lncRNA SRA toward SRAP protein. These two products selectively couple with ERα and ERβ, respectively, and jointly reshape estrogen receptor signaling in ectopic endometrial cells. Furthermore, we discuss the clinical translational potential of the lncRNA SRA/SRAP ratio as both a diagnostic biomarker and a therapeutic target, aiming to provide new insight for precision diagnosis and treatment of EMS.",
+        "journal": "American journal of translational research",
+        "authors": [
+          "Jin Li"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-08-15T00:00:00.000Z",
+        "activityAt": "2026-09-22T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42769307/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "长非编码RNA SRA通过雌激素受体调控子宫内膜异位症：研究进展",
+          "researchQuestion": "综述长非编码RNA SRA（lncRNA SRA）及其编码的SRAP蛋白通过雌激素受体调控子宫内膜异位症（EMS）的机制，并探讨其临床转化潜力。",
+          "studyDesign": "综述。",
+          "populationAndSample": "摘要未报告原始研究人群或样本量；摘要提及EMS是一种雌激素依赖性慢性妇科疾病，影响约10%-15%的育龄女性。",
+          "methods": "系统总结lncRNA SRA的保守结构域特征及其作为RNA支架和蛋白编码转录本的双重作用；分析SRA/SRAP影响ERα/ERβ平衡，从而调节EMS中细胞增殖、凋亡和炎症微环境的分子机制；基于现有证据提出双功能转换模型，并讨论lncRNA SRA/SRAP比值作为诊断生物标志物和治疗靶点的临床转化潜力。",
+          "keyResults": "近期研究显示EMS异位病灶中lncRNA SRA和ERα协同下调，而SRAP和ERβ协同上调。该反向相关性提示SRA/SRAP轴在EMS发病中具有独特的双功能切换机制。基于现有证据提出模型：EMS微环境驱动SRA基因可变剪接，使输出从lncRNA SRA转向SRAP蛋白；这两种产物分别与ERα和ERβ选择性偶联，共同重塑异位子宫内膜细胞中的雌激素受体信号。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "该综述提出lncRNA SRA/SRAP比值作为EMS诊断生物标志物和治疗靶点具有临床转化潜力，并提出双功能转换模型；这些属于基于当前证据的机制性综述观点，不是临床指南或共识，需进一步研究验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "7204f3b66bb7731d07cf42078ae8091265c669e4aa9d741463b5b51af5702f14"
+      }
+    ]
+  }
+}
