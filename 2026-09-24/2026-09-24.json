@@ -1,0 +1,271 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-09-23T23:36:16.062Z",
+    "dataAsOf": "2026-09-23T23:36:16.062Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及乳腺癌绝经前女性化疗后卵巢功能恢复：系统综述与荟萃分析、评估大麻素提取物对子宫内膜异位症患者慢性疼痛和生活质量的影响——一项初步研究、依托咪酯与丙泊酚联合使用较单用丙泊酚缩短宫腔镜患者呼吸暂停持续时间：一项随机双盲试验。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42773325",
+        "pmid": "42773325",
+        "doi": "10.1007/s10549-026-08083-4",
+        "title": "Recovery of ovarian function after chemotherapy in premenopausal women with breast cancer: a systematic review and meta-analysis.",
+        "abstract": "PURPOSE: To evaluate the probability, timing, and predictors of ovarian function recovery after chemotherapy in premenopausal women with breast cancer.\nMETHODS: The PubMed, Embase, Scopus, and Cochrane Library databases were searched systematically. Pooled odds ratios (ORs), hazard ratios (HRs), and 95% confidence intervals (CIs) were calculated using random-effects models. Proportions were synthesized using restricted maximum likelihood with logit transformation. Subgroup analyses were conducted to explore factors associated with ovarian function recovery. PROSPERO registration: CRD420261343270.\nRESULTS: A total of 34 studies, including 10,216 premenopausal women, were analyzed. The probability of ovarian function recovery at 12, 24, and 60 months after chemotherapy was 30.4% (95% CI, 17.5-47.3), 38.5% (95% CI, 15.6-68.1), and 43.4% (95% CI, 9.4-84.9), respectively. The mean time to recovery was 12.3 months (95% CI, 8.7-15.9). Older age (OR, 0.25; 95% CI, 0.12-0.50) and longer chemotherapy duration (OR, 0.68; 95% CI, 0.50-0.92) were associated with a lower probability of ovarian function recovery. In individual studies, higher pretreatment anti-Müllerian hormone levels appeared to be associated with improved recovery, although pooled estimates were not statistically significant.\nCONCLUSIONS: The probability of ovarian function recovery after chemotherapy remains limited in premenopausal women; although recovery improves over time, overall rates remain modest. This represents an important treatment-related outcome that should be addressed during pretreatment counseling, through early discussions of reproductive risks, multidisciplinary fertility preservation counseling, and consideration of established fertility preservation methods before cancer-directed therapy.",
+        "journal": "Breast cancer research and treatment",
+        "authors": [
+          "Binh V Tran",
+          "Phi Y Huynh",
+          "Tu T Tran",
+          "Vinh T Ngo"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-09-22T00:00:00.000Z",
+        "activityAt": "2026-09-23T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42773325/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "乳腺癌绝经前女性化疗后卵巢功能恢复：系统综述与荟萃分析",
+          "researchQuestion": "评估绝经前乳腺癌女性化疗后卵巢功能恢复的概率、时间和预测因素。",
+          "studyDesign": "系统综述与荟萃分析；PROSPERO注册号：CRD420261343270。",
+          "populationAndSample": "共分析34项研究，包括10,216名绝经前女性。",
+          "methods": "系统检索PubMed、Embase、Scopus和Cochrane Library数据库。使用随机效应模型计算合并比值比（ORs）、风险比（HRs）和95%置信区间（CIs）。采用限制性最大似然法与logit转换合成比例。进行亚组分析以探索与卵巢功能恢复相关的因素。",
+          "keyResults": "化疗后12、24和60个月卵巢功能恢复概率分别为30.4%（95% CI，17.5-47.3）、38.5%（95% CI，15.6-68.1）和43.4%（95% CI，9.4-84.9）。平均恢复时间为12.3个月（95% CI，8.7-15.9）。年龄较大（OR，0.25；95% CI，0.12-0.50）和化疗持续时间较长（OR，0.68；95% CI，0.50-0.92）与卵巢功能恢复概率较低相关。在单项研究中，较高的治疗前抗苗勒管激素水平似乎与更好的恢复相关，尽管合并估计无统计学显著性。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "该荟萃分析提示，绝经前乳腺癌女性化疗后卵巢功能恢复概率仍有限；虽然恢复随时间改善，但总体率仍不高。摘要结论认为，这是重要的治疗相关结局，并提到在治疗前咨询中讨论生殖风险、多学科生育力保存咨询，以及在抗癌治疗前考虑已确立的生育力保存方法。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "e3e89fa42a8c24d45ecb814ce8451fce23f2e68c41f72bf444bbe8bb1cba1c3f"
+      },
+      {
+        "id": "pmid:42771648",
+        "pmid": "42771648",
+        "doi": "10.1371/journal.pone.0356768",
+        "title": "Evaluating the impact of cannabinoid extracts on chronic pain and quality of life in endometriosis patients - a pilot study.",
+        "abstract": "Endometriosis is a chronic gynecological disorder characterized by persistent pain and impaired quality of life, with limited effective treatment options. Emerging evidence indicates that cannabinoids may provide analgesic and symptom-relieving effects in chronic pain conditions. This prospective single-center cohort study investigated the effects of standardized oral cannabis extracts (cannabinoid-based medicinal products, CBMPs) on pain and quality of life in women with endometriosis. Thirty premenopausal women aged 18-45 years with confirmed endometriosis and chronic pelvic pain were enrolled; 27 completed the 3-month treatment period. Participants received oral CBMPs containing a balanced THC: CBD ratio. Pain intensity, frequency of pain episodes, analgesic use, fatigue, anxiety, central sensitization, disability, and quality of life were assessed using validated questionnaires (VAS, EHP-30, PDI, CFS, GAD-7, CSI). Significant improvements were observed after one month of treatment, with continued benefit over three months. Pain intensity decreased markedly (p = 0.0004), accompanied by reductions in the number of pain days and analgesic use, including both NSAIDs (e.g., ibuprofen, diclofenac) and opioid analgesics (e.g., tramadol, tilidin, oxycodone) (p < 0.001). Fatigue (p = 0.0013), anxiety (p < 0.0001), central sensitization (p < 0.0001), disability (p < 0.0001), and overall quality of life (EHP-30) improved significantly. Treatment was well tolerated; side effects were predominantly mild (severity score 1 on a 0-3 scale) and transient, occurring mainly during the titration phase and declining thereafter. Although limited by its single-center design, lack of placebo control, and short follow-up, this study provides preliminary evidence that oral CBMPs may represent a safe and effective adjunct therapy for managing pain and related symptoms in women with endometriosis. Larger randomized controlled trials are warranted to confirm these findings and establish optimal dosing strategies.",
+        "journal": "PloS one",
+        "authors": [
+          "Jalid Sehouli",
+          "Janosch W Kratz",
+          "Renata Voltolini Velho",
+          "Sandra Bock",
+          "Sylvia Mechsner"
+        ],
+        "publicationTypes": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-22T00:00:00.000Z",
+        "activityAt": "2026-09-22T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42771648/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 21.25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 96.25,
+          "evidenceRank": 0.85
+        },
+        "summaryZh": {
+          "titleZh": "评估大麻素提取物对子宫内膜异位症患者慢性疼痛和生活质量的影响——一项初步研究",
+          "researchQuestion": "研究标准化口服大麻提取物（大麻素类药品，CBMPs）对子宫内膜异位症女性疼痛和生活质量的影响。",
+          "studyDesign": "前瞻性单中心队列研究（初步研究）。",
+          "populationAndSample": "纳入30名18-45岁、确诊子宫内膜异位症并慢性盆腔痛的绝经前女性；27名完成3个月治疗期。",
+          "methods": "参与者接受口服CBMPs，含平衡THC:CBD比例。使用经过验证的问卷（VAS、EHP-30、PDI、CFS、GAD-7、CSI）评估疼痛强度、疼痛发作频率、镇痛药使用、疲劳、焦虑、中枢敏化、失能和总体生活质量。",
+          "keyResults": "治疗1个月后观察到显著改善，并在3个月内持续获益。疼痛强度显著下降（p = 0.0004），疼痛天数减少，镇痛药使用减少，包括NSAIDs（如ibuprofen、diclofenac）和阿片类镇痛药（如tramadol、tilidin、oxycodone）（p < 0.001）。疲劳（p = 0.0013）、焦虑（p < 0.0001）、中枢敏化（p < 0.0001）、失能（p < 0.0001）和总体生活质量（EHP-30）显著改善。治疗耐受良好；副作用多为轻度（0-3量表上严重度评分1）且短暂，主要发生在滴定阶段，之后减少。",
+          "limitations": "单中心设计、缺乏安慰剂对照、随访时间短。",
+          "clinicalInterpretation": "摘要认为，该研究提供初步证据，提示口服CBMPs可能作为子宫内膜异位症女性疼痛及相关症状管理的一种安全有效辅助治疗；需要更大规模随机对照试验确认这些发现并确定最佳剂量策略。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "eabe7a0201e4b800866dff8de421a0db782094dada3901339806e5d1484bce1a"
+      },
+      {
+        "id": "pmid:42774720",
+        "pmid": "42774720",
+        "doi": "10.2147/dddt.s645021",
+        "title": "Combined Use of Etomidate and Propofol Reduce the Duration of Apnea vs Propofol Alone in Patients Undergoing Hysteroscopy: A Randomised Double-Blind Trial.",
+        "abstract": "BACKGROUND: The incidence of respiratory suppression remains high in outpatients receiving intravenous anesthesia for hysteroscopy, presenting a substantial risk to safety. Combined use of etomidate and propofol may reduce apnea duration compared with propofol alone.\nOBJECTIVE: To verify the co-primary hypotheses that the Etomidate-propofol combination provides non-inferior sedation efficacy and superior reduction of apnea duration compared with propofol alone.\nMETHODS: The double-blind, parallel-group randomized trial was conducted at Renji Hospital, Shanghai, from September 2022 to December 2023. Women aged 18-65 years for elective hysteroscopies under intravenous sedation were included. The exclusion criteria included upper airway abnormalities, severe preoperative cardiac, liver, or kidney diseases, preoperative respiratory insufficiency, high reflux risk, allergy to study drugs, or serious psychological disorders or used psychotropic medications. Patients were randomized to receive either 0.2% etomidate 10mg + 1% propofol 100 mg or 1% propofol 150 mg alone, both in a total volume of 15 mL. All patients were given sufentanil (0.15 µg/kg). Co-primary outcomes were non-inferiority in sedation efficacy with an 7% margin and superiority on apnea duration.\nRESULTS: A total of 365 subjects were included with combination (n = 182) and propofol alone (n = 183). Patients in both groups were adequately sedated, and the combination was significantly non-inferior to propofol alone. Median apnea duration was significantly shorter in the combined group (73 s) than in the propofol group (116 s, difference, -43 s; P < 0.001). Fewer patients in the combined group required manual ventilation (17% vs 37% for propofol, P < 0.0001). Haemodynamic responses were similar for each approach.\nCONCLUSION: The combination of etomidate and propofol provides comparable sedative efficacy to propofol alone during hysteroscopy, while significantly shortening apnea duration induced by intravenous sedatives.",
+        "journal": "Drug design, development and therapy",
+        "authors": [
+          "Fan Ye",
+          "Jie Xiao",
+          "Liqun Yang",
+          "Teng Wang",
+          "Xinheng Zhang",
+          "Xinyu Gu",
+          "Yi Qin",
+          "Yijiao Chen",
+          "Yingyi Qin",
+          "Ziyu Zhu"
+        ],
+        "publicationTypes": [
+          "Case Reports",
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-09-17T00:00:00.000Z",
+        "activityAt": "2026-09-23T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42774720/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "minimally-invasive-surgery"
+        ],
+        "assignedTopicId": "minimally-invasive-surgery",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 7.5,
+          "recency": 10,
+          "total": 91.25,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "依托咪酯与丙泊酚联合使用较单用丙泊酚缩短宫腔镜患者呼吸暂停持续时间：一项随机双盲试验",
+          "researchQuestion": "验证与单用丙泊酚相比，依托咪酯-丙泊酚联合用药提供非劣效镇静效果并优效缩短呼吸暂停持续时间的共同主要假设。",
+          "studyDesign": "双盲、平行组随机试验，上海仁济医院，2022年9月至2023年12月。",
+          "populationAndSample": "纳入18-65岁接受择期宫腔镜静脉镇静的女性。排除标准包括上气道异常、严重术前心脏/肝脏/肾脏疾病、术前呼吸功能不全、高反流风险、研究药物过敏、严重心理障碍或使用精神药物。共365名受试者，联合组n = 182，单用丙泊酚组n = 183。",
+          "methods": "患者随机接受0.2%依托咪酯10mg + 1%丙泊酚100mg，或单用1%丙泊酚150mg，均总容量15 mL。所有患者给予舒芬太尼（0.15 µg/kg）。共同主要结局为镇静效果非劣效（7%界值）和呼吸暂停持续时间优效。",
+          "keyResults": "两组患者均充分镇静，联合组对单用丙泊酚显著非劣效。中位呼吸暂停持续时间在联合组显著短于丙泊酚组（73 s vs 116 s，差值 -43 s；P < 0.001）。联合组需要人工通气的患者更少（17% vs 37%，P < 0.0001）。两组血流动力学反应相似。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "摘要结论认为，宫腔镜期间依托咪酯与丙泊酚联合用药的镇静效果与单用丙泊酚相当，同时显著缩短静脉镇静药诱导的呼吸暂停持续时间。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "65ed134c5d022a328b15bb8dfae75ccf8c0630223ab76abe8dffc82595f4eb9d"
+      },
+      {
+        "id": "pmid:42773636",
+        "pmid": "42773636",
+        "doi": "10.12659/msm.953627",
+        "title": "Lifestyle Behaviors, Physical Activity, and Body Composition in Women With Gestational Diabetes: A Real-World Observational Study From Poland.",
+        "abstract": "BACKGROUND Gestational diabetes mellitus (GDM) is a common pregnancy complication associated with adverse maternal and neonatal outcomes. Lifestyle factors, including physical activity, diet, and body composition, may influence GDM risk, but integrated clinical data remain limited. We compared lifestyle-related factors, physical activity, dietary behaviors, and body composition between pregnant women with GDM and those with normal glucose tolerance and assessed differences in supplementation use, environmental exposures, family history of metabolic diseases, and selected anthropometric parameters. MATERIAL AND METHODS This cross-sectional observational study included 80 pregnant women (30 with GDM and 50 controls). Participants completed structured questionnaires assessing diet, physical activity, supplementation, and lifestyle factors. Body composition was evaluated using bioelectrical impedance analysis and skinfold thickness measurements. Group differences were analyzed using nonparametric tests. RESULTS Women with GDM more frequently reported adherence to a prescribed diet (77% vs 0%, P<0.0001) and greater nutritional knowledge (93% vs 4%, P<0.001), likely reflecting behavioral changes following diagnosis. Compared with controls, women with GDM had greater skinfold thickness (21.5 vs 19.0 mm, P=0.011) and higher total body water (34.6% vs 31.9%, P=0.032), despite similar pre-pregnancy body mass index. Positive family histories of obesity (63% vs 38%, P=0.049) and diabetes (53% vs 28%, P=0.043) were more common in the GDM group. Supplementation use was widespread and comparable between groups. CONCLUSIONS GDM was associated with differences in body composition and family history of metabolic diseases. Reduced physical activity was observed in both groups, whereas dietary adherence and nutritional knowledge among women with GDM likely reflected post-diagnostic behavioral adaptations.",
+        "journal": "Medical science monitor : international medical journal of experimental and clinical research",
+        "authors": [
+          "Bożena Leszczyńska-Gorzelak",
+          "Kamila Gorczyca",
+          "Małgorzata M Kozioł",
+          "Małgorzata Pasztelan",
+          "Żaneta Kimber-Trojnar"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Observational Study"
+        ],
+        "publishedAt": "2026-09-23T00:00:00.000Z",
+        "activityAt": "2026-09-23T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42773636/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "波兰妊娠期糖尿病女性的生活方式行为、体力活动与身体成分：一项真实世界观察性研究",
+          "researchQuestion": "比较妊娠期糖尿病（GDM）孕妇与糖耐量正常孕妇在生活方式相关因素、体力活动、饮食行为和身体成分方面的差异，并评估补充剂使用、环境暴露、代谢疾病家族史和部分人体测量参数的差异。",
+          "studyDesign": "横断面观察性研究。",
+          "populationAndSample": "纳入80名孕妇，其中30名GDM，50名对照。",
+          "methods": "参与者完成结构化问卷，评估饮食、体力活动、补充剂和生活方式因素。使用生物电阻抗分析和皮褶厚度测量评估身体成分。使用非参数检验分析组间差异。",
+          "keyResults": "GDM女性更常报告遵循处方饮食（77% vs 0%，P<0.0001）和更高营养知识（93% vs 4%，P<0.001），可能反映诊断后的行为改变。与对照相比，GDM女性皮褶厚度更大（21.5 vs 19.0 mm，P=0.011），总身体水分更高（34.6% vs 31.9%，P=0.032），尽管孕前BMI相似。GDM组肥胖家族史（63% vs 38%，P=0.049）和糖尿病家族史（53% vs 28%，P=0.043）更常见。补充剂使用普遍且两组相当。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "摘要结论认为，GDM与身体成分和代谢疾病家族史差异相关。两组均观察到体力活动减少，而GDM女性的饮食依从性和营养知识可能反映诊断后的行为适应。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "e1077187c9e123823cd80fca484f2d2552198d7684761b5941ace0ad047dfe65"
+      },
+      {
+        "id": "pmid:42773799",
+        "pmid": "42773799",
+        "doi": "10.1002/pmic.70185",
+        "title": "A Paramagnetic Microbead-Based Biofluid Enrichment Method Enables Proteomic Ovarian Cancer Biomarker Development Using Ascites Fluid.",
+        "abstract": "Ascites, the pathological accumulation of fluid in the peritoneal cavity, is common at diagnosis and with recurrence in high-grade serous ovarian carcinoma (HGSOC). Higher volumes of ascites fluid are associated with greater likelihood of recurrent disease and poor prognosis. Due to its availability-volume and frequency-and its reflection of tumors and their microenvironments, ascites is a valuable resource for proteomic biomarker discovery. However, ascites has not been widely studied. Similar to plasma, relatively few proteins comprise the majority of the broad dynamic range of protein mass in ascites fluid, necessitating an enrichment or depletion strategy for proteomic sample preparation. ENRICH-iST and ENRICHplus kits enrich low-abundance proteins using paramagnetic beads. These enrichment strategies have not previously been validated for use with ascites fluid. Our goal was to evaluate the ENRICH-iST and ENRICHplus kits using ascites fluid from HGSOC patients with differing extents of tumor resection during debulking surgery. This Dataset Brief describes the technical performance of these enrichment strategies based on DIA-MS proteome depth, reproducibility of identified proteins, Gene Ontology (GO) term enrichment (Biological Processes, Molecular Functions, and Cellular Components), and Human Protein Atlas-based protein abundance ranking. ENRICHplus outperformed ENRICH-iST by 1.4-fold based on depth of proteome coverage. Relative to the total proteome coverage, ENRICH-iST reduced the proportional contribution of the top 12 high-abundance proteins more effectively than ENRICHplus, thereby increasing the representation of lower-abundance proteins despite identifying fewer overall proteins. Analysis of the differential abundance of the proteins enriched from ascites fluid using these enrichment strategies could greatly facilitate HGSOC biomarker development.",
+        "journal": "Proteomics",
+        "authors": [
+          "Amy P N Skubitz",
+          "Carly A I Twigg",
+          "Diego Assis",
+          "Ella Shochatovitz",
+          "Kathleen M Madden",
+          "Kristin L M Boylan",
+          "Stefani N Thomas",
+          "Zachary Kirsch"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-22T00:00:00.000Z",
+        "activityAt": "2026-09-23T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42773799/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "基于顺磁性微珠的生物液体富集方法可实现利用腹水进行蛋白质组学卵巢癌生物标志物开发",
+          "researchQuestion": "评估ENRICH-iST和ENRICHplus试剂盒用于高级别浆液性卵巢癌（HGSOC）患者腹水样本的富集策略，以支持蛋白质组学生物标志物发现。",
+          "studyDesign": "基于腹水样本的技术性能评估（Dataset Brief）。",
+          "populationAndSample": "来自HGSOC患者的腹水，患者减瘤手术中肿瘤切除程度不同；样本量摘要未报告。",
+          "methods": "使用ENRICH-iST和ENRICHplus试剂盒，通过顺磁性微珠富集低丰度蛋白；基于DIA-MS评估蛋白质组深度、鉴定蛋白可重复性、Gene Ontology（GO）term富集（Biological Processes、Molecular Functions、Cellular Components）以及基于Human Protein Atlas的蛋白丰度排名。",
+          "keyResults": "ENRICHplus在蛋白质组覆盖深度上优于ENRICH-iST 1.4倍。相对于总蛋白质组覆盖，ENRICH-iST比ENRICHplus更有效降低前12种高丰度蛋白的比例贡献，从而尽管鉴定的总蛋白更少，却增加低丰度蛋白的代表性。分析利用这些富集策略从腹水富集的蛋白的差异丰度，可大大促进HGSOC生物标志物开发。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "摘要指出，这些富集策略的技术性能评估可促进利用腹水进行HGSOC生物标志物开发；摘要未报告临床验证或诊断性能。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "ba6fc8551eeca7211aea715fc6149a566e44f9f16cc5899082559c7274c94159"
+      }
+    ]
+  }
+}
