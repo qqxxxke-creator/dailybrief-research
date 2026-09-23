@@ -7,8 +7,8 @@
   "editor_note": "过去24小时暂无符合质量要求的重要更新。",
   "keywords": [],
   "research": {
-    "generatedAt": "2026-09-23T23:36:16.062Z",
-    "dataAsOf": "2026-09-23T23:36:16.062Z",
+    "generatedAt": "2026-09-23T23:55:21.687Z",
+    "dataAsOf": "2026-09-23T23:55:21.687Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及乳腺癌绝经前女性化疗后卵巢功能恢复：系统综述与荟萃分析、评估大麻素提取物对子宫内膜异位症患者慢性疼痛和生活质量的影响——一项初步研究、依托咪酯与丙泊酚联合使用较单用丙泊酚缩短宫腔镜患者呼吸暂停持续时间：一项随机双盲试验。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
@@ -39,15 +39,6 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 100,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "乳腺癌绝经前女性化疗后卵巢功能恢复：系统综述与荟萃分析",
           "researchQuestion": "评估绝经前乳腺癌女性化疗后卵巢功能恢复的概率、时间和预测因素。",
@@ -59,7 +50,16 @@
           "clinicalInterpretation": "该荟萃分析提示，绝经前乳腺癌女性化疗后卵巢功能恢复概率仍有限；虽然恢复随时间改善，但总体率仍不高。摘要结论认为，这是重要的治疗相关结局，并提到在治疗前咨询中讨论生殖风险、多学科生育力保存咨询，以及在抗癌治疗前考虑已确立的生育力保存方法。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "e3e89fa42a8c24d45ecb814ce8451fce23f2e68c41f72bf444bbe8bb1cba1c3f"
+        "summaryInputHash": "e3e89fa42a8c24d45ecb814ce8451fce23f2e68c41f72bf444bbe8bb1cba1c3f",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:42771648",
@@ -88,15 +88,6 @@
         "matchedTopicIds": [
           "endometriosis-benign-gynecology"
         ],
-        "assignedTopicId": "endometriosis-benign-gynecology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 21.25,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 96.25,
-          "evidenceRank": 0.85
-        },
         "summaryZh": {
           "titleZh": "评估大麻素提取物对子宫内膜异位症患者慢性疼痛和生活质量的影响——一项初步研究",
           "researchQuestion": "研究标准化口服大麻提取物（大麻素类药品，CBMPs）对子宫内膜异位症女性疼痛和生活质量的影响。",
@@ -108,7 +99,16 @@
           "clinicalInterpretation": "摘要认为，该研究提供初步证据，提示口服CBMPs可能作为子宫内膜异位症女性疼痛及相关症状管理的一种安全有效辅助治疗；需要更大规模随机对照试验确认这些发现并确定最佳剂量策略。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "eabe7a0201e4b800866dff8de421a0db782094dada3901339806e5d1484bce1a"
+        "summaryInputHash": "eabe7a0201e4b800866dff8de421a0db782094dada3901339806e5d1484bce1a",
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 21.25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 96.25,
+          "evidenceRank": 0.85
+        }
       },
       {
         "id": "pmid:42774720",
@@ -144,15 +144,6 @@
         "matchedTopicIds": [
           "minimally-invasive-surgery"
         ],
-        "assignedTopicId": "minimally-invasive-surgery",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 23.75,
-          "clinicalActionability": 7.5,
-          "recency": 10,
-          "total": 91.25,
-          "evidenceRank": 0.95
-        },
         "summaryZh": {
           "titleZh": "依托咪酯与丙泊酚联合使用较单用丙泊酚缩短宫腔镜患者呼吸暂停持续时间：一项随机双盲试验",
           "researchQuestion": "验证与单用丙泊酚相比，依托咪酯-丙泊酚联合用药提供非劣效镇静效果并优效缩短呼吸暂停持续时间的共同主要假设。",
@@ -164,7 +155,16 @@
           "clinicalInterpretation": "摘要结论认为，宫腔镜期间依托咪酯与丙泊酚联合用药的镇静效果与单用丙泊酚相当，同时显著缩短静脉镇静药诱导的呼吸暂停持续时间。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "65ed134c5d022a328b15bb8dfae75ccf8c0630223ab76abe8dffc82595f4eb9d"
+        "summaryInputHash": "65ed134c5d022a328b15bb8dfae75ccf8c0630223ab76abe8dffc82595f4eb9d",
+        "assignedTopicId": "minimally-invasive-surgery",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 7.5,
+          "recency": 10,
+          "total": 91.25,
+          "evidenceRank": 0.95
+        }
       },
       {
         "id": "pmid:42773636",
@@ -193,15 +193,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "波兰妊娠期糖尿病女性的生活方式行为、体力活动与身体成分：一项真实世界观察性研究",
           "researchQuestion": "比较妊娠期糖尿病（GDM）孕妇与糖耐量正常孕妇在生活方式相关因素、体力活动、饮食行为和身体成分方面的差异，并评估补充剂使用、环境暴露、代谢疾病家族史和部分人体测量参数的差异。",
@@ -213,7 +204,16 @@
           "clinicalInterpretation": "摘要结论认为，GDM与身体成分和代谢疾病家族史差异相关。两组均观察到体力活动减少，而GDM女性的饮食依从性和营养知识可能反映诊断后的行为适应。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "e1077187c9e123823cd80fca484f2d2552198d7684761b5941ace0ad047dfe65"
+        "summaryInputHash": "e1077187c9e123823cd80fca484f2d2552198d7684761b5941ace0ad047dfe65",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42773799",
@@ -244,15 +244,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "基于顺磁性微珠的生物液体富集方法可实现利用腹水进行蛋白质组学卵巢癌生物标志物开发",
           "researchQuestion": "评估ENRICH-iST和ENRICHplus试剂盒用于高级别浆液性卵巢癌（HGSOC）患者腹水样本的富集策略，以支持蛋白质组学生物标志物发现。",
@@ -264,7 +255,16 @@
           "clinicalInterpretation": "摘要指出，这些富集策略的技术性能评估可促进利用腹水进行HGSOC生物标志物开发；摘要未报告临床验证或诊断性能。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "ba6fc8551eeca7211aea715fc6149a566e44f9f16cc5899082559c7274c94159"
+        "summaryInputHash": "ba6fc8551eeca7211aea715fc6149a566e44f9f16cc5899082559c7274c94159",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       }
     ]
   }
