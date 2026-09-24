@@ -1,0 +1,267 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-09-24T22:14:10.424Z",
+    "dataAsOf": "2026-09-24T22:14:10.424Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及基于计算机断层扫描的机器学习模型在附件肿块分类中的诊断性能——系统综述、女性癌症患者的稳态负荷：一项系统综述、针对合并不孕的多囊卵巢综合征女性的健康促进行为干预：一项随机对照试验。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42779737",
+        "pmid": "42779737",
+        "doi": "10.12688/f1000research.178239.1",
+        "title": "Diagnostic Performance of Computed Tomography-Based Machine Learning Models in the Classification of Adnexal Masses - A Systematic Review.",
+        "abstract": "INTRODUCTION: Accurate characterization of adnexal masses is a key issue and a crucial step toward improving the outcome of managing a patient with a gynecologic oncology issue. Though ultrasound is a dominant tool for this process, it is subjected to operator variability and is less reliable from a diagnostic perspective. Advances in computed tomography-based radiomics and ML hold great promise as objective diagnostic solutions.\nMETHODS: This systematic review was performed according to the guidelines suggested by PRISMA. The literature research using PubMed, Embase, Scopus, and Web of Science databases included studies that examined CT-based radiomics and ML model performances for classification of adnexal masses and reported diagnostic performance metrics, including AUC, sensitivity, and specificity. Quality assessment of included studies was performed using the QUADAS 2 tool.\nRESULTS: Eleven studies were included in the review. The performance of CT-based ML models was found to be moderate to excellent, with an AUC ranging from 0.72 to 0.99. Hybrid radiomics-DL algorithms were found to have a higher performance compared to other algorithms. The studies were found to have low risk of bias.\nCONCLUSION: CT-based radiomics and AI models also hold good prominence as adjunctive tools in differentiating between both benign and malignant adnexal masses and in predicting prognosis. PROSPERO registration: The study has been registered in PROSPERO under the registration number CRD420251266988, on 16 December 2025.",
+        "journal": "F1000Research",
+        "authors": [
+          "Kaushik Nayak",
+          "Priyanka -",
+          "Rajagopal Kadavigere",
+          "Saikiran Pendem",
+          "Suvarna Kotian",
+          "Varsha R"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-04-02T00:00:00.000Z",
+        "activityAt": "2026-09-24T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42779737/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "基于计算机断层扫描的机器学习模型在附件肿块分类中的诊断性能——系统综述",
+          "researchQuestion": "CT-based radiomics and ML模型在附件肿块分类中的诊断性能如何？",
+          "studyDesign": "系统综述，遵循PRISMA指南，已在PROSPERO注册（CRD420251266988，2025年12月16日）。",
+          "populationAndSample": "纳入11项研究。",
+          "methods": "检索PubMed、Embase、Scopus和Web of Science数据库，纳入评估CT-based radiomics和ML模型对附件肿块分类性能并报告AUC、灵敏度和特异度等诊断性能指标的研究；使用QUADAS 2工具评估纳入研究质量。",
+          "keyResults": "共纳入11项研究。CT-based ML模型性能为中等到极好，AUC范围为0.72至0.99。混合radiomics-DL算法相比其他算法表现出更高性能。纳入研究为低偏倚风险。",
+          "limitations": "摘要未报告该综述的局限性；仅报告纳入研究为低偏倚风险。",
+          "clinicalInterpretation": "作者结论认为，CT-based radiomics和AI模型作为辅助工具，在区分良恶性附件肿块以及预测预后方面具有良好前景。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "5321b0f6ea9b402495b0983d32dab42660f51c51eb2cd94149deea0f820153b1"
+      },
+      {
+        "id": "pmid:42780075",
+        "pmid": "42780075",
+        "doi": "10.3389/fendo.2026.1881050",
+        "title": "Allostatic load in female cancer patients: a systematic review.",
+        "abstract": "INTRODUCTION: The physiological burden of chronic stress, quantified as allostatic load (AL), is implicated in cancer development and outcomes. However, a synthesis of evidence regarding its role in female-specific cancers is lacking.\nOBJECTIVE: This systematic review aimed to synthesize existing evidence on the application of AL in female cancer patients, covering both its predictive value for cancer risk in healthy populations and its prognostic significance for outcomes and quality of life in cancer patients.\nMETHODS: Following PRISMA guidelines, we systematically searched PubMed, Web of Science, Springer Link, and Wiley Online Library from inception to June 2025. Studies investigating AL in patients with common female cancers (e.g., breast, endometrial, ovarian) were included. Study quality was assessed using the NIH Quality Assessment Tool for Observational Cohort and Cross-Sectional Studies. Data on study characteristics, AL assessment methods, associated factors, and key findings were extracted.\nRESULTS: 17 studies (14 on breast cancer, 2 on endometrial cancer, and 1 on ovarian cancer) were included. AL levels were influenced by sociodemographic, lifestyle, and structural factors. Higher AL was associated with an increased risk of female cancers (particularly breast cancer) incidence, poorer health-related quality of life, a higher incidence of postoperative complications (e.g., lymphedema), and increased all-cause mortality. And existing studies exhibit heterogeneity in biomarker selection and scoring thresholds.\nCONCLUSIONS: AL is a promising composite marker associated with the risk, prognosis, and quality of life in female cancer patients, primarily breast cancer. Current evidence is concentrated on breast cancer with limited evidence available for other types of female cancers. Future research requires standardized AL assessment and investigations across diverse female cancer populations.\nSYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/, identifier CRD420251080672.",
+        "journal": "Frontiers in endocrinology",
+        "authors": [
+          "Hui Tong",
+          "Luxia Fu",
+          "Minglu Zhang",
+          "Sisi Bu",
+          "Ying Ding"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-09-09T00:00:00.000Z",
+        "activityAt": "2026-09-24T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42780075/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "女性癌症患者的稳态负荷：一项系统综述",
+          "researchQuestion": "稳态负荷（AL）在女性癌症患者中的应用证据如何，包括其对健康人群癌症风险的预测价值以及对癌症患者结局和生活质量的预后意义？",
+          "studyDesign": "系统综述，遵循PRISMA指南，PROSPERO注册号CRD420251080672。",
+          "populationAndSample": "共纳入17项研究，其中14项关于乳腺癌、2项关于子宫内膜癌、1项关于卵巢癌。",
+          "methods": "检索PubMed、Web of Science、Springer Link和Wiley Online Library，从建库至2025年6月；纳入研究女性常见癌症（如乳腺癌、子宫内膜癌、卵巢癌）患者AL的研究。使用NIH观察性队列和横断面研究质量评估工具评价研究质量，提取研究特征、AL评估方法、相关因素和主要发现。",
+          "keyResults": "共纳入17项研究（14项乳腺癌、2项子宫内膜癌、1项卵巢癌）。AL水平受社会人口学、生活方式和结构性因素影响。较高的AL与女性癌症（尤其是乳腺癌）发病风险增加、健康相关生活质量较差、术后并发症（如淋巴水肿）发生率更高以及全因死亡率增加相关。现有研究在生物标志物选择和评分阈值方面存在异质性。",
+          "limitations": "现有研究在生物标志物选择和评分阈值方面存在异质性；当前证据主要集中在乳腺癌，其他类型女性癌症的证据有限。",
+          "clinicalInterpretation": "作者结论认为，AL是一个有前景的复合标志物，与女性癌症患者（主要是乳腺癌）的风险、预后和生活质量相关；未来需要标准化AL评估并在多样化女性癌症人群中开展研究。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "bd9c9d48fcdb4df6ed2162e61bb18c2688dffccd10548ae674a72592254a4150"
+      },
+      {
+        "id": "pmid:42780943",
+        "pmid": "42780943",
+        "doi": "10.3389/fpubh.2026.1904708",
+        "title": "A health promotion behavior intervention for women with polycystic ovary syndrome experiencing infertility: a randomized controlled trial.",
+        "abstract": "OBJECTIVE: This study aimed to evaluate the effectiveness of an intervention based on the behavior change wheel (BCW) in improving health promotion behaviors, self-efficacy, and pregnancy rates among women with polycystic ovary syndrome (PCOS) experiencing infertility.\nMETHODS: This randomized controlled trial included 66 PCOS patients with infertility recruited from the gynecology outpatient department of a tertiary hospital in Hangzhou, China. Participants were randomly assigned to either the experimental group ( n = 33), which received a 12-week health promotion behavior intervention based on the BCW, or the control group ( n = 33), which received usual care. Outcomes were measured at baseline and immediately after the intervention.\nRESULTS: A total of 62 participants were included in the full analysis set, and 56 in the per-protocol set. Health promotion behaviors improved significantly from pre-intervention to post-intervention in both groups ( p < 0.05). At post-intervention, the experimental group showed significantly greater improvement compared to the control group ( p < 0.05). Self-efficacy was also significantly higher in the experimental group than in the control group at post-intervention ( p < 0.05). However, the difference in pregnancy rate between the two groups was not statistically significant ( p > 0.05).\nCONCLUSION: The BCW-based intervention program showed promise in improving health promotion behaviors and self-efficacy among PCOS patients with infertility over 12 weeks, although its effect on pregnancy rate was not statistically significant. Longer-term studies are warranted to evaluate sustained benefits and reproductive outcomes.\nCLINICAL TRIAL REGISTRATION: https://www.chictr.org.cn, identifier (ChiCTR2500103129).",
+        "journal": "Frontiers in public health",
+        "authors": [
+          "Pingpei Dong",
+          "Ting Wang",
+          "Xunxun Ying",
+          "Yang Jin",
+          "Yongjie Tang",
+          "Yunxi Xue"
+        ],
+        "publicationTypes": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-09-09T00:00:00.000Z",
+        "activityAt": "2026-09-24T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42780943/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "针对合并不孕的多囊卵巢综合征女性的健康促进行为干预：一项随机对照试验",
+          "researchQuestion": "基于行为改变轮（BCW）的干预能否改善合并不孕的多囊卵巢综合征（PCOS）女性的健康促进行为、自我效能和妊娠率？",
+          "studyDesign": "随机对照试验，临床试验注册号ChiCTR2500103129。",
+          "populationAndSample": "从中国杭州一家三级医院妇科门诊招募66例合并不孕的PCOS患者；随机分为实验组（n=33）和对照组（n=33）。全分析集62例，符合方案集56例。",
+          "methods": "实验组接受为期12周、基于BCW的健康促进行为干预；对照组接受常规护理。在基线及干预结束后立即测量结局。",
+          "keyResults": "全分析集62例，符合方案集56例。两组健康促进行为从干预前到干预后均显著改善（p<0.05）。干预后，实验组相比对照组改善显著更大（p<0.05）。干预后实验组自我效能也显著高于对照组（p<0.05）。然而，两组妊娠率差异无统计学意义（p>0.05）。",
+          "limitations": "干预为期12周，结局在干预结束后立即测量；妊娠率差异无统计学意义；作者指出需要更长期研究评估持续获益和生殖结局。",
+          "clinicalInterpretation": "作者结论认为，基于BCW的干预方案在12周内对合并不孕的PCOS患者改善健康促进行为和自我效能显示出前景，但其对妊娠率的影响无统计学意义；需要更长期研究评价持续获益和生殖结局。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "c5f22245e32c4e0bc26053773758b3327e70474e4870b0bd6b28937879e59e69"
+      },
+      {
+        "id": "pmid:42780951",
+        "pmid": "42780951",
+        "doi": "10.3389/fpubh.2026.1833825",
+        "title": "Preexisting diabetes and gestational diabetes as risk factors for autism spectrum disorder: an umbrella review.",
+        "abstract": "BACKGROUND: Maternal diabetes during pregnancy, including preexisting type 1 diabetes (T1DM), type 2 diabetes (T2DM), and gestational diabetes mellitus (GDM), has been investigated as a potential risk factor for autism spectrum disorder (ASD) in offspring. However, the consistency and strength of evidence across published meta-analyses remain uncertain. This umbrella review aimed to synthesize and critically appraise the existing meta-analytic evidence on this association.\nMETHODS: Following the PRISMA 2020 guidelines, we conducted an umbrella review of meta-analyses identified through PubMed, Web of Science, and Google Scholar from inception to March 31, 2026. Eligible studies quantitatively assessed the association between maternal diabetes and the risk of ASD. Of 636 records identified, 11 meta-analyses met the inclusion criteria. Data on effect estimates, heterogeneity, and potential bias were extracted. Study quality was assessed using AMSTAR 2, and overlap among primary studies was evaluated using the corrected covered area (CCA). Given the substantial overlap and methodological variability, the most robust meta-analysis for each exposure was prioritized, and findings were synthesized descriptively without conducting a de novo meta-analysis.\nRESULTS: Across included meta-analyses, maternal diabetes was consistently associated with increased ASD risk in offspring. Preexisting diabetes showed a more consistent and stronger association compared with GDM, which also demonstrated a positive but more variable association. Heterogeneity was commonly moderate to high, and publication bias was variably reported. Overall evidence ranged from suggestive to weak, with higher credibility observed for preexisting diabetes than for GDM.\nCONCLUSION: A consistent and statistically significant association was observed between maternal diabetes-including both preexisting diabetes and GDM-and ASD, with evidence suggesting a risk gradient according to diabetes type. These findings highlight the importance of maternal metabolic health during pregnancy and support further research into the underlying mechanisms and potential preventive strategies.\nSYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/view/CRD420261334307, 2026CRD420261334307.",
+        "journal": "Frontiers in public health",
+        "authors": [
+          "Abdalla Ali Abdalla",
+          "Asmaa Ghmaird",
+          "Hyder O Mirghani",
+          "Mai T Sindi",
+          "Manal Albalawi",
+          "Nagwa Gad",
+          "Razaz Baattiah"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-09-09T00:00:00.000Z",
+        "activityAt": "2026-09-24T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42780951/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 6,
+          "recency": 10,
+          "total": 91,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "孕前糖尿病和妊娠期糖尿病作为孤独症谱系障碍危险因素：一项伞状综述",
+          "researchQuestion": "母亲孕期糖尿病，包括孕前1型糖尿病（T1DM）、2型糖尿病（T2DM）和妊娠期糖尿病（GDM），与子代孤独症谱系障碍（ASD）风险的关联，在已发表meta分析中的一致性和证据强度如何？",
+          "studyDesign": "伞状综述，遵循PRISMA 2020指南，PROSPERO注册号CRD420261334307。",
+          "populationAndSample": "共识别636条记录，纳入11项符合标准的meta分析。",
+          "methods": "检索PubMed、Web of Science和Google Scholar，从建库至2026年3月31日；纳入定量评估母亲糖尿病与ASD风险关联的meta分析。提取效应估计、异质性和潜在偏倚数据；使用AMSTAR 2评估研究质量，使用校正覆盖面积（CCA）评估原始研究重叠。鉴于重叠和方法学差异较大，对每种暴露优先选择最稳健的meta分析，进行描述性综合，未开展新的meta分析。",
+          "keyResults": "在纳入的meta分析中，母亲糖尿病与子代ASD风险增加一致相关。与GDM相比，孕前糖尿病显示出更一致且更强的关联；GDM也显示正相关，但变异性更大。异质性通常为中到高，发表偏倚报告不一。总体证据从提示性到弱不等，孕前糖尿病的可信度高于GDM。",
+          "limitations": "异质性通常为中到高；发表偏倚报告不一；总体证据从提示性到弱不等；原始研究存在重叠和方法学差异。",
+          "clinicalInterpretation": "作者结论认为，母亲糖尿病（包括孕前糖尿病和GDM）与ASD之间存在一致且统计学显著的关联，证据提示风险随糖尿病类型呈现梯度；这些发现强调孕期母亲代谢健康的重要性，并支持进一步研究潜在机制和可能的预防策略。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "27e94ddd9c549fc5e2b1a87360e8648f8055cb4afa01babd9d03a15a2cab752c"
+      },
+      {
+        "id": "pmid:42778941",
+        "pmid": "42778941",
+        "doi": "10.1186/s13048-026-02253-0",
+        "title": "Clinical landscape of therapeutic vaccines for ovarian cancer: current status, challenges, and future directions.",
+        "abstract": "BACKGROUND: Therapeutic cancer vaccines have emerged as a promising immunotherapeutic strategy for ovarian cancer by stimulating tumor-specific immune responses and establishing long-term immune memory. Despite decades of clinical investigation, the overall development landscape, translatform characteristics, and research trends of ovarian cancer vaccines remain incompletely understood.\nMETHODS: Clinical trials related to ovarian cancer vaccines were retrieved from the ClinicalTrials.gov database. A total of 136 unique studies registered between 1996 and June 2026 were included. Information regarding study phase, recruitment status, enrollment size, geographic distribution, funding source, vaccine platform, combination strategy, clinical application context, and endpoint selection was extracted and descriptively analyzed. Relationships among vaccine platforms, combination strategies, clinical phases, and endpoint categories were further visualized. Immune monitoring outcomes were further coded according to reporting specificity, assay-method class, and biological domain.\nRESULTS: A total of 136 clinical studies involving 4,180 participants were identified. Most studies were early-phase trials, including Phase I (48.53%), Phase II (23.53%), and Phase I/II (21.32%), whereas only 2 Phase III studies were found. Completed studies accounted for 55.88%, while only 22.79% had publicly posted results. The United States dominated the research landscape, participating in 105 studies. Major vaccine platforms included peptide/antigen vaccines, dendritic-cell vaccines, whole tumor cell or lysate vaccines, DNA/RNA vaccines, and viral/vector vaccines. Current development trends indicate a transition from single-vaccine approaches toward combination strategies involving immune checkpoint inhibitors, chemotherapy, and immune adjuvants. Most studies focused on advanced, metastatic, or recurrent ovarian cancer. Safety/toxicity and immunogenicity were the most frequently used endpoints, whereas progression-free survival, overall survival, quality of life, and biomarker-based outcomes were comparatively underrepresented. Immune monitoring or immune-response outcomes were reported in 92 trials (67.65%), but only 58 trials (42.65%) specified an assay method; 34 trials (25.00%) described an immune domain without a named assay.\nCONCLUSIONS: Therapeutic vaccine development for ovarian cancer has shown sustained progress over the past three decades but remains largely in an early exploratory stage. Although diverse vaccine platforms and combination immunotherapy strategies demonstrate substantial translational potential, confirmatory evidence remains limited. Future efforts should prioritize biomarker-guided patient selection, personalized vaccine development, standardized immune monitoring, clinically meaningful endpoints, and large-scale multicenter randomized Phase II/III trials to facilitate the translation of vaccine-induced immune responses into tangible clinical benefits. The observed heterogeneity in immune-response reporting further highlights the need for prespecified, harmonized, and vaccine-specific immune monitoring frameworks in future vaccine trials.",
+        "journal": "Journal of ovarian research",
+        "authors": [
+          "Qianqian Wang",
+          "Wei Wan",
+          "Yan Zhang",
+          "Yijing Chu",
+          "Yuping Shan"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-09-10T00:00:00.000Z",
+        "activityAt": "2026-09-24T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42778941/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "卵巢癌治疗性疫苗的临床格局：现状、挑战和未来方向",
+          "researchQuestion": "卵巢癌治疗性疫苗的总体研发格局、转化特征和研究趋势如何？",
+          "studyDesign": "基于ClinicalTrials.gov注册临床试验的回顾性描述性分析（综述）。",
+          "populationAndSample": "纳入1996年至2026年6月注册的136项独特研究，涉及4,180名参与者。",
+          "methods": "从ClinicalTrials.gov数据库检索卵巢癌疫苗相关临床试验；提取研究分期、招募状态、入组规模、地理分布、资金来源、疫苗平台、联合策略、临床应用背景和终点选择等信息，进行描述性分析；可视化疫苗平台、联合策略、临床分期和终点类别之间的关系；对免疫监测结局按报告特异性、检测方法类别和生物学领域进行编码。",
+          "keyResults": "共识别136项临床研究，涉及4,180名参与者。多数研究为早期试验，包括I期48.53%、II期23.53%、I/II期21.32%，仅发现2项III期研究。已完成研究占55.88%，仅22.79%公开张贴结果。美国主导研究格局，参与105项研究。主要疫苗平台包括肽/抗原疫苗、树突状细胞疫苗、全肿瘤细胞或裂解物疫苗、DNA/RNA疫苗和病毒/载体疫苗。当前发展趋势显示从单疫苗方案转向联合策略，涉及免疫检查点抑制剂、化疗和免疫佐剂。多数研究聚焦晚期、转移性或复发性卵巢癌。安全/毒性和免疫原性是最常用终点，而无进展生存期、总生存期、生活质量和基于生物标志物的结局相对不足。92项试验（67.65%）报告了免疫监测或免疫应答结局，但仅58项试验（42.65%）明确了检测方法；34项试验（25.00%）描述了免疫领域但未命名检测方法。",
+          "limitations": "治疗性疫苗开发在过去三十年中持续进展，但仍主要处于早期探索阶段；尽管多种疫苗平台和联合免疫治疗策略显示较大转化潜力，但确证性证据仍然有限；免疫应答报告存在异质性。",
+          "clinicalInterpretation": "作者结论指出，卵巢癌治疗性疫苗开发在过去三十年中持续进展，但仍主要处于早期探索阶段；未来应优先开展生物标志物指导的患者选择、个体化疫苗开发、标准化免疫监测、具有临床意义的终点以及大规模多中心随机II/III期试验，以促进疫苗诱导的免疫应答转化为实际临床获益；观察到的免疫应答报告异质性进一步凸显未来疫苗试验需要预设、统一和疫苗特异性免疫监测框架。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "ccb1f52b4abd191a46cf35225dcd33456546035b8475f63b897b8b544696aeff"
+      }
+    ]
+  }
+}
