@@ -1,0 +1,320 @@
+{
+  "hero_headline": "孕期Tdap接种或降低子代百白破疫苗应答，加强针可恢复免疫",
+  "daily_overview": "今日无新指南或共识发布，妇产科手术前沿亦无更新。国际动态方面：孕期Tdap接种与子代百白破疫苗应答降低相关，加强针可恢复；绝经「指纹」或可预测痴呆风险；USP15被提出为卵巢癌治疗新靶点；巴西团队探索更安全的绝经激素替代方案。国内动态暂无。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [
+    {
+      "title": "Maternal Tdap Blunts Preschoolers' Pertussis Shot Response, but Booster Revives Them",
+      "url": "https://www.medpagetoday.com/pediatrics/vaccines/123156",
+      "source": "MedPage Today",
+      "summary": "MedPage Today报道，母亲孕期接种Tdap疫苗的儿童，其对自身早期百白破疫苗的免疫应答显著降低，但加强针可恢复免疫反应。该发现提示需关注孕期疫苗接种对子代免疫规划的影响。原文摘要未说明与既往建议的差异。",
+      "importance": 8
+    },
+    {
+      "title": "Menopause leaves a fingerprint that may predict dementia risk",
+      "url": "https://medicalxpress.com/news/2026-09-menopause-fingerprint-dementia.html",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "研究发现绝经可能留下可预测痴呆风险的「指纹」特征；女性绝经期常见潮热、焦虑、脑雾和睡眠障碍，这些症状可能与认知变化相关。该方向若获验证，或有助于将绝经管理纳入女性神经认知风险评估。原文未提供预测效度数据。",
+      "importance": 6
+    },
+    {
+      "title": "Enzyme USP15 present a promising new target for ovarian cancer treatment",
+      "url": "https://medicalxpress.com/news/2026-09-enzyme-usp15-ovarian-cancer-treatment.html",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "卵巢癌常确诊于已转移阶段，五年生存率不足30%，标准治疗易耐药。研究提示酶USP15是卵巢癌治疗的潜在新靶点。该发现为克服耐药提供新方向，但尚处早期探索，距离临床应用较远，技术阶段尚无法判断。",
+      "importance": 7
+    },
+    {
+      "title": "Safer alternative for hormone replacement therapy during menopause proposed",
+      "url": "https://medicalxpress.com/news/2026-09-safer-alternative-hormone-therapy-menopause.html",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "巴西圣保罗大学研究人员测试了一种更安全的绝经激素替代疗法替代方案，提出在绝经过渡期激素调整中「少即是多」。该研究可能为寻求更安全HRT方案的女性提供新选择，但原文摘要未说明具体药物、剂量或临床终点。",
+      "importance": 7
+    }
+  ],
+  "editor_note": "今日无指南与共识更新；四条动态聚焦母胎免疫、绝经管理与妇科肿瘤靶点，提示围绝经期与肿瘤精准治疗仍是热点。",
+  "keywords": [
+    "孕期Tdap疫苗",
+    "子代免疫应答",
+    "绝经激素治疗",
+    "绝经与认知",
+    "卵巢癌靶点",
+    "USP15",
+    "女性健康"
+  ],
+  "research": {
+    "generatedAt": "2026-09-25T22:13:35.153Z",
+    "dataAsOf": "2026-09-25T22:13:35.153Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及CDKAL1 rs7754840与妊娠期糖尿病的关联：系统综述与荟萃分析、揭示不育男性精浆中失调的代谢物：系统综述与生物信息学分析、一种新型中药复方增强HIFU治疗子宫腺肌症疗效的临床研究：一项初步随机对照试验。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42787193",
+        "pmid": "42787193",
+        "doi": "10.3389/fendo.2026.1947796",
+        "title": "Association of CDKAL1 rs7754840 with gestational diabetes mellitus: a systematic review and meta-analysis.",
+        "abstract": "BACKGROUND AND PURPOSE: Gestational diabetes mellitus (GDM) is a widespread condition during pregnancy with substantial fetal and maternal morbidity. However, the correlation between GDM risk and the CDKAL1 rs7754840 polymorphism is inconsistent.This study aimed to comprehensively evaluate this association through an updated systematic review and meta-analysis.\nMETHODS: This systematic review and meta-analysis was conducted in accordance with the PRISMA guidelines. A comprehensive literature search of case-control studies was conducted in CNKI, Embase, PubMed, Scopus, and Web of Science from database inception to December 17, 2025. Five genetic models were selected, along with their odds ratios (ORs) and 95% confidence intervals. Subsequently, stratified analyses were performed by ethnicity and according to diagnostic criteria for GDM. Heterogeneity, publication bias, and trial sequential analysis (TSA) were assessed.\nRESULTS: The meta-analysis included 18 studies comprising 8,025 women with GDM and 8,605 controls. Pooled analyses showed an association between the CDKAL1 rs7754840 polymorphism and increased GDM risk, with moderate to substantial between-study heterogeneity across genetic models. Stratified analyses showed consistent associations in Asian populations (15 studies; 7,012 cases/7,921 controls), whereas evidence in Caucasian populations (3 studies; 1,013 cases/684 controls) was inconclusive. Heterogeneity varied across GDM diagnostic criteria, with lower heterogeneity observed among studies using the IADPSG (2010) criteria. TSA showed that the cumulative Z-curve crossed the monitoring boundary but did not reach the required information size, indicating supportive but inconclusive evidence.\nCONCLUSIONS: This meta-analysis supports the association between GDM risk and CDKAL1 rs7754840 in Asian populations.\nSYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/view/CRD420251270398, identifier CRD420251270398.",
+        "journal": "Frontiers in endocrinology",
+        "authors": [
+          "Ao Wang",
+          "Dan Shan",
+          "Ke Yi"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-09-10T00:00:00.000Z",
+        "activityAt": "2026-09-25T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42787193/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "CDKAL1 rs7754840与妊娠期糖尿病的关联：系统综述与荟萃分析",
+          "researchQuestion": "评估CDKAL1 rs7754840多态性与妊娠期糖尿病（GDM）风险之间的关联。",
+          "studyDesign": "系统综述与荟萃分析，遵循PRISMA指南，纳入病例对照研究。",
+          "populationAndSample": "18项研究，共8,025名GDM女性和8,605名对照。亚组分析：亚洲人群15项研究（7,012例/7,921名对照）；高加索人群3项研究（1,013例/684名对照）。",
+          "methods": "检索CNKI、Embase、PubMed、Scopus和Web of Science数据库，从建库至2025年12月17日。选择五种遗传模型，计算比值比（OR）及95%置信区间。按种族和GDM诊断标准进行分层分析。评估异质性、发表偏倚和试验序贯分析（TSA）。",
+          "keyResults": "汇总分析显示CDKAL1 rs7754840多态性与GDM风险增加相关，各遗传模型间存在中等到较大异质性。亚洲人群显示一致关联，而高加索人群证据不确定。按GDM诊断标准的异质性不同，使用IADPSG（2010）标准的研究异质性较低。TSA显示累积Z曲线越过监测边界但未达到所需信息量，提示证据具有支持性但尚未得出确定性结论。",
+          "limitations": "摘要未报告独立的局限性段落；TSA提示未达到所需信息量，高加索人群证据不确定，各遗传模型异质性为中等到较大。",
+          "clinicalInterpretation": "该荟萃分析支持亚洲人群中GDM风险与CDKAL1 rs7754840的关联；摘要未报告临床实践建议。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "9fde688c4c89aed0ab135dc24555409d030ae1380f7c7821ee2bf7d77fb35b5a"
+      },
+      {
+        "id": "pmid:42789063",
+        "pmid": "42789063",
+        "doi": "10.1007/s00109-026-02719-0",
+        "title": "Unravelling deregulated metabolites in seminal plasma of infertile men: a systematic review and bioinformatic analysis.",
+        "abstract": "Male infertility is a multifactorial condition accounting for 50% of infertility cases. Although conventional semen analysis remains the standard method for male infertility diagnosis, it fails to explain 30% of the cases and their underlying molecular causes. Metabolomics offers valuable insights into sperm metabolic dysfunction, enabling the identification of deregulated pathways involved in male infertility. Here, a systematic review including metabolomic studies that compare the seminal plasma metabolome of healthy and infertile men was conducted. A literature search was conducted in PubMed, Scopus, and Web of Science databases following PRISMA guidelines. Twenty metabolomic studies published until December 2025 were included and categorized into four groups: asthenozoospermia, oligozoospermia, obesity, and overall male infertility. A total of 284 metabolites were retrieved, of which eleven (down: L-tyrosine, D-fructose, L-valine, phenylalanine, proline, D-glucose, L-alanine, leucine, sorbitol, L-aspartic acid; up: uridine), six (down: D-fructose, glycine, maleic acid, L-valine, proline, and lysine), and ten (down: L-carnitine, L-tyrosine, L-valine, L-alanine, phenylalanine, proline, D-glucose, leucine, malic acid, and citraconic acid) were altered in asthenozoospermia, obesity, and overall infertility groups, respectively. These metabolites were associated with phenylalanine/tyrosine metabolism, fructose and mannose degradation, and β-oxidation of long-chain fatty acids. A bioinformatic analysis of the enzymes possibly involved in these pathways revealed associations with male infertility phenotypes and key sperm functions, including motility, vitality, and energy metabolism. This study provides a list of metabolites altered in the seminal fluid of infertile men, highlighting their potential as biomarkers of male infertility, and gives insights into the metabolic pathways affected in these conditions.",
+        "journal": "Journal of molecular medicine (Berlin, Germany)",
+        "authors": [
+          "Beatriz Marinheiro",
+          "Joana Santiago",
+          "Margarida Fardilha",
+          "Margarida Ramos",
+          "Pedro F Oliveira",
+          "Pedro O Corda",
+          "Rafael Santos"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-09-25T00:00:00.000Z",
+        "activityAt": "2026-09-25T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42789063/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "揭示不育男性精浆中失调的代谢物：系统综述与生物信息学分析",
+          "researchQuestion": "通过系统综述和生物信息学分析，识别不育男性精浆中失调的代谢物及其涉及的代谢通路。",
+          "studyDesign": "系统综述，遵循PRISMA指南，纳入比较健康与不育男性精浆代谢组的研究，并进行生物信息学分析。",
+          "populationAndSample": "20项代谢组学研究（截至2025年12月），分为四组：弱精症、少精症、肥胖和总体男性不育。共检索到284种代谢物。",
+          "methods": "检索PubMed、Scopus和Web of Science数据库，遵循PRISMA指南。纳入20项代谢组学研究并分为四组。检索284种代谢物。对可能参与相关通路的酶进行生物信息学分析，分析其与男性不育表型和关键精子功能（包括活力、存活力和能量代谢）的关联。",
+          "keyResults": "在弱精症组中，11种代谢物改变（下调：L-酪氨酸、D-果糖、L-缬氨酸、苯丙氨酸、脯氨酸、D-葡萄糖、L-丙氨酸、亮氨酸、山梨醇、L-天冬氨酸；上调：尿苷）；在肥胖组中6种改变（下调：D-果糖、甘氨酸、马来酸、L-缬氨酸、脯氨酸和赖氨酸）；在总体不育组中10种改变（下调：L-肉碱、L-酪氨酸、L-缬氨酸、L-丙氨酸、苯丙氨酸、脯氨酸、D-葡萄糖、亮氨酸、苹果酸和柠康酸）。这些代谢物与苯丙氨酸/酪氨酸代谢、果糖和甘露糖降解以及长链脂肪酸β-氧化相关。生物信息学分析显示相关酶与男性不育表型和关键精子功能（包括活力、存活力和能量代谢）相关。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "该研究提供了不育男性精液中改变的代谢物列表，强调其作为男性不育生物标志物的潜力，并揭示了这些状况中受影响的代谢通路。摘要未报告临床实践建议。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "4f40316ee20107bc5e6cfd6d8039db397a0de262ac965cfd88d82b7f8a0533f5"
+      },
+      {
+        "id": "pmid:42788264",
+        "pmid": "42788264",
+        "doi": "10.1080/02656736.2026.2729542",
+        "title": "A clinical study on the efficacy of a novel herbal medicine cocktail in enhancing HIFU treatment for adenomyosis: a pilot randomized controlled trial.",
+        "abstract": "OBJECTIVE: To investigate the clinical efficacy and potential mechanisms of Traditional Chinese Medicine (TCM) combined with High-Intensity Focused Ultrasound (HIFU) in the treatment of adenomyosis, providing evidence-based support for optimizing clinical treatment strategies.\nMETHODS: In this prospective randomized trial, 66 patients were assigned to a control group (HIFU alone) or an observation group (HIFU plus a \"Yiqi Huoxue, Huayu Sanjie\" TCM formula) for 12 weeks. The Visual Analog Scale (VAS) for pain as the primary endpoint, and the Pictorial Blood Loss Assessment Chart (PBAC) for menstrual blood loss, uterine/lesion volumes, and serum carbohydrate antigen 125 (CA125), interleukin-6 (IL-6) as exploratory outcomes were assessed.\nRESULTS: The results showed that the VAS scores in the observation group were significantly lower than those in the control group after treatment ( p < 0.05). The reduction in uterine volume and lesion volume was greater in the observation group compared to the control group ( p < 0.05). Serum levels of CA125 and IL-6 decreased more significantly in the observation group ( p < 0.05), and no significant abnormalities were observed in safety indicators.\nCONCLUSION: The combination of TCM and HIFU treatment suggests a possible benefit in alleviating dysmenorrhea and promoting lesion absorption in patients with adenomyosis. The observed changes in inflammatory status and CA125 levels hint at a potential link with the therapeutic effect. However, these findings should be considered exploratory, and further studies are needed to validate TCM as an adjunctive therapy to HIFU treatment.",
+        "journal": "International journal of hyperthermia : the official journal of European Society for Hyperthermic Oncology, North American Hyperthermia Group",
+        "authors": [
+          "Gang Wu",
+          "Haifeng Wang",
+          "Jiali Yang",
+          "Jingjing Liu",
+          "Junli An",
+          "Liuyun Zhou",
+          "Manling Li",
+          "Minqi Su",
+          "Quanlei Wang",
+          "Sangui Wang",
+          "Ting Lin",
+          "Xuemei Chen",
+          "Xueqiong Xu",
+          "Yan Chen",
+          "Yunfeng Cai"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-09-25T00:00:00.000Z",
+        "activityAt": "2026-09-25T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42788264/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "一种新型中药复方增强HIFU治疗子宫腺肌症疗效的临床研究：一项初步随机对照试验",
+          "researchQuestion": "探讨中药联合高强度聚焦超声（HIFU）治疗子宫腺肌症的临床疗效及潜在机制，为优化临床治疗策略提供循证支持。",
+          "studyDesign": "前瞻性随机对照试验（初步随机对照试验）。66例患者随机分配至对照组（单纯HIFU）或观察组（HIFU加“益气活血、化瘀散结”中药方），治疗12周。",
+          "populationAndSample": "66例患者，随机分为对照组和观察组。摘要未报告具体年龄、诊断标准等人口学特征。",
+          "methods": "前瞻性随机试验；66例患者分为对照组（单纯HIFU）和观察组（HIFU加中药方）治疗12周。主要终点为疼痛视觉模拟量表（VAS）；探索性结局包括月经失血量（PBAC）、子宫/病灶体积、血清CA125和IL-6。",
+          "keyResults": "治疗后观察组VAS评分显著低于对照组（p < 0.05）。观察组子宫体积和病灶体积缩小大于对照组（p < 0.05）。观察组血清CA125和IL-6下降更显著（p < 0.05），安全性指标未见明显异常。",
+          "limitations": "摘要结论指出这些发现应视为探索性，需要进一步研究验证中药作为HIFU辅助治疗的作用。摘要未报告其他局限性。",
+          "clinicalInterpretation": "中药联合HIFU治疗可能有助于缓解子宫腺肌症患者的痛经和促进病灶吸收。观察到的炎症状态和CA125水平变化提示与治疗效果的潜在联系。但这些发现应视为探索性，需要进一步研究验证。摘要未报告临床实践推荐。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "610f45526192129a7b55d2ed624662d8e915450acfd5878d4f73d49997eb642b"
+      },
+      {
+        "id": "pmid:42787431",
+        "pmid": "42787431",
+        "doi": "10.3389/fpubh.2026.1933709",
+        "title": "Estimates of the global burden of HIV-attributable and all-cause AIDS-defining cancers: a population-based modeling study.",
+        "abstract": "INTRODUCTION: People living with human immunodeficiency virus (HIV; PLHIV) have elevated risks of AIDS-defining cancers (ADCs), including cervical cancer, non-Hodgkin lymphoma (NHL), and Kaposi sarcoma (KS). Previous studies have quantified the individual global burden of these cancers, we aimed to estimate the pooled global burden of HIV-attributable and all-cause ADCs in 2022 and identify the key drivers across different regions and countries.\nMETHODS: We conducted a systematic review and meta-analysis to update risk ratios (RRs) for cervical cancer, NHL, and KS. RRs were used to calculate population-attributable fractions (PAFs) and age-standardized incidence rates (ASIRs) of HIV-attributable ADCs using country-specific HIV prevalence and 2022 cancer incidence data. Associations with the Human Development Index (HDI) were assessed.\nRESULTS: In 2022, an estimated 101,835 (95% CI 76102-131,298) ADC cases were attributable to HIV, accounting for 8.1% (95% CI 6.2-10.4) of all-cause ADC cases. NHL comprised 62.9% of HIV-attributable ADCs, while cervical cancer accounted for 53.0% of all cases. The highest HIV-attributable ASIRs were in Eswatini (34.9%), Zambia (32.0%), and Mozambique (25.9%). In East and Southern Africa, 27.8% of ADCs were linked to HIV. Among 35 countries with high cancer burden and HIV attribution, 68.6% were in Africa. Lower HDI correlated with higher PAF ( r = -0.27), all-cause ASIR ( r = -0.25), and HIV-attributable ASIR ( r = -0.28).\nCONCLUSION: HIV significantly contributes to the global ADC burden. Addressing immunosuppression, viral co-infections, and healthcare access through ART expansion, oncogenic virus monitoring, and cancer prevention is essential to mitigate the dual burden of HIV and ADCs globally.",
+        "journal": "Frontiers in public health",
+        "authors": [
+          "Bolin Yang",
+          "Hanlu Yin",
+          "Jibiao Chen",
+          "Jing Gu",
+          "Wenjuan Ma",
+          "Xiaojun Meng",
+          "Yuan Shen",
+          "Zhuping Xu"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-09-10T00:00:00.000Z",
+        "activityAt": "2026-09-25T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42787431/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 11.25,
+          "recency": 10,
+          "total": 96.25,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "HIV归因和全因AIDS定义性癌症的全球负担估计：一项基于人群的建模研究",
+          "researchQuestion": "估计2022年HIV归因和全因AIDS定义性癌症（ADCs）的汇总全球负担，并识别不同地区和国家间的关键驱动因素。",
+          "studyDesign": "系统综述与荟萃分析更新风险比，随后进行基于人群的建模研究。",
+          "populationAndSample": "摘要未报告具体样本量；分析使用国家特异性HIV患病率和2022年癌症发病数据，涉及宫颈癌、非霍奇金淋巴瘤（NHL）和卡波西肉瘤（KS）。",
+          "methods": "进行系统综述和荟萃分析以更新宫颈癌、NHL和KS的风险比（RRs）。使用RRs计算人群归因分数（PAFs）和HIV归因ADCs的年龄标准化发病率（ASIRs），使用国家特异性HIV患病率和2022年癌症发病数据。评估与人类发展指数（HDI）的关联。",
+          "keyResults": "2022年估计101,835例（95% CI 76102-131,298）ADC病例归因于HIV，占全因ADC病例的8.1%（95% CI 6.2-10.4）。NHL占HIV归因ADCs的62.9%，宫颈癌占所有病例的53.0%。HIV归因ASIRs最高在Eswatini（34.9%）、Zambia（32.0%）和Mozambique（25.9%）。在东非和南部非洲，27.8%的ADCs与HIV相关。在35个癌症负担高且HIV归因高的国家中，68.6%位于非洲。较低HDI与较高PAF（r = -0.27）、全因ASIR（r = -0.25）和HIV归因ASIR（r = -0.28）相关。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "HIV显著贡献全球ADC负担。摘要结论提示需要通过ART扩展、致癌病毒监测和癌症预防来应对免疫抑制、病毒共感染和医疗可及性，以减轻全球HIV和ADCs双重负担。摘要未报告具体临床实践指南推荐。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "09a88dd0b604b3fc8bd4e4e11b899713ccbe3204b9a97bd2a798892c55851b30"
+      },
+      {
+        "id": "pmid:42786124",
+        "pmid": "42786124",
+        "doi": "10.1111/1471-0528.70334",
+        "title": "Peritoneal Fluid-Derived Small Extracellular Vesicle Proteins as Potential Biomarkers for Endometriosis: A Case-Control Study.",
+        "abstract": "OBJECTIVE: To demonstrate the presence of peritoneal fluid (PF)-derived small extracellular vesicles (sEVs) in endometriosis and control samples, to characterise their protein content and to define endometriosis-specific biomarkers within the sEV proteome.\nDESIGN: Case-control experimental study.\nSETTING: Academic endometriosis centre.\nSAMPLE: PF samples from women between 18 and 49 years old (n = 63).\nMETHODS: sEVs were enriched using size exclusion chromatography (SEC), and characterised by nanoparticle tracking analysis (NTA), immunoblotting and mass spectrometry, according to surgically-defined disease stage and cycle phase (control, rASRM stages I-II and III-IV endometriosis, in proliferative, secretory, and menstrual phases). FragPipe was used for protein identification.\nMAIN OUTCOME MEASURES: Protein content of sEVs from control and endometriosis PF samples.\nRESULTS: sEVs were identified in PF of women by NTA, immunoblotting and mass spectrometry. Four proteins were significantly different across all samples: fructose-bisphosphate aldolase A (ALDOA: 3.12-fold increase in control samples, p = 0.0164), heat shock protein 90-alpha (HSP90AA1: 2.14-fold increase in control samples, p = 0.0245), collagen alpha-1 (XV) chain (COL15A1: 1.83-fold increase in control samples, p = 0.0421), and protein S100-A10 (2.54-fold increase in endometriosis samples, p = 0.0421).\nCONCLUSIONS: PF-derived sEVs differ between endometriosis and control patients. Concentrations vary regardless of cycle phase and disease stage, and this difference appears to be reflected in the proteomics analysis. However, higher sampling numbers are needed to confirm findings and functional assays to be performed delineate sEV function in endometriosis pathophysiology. Correlating PF-derived sEV proteins with those in blood or urine could help further understand endometriosis and lead to the identification of biomarkers for diagnosis.",
+        "journal": "BJOG : an international journal of obstetrics and gynaecology",
+        "authors": [
+          "Benedikt M Kessler",
+          "Christian M Becker",
+          "Hannah M Nazri",
+          "Hannah M. Nazri, \nRoman Fischer, \nJoel Steele, \nSanjiv Manek, \nKavita S. Subramaniam, \nBenedikt M. Kessler, \nKrina T. Zondervan, \nThomas T. Tapmeier, \nChristian M. Becker",
+          "Joel Steele",
+          "Kavita S Subramaniam",
+          "Krina T Zondervan",
+          "Roman Fischer",
+          "Sanjiv Manek",
+          "Thomas T Tapmeier"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-25T01:55:14.000Z",
+        "activityAt": "2026-09-25T01:55:14.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42786124/",
+        "sourceKinds": [
+          "journal-rss",
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "腹膜液来源的小细胞外囊泡蛋白作为子宫内膜异位症潜在生物标志物：一项病例对照研究",
+          "researchQuestion": "证明子宫内膜异位症和对照样本中存在腹膜液（PF）来源的小细胞外囊泡（sEVs），表征其蛋白质含量，并在sEV蛋白质组中定义子宫内膜异位症特异性生物标志物。",
+          "studyDesign": "病例对照实验研究。",
+          "populationAndSample": "学术性子宫内膜异位症中心；PF样本来自18至49岁女性（n = 63）。按手术定义的疾病分期和周期阶段分组：对照、rASRM I-II期和III-IV期子宫内膜异位症，在增殖期、分泌期和月经期。",
+          "methods": "使用尺寸排阻色谱（SEC）富集sEVs，通过纳米颗粒跟踪分析（NTA）、免疫印迹和质谱进行表征，按手术定义的疾病分期和周期阶段。使用FragPipe进行蛋白质鉴定。",
+          "keyResults": "通过NTA、免疫印迹和质谱在女性PF中鉴定到sEVs。四种蛋白质在所有样本中显著不同：果糖二磷酸醛缩酶A（ALDOA：对照样本增加3.12倍，p = 0.0164）、热休克蛋白90-alpha（HSP90AA1：对照样本增加2.14倍，p = 0.0245）、胶原α-1(XV)链（COL15A1：对照样本增加1.83倍，p = 0.0421）和蛋白S100-A10（子宫内膜异位症样本增加2.54倍，p = 0.0421）。",
+          "limitations": "摘要结论指出需要更高采样数量来确认发现，并进行功能测定以阐明sEV在子宫内膜异位症病理生理学中的功能。将PF来源sEV蛋白与血液或尿液中的蛋白相关联可能有助于进一步理解子宫内膜异位症并识别诊断生物标志物。",
+          "clinicalInterpretation": "PF来源的sEVs在子宫内膜异位症和对照患者之间存在差异。浓度变化与周期阶段和疾病分期无关，这种差异似乎反映在蛋白质组学分析中。然而，需要更多样本确认，并进行功能测定。摘要未报告临床实践建议。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "1bbb9d3ebccc10e3709c0c61fc6578a0dd20cd5bea0ee2d791c1df2b3e7cd50f"
+      }
+    ]
+  }
+}

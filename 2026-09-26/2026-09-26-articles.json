@@ -1,0 +1,53 @@
+{
+  "date": "2026-09-26",
+  "articles": [
+    {
+      "sourceId": "medpage-today-headlines",
+      "title": "Maternal Tdap Blunts Preschoolers' Pertussis Shot Response, but Booster Revives Them",
+      "url": "https://www.medpagetoday.com/pediatrics/vaccines/123156",
+      "excerpt": "(MedPage Today) -- Children whose mothers were vaccinated against tetanus, diphtheria, and pertussis (Tdap) during pregnancy saw significantly reduced immunity response to their own early childhood vaccination, although childhood vaccine boosters...",
+      "publishedAt": "2026-09-25T20:40:13.000Z",
+      "category": "politics",
+      "source": "MedPage Today",
+      "summary": "孕期接种Tdap的母亲所生儿童，对自身早期百日咳疫苗的免疫应答显著降低，但儿童期加强针可恢复或增强其免疫应答。",
+      "reviewStatus": "accepted",
+      "lowPriority": false
+    },
+    {
+      "sourceId": "medical-xpress-obgyn",
+      "title": "Menopause leaves a fingerprint that may predict dementia risk",
+      "url": "https://medicalxpress.com/news/2026-09-menopause-fingerprint-dementia.html",
+      "excerpt": "As women go through menopause, they often sense that it's not just their bodies changing, but also their minds. They report hot flashes, anxiety, brain fog and trouble sleeping—all symptoms that can be traced back to the brain.",
+      "publishedAt": "2026-09-25T19:00:05.000Z",
+      "category": "politics",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "文章讨论女性绝经期除身体变化外，还可能出现潮热、焦虑、脑雾和睡眠困难等与大脑相关的症状，并提出绝经可能留下可预测痴呆风险的“指纹”。",
+      "reviewStatus": "accepted",
+      "lowPriority": false
+    },
+    {
+      "sourceId": "medical-xpress-obgyn",
+      "title": "Enzyme USP15 present a promising new target for ovarian cancer treatment",
+      "url": "https://medicalxpress.com/news/2026-09-enzyme-usp15-ovarian-cancer-treatment.html",
+      "excerpt": "Ovarian cancer is often diagnosed after it has already spread to other parts of the body, at which point the five-year survival rate is under 30%. Further complicating treatment, standard therapies cause substantial harm to healthy cells alongside cancerous ones. But what if ovarian cancer treatment",
+      "publishedAt": "2026-09-25T15:20:14.000Z",
+      "category": "politics",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "卵巢癌常在扩散后才被诊断，此时五年生存率低于30%，且标准治疗会同时损伤健康细胞；文章提出USP15酶是卵巢癌治疗有前景的新靶点。",
+      "reviewStatus": "accepted",
+      "lowPriority": false
+    },
+    {
+      "sourceId": "medical-xpress-obgyn",
+      "title": "Safer alternative for hormone replacement therapy during menopause proposed",
+      "url": "https://medicalxpress.com/news/2026-09-safer-alternative-hormone-therapy-menopause.html",
+      "excerpt": "When it comes to balancing hormonal changes during the transition to menopause, less can be more. Researchers at the University of São Paulo (USP) in Brazil demonstrated this when testing an alternative to conventional therapy. Rather than replacing estrogen, the team activated only one type of estr",
+      "publishedAt": "2026-09-24T16:40:06.000Z",
+      "category": "politics",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "巴西圣保罗大学研究人员测试了一种绝经激素治疗替代方案：不补充雌激素，而是仅激活一种雌激素受体，可能更安全。",
+      "reviewStatus": "accepted",
+      "lowPriority": false
+    }
+  ]
+}
