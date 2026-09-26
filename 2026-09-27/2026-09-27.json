@@ -1,0 +1,288 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-09-26T22:40:05.564Z",
+    "dataAsOf": "2026-09-26T22:40:05.564Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及血清乙酰-L-肉碱降低与妊娠期糖尿病女性妊娠期高血压疾病相关：一项多组学研究、多酚作为子宫内膜异位症中氧化应激和炎症的调节剂：分子机制与临床视角、ATP-P2X3信号作为子宫内膜异位症和肠易激综合征共享的神经敏化通路：机制与治疗意义。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42791582",
+        "pmid": "42791582",
+        "doi": "10.1186/s12933-026-03347-1",
+        "title": "Reduced serum acetyl-L-carnitine is associated with hypertensive disorders in women with gestational diabetes mellitus: a multi-omics study.",
+        "abstract": "BACKGROUND: Gestational diabetes mellitus (GDM) and hypertensive disorders of pregnancy (HDP) are common metabolic complications during pregnancy. GDM is an independent risk factor for HDP, while HDP is a major contributor to maternal and perinatal morbidity and mortality. Reliable early tools for identifying women with GDM who are at risk of subsequently developing HDP remain limited. This study aimed to integrate metabolomic, lipidomic, and clinical data to identify reproducible candidate biomarkers associated with subsequently diagnosed HDP in women with GDM and to characterize the accompanying metabolic and lipidomic alterations.\nMETHODS: In this prospective exploratory biomarker study, a discovery cohort (n = 128) and a validation cohort (n = 55) were recruited. Serum samples collected at 24-28 weeks of gestation were analyzed using untargeted and targeted metabolomics. Lipidomics was performed to complement the metabolomic analysis and characterize lipid-related alterations. A combined predictive model was constructed using logistic regression, and its predictive performance was evaluated using receiver operating characteristic (ROC) analysis.\nRESULTS: Untargeted metabolomics identified lower serum acetyl-L-carnitine (ALC) in the GDMHDP group than in the GDM group, and this difference was confirmed by targeted LC-MS/MS in the validation cohort. The combined ALC-diastolic blood pressure (DBP) model achieved an area under the curve (AUC) of 0.907 in the discovery cohort and 0.886 in the validation cohort. Adding ALC to DBP improved discrimination and reclassification in both cohorts. Multi-omics analysis showed complementary and partly distinct lipid associations with ALC and DBP. Lower ALC was associated with selected ceramide and monolysocardiolipin species, as well as with lipid patterns consistent with altered fatty-acid handling, whereas DBP showed a partly distinct pattern of lipid correlations.\nCONCLUSIONS: Reduced serum ALC at 24-28 weeks of gestation was reproducibly associated with GDM complicated by HDP. Combining ALC with DBP improved discrimination between GDMHDP and uncomplicated GDM, suggesting complementary metabolic and hemodynamic information. Given the modest number of GDMHDP cases and the single-center design, these findings should be interpreted as exploratory and hypothesis-generating; they support further evaluation of ALC as a candidate metabolic marker but require confirmation in larger independent cohorts.",
+        "journal": "Cardiovascular diabetology",
+        "authors": [
+          "Danqing Chen",
+          "Hequn Lin",
+          "Hui Ye",
+          "Jiahui Gong",
+          "Luyu Ma",
+          "Qi Wu",
+          "Wei Zhu",
+          "Xiaoyong Zhang",
+          "Xiubin Jia",
+          "Xueli Hu",
+          "Zhaoxia Liang"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Validation Study"
+        ],
+        "publishedAt": "2026-08-26T00:00:00.000Z",
+        "activityAt": "2026-09-26T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42791582/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 17.5,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 92.5,
+          "evidenceRank": 0.7
+        },
+        "summaryZh": {
+          "titleZh": "血清乙酰-L-肉碱降低与妊娠期糖尿病女性妊娠期高血压疾病相关：一项多组学研究",
+          "researchQuestion": "整合代谢组学、脂质组学和临床数据，识别与妊娠期糖尿病（GDM）女性随后诊断为妊娠期高血压疾病（HDP）相关的可重复候选生物标志物，并描述伴随的代谢和脂质组学改变。摘要指出，识别GDM女性后续发生HDP风险的可靠早期工具仍有限。",
+          "studyDesign": "前瞻性探索性生物标志物研究，包括发现队列（n = 128）和验证队列（n = 55）。",
+          "populationAndSample": "发现队列n = 128，验证队列n = 55；分析24-28周妊娠时采集的血清样本；比较GDMHDP组与GDM组。",
+          "methods": "使用非靶向和靶向代谢组学分析血清样本；进行脂质组学以补充代谢组学分析并描述脂质相关改变；使用逻辑回归构建联合预测模型，并通过受试者工作特征（ROC）分析评估预测性能。",
+          "keyResults": "非靶向代谢组学发现GDMHDP组血清乙酰-L-肉碱（ALC）低于GDM组，靶向LC-MS/MS在验证队列中确认该差异。联合ALC-舒张压（DBP）模型在发现队列中曲线下面积（AUC）为0.907，在验证队列中为0.886。将ALC加入DBP改善了两个队列中的区分度和重分类。多组学分析显示ALC和DBP与脂质具有互补且部分不同的关联。较低的ALC与选定的神经酰胺和单溶血心磷脂种类相关，也与提示脂肪酸处理改变的脂质模式相关；DBP则显示部分不同的脂质相关模式。",
+          "limitations": "摘要报告：GDMHDP病例数有限，且为单中心设计，这些发现应解释为探索性和假设生成性；支持进一步评估ALC作为候选代谢标志物，但需要在更大独立队列中确认。",
+          "clinicalInterpretation": "摘要提示，将ALC与DBP联合可改善GDMHDP与无并发症GDM之间的区分，表明代谢和血流动力学信息具有互补性。ALC作为候选代谢标志物仍需进一步评估和确认。摘要未提供临床管理建议。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "38c64eee89cceaf18efdbf80cfd0d14c9f7b3e44862db2b525d30db527c95a62"
+      },
+      {
+        "id": "pmid:42792225",
+        "pmid": "42792225",
+        "doi": "10.3390/antiox15091186",
+        "title": "Polyphenols as Modulators of Oxidative Stress and Inflammation in Endometriosis: Molecular Mechanisms and Clinical Perspectives.",
+        "abstract": "Endometriosis, a chronic inflammatory condition affecting up to 10% of reproductive-age individuals, is characterized by the presence of endometrial-like tissue outside the uterine cavity. Current treatments are based primarily on hormonal therapy, analgesia, and surgery, while additional biologically targeted approaches remain under investigation. This review examines polyphenols in relation to endometriosis-associated redox dysregulation and inflammation. Rather than acting simply as antioxidants, individual polyphenols may function as context-dependent redox and signaling modulators. Preclinical studies suggest effects on NF-κB and MAPK signaling, Nrf2-related stress responses, angiogenesis, apoptosis, immune-cell activity, and hormone-related pathways, but the direction and magnitude of these effects differ substantially among compounds, doses, metabolites, and experimental models. Resveratrol and quercetin have generated the greatest clinical interest; however, human evidence remains sparse and heterogeneous, quercetin has been evaluated mainly in multicomponent formulations, and the only double-blind placebo-controlled randomized trial of resveratrol did not demonstrate superiority over placebo for pain reduction. Low and variable bioavailability, compound-specific metabolism, phytoestrogenic and pro-oxidant effects at some exposures, heterogeneous formulations, and limited long-term safety data remain major translational barriers. Polyphenols should therefore be regarded as potential adjunctive approaches whose clinical efficacy in endometriosis remains to be established.",
+        "journal": "Antioxidants (Basel, Switzerland)",
+        "authors": [
+          "Andreea Stănilă",
+          "Andrei Măluțan",
+          "Carmen Socaciu",
+          "Corina Danciu",
+          "Cristian Ioan Iuhas",
+          "Cristina Mihaela Ormindean",
+          "Dan Mihu",
+          "Liora Colobatiu",
+          "Melania Florina Munteanu",
+          "Răzvan Ciortea",
+          "Vlad N Dudric",
+          "Zorița Diaconeasa"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-09-17T00:00:00.000Z",
+        "activityAt": "2026-09-26T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42792225/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "多酚作为子宫内膜异位症中氧化应激和炎症的调节剂：分子机制与临床视角",
+          "researchQuestion": "本综述考察多酚与子宫内膜异位症相关氧化还原失调和炎症的关系；多酚并非仅作为抗氧化剂，单个多酚可能作为背景依赖的氧化还原和信号调节剂。",
+          "studyDesign": "综述（Journal Article, Review）。",
+          "populationAndSample": "子宫内膜异位症，一种慢性炎症性疾病，影响高达10%的育龄个体，特征为子宫腔外存在子宫内膜样组织。人类证据稀疏且异质。",
+          "methods": "摘要未报告具体检索数据库、检索策略或筛选流程；综述讨论临床前研究及临床证据。",
+          "keyResults": "当前治疗主要基于激素治疗、镇痛和手术，其他生物靶向方法仍在研究中。临床前研究提示多酚对NF-κB和MAPK信号、Nrf2相关应激反应、血管生成、凋亡、免疫细胞活性和激素相关通路有影响，但这些效应的方向和幅度在化合物、剂量、代谢物和实验模型之间差异很大。白藜芦醇和槲皮素引起的临床兴趣最大；然而人类证据仍稀疏且异质，槲皮素主要在多成分制剂中评估，唯一一项白藜芦醇双盲安慰剂对照随机试验未显示在疼痛减轻方面优于安慰剂。低且可变的生物利用度、化合物特异性代谢、某些暴露下的植物雌激素和促氧化效应、异质性制剂以及有限的长期安全性数据仍是主要转化障碍。",
+          "limitations": "人类证据仍稀疏且异质；槲皮素主要在多成分制剂中评估；唯一一项白藜芦醇双盲安慰剂对照随机试验未显示优于安慰剂；低且可变的生物利用度、化合物特异性代谢、某些暴露下的植物雌激素和促氧化效应、异质性制剂以及有限的长期安全性数据仍是主要转化障碍。",
+          "clinicalInterpretation": "多酚应被视为潜在辅助方法，其在子宫内膜异位症中的临床疗效仍有待确立。摘要未提供临床指令或指南建议。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "661f9692c787737d1b979d5f46751c752b9678f1a0babe3381b47afbb1ad3d9f"
+      },
+      {
+        "id": "pmid:42792634",
+        "pmid": "42792634",
+        "doi": "10.3390/biomedicines14091891",
+        "title": "ATP-P2X3 Signaling as a Shared Neural Sensitization Pathway in Endometriosis and Irritable Bowel Syndrome: Mechanisms and Therapeutic Implications.",
+        "abstract": "Endometriosis and irritable bowel syndrome (IBS) are chronic pain disorders that frequently coexist and share key pathophysiological features, including neuroinflammation, visceral hypersensitivity, peripheral sensitization, and central sensitization. Emerging evidence suggests that extracellular adenosine triphosphate (ATP)-mediated activation of the P2X3 receptor is a common mechanism driving persistent nociceptive signaling in both conditions. This narrative review examines the role of ATP-P2X3 signaling in the pathogenesis of endometriosis and IBS, highlighting its involvement in neuroimmune crosstalk, dorsal root ganglion plasticity, and cross-organ sensitization. We summarize experimental and clinical evidence supporting P2X3 as a therapeutic target and discuss the development of selective P2X3 antagonists, including gefapixant, eliapixant, sivopixant, and camlipixant. Although these agents have shown clinical benefit in refractory chronic cough, their application to endometriosis and IBS remains largely unexplored. Current evidence is predominantly preclinical, underscoring the need for biomarker-driven translational studies and clinical trials. Overall, ATP-P2X3 signaling represents a promising shared mechanistic pathway linking endometriosis and IBS and a potential target for the development of precision, nonopioid therapies for chronic pelvic and visceral pain.",
+        "journal": "Biomedicines",
+        "authors": [
+          "My Anh Duong",
+          "Prakash V A K Ramdass"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-08-25T00:00:00.000Z",
+        "activityAt": "2026-09-26T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42792634/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "ATP-P2X3信号作为子宫内膜异位症和肠易激综合征共享的神经敏化通路：机制与治疗意义",
+          "researchQuestion": "本叙述性综述考察ATP-P2X3信号在子宫内膜异位症和肠易激综合征（IBS）发病机制中的作用，重点涉及神经免疫串扰、背根神经节可塑性和跨器官敏化；总结支持P2X3作为治疗靶点的实验和临床证据，并讨论选择性P2X3拮抗剂的开发。",
+          "studyDesign": "叙述性综述。",
+          "populationAndSample": "子宫内膜异位症和IBS患者；这两种慢性疼痛疾病常共存，并共享神经炎症、内脏高敏感、外周敏化和中枢敏化等关键病理生理特征。",
+          "methods": "叙述性综述；总结实验和临床证据，讨论选择性P2X3拮抗剂，包括gefapixant、eliapixant、sivopixant和camlipixant。",
+          "keyResults": "新出现的证据提示，细胞外三磷酸腺苷（ATP）介导的P2X3受体激活是驱动两种疾病持续伤害性信号的共同机制。综述强调其参与神经免疫串扰、背根神经节可塑性和跨器官敏化。P2X3拮抗剂在难治性慢性咳嗽中显示出临床获益，但其在子宫内膜异位症和IBS中的应用仍基本未被探索。当前证据主要为临床前。",
+          "limitations": "当前证据主要为临床前，强调需要生物标志物驱动的转化研究和临床试验；P2X3拮抗剂在子宫内膜异位症和IBS中的应用仍基本未被探索。",
+          "clinicalInterpretation": "ATP-P2X3信号是连接子宫内膜异位症和IBS的有前景的共同机制通路，也是开发针对慢性盆腔和内脏疼痛的精准、非阿片类疗法的潜在靶点。其在目标疾病中的临床疗效尚未确立。摘要未提供临床指令或指南建议。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "151cacc86b55653881b4c202a124338c26e6712b577a9a6a9017f35f48a9f75b"
+      },
+      {
+        "id": "pmid:42792745",
+        "pmid": "42792745",
+        "doi": "10.3390/biomedicines14092003",
+        "title": "Association of MTHFR C677T and A1298C Polymorphisms with Ovarian Reserve in Infertile Women with Thyroid Autoimmunity.",
+        "abstract": "Background/Objectives : Variability in the methylenetetrahydrofolate reductase ( MTHFR ) gene has been implicated in reproductive dysfunction and may influence ovarian physiology in women with thyroid autoimmunity (TAI). This prospective study aimed to investigate the association of the MTHFR C677T and A1298C polymorphisms with ovarian reserve and controlled ovarian hyperstimulation (COH) outcomes in infertile women with TAI. Methods: Genomic DNA was extracted from peripheral blood samples of 145 euthyroid infertile women with TAI undergoing assisted reproductive treatment and 100 fertile controls. The TAI cohort was divided into women with preserved ovarian reserve (TAI1) and diminished ovarian reserve (TAI2). MTHFR C677T and A1298C polymorphisms were genotyped using polymerase chain reaction-restriction fragment length polymorphism (PCR-RFLP) analysis. Genotype and allele frequencies were compared between groups, and associations with COH outcomes were evaluated. Results : Significant differences in MTHFR C677T genotype and allele distributions were observed between the TAI1 and TAI2 subgroups. Genotype distributions also differed significantly between the overall TAI cohort and fertile controls, with significant differences observed between the TAI1 subgroup and controls, but not between the TAI2 subgroup and controls. No significant associations were found for the MTHFR A1298C polymorphism, while associations between MTHFR polymorphisms and COH outcomes were limited and inconsistent. Conclusions : The MTHFR C677T, but not A1298C, polymorphism is associated with ovarian reserve in infertile women with TAI. These findings suggest that genetic variation in MTHFR may contribute to the heterogeneity of ovarian reserve in this population, while its influence on ovarian response to stimulation appears limited.",
+        "journal": "Biomedicines",
+        "authors": [
+          "Jadranka Vraneković",
+          "Neda Smiljan Severinski",
+          "Sanja Dević Pavlić",
+          "Tina Sušanj Šepić"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-06T00:00:00.000Z",
+        "activityAt": "2026-09-26T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42792745/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "MTHFR C677T和A1298C多态性与甲状腺自身免疫不孕女性卵巢储备的关联",
+          "researchQuestion": "研究MTHFR C677T和A1298C多态性与甲状腺自身免疫（TAI）不孕女性卵巢储备及控制性卵巢刺激（COH）结局的关联。",
+          "studyDesign": "前瞻性研究。",
+          "populationAndSample": "145名接受辅助生殖治疗的甲状腺功能正常TAI不孕女性，以及100名生育力对照。TAI队列分为卵巢储备保留组（TAI1）和卵巢储备减退组（TAI2）。",
+          "methods": "从外周血样本提取基因组DNA；使用聚合酶链反应-限制性片段长度多态性（PCR-RFLP）分析对MTHFR C677T和A1298C多态性进行基因分型；比较各组间基因型和等位基因频率，并评估与COH结局的关联。",
+          "keyResults": "在TAI1和TAI2亚组之间观察到MTHFR C677T基因型和等位基因分布存在显著差异。总体TAI队列与生育力对照之间的基因型分布也显著不同，其中TAI1亚组与对照之间观察到显著差异，但TAI2亚组与对照之间未观察到显著差异。未发现MTHFR A1298C多态性的显著关联；MTHFR多态性与COH结局之间的关联有限且不一致。结论认为，MTHFR C677T而非A1298C多态性与TAI不孕女性的卵巢储备相关。这些发现提示MTHFR遗传变异可能促成该人群卵巢储备的异质性，而其对于卵巢刺激反应的影响似乎有限。",
+          "limitations": "摘要未报告明确局限性。",
+          "clinicalInterpretation": "摘要提示MTHFR C677T而非A1298C多态性与TAI不孕女性的卵巢储备相关，MTHFR遗传变异可能促成该人群卵巢储备异质性；其对卵巢刺激反应的影响似乎有限。摘要未提供临床建议或指南。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "de3c51814059f2a38b6b1b95129e1b8616f1eff967dc68c643367d5f7e556226"
+      },
+      {
+        "id": "pmid:42792780",
+        "pmid": "42792780",
+        "doi": "10.3390/biomedicines14092039",
+        "title": "Immunometabolic Dysregulation in Female Obesity: Mechanistic Links to Ovarian Dysfunction, Implantation Failure, and Preeclampsia.",
+        "abstract": "Obesity is one of the most pressing public health challenges of our time, with a growing impact on metabolic and reproductive dysfunction in women. The expansion of visceral adipose tissue drives a chronic, low-grade systemic inflammatory state that has been associated with functional changes in the ovary, the endometrium, and the placenta across different stages of the reproductive process. This structured narrative review, guided by a PICo-framed research question and literature searches across PubMed/MEDLINE, Scopus, Web of Science, Embase, and ScienceDirect, examined the main immunometabolic mechanisms underlying female obesity and their reported associations with ovarian dysfunction, implantation failure, placental dysfunction, infertility, and preeclampsia. The evidence indicates that chronic low-grade inflammation, insulin resistance (IR), and functional hyperandrogenemia may impair folliculogenesis, oocyte quality, and ovarian reserve, while cytokine and adhesion-molecule dysregulation in the endometrium has been linked to impaired decidualization and a narrower implantation window. At the maternal-fetal interface, this same inflammatory substrate has been associated with deficient trophoblast invasion, inadequate spiral artery remodeling, and angiogenic imbalance, mechanisms widely implicated in the pathophysiology of preeclampsia. Rather than demonstrating a proven longitudinal chain within the same individual, the evidence reviewed here, drawn from heterogeneous populations, study designs, and experimental models, supports a conceptual, hypothesis-generating model in which obesity-related systemic inflammation may contribute to dysfunction across the ovary, endometrium, and placenta. Clinically, these findings support further investigation of reproductive biomarkers and early screening strategies for women with obesity, particularly in the context of assisted reproduction, alongside emerging preconception therapeutic approaches that remain largely investigational. Female obesity should therefore be understood not merely as a metabolic disorder, but as an immunometabolic condition potentially associated with dysfunction across the ovary-endometrium-placenta axis, an integrative framework that may help guide future preventive and therapeutic strategies for reproductive health, pending confirmation in longitudinal studies.",
+        "journal": "Biomedicines",
+        "authors": [
+          "Amanda Santiago Ribeiro",
+          "Bianca Marques",
+          "Camila Abrão Costa Buzeto",
+          "Cintia Gisele de Andrade Pozenato",
+          "Cynthia de Paula Costa Borba",
+          "Felipe Neves Brandão",
+          "Felipe Ravazzi Guzzo",
+          "Feres Abrão",
+          "Gabriela Novaes Garcia",
+          "Gustavo Henrique de Paulo Ribeiro Ponciano",
+          "Isabele de Assis Nagahashi Campos",
+          "Isis Carrero Zequini de Freitas",
+          "José Antonio Pizzolato Neto",
+          "Juliana Ferreira Marcandelli",
+          "Kelly Karine Pasqual",
+          "Laila Abrão",
+          "Ludmila Trambaiolli de Souza",
+          "Maria Clara de Castro Ferreira",
+          "Marines Laveso de Brito",
+          "Pedro Henrique Lima Domingues",
+          "Rodolfo Oliveira Medeiros",
+          "Vitória Auler do Santo"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-09-10T00:00:00.000Z",
+        "activityAt": "2026-09-26T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42792780/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine",
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "女性肥胖中的免疫代谢失调：与卵巢功能障碍、着床失败和子痫前期的机制联系",
+          "researchQuestion": "在PICo框架研究问题指导下，通过检索PubMed/MEDLINE、Scopus、Web of Science、Embase和ScienceDirect，考察女性肥胖的主要免疫代谢机制及其与卵巢功能障碍、着床失败、胎盘功能障碍、不孕和子痫前期的已报告关联。",
+          "studyDesign": "结构化叙述性综述。",
+          "populationAndSample": "女性肥胖；证据来自异质性人群、研究设计和实验模型。",
+          "methods": "以PICo框架研究问题为指导；检索PubMed/MEDLINE、Scopus、Web of Science、Embase和ScienceDirect；结构化叙述性综述。",
+          "keyResults": "内脏脂肪组织扩张驱动慢性低度全身炎症状态，该状态与卵巢、子宫内膜和胎盘在生殖过程不同阶段的功能改变相关。证据表明，慢性低度炎症、胰岛素抵抗（IR）和功能性高雄激素血症可能损害卵泡发生、卵母细胞质量和卵巢储备；子宫内膜中细胞因子和黏附分子失调与蜕膜化受损和着床窗变窄相关。在母胎界面，同一炎症基础与滋养层侵入不足、螺旋动脉重塑不充分和血管生成失衡相关，这些机制被广泛认为参与子痫前期病理生理。综述指出，并非在同一人身上证明纵向因果链，而是来自异质性人群、研究设计和实验模型的证据支持一个概念性、假设生成模型：肥胖相关全身炎症可能促成卵巢、子宫内膜和胎盘功能障碍。临床上，这些发现支持进一步研究肥胖女性的生殖生物标志物和早期筛查策略，尤其在辅助生殖背景下，同时关注新兴的孕前治疗方法，但这些方法大多仍在研究中。女性肥胖应被理解为不仅是代谢紊乱，也可能是与卵巢-子宫内膜-胎盘轴功能障碍潜在相关的免疫代谢状态；该整合框架可能有助于指导未来生殖健康预防和治疗策略，但需纵向研究确认。",
+          "limitations": "证据来自异质性人群、研究设计和实验模型；并非在同一人身上证明纵向因果链；支持概念性、假设生成模型；新兴孕前治疗方法大多仍在研究中；需纵向研究确认。",
+          "clinicalInterpretation": "摘要提示，女性肥胖可能不仅是代谢紊乱，也可能是与卵巢-子宫内膜-胎盘轴功能障碍潜在相关的免疫代谢状态；支持进一步研究生殖生物标志物和早期筛查策略，尤其在辅助生殖情境中，并关注尚在研究中的孕前治疗方法。摘要未提供临床指令或指南建议。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "ebb40f50c7d39dcfa8d42956a03a65e157c6bac941353037a2d0290a29a46893"
+      }
+    ]
+  }
+}
