@@ -7,8 +7,8 @@
   "editor_note": "过去24小时暂无符合质量要求的重要更新。",
   "keywords": [],
   "research": {
-    "generatedAt": "2026-09-26T22:40:05.564Z",
-    "dataAsOf": "2026-09-26T22:40:05.564Z",
+    "generatedAt": "2026-09-26T23:06:32.796Z",
+    "dataAsOf": "2026-09-26T23:06:32.796Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及血清乙酰-L-肉碱降低与妊娠期糖尿病女性妊娠期高血压疾病相关：一项多组学研究、多酚作为子宫内膜异位症中氧化应激和炎症的调节剂：分子机制与临床视角、ATP-P2X3信号作为子宫内膜异位症和肠易激综合征共享的神经敏化通路：机制与治疗意义。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
@@ -45,15 +45,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 17.5,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 92.5,
-          "evidenceRank": 0.7
-        },
         "summaryZh": {
           "titleZh": "血清乙酰-L-肉碱降低与妊娠期糖尿病女性妊娠期高血压疾病相关：一项多组学研究",
           "researchQuestion": "整合代谢组学、脂质组学和临床数据，识别与妊娠期糖尿病（GDM）女性随后诊断为妊娠期高血压疾病（HDP）相关的可重复候选生物标志物，并描述伴随的代谢和脂质组学改变。摘要指出，识别GDM女性后续发生HDP风险的可靠早期工具仍有限。",
@@ -65,7 +56,16 @@
           "clinicalInterpretation": "摘要提示，将ALC与DBP联合可改善GDMHDP与无并发症GDM之间的区分，表明代谢和血流动力学信息具有互补性。ALC作为候选代谢标志物仍需进一步评估和确认。摘要未提供临床管理建议。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "38c64eee89cceaf18efdbf80cfd0d14c9f7b3e44862db2b525d30db527c95a62"
+        "summaryInputHash": "38c64eee89cceaf18efdbf80cfd0d14c9f7b3e44862db2b525d30db527c95a62",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 17.5,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 92.5,
+          "evidenceRank": 0.7
+        }
       },
       {
         "id": "pmid:42792225",
@@ -101,15 +101,6 @@
         "matchedTopicIds": [
           "endometriosis-benign-gynecology"
         ],
-        "assignedTopicId": "endometriosis-benign-gynecology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "多酚作为子宫内膜异位症中氧化应激和炎症的调节剂：分子机制与临床视角",
           "researchQuestion": "本综述考察多酚与子宫内膜异位症相关氧化还原失调和炎症的关系；多酚并非仅作为抗氧化剂，单个多酚可能作为背景依赖的氧化还原和信号调节剂。",
@@ -121,7 +112,16 @@
           "clinicalInterpretation": "多酚应被视为潜在辅助方法，其在子宫内膜异位症中的临床疗效仍有待确立。摘要未提供临床指令或指南建议。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "661f9692c787737d1b979d5f46751c752b9678f1a0babe3381b47afbb1ad3d9f"
+        "summaryInputHash": "661f9692c787737d1b979d5f46751c752b9678f1a0babe3381b47afbb1ad3d9f",
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42792634",
@@ -147,15 +147,6 @@
         "matchedTopicIds": [
           "endometriosis-benign-gynecology"
         ],
-        "assignedTopicId": "endometriosis-benign-gynecology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "ATP-P2X3信号作为子宫内膜异位症和肠易激综合征共享的神经敏化通路：机制与治疗意义",
           "researchQuestion": "本叙述性综述考察ATP-P2X3信号在子宫内膜异位症和肠易激综合征（IBS）发病机制中的作用，重点涉及神经免疫串扰、背根神经节可塑性和跨器官敏化；总结支持P2X3作为治疗靶点的实验和临床证据，并讨论选择性P2X3拮抗剂的开发。",
@@ -167,7 +158,16 @@
           "clinicalInterpretation": "ATP-P2X3信号是连接子宫内膜异位症和IBS的有前景的共同机制通路，也是开发针对慢性盆腔和内脏疼痛的精准、非阿片类疗法的潜在靶点。其在目标疾病中的临床疗效尚未确立。摘要未提供临床指令或指南建议。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "151cacc86b55653881b4c202a124338c26e6712b577a9a6a9017f35f48a9f75b"
+        "summaryInputHash": "151cacc86b55653881b4c202a124338c26e6712b577a9a6a9017f35f48a9f75b",
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42792745",
@@ -194,15 +194,6 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "MTHFR C677T和A1298C多态性与甲状腺自身免疫不孕女性卵巢储备的关联",
           "researchQuestion": "研究MTHFR C677T和A1298C多态性与甲状腺自身免疫（TAI）不孕女性卵巢储备及控制性卵巢刺激（COH）结局的关联。",
@@ -214,7 +205,16 @@
           "clinicalInterpretation": "摘要提示MTHFR C677T而非A1298C多态性与TAI不孕女性的卵巢储备相关，MTHFR遗传变异可能促成该人群卵巢储备异质性；其对卵巢刺激反应的影响似乎有限。摘要未提供临床建议或指南。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "de3c51814059f2a38b6b1b95129e1b8616f1eff967dc68c643367d5f7e556226"
+        "summaryInputHash": "de3c51814059f2a38b6b1b95129e1b8616f1eff967dc68c643367d5f7e556226",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42792780",
@@ -261,15 +261,6 @@
           "maternal-fetal-medicine",
           "reproductive-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "女性肥胖中的免疫代谢失调：与卵巢功能障碍、着床失败和子痫前期的机制联系",
           "researchQuestion": "在PICo框架研究问题指导下，通过检索PubMed/MEDLINE、Scopus、Web of Science、Embase和ScienceDirect，考察女性肥胖的主要免疫代谢机制及其与卵巢功能障碍、着床失败、胎盘功能障碍、不孕和子痫前期的已报告关联。",
@@ -281,7 +272,16 @@
           "clinicalInterpretation": "摘要提示，女性肥胖可能不仅是代谢紊乱，也可能是与卵巢-子宫内膜-胎盘轴功能障碍潜在相关的免疫代谢状态；支持进一步研究生殖生物标志物和早期筛查策略，尤其在辅助生殖情境中，并关注尚在研究中的孕前治疗方法。摘要未提供临床指令或指南建议。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "ebb40f50c7d39dcfa8d42956a03a65e157c6bac941353037a2d0290a29a46893"
+        "summaryInputHash": "ebb40f50c7d39dcfa8d42956a03a65e157c6bac941353037a2d0290a29a46893",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       }
     ]
   }
