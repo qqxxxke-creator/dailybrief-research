@@ -1,0 +1,283 @@
+{
+  "hero_headline": "美国十年子宫移植全国综述：数十例健康分娩，手术结局持续改善",
+  "daily_overview": "今日妇产科要闻集中于生殖外科领域。美国一项全国性综述系统回顾了子宫移植开展十年来的经验，报告数十例健康新生儿出生，并显示手术结局持续改善，提示该技术正由少数探索性尝试走向可重复的临床实践。指南与共识层面今日无新增更新，国内动态亦无重大监管或学术信号。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [
+    {
+      "title": "Uterus transplants help women achieve successful pregnancies, analysis shows",
+      "url": "https://medicalxpress.com/news/2026-09-uterus-transplants-women-successful-pregnancies.html",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "美国一项全国性综述总结十年子宫移植经验，报告数十例健康新生儿出生，手术结局持续改善；提示该技术已具备一定可重复性，对绝对性子宫因素不孕患者的生育选择具有参考意义。技术阶段：原文未明确标注，据十年全国性经验判断处于临床验证阶段。",
+      "importance": 8
+    }
+  ],
+  "editor_note": "子宫移植正从探索性尝试走向可重复实践，十年数据令人鼓舞，但仍需持续关注免疫抑制方案与伦理规范在母婴安全中的长期平衡。",
+  "keywords": [
+    "子宫移植",
+    "生殖医学",
+    "活产结局",
+    "生殖外科",
+    "免疫抑制",
+    "母婴安全",
+    "不孕症"
+  ],
+  "research": {
+    "generatedAt": "2026-09-27T22:01:38.141Z",
+    "dataAsOf": "2026-09-27T22:01:38.141Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及母亲糖尿病与子代癫痫风险之间的关联：系统评价和meta分析、6周在线正念干预对宫颈癌或高级别鳞状上皮内病变患者的效果：使用量表和脑电图多模态数据的随机对照试验、阴道微生物组与炎症蛋白质组的多组学整合用于不孕症无创预测：机器学习方法。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42798566",
+        "pmid": "42798566",
+        "doi": "10.3389/fendo.2026.1960502",
+        "title": "The association between maternal diabetes and the risk of epilepsy in offspring: a systematic review and meta-analysis.",
+        "abstract": "BACKGROUND: Epilepsy is among the most prevalent neurological disorders in children, with nearly half of all cases remaining idiopathic. The global prevalence of maternal diabetes-encompassing both pregestational types (type 1 diabetes mellitus (T1DM) and type 2 diabetes mellitus (T2DM)) and gestational diabetes mellitus (GDM)-has been steadily increasing, raising growing concerns regarding its impact on offspring neurodevelopment. While accumulating evidence suggests that maternal diabetes is associated with an elevated risk of various neurodevelopmental disorders in children, its specific relationship with the risk of epilepsy remains unclear, with available data being both limited and conflicting. To address this gap, we conducted a meta-analysis to comprehensively evaluate the association between distinct types of maternal diabetes (pregestational and gestational) and the subsequent risk of epilepsy in offspring.\nMETHODS: We systematically searched the PubMed, Embase, Web of Science, and the Cochrane Library for observational studies examining the association between maternal diabetes and offspring epilepsy risk, covering the period from database inception to July 2026. Two independent reviewers performed literature screening, data extraction, and risk-of-bias assessment. Statistical analyses were performed using Stata version 14.0.\nRESULTS: A total of three studies, encompassing 5,287,837 participants, met the inclusion criteria. Pregestational diabetes-both T1DM and T2DM-was significantly associated with an increased risk of epilepsy in offspring (T1DM: HR = 1.33, 95% CI [1.17, 1.52], P < 0.001; T2DM: HR = 1.38, 95% CI [1.25, 1.51], P < 0.001). Nevertheless, owing to the observational design of the included studies, these associations should not be interpreted as causal. Regarding GDM, the pooled estimate did not reach conventional statistical significance (HR = 1.04, 95% CI [0.93, 1.16], P = 0.469). Furthermore, sensitivity analyses revealed that this null finding lacked robustness, with the pooled estimate being substantially influenced by individual studies. Consequently, the current evidence is insufficient to either support or refute a conclusive association between GDM and offspring epilepsy, and any positive findings must be interpreted with considerable caution.\nCONCLUSIONS: This meta-analysis suggests that pregestational T1DM and T2DM may increase the risk of epilepsy in offspring. In contrast, for GDM, the available analytical evidence remains inconclusive and displays notable between-study heterogeneity; although the summary effect was not statistically significant, it proved highly unstable under sensitivity testing. Given the limited number of included studies and the inability to fully exclude residual confounding, the above findings-particularly those pertaining to GDM-should be regarded as exploratory rather than definitive causal inferences. Interpretation of these results warrants prudence. Future large-scale, high-quality prospective cohort studies are urgently needed to validate these observations, with special emphasis on stringent glycemic management in pregnant women with diabetes and long-term neurodevelopmental surveillance of their offspring.\nSYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/view/CRD420261465624, identifier CRD420261465624.",
+        "journal": "Frontiers in endocrinology",
+        "authors": [
+          "Daying Long",
+          "Hua Zhou",
+          "Huan Zeng",
+          "Xiaojing Liu",
+          "Xun Li",
+          "Yefang Geng",
+          "Yunhong Lei"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-09-11T00:00:00.000Z",
+        "activityAt": "2026-09-27T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42798566/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "母亲糖尿病与子代癫痫风险之间的关联：系统评价和meta分析",
+          "researchQuestion": "评估不同类型的母亲糖尿病（孕前糖尿病和妊娠期糖尿病）与子代后续癫痫风险之间的关联。",
+          "studyDesign": "系统评价和meta分析，纳入观察性研究。",
+          "populationAndSample": "共纳入3项研究，涵盖5,287,837名参与者。",
+          "methods": "系统检索PubMed、Embase、Web of Science和Cochrane Library，时间从数据库建库至2026年7月；由两名独立评审员进行文献筛选、数据提取和偏倚风险评估；使用Stata 14.0进行统计分析。",
+          "keyResults": "孕前糖尿病（包括T1DM和T2DM）与子代癫痫风险增加显著相关：T1DM HR=1.33，95% CI [1.17, 1.52]，P<0.001；T2DM HR=1.38，95% CI [1.25, 1.51]，P<0.001。GDM的合并估计未达到传统统计学显著性：HR=1.04，95% CI [0.93, 1.16]，P=0.469。敏感性分析显示该阴性结果缺乏稳健性，合并估计受单项研究影响较大。当前证据不足以支持或反驳GDM与子代癫痫之间存在确定性关联。",
+          "limitations": "纳入研究为观察性设计，因此这些关联不应解释为因果关系；仅纳入3项研究；GDM结果存在明显的研究间异质性且在敏感性检验中高度不稳定；无法完全排除残余混杂；摘要指出尤其GDM相关发现应视为探索性而非确定性因果推断。",
+          "clinicalInterpretation": "该meta分析提示孕前T1DM和T2DM可能与子代癫痫风险增加相关；对于GDM，现有分析证据仍不确定且异质性明显。由于纳入研究有限和残余混杂无法完全排除，上述结果尤其GDM相关结果应谨慎解读，不能作为确定性因果结论或临床指令。摘要提出未来需要大规模、高质量前瞻性队列研究验证，并强调糖尿病孕妇严格血糖管理和子代长期神经发育监测。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "fdfa757f542f03bfd0ee61db0d2b72154a96b0270d5c836d0cff5e0131ff2f7c"
+      },
+      {
+        "id": "pmid:42800049",
+        "pmid": "42800049",
+        "doi": "10.1002/pon.70610",
+        "title": "The Effectiveness of a 6-Week Online Mindfulness-Based Intervention on Patients With Cervical Cancer or High-Grade Squamous Intraepithelial Lesion: A Randomized Controlled Trial Using Multimodal Data of Scales and Electroencephalogram.",
+        "abstract": "BACKGROUND: Patients with cervical cancer or High-Grade Squamous Intraepithelial Lesion (HSIL) often experience mental problems such as anxiety and depression. Online mindfulness-based interventions offer accessible mental health support. However, evidence for cervical cancer or HSIL patients remains scarce, and evaluations often rely solely on self-reported scales, with a lack of neurophysiological assessments. This study aimed to assess the effectiveness of a 6-week online mindfulness-based intervention on mental health outcomes in this population by using scales, with exploratory frontal electroencephalogram (EEG) biomarkers as supplementary neurophysiological indicators.\nMETHODS: A single-center randomized controlled trial enrolling 151 cervical cancer or HSIL patients was conducted. The intervention group received a 6-week online mindfulness-based intervention, while the control group received general mental health education. Primary outcomes were depressive and anxiety symptoms assessed by validated scales. Frontal EEG metrics were collected as exploratory supplementary neurophysiological indicators. Assessments were conducted at baseline and post-intervention. Independent samples t-tests and Mann-Whitney U tests were used for intergroup comparisons, with Benjamini-Hochberg FDR correction applied to control for multiple testing.\nRESULTS: A total of 149 patients completed the study. After the intervention, the intervention showed significantly lower symptoms of depression (t = 12.238, FDR-q < 0.001), anxiety (t = 11.150, FDR-q < 0.001), and higher levels of resilience, mindfulness, and perceived social support than the control group. Exploratory EEG analysis revealed that the intervention group exhibited higher relative theta and alpha power, higher time-domain standard deviation, and lower relative beta and gamma power than the control group.\nCONCLUSION: This study demonstrates that a 6-week online mindfulness-based intervention effectively alleviates depressive and anxiety symptoms among patients with cervical cancer or HSIL. Exploratory EEG findings provide preliminary neurophysiological support for these psychological benefits, though further validation with larger samples is warranted.\nTRIAL REGISTRATION: The trial was prospectively registered on the Chinese Clinical Trial Registry (ID: ChiCTR2400087926, https://www.chictr.org.cn/) on August 07, 2024.",
+        "journal": "Psycho-oncology",
+        "authors": [
+          "Disi A",
+          "Jing Wu",
+          "Rui Sun",
+          "Shu Jing",
+          "Xiaoyou Su",
+          "Xuelin Yang",
+          "You Xin",
+          "Yueyun Wang",
+          "Zhenwei Dai"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-09-01T00:00:00.000Z",
+        "activityAt": "2026-09-27T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42800049/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "6周在线正念干预对宫颈癌或高级别鳞状上皮内病变患者的效果：使用量表和脑电图多模态数据的随机对照试验",
+          "researchQuestion": "评估6周在线正念干预对宫颈癌或高级别鳞状上皮内病变患者心理健康结局的效果，并以探索性额叶脑电图生物标志物作为补充神经生理指标。",
+          "studyDesign": "单中心随机对照试验。",
+          "populationAndSample": "入组151名宫颈癌或高级别鳞状上皮内病变患者；共149名患者完成研究。",
+          "methods": "干预组接受6周在线正念干预，对照组接受一般心理健康教育。主要结局为通过经验证量表评估的抑郁和焦虑症状；额叶脑电图指标作为探索性补充神经生理指标。评估在基线和干预后进行。组间比较采用独立样本t检验和Mann-Whitney U检验，并应用Benjamini-Hochberg FDR校正控制多重检验。",
+          "keyResults": "共149名患者完成研究。干预后，干预组抑郁症状（t=12.238，FDR-q<0.001）和焦虑症状（t=11.150，FDR-q<0.001）显著低于对照组，且韧性、正念和感知社会支持水平高于对照组。探索性EEG分析显示，干预组相对theta和alpha功率更高，时域标准差更高，相对beta和gamma功率更低。",
+          "limitations": "摘要指出需要更大样本进一步验证；研究为单中心试验；EEG结果为探索性神经生理指标。",
+          "clinicalInterpretation": "该随机对照试验显示，6周在线正念干预可减轻宫颈癌或高级别鳞状上皮内病变患者的抑郁和焦虑症状；探索性EEG发现为这些心理获益提供初步神经生理支持，但样本量有限，仍需进一步验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "68a7a2c5448ab0acf6a8f04f87410c33c4520581f94c2c980eebb883570f7b2b"
+      },
+      {
+        "id": "pmid:42798548",
+        "pmid": "42798548",
+        "doi": "10.3389/fcell.2026.1927235",
+        "title": "Multi-omics integration of the vaginal microbiome and inflammatory proteome for non-invasive prediction of infertility: a machine learning approach.",
+        "abstract": "BACKGROUND: Infertility remains a global health challenge that often necessitates invasive and costly diagnostic procedures. While the vaginal microenvironment is known to influence reproductive health, its potential as a source of non-invasive biomarkers for infertility remains insufficiently explored. This study integrated vaginal microbiome and inflammatory proteomic profiling using machine learning to develop and validate an objective, non-invasive diagnostic model for identifying women at high risk of infertility.\nMETHODS: A total of 205 women (76 infertility patients and 129 healthy controls) were enrolled between October 2025 and February 2026. Vaginal swabs were collected for 16S rRNA sequencing and Olink Target 96 Inflammation panel analysis. LASSO, Boruta, and RFE were applied for feature selection, and eight machine learning algorithms were established to the training cohort (n = 143). Model performance was validated in the test cohort (n = 62) using AUC and DeLong tests. SHAP analysis was utilized for biological interpretability.\nRESULTS: 4 Olink features and 14 microbial features were retained for analysis. The microbiome-based SVM model demonstrated the highest predictive performance with an AUC of 0.815 (95% CI: 0.710-0.920), significantly outperforming the proteomics-based XGBoost model (AUC = 0.629, 95% CI: 0.489-0.768). Multi-omics based SVM model yielded an AUC of 0.799 (95% CI: 0.691-0.993). SHAP analysis identified the genera Thomasclavelia , unclassified Ruminococcaceae , and Megamonas as the top 3 contributing features in the predictive model. Furthermore, all Olink biomarkers retained in the prediction model, including MMP-1, MMP-10, CCL20, and CXCL5, were identified as contributing risk factors associated with infertility.\nCONCLUSION: The vaginal microbiome is a potent non-invasive biomarker for infertility, offering superior diagnostic accuracy compared to host inflammatory proteins. This machine learning-based multi-omics approach provides a promising tool for early risk stratification and personalized reproductive management.",
+        "journal": "Frontiers in cell and developmental biology",
+        "authors": [
+          "Aifen Wang",
+          "Dandan Chen",
+          "Ruixi Yu",
+          "Yangkun Feng",
+          "Yu Zhang",
+          "Yun Zhang",
+          "Zhenxing Liu"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-11T00:00:00.000Z",
+        "activityAt": "2026-09-27T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42798548/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "阴道微生物组与炎症蛋白质组的多组学整合用于不孕症无创预测：机器学习方法",
+          "researchQuestion": "整合阴道微生物组和炎症蛋白质组图谱，利用机器学习开发并验证一种客观、无创的诊断模型，以识别不孕症高风险女性。",
+          "studyDesign": "诊断模型开发与验证研究；摘要未报告具体研究设计类型。",
+          "populationAndSample": "共纳入205名女性，包括76名不孕症患者和129名健康对照，入组时间为2025年10月至2026年2月；训练队列n=143，测试队列n=62。",
+          "methods": "采集阴道拭子进行16S rRNA测序和Olink Target 96 Inflammation panel分析；应用LASSO、Boruta和RFE进行特征选择；建立8种机器学习算法；在测试队列中使用AUC和DeLong检验验证模型性能；使用SHAP分析进行生物学可解释性分析。",
+          "keyResults": "保留4个Olink特征和14个微生物特征用于分析。基于微生物组的SVM模型预测性能最高，AUC为0.815（95% CI：0.710-0.920），显著优于基于蛋白质组的XGBoost模型（AUC=0.629，95% CI：0.489-0.768）。基于多组学的SVM模型AUC为0.799（95% CI：0.691-0.993）。SHAP分析识别出Thomasclavelia属、未分类Ruminococcaceae和Megamonas属为预测模型中贡献最大的前3个特征。此外，预测模型中保留的所有Olink生物标志物，包括MMP-1、MMP-10、CCL20和CXCL5，均被识别为与不孕症相关的贡献风险因素。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "该研究提示阴道微生物组是不孕症的一种有效无创生物标志物，其诊断准确性优于宿主炎症蛋白；基于机器学习的多组学方法为早期风险分层和个体化生殖管理提供了有前景的工具。上述为研究结论，尚需进一步验证，不能直接作为临床指南或常规实践指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "3f9dadc284fb12b3dd201f58daa47ca1b59e3e2a6dbbdce5408f53a7a38da3e7"
+      },
+      {
+        "id": "pmid:42798760",
+        "pmid": "42798760",
+        "doi": "10.7759/cureus.115200",
+        "title": "Serum Uric Acid Levels in the First Trimester of Pregnancy and the Development of Gestational Diabetes Mellitus: A Prospective Cohort Study.",
+        "abstract": "INTRODUCTION: Gestational diabetes mellitus (GDM) is a common metabolic disorder of pregnancy associated with adverse maternal and fetal outcomes; early identification of at-risk women is essential for timely intervention. Serum uric acid (SUA) has emerged as a potential biomarker for predicting glucose intolerance during pregnancy. This study aimed to evaluate the association between first-trimester SUA levels and the subsequent development of GDM.\nMATERIALS AND METHODS: A prospective cohort study was conducted in the Department of Obstetrics and Gynaecology of a tertiary care teaching hospital from January 2024 to December 2025. A total of 212 non-diabetic antenatal women in their first trimester were enrolled using consecutive sampling. Baseline clinical assessment, anthropometric measurements, and SUA estimation were performed at enrolment using a fully automated biochemical analyzer (Dimension RXL Max, Siemens Healthineers, Erlangen, Germany). Participants were followed until 24-28 weeks of gestation and screened for GDM using the Diabetes in Pregnancy Study Group of India (DIPSI) criteria following a 75 g oral glucose challenge. Statistical analysis was performed using SPSS v25.0 (IBM Corp., Armonk, NY). Independent t-test, chi-square test, Pearson correlation, multivariate logistic regression, and receiver operating characteristic (ROC) curve analyses were used.\nRESULTS: Of the 212 participants, 44 (20.8%) developed GDM. Women who developed GDM had significantly higher first-trimester SUA levels (5.4 ± 0.9 mg/dL vs. 3.8 ± 0.8 mg/dL; p < 0.001). SUA showed a positive correlation with second-trimester post-glucose blood sugar (r = 0.52, p < 0.001). The unadjusted odds ratio for GDM with SUA >4 mg/dL was 12.0 (95% CI: 4.8-30.0; p < 0.001). On multivariate logistic regression, elevated SUA (adjusted odds ratio [AOR] = 3.6, 95% CI: 1.8-7.1, p < 0.001), BMI ≥25 kg/m² (AOR = 2.9), and positive family history of diabetes (AOR = 2.4) were independent predictors. ROC analysis demonstrated an area under the curve (AUC) of 0.87 at a cut-off of 4.1 mg/dL (sensitivity 80%, specificity 70%).\nCONCLUSIONS: Elevated first-trimester SUA levels are significantly associated with, and independently predict, GDM. SUA may serve as a simple, inexpensive, and widely available biomarker for early identification of women at increased risk of GDM. Large-scale multicenter studies are warranted to validate these findings and establish ethnicity-specific thresholds.",
+        "journal": "Cureus",
+        "authors": [
+          "Anuja Bhalerao",
+          "Kanchan S Dwidmuthe",
+          "Parth Dhande"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-25T00:00:00.000Z",
+        "activityAt": "2026-09-27T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42798760/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "妊娠早期血清尿酸水平与妊娠期糖尿病的发生：前瞻性队列研究",
+          "researchQuestion": "评估妊娠早期血清尿酸（SUA）水平与后续发生妊娠期糖尿病（GDM）之间的关联。",
+          "studyDesign": "前瞻性队列研究。",
+          "populationAndSample": "在一家三级教学医院妇产科开展，时间为2024年1月至2025年12月；采用连续抽样纳入212名妊娠早期非糖尿病产前女性；随访至妊娠24-28周。",
+          "methods": "入组时进行基线临床评估、人体测量和SUA检测，使用全自动生化分析仪（Dimension RXL Max，Siemens Healthineers，Erlangen，Germany）。在妊娠24-28周随访时，采用印度妊娠期糖尿病研究组（DIPSI）标准，在75 g口服葡萄糖挑战后筛查GDM。使用SPSS v25.0进行统计分析，方法包括独立t检验、卡方检验、Pearson相关、多因素logistic回归和ROC曲线分析。",
+          "keyResults": "212名参与者中，44名（20.8%）发生GDM。发生GDM的女性妊娠早期SUA水平显著更高（5.4 ± 0.9 mg/dL vs. 3.8 ± 0.8 mg/dL；p<0.001）。SUA与妊娠中期糖负荷后血糖呈正相关（r=0.52，p<0.001）。SUA>4 mg/dL时GDM的未调整比值比为12.0（95% CI：4.8-30.0；p<0.001）。多因素logistic回归中，SUA升高（调整比值比[AOR]=3.6，95% CI：1.8-7.1，p<0.001）、BMI≥25 kg/m²（AOR=2.9）和糖尿病家族史阳性（AOR=2.4）为独立预测因素。ROC分析显示，在4.1 mg/dL截断值下，AUC为0.87（敏感性80%，特异性70%）。",
+          "limitations": "摘要指出需要大规模多中心研究验证这些发现并建立种族特异性阈值；摘要未报告其他局限性。",
+          "clinicalInterpretation": "该前瞻性队列研究显示，妊娠早期SUA水平升高与GDM显著相关并可独立预测GDM；SUA可能作为一种简单、廉价且广泛可及的生物标志物，用于早期识别GDM风险增加的女性。上述发现仍需大规模多中心研究验证，不能直接作为临床指南或筛查指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "b332532c22e5520fc861e5f349b394304ccce022a2797eafa4934bc15c4316b0"
+      },
+      {
+        "id": "pmid:42798793",
+        "pmid": "42798793",
+        "doi": "10.3389/fphar.2026.1907433",
+        "title": "Impaired vascular function in gestational diabetes: evidence for metabolic memory, endothelial dysfunction and altered smooth muscle cell biology.",
+        "abstract": "Gestational diabetes mellitus (GDM) is a common, inflammatory complication during pregnancy. Women who have GDM are more likely to develop metabolic or cardiovascular disease in the years post-delivery, as are their children. The umbilical cord and placenta provide a unique interface between maternal and foetal circulation and are richly vascularised. However, the molecular and cellular mechanisms that drive metabolic memory and cardiovascular dysfunction in GDM are incompletely understood. This article highlights the clinical presentation of cardiovascular disease post-GDM from mother and child. We investigate histological changes in the vasculature of the umbilical cord and the placenta, and the mechanistic changes in vascular smooth muscle cell and endothelial cell behaviour that may underpin clinical cardiovascular presentations. Finally we suggest areas for future research to increase mechanistic knowledge in this area, which may lead to new personalised medicine approaches for early intervention after delivery to minimise the long-term detrimental effect of GDM on cardiovascular health.",
+        "journal": "Frontiers in pharmacology",
+        "authors": [
+          "Andrew Tedder",
+          "Anne M Graham",
+          "Kirsten Riches-Suman",
+          "Marc Bailey",
+          "Yaw Asare-Amankwah"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-09-11T00:00:00.000Z",
+        "activityAt": "2026-09-27T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42798793/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "妊娠期糖尿病中血管功能受损：代谢记忆、内皮功能障碍和血管平滑肌细胞生物学改变的证据",
+          "researchQuestion": "文章旨在概述GDM后母亲和子代心血管疾病的临床表现，研究脐带和胎盘血管的组织学变化，以及可能支撑临床心血管表现的血管平滑肌细胞和内皮细胞行为机制变化，并提出未来研究方向。",
+          "studyDesign": "综述（Review）。",
+          "populationAndSample": "摘要未报告。",
+          "methods": "摘要未报告。",
+          "keyResults": "摘要未报告具体原始研究结果；摘要概述GDM是一种常见的妊娠期炎症并发症，有GDM史的女性及其子代在产后多年更可能发生代谢或心血管疾病；脐带和胎盘是母胎循环之间血管丰富的独特界面；但驱动GDM中代谢记忆和心血管功能障碍的分子及细胞机制仍不完全清楚。文章讨论了脐带和胎盘血管的组织学变化，以及血管平滑肌细胞和内皮细胞行为的机制变化，并提出未来研究领域。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "该综述提示GDM与母亲及其子代产后长期代谢或心血管疾病风险相关，并强调相关分子和细胞机制尚未完全清楚。文章提出未来研究方向，可能有助于产后早期干预和个体化医学方法，以减少GDM对心血管健康的长期不良影响；摘要未报告具体干预效果或临床推荐。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "7d930247251cf6e758fd0ffce3f16c2462cb91687209b525b76780ac9300b91a"
+      }
+    ]
+  }
+}

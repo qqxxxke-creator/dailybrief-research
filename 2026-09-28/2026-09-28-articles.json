@@ -1,0 +1,17 @@
+{
+  "date": "2026-09-28",
+  "articles": [
+    {
+      "sourceId": "medical-xpress-obgyn",
+      "title": "Uterus transplants help women achieve successful pregnancies, analysis shows",
+      "url": "https://medicalxpress.com/news/2026-09-uterus-transplants-women-successful-pregnancies.html",
+      "excerpt": "A decade of uterus transplantation in the United States has resulted in dozens of healthy births and steadily improving surgical outcomes, according to a new national review led by researchers from the Perelman School of Medicine at the University of Pennsylvania.",
+      "publishedAt": "2026-09-27T13:00:01.000Z",
+      "category": "politics",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "美国一项全国性综述显示，子宫移植开展十年来已实现数十例健康活产，手术结局持续改善。",
+      "reviewStatus": "accepted",
+      "lowPriority": false
+    }
+  ]
+}
