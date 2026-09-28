@@ -1,0 +1,273 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-09-28T22:15:11.469Z",
+    "dataAsOf": "2026-09-28T22:15:11.469Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及产前稳态负荷与不良妊娠结局：系统综述与荟萃分析、深度学习与机器学习算法用于宫颈癌MRI分割：系统综述、坦桑尼亚乞力马扎罗农村地区妇女和医疗服务提供者对宫颈癌筛查促进因素与障碍的观点：一项定性研究。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42802863",
+        "pmid": "42802863",
+        "doi": "10.7717/peerj.21756",
+        "title": "Prenatal allostatic load and adverse pregnancy outcomes: a systematic review and meta-analysis.",
+        "abstract": "BACKGROUND: Allostatic load (AL) denotes the cumulative physiological dysregulation resulting from chronic stress exposure. This systematic review and meta-analysis aimed to evaluate the association between prenatal AL and adverse pregnancy outcomes (APOs), and to synthesize current evidence to inform prenatal health strategies and potentially reduce the incidence of APOs.\nMETHODOLOGY: This study systematically searched PubMed, Web of Science, Embase, PsycINFO, China National Knowledge Infrastructure, Wanfang, VIP China Science and Technology Journal Database, and SinoMed databases for relevant studies examining prenatal AL and APOs published from September 1993 to 22 June 2026. Two researchers independently screened the literature, extracted data, and assessed the risk of bias using the Newcastle-Ottawa scale. Meta-analysis was performed using R software (version 4.4.3). The study protocol is registered in PROSPERO (CRD420251076952).\nRESULTS: Eight original studies involving 8,795 pregnant women were included. High prenatal AL was associated with an increased risk of preterm birth (OR = 1.29, 95% CI [1.04-1.60]) and preeclampsia (OR = 2.31, 95% CI [1.42-3.76]). There was no statistically significant association with low birth weight (OR = 1.10, 95% CI [0.95-1.26]). Furthermore, exploratory subgroup analyses suggested that the gestational period and biomarker composition may influence these associations; however, high methodological heterogeneity limits direct clinical application.\nCONCLUSIONS: Elevated prenatal AL is associated with an increased risk of specific APOs, particularly preterm birth and preeclampsia. Future studies should adopt longitudinal designs with repeated AL measurements across pregnancy to clarify temporal dynamics and elucidate underlying biological mechanisms.",
+        "journal": "PeerJ",
+        "authors": [
+          "Bei Wang",
+          "Dengyan Qi",
+          "Hanyue Zheng",
+          "Lei Ba",
+          "Mengjie Zhao",
+          "Xiang Hong",
+          "Xuening Zhang"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-09-24T00:00:00.000Z",
+        "activityAt": "2026-09-28T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42802863/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 6,
+          "recency": 10,
+          "total": 91,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "产前稳态负荷与不良妊娠结局：系统综述与荟萃分析",
+          "researchQuestion": "评估产前稳态负荷（AL）与不良妊娠结局（APOs）之间的关联，并综合当前证据以 inform 产前健康策略、可能降低APOs发生率。",
+          "studyDesign": "系统综述与荟萃分析；研究方案注册于PROSPERO（CRD420251076952）。",
+          "populationAndSample": "纳入8项原始研究，涉及8,795名孕妇。",
+          "methods": "系统检索PubMed、Web of Science、Embase、PsycINFO、中国知网、万方、维普中文科技期刊数据库和SinoMed，检索1993年9月至2026年6月22日发表的相关研究；由两名研究者独立筛选文献、提取数据，并使用纽卡斯尔-渥太华量表评估偏倚风险；使用R软件（4.4.3版）进行荟萃分析。",
+          "keyResults": "产前高AL与早产风险增加相关（OR = 1.29，95% CI [1.04-1.60]），与子痫前期风险增加相关（OR = 2.31，95% CI [1.42-3.76]）；与低出生体重无统计学显著关联（OR = 1.10，95% CI [0.95-1.26]）。探索性亚组分析提示，妊娠时期和生物标志物组成可能影响这些关联；但高方法学异质性限制直接临床应用。",
+          "limitations": "摘要报告高方法学异质性限制直接临床应用；探索性亚组分析提示妊娠时期和生物标志物组成可能影响关联。未报告其他局限性。",
+          "clinicalInterpretation": "产前高AL与早产和子痫前期风险增加相关，但与低出生体重无统计学显著关联；因异质性高且为观察性证据，不能推断因果，也不能直接用于临床决策。未来需采用纵向设计、在妊娠期重复测量AL以阐明时间动态和生物学机制。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "50f9da0ef6003504b0216359e3879d2edc44e0905115f26f9256678c6c4354bf"
+      },
+      {
+        "id": "pmid:42802541",
+        "pmid": "42802541",
+        "doi": "10.1002/jmrs.70127",
+        "title": "Deep Learning and Machine Learning Algorithms for Cervical Cancer Segmentation on MRI: A Systematic Review.",
+        "abstract": "INTRODUCTION: Cervical cancer management relies heavily on magnetic resonance imaging (MRI) for staging and treatment planning; however, manual segmentation is time-consuming and prone to variability. This systematic review aimed to evaluate the performance and clinical potential of machine learning (ML) and deep learning (DL) algorithms for automated cervical cancer segmentation on MRI.\nMETHODS: A systematic review guided by the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) (PROSPERO: CRD420251247441) was conducted by searching PubMed/MEDLINE, Embase, Scopus, Web of Science, IEEE Xplore, and Google Scholar until December 2025. Two reviewers independently screened studies, extracted data, and assessed risk of bias using the Quality Assessment of Diagnostic Accuracy Studies-2 (QUADAS-2). MRI-based segmentation studies were primarily included, while computed tomography (CT)- and positron emission tomography (PET)-based multimodal studies were analysed as complementary evidence. Due to substantial heterogeneity, findings were synthesized narratively, and certainty of evidence was assessed using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) framework.\nRESULTS: Thirty studies were included, mainly evaluating segmentation of tumours, high-risk clinical target volumes, and organs at risk. DL models, particularly U-Net variants, convolutional neural networks, and transformer-based architectures, demonstrated promising performance, with reported Dice similarity coefficients ranging from 0.60 to 0.93. However, performance varied according to target structure, tumour characteristics, and imaging protocols. Overall risk of bias showed \"some concerns,\" mainly due to patient selection, reference standards, and limited external validation. GRADE assessment indicated low certainty of evidence due to heterogeneity, methodological limitations, and imprecision.\nCONCLUSION: ML and DL algorithms show promising potential for automated cervical cancer segmentation on MRI, with potential benefits for efficiency and reproducibility. However, further multicenter studies with standardized protocols and external validation are required before routine clinical implementation.\nTRIAL REGISTRATION: PRISMA guidelines and was prospectively registered in PROSPERO: CRD420251247441.",
+        "journal": "Journal of medical radiation sciences",
+        "authors": [
+          "Abolfazl Koozari",
+          "Mohammadreza Elhaie",
+          "Sina Soltan Mohammadi",
+          "Somayeh Haji Ahmadi"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-09-27T00:00:00.000Z",
+        "activityAt": "2026-09-28T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42802541/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "深度学习与机器学习算法用于宫颈癌MRI分割：系统综述",
+          "researchQuestion": "评估机器学习和深度学习算法在MRI上自动分割宫颈癌的性能和临床潜力。",
+          "studyDesign": "系统综述；遵循PRISMA，并在PROSPERO前瞻性注册（CRD420251247441）。",
+          "populationAndSample": "纳入30项研究，主要评估肿瘤、高危临床靶区和危及器官的分割；以MRI分割研究为主，CT和PET多模态研究作为补充证据。",
+          "methods": "检索PubMed/MEDLINE、Embase、Scopus、Web of Science、IEEE Xplore和Google Scholar，截至2025年12月；由两名评审员独立筛选研究、提取数据，并使用QUADAS-2评估偏倚风险；因异质性较大，采用叙述性综合，并使用GRADE框架评估证据确定性。",
+          "keyResults": "深度学习模型，尤其是U-Net变体、卷积神经网络和基于Transformer的架构，显示出较好性能，报告的Dice相似系数范围为0.60至0.93；但性能随目标结构、肿瘤特征和成像方案而变化。总体偏倚风险显示为“some concerns”，主要由于患者选择、参考标准和有限的外部验证。GRADE评估因异质性、方法学局限和不精确性提示证据确定性低。",
+          "limitations": "总体偏倚风险为“some concerns”，主要因患者选择、参考标准和有限外部验证；GRADE评估因异质性、方法学局限和不精确性显示低确定性证据。需进一步开展多中心研究、采用标准化方案并进行外部验证。",
+          "clinicalInterpretation": "机器学习和深度学习算法在MRI宫颈癌自动分割中显示出潜力，可能有助于提高效率和可重复性；但在常规临床实施前，仍需进一步多中心研究、标准化方案和外部验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "a711673d7b29832dee206b05cf40910368ccf8a7828bdc5cd2b1485e6a7851e7"
+      },
+      {
+        "id": "pmid:42802903",
+        "pmid": "42802903",
+        "doi": "10.1080/16549716.2026.2735552",
+        "title": "Perspectives of women and healthcare providers on facilitators and barriers to cervical cancer screening in the rural Kilimanjaro region Tanzania: a qualitative study.",
+        "abstract": "BACKGROUND: Cervical cancer can be prevented and treated if detected early through regular screening. However, 88% of women aged 30 to 49 have never been screened in Tanzania.\nOBJECTIVE: This study explored facilitators and barriers to cervical cancer screening among women and healthcare providers in rural Kilimanjaro, Tanzania, using the Theoretical Domains Framework and the Capability, Opportunity, Motivation-Behavior model.\nMETHODS: An exploratory qualitative design was employed; data were collected from March to October 2024. Six focus group discussions were conducted with 54 women aged 30-50 years, and twelve in-depth individual interviews with healthcare providers. Data were transcribed, coded, and thematically analyzed using QDA Miner Lite v2.0.8.\nRESULTS: Four main themes emerged, each with sub-themes: (1) knowledge about cervical cancer and screening (disparities in knowledge between screened and non-screened women; healthcare providers' knowledge and training needs; age and parity as knowledge mediators); (2) power of social influence (social facilitation; social barriers); (3) emotional and structural influences on cervical cancer screening (emotional barriers and coping; structural and logistical barriers); and (4) enhancing cervical cancer screening uptake (targeted community education and outreach; improving service accessibility). Barriers include limited knowledge, misconceptions, fear of pain and positive results, limited access to services, and a shortage of trained healthcare providers. Social support from families, peers, community leaders, and healthcare providers was identified as a strong facilitator.\nCONCLUSION: Increasing cervical cancer screening uptake in rural communities requires targeted, theory-informed interventions that incorporate education to enhance awareness, strengthen social support, and improve health services.",
+        "journal": "Global health action",
+        "authors": [
+          "Bariki Mchome",
+          "Bernard Njau",
+          "Blandina T Mmbaga",
+          "Christina C Mtuya",
+          "Declare L Mushi",
+          "Eva Kantelhardt",
+          "Gunilla Björling",
+          "Lyidia Masika",
+          "Mirgissa Kaba",
+          "Rachel Manongi",
+          "Rogathe F Machange",
+          "Victor W Katiti"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-28T00:00:00.000Z",
+        "activityAt": "2026-09-28T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42802903/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "坦桑尼亚乞力马扎罗农村地区妇女和医疗服务提供者对宫颈癌筛查促进因素与障碍的观点：一项定性研究",
+          "researchQuestion": "使用理论域框架和COM-B模型，探索坦桑尼亚乞力马扎罗农村地区妇女和医疗服务提供者对宫颈癌筛查的促进因素与障碍。",
+          "studyDesign": "探索性定性研究；数据收集于2024年3月至10月。",
+          "populationAndSample": "开展6个焦点小组讨论，共54名30-50岁妇女；并对12名医疗服务提供者进行深度个体访谈。背景信息报告坦桑尼亚88%的30至49岁妇女从未接受过筛查。",
+          "methods": "数据经转录、编码，并使用QDA Miner Lite v2.0.8进行主题分析；分析框架基于理论域框架和COM-B模型。",
+          "keyResults": "形成四个主要主题及子主题：（1）关于宫颈癌和筛查的知识（已筛查与未筛查妇女之间存在知识差异；医疗服务提供者的知识和培训需求；年龄和产次作为知识中介因素）；（2）社会影响的力量（社会促进；社会障碍）；（3）情绪和结构因素对宫颈癌筛查的影响（情绪障碍和应对；结构和后勤障碍）；（4）提高宫颈癌筛查接受度（有针对性的社区教育和外展；改善服务可及性）。障碍包括知识有限、误解、对疼痛和阳性结果的恐惧、服务可及性有限以及 trained 医疗服务提供者短缺。来自家庭、同伴、社区领导者和医疗服务提供者的社会支持被确定为强促进因素。",
+          "limitations": "摘要未报告明确的局限性；此为探索性定性研究，结果以主题呈现，未报告效应量或统计关联。",
+          "clinicalInterpretation": "研究结果提示，提高农村社区宫颈癌筛查参与度需要有针对性的、基于理论的干预，涵盖教育以提升意识、强化社会支持和改善卫生服务；摘要未报告干预实施或效果评价。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "91fbca1e0ddb29f0ce371e6aae812c2698fa40ee202a399f46765141a2dda7cc"
+      },
+      {
+        "id": "pmid:42802904",
+        "pmid": "42802904",
+        "doi": "10.1097/mnm.0000000000002245",
+        "title": "18F-FDG PET/CT radiomics for prediction of BRCA mutations in high-grade serous ovarian cancer.",
+        "abstract": "OBJECTIVE: This study aimed to develop and validate a 18F-fluorodeoxyglucose PET/computed tomography (CT)-based radiomics model for predicting BRCA mutation status in patients with advanced high-grade serous ovarian cancer (HGSOC).\nMETHODS: A retrospective study of 124 patients with HGSOC who underwent preoperative PET/CT scans and BRCA mutation testing was conducted. The cohort was divided into training and internal validation sets using a 7 : 3 ratio. An external validation set of 25 patients was used to confirm model generalizability. Radiomic features were extracted from PET and CT images and used to build predictive models using logistic regression, random forest, support vector machine, and decision tree classifiers. The models were evaluated for their predictive performance using metrics such as the area under the receiver operating characteristic curve (AUC), accuracy, precision, sensitivity, and F1 score. A combined model incorporating radiomics, PET/CT metabolic parameters, and clinical variables was also constructed. In addition, the radiomics models were used to predict progression-free survival (PFS) and overall survival in the training and internal validation cohorts.\nRESULTS: The logistic regression model showed the best performance, with AUCs of 94.79, 87.37, and 85.06% in the training, internal, and external validation cohorts, respectively. The combined model achieved the highest AUCs of 0.968, 0.932, and 0.960 in the training, internal validation, and external validation cohorts, respectively. Significant differences in PFS between risk groups were observed, while overall survival differences were not statistically significant.\nCONCLUSION: The PET/CT-based radiomics model accurately predicts BRCA mutation status in HGSOC, potentially aiding in personalized treatment strategies.",
+        "journal": "Nuclear medicine communications",
+        "authors": [
+          "Chunli Liu",
+          "Fangmei Jiang",
+          "Juan Xu",
+          "Ruoyao Zou",
+          "Shuyong Liu",
+          "Wenrui Zhang",
+          "Xiang Wu",
+          "Xinyan Liu"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-22T00:00:00.000Z",
+        "activityAt": "2026-09-28T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42802904/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "18F-FDG PET/CT影像组学预测高级别浆液性卵巢癌BRCA突变",
+          "researchQuestion": "开发并验证基于18F-FDG PET/CT的影像组学模型，用于预测晚期高级别浆液性卵巢癌（HGSOC）患者的BRCA突变状态。",
+          "studyDesign": "回顾性研究。",
+          "populationAndSample": "124例接受术前PET/CT扫描和BRCA突变检测的HGSOC患者；队列按7:3比例分为训练集和内部验证集；另使用25例患者作为外部验证集以确认模型泛化能力。",
+          "methods": "从PET和CT图像提取影像组学特征，并使用逻辑回归、随机森林、支持向量机和决策树分类器构建预测模型；使用受试者工作特征曲线下面积（AUC）、准确率、精确率、敏感性和F1分数等指标评估预测性能；还构建了结合影像组学、PET/CT代谢参数和临床变量的联合模型；此外，使用影像组学模型在训练和内部验证队列中预测无进展生存期（PFS）和总生存期。",
+          "keyResults": "逻辑回归模型表现最佳，在训练、内部验证和外部验证队列中的AUC分别为94.79%、87.37%和85.06%。联合模型在训练、内部验证和外部验证队列中达到最高AUC，分别为0.968、0.932和0.960。观察到风险组之间PFS差异显著，而总生存期差异无统计学意义。",
+          "limitations": "摘要未报告明确的局限性；研究为回顾性设计，外部验证集25例；摘要未报告校准、临床效用或前瞻性验证。",
+          "clinicalInterpretation": "该PET/CT影像组学模型可较准确预测HGSOC的BRCA突变状态，可能有助于个体化治疗策略；但该研究为回顾性预测模型研究，摘要未证明其可改善临床结局。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "12bf2034e59e09bfe835a033e4a7caa6b117a5cc18550bca0f908acf61f8c950"
+      },
+      {
+        "id": "pmid:42802967",
+        "pmid": "42802967",
+        "doi": "10.26444/aaem/219468",
+        "title": "miR-483-5p promotes uterine leiomyoma progression by targeting TIMP2.",
+        "abstract": "INTRODUCTION AND OBJECTIVE: Uterine leiomyoma (UL) is a prevalent tumour of the female reproductive system which is poorly understood in terms of pathogenesis, and treatment options are limited. MicroRNAs (miRNAs) have been identified as being associated with tumorigenesis. The aim of the study is to elucide the function of miR-483-5p in promoting UL progression by targeting TIMP metallopeptidase inhibitor 2 (TIMP2) and its underlying molecular mechanisms.\nMATERIAL AND METHODS: The study included 340 patients with UL. The expression level of miR-483-5p was measured using quantitative real-time PCR (qPCR). Following knockdown of miR-483-5p in uterine leiomyoma cells (UtLMCs), cell proliferation, migration, and apoptosis were assessed using CCK-8, Transwell, and flow cytometry assays. Subsequently, bioinformatics analysis and luciferase reporter gene detection identified the target of miR-483-5p.\nRESULTS: Compared to the adjacent myometrium, miR-483-5p was upregulated in UL tissues. Experiments revealed that miR-483-5p expression levels were increased in UtLMCs. It was determined that TIMP2 is the direct target of miR-483-5p. Furthermore, miR-483-5p significantly promoted the proliferation and migration of UtLMCs, and inhibited their apoptosis by targeting TIMP2.\nCONCLUSIONS: Collectively, these findings reveal the molecular mechanism by which miR-483-5p negatively regulates TIMP2 to promote UL development, providing new insights for the targeted therapy of UL.",
+        "journal": "Annals of agricultural and environmental medicine : AAEM",
+        "authors": [
+          "Jing Hu",
+          "Junqiao Jiang",
+          "Liyuan Huang",
+          "Qiuxia Xu",
+          "Wenyu Pan",
+          "Yanhui Fang",
+          "Yating Chen"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-04-21T00:00:00.000Z",
+        "activityAt": "2026-09-28T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42802967/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "miR-483-5p通过靶向TIMP2促进子宫肌瘤进展",
+          "researchQuestion": "阐明miR-483-5p通过靶向TIMP金属肽酶抑制剂2（TIMP2）促进子宫肌瘤（UL）进展的功能及其潜在分子机制。",
+          "studyDesign": "分子机制研究，包含患者组织表达分析和细胞实验。",
+          "populationAndSample": "纳入340例UL患者；比较UL组织与邻近子宫肌层；在子宫肌瘤细胞（UtLMCs）中进行敲低实验。",
+          "methods": "使用定量实时PCR（qPCR）检测miR-483-5p表达水平；在UtLMCs中敲低miR-483-5p后，使用CCK-8、Transwell和流式细胞术检测细胞增殖、迁移和凋亡；随后通过生物信息学分析和荧光素酶报告基因检测确定miR-483-5p的靶点。",
+          "keyResults": "与邻近子宫肌层相比，miR-483-5p在UL组织中上调；实验显示miR-483-5p在UtLMCs中表达水平增加；确定TIMP2是miR-483-5p的直接靶点；此外，miR-483-5p通过靶向TIMP2显著促进UtLMCs增殖和迁移，并抑制其凋亡。",
+          "limitations": "摘要未报告明确的局限性；摘要未报告体内实验、样本代表性或临床终点验证。",
+          "clinicalInterpretation": "这些发现揭示了miR-483-5p负向调控TIMP2以促进UL发展的分子机制，为UL靶向治疗提供了新见解；属于机制研究，不能直接转化为临床治疗建议。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "41f0ef929879b5abffc23f68ae85f617b901e7e237ed1e1712690ff321f415d3"
+      }
+    ]
+  }
+}
