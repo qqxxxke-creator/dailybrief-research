@@ -1,0 +1,286 @@
+{
+  "hero_headline": "GLP-1受体激动剂妊娠期安全性研究未显示明确风险，但需谨慎",
+  "daily_overview": "指南层面，《Fertility & Sterility》实践指南发布伦理委员会意见，更新死后生殖伦理框架；国际动态方面，两项研究提示妊娠前后使用GLP-1受体激动剂未明显增加母体或围产不良结局，但报告者呼吁谨慎。今日无妇产科手术前沿与国内动态更新。",
+  "tech_briefs": [
+    {
+      "title": "Posthumous reproduction: an Ethics Committee opinion.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42810882/",
+      "source": "PubMed · Fertility & Sterility Practice Guidance",
+      "summary": "《Fertility & Sterility》实践指南伦理委员会意见，阐述死后使用配子组织或胚胎的伦理问题，替代2018年版。原文摘要未说明与既往建议的具体差异；该文件可能影响生殖中心对死后生殖的咨询与操作规范。",
+      "importance": 7
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [
+    {
+      "title": "No Clear Risks With GLP-1s Around Pregnancy, but Caution Urged",
+      "url": "https://www.medpagetoday.com/meetingcoverage/easd/123205",
+      "source": "MedPage Today",
+      "summary": "两项研究（含系统综述与meta分析）显示，妊娠前后使用GLP-1受体激动剂未明显增加不良母体或围产结局，但报告者呼吁谨慎。该结果可为孕前及孕期降糖治疗咨询提供参考，仍需更多证据。",
+      "importance": 8
+    }
+  ],
+  "editor_note": "GLP-1妊娠安全性数据仍需更多前瞻性证据；死后生殖伦理更新提示生殖中心应提前制定规范流程。",
+  "keywords": [
+    "死后生殖",
+    "伦理委员会",
+    "GLP-1受体激动剂",
+    "妊娠安全性",
+    "围产结局",
+    "生殖医学",
+    "指南更新"
+  ],
+  "research": {
+    "generatedAt": "2026-09-30T22:59:12.181Z",
+    "dataAsOf": "2026-09-30T22:59:12.181Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及美国农村地区的严重孕产妇发病率：科学现状、子宫内膜癌一线试验中的生活质量：一项系统综述、人乳头瘤病毒（HPV）与宫颈癌：关于流行病学、疫苗接种、筛查和分子进展的异质性证据的探索性系统综述。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42811642",
+        "pmid": "42811642",
+        "doi": "10.1111/jmwh.70198",
+        "title": "Severe Maternal Morbidity in the Rural United States: State of the Science.",
+        "abstract": "Severe maternal morbidity (SMM) is a pervasive adverse health outcome in the United States, affecting 50,000 to 60,000 pregnant individuals annually. Rural communities experience a convergence of factors that place them at higher risk of SMM. This state of the science review synthesizes current evidence regarding SMM in the rural United States, using an intersectional lens to critically evaluate the complex dynamics influencing SMM in these communities. We reviewed 32 studies published in the last 10 years, from which 3 broad themes emerged. First, rural residency is an independent risk factor for SMM, with risk increasing alongside greater geographic remoteness, even after adjusting for sociodemographic factors and medical comorbidities. Second, racial and ethnic disparities in SMM are wider in rural communities compared with their urban counterparts, indicating that geographic isolation and structural racism interact to create unique pressures on minoritized populations. Third, the pattern of SMM attributable to specific health risks and conditions diverges between rural and urban communities. Rural residents experience a greater proportion of SMM due to hypertensive disorders, chronic condition-related decompensation, severe hemorrhage, and mental health conditions. These findings highlight a significant measurement gap, wherein current national surveillance may systematically undercount SMM indicators most prevalent in rural communities. Future perinatal health research must validate rural metrics, use intrarural classifications to explore the nuance of place-based outcomes, and prioritize intersectional investigations viewing rurality as a structural driver with complex and nonuniform effects. Theory-guided research of rural communities is critically needed to build a comprehensive understanding of rural SMM, address persistent inequities, and create effective perinatal health interventions.",
+        "journal": "Journal of midwifery & women's health",
+        "authors": [
+          "Florence M Weierbach",
+          "Kathryn Lenhart Usedom",
+          "Pi-Ming Yeh"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-09-29T00:00:00.000Z",
+        "activityAt": "2026-09-30T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42811642/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "美国农村地区的严重孕产妇发病率：科学现状",
+          "researchQuestion": "美国农村地区严重孕产妇发病率（SMM）的当前证据是什么？",
+          "studyDesign": "科学现状综述（state of the science review），纳入并综合过去10年发表的32项研究。",
+          "populationAndSample": "美国农村社区；SMM每年影响50,000至60,000名孕妇；综述纳入32项研究。",
+          "methods": "采用交叉性（intersectional）视角综合当前证据，批判性评估影响农村社区SMM的复杂动态；综述过去10年发表的32项研究并归纳主题。",
+          "keyResults": "归纳出3个主题：第一，农村居住是SMM的独立危险因素，且随地理偏远程度增加风险增加，即使在调整社会人口学因素和医学合并症后仍如此；第二，与城市相比，农村社区的SMM种族和族裔差异更大，提示地理隔离与结构性种族主义相互作用，对少数族裔人群造成独特压力；第三，农村与城市社区中特定健康风险和状况导致的SMM模式不同，农村居民因高血压疾病、慢性病相关失代偿、严重出血和心理健康状况导致的SMM比例更高。摘要还指出存在显著测量缺口，当前国家监测可能系统性低估农村社区最流行的SMM指标。",
+          "limitations": "摘要未报告传统研究局限性；但指出当前国家监测可能系统性低估农村社区最流行的SMM指标，并强调需验证农村指标、使用农村内部（intrarural）分类并优先开展交叉性研究。",
+          "clinicalInterpretation": "该综述提示农村SMM风险与地理和结构性因素相关，需改进农村测量指标并开展理论指导研究；摘要未提供具体临床干预方案或指南推荐。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "2e9547e1bf3e58bf00e6cab5771679e91a53dea3dd8c670004c05d0850759e2f"
+      },
+      {
+        "id": "pmid:42811691",
+        "pmid": "42811691",
+        "doi": "10.1177/03008916261468178",
+        "title": "Quality of life in first-line trials for endometrial cancer: A systematic review.",
+        "abstract": "OBJECTIVE: As treatment strategies evolve in advanced or metastatic endometrial cancer (EC), quality of life (QoL) has become a key parameter in evaluating therapeutic value. This systematic review summarizes QoL outcomes from pivotal trials that have shaped clinical practice in advanced EC.\nMETHODS: Data from phase II-III randomized trials of advanced or recurrent EC reporting patient-reported outcomes (PROs) were reviewed. Eligible studies assessed health-related QoL using validated instruments. The review focused on trials that met their primary endpoint and reported QoL or PROs in peer-reviewed publications and/or congress presentations. Data extraction and appraisal were conducted independently by the authors, and findings were synthesized narratively.\nRESULTS: In the RUBY trial, dostarlimab plus chemotherapy prolonged time to deterioration and delayed permanent QoL decline in mismatch repair-deficient (dMMR)/microsatellite instability-high (MSI-H) patients. NRG-018 explored QoL in the mismatch repair-proficient (pMMR) cohort, with later planned time points still pending full publication. AtTEnd trial reported no clinically meaningful deterioration in global QoL with atezolizumab plus chemotherapy. In DUO-E, QoL was maintained with durvalumab-based strategies, with clinically meaningful physical functioning gains in the dMMR subgroup. In KEYNOTE-775, global QoL was broadly comparable between lenvatinib plus pembrolizumab and chemotherapy, although differences emerged in selected symptom domains.\nCONCLUSION: QoL provides a direct, patient-centered assessment of disease burden and treatment impact, complementing efficacy endpoints. However, QoL analyses remain inconsistently reported, delayed, and difficult to compare. Strengthening the integration and standardized reporting of PROs is essential to better define treatment value in advanced EC.",
+        "journal": "Tumori",
+        "authors": [
+          "Alberto Farolfi",
+          "Antonino Musolino",
+          "Chiara Casadei",
+          "Giorgio Valabrega",
+          "Massimo Di Maio",
+          "Roberta Danese",
+          "Simona Butticè",
+          "Valentina Tuninetti"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-09-29T00:00:00.000Z",
+        "activityAt": "2026-09-30T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42811691/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "子宫内膜癌一线试验中的生活质量：一项系统综述",
+          "researchQuestion": "在晚期或转移性子宫内膜癌（EC）的一线治疗试验中，生活质量（QoL）结局如何？",
+          "studyDesign": "系统综述；纳入报告患者报告结局（PROs）的晚期或复发性EC的II-III期随机试验。",
+          "populationAndSample": "晚期或复发性子宫内膜癌患者；纳入试验包括RUBY、NRG-018、AtTEnd、DUO-E、KEYNOTE-775；摘要未报告纳入试验总数。",
+          "methods": "回顾报告PROs的II-III期随机试验；合格研究使用经过验证的工具评估健康相关生活质量；聚焦达到主要终点并在同行评议出版物和/或会议报告中报告QoL或PROs的试验；由作者独立提取和评价数据，采用叙述性综合。",
+          "keyResults": "RUBY试验中，dostarlimab联合化疗在错配修复缺陷（dMMR）/微卫星不稳定高（MSI-H）患者中延长至恶化时间并延迟永久性QoL下降。NRG-018在错配修复正常（pMMR）队列中探索QoL，后续计划时间点尚待全文发表。AtTEnd试验报告阿替利珠单抗联合化疗未出现全球QoL的临床意义恶化。DUO-E中，基于度伐利尤单抗的策略维持了QoL，dMMR亚组身体功能有临床意义改善。KEYNOTE-775中，仑伐替尼联合帕博利珠单抗与化疗的全球QoL大体相当，但在部分症状领域出现差异。",
+          "limitations": "QoL分析报告不一致、延迟且难以比较；NRG-018后续计划时间点尚待全文发表；摘要未报告其他局限性。",
+          "clinicalInterpretation": "QoL可补充疗效终点，提供以患者为中心的疾病负担和治疗影响评估；需加强PROs整合和标准化报告以更好定义晚期EC治疗价值；摘要未提供具体临床指南推荐。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "fc13d2acc8e02e5f1856ba83a874e7b4e4d4f3ef7f0f8a127d4fb34173c5bf94"
+      },
+      {
+        "id": "pmid:42811780",
+        "pmid": "42811780",
+        "doi": "10.1080/07357907.2026.2740708",
+        "title": "Human Papillomavirus (HPV) and Cervical Cancer: An Exploratory Systematic Review of Heterogeneous Evidence on Epidemiology, Vaccination, Screening, and Molecular Advances.",
+        "abstract": "This systematic review evaluated evidence on HPV epidemiology, vaccination, screening, and factors associated with cervical cancer and other HPV-related malignancies. Fourteen heterogeneous studies published between 2010 and 2025 were included. HPV16 remained the most frequently reported genotype, while several studies indicated increasing prevalence of other high-risk genotypes, supporting the potential value of the 9-valent HPV vaccine. Population-based evidence demonstrated reduced cervical cancer incidence among women vaccinated before adolescence. Limited studies also investigated HPV persistence, viral load, microbiome alterations, and vaccine awareness. Considering the small number and diversity of studies, findings should be interpreted cautiously and considered exploratory.",
+        "journal": "Cancer investigation",
+        "authors": [
+          "Maedeh Seifollahi Marbini",
+          "Seyedeh Shahed Shoarishoar"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-09-29T00:00:00.000Z",
+        "activityAt": "2026-09-30T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42811780/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "人乳头瘤病毒（HPV）与宫颈癌：关于流行病学、疫苗接种、筛查和分子进展的异质性证据的探索性系统综述",
+          "researchQuestion": "HPV流行病学、疫苗接种、筛查以及宫颈癌和其他HPV相关恶性肿瘤相关因素的证据是什么？",
+          "studyDesign": "探索性系统综述。",
+          "populationAndSample": "纳入2010年至2025年间发表的14项异质性研究；摘要未报告研究人群总数或具体特征。",
+          "methods": "系统综述，评估HPV流行病学、疫苗接种、筛查以及与宫颈癌和其他HPV相关恶性肿瘤相关因素的证据。",
+          "keyResults": "HPV16仍是最常报告的基因型；若干研究提示其他高危基因型患病率上升，支持9价HPV疫苗的潜在价值。基于人群的证据显示，在青春期前接种疫苗的女性中宫颈癌发病率降低。有限的研究还探讨了HPV持续感染、病毒载量、微生物组改变和疫苗认知。",
+          "limitations": "研究数量少且多样，为探索性，结果应谨慎解读。",
+          "clinicalInterpretation": "结果支持9价HPV疫苗的潜在价值，并提示青春期前接种与宫颈癌发病率降低相关；但证据异质性大，摘要未提供具体筛查或临床实践指南推荐。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "8218c4c21050423662a61957bd8f1910258cadd5a8f0f10c0f3c03014d18b291"
+      },
+      {
+        "id": "pmid:42811844",
+        "pmid": "42811844",
+        "title": "Prediction of Adverse Maternal Outcome In Women With Preeclampsia By Full PIERS Model.",
+        "abstract": "Preeclampsia is a pregnancy-specific disorder and one of the leading causes of maternal and perinatal morbidity and mortality in Bangladesh. Identification of women at increased risk of developing severe complications from preeclampsia is important to manage timely in appropriate settings. A fullPIERS model is a new tool that could allow real-time maternal risk stratification in preeclampsia to aid caregivers and also guide decisions around triage, transport and treatment. This prospective cohort study was conducted in the Department of Fetomaternal Medicine, Bangladesh Medical University (BMU), Dhaka, Bangladesh to estimate the predictive value of fullPIERS model for adverse maternal outcomes in preeclampsia. A total of 103 admitted women with preeclampsia between 20-40 weeks of gestation were enrolled fulfilling the selection criteria. Immediately after admission fullPIERS scoring was done and adverse maternal outcome observed within 48 hours and 7 days of admission was documented. The fullPIERS score ≥30.0% (according to the NICE guideline) was considered the baseline cut-off score. Among all respondents, 11 patients were observed with high score (≥30.0%) group six developed adverse outcomes and rest of 92 low score (<30.0%) group three developed adverse maternal outcome within 7 days. Patients with a high score had 16.727 times more chance to develop adverse maternal outcomes compared to those with the score <30% (p= <0.001; RR=16.727; 95% CI=4.856 to 57.621). The sensitivity, specificity, positive predictive value, negative predictive value and accuracy rate at fullPIERS score ≥30.0% was found 66.67%, 93.62%, 50.01%, 96.70% and 91.26%, respectively. In this study the cut-off value of risk score 12.0% in fullPIERS model was determined through ROC curve for the studied population. Among the respondents who had fullPIERS score ≥12.0% had 19.03 times more risk to develop adverse maternal outcomes within 7 days (p=0.001; RR=19.031; 95% CI=4.339-83.460). Hence, reduced cut-off value of fullPIERS score to 12.0% strengthens the predictive values of the model for detection of adverse maternal outcomes with reported the sensitivity, specificity, positive predictive value, negative predictive value and accuracy rate of 77.78%, 90.43%, 43.63%, 97.71% and 89.33%, respectively. The fullPIERS model is a useful tool to identifying patients who are at risk of greater complications and need for specialized care, thus can reduce maternal morbidity and mortality relating to preeclampsia.",
+        "journal": "Mymensingh medical journal : MMJ",
+        "authors": [
+          "F Sultana",
+          "J Ferdaus",
+          "M E Karim",
+          "M Saha",
+          "M Tabassum",
+          "N Akhtar",
+          "N S Nahar",
+          "R Renu",
+          "T Ferdoues"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-01T00:00:00.000Z",
+        "activityAt": "2026-09-30T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42811844/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "Full PIERS模型对子痫前期女性不良母体结局的预测",
+          "researchQuestion": "fullPIERS模型对子痫前期患者不良母体结局的预测价值如何？",
+          "studyDesign": "前瞻性队列研究。",
+          "populationAndSample": "在孟加拉国达卡Bangladesh Medical University（BMU）胎儿医学部纳入的103名妊娠20-40周的子痫前期住院女性。",
+          "methods": "入院后立即进行fullPIERS评分，记录入院后48小时和7天内的不良母体结局。以fullPIERS评分≥30.0%（根据NICE指南）为基线截断值；另通过ROC曲线确定研究人群中的风险评分截断值12.0%。",
+          "keyResults": "高评分组（≥30.0%）11例中6例发生不良结局；低评分组（<30.0%）92例中3例在7天内发生不良母体结局。高评分者发生不良母体结局的机会是评分<30%者的16.727倍（p=<0.001；RR=16.727；95% CI=4.856至57.621）。评分≥30.0%时，敏感性66.67%、特异性93.62%、阳性预测值50.01%、阴性预测值96.70%、准确率91.26%。本研究中通过ROC曲线确定fullPIERS模型风险评分截断值为12.0%。评分≥12.0%者7天内发生不良母体结局的风险是<12.0%者的19.03倍（p=0.001；RR=19.031；95% CI=4.339-83.460）。将截断值降至12.0%增强了模型预测价值，敏感性77.78%、特异性90.43%、阳性预测值43.63%、阴性预测值97.71%、准确率89.33%。",
+          "limitations": "摘要未报告研究局限性；截断值12.0%为在本研究人群中通过ROC曲线确定，摘要未报告外部验证。",
+          "clinicalInterpretation": "fullPIERS模型可能有助于识别有较高并发症风险、需要专科护理的子痫前期患者；本研究提示降低截断值至12.0%可提高敏感性，但摘要未提供指南推荐或外部验证结果。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "d7e7a8e029286d6fd7ae4134cae3f95b32bc97ae1cc4d7133df94b5557b5e327"
+      },
+      {
+        "id": "pmid:42811862",
+        "pmid": "42811862",
+        "title": "Risk of Infertility Due to Vitamin D Deficiency among Women with Polycystic Ovarian Syndrome.",
+        "abstract": "Polycystic ovary syndrome (PCOS) is a common endocrine disorder and a leading cause of infertility in reproductive-aged women. Emerging evidence suggests that vitamin D deficiency may exacerbate PCOS-related reproductive and metabolic disturbances. This study aimed to assess the prevalence of vitamin D deficiency among infertile women with PCOS and explore its association with subfertility. This cross-sectional study was conducted at the Department of Infertility, Bangladesh Medical University (BMU), from November 2019 to April 2025. Total 155 infertile women aged 18-40 years; diagnosed with PCOS using the revised Rotterdam criteria (2003) were enrolled. Participants with other known causes of infertility were excluded. Data on demographic variables, clinical features, hormonal profile, glucose metabolism and serum 25(OH) vitamin D levels collected and analyzed. The mean age of participants was 28.34±3.5 years, with a mean BMI of 23.46±3.2 kg/m². Primary subfertility was observed in 69.68% (n=108) of cases. Vitamin D deficiency (<20 ng/ml) was present in 47.10% (n=73) and 40.65% (n=63) had insufficient levels (20-29 ng/ml); only 12.26% (n=19) had sufficient vitamin D (>29 ng/ml). The mean HOMA-IR was 1.88, indicating prevalent insulin resistance. Most participants were normoglycemic with a mean HbA1c of 5.42%. A high prevalence of vitamin D deficiency and insufficiency observed among infertile women with PCOS, particularly among those with primary subfertility. Vitamin D status may represent a modifiable factor in the management of PCOS-related infertility.",
+        "journal": "Mymensingh medical journal : MMJ",
+        "authors": [
+          "B Chakma",
+          "F Huq",
+          "F Noor",
+          "H H Pervin",
+          "K F Begum",
+          "K Fatema",
+          "N Sultana"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-01T00:00:00.000Z",
+        "activityAt": "2026-09-30T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42811862/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "多囊卵巢综合征女性中维生素D缺乏导致不孕的风险",
+          "researchQuestion": "不孕合并多囊卵巢综合征（PCOS）女性中维生素D缺乏的患病率及其与生育力低下（subfertility）的关联如何？",
+          "studyDesign": "横断面研究。",
+          "populationAndSample": "2019年11月至2025年4月在孟加拉国达卡Bangladesh Medical University（BMU）不孕科纳入的155名18-40岁、根据修订Rotterdam标准（2003）诊断PCOS的不孕女性；排除其他已知不孕原因者。",
+          "methods": "收集人口学变量、临床特征、激素谱、糖代谢和血清25(OH)维生素D水平并分析。",
+          "keyResults": "平均年龄28.34±3.5岁，平均BMI 23.46±3.2 kg/m²。原发性生育力低下占69.68%（n=108）。维生素D缺乏（<20 ng/ml）占47.10%（n=73），不足（20-29 ng/ml）占40.65%（n=63）；仅12.26%（n=19）维生素D充足（>29 ng/ml）。平均HOMA-IR为1.88，提示胰岛素抵抗普遍。多数参与者血糖正常，平均HbA1c为5.42%。在不孕合并PCOS女性中观察到高比例的维生素D缺乏和不足，尤其在原发性生育力低下者中。",
+          "limitations": "横断面设计不能推断因果；摘要未报告维生素D状态与生育力低下关联的效应量或多变量校正分析；摘要未报告其他局限性。",
+          "clinicalInterpretation": "维生素D状态可能是PCOS相关不孕管理中的可改变因素；但研究为横断面，摘要未提供补充维生素D干预效果或临床指南推荐。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "4e8e21d67a6e3b45520a5578955e4b35778bd3ace99162e723cc97737e95be3b"
+      }
+    ]
+  }
+}

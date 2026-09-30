@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-01",
+  "articles": [
+    {
+      "sourceId": "pubmed-asrm-guidance",
+      "title": "Posthumous reproduction: an Ethics Committee opinion.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42810882/",
+      "excerpt": "This Ethics Committee report outlines the ethical issues around the posthumous use of gametic tissue or embryos. This document replaces the last version of this document, published in 2018, titled \"Posthumous retrieval and use of gametes or embryos: an Ethics Committee opinion\" (Fertil Steril. 2018;110:45-9). · Fertility and sterility · Journal Article · DOI: 10.1016/j.fertnstert.2026.08.1130",
+      "publishedAt": "2026-09-29T00:00:00.000Z",
+      "category": "tech",
+      "source": "PubMed · Fertility & Sterility Practice Guidance",
+      "summary": "美国生殖医学学会伦理委员会意见：讨论死后使用配子组织或胚胎的伦理问题，并替代2018年同名文件。",
+      "reviewStatus": "accepted",
+      "lowPriority": false
+    },
+    {
+      "sourceId": "medpage-today-headlines",
+      "title": "No Clear Risks With GLP-1s Around Pregnancy, but Caution Urged",
+      "url": "https://www.medpagetoday.com/meetingcoverage/easd/123205",
+      "excerpt": "(MedPage Today) -- Use of GLP-1 receptor agonists around pregnancy did not appear to increase adverse maternal or perinatal outcomes, according to two studies. In a systematic review and meta-analysis of 10 studies representing over 2.1 million...",
+      "publishedAt": "2026-09-30T19:28:03.000Z",
+      "category": "politics",
+      "source": "MedPage Today",
+      "summary": "EASD会议报道：两项研究（其中包含10项研究、超210万人的系统综述和meta分析）显示，孕期使用GLP-1受体激动剂未明显增加不良母体或围产结局，但建议谨慎。",
+      "reviewStatus": "accepted",
+      "lowPriority": false
+    }
+  ]
+}
