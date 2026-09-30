@@ -1,0 +1,280 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-09-30T00:19:09.448Z",
+    "dataAsOf": "2026-09-30T00:19:09.448Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及妊娠、分娩和产后期间的导乐支持：系统综述与Meta分析、HPV相关与HPV非依赖型宫颈癌比较遗传突变的新见解：系统综述、瑞马唑仑与七氟烷用于腹腔镜妇科肿瘤手术麻醉维持及术后恶心呕吐：随机对照试验。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42809814",
+        "pmid": "42809814",
+        "doi": "10.1097/aog.0000000000006395",
+        "title": "Doula Support During Pregnancy, Childbirth, and Postpartum: A Systematic Review and Meta-Analysis.",
+        "abstract": "OBJECTIVE: To systematically review the evidence on doula support in pregnancy, birth, and postpartum.\nDATA SOURCES: PubMed, Cochrane Library (which includes clinical trials), CINAHL, PsycInfo.\nMETHODS OF STUDY SELECTION: Eligible studies were English-language randomized controlled trials (RCTs) and nonrandomized studies of interventions (NRSIs) based in the United States that evaluated doula support compared with standard care. Included studies reported maternal, infant, and partner outcomes from database inception through November 18, 2025. We used GRADE (Grading of Recommendations Assessment, Development and Evaluation) to assess the certainty of evidence.\nTABULATION, INTEGRATION, AND RESULTS: Twelve RCTs and 18 NRSIs reported on doula support compared with standard maternity care. One study had low risk of bias (ROB) (one RCT), 10 had moderate ROB (three RCTs, seven NRSIs), and 19 had high ROB (eight RCTs, 11 NRSIs). Doula support is likely to be associated with lower rates of preterm birth and cesarean delivery, improved birth experiences, and increased likelihood of postpartum visit attendance (moderate certainty of evidence). Doula support may be associated with improved prenatal mood, spontaneous vaginal birth, vaginal birth after cesarean, initiation of breastfeeding, childbirth education attendance, respectful care, satisfaction with care, self-efficacy, parenting confidence, postpartum adjustment to parenthood, and reduced epidural anesthesia use, length of labor, and infant mortality (low certainty of evidence). It may not be associated with reduced rates of hypertensive disorders of pregnancy, maternal readmissions, and neonatal intensive care admissions (low certainty of evidence). Among studies composed entirely of people at risk of disparities (specifically, those arising from race, carceral settings, low income, and having public insurance), four of five reported at least some benefit associated with doula support. There was insufficient information available on the effects of varying intensity or types of doula support. Heterogeneity was noted across many outcomes.\nCONCLUSION: Research suggests that doula support is associated with some improved maternal outcomes, although many studies were heterogeneous and rated as having high ROB. Research on type (including independent doulas), intensity, and timing of doula support could help to clarify settings in which doula care improves maternal and child outcomes and reduces health disparities.\nSYSTEMATIC REVIEW REGISTRATION: https://doi.org/10.17605/OSF.IO/P795C.",
+        "journal": "Obstetrics and gynecology",
+        "authors": [
+          "Jennifer Cook Middleton",
+          "Jessica Vaughan",
+          "LaToshia Rouse",
+          "Meera Viswanathan",
+          "Nila A Sathe",
+          "Rachel Peragallo Urrutia",
+          "Shaunette Howard",
+          "Shivani Reddy"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-13T00:00:00.000Z",
+        "activityAt": "2026-09-29T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42809814/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "妊娠、分娩和产后期间的导乐支持：系统综述与Meta分析",
+          "researchQuestion": "系统综述妊娠、分娩和产后期间导乐支持的证据。",
+          "studyDesign": "系统综述与Meta分析；纳入随机对照试验（RCT）和非随机干预研究（NRSI），并使用GRADE评估证据确定性。",
+          "populationAndSample": "美国开展、以英文发表的RCT和NRSI，评估导乐支持与标准产科照护比较，报告孕产妇、婴儿和伴侣结局，检索从数据库建库至2025年11月18日。共12项RCT和18项NRSI；总样本量摘要未报告。",
+          "methods": "检索PubMed、Cochrane Library（包含临床试验）、CINAHL、PsycInfo。纳入标准为美国基于的英文RCT和NRSI，评估导乐支持与标准照护比较。使用GRADE评估证据确定性。",
+          "keyResults": "12项RCT和18项NRSI报告了导乐支持与标准产科照护的比较。1项研究为低偏倚风险（1项RCT），10项为中等偏倚风险（3项RCT、7项NRSI），19项为高偏倚风险（8项RCT、11项NRSI）。导乐支持可能（likely）与较低早产率和剖宫产率、改善分娩体验、增加产后访视出席可能性相关（中等确定性证据）。导乐支持可能（may）与改善产前情绪、自然阴道分娩、剖宫产后阴道分娩、开始母乳喂养、参加分娩教育、尊重照护、照护满意度、自我效能、育儿信心、产后适应父母角色，以及减少硬膜外麻醉使用、产程长度和婴儿死亡率相关（低确定性证据）。可能不与妊娠期高血压疾病、孕产妇再入院和新生儿重症监护入院率降低相关（低确定性证据）。在完全由差异风险人群（具体为种族、监禁环境、低收入和公共保险导致的差异）组成的研究中，5项中有4项报告至少有一些与导乐支持相关的获益。关于不同强度或类型导乐支持效果的信息不足。许多结局存在异质性。",
+          "limitations": "许多研究存在异质性，且被评定为高偏倚风险；关于导乐支持类型、强度和时机的信息不足；证据确定性从低到中等不等。",
+          "clinicalInterpretation": "该系统综述提示导乐支持与部分孕产妇结局改善相关，但纳入研究异质性大且多数偏倚风险高，证据确定性不一；结果不构成临床指南或指令。作者提出需研究导乐支持类型（包括独立导乐）、强度和时机，以明确哪些场景可改善母婴结局并减少健康差异。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "3ce4b0249a84b7663624db5ff5adea91b3f628cf74079311b2f2ed8bea709143"
+      },
+      {
+        "id": "pmid:42808379",
+        "pmid": "42808379",
+        "doi": "10.31557/apjcp.2026.27.9.3139",
+        "title": "Emerging Insights into Comparative Genetic Mutations in HPV-Associated and HPV-Independent Cervical Cancer: A Systematic Review.",
+        "abstract": "OBJECTIVE: Cervical cancer remains a major global health burden and is predominantly associated with human papillomavirus (HPV) infection. However, a subset of tumors develops independently of HPV, and their molecular characteristics are not fully understood. This study aimed to synthesize and compare the frequency of somatic mutations across key oncogenic pathways, p53, PI3K-Akt-mTOR, AMPK, and Ras-Raf-MAPK, in HPV-associated and HPV-independent cervical cancers.\nMETHODS: A systematic review was conducted following PRISMA guidelines and registered in PROSPERO (CRD420251044316). Comprehensive searches were performed in PubMed, EMBASE, LILACS, Web of Science, Scopus, CINAHL, and Cochrane Central from January 2016 to March 2025 using controlled descriptors related to cervical cancer, somatic mutations, and HPV status. Eligible studies included observational designs reporting cervical cancers with molecular HPV testing and somatic mutation profiling. Data extraction was conducted independently by multiple reviewers and validated by a senior author. Study quality was assessed using STROBE criteria. Extracted variables encompassed sample characteristics, HPV status, sequencing method, genes assessed, and mutation frequencies.\nRESULTS: Eleven studies comprising 3,479 cervical cancer samples met the inclusion criteria, including 468 (13.4%) HPV-independent tumors. HPV-independent cancers demonstrated higher frequencies of TP53 and CDKN2A mutations, reaching up to 50% and 37.5%, respectively. Alterations in the PI3K-Akt-mTOR pathway, particularly PIK3CA and PTEN, showed heterogeneous patterns, with some studies reporting higher prevalence in HPV-independent tumors and others in HPV-associated tumors. Mutations in ERBB3, NTRK1, ITGB3, TSC2, and TERT were more frequent in HPV-associated cancers, while NTRK3 and RICTOR alterations appeared more common in HPV-independent tumors, although these findings were generally reported in isolated studies. Inconsistencies were also observed for STK11 (AMPK pathway) and KRAS (Ras-Raf-MAPK pathway). Considerable methodological variability limited cross-study comparability.\nCONCLUSIONS: HPV-independent cervical cancers may represent a distinct molecular subgroup, particularly regarding the p53 pathway; however, study heterogeneity limits firm conclusions. Further standardized genomic studies are needed.",
+        "journal": "Asian Pacific journal of cancer prevention : APJCP",
+        "authors": [
+          "Ana Beatriz Camillo Santos",
+          "Lucimara Rodrigues Carobeli",
+          "Lyvia Eloiza De Freitas Meirelles",
+          "Marcia Edilaine Lopes Consolaro",
+          "Maria Vitória Felipe De Souza",
+          "Vânia Ramos Sela Da Silva"
+        ],
+        "publicationTypes": [
+          "Comparative Study",
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-09-01T00:00:00.000Z",
+        "activityAt": "2026-09-29T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42808379/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 11.25,
+          "recency": 10,
+          "total": 96.25,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "HPV相关与HPV非依赖型宫颈癌比较遗传突变的新见解：系统综述",
+          "researchQuestion": "综合并比较HPV相关和HPV非依赖型宫颈癌中关键致癌通路p53、PI3K-Akt-mTOR、AMPK和Ras-Raf-MAPK的体细胞突变频率。",
+          "studyDesign": "系统综述，遵循PRISMA指南并在PROSPERO注册（CRD420251044316）；纳入观察性设计，报告有分子HPV检测和体细胞突变谱分析的宫颈癌研究；使用STROBE标准评估研究质量。",
+          "populationAndSample": "11项研究，共3,479例宫颈癌样本，其中468例（13.4%）为HPV非依赖型肿瘤。",
+          "methods": "检索PubMed、EMBASE、LILACS、Web of Science、Scopus、CINAHL和Cochrane Central，时间范围为2016年1月至2025年3月，使用与宫颈癌、体细胞突变和HPV状态相关的受控描述词。由多名评价者独立提取数据并由资深作者验证。提取变量包括样本特征、HPV状态、测序方法、评估基因和突变频率。",
+          "keyResults": "HPV非依赖型癌中TP53和CDKN2A突变频率更高，分别可达50%和37.5%。PI3K-Akt-mTOR通路改变，尤其是PIK3CA和PTEN，呈异质性模式：一些研究报道在HPV非依赖型肿瘤中更常见，另一些在HPV相关肿瘤中更常见。ERBB3、NTRK1、ITGB3、TSC2和TERT突变在HPV相关癌中更频繁，而NTRK3和RICTOR改变在HPV非依赖型肿瘤中似乎更常见，但这些发现通常来自孤立研究。STK11（AMPK通路）和KRAS（Ras-Raf-MAPK通路）也存在不一致。显著的方法学变异性限制了跨研究可比性。",
+          "limitations": "研究异质性限制确定结论；方法学变异性较大，部分发现来自孤立研究，跨研究可比性有限；需进一步标准化基因组研究。",
+          "clinicalInterpretation": "HPV非依赖型宫颈癌可能代表一个独特的分子亚组，尤其在p53通路方面；但研究异质性限制确定结论，需进一步标准化基因组研究。该结果不构成临床指南或治疗建议。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "46a394e047d6ebf373ecfb39c300b0bd6b57d77bb807a3c88a84effb1a0f096c"
+      },
+      {
+        "id": "pmid:42806304",
+        "pmid": "42806304",
+        "doi": "10.1186/s12871-026-04251-7",
+        "title": "Remimazolam versus sevoflurane for maintenance of anesthesia and postoperative nausea and vomiting in laparoscopic gynecologic oncology surgery: a randomized controlled trial.",
+        "abstract": "BACKGROUND: Postoperative nausea and vomiting (PONV) remains a frequent complication following laparoscopic gynecologic surgery, particularly in female patients with multiple established risk factors receiving volatile anesthetics. Remimazolam, a short-acting benzodiazepine, is an alternative intravenous anesthetic, but its effect on PONV compared with sevoflurane remains unclear.\nMETHODS: In this single-center, prospective randomized controlled trial, 116 patients were enrolled and 113 were included in the final analysis (sevoflurane n = 56, remimazolam n = 57). Patients were randomly assigned to receive either sevoflurane-based or remimazolam-based maintenance of anesthesia. The primary outcome was the incidence of PONV within 24 h after surgery. Exploratory analyses were performed to evaluate the associations between PONV and perioperative factors, including intraoperative hemodynamic variables, fluid administration, and opioid consumption.\nRESULTS: The incidence of PONV within 24 h was lower in the remimazolam group than in the sevoflurane group (21.1% vs. 44.6%, P = 0.013). Remimazolam was associated with reduced PONV incidence compared with sevoflurane. Although remimazolam was associated with higher intraoperative mean arterial pressure (MAP), exploratory analyses did not identify a significant association between intraoperative MAP and PONV. The observed absolute reduction in PONV incidence was 23.6%, which was slightly lower than the predefined effect size used for sample size estimation.\nCONCLUSIONS: Remimazolam-based anesthesia was associated with a lower incidence of PONV compared with sevoflurane in patients undergoing laparoscopic gynecologic oncology surgery. Although statistically significant, the observed reduction was slightly smaller than the effect size predefined during sample size estimation, and its clinical relevance requires further evaluation.\nTRIAL REGISTRATION: ChiCTR2600128362. (Retrospectively registered). The initial registration date was 07/17/2026.",
+        "journal": "BMC anesthesiology",
+        "authors": [
+          "Chaopeng Ou",
+          "Hongyu Wei",
+          "Jingdun Xie",
+          "Xuanwei Huang",
+          "Yingjun Zhang"
+        ],
+        "publicationTypes": [
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-09-21T00:00:00.000Z",
+        "activityAt": "2026-09-29T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42806304/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 7.5,
+          "recency": 10,
+          "total": 91.25,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "瑞马唑仑与七氟烷用于腹腔镜妇科肿瘤手术麻醉维持及术后恶心呕吐：随机对照试验",
+          "researchQuestion": "与七氟烷相比，瑞马唑仑用于麻醉维持对腹腔镜妇科肿瘤手术患者术后恶心呕吐（PONV）的影响。",
+          "studyDesign": "单中心、前瞻性随机对照试验。",
+          "populationAndSample": "共入组116例患者，113例纳入最终分析（七氟烷组n=56，瑞马唑仑组n=57）。患者接受腹腔镜妇科肿瘤手术。",
+          "methods": "患者被随机分配接受七氟烷基础或瑞马唑仑基础的麻醉维持。主要结局为术后24小时内PONV发生率。进行探索性分析，评估PONV与围术期因素之间的关联，包括术中血流动力学变量、液体管理和阿片类药物消耗。试验注册号ChiCTR2600128362，回顾性注册，初始注册日期为2026年07月17日。",
+          "keyResults": "瑞马唑仑组24小时内PONV发生率低于七氟烷组（21.1% vs. 44.6%，P = 0.013）。瑞马唑仑与PONV发生率降低相关。尽管瑞马唑仑与更高的术中平均动脉压（MAP）相关，探索性分析未发现术中MAP与PONV之间存在显著关联。观察到的PONV绝对降幅为23.6%，略低于样本量估算所用的预设效应量。",
+          "limitations": "单中心研究；观察到的降幅略小于样本量估算中的预设效应量；试验为回顾性注册；作者指出临床相关性仍需进一步评估。",
+          "clinicalInterpretation": "在这项单中心随机对照试验中，瑞马唑仑麻醉与腹腔镜妇科肿瘤手术患者PONV发生率降低相关；但降幅略小于预设效应量，且临床相关性仍需进一步评估。该结果不构成临床指南或常规指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "7c548a236f6a7d99be1e7138555f68280c32abdb3c57fc62f036a5b71d02141a"
+      },
+      {
+        "id": "pmid:42805980",
+        "pmid": "42805980",
+        "doi": "10.1080/14767058.2026.2738315",
+        "title": "Repeat administration of magnesium for an exacerbation of postpartum preeclampsia: a national survey.",
+        "abstract": "OBJECTIVE: Magnesium (Mg) infusion is the first-line agent for seizure prophylaxis in patients with preeclampsia with severe features (PESF). However, no guidance exists regarding utility of an additional course of Mg for patients with an exacerbation of PESF (defined as an acute worsening of clinical status) who already completed an initial course of Mg. We aimed to determine the national trend among academic institutions for administration of a second course of Mg in patients with an exacerbation of PESF.\nSTUDY DESIGN: A REDCap survey, developed to identify institutional protocols and anticipated response to clinical scenarios related to Mg administration, was sent to Maternal-Fetal Medicine program directors (or surrogate if no response) using publicly available contact information. Participants received a $10 incentive.\nRESULTS: Responses were received from 66 of 95 institutions (69%), representing all 12 ACOG districts. A standard institutional protocol for postpartum Mg was reported by 70% ( N = 46) of respondents, with 85% ( N = 56) routinely administering Mg for 24 h. Overall, 68% ( N = 45) would give a second course of Mg for an exacerbation of PESF, with no geographic variation ( p = 0.969). When faced with specific clinical scenarios, most would administer a second course of Mg if the patient had a headache ( N = 52, 79%) or hypertensive urgency with systolic blood pressure (BP) ≥180 mmHg and/or diastolic BP ≥120 mmHg ( N = 35, 53%). The decision for a second course of Mg was not influenced by worsening laboratory values, gestational age at delivery, latency from delivery, or maternal demographics.\nCONCLUSION: Although there are no standardized guidelines for seizure prophylaxis in the setting of postpartum exacerbations of PESF, this national survey suggests that most academic programs favor giving a second course of Mg, especially in patients with headache or severe BP. A randomized trial comparing outcomes in patients who did or did not receive an additional course of Mg is warranted.",
+        "journal": "The journal of maternal-fetal & neonatal medicine : the official journal of the European Association of Perinatal Medicine, the Federation of Asia and Oceania Perinatal Societies, the International Society of Perinatal Obstetricians",
+        "authors": [
+          "Gabriela Dellapiana",
+          "Keona Thompson",
+          "Kimberly D Gregory"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-28T00:00:00.000Z",
+        "activityAt": "2026-09-29T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42805980/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "产后子痫前期加重时重复给予镁剂：一项全国调查",
+          "researchQuestion": "确定学术机构中对已完成为初始镁疗程、随后出现子痫前期伴严重特征（PESF）加重的患者给予第二疗程镁剂的全国趋势。",
+          "studyDesign": "全国性调查，使用REDCap问卷，非随机设计。",
+          "populationAndSample": "问卷发送至母胎医学（MFM）项目主任（若无回复则由代理人回复），共收到95家机构中66家回复（69%），覆盖全部12个ACOG区。参与者获得10美元激励。",
+          "methods": "开发REDCap调查，以识别机构方案及对镁剂给药相关临床情景的预期反应，使用公开联系方式发送给MFM项目主任。",
+          "keyResults": "70%（N = 46）的回复者报告有产后镁剂标准机构方案；85%（N = 56）常规给予镁剂24小时。总体上，68%（N = 45）会在PESF加重时给予第二疗程镁剂，无地理差异（p = 0.969）。在具体临床情景中，多数会在患者头痛（N = 52，79%）或高血压急症伴收缩压≥180 mmHg和/或舒张压≥120 mmHg（N = 35，53%）时给予第二疗程镁剂。是否给予第二疗程镁剂不受实验室指标恶化、分娩时孕周、分娩后潜伏期或孕产妇人口学特征影响。",
+          "limitations": "摘要指出目前无标准化指南；该研究为对学术机构MFM项目主任的全国调查，回复率为69%；作者认为需要随机试验比较接受与未接受额外疗程镁剂患者的结局。",
+          "clinicalInterpretation": "该全国调查提示多数学术项目在产后PESF加重时倾向给予第二疗程镁剂，尤其在头痛或严重血压时；但缺乏标准化指南，是否获益需随机试验评估。调查结果不代表共识或临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "ac825c5db157be0f2e3e629b4fdf17be58b82607d57f1ebaad7ff8c880df6f7e"
+      },
+      {
+        "id": "pmid:42806628",
+        "pmid": "42806628",
+        "doi": "10.1002/cam4.72259",
+        "title": "Assessment of Factors and Trends Affecting Different Pathological Types of Cervical Cancer in China From 2013 to 2022.",
+        "abstract": "OBJECTIVE: Cervical cancer poses a significant burden globally, particularly in developing countries, with China accounting for 20% of the global incidence. This study aimed to examine temporal changes in the pathological distribution of cervical cancer, particularly squamous cell carcinoma (SCC) and adenocarcinoma (ADC), in China from 2013 to 2022.\nMETHODS: A nationwide, multicenter, retrospective study analyzed 6645 cervical cancer cases diagnosed between 2013 and 2022 across seven tertiary hospitals in China. The study analyzed demographic, obstetric, and reproductive factors to identify trends in the proportions of SCC and ADC. Multivariable logistic regression was further performed among women with SCC or ADC to identify factors independently associated with histological type.\nRESULTS: SCC accounted for 86.9% and ADC for 10.4% of invasive cervical cancer (ICC) cases. Although no significant change in SCC proportion was observed overall, declines were observed in specific subgroups-unemployed women, premenopausal women, and those with a history of reproductive system disease (p trend = 0.012, 0.021, and 0.011, respectively). In multivariable analysis, compared with Central China, the odds of ADC relative to SCC were significantly higher in North China, Southwest China, East China, and South China, whereas menopausal women, Uyghur women, and rural residents showed lower odds of ADC relative to SCC.\nCONCLUSIONS: Although the overall proportion of SCC among ICC cases remained statistically stable during 2013-2022, SCC showed a decreasing trend in several high-risk subpopulations. Compared with our 2005-2010 series, the present 2013-2022 study showed a higher ADC proportion and a lower SCC proportion. These findings suggest a gradual shift in the pathological landscape of ICC in China and provide up-to-date nationwide multicenter data that may help refine future screening and prevention strategies.",
+        "journal": "Cancer medicine",
+        "authors": [
+          "Bo Zhu",
+          "Hong Wang",
+          "Hongping Zhang",
+          "Huan Yang",
+          "Jia You",
+          "Jian Yin",
+          "Li Li",
+          "Lingbin Du",
+          "Rufei Duan",
+          "Runhua Li",
+          "Shaokai Zhang",
+          "Shuai Yuan",
+          "Tingting Zuo",
+          "Weizhao Lin",
+          "Wen Yang",
+          "Xiaofen Gu",
+          "Youlin Qiao",
+          "Yufei Li",
+          "Zhe Wang"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "publishedAt": "2026-10-01T00:00:00.000Z",
+        "activityAt": "2026-09-29T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42806628/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "2013至2022年中国宫颈癌不同病理类型影响因素与趋势评估",
+          "researchQuestion": "检查2013年至2022年中国宫颈癌病理分布的时间变化，尤其是鳞状细胞癌（SCC）和腺癌（ADC）。",
+          "studyDesign": "全国性、多中心、回顾性研究；采用多变量logistic回归。",
+          "populationAndSample": "分析2013年至2022年间中国七家三级医院诊断的6,645例宫颈癌病例。",
+          "methods": "分析人口学、产科和生殖因素，以识别SCC和ADC比例的趋势。在SCC或ADC女性中进一步进行多变量logistic回归，以识别与组织学类型独立相关的因素。",
+          "keyResults": "在浸润性宫颈癌（ICC）中，SCC占86.9%，ADC占10.4%。总体上SCC比例未见显著变化，但在特定亚组——失业女性、绝经前女性和有生殖系统疾病史者——观察到下降（p趋势分别为0.012、0.021和0.011）。多变量分析中，与华中地区相比，华北、西南、华东和华南地区ADC相对SCC的比值比显著更高；而绝经女性、维吾尔族女性和农村居民ADC相对SCC的比值比更低。与2005-2010年系列相比，2013-2022年研究显示ADC比例更高、SCC比例更低。",
+          "limitations": "摘要未报告明确的局限性；研究为2013年至2022年中国七家三级医院的全国性多中心回顾性研究，结果显示的是病理分布趋势和关联，不能确立因果关系。",
+          "clinicalInterpretation": "该回顾性多中心数据提示中国ICC病理构成可能逐渐变化：与2005-2010年系列相比ADC比例更高、SCC更低；总体SCC比例稳定但部分高危亚组呈下降趋势。作者提出这些数据可能有助于完善未来筛查和预防策略；不构成临床指南或筛查指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "984e5e6e4d3370dfa187025b9564e4a62cee17241c3b971aa629bb23be7df655"
+      }
+    ]
+  }
+}
