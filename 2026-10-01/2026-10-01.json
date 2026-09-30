@@ -1,13 +1,13 @@
 {
-  "hero_headline": "GLP-1受体激动剂妊娠期安全性研究未显示明确风险，但需谨慎",
-  "daily_overview": "指南层面，《Fertility & Sterility》实践指南发布伦理委员会意见，更新死后生殖伦理框架；国际动态方面，两项研究提示妊娠前后使用GLP-1受体激动剂未明显增加母体或围产不良结局，但报告者呼吁谨慎。今日无妇产科手术前沿与国内动态更新。",
+  "hero_headline": "《Fertility & Sterility》更新死后生殖伦理意见，替代2018版旧文件",
+  "daily_overview": "今日指南与动态：伦理委员会更新死后生殖伦理意见，替代2018版文件；EASD会议两项研究提示妊娠前后使用GLP-1受体激动剂未见明确不良母体或围产期结局，但仍需谨慎。手术前沿与行业监管方面无合格更新。",
   "tech_briefs": [
     {
       "title": "Posthumous reproduction: an Ethics Committee opinion.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42810882/",
       "source": "PubMed · Fertility & Sterility Practice Guidance",
-      "summary": "《Fertility & Sterility》实践指南伦理委员会意见，阐述死后使用配子组织或胚胎的伦理问题，替代2018年版。原文摘要未说明与既往建议的具体差异；该文件可能影响生殖中心对死后生殖的咨询与操作规范。",
-      "importance": 7
+      "summary": "《Fertility & Sterility》实践指南刊载伦理委员会意见，围绕供者去世后配子组织或胚胎的使用伦理问题展开，并替代2018年旧版文件。原文摘要未说明与既往建议的具体差异，该更新可影响生殖中心的伦理咨询与操作规范。",
+      "importance": 8
     }
   ],
   "finance_briefs": [],
@@ -16,23 +16,23 @@
       "title": "No Clear Risks With GLP-1s Around Pregnancy, but Caution Urged",
       "url": "https://www.medpagetoday.com/meetingcoverage/easd/123205",
       "source": "MedPage Today",
-      "summary": "两项研究（含系统综述与meta分析）显示，妊娠前后使用GLP-1受体激动剂未明显增加不良母体或围产结局，但报告者呼吁谨慎。该结果可为孕前及孕期降糖治疗咨询提供参考，仍需更多证据。",
-      "importance": 8
+      "summary": "EASD会议报道两项研究，妊娠前后使用GLP-1受体激动剂未明显增加不良母体或围产期结局，其中一项为系统评价与荟萃分析。结果提示未见明确风险，但仍呼吁谨慎，临床用药需个体化权衡。",
+      "importance": 7
     }
   ],
-  "editor_note": "GLP-1妊娠安全性数据仍需更多前瞻性证据；死后生殖伦理更新提示生殖中心应提前制定规范流程。",
+  "editor_note": "死后生殖伦理更新值得生殖中心关注，GLP-1妊娠期数据仍属早期，不宜据此改变常规实践。",
   "keywords": [
     "死后生殖",
-    "伦理委员会",
+    "伦理委员会意见",
     "GLP-1受体激动剂",
-    "妊娠安全性",
-    "围产结局",
-    "生殖医学",
+    "妊娠期用药",
+    "围产期结局",
+    "生殖医学伦理",
     "指南更新"
   ],
   "research": {
-    "generatedAt": "2026-09-30T22:59:12.181Z",
-    "dataAsOf": "2026-09-30T22:59:12.181Z",
+    "generatedAt": "2026-09-30T23:11:34.405Z",
+    "dataAsOf": "2026-09-30T23:11:34.405Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及美国农村地区的严重孕产妇发病率：科学现状、子宫内膜癌一线试验中的生活质量：一项系统综述、人乳头瘤病毒（HPV）与宫颈癌：关于流行病学、疫苗接种、筛查和分子进展的异质性证据的探索性系统综述。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
@@ -61,15 +61,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "美国农村地区的严重孕产妇发病率：科学现状",
           "researchQuestion": "美国农村地区严重孕产妇发病率（SMM）的当前证据是什么？",
@@ -81,7 +72,16 @@
           "clinicalInterpretation": "该综述提示农村SMM风险与地理和结构性因素相关，需改进农村测量指标并开展理论指导研究；摘要未提供具体临床干预方案或指南推荐。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "2e9547e1bf3e58bf00e6cab5771679e91a53dea3dd8c670004c05d0850759e2f"
+        "summaryInputHash": "2e9547e1bf3e58bf00e6cab5771679e91a53dea3dd8c670004c05d0850759e2f",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42811691",
@@ -113,15 +113,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "子宫内膜癌一线试验中的生活质量：一项系统综述",
           "researchQuestion": "在晚期或转移性子宫内膜癌（EC）的一线治疗试验中，生活质量（QoL）结局如何？",
@@ -133,7 +124,16 @@
           "clinicalInterpretation": "QoL可补充疗效终点，提供以患者为中心的疾病负担和治疗影响评估；需加强PROs整合和标准化报告以更好定义晚期EC治疗价值；摘要未提供具体临床指南推荐。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "fc13d2acc8e02e5f1856ba83a874e7b4e4d4f3ef7f0f8a127d4fb34173c5bf94"
+        "summaryInputHash": "fc13d2acc8e02e5f1856ba83a874e7b4e4d4f3ef7f0f8a127d4fb34173c5bf94",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42811780",
@@ -159,15 +159,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "人乳头瘤病毒（HPV）与宫颈癌：关于流行病学、疫苗接种、筛查和分子进展的异质性证据的探索性系统综述",
           "researchQuestion": "HPV流行病学、疫苗接种、筛查以及宫颈癌和其他HPV相关恶性肿瘤相关因素的证据是什么？",
@@ -179,7 +170,16 @@
           "clinicalInterpretation": "结果支持9价HPV疫苗的潜在价值，并提示青春期前接种与宫颈癌发病率降低相关；但证据异质性大，摘要未提供具体筛查或临床实践指南推荐。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "8218c4c21050423662a61957bd8f1910258cadd5a8f0f10c0f3c03014d18b291"
+        "summaryInputHash": "8218c4c21050423662a61957bd8f1910258cadd5a8f0f10c0f3c03014d18b291",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42811844",
@@ -210,15 +210,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "Full PIERS模型对子痫前期女性不良母体结局的预测",
           "researchQuestion": "fullPIERS模型对子痫前期患者不良母体结局的预测价值如何？",
@@ -230,7 +221,16 @@
           "clinicalInterpretation": "fullPIERS模型可能有助于识别有较高并发症风险、需要专科护理的子痫前期患者；本研究提示降低截断值至12.0%可提高敏感性，但摘要未提供指南推荐或外部验证结果。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "d7e7a8e029286d6fd7ae4134cae3f95b32bc97ae1cc4d7133df94b5557b5e327"
+        "summaryInputHash": "d7e7a8e029286d6fd7ae4134cae3f95b32bc97ae1cc4d7133df94b5557b5e327",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42811862",
@@ -259,15 +259,6 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "多囊卵巢综合征女性中维生素D缺乏导致不孕的风险",
           "researchQuestion": "不孕合并多囊卵巢综合征（PCOS）女性中维生素D缺乏的患病率及其与生育力低下（subfertility）的关联如何？",
@@ -279,7 +270,16 @@
           "clinicalInterpretation": "维生素D状态可能是PCOS相关不孕管理中的可改变因素；但研究为横断面，摘要未提供补充维生素D干预效果或临床指南推荐。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "4e8e21d67a6e3b45520a5578955e4b35778bd3ace99162e723cc97737e95be3b"
+        "summaryInputHash": "4e8e21d67a6e3b45520a5578955e4b35778bd3ace99162e723cc97737e95be3b",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       }
     ]
   }
