@@ -1,0 +1,242 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-10-02T01:35:03.195Z",
+    "dataAsOf": "2026-10-02T01:35:03.195Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及宫内妊娠期糖尿病暴露及母体治疗干预的长期代谢后果：系统综述与meta分析、光生物调节中功率的重要性：高强度激光治疗的系统综述与meta分析、英格兰宫颈癌筛查覆盖率的社会经济不平等。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42819227",
+        "pmid": "42819227",
+        "doi": "10.3389/fendo.2026.1904624",
+        "title": "Long-term metabolic consequences of in-utero gestational diabetes exposure and maternal treatment interventions: a systematic review and meta-analysis.",
+        "abstract": "BACKGROUND: Gestational diabetes mellitus (GDM) affects 14-17% of pregnancies globally, imposing long-term public health burdens beyond pregnancy. Maternal hyperglycaemia increases offspring risk of metabolic disorders through epigenetic, hormonal and developmental programming. Growing evidence connects prenatal GDM exposure to childhood and adult metabolic diseases, yet the consistency and magnitude of these associations across different metabolic conditions remains unclear.\nMETHODS: We systematically searched PubMed, Cochrane CENTRAL and Embase. Eligible studies included observational cohorts exploring associations between in-utero GDM exposure and offspring metabolic outcomes, and RCTs assessing maternal antenatal interventions. Bias risk was evaluated with Cochrane RoB 2 (for RCTs) and the Newcastle-Ottawa Scale (NOS) (for observational studies). Separate outcome-based pooled analyses were conducted, given the distinct clinical questions addressed by the two study designs. All meta-analyses used the random-effects inverse-variance model. Heterogeneity was assessed via I² and Cochran's Q statistic, and Egger's linear regression test was used to detect publication bias.\nRESULTS: Sixteen studies (n=9 RCTs, n=7 observational cohorts) involving diverse populations across 11 countries were included. In observational cohorts, GDM-exposed offspring showed higher BMI (MD = 1.42 kg/m2, 95% CI: 0.94-1.89) and greater estimates for overweight/obesity in adulthood (OR = 2.09, 95% CI: 1.25-3.50, I² = 80.7%). The analysis of fasting glucose results displayed high variability (I² = 80.7%) yet produced no meaningful combined impact (MD = -0.016 mmol/L, 95% CI: -1.52 to 1.49). In RCTs, active antenatal GDM management was associated with a non-significant trend towards lower HOMA-IR (MD = -0.30, 95% CI: -0.61 to 0.01; I² = 68.2%) and HbA1c (MD = -0.41%, 95% CI: -0.85 to 0.03; I² = 99.1%) relative to usual care. There were no statistically significant combined effects found for 2-hour OGTT glucose levels total cholesterol levels triglyceride levels or HDL-C levels. Egger's test revealed no significant publication bias for either glucose (t = 0.82, p = 0.43) or lipid outcomes (t = -0.08, p = 0.94).\nCONCLUSION: In-utero GDM exposure confers metabolic risks from childhood to adulthood; lifelong persistence requires verification via extended longitudinal research GDM interventions including diet, exercise and pharmacotherapy may lower offspring risk, although heterogeneity necessitates cautious interpretation.",
+        "journal": "Frontiers in endocrinology",
+        "authors": [
+          "Hongjing Wang",
+          "Huihui Guo",
+          "Ke Shen",
+          "Yufeng Wu"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-09-16T00:00:00.000Z",
+        "activityAt": "2026-10-01T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42819227/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "宫内妊娠期糖尿病暴露及母体治疗干预的长期代谢后果：系统综述与meta分析",
+          "researchQuestion": "宫内妊娠期糖尿病（GDM）暴露与子代代谢结局的关联一致性及幅度如何，以及母体产前干预（饮食、运动、药物）对子代代谢风险的影响如何？",
+          "studyDesign": "系统综述与meta分析，分别针对观察性队列和随机对照试验按结局进行合并分析。",
+          "populationAndSample": "共纳入16项研究（9项RCT、7项观察性队列），覆盖11个国家的多样化人群；摘要未报告总受试者人数。",
+          "methods": "系统检索PubMed、Cochrane CENTRAL和Embase；纳入探索宫内GDM暴露与子代代谢结局关联的观察性队列，以及评估母体产前干预的RCT；用Cochrane RoB 2评估RCT偏倚风险，用Newcastle-Ottawa量表评估观察性研究；因两类设计回答不同临床问题，分别按结局合并；所有meta分析采用随机效应逆方差模型；用I²和Cochran's Q评估异质性，用Egger线性回归检验发表偏倚。",
+          "keyResults": "观察性队列中，GDM暴露子代BMI更高（MD=1.42 kg/m2，95% CI：0.94-1.89），成年期超重/肥胖估计值更高（OR=2.09，95% CI：1.25-3.50，I²=80.7%）。空腹血糖分析变异高（I²=80.7%），但合并效应无意义（MD=-0.016 mmol/L，95% CI：-1.52至1.49）。RCT中，活动性产前GDM管理与HOMA-IR（MD=-0.30，95% CI：-0.61至0.01；I²=68.2%）和HbA1c（MD=-0.41%，95% CI：-0.85至0.03；I²=99.1%）较常规护理降低的非显著趋势相关。对2小时OGTT血糖、总胆固醇、甘油三酯或HDL-C水平，未发现统计学显著的合并效应。Egger检验显示血糖（t=0.82，p=0.43）或血脂（t=-0.08，p=0.94）结局均无显著发表偏倚。",
+          "limitations": "摘要指出异质性较高，尤其部分结局I²达80.7%或99.1%，需谨慎解释；摘要认为终生持续性需通过延长纵向研究验证；摘要未报告各纳入研究的偏倚评估细节。",
+          "clinicalInterpretation": "摘要总结认为，宫内GDM暴露与从儿童期到成年期的代谢风险相关；包括饮食、运动和药物在内的GDM干预可能降低子代风险，但因异质性需谨慎解释。该结论来自单篇系统综述/meta分析，摘要未将其表述为指南或共识。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "ecbdf19f18e5609f329fb0c0c748a81715f636f0d57144bed9bdbc14a2e78c28"
+      },
+      {
+        "id": "pmid:42819314",
+        "pmid": "42819314",
+        "doi": "10.3389/fnint.2026.1914223",
+        "title": "The importance of power in photobiomodulation: a systematic review and meta-analysis of high-intensity laser therapy.",
+        "abstract": "INTRODUCTION: Low-level laser therapy (LLLT; ≤ 0.5 W) is guideline-recommended in the United States for shallow-tissue oral mucositis and other superficial pathologies but has generally failed in trials for deeper tissue conditions due to limited penetration and subtherapeutic dosing. By contrast, Class IV high-intensity laser therapy (HILT; ≥ 0.5-80 W), typically at ∼100-fold higher power, has proven successful for many of these deeper tissue indications.\nMETHODS: We systematically searched PubMed, Google Scholar, and the Cochrane Database for Class IV HILT trials published from 2018 to April 2026, classifying interventions as effective when they showed large effect sizes (Cohen's d > 0.8).\nRESULTS: Across 105 included studies ( n = 2,710 HILT; n = 2,925 controls), no serious adverse events were reported. HILT reduced pain in all randomized trials of knee ( k = 27), spine/neuromuscular ( k = 20), shoulder/arm ( k = 20), and wounds ( k = 2), with > 90% showing large effect sizes. Additional benefits were observed in disorders of the feet ( k = 13), hand/wrist ( k = 8), face/jaw ( k = 7), osteoporosis ( k = 2), endometriosis, coronary artery disease, cognitive impairment, fibromyalgia, COVID-19, and obesity. HILT yielded durable analgesia, with large VAS pain reductions at end of treatment, < 3-month, and ≥ 3-month follow-ups (SMD -0.98, -1.18, and -1.01; k = 50, 19, and 21, respectively). Functional outcomes improved consistently, including range of motion (92%; k = 26), functional performance (84%; k = 57), and quality of life (85%; k = 25). Structural and physiological changes were observed, including increased knee cartilage thickness, reduced rotator cuff tear size, weight loss, and improved nerve conduction. Comparative trials showed HILT produced greater pain reduction than LLLT in 13/13 studies, all with large effect sizes. Mean HILT power was 9.3 W (median 10.0; range 0.5-30), and mean power density was 19.5 W/cm 2 (median 10; range 0.1-52.5).\nCONCLUSION: Class IV high-intensity laser therapy appears effective and safe for durable pain reduction across deep-tissue musculoskeletal pathologies, supporting its recognition in clinical practice and coverage by payers as a valuable therapeutic option. Further multicenter trials are needed to refine treatment protocols.\nSYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/view/CRD420251021772, identifier CRD420251021772.",
+        "journal": "Frontiers in integrative neuroscience",
+        "authors": [
+          "Charles E Vorwaller",
+          "William Todd Penberthy"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-09-14T00:00:00.000Z",
+        "activityAt": "2026-10-01T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42819314/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "光生物调节中功率的重要性：高强度激光治疗的系统综述与meta分析",
+          "researchQuestion": "Class IV高强度激光治疗（HILT；≥0.5-80 W）在深部组织病症中的有效性和安全性如何，并与低强度激光治疗（LLLT；≤0.5 W）比较？",
+          "studyDesign": "系统综述与meta分析。",
+          "populationAndSample": "共纳入105项研究（HILT组n=2,710；对照组n=2,925）；摘要未报告人群具体特征、年龄或病症分布细节。",
+          "methods": "系统检索PubMed、Google Scholar和Cochrane Database，纳入2018年至2026年4月发表的Class IV HILT试验；当效应量大（Cohen's d > 0.8）时分类为有效。",
+          "keyResults": "105项研究中未报告严重不良事件。HILT在所有随机试验中降低疼痛：膝（k=27）、脊柱/神经肌肉（k=20）、肩/臂（k=20）和伤口（k=2），其中>90%显示大效应量。足部（k=13）、手/腕（k=8）、面部/颌（k=7）、骨质疏松（k=2）、子宫内膜异位症、冠状动脉疾病、认知障碍、纤维肌痛、COVID-19和肥胖中也观察到额外获益。HILT产生持久镇痛，治疗结束时、<3个月和≥3个月随访时VAS疼痛大幅降低（SMD分别为-0.98、-1.18和-1.01；k分别为50、19和21）。功能结局持续改善，包括活动范围（92%；k=26）、功能表现（84%；k=57）和生活质量（85%；k=25）。观察到结构和生理改变，包括膝关节软骨厚度增加、肩袖撕裂尺寸减小、体重减轻和神经传导改善。比较性试验中，HILT在13/13项研究中比LLLT产生更大疼痛减轻，均具大效应量。平均HILT功率为9.3 W（中位数10.0；范围0.5-30），平均功率密度为19.5 W/cm2（中位数10；范围0.1-52.5）。",
+          "limitations": "摘要指出需要进一步多中心试验以完善治疗方案；摘要未报告偏倚风险评估、异质性或纳入研究质量的详细结果。",
+          "clinicalInterpretation": "摘要作者认为，Class IV HILT在深部组织肌肉骨骼病症中似乎有效且安全，可实现持久疼痛缓解，并支持其在临床实践中的认可及支付方覆盖；但摘要同时指出需要更多多中心试验优化方案。子宫内膜异位症被列为观察到额外获益的病症之一，但摘要未报告该病症的具体效应量。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "77abb952cc229669ff5cef718eae31e7efd80437c8b62a08d2717292c4782a69"
+      },
+      {
+        "id": "pmid:42816779",
+        "pmid": "42816779",
+        "doi": "10.1177/09691413261484526",
+        "title": "Socioeconomic inequalities in cervical cancer screening coverage in England.",
+        "abstract": "Higher mortality from cervical cancer and lower cervical screening attendance in England are both associated with social deprivation. Linkage of 2012 data showed 4.9% percentage points between coverage in the upper and lower quintile of social deprivation. To investigate whether this inequality has changed in the last decade, general practice-level coverage data from 2024 were linked to area-level index of multiple deprivation. Cervical screening coverage was estimated to be 73.5% among those in the most affluent areas decreasing to 66.1% in the most deprived areas, a gap of 7.4%. Coverage has decreased over the last decade and the inequality in coverage between least and most deprived is wider than it was 12 years ago. The 2026 National Cancer Plan includes ambitious targets to reduce inequalities in accessing screening. Routinely linking coverage data to deprivation indices is essential to evaluate whether they are met.",
+        "journal": "Journal of medical screening",
+        "authors": [
+          "Clare Gilham"
+        ],
+        "publicationTypes": [
+          "Letter"
+        ],
+        "publishedAt": "2026-09-30T00:00:00.000Z",
+        "activityAt": "2026-10-01T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42816779/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "英格兰宫颈癌筛查覆盖率的社会经济不平等",
+          "researchQuestion": "英格兰宫颈癌筛查覆盖率的社会经济不平等在过去十年是否发生变化？",
+          "studyDesign": "信函（Letter）；使用常规数据链接分析。",
+          "populationAndSample": "2012年链接数据，以及2024年全科诊所层面的覆盖率数据；摘要未报告具体样本量或覆盖人数。",
+          "methods": "将2012年数据与地区多重剥夺指数链接；将2024年全科诊所层面宫颈筛查覆盖率数据与地区多重剥夺指数链接，比较最富裕与最贫困地区的覆盖率。",
+          "keyResults": "2012年数据链接显示，社会剥夺最高与最低五分位之间的覆盖率相差4.9个百分点。2024年宫颈筛查覆盖率在最富裕地区估计为73.5%，在最贫困地区降至66.1%，差距为7.4%。过去十年覆盖率下降，且最不贫困与最贫困之间的覆盖率不平等比12年前更宽。2026年National Cancer Plan包含减少筛查可及性不平等的目标。",
+          "limitations": "摘要未报告局限性；摘要未报告样本量、混杂调整、时间趋势建模或数据质量等细节。",
+          "clinicalInterpretation": "该信函提示，英格兰宫颈癌筛查覆盖率与地区社会经济剥夺相关，且2024年最富裕与最贫困地区之间的差距（7.4%）大于2012年报告的4.9个百分点；摘要强调常规链接覆盖率数据与剥夺指数对于评估2026年National Cancer Plan目标是否达成至关重要。摘要未提出个体临床筛查指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "9e1d9e57db5cf04a7eb0d6536d339ae79987e127e2a6a194235a266427b3338f"
+      },
+      {
+        "id": "pmid:42816896",
+        "pmid": "42816896",
+        "doi": "10.1186/s13027-026-00803-1",
+        "title": "HPV knowledge, awareness, and vaccine beliefs among women attending gynecological care in Türkiye: implications for cervical cancer prevention.",
+        "abstract": "BACKGROUND: Despite the availability of effective HPV vaccines, vaccination rates remain low in many countries, including Türkiye. Cervical cancer prevention continues to rely largely on opportunistic screening. Although HPV knowledge, awareness, and vaccine beliefs are recognized as important determinants of vaccination behavior, how these factors interact among women attending gynecological care has not been fully elucidated.\nMETHODS: This cross-sectional study included 300 women aged 18-49 years attending the obstetrics and gynecology outpatient clinic of a university hospital in the Marmara region of Türkiye for gynecological examination. Data were collected using a sociodemographic questionnaire, the HPV Knowledge Scale (HPV-KS), the Human Papilloma Virus Awareness and Concern Scale (HPV-ACS), and the Carolina HPV Vaccination Attitudes and Beliefs Scale (CHPV-VABS). Group comparisons, correlation analyses, and multivariate analysis of variance were performed to examine associations between participant characteristics and HPV knowledge, awareness and concern, and vaccine beliefs.\nRESULTS: Participants showed limited HPV knowledge (11.01 ± 8.77 out of 33), moderate HPV-related awareness and concern (43.57 ± 9.95), and moderate HPV vaccine attitudes and beliefs (37.18 ± 7.42). HPV vaccination uptake was low, with only 12.3% of participants reporting prior vaccination. Higher educational attainment was associated with greater HPV knowledge scores (p < .001), and vaccinated participants had significantly higher knowledge scores than unvaccinated participants (p < .001). Education level was also significantly associated with the combined outcome of HPV knowledge, awareness and concern, and vaccine beliefs (F(3, 293) = 2.76, p=.044, η²p = .05). Correlation analyses showed strong positive associations between HPV knowledge and HPV-related awareness and concern (r = .60, 95% CI [0.52, 0.67], p < .001) and between HPV-related awareness and concern and vaccine beliefs (r = .61, 95% CI [0.53, 0.68], p < .001). In contrast, HPV knowledge showed a weak inverse correlation with vaccine beliefs (r = - .16, 95% CI [- 0.27, - 0.05], p = .005).\nCONCLUSION: Women attending gynecological examinations demonstrated limited HPV knowledge and very low HPV vaccination uptake despite moderate levels of HPV-related awareness and concern. These findings suggest that awareness alone may be insufficient to promote vaccination and highlight the importance of improving HPV knowledge through targeted educational interventions. As higher educational attainment was associated with greater HPV knowledge, integrating structured counseling and evidence-based communication into routine gynecological care may help address knowledge gaps and strengthen cervical cancer prevention efforts in Türkiye.",
+        "journal": "Infectious agents and cancer",
+        "authors": [
+          "Figen Efe Camili",
+          "Sevde Aksu"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-25T00:00:00.000Z",
+        "activityAt": "2026-10-01T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42816896/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "土耳其接受妇科诊疗女性的HPV知识、意识与疫苗信念：对宫颈癌预防的启示",
+          "researchQuestion": "在土耳其接受妇科检查的女性中，HPV知识、意识/担忧和疫苗信念的水平及其相互关系如何？",
+          "studyDesign": "横断面研究。",
+          "populationAndSample": "300名18-49岁女性，因妇科检查就诊于土耳其马尔马拉地区一所大学医院的妇产科门诊。",
+          "methods": "使用社会人口学问卷、HPV知识量表（HPV-KS）、人乳头瘤病毒意识与担忧量表（HPV-ACS）和Carolina HPV疫苗接种态度与信念量表（CHPV-VABS）收集数据；进行组间比较、相关分析和多因素方差分析（MANOVA），检验参与者特征与HPV知识、意识/担忧及疫苗信念的关联。",
+          "keyResults": "参与者HPV知识有限（11.01±8.77，满分33），HPV相关意识与担忧中等（43.57±9.95），HPV疫苗态度与信念中等（37.18±7.42）。HPV疫苗接种率低，仅12.3%报告既往接种。较高教育程度与更高HPV知识得分相关（p<.001）；已接种者的知识得分显著高于未接种者（p<.001）。教育水平也与HPV知识、意识/担忧及疫苗信念的联合结局显著相关（F(3,293)=2.76，p=.044，η²p=.05）。相关分析显示HPV知识与HPV相关意识/担忧呈强正相关（r=.60，95% CI [0.52,0.67]，p<.001）；HPV相关意识/担忧与疫苗信念呈强正相关（r=.61，95% CI [0.53,0.68]，p<.001）。相反，HPV知识与疫苗信念呈弱负相关（r=-.16，95% CI [-0.27,-0.05]，p=.005）。",
+          "limitations": "摘要未报告局限性；研究设计为横断面研究，摘要未报告随访或因果推断信息。",
+          "clinicalInterpretation": "摘要认为，接受妇科检查的女性HPV知识有限、接种率很低，尽管HPV相关意识与担忧为中等水平；这些发现提示仅靠意识可能不足以促进接种，并强调通过有针对性的教育干预提高HPV知识的重要性。由于较高教育程度与更高HPV知识相关，摘要提出将结构化咨询和循证沟通整合进常规妇科诊疗可能有助于弥补知识缺口并加强土耳其宫颈癌预防。摘要未将其表述为指南或共识。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "4eea63577d6bac92bc1e4be2184325753df88ff928224431e4bc147b804d923d"
+      },
+      {
+        "id": "pmid:42817134",
+        "pmid": "42817134",
+        "doi": "10.2174/0113816128501994260915105716",
+        "title": "Strategies for Cervical Cancer Treatment using the Regenerative Potentials of Mesenchymal Stem Cells.",
+        "abstract": "Mesenchymal Stem Cells (MSCs) are widely used in regenerative medicine due to their selfrenewal capacity and immunomodulatory functions. Increasing evidence suggests that these same properties influence tumor progression and response to cancer therapy. This review provides a detailed overview of how MSCs can be utilized in the treatment of cervical cancer, addressing the challenges associated with this complex disease. In addition to outlining recent advances in MSC-based regenerative strategies, we discuss their functional roles within the cervical cancer microenvironment and their therapeutic applications in disease management. Furthermore, the review examines the interactions between MSCs and various components of the tumor microenvironment, including cancer cells, immune cells, and stromal cells, which collectively influence tumor progression and therapeutic response. Particular focus is given to the involvement of MSCs in key signalling pathways associated with cervical cancer, including EMT, NF-κB, miR-144-3p, CEP55, and CD73 pathways. These pathways contribute to the regulation of cell proliferation, migration, invasion, immune modulation, and treatment resistance. We also explore the use of MSCs as carriers for therapeutic agents, targeted drug delivery systems, genetically modified cell-based therapies, and immunotherapeutic approaches. In addition, their potential to interfere with mechanisms related to apoptosis, angiogenesis, and immune evasion is discussed. Collectively, this review highlights the therapeutic promise of MSC-based strategies while addressing the opportunities and challenges that must be overcome to enable their safe and effective clinical translation in cervical cancer treatment.",
+        "journal": "Current pharmaceutical design",
+        "authors": [
+          "Arumugam Suresh",
+          "Gomathy Baskar",
+          "Hemapreethi Surendran",
+          "Muthezhilan Radhakrishnan",
+          "Ranjith Balu",
+          "Sandhya Nedunchezhian",
+          "Shobana Sampath",
+          "Thirunavukkarasu Palaniyandi",
+          "Yuvarani Krishnan"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-29T00:00:00.000Z",
+        "activityAt": "2026-10-01T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42817134/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      }
+    ]
+  }
+}
