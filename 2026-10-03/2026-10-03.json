@@ -1,0 +1,318 @@
+{
+  "hero_headline": "胎儿游离DNA转运机制研究为降低产前筛查错误提供新方向",
+  "daily_overview": "今日妇产科动态聚焦三项临床相关进展：其一，《Science Advances》论文解析胎儿DNA在母血中的转运方式，提出改进产前筛查准确性的潜在路径；其二，患者导航员干预显示可帮助产妇跨越健康素养、交通与系统复杂性障碍，改善产后护理衔接；其三，澳大利亚团队测试新型抗生素联合方案，针对持续性细菌性阴道病追求持久治愈。今日无新增指南与共识，亦无手术技术前沿更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [
+    {
+      "title": "Tracing fetal DNA through maternal blood can help reduce prenatal testing errors",
+      "url": "https://medicalxpress.com/news/2026-10-fetal-dna-maternal-blood-prenatal.html",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "《Science Advances》新论文探讨胎儿DNA如何在孕妇血液中转运，认为理解该机制有望解锁下一代产前筛查。原文未提供具体临床验证数据，但提示优化游离DNA检测分析、降低产前筛查错误是重要研究方向。",
+      "importance": 7
+    },
+    {
+      "title": "Moms overcome barriers to postpartum care with help from patient navigators",
+      "url": "https://medicalxpress.com/news/2026-10-moms-barriers-postpartum-patient.html",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "报道指出，健康素养不足、交通不便、医疗系统复杂等障碍会影响产后护理衔接，而患者导航员可帮助产妇克服这些困难。该模式提示通过系统性支持提升产后随访可及性，对改善母婴结局具有潜在影响。",
+      "importance": 6
+    },
+    {
+      "title": "New antibiotic combinations aim to achieve a lasting cure for persistent bacterial vaginosis",
+      "url": "https://medicalxpress.com/news/2026-09-antibiotic-combinations-aim-persistent-bacterial.html",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "莫纳什大学与Bayside Health墨尔本性健康中心的研究者和临床医生正在测试新的抗生素联合方案，用于治疗持续性细菌性阴道病，目标是实现持久治愈。该研究针对复发难题，若验证有效可能改变临床用药策略。",
+      "importance": 6
+    }
+  ],
+  "editor_note": "今日无指南与手术前沿更新，三项动态均处研究或干预探索阶段，提示产前筛查、产后随访与阴道感染治疗仍是重点方向。",
+  "keywords": [
+    "胎儿游离DNA",
+    "产前筛查",
+    "产后护理",
+    "患者导航员",
+    "细菌性阴道病",
+    "抗生素联合治疗",
+    "母婴健康"
+  ],
+  "research": {
+    "generatedAt": "2026-10-03T00:24:33.719Z",
+    "dataAsOf": "2026-10-03T00:24:33.719Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及依维莫司和来曲唑联合或不联合瑞波西利治疗复发性子宫内膜癌的疗效：一项2期随机临床试验、核组织蛋白酶L通过调节DNA修复因子诱导卵巢癌DNA损伤、TRIP10作为胎儿生长受限的关键调节因子：整合生物信息学筛选与实验验证的研究。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42823426",
+        "pmid": "42823426",
+        "doi": "10.1038/s41467-026-77049-3",
+        "title": "Efficacy of everolimus and letrozole with or without ribociclib in recurrent endometrial cancer: a phase 2 randomized clinical trial.",
+        "abstract": "In this phase II trial, patients with endometrial cancer (EC) were randomized to everolimus/letrozole with (experimental arm) or without ribociclib (control arm) (ClinicalTrials.gov Identifier: NCT03008408). The primary endpoint was progression-free survival (PFS). Secondary endpoints included toxicity, overall survival (OS), objective response rate (ORR), and clinical benefit rate (CBR). For all-comers, there was no difference in PFS (HR 0.78, 95% CI 0.4-1.4, p = 0.38), OS (HR 0.8, 95% CI 0.4-1.5, p = 0.46), ORR (44.1% vs 25.7%, p = 0.11), or toxicity-related treatment discontinuation (4 [8.6%] vs 3 [11.4%], p = 0.22). Among those with prior endocrine therapy, ORR was higher in the experimental arm (61.5% vs 0.0%, p < 0.001). Within the experimental arm, CTNNB1 mut tumors were associated with improved PFS (HR 0.27, 95% CI 0.1-0.7, p = 0.006) and OS (HR 0.24, 95% CI 0.1-0.7, p = 0.004) compared to those with non-CTNNB1 mut tumors. Despite no survival improvement in all-comers, addition of ribociclib to everolimus/letrozole may improve efficacy in patients with prior endocrine therapy and cases with CTNNB1 mut tumors may have prolonged response.",
+        "journal": "Nature communications",
+        "authors": [
+          "Amir A Jazaeri",
+          "Anil K Sood",
+          "Barrett Lawson",
+          "David J Vining",
+          "Jeffrey A How",
+          "Karen H Lu",
+          "Kathleen M Schmeler",
+          "Melinda S Yates",
+          "Melissa Pham",
+          "Michaela Onstad Grinsfelder",
+          "Mikayla B Bowen",
+          "Minxing Chen",
+          "Nidhi Tandon",
+          "Pamela T Soliman",
+          "Rugang Zhang",
+          "Russell Broaddus",
+          "Samantha M Fix",
+          "Shannon N Westin",
+          "Yibo Dai",
+          "Ying Yuan"
+        ],
+        "publicationTypes": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "publishedAt": "2026-09-01T00:00:00.000Z",
+        "activityAt": "2026-10-02T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42823426/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "依维莫司和来曲唑联合或不联合瑞波西利治疗复发性子宫内膜癌的疗效：一项2期随机临床试验",
+          "researchQuestion": "在复发性子宫内膜癌患者中，依维莫司/来曲唑联合瑞波西利相比不联合瑞波西利能否改善疗效？",
+          "studyDesign": "2期随机临床试验（ClinicalTrials.gov Identifier: NCT03008408）。",
+          "populationAndSample": "子宫内膜癌（EC）患者，随机分配至实验组（依维莫司/来曲唑联合瑞波西利）或对照组（依维莫司/来曲唑）。摘要未报告总样本量或分层因素；毒性相关治疗中止分别为4例（8.6%）与3例（11.4%）。",
+          "methods": "患者随机接受依维莫司/来曲唑联合或不联合瑞波西利。主要终点为无进展生存期（PFS）。次要终点包括毒性、总生存期（OS）、客观缓解率（ORR）和临床获益率（CBR）。",
+          "keyResults": "全人群分析中，PFS无差异（HR 0.78，95% CI 0.4-1.4，p = 0.38），OS无差异（HR 0.8，95% CI 0.4-1.5，p = 0.46），ORR无差异（44.1% vs 25.7%，p = 0.11），毒性相关治疗中止无差异（4例[8.6%] vs 3例[11.4%]，p = 0.22）。在既往接受过内分泌治疗的患者中，实验组ORR更高（61.5% vs 0.0%，p < 0.001）。在实验组内，CTNNB1突变肿瘤相比非CTNNB1突变肿瘤与改善PFS相关（HR 0.27，95% CI 0.1-0.7，p = 0.006），并与改善OS相关（HR 0.24，95% CI 0.1-0.7，p = 0.004）。CBR结果摘要未报告。",
+          "limitations": "摘要未报告局限性。",
+          "clinicalInterpretation": "在全部人群中未观察到生存改善，但在既往内分泌治疗患者中实验组ORR较高，CTNNB1突变肿瘤可能延长应答。该结果为单篇2期随机临床试验，不能据此形成指南、共识或临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "4b5a13dd952c52811b5d95bcf374d5fc93b6d339d7a5073cfe29cd4ef98a5143"
+      },
+      {
+        "id": "pmid:42823448",
+        "pmid": "42823448",
+        "doi": "10.1038/s41388-026-04001-6",
+        "title": "Nuclear cathepsin L induces DNA damage by regulating DNA repair factors in ovarian cancer.",
+        "abstract": "Resistance to PARP inhibitors (PARPi) remains a major clinical challenge in ovarian cancer (OC), emphasizing the need for novel strategies to enhance therapeutic efficiency. Our previous work revealed that the antimalarial drug quinacrine (QC) can be repurposed to induce cell death in OC by promoting lysosomal release of active cathepsin L (CTSL). Building on these outcomes, we investigated whether QC-activated CTSL influences DNA damage and homologous recombination (HR) repair in OC cells. Our experimental evidence shows that QC-activated CTSL downregulates key DNA repair proteins RAD51 and 53BP1, leading to impaired HR repair and increased DNA damage. Importantly, genetic knockdown of CTSL significantly reduced QC-induced DNA damage, confirming the CTSL plays a direct functional role in this process. We also found out that the response of combined QC and PARPi differs in models. CTSL was translocated to the nucleus (nCTSL) in responsive patient-derived ascitic (PDA) and patient-derived xenograft (PDX) spheroids. Contrarily, non-responsive models did not have nuclear CTSL. Mechanically, QC could not suppress CRM1/XPO1 nuclear export receptor in non-responsive cells, leading to continued export of CTSL from the nucleus. To address this, we have used the CRM1 inhibitor KPT-8602, which restored nuclear retention of CTSL. This led to enhanced therapeutic synergy with PARPi and overcame resistance in QC-treated PDA 3D-spheroids. Consistent with these findings, QC reduced tumor burden in both the cell-derived OVCAR-5 xenograft and PDX-PH070 models that showed QC-induced nCTSL, but not in the non-responsive PDX-PH095 model. However, in additional non-responsive PDX models (PH747 and PH081), treatment with QC and KPT-8602 substantially reduced tumor burden. Collectively, our results confirm a critical role for nuclear CTSL in QC-induced DNA damage and identify nCTSL as a possible predictive biomarker of therapeutic response. These results suggest that combining QC with PARPi or CRM1 inhibitors represents a promising strategy to overcome PARPi resistance in OC.",
+        "journal": "Oncogene",
+        "authors": [
+          "Ann L Oberg",
+          "Biswajit Das",
+          "Christopher L Pathoulas",
+          "Jamie N Bakkum-Gamez",
+          "Jamison L VanBlaricom",
+          "John Weroha",
+          "Julie Staub",
+          "Ling Jin",
+          "Nagarajan Kannan",
+          "Prabhu Thirusangu",
+          "Upasana Ray",
+          "Viji Shridhar",
+          "Xiaonan Hou"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-01T00:00:00.000Z",
+        "activityAt": "2026-10-02T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42823448/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "核组织蛋白酶L通过调节DNA修复因子诱导卵巢癌DNA损伤",
+          "researchQuestion": "在卵巢癌中，喹吖因（QC）激活的组织蛋白酶L（CTSL）是否影响DNA损伤和同源重组（HR）修复，以及核CTSL能否预测QC与PARP抑制剂（PARPi）联合治疗的反应并克服PARPi耐药？",
+          "studyDesign": "临床前实验研究，包括细胞、患者来源腹水（PDA）/患者来源异种移植（PDX）球体及异种移植模型；摘要未报告正式研究设计名称。",
+          "populationAndSample": "卵巢癌（OC）模型：OC细胞、反应性PDA和PDX球体、OVCAR-5细胞来源异种移植、PDX-PH070、PDX-PH095、PDX-PH747和PDX-PH081。摘要未报告人类受试者数量或样本量。",
+          "methods": "研究QC激活的CTSL对RAD51和53BP1等DNA修复蛋白、HR修复及DNA损伤的影响；CTSL基因敲低；QC与PARPi联合在不同模型中的反应；CTSL核转位（nCTSL）；CRM1/XPO1核输出受体及CRM1抑制剂KPT-8602；在异种移植模型中评估肿瘤负荷。",
+          "keyResults": "QC激活的CTSL下调关键DNA修复蛋白RAD51和53BP1，导致HR修复受损和DNA损伤增加。CTSL基因敲低显著减少QC诱导的DNA损伤，提示CTSL在该过程中发挥直接功能作用。QC与PARPi联合的反应在不同模型中存在差异。在反应性患者来源腹水（PDA）和PDX球体中，CTSL转位至细胞核（nCTSL）；相反，非反应性模型没有核CTSL。机制上，QC在非反应性细胞中不能抑制CRM1/XPO1核输出受体，导致CTSL持续从细胞核输出；使用CRM1抑制剂KPT-8602可恢复CTSL的核滞留，增强与PARPi的治疗协同，并在QC处理的PDA 3D球体中克服耐药。QC在显示QC诱导nCTSL的OVCAR-5异种移植和PDX-PH070模型中降低肿瘤负荷，但在非反应性PDX-PH095模型中未降低肿瘤负荷。然而，在另外的非反应性PDX模型PH747和PH081中，QC联合KPT-8602治疗大幅降低肿瘤负荷。",
+          "limitations": "摘要未报告局限性。",
+          "clinicalInterpretation": "结果确认核CTSL在QC诱导DNA损伤中的关键作用，并将nCTSL确定为可能的治疗反应预测生物标志物。结果提示QC与PARPi或CRM1抑制剂联合是克服卵巢癌PARPi耐药的有前景策略。上述为临床前证据，尚未在临床中验证，不能直接转化为临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "3a1d83a1eadd7718b1e955904806b25ac0f44272c561ebf603c06819039996d8"
+      },
+      {
+        "id": "pmid:42823564",
+        "pmid": "42823564",
+        "doi": "10.1007/s43032-026-02222-4",
+        "title": "TRIP10 as a Key Regulator in Fetal Growth Restriction: a Study Integrating Bioinformatics Screening with Experimental Validation.",
+        "abstract": "Fetal growth restriction (FGR) is a leading cause of perinatal mortality, yet its molecular mechanisms remain poorly understood. This study integrated bioinformatic analysis with experimental validation to identify key genes involved in FGR pathogenesis. Transcriptome datasets GSE114691 and GSE24129 from the GEO database were analyzed, revealing 5,788 differentially expressed genes (1,450 upregulated, 4,338 downregulated) between FGR and control placental samples. Functional enrichment analysis indicated that downregulated genes were primarily involved in mitochondrial function, aerobic respiration, and amino acid metabolism, while upregulated genes were associated with cell adhesion and histone modification. Weighted gene co-expression network analysis (WGCNA) identified 19 modules, with the darkorange module showing the strongest positive correlation with FGR. LASSO regression further selected eight candidate genes, among which only TRIP10 demonstrated consistent and significant upregulation in the independent validation dataset and exhibited excellent diagnostic performance (AUC = 0.906). Western blot confirmed significant upregulation of TRIP10 protein in FGR placental tissues. Functional assays in JEG-3 trophoblast cells revealed that TRIP10 knockdown significantly enhanced cell migration and invasion, while TRIP10 overexpression suppressed these processes. Collectively, this study identifies TRIP10 as a key gene significantly upregulated in FGR placentas and establishes TRIP10 as a negative regulator of trophoblast migration and invasion, suggesting that TRIP10 dysregulation may contribute to impaired placental development and FGR pathogenesis, representing a promising biomarker and potential therapeutic target.",
+        "journal": "Reproductive sciences (Thousand Oaks, Calif.)",
+        "authors": [
+          "Guangpu Liu",
+          "Shengpu Wang",
+          "Shuo Xu",
+          "Wenning Lian",
+          "Xiangnan Zhang",
+          "Xinjun Li"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-01T00:00:00.000Z",
+        "activityAt": "2026-10-02T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42823564/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "TRIP10作为胎儿生长受限的关键调节因子：整合生物信息学筛选与实验验证的研究",
+          "researchQuestion": "通过整合生物信息学分析与实验验证，识别参与胎儿生长受限（FGR）发病的关键基因及其功能。",
+          "studyDesign": "生物信息学筛选与实验验证相结合的转化研究；摘要未报告正式研究设计名称。",
+          "populationAndSample": "GEO数据库转录组数据集GSE114691和GSE24129中的FGR与对照胎盘样本；独立验证数据集（摘要未报告具体样本量）；FGR胎盘组织；JEG-3滋养层细胞。",
+          "methods": "分析GSE114691和GSE24129转录组数据集，鉴定差异表达基因，进行功能富集分析、加权基因共表达网络分析（WGCNA）、LASSO回归筛选候选基因、独立验证、ROC曲线/AUC评估诊断性能、Western blot验证蛋白表达，并在JEG-3滋养层细胞中进行TRIP10敲低和过表达功能实验（迁移、侵袭）。",
+          "keyResults": "FGR与对照胎盘样本之间发现5,788个差异表达基因（1,450个上调，4,338个下调）。功能富集分析提示下调基因主要参与线粒体功能、有氧呼吸和氨基酸代谢，上调基因与细胞黏附和组蛋白修饰相关。WGCNA识别出19个模块，其中darkorange模块与FGR正相关性最强。LASSO回归进一步筛选出8个候选基因，其中仅TRIP10在独立验证数据集中表现出一致且显著的上调，并具有 excellent 诊断性能（AUC = 0.906）。Western blot确认TRIP10蛋白在FGR胎盘组织中显著上调。JEG-3滋养层细胞功能实验显示，TRIP10敲低显著增强细胞迁移和侵袭，而TRIP10过表达抑制这些过程。",
+          "limitations": "摘要未报告局限性。",
+          "clinicalInterpretation": "该研究将TRIP10识别为FGR胎盘中显著上调的关键基因，并将其描述为滋养层迁移和侵袭的负调节因子。结果提示TRIP10失调可能参与胎盘发育受损和FGR发病，可能作为生物标志物和潜在治疗靶点。仍需进一步研究验证其因果关系和临床效用。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "7fade05e2784977b945c12eb1e81101a6201be5e35041fef4645e92340a7ae85"
+      },
+      {
+        "id": "pmid:42823756",
+        "pmid": "42823756",
+        "doi": "10.1186/s12958-026-01598-x",
+        "title": "Circulating plasma microRNAs as potential non-invasive biomarkers in infertile women with adenomyosis: an observational study.",
+        "abstract": "BACKGROUND: Despite advancements in imaging techniques, the non-invasive diagnosis of adenomyosis remains particularly challenging due to the overlap of imaging features with other uterine diseases, and the lack of consistent correlation with clinical presentation, with histological confirmation after hysterectomy still necessary. In this context, circulating miRNAs emerge as promising candidates for accurate non-invasive diagnosis.\nMETHODS: To determine whether women with adenomyosis exhibit a distinct circulating plasma miRNA profile that can serve as a diagnostic marker, miRNA sequencing was performed to compare the plasma miRNA profile of women with adenomyosis with infertile and healthy fertile controls (n = 10/group). Adenomyosis was diagnosed by transvaginal ultrasound using Morphological Uterus Sonographic Assessment (MUSA) criteria. Plasma and endometrial biopsies were collected during the secretory phase from women undergoing hormone replacement therapy. Total RNA was extracted from plasma, libraries were prepared using NEXTFLEX® Small RNA-Seq v4 kits, and miRNAseq was performed on the NextSeq 550 NGS platform. Differentially expressed (DE) miRNAs were identified using the edgeR method (false discovery rate < 0.05). The discriminatory potential of DEmiRNAs was evaluated by receiver operating characteristic (ROC) curve analysis using the area under the curve (AUC). Validation was performed by quantitative PCR on plasma and endometrium (n = 15/group). The target genes of DEmiRNAs were retrieved from miRTarBase and subjected to functional enrichment analysis.\nRESULTS: A total of 11 disease-specific DEmiRNAs were identified in adenomyosis compared to infertile controls (5 up- and 6 downregulated), and 23 healthy control-referenced DEmiRNAs compared to fertile controls (19 up- and 4 downregulated). Among disease-specific DEmiRNAs, miR-4433 and miR-652-5p demonstrated strong diagnostic performance for adenomyosis compared to infertile controls (AUC = 0.92 and 0.91, respectively; p < 0.001). For healthy control-referenced DEmiRNAs, 11 miRNAs showed statistically significant diagnostic value (p < 0.01), with the highest AUCs observed for miR-3200-5p, miR-193b-5p, and miR-4732-5p (AUC = 0.88, 0.88 and 0.87, respectively). Validation experiments corroborated the upregulation of miR-4433 and miR-92a-3p upregulation in plasma and endometrium.\nCONCLUSIONS: This study supports the potential of circulating miRNAs as non-invasive biomarkers for adenomyosis and contributes to understanding its molecular basis. The concordance between circulating and endometrial miRNA expression suggests a possible link between systemic molecular alterations and endometrial pathology.",
+        "journal": "Reproductive biology and endocrinology : RB&E",
+        "authors": [
+          "Amparo Faus",
+          "Ana Corachán",
+          "Antonio Pellicer",
+          "Carmen Vidal",
+          "Hortensia Ferrero",
+          "Juan Antonio García-Velasco",
+          "Juan Giles",
+          "Mar Pérez-Ferrer",
+          "Pilar Alamá"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Observational Study"
+        ],
+        "publishedAt": "2026-08-05T00:00:00.000Z",
+        "activityAt": "2026-10-02T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42823756/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "循环血浆microRNA作为子宫腺肌症不孕女性潜在非侵入性生物标志物：一项观察性研究",
+          "researchQuestion": "子宫腺肌症不孕女性是否具有独特的循环血浆miRNA谱，可作为非侵入性诊断标志物？",
+          "studyDesign": "观察性研究。",
+          "populationAndSample": "纳入子宫腺肌症不孕女性、不孕对照和健康生育对照；miRNA测序每组n = 10，验证每组n = 15。子宫腺肌症通过经阴道超声依据MUSA标准诊断。血浆和子宫内膜活检在分泌期从接受激素替代治疗的女性中采集。",
+          "methods": "进行血浆miRNA测序，比较子宫腺肌症女性与不孕对照及健康生育对照的血浆miRNA谱。提取血浆总RNA，使用NEXTFLEX® Small RNA-Seq v4试剂盒建库，并在NextSeq 550 NGS平台进行miRNAseq。使用edgeR方法鉴定差异表达（DE）miRNA（错误发现率 < 0.05）。通过ROC曲线分析及曲线下面积（AUC）评估差异表达miRNA的鉴别潜力。在血浆和子宫内膜中通过定量PCR进行验证（每组n = 15）。从miRTarBase检索差异表达miRNA的靶基因并进行功能富集分析。",
+          "keyResults": "与不孕对照相比，在子宫腺肌症中鉴定出11个疾病特异性差异表达miRNA（5个上调，6个下调）；与健康生育对照相比，鉴定出23个以健康对照为参照的差异表达miRNA（19个上调，4个下调）。在疾病特异性差异表达miRNA中，miR-4433和miR-652-5p对子宫腺肌症相比不孕对照表现出强诊断性能（AUC分别为0.92和0.91；p < 0.001）。对于以健康对照为参照的差异表达miRNA，11个miRNA显示出统计学显著的诊断价值（p < 0.01），其中最高AUC见于miR-3200-5p、miR-193b-5p和miR-4732-5p（AUC分别为0.88、0.88和0.87）。验证实验证实miR-4433和miR-92a-3p在血浆和子宫内膜中上调。",
+          "limitations": "摘要未报告局限性。",
+          "clinicalInterpretation": "该研究支持循环miRNA作为子宫腺肌症非侵入性生物标志物的潜力，并提示循环与子宫内膜miRNA表达的一致性可能与子宫内膜病理相关。上述为观察性研究结果，不能视为已确立的诊断标准，也不能推断因果关系。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "10cdd56def067c853052e024670ee24bbbd7a9bf8d5d071ff23bc691bd209320"
+      },
+      {
+        "id": "pmid:42824309",
+        "pmid": "42824309",
+        "doi": "10.2147/ijwh.s571328",
+        "title": "Biomarker-Driven Treatments for Ovarian Cancer: Moving Beyond HRD?",
+        "abstract": "Ovarian cancer is a biologically heterogeneous disease, yet for more than two decades its standard treatment of surgery and platinum-taxane chemotherapy changed little. Only a modest additional benefit was seen with the addition of bevacizumab, a monoclonal antibody targeting vascular endothelial growth factor A (VEGF-A) in selected patients. The recognition that BRCA1/2 mutations impair the repair of DNA double-strand breaks by homologous recombination, and that inhibitors of PARP are highly active in this setting, established the first widely adopted biomarker-driven treatment in this disease. Homologous recombination deficiency (HRD) therefore remains the established predictive biomarker for first-line maintenance therapy, but it is imperfect: benefit is not confined to HRD-positive tumours, assays report historical genomic scars, and most patients ultimately relapse with platinum-resistant disease. This review examines how biomarker-driven treatment in ovarian cancer is developing beyond HRD. We appraise the evidence for strategies that are already clinically established, principally PARP inhibitors, the folate receptor α-directed antibody-drug conjugate mirvetuximab soravtansine, and, more recently, PD-L1-selected immune checkpoint inhibition in platinum-resistant disease and distinguish these from approaches that remain investigational, including antibody-drug conjugates directed at HER2, TROP2, CLDN6, B7-H3/H4 and CDH6, and agents exploiting cell cycle dysregulation and replication stress such as CCNE1-associated, WEE1 and ATR-directed therapies. We also consider the practical obstacles to implementation: tumour heterogeneity and evolution, the complementary roles of tissue and liquid biopsy, when molecular profiling should be repeated, assay standardisation and access, and the limitations of basket trial designs. Progress will depend on expanding the development of practical frameworks for biomarker testing, treatment selection and sequencing.",
+        "journal": "International journal of women's health",
+        "authors": [
+          "Jonathan A Ledermann",
+          "Liz Joseph",
+          "Michael Flynn"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-09-26T00:00:00.000Z",
+        "activityAt": "2026-10-02T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42824309/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "卵巢癌的生物标志物驱动治疗：超越HRD？",
+          "researchQuestion": "综述旨在探讨卵巢癌生物标志物驱动治疗如何超越同源重组缺陷（HRD），并评估已临床确立与仍在研究中的治疗策略及实施障碍。",
+          "studyDesign": "综述（Review）。",
+          "populationAndSample": "摘要未报告；综述对象为卵巢癌及其生物标志物驱动治疗策略。",
+          "methods": "摘要未报告具体检索策略或系统评价方法。作者评述已临床确立的策略，主要包括PARP抑制剂、叶酸受体α导向抗体药物偶联物mirvetuximab soravtansine，以及较近期在铂耐药疾病中基于PD-L1选择的免疫检查点抑制；并区分仍在研究中的策略，包括针对HER2、TROP2、CLDN6、B7-H3/H4和CDH6的抗体药物偶联物，以及利用细胞周期失调和复制压力的药物，如CCNE1相关、WEE1和ATR导向治疗。还讨论实施障碍。",
+          "keyResults": "摘要指出，卵巢癌在生物学上具有异质性，但二十多年来标准治疗（手术和铂类-紫杉烷化疗）变化不大；在选定患者中加入靶向血管内皮生长因子A（VEGF-A）的单克隆抗体贝伐珠单抗仅见适度额外获益。BRCA1/2突变通过同源重组 impair DNA双链断裂修复，PARP抑制剂在此背景下高度活跃，确立了该疾病中首个广泛采用的生物标志物驱动治疗。HRD仍是已确立的一线维持治疗预测生物标志物，但不完美：获益不限于HRD阳性肿瘤，检测报告的是历史基因组瘢痕，多数患者最终复发为铂耐药疾病。综述区分已临床确立策略与在研策略，并讨论肿瘤异质性与演化、组织与液体活检的互补作用、何时重复分子检测、检测标准化与可及性以及篮式试验设计的局限性等实施障碍。进展取决于扩展生物标志物检测、治疗选择和排序的实用框架。",
+          "limitations": "摘要提及HRD作为生物标志物的不完美之处（获益不限于HRD阳性肿瘤、检测报告历史基因组瘢痕、多数患者最终复发为铂耐药疾病），以及实施障碍（肿瘤异质性与演化、组织与液体活检、重复分子检测时机、检测标准化与可及性、篮式试验设计局限）。",
+          "clinicalInterpretation": "该综述未报告原始研究数据；其观点是HRD仍是已确立的一线维持治疗预测生物标志物但存在局限，卵巢癌生物标志物驱动治疗正在向HRD之外拓展，部分策略已临床确立，部分仍在研究。不能将单篇综述结论改写为指南、共识或临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "1b4832b91402e2065dc5a1b9b73a288606f8f3b737bd611c55f0b83039cd0ce0"
+      }
+    ]
+  }
+}

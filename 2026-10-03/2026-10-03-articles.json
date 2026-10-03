@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-03",
+  "articles": [
+    {
+      "sourceId": "medical-xpress-obgyn",
+      "title": "Tracing fetal DNA through maternal blood can help reduce prenatal testing errors",
+      "url": "https://medicalxpress.com/news/2026-10-fetal-dna-maternal-blood-prenatal.html",
+      "excerpt": "Understanding how fetal DNA travels in a pregnant woman's blood could unlock the next generation of prenatal screening, according to a new paper published in Science Advances.",
+      "publishedAt": "2026-10-02T18:00:19.000Z",
+      "category": "politics",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "一项发表于《Science Advances》的研究探讨胎儿DNA在孕妇血液中的运输方式，认为这有望改进下一代产前筛查并减少检测错误。",
+      "reviewStatus": "accepted",
+      "lowPriority": false
+    },
+    {
+      "sourceId": "medical-xpress-obgyn",
+      "title": "Moms overcome barriers to postpartum care with help from patient navigators",
+      "url": "https://medicalxpress.com/news/2026-10-moms-barriers-postpartum-patient.html",
+      "excerpt": "While the transition to motherhood can be challenging for anyone, barriers such as inadequate health literacy, unreliable transportation, difficulty navigating a complex health care system, limited access to child care or insecure housing can be the tipping point between a new mom accessing needed c",
+      "publishedAt": "2026-10-02T15:00:13.000Z",
+      "category": "politics",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "文章介绍患者导航员帮助新妈妈克服健康素养、交通、复杂就医系统、育儿及住房等障碍，以改善产后护理可及性。",
+      "reviewStatus": "accepted",
+      "lowPriority": false
+    },
+    {
+      "sourceId": "medical-xpress-obgyn",
+      "title": "New antibiotic combinations aim to achieve a lasting cure for persistent bacterial vaginosis",
+      "url": "https://medicalxpress.com/news/2026-09-antibiotic-combinations-aim-persistent-bacterial.html",
+      "excerpt": "Researchers and clinicians from Monash University and Bayside Health's Melbourne Sexual Health Centre are testing new combinations of antibiotics to treat persistent bacterial vaginosis (BV), following their discovery that the condition is sexually transmissible.",
+      "publishedAt": "2026-09-30T22:30:15.000Z",
+      "category": "politics",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "莫纳什大学与墨尔本性健康中心的研究者正在测试新的抗生素联合方案，以治疗持续性细菌性阴道病，此前他们发现该病可经性传播。",
+      "reviewStatus": "accepted",
+      "lowPriority": false
+    }
+  ]
+}
