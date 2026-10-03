@@ -7,8 +7,8 @@
   "editor_note": "过去24小时暂无符合质量要求的重要更新。",
   "keywords": [],
   "research": {
-    "generatedAt": "2026-10-03T23:17:44.942Z",
-    "dataAsOf": "2026-10-03T23:17:44.942Z",
+    "generatedAt": "2026-10-03T23:45:25.417Z",
+    "dataAsOf": "2026-10-03T23:45:25.417Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及他汀类、二甲双胍和维生素D预防子痫前期的比较效果：随机试验的系统评价和网络荟萃分析、评估新诊断妇科肿瘤患者的社会健康决定因素需求及其与社会支持和压力水平的关系、育龄期镰状细胞贫血女性的卵巢储备：范围综述。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
@@ -48,15 +48,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 100,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "他汀类、二甲双胍和维生素D预防子痫前期的比较效果：随机试验的系统评价和网络荟萃分析",
           "researchQuestion": "在高风险孕妇中，比较他汀类、二甲双胍和维生素D预防子痫前期及相关不良结局的效果。",
@@ -68,7 +59,16 @@
           "clinicalInterpretation": "这些发现最好被视为假设生成性，旨在为未来研究设计提供信息，而非指导临床实践。需要进一步开展大型、设计良好的随机试验，才能做出明确的临床推荐。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "3ceda029be95d921f5c1bbff2dabdf830257f051a4899ef925ba35915129f968"
+        "summaryInputHash": "3ceda029be95d921f5c1bbff2dabdf830257f051a4899ef925ba35915129f968",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:42824668",
@@ -94,15 +94,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "评估新诊断妇科肿瘤患者的社会健康决定因素需求及其与社会支持和压力水平的关系",
           "researchQuestion": "描述新诊断妇科癌症患者中未满足的社会健康决定因素（SDoH）需求的患病率，并检验SDoH负担与社会支持和感知压力之间的关联。",
@@ -114,7 +105,16 @@
           "clinicalInterpretation": "在新诊断妇科癌症患者中，未满足的SDoH需求常见。较高压力与较大SDoH负担相关，提示压力和社交需求可能同时出现。在诊断时筛查SDoH和压力可能识别脆弱患者并指导早期干预。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "6ef6669c09c3fc7039b464b95f59f370770a01354c5478fb85d4df02c750923c"
+        "summaryInputHash": "6ef6669c09c3fc7039b464b95f59f370770a01354c5478fb85d4df02c750923c",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42824792",
@@ -143,15 +143,6 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "育龄期镰状细胞贫血女性的卵巢储备：范围综述",
           "researchQuestion": "绘制关于育龄期镰状细胞贫血（SCA）女性卵巢储备的现有证据。",
@@ -163,7 +154,16 @@
           "clinicalInterpretation": "现有证据表明，育龄期SCA女性，特别是HbSS基因型者，与年龄匹配的HbAA对照组相比，可能表现出较低的卵巢储备指标，但大多数研究的横断面性质限制了因果推断。这些发现强调需要早期生殖咨询和进一步的纵向研究。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "0e0067254c38b4ed4991340d8da9209aaccd27dd174d114aefa21330f6c89475"
+        "summaryInputHash": "0e0067254c38b4ed4991340d8da9209aaccd27dd174d114aefa21330f6c89475",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42825126",
@@ -190,15 +190,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "绘制基于社区的宫颈癌筛查参与健康促进策略：干预组成部分、实施模式和实施差距的范围综述",
           "researchQuestion": "绘制用于提高宫颈癌筛查参与的社区健康促进策略，并识别干预组成部分、实施模式、公平目标和实施差距。",
@@ -210,7 +201,16 @@
           "clinicalInterpretation": "社区宫颈筛查促进可以设计并评估为预防级联，而非一次性意识活动。未来项目应测量从参与和获取到筛查完成、结果传递、分诊和治疗联系的移动。这属于项目设计建议，而非临床实践指南。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "b0ddc3e83fbeba74455a140d5dd65358b5e8605347672234fa69621294f86616"
+        "summaryInputHash": "b0ddc3e83fbeba74455a140d5dd65358b5e8605347672234fa69621294f86616",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42825373",
@@ -239,15 +239,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "洛哌丁胺通过诱导铁死亡增强宫颈癌细胞的放射敏感性",
           "researchQuestion": "研究洛哌丁胺（LOP）是否可以通过调节铁死亡增强宫颈癌细胞的放射敏感性。",
@@ -259,7 +250,16 @@
           "clinicalInterpretation": "这些观察为进一步研究LOP作为宫颈癌潜在放射增敏剂提供了基础。此为体外实验发现，不能直接转化为临床建议。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "f9a64a7ce6835d0372405c61d6dda6d0eb5a2cdb133a961b21ab3779eddee466"
+        "summaryInputHash": "f9a64a7ce6835d0372405c61d6dda6d0eb5a2cdb133a961b21ab3779eddee466",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       }
     ]
   }
