@@ -1,0 +1,266 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-10-03T23:17:44.942Z",
+    "dataAsOf": "2026-10-03T23:17:44.942Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及他汀类、二甲双胍和维生素D预防子痫前期的比较效果：随机试验的系统评价和网络荟萃分析、评估新诊断妇科肿瘤患者的社会健康决定因素需求及其与社会支持和压力水平的关系、育龄期镰状细胞贫血女性的卵巢储备：范围综述。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42827236",
+        "pmid": "42827236",
+        "doi": "10.1186/s12884-026-09920-6",
+        "title": "Comparative effectiveness of statins, metformin, and vitamin D, for prevention of preeclampsia: a systematic review and network meta-analysis of randomized trials.",
+        "abstract": "BACKGROUND: Preeclampsia is a leading cause of maternal and neonatal morbidity and mortality worldwide, yet effective pharmacological preventive strategies remain uncertain. Statins, metformin, and vitamin D, alone or combined with omega-3, have been investigated for potential protective effects, but comparative evidence is limited.\nOBJECTIVE: To compare the effectiveness of statins, metformin, and vitamin D in preventing preeclampsia and related adverse outcomes among high-risk pregnant women.\nMETHODS: A systematic review and network meta-analysis of randomized controlled trials was conducted. PubMed, Scopus, Web of Science, Cochrane, and Epistemonikos were searched from September 11, 2020, to September 11, 2025. Eight trials involving 4,078 high-risk pregnant women were included. Participants were randomized to statins, metformin, or vitamin D at different doses versus placebo. The primary outcome was the incidence of preeclampsia. Secondary outcomes included gestational hypertension, preterm birth, low birth weight, neonatal intensive care unit admission, gestational diabetes, respiratory distress syndrome, and perinatal outcomes. Risk ratios with 95% confidence intervals were calculated, and interventions were ranked using the surface under the cumulative ranking probabilities.\nRESULTS: Eight randomized controlled trials were analyzed. Compared with placebo, higher-dose vitamin D supplementation showed associations with lower estimated risks of preeclampsia, particularly vitamin D 4,000 IU/day (risk ratio 0.21, 95% confidence interval 0.06-0.72) and 60,000 IU monthly (risk ratio 0.36, 95% confidence interval 0.19-0.70). These relative effects corresponded to approximate absolute risk differences of 8% and 6%, respectively, based on observed baseline risks, and reflect associations rather than proven causality. Estimates were derived from limited direct evidence within sparse networks. These dose-specific vitamin D regimens had the highest probabilistic ranking for preeclampsia within the network, but these rankings should be interpreted as exploratory rather than definitive. Higher-dose vitamin D was also associated with trends toward lower event rates of preterm births and low-birth-weight infants, although estimates were imprecise. Evidence for statins and metformin was inconsistent, with wide confidence intervals. SUCRA rankings suggested vitamin D as the highest relative ranking probability overall intervention within the network, followed by statins; however, these rankings remain exploratory given the limited network structure. These associations were derived from limited direct evidence within sparse networks and should be interpreted cautiously. Probabilistic rankings and SUCRA values reflect relative positioning within the network rather than comparative effectiveness.\nCONCLUSION: In high-risk pregnancies, higher-dose vitamin D regimens were associated with lower estimated risks of preeclampsia compared with placebo; however, these findings are based on limited, heterogeneous, and partly indirect evidence from sparse networks. The certainty of evidence is low, and the observed effect sizes should not be interpreted as evidence of clinical effectiveness. These findings are best considered hypothesis-generating and are intended to inform the design of future studies rather than guide clinical practice. Evidence for statins and metformin remains limited and inconsistent. Overall, further large, well-designed randomized trials are required before firm clinical recommendations can be made.",
+        "journal": "BMC pregnancy and childbirth",
+        "authors": [
+          "Ahmed Khaled Saad",
+          "Dalia Atef Abouda",
+          "Habiba Mohammed Salah",
+          "Jana M Farouk",
+          "Kholoud Dahshan",
+          "Mahmoud E Abd-Elkareem",
+          "Mariam M Fouad",
+          "Mazen Mohammed Mahgoub",
+          "Menna Alaa El-Khouly",
+          "Mohammed Al-Azab",
+          "Noreen M El-Bayaa",
+          "Rofida Ayman Mohamed"
+        ],
+        "publicationTypes": [
+          "Comparative Study",
+          "Journal Article",
+          "Network Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-02T00:00:00.000Z",
+        "activityAt": "2026-10-03T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42827236/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "他汀类、二甲双胍和维生素D预防子痫前期的比较效果：随机试验的系统评价和网络荟萃分析",
+          "researchQuestion": "在高风险孕妇中，比较他汀类、二甲双胍和维生素D预防子痫前期及相关不良结局的效果。",
+          "studyDesign": "随机对照试验的系统评价和网络荟萃分析。",
+          "populationAndSample": "纳入8项试验，共4,078名高风险孕妇。参与者被随机分配至不同剂量的他汀类、二甲双胍或维生素D组，或安慰剂组。",
+          "methods": "检索PubMed、Scopus、Web of Science、Cochrane和Epistemonikos，检索时间为2020年9月11日至2025年9月11日。计算风险比（RR）及其95%置信区间（CI），并使用累积排名曲线下面积（SUCRA）对干预措施进行排名。主要结局为子痫前期的发生率；次要结局包括妊娠期高血压、早产、低出生体重、新生儿重症监护室入院、妊娠期糖尿病、呼吸窘迫综合征和围产期结局。",
+          "keyResults": "与安慰剂相比，较高剂量维生素D补充与较低的估计子痫前期风险相关，特别是维生素D 4,000 IU/天（RR 0.21，95% CI 0.06-0.72）和60,000 IU/月（RR 0.36，95% CI 0.19-0.70）。这些相对效应对应约8%和6%的绝对风险差。这些剂量特异性维生素D方案在网络中具有最高的子痫前期概率排名，但排名应视为探索性。较高剂量维生素D还与早产和低出生体重儿事件率降低的趋势相关，但估计不精确。他汀类和二甲双胍的证据不一致，置信区间宽。SUCRA排名提示维生素D在网络中总体干预的相对排名概率最高，其次是他汀类；但鉴于网络结构有限，这些排名仍属探索性。",
+          "limitations": "证据来自稀疏网络中的有限直接证据；证据确定性低，存在异质性且部分为间接证据；观察到的效应量不应被解释为临床有效性的证据；这些发现为假设生成性；他汀类和二甲双胍的证据仍有限且不一致。",
+          "clinicalInterpretation": "这些发现最好被视为假设生成性，旨在为未来研究设计提供信息，而非指导临床实践。需要进一步开展大型、设计良好的随机试验，才能做出明确的临床推荐。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "3ceda029be95d921f5c1bbff2dabdf830257f051a4899ef925ba35915129f968"
+      },
+      {
+        "id": "pmid:42824668",
+        "pmid": "42824668",
+        "doi": "10.1016/j.gore.2026.102211",
+        "title": "Assessing social determinants of health needs in newly diagnosed gynecologic oncology patients and their relationship with social support and stress levels.",
+        "abstract": "OBJECTIVE: Social determinants of health (SDoH) account for 80% of health outcomes and, with social support and perceived stress, shape treatment experiences and quality of life in gynecologic cancer. This study characterized the prevalence of unmet SDoH needs among patients with newly diagnosed gynecologic cancer and examined associations of SDoH burden with social support and perceived stress.\nMETHODS: Patients with newly diagnosed gynecologic cancer prospectively completed a PRAPARE-based survey assessing 11 SDoH domains, perceived stress, and social support. Logistic regression examined associations of social support and perceived stress with SDoH burden (high burden: ≥ 3 needs).\nRESULTS: Fifty-one patients completed screening (68.6% White, 29.4% non-White). Food-related needs were most prevalent (94.1%), followed by public insurance (18.4%) and unemployment (9.8%). Among 49 patients with complete data, 65.3% had one need, 26.5% two, and 8.2% ≥ 3. Most reported high social support (60.8%), and SDoH burden was not associated with social support (OR = 1.00, 95% CI: 0.44-2.24, p = .993). Higher perceived stress was associated with increased odds of high SDoH burden (OR = 3.35, 95% CI: 1.17-9.58, p = .024). Patients reporting ≥3 needs had higher mean stress (M = 3.25, SD = 1.50) than those with fewer needs (M = 1.53, SD = 1.12).\nCONCLUSIONS: Unmet SDoH needs were common among patients with newly diagnosed gynecologic cancer. Higher stress was associated with greater SDoH burden, suggesting stress and social needs may co-occur. Screening for SDoH and stress at diagnosis may identify vulnerable patients and guide early interventions.",
+        "journal": "Gynecologic oncology reports",
+        "authors": [
+          "Jeffrey E Pella",
+          "Jennifer Jorgensen",
+          "Rose Karvandi"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-17T00:00:00.000Z",
+        "activityAt": "2026-10-02T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42824668/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "评估新诊断妇科肿瘤患者的社会健康决定因素需求及其与社会支持和压力水平的关系",
+          "researchQuestion": "描述新诊断妇科癌症患者中未满足的社会健康决定因素（SDoH）需求的患病率，并检验SDoH负担与社会支持和感知压力之间的关联。",
+          "studyDesign": "前瞻性调查（基于PRAPARE的问卷）。",
+          "populationAndSample": "51名新诊断妇科癌症患者完成了筛查（68.6%为白人，29.4%为非白人）。在49名数据完整的患者中进行分析。",
+          "methods": "患者前瞻性完成基于PRAPARE的问卷，评估11个SDoH领域、感知压力和社会支持。采用逻辑回归检验社会支持和感知压力与SDoH负担（高负担：≥3项需求）的关联。",
+          "keyResults": "食物相关需求最常见（94.1%），其次是公共保险（18.4%）和失业（9.8%）。在49名数据完整的患者中，65.3%有1项需求，26.5%有2项，8.2%有≥3项。大多数人报告高社会支持（60.8%），SDoH负担与社会支持无关（OR=1.00，95% CI：0.44-2.24，p=.993）。较高的感知压力与高SDoH负担的比值增加相关（OR=3.35，95% CI：1.17-9.58，p=.024）。报告≥3项需求的患者平均压力更高（M=3.25，SD=1.50），而需求较少的患者平均压力较低（M=1.53，SD=1.12）。",
+          "limitations": "摘要未报告明确的局限性。",
+          "clinicalInterpretation": "在新诊断妇科癌症患者中，未满足的SDoH需求常见。较高压力与较大SDoH负担相关，提示压力和社交需求可能同时出现。在诊断时筛查SDoH和压力可能识别脆弱患者并指导早期干预。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "6ef6669c09c3fc7039b464b95f59f370770a01354c5478fb85d4df02c750923c"
+      },
+      {
+        "id": "pmid:42824792",
+        "pmid": "42824792",
+        "doi": "10.1002/jha2.70410",
+        "title": "Ovarian Reserve in Women of Reproductive Age With Sickle Cell Anaemia: A Scoping Review.",
+        "abstract": "BACKGROUND: Sickle cell anaemia (SCA) is an inherited haemoglobinopathy disproportionately common among people of African origin, though it affects multiple global populations. Emerging evidence suggests that chronic haemolysis, inflammation and treatment exposures in SCA may affect ovarian function. This scoping review aimed to map available evidence on ovarian reserve in women of reproductive age with SCA.\nMETHODS: PubMed/MEDLINE, Embase, Scopus, Web of Science and CINAHL were searched from inception to 31 January 2026, using Boolean operators combining terms related to SCA, ovarian reserve, anti-Müllerian hormone (AMH), antral follicle count (AFC) and follicle-stimulating hormone (FSH). Studies reporting biochemical or radiographic ovarian reserve in reproductive-aged women with SCA were included. Due to heterogeneous methodologies, data were extracted via standardised forms and narratively synthesised.\nRESULTS: Seven studies met the inclusion criteria, comprising six observational studies and one retrospective multi-centre fertility preservation cohort (total N = 488 women with sickle cell disease, of whom the large majority had HbSS). The majority of comparative studies reported lower AMH levels in women with SCA compared to controls, with reductions ranging from 48% to 79% depending on the population and assay method. Direct pooling was not performed due to assay heterogeneity. Lower AFC was also observed in studies reporting this measure. Studies that compared HbSS with HbAA controls consistently reported lower AMH and AFC, whereas data on HbSC and HbSβ° genotypes were too sparse to permit formal genotype comparison. Age demonstrated a stronger negative correlation with ovarian reserve markers among women with SCA compared to controls. Evidence on FSH was limited and inconsistent. Treatment-related findings, particularly regarding hydroxyurea exposure, were reported but causality could not be established due to confounding by disease severity.\nCONCLUSION: The available evidence indicates that women of reproductive age with SCA, particularly those with HbSS genotype, may demonstrate lower ovarian reserve indices compared to age-matched HbAA controls, though the cross-sectional nature of most studies limits causal inference. These findings highlight the need for early reproductive counselling and further longitudinal research.\nTRIAL REGISTRATION: The authors have confirmed clinical trial registration is not needed for this submission.",
+        "journal": "EJHaem",
+        "authors": [
+          "Adeniyi Olanipekun Fasanu",
+          "Haruna Oche Ahmadu",
+          "John Oluwadamilola Ojo",
+          "Kehinde Awodele",
+          "Sunday Charles Adeyemo"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-10-01T00:00:00.000Z",
+        "activityAt": "2026-10-02T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42824792/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "育龄期镰状细胞贫血女性的卵巢储备：范围综述",
+          "researchQuestion": "绘制关于育龄期镰状细胞贫血（SCA）女性卵巢储备的现有证据。",
+          "studyDesign": "范围综述。",
+          "populationAndSample": "纳入7项研究，包括6项观察性研究和1项回顾性多中心生育力保存队列（总计N=488名镰状细胞病女性，其中绝大多数为HbSS）。",
+          "methods": "检索PubMed/MEDLINE、Embase、Scopus、Web of Science和CINAHL，检索时间从建库至2026年1月31日，使用布尔运算符组合与SCA、卵巢储备、抗苗勒管激素（AMH）、窦卵泡计数（AFC）和促卵泡激素（FSH）相关的术语。纳入报告育龄期SCA女性生化或影像学卵巢储备的研究。由于方法学异质性，通过标准化表格提取数据并进行叙述性综合。",
+          "keyResults": "大多数比较研究报告SCA女性的AMH水平低于对照组，降低幅度为48%至79%，具体取决于人群和检测方法。由于检测方法异质性，未进行直接合并。报告AFC的研究也观察到较低的AFC。比较HbSS与HbAA对照组的研究一致报告较低的AMH和AFC，而HbSC和HbSβ°基因型的数据太稀疏，无法进行正式的基因型比较。与对照组相比，年龄与SCA女性卵巢储备标志物呈更强的负相关。FSH的证据有限且不一致。报告了治疗相关发现，特别是羟基脲暴露，但由于疾病严重程度的混杂，无法确定因果关系。",
+          "limitations": "大多数研究的横断面性质限制了因果推断。检测方法异质性、部分基因型数据稀疏、FSH证据有限且不一致、治疗相关分析的混杂。",
+          "clinicalInterpretation": "现有证据表明，育龄期SCA女性，特别是HbSS基因型者，与年龄匹配的HbAA对照组相比，可能表现出较低的卵巢储备指标，但大多数研究的横断面性质限制了因果推断。这些发现强调需要早期生殖咨询和进一步的纵向研究。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "0e0067254c38b4ed4991340d8da9209aaccd27dd174d114aefa21330f6c89475"
+      },
+      {
+        "id": "pmid:42825126",
+        "pmid": "42825126",
+        "doi": "10.1016/j.puhip.2026.100857",
+        "title": "Mapping community-based health promotion strategies for cervical cancer screening uptake: A scoping review of intervention components, delivery models and implementation gaps.",
+        "abstract": "OBJECTIVES: To map community-based health-promotion strategies used to improve cervical cancer screening uptake and to identify intervention components, delivery models, equity targets and implementation gaps.\nSTUDY DESIGN: Scoping review.\nMETHODS: The review followed PRISMA-ScR and JBI population-concept-context guidance. PubMed/MEDLINE, PubMed Central, publisher pages, ClinicalTrials.gov-linked records and DOI records were searched from inception through 3 June 2026, with backward and forward citation chasing. English-language original intervention or implementation studies with a community-facing screening-promotion component were eligible. One reviewer screened all full texts, and two coauthors validated the final inclusion decisions. Data were charted and synthesized descriptively across intervention, outcome, implementation and equity variables.\nRESULTS: Twenty-one original intervention or implementation studies were included in the evidence map. Nine contextual sources informed the background and five methodological sources informed review conduct but were not counted as included original evidence. Six recurring strategy families were observed: lay or peer workforce models, culturally tailored education, navigation and barrier reduction, HPV self-sampling, mHealth reminders and integrated outreach. Across heterogeneous designs, multicomponent approaches commonly linked trusted messengers, tailored communication, convenient screening access and active follow-up; no comparative effectiveness ranking was undertaken.\nCONCLUSIONS: Community-based cervical screening promotion can be designed and evaluated as a prevention cascade rather than as a one-time awareness activity. Future programmes should measure movement from engagement and access through screening completion, result delivery, triage and treatment linkage.",
+        "journal": "Public health in practice (Oxford, England)",
+        "authors": [
+          "Heru Priyanto",
+          "Nanik Setiyawati",
+          "Sri Sulistyowati"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-09-17T00:00:00.000Z",
+        "activityAt": "2026-10-02T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42825126/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "绘制基于社区的宫颈癌筛查参与健康促进策略：干预组成部分、实施模式和实施差距的范围综述",
+          "researchQuestion": "绘制用于提高宫颈癌筛查参与的社区健康促进策略，并识别干预组成部分、实施模式、公平目标和实施差距。",
+          "studyDesign": "范围综述。",
+          "populationAndSample": "纳入21项原始干预或实施研究。9个背景来源提供背景信息，5个方法学来源指导综述实施，但不计入纳入的原始证据。未报告参与者总数。",
+          "methods": "遵循PRISMA-ScR和JBI人群-概念-背景指导。检索PubMed/MEDLINE、PubMed Central、出版商页面、ClinicalTrials.gov关联记录和DOI记录，检索时间从建库至2026年6月3日，并进行后向和前向引文追踪。纳入有社区面向筛查促进组成部分的英文原始干预或实施研究。一名审查者筛选所有全文，两名合著者验证最终纳入决定。数据按干预、结局、实施和公平变量进行图表化和描述性综合。",
+          "keyResults": "观察到六个反复出现的策略家族：非专业或同伴劳动力模型、文化定制教育、导航和障碍减少、HPV自我采样、mHealth提醒和综合外展。在异质性设计中，多组成部分方法通常将可信信使、定制沟通、便利的筛查获取和主动随访联系起来；未进行比较有效性排序。",
+          "limitations": "摘要未报告明确的局限性；未进行比较有效性排序。",
+          "clinicalInterpretation": "社区宫颈筛查促进可以设计并评估为预防级联，而非一次性意识活动。未来项目应测量从参与和获取到筛查完成、结果传递、分诊和治疗联系的移动。这属于项目设计建议，而非临床实践指南。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "b0ddc3e83fbeba74455a140d5dd65358b5e8605347672234fa69621294f86616"
+      },
+      {
+        "id": "pmid:42825373",
+        "pmid": "42825373",
+        "doi": "10.3892/or.2026.9203",
+        "title": "Loperamide enhances the radiosensitivity of cervical cancer cells via ferroptosis induction.",
+        "abstract": "Cervical cancer is a malignant tumor that threatens women's health and radiotherapy represents a major therapeutic approach for its treatment; however, radioresistance frequently leads to treatment failure. The present study aimed to investigate whether loperamide (LOP), a µ‑opioid receptor agonist commonly used as an antidiarrheal agent, could enhance the radiosensitivity of cervical cancer cells by regulating ferroptosis. A Cell Counting Kit‑8 assay was used to evaluate the cytotoxicity of LOP in SiHa and HeLa cells, and EdU and colony formation assays were performed to assess cell proliferation. In addition, wound‑healing and Transwell assays were performed to detect cell migration. Flow cytometry was applied to measure cell apoptosis and intracellular reactive oxygen species (ROS) levels, and colorimetric assays were used to determine malondialdehyde (MDA) and glutathione (GSH) contents. The mRNA and protein expression levels of the ferroptosis‑related markers GSH peroxidase 4 (GPX4) and solute carrier family 7 member 11 (SLC7A11) were analyzed using reverse transcription‑quantitative PCR and western blotting. The results showed that LOP significantly inhibited the viability of SiHa and HeLa cells, and exerted a synergistic effect with radiotherapy (combination index <1) to suppress cell proliferation and migration. Combined treatment with LOP and radiotherapy markedly increased apoptosis and ROS accumulation, elevated MDA levels and reduced GSH levels. Moreover, the combination treatment significantly downregulated the expression of GPX4 and SLC7A11. These findings indicated that LOP enhances the radiosensitivity of cervical cancer cells, with ferroptosis induction via inhibition of the GPX4/SLC7A11 axis as a contributing mechanism. Both apoptosis and ferroptosis were induced by the combination treatment, suggesting that the radiosensitizing effect may involve multiple cell death pathways. These observations provide a basis for further investigation into LOP as a potential radiosensitizing agent in cervical cancer.",
+        "journal": "Oncology reports",
+        "authors": [
+          "Fuyun Wu",
+          "Haixia Li",
+          "Huarong Guo",
+          "Jing Ke",
+          "Shunkang Tian",
+          "Yunkai Zhang"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-02T00:00:00.000Z",
+        "activityAt": "2026-10-02T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42825373/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "洛哌丁胺通过诱导铁死亡增强宫颈癌细胞的放射敏感性",
+          "researchQuestion": "研究洛哌丁胺（LOP）是否可以通过调节铁死亡增强宫颈癌细胞的放射敏感性。",
+          "studyDesign": "体外细胞实验。",
+          "populationAndSample": "SiHa和HeLa宫颈癌细胞系。无人类受试者。",
+          "methods": "使用CCK-8 assay评估LOP对SiHa和HeLa细胞的细胞毒性；使用EdU和集落形成实验评估细胞增殖；使用伤口愈合和Transwell实验检测细胞迁移；使用流式细胞术测量细胞凋亡和细胞内活性氧（ROS）水平；使用比色法测定丙二醛（MDA）和谷胱甘肽（GSH）含量；使用RT-qPCR和western blot分析铁死亡相关标志物GPX4和SLC7A11的mRNA和蛋白表达水平。",
+          "keyResults": "LOP显著抑制SiHa和HeLa细胞的活力，并与放疗产生协同效应（组合指数<1），抑制细胞增殖和迁移。LOP联合放疗显著增加凋亡和ROS积累，升高MDA水平，降低GSH水平。此外，联合治疗显著下调GPX4和SLC7A11的表达。这些发现表明LOP增强宫颈癌细胞的放射敏感性，其机制涉及通过抑制GPX4/SLC7A11轴诱导铁死亡。联合治疗同时诱导了凋亡和铁死亡，提示放射增敏效应可能涉及多种细胞死亡途径。",
+          "limitations": "摘要未报告局限性。",
+          "clinicalInterpretation": "这些观察为进一步研究LOP作为宫颈癌潜在放射增敏剂提供了基础。此为体外实验发现，不能直接转化为临床建议。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "f9a64a7ce6835d0372405c61d6dda6d0eb5a2cdb133a961b21ab3779eddee466"
+      }
+    ]
+  }
+}
