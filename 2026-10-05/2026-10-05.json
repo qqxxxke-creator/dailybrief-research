@@ -1,0 +1,268 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-10-04T22:29:12.176Z",
+    "dataAsOf": "2026-10-04T22:29:12.176Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及母亲RSV疫苗接种预防婴儿下呼吸道感染的有效性和安全性：系统评价与Meta分析、基于PARP抑制剂的一线维持治疗用于新诊断晚期卵巢癌不同分子亚组：更新的系统评价和网络Meta分析、加强非洲妊娠期糖尿病的预防、诊断和照护：来自系统评价、Meta分析和文献计量分析的证据与政策重点。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42827513",
+        "pmid": "42827513",
+        "doi": "10.3389/fpubh.2026.1935421",
+        "title": "Efficacy and safety of maternal RSV vaccination against infant lower respiratory tract infections: a systematic review and meta-analysis.",
+        "abstract": "BACKGROUND: Respiratory syncytial virus (RSV) is the leading cause of infant lower respiratory tract infection (LRTI) and hospitalisation worldwide. Maternal RSV prefusion F (RSVpreF) vaccination protects infants through transplacental antibody transfer. We aimed to synthesise the efficacy, real-world effectiveness, and safety of maternal RSV vaccination for preventing infant LRTI, integrating randomised and observational evidence.\nMETHODS: We searched PubMed, Embase, Scopus, and Cochrane CENTRAL (to June 2026) for randomised controlled trials (RCTs) and observational studies of maternal RSV vaccination reporting infant LRTI, hospitalisation, or maternal-infant safety. A single reviewer, with large language model-assisted verification, screened records, extracted data, and assessed risk of bias (RoB 2; Newcastle-Ottawa Scale). Randomised and observational evidence were pooled separately using random-effects models; overlapping populations were resolved based on study periods and named participating sites. Certainty was rated with GRADE (PROSPERO CRD420261400053).\nRESULTS: Twenty-four studies (9 RCTs enrolling approximately 18,600 pregnant women, 15 observational) were included; all 15 observational studies evaluated the licensed Pfizer vaccine (Abrysvo). Pooled vaccine effectiveness against infant RSV-associated hospitalisation was 79.7% (95% CI 73.9-84.2) within 3 months and 68.1% (57.1-76.3) through 6 months. Randomised efficacy against severe RSV-LRTI was 70% for the licensed Pfizer vaccine, closely concordant with the real-world effectiveness; efficacy against medically attended RSV-LRTI was 51.5% (36.3-63.1). Preterm birth was modestly increased in the randomised trials (Mantel-Haenszel RR 1.17, 95% CI 1.03-1.32), but the signal was not robust: it became non-significant after excluding the GSK trial (GRACE; 1.10, 0.95-1.27), and for the licensed Pfizer vaccine, the increase was small and not robustly significant (pivotal MATISSE trial 1.20, 0.98-1.46; three-trial Pfizer pool 1.21, 1.00-1.46), while observational data showed a biologically implausible protective association (0.90, 0.82-0.99), consistent with healthy vaccinee confounding. No other maternal or neonatal safety signal was identified. Certainty of evidence was moderate for effectiveness and efficacy.\nCONCLUSION: Maternal RSVpreF vaccination confers substantial, generalisable protection against infant RSV disease, with randomised and real-world evidence in close agreement. For the licensed Pfizer vaccine administered within its approved 32-36-week window, no robustly significant increase in preterm birth is established, supporting its continued programmatic use alongside ongoing post-marketing surveillance.\nSYSTEMATIC REVIEW REGISTRATION: Unique Identifier: CRD420261400053 https://www.crd.york.ac.uk/PROSPERO/view/CRD420261400053.",
+        "journal": "Frontiers in public health",
+        "authors": [
+          "Arzu Yavuz",
+          "Gokce Naz Kucukbas Ozonder"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-09-18T00:00:00.000Z",
+        "activityAt": "2026-10-04T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42827513/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "母亲RSV疫苗接种预防婴儿下呼吸道感染的有效性和安全性：系统评价与Meta分析",
+          "researchQuestion": "旨在综合母亲RSV疫苗接种预防婴儿下呼吸道感染的有效性、真实世界效果和安全性，并整合随机对照与观察性证据。",
+          "studyDesign": "系统评价与Meta分析，分别合并随机对照试验和观察性研究证据；使用GRADE评级；PROSPERO注册号CRD420261400053。",
+          "populationAndSample": "共纳入24项研究，其中9项随机对照试验约纳入18,600名孕妇，15项观察性研究；所有15项观察性研究均评估已获批的Pfizer疫苗Abrysvo。",
+          "methods": "检索PubMed、Embase、Scopus和Cochrane CENTRAL至2026年6月，纳入报告婴儿下呼吸道感染、住院或母婴安全性的母亲RSV疫苗接种随机对照试验和观察性研究。由单名评价者在大语言模型辅助核查下筛选记录、提取数据并评估偏倚风险（RoB 2；Newcastle-Ottawa Scale）。随机和观察性证据分别使用随机效应模型合并；根据研究时段和命名参与站点解决重叠人群。使用GRADE评定确定性。",
+          "keyResults": "针对婴儿RSV相关住院的合并疫苗有效性为3个月内79.7%（95% CI 73.9-84.2），至6个月为68.1%（57.1-76.3）。针对严重RSV-LRTI的随机疗效为已获批Pfizer疫苗70%，与真实世界效果密切一致；针对需就医RSV-LRTI的疗效为51.5%（36.3-63.1）。随机试验中早产轻度增加（Mantel-Haenszel RR 1.17，95% CI 1.03-1.32），但该信号不稳健：排除GSK试验GRACE后变为不显著（1.10，0.95-1.27）；对于已获批Pfizer疫苗，增加幅度小且未达稳健显著（关键MATISSE试验1.20，0.98-1.46；三项Pfizer试验合并1.21，1.00-1.46），而观察性数据显示生物学上不太可能的保护性关联（0.90，0.82-0.99），与健康疫苗接种者混杂一致。未发现其他母亲或新生儿安全信号。有效性和疗效的证据确定性为中等。",
+          "limitations": "摘要报告：早产增加信号不稳健，排除GRACE试验后不显著；已获批Pfizer疫苗的早产增加小且未达稳健显著；观察性数据出现生物学上不太可能的保护性关联，提示健康疫苗接种者混杂；有效性和疗效的证据确定性为中等。",
+          "clinicalInterpretation": "作者结论认为，母亲RSVpreF疫苗接种对婴儿RSV疾病提供实质性、可推广的保护，随机与真实世界证据高度一致。对于已获批Pfizer疫苗在其批准的32-36周窗口接种，未确立稳健显著的早产增加，支持在持续上市后监测下继续程序性使用。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "6824b2fc17bd6ff50f5dbef34a18645fda740847a774fee037de02d3db89cd7d"
+      },
+      {
+        "id": "pmid:42827527",
+        "pmid": "42827527",
+        "doi": "10.3389/fonc.2026.1884407",
+        "title": "PARP inhibitor-based first-line maintenance therapy for newly diagnosed advanced ovarian cancer across molecular subgroups: an updated systematic review and network meta-analysis.",
+        "abstract": "BACKGROUND: PARP inhibitor-based maintenance has become central to first-line treatment of newly diagnosed advanced ovarian cancer. With expanding therapeutic options, treatment selection increasingly relies on BRCA mutation and homologous recombination deficiency (HRD) status. The 2026 NCCN Guidelines emphasize biomarker-directed maintenance; however, comparative evidence across molecular subgroups remains limited. We conducted an updated network meta-analysis to compare efficacy and safety of PARP inhibitor-based first-line maintenance strategies.\nMETHODS: We searched major databases and conference proceedings to 1 April 2026 for randomized controlled trials evaluating first-line maintenance in newly diagnosed advanced epithelial ovarian, fallopian tube, or primary peritoneal cancer. Eligible interventions included PARP inhibitor monotherapy, PARP inhibitor plus antiangiogenic therapy, antiangiogenic monotherapy, and placebo. Primary analyses focused on progression-free survival (PFS) in BRCA-mutated and HRD-positive populations; secondary and exploratory analyses covered intention-to-treat, HRD-positive non-BRCA-mutated, and homologous recombination proficient populations. Safety outcomes included grade ≥3 adverse events and treatment discontinuation. A frequentist random-effects model was applied.\nRESULTS: Seven trials involving 3,930 patients were included. PARP inhibitor-based maintenance significantly improved PFS versus placebo, with the strongest benefit in BRCA-mutated and HRD-positive populations. PARP inhibitor monotherapy also significantly improved PFS in the HRD-positive non-BRCA-mutated population, supporting clinical relevance of HRD status beyond BRCA mutation alone. Benefit in the intention-to-treat population was smaller than in biomarker-selected populations. Evidence of benefit in the homologous recombination proficient population was inconsistent. Indirect comparisons showed no statistically significant superiority of one active regimen over another. Within the connected network, no statistically significant incremental PFS benefit was established for adding antiangiogenic therapy to PARP inhibition; this comparison was limited by the restricted evidence base for combination therapy and the inability to incorporate PAOLA-1 into the primary network because of network disconnection. No statistically significant evidence indicated that frontline bevacizumab exposure modified the relative PFS benefit. Sensitivity analyses yielded results consistent with the primary analysis. PARP inhibitor monotherapy increased grade ≥3 adverse events versus placebo; comparative safety of combinations remained limited.\nCONCLUSIONS: This network meta-analysis supports biomarker-directed PARP inhibitor-based first-line maintenance in advanced ovarian cancer, with the greatest PFS benefit in BRCA-mutated and HRD-positive populations. No active regimen demonstrated statistically significant superiority within the connected network. The incremental benefit of adding antiangiogenic therapy to PARP inhibition remains uncertain because connected-network evidence for combination strategies was limited and PAOLA-1 could not be incorporated into the primary network. These findings should not be interpreted as evidence against the clinical value of olaparib plus bevacizumab or combination maintenance strategies in general. Treatment selection should integrate molecular status, prior bevacizumab exposure, safety, treatment availability, and patient preference.\nSYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/, identifier CRD420261382266.",
+        "journal": "Frontiers in oncology",
+        "authors": [
+          "Juntao Feng",
+          "Xiaoliang Mo",
+          "Xiaomei Qin"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-09-18T00:00:00.000Z",
+        "activityAt": "2026-10-04T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42827527/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "基于PARP抑制剂的一线维持治疗用于新诊断晚期卵巢癌不同分子亚组：更新的系统评价和网络Meta分析",
+          "researchQuestion": "在分子亚组中比较基于PARP抑制剂的一线维持治疗策略的有效性和安全性；背景提及2026 NCCN指南强调生物标志物导向维持治疗，但跨分子亚组的比较证据仍有限。",
+          "studyDesign": "更新的系统评价和网络Meta分析；采用频率学随机效应模型。",
+          "populationAndSample": "纳入7项随机对照试验，共3,930例新诊断晚期上皮性卵巢癌、输卵管癌或原发性腹膜癌患者。合格干预包括PARP抑制剂单药、PARP抑制剂联合抗血管生成治疗、抗血管生成单药和安慰剂。",
+          "methods": "检索主要数据库和会议论文集至2026年4月1日，纳入评估新诊断晚期上皮性卵巢癌、输卵管癌或原发性腹膜癌一线维持治疗的随机对照试验。主要分析聚焦BRCA突变和HRD阳性人群的PFS；次要和探索性分析涵盖意向治疗、HRD阳性非BRCA突变和同源重组 proficient人群。安全性结局包括≥3级不良事件和治疗中止。采用频率学随机效应模型。",
+          "keyResults": "基于PARP抑制剂的维持治疗较安慰剂显著改善PFS，在BRCA突变和HRD阳性人群获益最强。PARP抑制剂单药在HRD阳性非BRCA突变人群也显著改善PFS，支持HRD状态超越BRCA突变的临床相关性。意向治疗人群的获益小于生物标志物选择人群。同源重组 proficient人群的获益证据不一致。间接比较未显示一种活性方案较另一种有统计学显著优效。在连通网络中，未确立在PARP抑制基础上加用抗血管生成治疗的统计学显著增量PFS获益；该比较受组合治疗证据基础有限以及因网络不连通无法将PAOLA-1纳入主网络所限。无统计学显著证据表明一线贝伐珠单抗暴露改变相对PFS获益。敏感性分析与主要分析一致。PARP抑制剂单药较安慰剂增加≥3级不良事件；组合方案的安全性比较仍有限。",
+          "limitations": "组合治疗证据基础有限；PAOLA-1因网络不连通未能纳入主网络；同源重组 proficient人群的获益证据不一致；组合方案的安全性比较有限；在连通网络中无活性方案显示统计学显著优效。作者强调这些发现不应被解释为反对olaparib联合bevacizumab或联合维持策略整体临床价值的证据。",
+          "clinicalInterpretation": "该网络Meta分析支持生物标志物导向的PARP抑制剂一线维持治疗，在BRCA突变和HRD阳性人群PFS获益最大；连通网络中无活性方案显示统计学显著优效；加用抗血管生成治疗的增量获益仍不确定，因为组合策略的连通网络证据有限且PAOLA-1未能纳入主网络。作者提出治疗选择应综合分子状态、既往贝伐珠单抗暴露、安全性、治疗可及性和患者偏好。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "99927388ef7625e66ef31f758b261bb9245d540b32d90697e4f1d7c04e85289a"
+      },
+      {
+        "id": "pmid:42827563",
+        "pmid": "42827563",
+        "doi": "10.3389/fpubh.2026.1953914",
+        "title": "Strengthening gestational diabetes mellitus prevention, diagnosis, and care in Africa: evidence and policy priorities from a systematic review, meta-analysis, and bibliometric analysis.",
+        "abstract": "Gestational diabetes mellitus (GDM) is an increasing public health challenge in Africa, contributing substantially to maternal and neonatal morbidity. Evidence from our systematic review, meta-analysis, and bibliometric analysis shows that inconsistent screening practices, reliance on selective rather than universal testing, and limited health system capacity contribute to underdiagnosis and poor pregnancy outcomes. GDM is associated with adverse maternal and neonatal complications and increases the long-term risk of type-2 diabetes for mothers and offspring. Our bibliometric findings reveal uneven research capacity, limited regional collaboration, and evidence gaps across Africa. We propose five policy priorities: standardising GDM screening, strengthening prevention, expanding access to diagnostics and treatment, improving workforce capacity and follow-up, and increasing investment in African-led research to improve maternal health and reduce the intergenerational burden of diabetes.",
+        "journal": "Frontiers in public health",
+        "authors": [
+          "Benjamin Aye Simon",
+          "Chester Kalinda",
+          "Francis Akpa-Inyang",
+          "Lawrence Chauke",
+          "Nalini Govender",
+          "Yasmeen Thandar"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-09-18T00:00:00.000Z",
+        "activityAt": "2026-10-04T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42827563/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "加强非洲妊娠期糖尿病的预防、诊断和照护：来自系统评价、Meta分析和文献计量分析的证据与政策重点",
+          "researchQuestion": "摘要未明确报告研究问题；该文通过系统评价、Meta分析和文献计量分析，整合非洲妊娠期糖尿病预防、诊断和照护的证据，并提出政策重点。",
+          "studyDesign": "系统评价、Meta分析和文献计量分析；摘要未报告具体检索、纳排标准或统计合并方法。",
+          "populationAndSample": "聚焦非洲人群/地区，但摘要未报告纳入研究数量、受试者人数或具体地区/人群特征。",
+          "methods": "摘要未报告具体检索数据库、检索时间、纳入标准、偏倚评估或统计合并方法；仅概述基于其系统评价、Meta分析和文献计量分析的结果。",
+          "keyResults": "妊娠期糖尿病是非洲日益增加的公共卫生挑战，显著造成母亲和新生儿疾病负担。证据显示，筛查实践不一致、依赖选择性而非普遍检测以及卫生系统能力有限，导致诊断不足和不良妊娠结局。妊娠期糖尿病与不良母亲和新生儿并发症相关，并增加母亲和子代远期2型糖尿病风险。文献计量分析发现非洲研究能力不均衡、区域协作有限和证据缺口。作者提出五项政策重点：标准化妊娠期糖尿病筛查、加强预防、扩大诊断和治疗可及性、改善卫生人力能力与随访、增加对非洲主导研究的投入，以改善母亲健康并减少糖尿病的代际负担。",
+          "limitations": "摘要未报告方法学局限性；指出非洲存在证据缺口、研究能力不均衡和区域协作有限。",
+          "clinicalInterpretation": "该分析提示非洲妊娠期糖尿病管理面临筛查不一致、依赖选择性检测和卫生系统能力有限等问题，并与不良母婴结局及母亲和子代长期2型糖尿病风险相关。作者提出五项政策重点：标准化妊娠期糖尿病筛查、加强预防、扩大诊断和治疗可及性、改善卫生人力能力与随访、增加非洲主导的研究投入，以改善母亲健康并减少糖尿病的代际负担。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "d89c86777a3409ac3af87e1eb350024a1a1a8f25a6ddd17b08026726696e1853"
+      },
+      {
+        "id": "pmid:42829852",
+        "pmid": "42829852",
+        "doi": "10.1080/07853890.2026.2740294",
+        "title": "Repeated remimazolam sedation for interstitial brachytherapy in cervical cancer: a randomized controlled trial.",
+        "abstract": "BACKGROUND: Evidence regarding repeated remimazolam administration remains limited. We hypothesized that remimazolam would be associated with fewer adverse events than propofol while maintaining stable sedative requirements across three repeated sedation sessions.\nMETHODS: Patients with cervical cancer undergoing three fractions of interstitial brachytherapy were randomized to propofol or remimazolam. The primary outcome was the proportion of sedation episodes with at least one prespecified intraoperative adverse event across three sessions. Secondary outcomes included sedative dose, hemodynamics, and sleep quality assessed using the Pittsburgh Sleep Quality Index (PSQI) and Athens Insomnia Scale (AIS).\nRESULTS: A total of 100 participants were randomized, of whom 91 completed all three prespecified sedation sessions and were included in the primary per-protocol analysis (46 in the propofol group and 45 in the remimazolam group). Across 138 propofol and 135 remimazolam episodes, overall adverse events were less frequent with remimazolam (17.78% vs. 59.42%; RR, 0.30; 95% CI, 0.18-0.49; p < 0.001). Respiratory depression (3.70% vs. 26.09%; RR, 0.14; 95% CI, 0.04-0.53; p = 0.004) and hypotension (8.15% vs. 41.30%; RR, 0.20; 95% CI, 0.09-0.42; p < 0.001) were also lower with remimazolam. Remimazolam requirements remained stable across sessions (third vs. first: mean difference, 0.19 mg; 95% CI, -0.78 to 1.15; p = 0.846). No significant between-group differences were observed in PSQI or AIS scores.\nCONCLUSION: Across three consecutive sedation sessions for interstitial brachytherapy, remimazolam was associated with fewer respiratory and hemodynamic adverse events than propofol, while sedative requirements remained stable across the three sessions.\nTRIAL REGISTRATION: Chinese Clinical Trial Registry (identifier: ChiCTR2500108294).",
+        "journal": "Annals of medicine",
+        "authors": [
+          "Deling Zeng",
+          "Handan Yang",
+          "Huaiming Wang",
+          "Jiaxin Sun",
+          "Jinjun Shu",
+          "Qian Gu",
+          "Yanqing Wang",
+          "Yiquan Xu"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-10-04T00:00:00.000Z",
+        "activityAt": "2026-10-04T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42829852/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "宫颈癌间质近距离放疗中重复瑞马唑仑镇静：一项随机对照试验",
+          "researchQuestion": "假设在三轮重复镇静中，瑞马唑仑较丙泊酚与更少不良事件相关，同时保持稳定的镇静需求。",
+          "studyDesign": "随机对照试验；主要分析为符合方案分析。",
+          "populationAndSample": "100例接受三轮间质近距离放疗分次的宫颈癌患者被随机分组；其中91例完成所有三轮预设镇静并纳入主要符合方案分析，丙泊酚组46例，瑞马唑仑组45例。",
+          "methods": "将接受三轮间质近距离放疗分次的宫颈癌患者随机分配至丙泊酚或瑞马唑仑。主要结局为三轮镇静中至少发生一项预设术中不良事件的镇静次数比例。次要结局包括镇静剂量、血流动力学，以及使用匹兹堡睡眠质量指数（PSQI）和雅典失眠量表（AIS）评估的睡眠质量。",
+          "keyResults": "在138次丙泊酚和135次瑞马唑仑镇静中，瑞马唑仑总体不良事件更少（17.78% vs. 59.42%；RR，0.30；95% CI，0.18-0.49；p < 0.001）。呼吸抑制（3.70% vs. 26.09%；RR，0.14；95% CI，0.04-0.53；p = 0.004）和低血压（8.15% vs. 41.30%；RR，0.20；95% CI，0.09-0.42；p < 0.001）在瑞马唑仑组也更低。瑞马唑仑需求在三轮会话间保持稳定（第三轮 vs. 第一轮：平均差，0.19 mg；95% CI，-0.78至1.15；p = 0.846）。PSQI或AIS评分未观察到显著组间差异。",
+          "limitations": "摘要未报告独立局限性；100例随机中91例完成三轮预设镇静并纳入主要符合方案分析（丙泊酚46例、瑞马唑仑45例）。",
+          "clinicalInterpretation": "在宫颈癌间质近距离放疗的三次连续镇静中，瑞马唑仑较丙泊酚与更少呼吸和血流动力学不良事件相关，且镇静需求在三次会话间保持稳定。两组PSQI或AIS评分无显著差异。作者结论认为，瑞马唑仑较丙泊酚与更少呼吸和血流动力学不良事件相关，同时三次会话中镇静需求保持稳定。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "d9578e660ff8178408dc9d0a7575934278f965858de1d8bb97537f3234480d33"
+      },
+      {
+        "id": "pmid:42827637",
+        "pmid": "42827637",
+        "doi": "10.3389/fonc.2026.1935380",
+        "title": "Sleep disturbance, anxiety, and depression in postoperative ovarian cancer patients: prevalence, associated factors, and symptom interrelationships.",
+        "abstract": "OBJECTIVE: This study aimed to investigate the prevalence, associated factors, and interrelationships of sleep disturbance, anxiety, and depression in postoperative ovarian cancer patients.\nMETHODS: A cross-sectional study was conducted among 302 postoperative patients with epithelial ovarian cancer, fallopian tube cancer, or primary peritoneal cancer. Sleep disturbance, anxiety, and depression were assessed using the Pittsburgh Sleep Quality Index (PSQI), Generalized Anxiety Disorder-7 (GAD-7), and Patient Health Questionnaire-9 (PHQ-9), respectively. Spearman correlation analyses were used to examine associations among symptoms. Binary logistic regression analyses identified factors independently associated with each symptom.\nRESULTS: Among 302 postoperative ovarian cancer patients, sleep disturbance was the most prevalent psychological symptom, affecting 72.5% of participants, followed by depression (40.1%) and anxiety (26.5%). Co-occurrence of all three symptoms was observed in 18.2% of patients. In multivariable analyses, depressive symptoms were independently associated with sleep disturbance (OR = 1.33, 95% CI: 1.16-1.51), while disease recurrence (OR = 2.34, 95% CI: 1.15-4.77) and chemotherapy exposure were additionally associated with sleep disturbance. For anxiety symptoms, depressive symptoms remained independently associated with anxiety (OR = 1.37, 95% CI: 1.21-1.55), whereas urban residence was associated with lower odds of anxiety symptoms (OR = 0.49, 95% CI: 0.25-0.99). For depressive symptoms, anxiety symptoms (OR = 1.40, 95% CI: 1.24-1.58), sleep disturbance (OR = 1.16, 95% CI: 1.06-1.27), and cancer-related fatigue (OR = 1.45, 95% CI: 1.18-1.79) remained independent correlates. In addition, patients with average satisfaction with family life had higher odds of depressive symptoms compared with those reporting very high satisfaction (OR = 3.95, 95% CI: 1.41-11.03).\nCONCLUSIONS: Postoperative ovarian cancer patients experience a substantial burden of psychological symptoms, with sleep disturbance being the most prevalent. Distinct sociodemographic, clinical, and psychological factors were independently associated with sleep disturbance, anxiety, and depressive symptoms, which were also closely interrelated. Routine psychological screening and comprehensive supportive care integrating psychological, physical, and social interventions may help improve symptom management.",
+        "journal": "Frontiers in oncology",
+        "authors": [
+          "Boer Shan",
+          "Enzhao Cong",
+          "Huijuan Yang",
+          "Jialiang Yao",
+          "Jianhui Tian",
+          "Wei Jiang",
+          "Xi Cheng",
+          "Yanhong Wang",
+          "Yuan Yao",
+          "Yun Yang",
+          "Ze Liu"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-18T00:00:00.000Z",
+        "activityAt": "2026-10-04T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42827637/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "术后卵巢癌患者睡眠障碍、焦虑和抑郁：患病率、相关因素及症状相互关系",
+          "researchQuestion": "探讨术后卵巢癌患者睡眠障碍、焦虑和抑郁的患病率、相关因素及症状之间的相互关系。",
+          "studyDesign": "横断面研究。",
+          "populationAndSample": "302例术后上皮性卵巢癌、输卵管癌或原发性腹膜癌患者。",
+          "methods": "使用匹兹堡睡眠质量指数（PSQI）、广泛性焦虑障碍量表-7（GAD-7）和患者健康问卷-9（PHQ-9）分别评估睡眠障碍、焦虑和抑郁。使用Spearman相关分析检查症状间关联。使用二元logistic回归分析识别与各症状独立相关的因素。",
+          "keyResults": "在302例术后卵巢癌患者中，睡眠障碍是最常见的心理症状，影响72.5%的参与者，其次是抑郁（40.1%）和焦虑（26.5%）。三种症状同时出现见于18.2%的患者。在多变量分析中，抑郁症状与睡眠障碍独立相关（OR = 1.33，95% CI：1.16-1.51），疾病复发（OR = 2.34，95% CI：1.15-4.77）和化疗暴露也与睡眠障碍相关。对于焦虑症状，抑郁症状仍与焦虑独立相关（OR = 1.37，95% CI：1.21-1.55），而城市居住与焦虑症状较低 odds 相关（OR = 0.49，95% CI：0.25-0.99）。对于抑郁症状，焦虑症状（OR = 1.40，95% CI：1.24-1.58）、睡眠障碍（OR = 1.16，95% CI：1.06-1.27）和癌症相关疲乏（OR = 1.45，95% CI：1.18-1.79）仍为独立相关因素。此外，与报告非常高的家庭生活满意度相比，家庭生活满意度一般的患者抑郁症状 odds 更高（OR = 3.95，95% CI：1.41-11.03）。",
+          "limitations": "摘要未报告明确的局限性；研究为横断面设计，结果报告为独立相关/关联。",
+          "clinicalInterpretation": "该横断面研究提示，术后卵巢癌患者存在显著心理症状负担，睡眠障碍最常见。不同的社会人口学、临床和心理因素与睡眠障碍、焦虑和抑郁症状独立相关，且这些症状之间密切关联。作者提出常规心理筛查和整合心理、躯体和社会干预的综合支持性照护可能有助于改善症状管理。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "16839222efdb14e8a8dc1cbb4abb467653494ad91db88f7f9931b2724153970d"
+      }
+    ]
+  }
+}
