@@ -1,0 +1,281 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-10-05T22:32:11.598Z",
+    "dataAsOf": "2026-10-05T22:32:11.598Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及E7386联合lenvatinib治疗铂类化疗和抗PD-(L)1免疫治疗后进展的晚期子宫内膜癌：单臂、开放标签、全球1b/2期剂量扩展队列、利用性传播感染门诊开展宫颈癌筛查：来自印度的证据、接受niraparib一线维持治疗的晚期上皮性卵巢癌患者的真实世界结局：一项欧洲回顾性队列研究。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42830785",
+        "pmid": "42830785",
+        "doi": "10.1016/j.eclinm.2026.104206",
+        "title": "E7386 plus lenvatinib in patients with advanced endometrial cancer that progressed on platinum-based chemotherapy and an anti-PD-(L)1 immunotherapy: a single-arm, open-label, global phase 1b/2 dose-expansion cohort.",
+        "abstract": "BACKGROUND: Novel therapies are needed for advanced endometrial cancer (aEC) that recurs after chemotherapy + immunotherapy. Lenvatinib has antitumour activity in patients with aEC after platinum-based chemotherapy and is approved in combination with pembrolizumab for aEC following prior systemic therapy. E7386, an oral anticancer agent, inhibits the interaction between β-catenin and CREB-binding protein (CBP). Preliminary results of a dose expansion cohort of Study 102 (n = 16) showed manageable safety and promising antitumour activity of E7386 + lenvatinib in aEC that progressed after platinum-based chemotherapy and anti-programmed cell death (ligand) 1, including responses in patients with prior lenvatinib. We report safety and antitumour activity for this complete dose expansion cohort.\nMETHODS: In a dose expansion cohort of Study 102 (NCT04008797), patients with aEC that progressed after platinum-based chemotherapy and immunotherapy received E7386 120 mg twice daily plus lenvatinib 14 mg once daily (amended from 20 mg during enrolment). The primary endpoint was safety; secondary endpoints included objective response rate (ORR), duration of response, clinical benefit rate, and progression-free survival by investigator per RECIST v1·1).\nFINDINGS: Thirty patients were enrolled; 16 (53·3%) previously received lenvatinib. By data cut-off (4 June, 2025), five (16·7%) patients had treatment ongoing. All patients experienced treatment-emergent adverse events (TEAEs), most commonly vomiting (n = 22, 73·3%). Nineteen (63·3%) patients had grade 3 TEAEs, most frequently diarrhoea (n = 4). No grade 4-5 AEs were observed. TEAEs led to withdrawal of lenvatinib and/or E7386 in two patients. Overall, 11 patients (three with prior lenvatinib) had a confirmed response (one complete, ten partial) for an ORR of 36·7% (95% CI: 19·9-56·1). In patients without prior lenvatinib (n = 14), the ORR was 57·1% (95% CI: 28·9-82·3).\nINTERPRETATION: E7386 + lenvatinib showed promising antitumour activity with a manageable safety profile in heavily pretreated patients with aEC following platinum-based chemotherapy + immunotherapy. The dose-optimisation phase of Study 102 (E7386 + lenvatinib in patients with advanced endometrial carcinoma) is currently enrolling (NCT04008797).\nFUNDING: Eisai Inc., Nutley, NJ, USA.",
+        "journal": "EClinicalMedicine",
+        "authors": [
+          "Alka A Potdar",
+          "Barry Berman",
+          "Bradley Corr",
+          "Byoung-Gie Kim",
+          "Chrisann Kyi",
+          "David S Miller",
+          "Douglas Orr",
+          "Jincao Wu",
+          "Jodi McKenzie",
+          "Jung-Yun Lee",
+          "Kosei Hasegawa",
+          "Lea Dutta",
+          "Mayu Yunokawa",
+          "Noboru Yamamoto",
+          "Pamela T Soliman",
+          "Shiro Suzuki",
+          "Takatoshi Sahara",
+          "Takayuki Kimura"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-23T00:00:00.000Z",
+        "activityAt": "2026-10-05T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42830785/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "E7386联合lenvatinib治疗铂类化疗和抗PD-(L)1免疫治疗后进展的晚期子宫内膜癌：单臂、开放标签、全球1b/2期剂量扩展队列",
+          "researchQuestion": "在铂类化疗和抗PD-(L)1免疫治疗后进展的晚期子宫内膜癌患者中，E7386联合lenvatinib的安全性和抗肿瘤活性如何？",
+          "studyDesign": "单臂、开放标签、全球1b/2期剂量扩展队列（Study 102，NCT04008797）。",
+          "populationAndSample": "30例患者入组；16例（53·3%）既往接受过lenvatinib。",
+          "methods": "患者接受E7386 120 mg每日两次联合lenvatinib 14 mg每日一次（入组期间由20 mg调整）。主要终点为安全性；次要终点包括研究者按RECIST v1·1评估的客观缓解率（ORR）、缓解持续时间、临床获益率和无进展生存期。",
+          "keyResults": "截至数据截止日（2025年6月4日），5例（16·7%）患者治疗仍在进行。所有患者均发生治疗中出现的不良事件（TEAE），最常见为呕吐（n=22，73·3%）。19例（63·3%）患者发生3级TEAE，最常见为腹泻（n=4）。未观察到4-5级AE。TEAE导致2例患者停用lenvatinib和/或E7386。共11例患者（其中3例既往接受过lenvatinib）获得确认缓解（1例完全缓解，10例部分缓解），ORR为36·7%（95% CI：19·9-56·1）。在未接受过lenvatinib的患者中（n=14），ORR为57·1%（95% CI：28·9-82·3）。",
+          "limitations": "摘要未报告正式局限性讨论；该研究为单臂剂量扩展队列，lenvatinib剂量在入组期间从20 mg调整为14 mg。",
+          "clinicalInterpretation": "在重度经治的晚期子宫内膜癌患者中，E7386联合lenvatinib显示出有前景的抗肿瘤活性和可控的安全性。摘要指出Study 102的剂量优化阶段正在入组（NCT04008797）。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "486a62eabddda6d92e0fcdb6b9e2ee4d7f1cbfaf03baf8f0068f4709e2a01e3b"
+      },
+      {
+        "id": "pmid:42830849",
+        "pmid": "42830849",
+        "doi": "10.5588/pha.26.0036",
+        "title": "Leveraging sexually transmitted infection clinics for cervical cancer screening: evidence from India.",
+        "abstract": "SETTING: Four government-run sexually transmitted infection/reproductive tract infection (STI/RTI) clinics at secondary and tertiary care hospitals in Nagpur district, Maharashtra, India.\nOBJECTIVE: To assess readiness and provider knowledge for Papanicolaou (Pap) smear-based cervical cancer screening (CCS), and to explore willingness, enablers, and barriers to CCS and integrating CCS into STI/RTI clinics.\nDESIGN: This was a convergent parallel mixed-methods study. Facility readiness and provider knowledge were assessed quantitatively. In-depth interviews explored implementation perspectives among purposively selected women clients, providers, and programme managers.\nRESULTS: Three out of four clinics met readiness standards, but only one clinic scored well in provider knowledge. Of 28 female clients, 27 (96%) were willing for CCS after counselling. Key enablers for clients to undergo CCS were respectful communication, and female-friendly and affordable services. Barriers included fear, embarrassment, low awareness, and poor family support. Providers (n = 9) highlighted well-equipped facilities, female staff availability, and permission from authorities to be key enablers for integration. They identified high workload and lack of training, staff, and programme-level support as constraints. The two programme managers perceived integration to be of less value.\nCONCLUSION: STI/RTI clinics could serve as a complementary platform for opportunistic CCS among high-risk women, provided human resources, training, awareness generation, and programme-level engagement are strengthened.",
+        "journal": "Public health action",
+        "authors": [
+          "A A Alwani",
+          "A D Harries",
+          "A Dani",
+          "A Pawar",
+          "A Seshachalam",
+          "J P Tripathy",
+          "K Gavali",
+          "M Vijayageetha",
+          "N B Kuravatti",
+          "P R Deshmukh",
+          "P Yadav"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-24T00:00:00.000Z",
+        "activityAt": "2026-10-05T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42830849/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "利用性传播感染门诊开展宫颈癌筛查：来自印度的证据",
+          "researchQuestion": "在印度Nagpur地区政府运行的STI/RTI门诊中，开展Pap涂片宫颈癌筛查的准备度和提供者知识如何？女性客户、提供者和项目管理者的意愿、促进因素和障碍是什么？",
+          "studyDesign": "收敛平行混合方法研究。定量评估机构准备度和提供者知识；对目的性选取的女性客户、提供者和项目管理者进行深度访谈。",
+          "populationAndSample": "印度马哈拉施特拉邦Nagpur地区四家二级和三级医院的政府运行STI/RTI门诊；28名女性客户；9名提供者；2名项目管理者。",
+          "methods": "定量评估机构准备度和提供者知识；对女性客户、提供者和项目管理者进行深度访谈以探讨实施观点。",
+          "keyResults": "4家诊所中3家达到准备度标准，但仅1家诊所在提供者知识方面得分良好。28名女性客户中27名（96%）在咨询后愿意接受宫颈癌筛查。客户接受筛查的关键促进因素包括尊重性沟通以及女性友好且可负担的服务。障碍包括恐惧、尴尬、认知低和家庭支持差。提供者（n=9）强调设备齐全的设施、女性工作人员可及性及当局许可是整合的关键促进因素。他们指出高工作量以及缺乏培训、人员和项目层面支持是限制因素。2名项目管理者认为整合价值较低。",
+          "limitations": "摘要未报告正式局限性讨论；为混合方法研究，样本量小且来自特定地区，结论为探索性。",
+          "clinicalInterpretation": "摘要认为，若加强人力资源、培训、意识提升和项目层面参与，STI/RTI门诊可作为高风险女性机会性宫颈癌筛查的补充平台。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "b98ab30d2a6031114ceaf6986fff493c3ee35600831fbd6794c4684eb6863a08"
+      },
+      {
+        "id": "pmid:42830865",
+        "pmid": "42830865",
+        "doi": "10.1016/j.esmorw.2026.100777",
+        "title": "Real-world outcomes in patients with advanced epithelial ovarian cancer receiving niraparib as first-line maintenance: a European retrospective cohort study.",
+        "abstract": "BACKGROUND: In this real-world study, outcomes were evaluated in patients with stage III advanced epithelial ovarian cancer (EOC) with no visible residual disease (NVRD) after primary cytoreductive surgery (PCS), a subgroup excluded from the phase III PRIMA trial.\nMATERIALS AND METHODS: The noninterventional, retrospective EUROPA study included patients with advanced (stage III or IV) EOC who initiated first-line maintenance (1LM) niraparib monotherapy (index date) between 1 October 2018 and 31 March 2023 in France, Germany, and Italy. Real-world time to treatment discontinuation (rwTTD) and real-world progression-free survival (rwPFS) were assessed among all patients and in a subgroup of patients with stage III disease and NVRD after PCS (stage III NVRD subgroup).\nRESULTS: Among 186 patients in this study, 48 were included in the stage III NVRD subgroup. Median (95% CI) rwTTD in the overall cohort versus stage III NVRD subgroup was 10.6 (7.8-18.6) versus 26.2 (8.9-not reached) months. In the overall cohort, median (95% CI) rwPFS was 14.7 (10.1-29.3) months but not reached in the stage III NVRD subgroup. rwTTD and rwPFS probabilities were higher for the stage III NVRD subgroup versus overall cohort at 12, 24, and 36 months after index date.\nCONCLUSIONS: In the real-world setting, patients with stage III advanced EOC and NVRD after PCS had descriptively better clinical outcomes than those in the overall cohort with advanced EOC. The use of 1LM niraparib in these patients, a subgroup excluded from the PRIMA trial, appeared to be associated with clinically meaningful real-world outcomes.",
+        "journal": "ESMO real world data and digital oncology",
+        "authors": [
+          "A Fagotti",
+          "A K Golembesky",
+          "C Hogg",
+          "E I Braicu",
+          "J T Lim",
+          "J-S Frenel",
+          "K Arnold",
+          "M Saint-Ghislain",
+          "T A Calderón Boyle"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-22T00:00:00.000Z",
+        "activityAt": "2026-10-05T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42830865/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "接受niraparib一线维持治疗的晚期上皮性卵巢癌患者的真实世界结局：一项欧洲回顾性队列研究",
+          "researchQuestion": "在真实世界中，接受niraparib一线维持治疗的晚期上皮性卵巢癌患者，尤其是原发性细胞减灭术（PCS）后无可见残留病灶（NVRD）的III期患者，其结局如何？",
+          "studyDesign": "非干预性、回顾性EUROPA研究。",
+          "populationAndSample": "纳入2018年10月1日至2023年3月31日在法国、德国和意大利启动一线维持niraparib单药治疗的晚期（III期或IV期）上皮性卵巢癌患者，共186例；其中48例为III期且PCS后NVRD（III期NVRD亚组）。",
+          "methods": "评估所有患者及III期NVRD亚组的真实世界治疗终止时间（rwTTD）和真实世界无进展生存期（rwPFS）。",
+          "keyResults": "总体队列与III期NVRD亚组的中位（95% CI）rwTTD分别为10.6（7.8-18.6）个月与26.2（8.9-未达到）个月。总体队列中位（95% CI）rwPFS为14.7（10.1-29.3）个月，而III期NVRD亚组未达到。在索引日期后12、24和36个月，III期NVRD亚组的rwTTD和rwPFS概率高于总体队列。",
+          "limitations": "摘要未报告正式局限性讨论；为回顾性、非干预性研究，结果属于描述性关联，不能推断因果关系；III期NVRD亚组样本量较小（n=48）。",
+          "clinicalInterpretation": "在真实世界环境中，III期晚期上皮性卵巢癌且PCS后NVRD的患者，其临床结局描述性地优于总体晚期上皮性卵巢癌队列。摘要认为，在这些被PRIMA试验排除的患者中，一线维持niraparib的使用似乎与有临床意义的真实世界结局相关。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "a974ce79dab335935bf612be2772afe6211fd9941584b14798fda9a67be613fe"
+      },
+      {
+        "id": "pmid:42832692",
+        "pmid": "42832692",
+        "doi": "10.1080/01443615.2026.2719766",
+        "title": "Development of a lipid-glycaemic prediction model for gestational diabetes mellitus: a single-Centre retrospective study.",
+        "abstract": "BACKGROUND: Gestational diabetes mellitus (GDM) is a common pregnancy complication. Although lipid parameters, the triglyceride-glucose (TyG) index, and TyG-body mass index (TyG-BMI) have been associated with GDM, their relative value within an integrated lipid-glycaemic prediction framework remains unclear. This study developed and internally validated an interpretable model for GDM risk estimation.\nMETHODS: This single-centre retrospective study included 287 pregnant women who underwent 75 g oral glucose tolerance testing and fasting lipid assessment at 24-28 gestational weeks, including 72 with GDM and 215 without GDM. Candidate predictors comprised maternal characteristics, fasting plasma glucose (FPG), routine lipid fractions, apolipoproteins, the TyG index, and TyG-BMI. Forward stepwise likelihood-ratio logistic regression was used to develop the original combined model. A structured alternative model replaced pre-pregnancy BMI, FPG, and triglycerides with TyG-BMI. Model performance was evaluated using receiver operating characteristic analysis, calibration measures, threshold-dependent diagnostic metrics, 1,000-resample bootstrap internal validation, paired DeLong testing, a nomogram, and decision curve analysis.\nRESULTS: Eight variables were retained in the original combined model: maternal age, pre-pregnancy BMI, FPG, total cholesterol, triglycerides, non-high-density lipoprotein cholesterol, low-density lipoprotein cholesterol, and apolipoprotein B. Its apparent and optimism-corrected AUCs were 0.848 (95% CI: 0.786-0.909) and 0.830, respectively; the bootstrap-corrected calibration intercept was -0.03, calibration slope was 0.86, and Brier score was 0.147. The TyG-BMI alternative model had apparent and optimism-corrected AUCs of 0.831 (95% CI: 0.765-0.897) and 0.817. The AUC difference was 0.017 (95% CI: -0.011 to 0.045; P = 0.235). Decision curve analysis indicated potential net benefit for both models across clinically relevant thresholds.\nCONCLUSION: Both models showed good internally validated discrimination and acceptable calibration for GDM risk estimation at routine screening. The original model had a numerically higher AUC, but discrimination did not differ significantly between models. External validation is required before clinical implementation.",
+        "journal": "Journal of obstetrics and gynaecology : the journal of the Institute of Obstetrics and Gynaecology",
+        "authors": [
+          "Linlin Wang",
+          "Qian Zhu",
+          "Xufeng Gong"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-05T00:00:00.000Z",
+        "activityAt": "2026-10-05T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42832692/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "妊娠期糖尿病脂质-血糖预测模型的开发：一项单中心回顾性研究",
+          "researchQuestion": "在24-28孕周接受75 g口服葡萄糖耐量试验和空腹血脂评估的孕妇中，脂质参数、TyG指数和TyG-BMI在整合的脂质-血糖预测框架中对妊娠期糖尿病（GDM）风险的相对价值如何？",
+          "studyDesign": "单中心回顾性研究，开发并内部验证可解释的GDM风险估计模型。",
+          "populationAndSample": "287例孕妇，包括72例GDM和215例非GDM；均在24-28孕周接受75 g口服葡萄糖耐量试验和空腹血脂评估。",
+          "methods": "候选预测因素包括母亲特征、空腹血糖（FPG）、常规血脂组分、载脂蛋白、TyG指数和TyG-BMI。采用前向逐步似然比logistic回归开发原始联合模型；另构建结构化替代模型，以TyG-BMI替代孕前BMI、FPG和甘油三酯。通过受试者工作特征分析、校准指标、阈值依赖性诊断指标、1000次重抽样bootstrap内部验证、配对DeLong检验、列线图和决策曲线分析评估模型性能。",
+          "keyResults": "原始联合模型保留8个变量：母亲年龄、孕前BMI、FPG、总胆固醇、甘油三酯、非高密度脂蛋白胆固醇、低密度脂蛋白胆固醇和载脂蛋白B。其表观AUC和乐观校正AUC分别为0.848（95% CI：0.786-0.909）和0.830；bootstrap校正校准截距为-0.03，校准斜率为0.86，Brier评分为0.147。TyG-BMI替代模型的表观AUC和乐观校正AUC分别为0.831（95% CI：0.765-0.897）和0.817。AUC差异为0.017（95% CI：-0.011至0.045；P=0.235）。决策曲线分析提示两个模型在临床相关阈值范围内均可能有净获益。",
+          "limitations": "摘要未报告正式局限性讨论；为单中心回顾性研究，仅进行内部验证，需要在临床实施前进行外部验证。",
+          "clinicalInterpretation": "两个模型在常规筛查时用于GDM风险估计均显示出良好的内部验证区分度和可接受的校准。原始模型AUC在数值上更高，但两个模型间区分度无显著差异。摘要指出临床实施前需要外部验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "7d9600bb36d907224924c89c8960f00973f03ec203edb10136e8078b61ba4550"
+      },
+      {
+        "id": "pmid:42832698",
+        "pmid": "42832698",
+        "doi": "10.1080/01443615.2026.2739152",
+        "title": "Prediction of chronic pelvic pain after adenomyosis surgery: an observational comparative study.",
+        "abstract": "BACKGROUND: Chronic pelvic pain (CPP) remains a common and clinically challenging outcome after uterus-preserving surgery for adenomyosis. Identifying patients at higher risk of postoperative CPP may facilitate individualised postoperative management.\nMETHODS: The clinical data of 150 patients with adenomyosis admitted to our hospital from January 2022 to January 2025 were prospectively collected for observation. Uterine volume, Pictorial Blood Loss Assessment Chart (PBAC) score, Cox Menstrual Symptom Scale (CMSS) score, cancer antigen 125 (CA125) level, haemoglobin (Hb) level, and three-level version of the EuroQol five-dimensional questionnaire (EQ-5D-3L) score were recorded preoperatively and at 3 and 6 months postoperatively. Patients were divided into CPP ( n = 38) and non-CPP ( n = 112) groups based on 6‑month CPP status. Independent risk factors were identified using logistic regression, and a predictive model was developed and validated.\nRESULTS: Significant improvements were observed in uterine volume, PBAC score, CMSS score, CA125 level, and Hb level postoperatively ( P < 0.05). EQ-5D-3L scores improved in usual activities, pain/discomfort, and anxiety/depression ( P < 0.05). Preoperative CMSS score, CA125 level, and diffuse-type adenomyosis were identified as independent factors associated with CPP, while preoperative hormonal pre-treatment and postoperative regular hormonal therapy showed significant associations in univariate analysis. The predictive model incorporating these variables showed good calibration (Hosmer-Lemeshow χ 2 = 15.477, P = 0.051) and strong discrimination (AUC = 0.820, 95% CI : 0.743-0.897). At the maximum Youden's index (0.567), sensitivity was 76.30% and specificity was 80.40% ( P < 0.001).\nCONCLUSION: High preoperative CMSS score, high CA125 level, and diffuse-type adenomyosis are independent risk factors for postoperative CPP, while preoperative hormonal pre-treatment and postoperative regular hormonal therapy may be associated with a lower risk of CPP. The predictive model effectively identifies high-risk patients, supporting targeted nursing interventions.",
+        "journal": "Journal of obstetrics and gynaecology : the journal of the Institute of Obstetrics and Gynaecology",
+        "authors": [
+          "Jingjing Zhang",
+          "Juan Sun",
+          "Le Bu",
+          "Wei Jin",
+          "Xiaohang Ye",
+          "Xiaolei Yang"
+        ],
+        "publicationTypes": [
+          "Comparative Study",
+          "Journal Article",
+          "Observational Study"
+        ],
+        "publishedAt": "2026-10-05T00:00:00.000Z",
+        "activityAt": "2026-10-05T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42832698/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "子宫腺肌病手术后慢性盆腔痛的预测：一项观察性比较研究",
+          "researchQuestion": "子宫腺肌病患者接受保留子宫手术后，哪些因素与术后6个月慢性盆腔痛（CPP）相关？能否构建预测模型识别高风险患者？",
+          "studyDesign": "观察性比较研究；前瞻性收集临床数据并进行观察。",
+          "populationAndSample": "2022年1月至2025年1月入院接受治疗的150例子宫腺肌病患者；根据术后6个月CPP状态分为CPP组（n=38）和非CPP组（n=112）。",
+          "methods": "术前及术后3个月和6个月记录子宫体积、PBAC评分、CMSS评分、CA125水平、血红蛋白（Hb）水平和EQ-5D-3L评分。采用logistic回归识别独立危险因素，并开发及验证预测模型。",
+          "keyResults": "术后子宫体积、PBAC评分、CMSS评分、CA125水平和Hb水平均有显著改善（P<0.05）。EQ-5D-3L评分在日常活动、疼痛/不适和焦虑/抑郁方面改善（P<0.05）。术前CMSS评分、CA125水平和弥漫型子宫腺肌病被确定为与CPP相关的独立因素；术前激素预处理和术后规律激素治疗在单变量分析中显示出显著关联。纳入这些变量的预测模型校准良好（Hosmer-Lemeshow χ2=15.477，P=0.051），区分度强（AUC=0.820，95% CI：0.743-0.897）。在最大Youden指数（0.567）时，敏感性为76.30%，特异性为80.40%（P<0.001）。",
+          "limitations": "摘要未报告正式局限性讨论；为观察性比较研究，激素治疗相关因素仅来自单变量分析，模型的外部验证未报告。",
+          "clinicalInterpretation": "摘要指出，高术前CMSS评分、高CA125水平和弥漫型子宫腺肌病是术后CPP的独立危险因素，而术前激素预处理和术后规律激素治疗可能与较低的CPP风险相关。该预测模型可识别高风险患者，支持针对性护理干预。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "de2610dff10ce0aab5a290fecb80d1cfa5618480c96e104fbb0d196cbcc240e6"
+      }
+    ]
+  }
+}
