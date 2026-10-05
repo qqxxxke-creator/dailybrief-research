@@ -7,8 +7,8 @@
   "editor_note": "过去24小时暂无符合质量要求的重要更新。",
   "keywords": [],
   "research": {
-    "generatedAt": "2026-10-05T22:32:11.598Z",
-    "dataAsOf": "2026-10-05T22:32:11.598Z",
+    "generatedAt": "2026-10-05T23:20:06.137Z",
+    "dataAsOf": "2026-10-05T23:20:06.137Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及E7386联合lenvatinib治疗铂类化疗和抗PD-(L)1免疫治疗后进展的晚期子宫内膜癌：单臂、开放标签、全球1b/2期剂量扩展队列、利用性传播感染门诊开展宫颈癌筛查：来自印度的证据、接受niraparib一线维持治疗的晚期上皮性卵巢癌患者的真实世界结局：一项欧洲回顾性队列研究。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
@@ -51,15 +51,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "E7386联合lenvatinib治疗铂类化疗和抗PD-(L)1免疫治疗后进展的晚期子宫内膜癌：单臂、开放标签、全球1b/2期剂量扩展队列",
           "researchQuestion": "在铂类化疗和抗PD-(L)1免疫治疗后进展的晚期子宫内膜癌患者中，E7386联合lenvatinib的安全性和抗肿瘤活性如何？",
@@ -71,7 +62,16 @@
           "clinicalInterpretation": "在重度经治的晚期子宫内膜癌患者中，E7386联合lenvatinib显示出有前景的抗肿瘤活性和可控的安全性。摘要指出Study 102的剂量优化阶段正在入组（NCT04008797）。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "486a62eabddda6d92e0fcdb6b9e2ee4d7f1cbfaf03baf8f0068f4709e2a01e3b"
+        "summaryInputHash": "486a62eabddda6d92e0fcdb6b9e2ee4d7f1cbfaf03baf8f0068f4709e2a01e3b",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42830849",
@@ -105,15 +105,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "利用性传播感染门诊开展宫颈癌筛查：来自印度的证据",
           "researchQuestion": "在印度Nagpur地区政府运行的STI/RTI门诊中，开展Pap涂片宫颈癌筛查的准备度和提供者知识如何？女性客户、提供者和项目管理者的意愿、促进因素和障碍是什么？",
@@ -125,7 +116,16 @@
           "clinicalInterpretation": "摘要认为，若加强人力资源、培训、意识提升和项目层面参与，STI/RTI门诊可作为高风险女性机会性宫颈癌筛查的补充平台。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "b98ab30d2a6031114ceaf6986fff493c3ee35600831fbd6794c4684eb6863a08"
+        "summaryInputHash": "b98ab30d2a6031114ceaf6986fff493c3ee35600831fbd6794c4684eb6863a08",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42830865",
@@ -157,15 +157,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "接受niraparib一线维持治疗的晚期上皮性卵巢癌患者的真实世界结局：一项欧洲回顾性队列研究",
           "researchQuestion": "在真实世界中，接受niraparib一线维持治疗的晚期上皮性卵巢癌患者，尤其是原发性细胞减灭术（PCS）后无可见残留病灶（NVRD）的III期患者，其结局如何？",
@@ -177,7 +168,16 @@
           "clinicalInterpretation": "在真实世界环境中，III期晚期上皮性卵巢癌且PCS后NVRD的患者，其临床结局描述性地优于总体晚期上皮性卵巢癌队列。摘要认为，在这些被PRIMA试验排除的患者中，一线维持niraparib的使用似乎与有临床意义的真实世界结局相关。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "a974ce79dab335935bf612be2772afe6211fd9941584b14798fda9a67be613fe"
+        "summaryInputHash": "a974ce79dab335935bf612be2772afe6211fd9941584b14798fda9a67be613fe",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42832692",
@@ -203,15 +203,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "妊娠期糖尿病脂质-血糖预测模型的开发：一项单中心回顾性研究",
           "researchQuestion": "在24-28孕周接受75 g口服葡萄糖耐量试验和空腹血脂评估的孕妇中，脂质参数、TyG指数和TyG-BMI在整合的脂质-血糖预测框架中对妊娠期糖尿病（GDM）风险的相对价值如何？",
@@ -223,7 +214,16 @@
           "clinicalInterpretation": "两个模型在常规筛查时用于GDM风险估计均显示出良好的内部验证区分度和可接受的校准。原始模型AUC在数值上更高，但两个模型间区分度无显著差异。摘要指出临床实施前需要外部验证。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "7d9600bb36d907224924c89c8960f00973f03ec203edb10136e8078b61ba4550"
+        "summaryInputHash": "7d9600bb36d907224924c89c8960f00973f03ec203edb10136e8078b61ba4550",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42832698",
@@ -254,15 +254,6 @@
         "matchedTopicIds": [
           "endometriosis-benign-gynecology"
         ],
-        "assignedTopicId": "endometriosis-benign-gynecology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "子宫腺肌病手术后慢性盆腔痛的预测：一项观察性比较研究",
           "researchQuestion": "子宫腺肌病患者接受保留子宫手术后，哪些因素与术后6个月慢性盆腔痛（CPP）相关？能否构建预测模型识别高风险患者？",
@@ -274,7 +265,16 @@
           "clinicalInterpretation": "摘要指出，高术前CMSS评分、高CA125水平和弥漫型子宫腺肌病是术后CPP的独立危险因素，而术前激素预处理和术后规律激素治疗可能与较低的CPP风险相关。该预测模型可识别高风险患者，支持针对性护理干预。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "de2610dff10ce0aab5a290fecb80d1cfa5618480c96e104fbb0d196cbcc240e6"
+        "summaryInputHash": "de2610dff10ce0aab5a290fecb80d1cfa5618480c96e104fbb0d196cbcc240e6",
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       }
     ]
   }
