@@ -1,0 +1,231 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-10-07T01:25:39.048Z",
+    "dataAsOf": "2026-10-07T01:25:39.048Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及雌三醇-乳酸杆菌联合制剂与聚卡波非阴道保湿剂对宫颈癌女性放疗后阴道炎的影响：随机对照试验、Talc Use and Risk of Cancer: An Umbrella Review and Overlapped Analysis.、Tumor-intrinsic IFNγ signaling and niche adaptation drive early colonization in ovarian cancer metastasis.。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42836699",
+        "pmid": "42836699",
+        "doi": "10.1111/jog.70525",
+        "title": "Effects of Estriol-Lactobacilli Combination Versus Polycarbophil-Based Vaginal Moisturizer on Post-Radiation Vaginitis in Women With Cervical Cancer: A Randomized Controlled Trial.",
+        "abstract": "OBJECTIVE: To compare the efficacy of an estriol-lactobacilli combination vaginal tablet (E3/L) and polycarbophil-based vaginal moisturizer (PBVM) in women with post-radiation vaginitis following cervical cancer treatment.\nMETHODS: This open-label, randomized controlled trial recruited 34 women with Stages I-III cervical cancer who had completed pelvic radiotherapy and developed vaginal toxicity symptoms. Participants were randomized 1:1 to E3/L (Gynoflor) or PBVM (Regelle) for 4 weeks. The primary outcome was change in vaginal maturation value (VMV). Secondary outcomes included changes in vaginal pH, vaginal toxicity symptom scores, and Female Sexual Function Index (FSFI) scores.\nRESULTS: The median improvement in VMV was significantly greater with E3/L than with PBVM (19.65 [IQR: 0-39.5] vs. 2.08 [IQR: 0-20.1] points; p = 0.035; 95% CI: 10.22-32.59). Vaginal dryness and inflammation improved significantly in the E3/L group. Changes in vaginal pH, dyspareunia, and vaginal pain were similar between groups. Although the FSFI change was greater with E3/L (median +6 vs. +2; p = 0.01), absolute FSFI scores at Week 4 were similar, and clinical significance is uncertain. Both treatments were well tolerated.\nCONCLUSION: In women with cervical cancer and radiation-induced vaginitis, E3/L showed greater short-term improvements in vaginal epithelial maturation, dryness, and inflammation than PBVM over 4 weeks. These findings are exploratory given the modest sample size, open-label design, and short follow-up; larger double-blind randomized trials with extended follow-up are needed to confirm these results.\nTRIAL REGISTRATION: Thai Clinical Trials Registry: TCTR2024051001.",
+        "journal": "The journal of obstetrics and gynaecology research",
+        "authors": [
+          "Kanet Kanjanapradit",
+          "Krantarat Peeyananjarassri",
+          "Natcha Koohachaiskun",
+          "Satit Klangsin",
+          "Thiti Atjimakul"
+        ],
+        "publicationTypes": [
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-10-01T00:00:00.000Z",
+        "activityAt": "2026-10-06T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42836699/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "雌三醇-乳酸杆菌联合制剂与聚卡波非阴道保湿剂对宫颈癌女性放疗后阴道炎的影响：随机对照试验",
+          "researchQuestion": "在宫颈癌治疗后发生放疗后阴道炎的女性中，比较雌三醇-乳酸杆菌联合阴道片（E3/L）与聚卡波非阴道保湿剂（PBVM）的疗效。",
+          "studyDesign": "开放标签随机对照试验；受试者按1:1随机分配；干预4周；主要结局为阴道成熟值（VMV）变化；次要结局包括阴道pH、阴道毒性症状评分和女性性功能指数（FSFI）评分。临床试验注册：Thai Clinical Trials Registry: TCTR2024051001。",
+          "populationAndSample": "招募34名已完成盆腔放疗并出现阴道毒性症状的I-III期宫颈癌女性。",
+          "methods": "将34名受试者按1:1随机分配至E3/L（Gynoflor）或PBVM（Regelle），治疗4周。主要结局为VMV变化；次要结局包括阴道pH、阴道毒性症状评分和FSFI评分的变化。",
+          "keyResults": "E3/L组VMV中位改善显著大于PBVM组（19.65 [IQR: 0-39.5] vs. 2.08 [IQR: 0-20.1]分；p=0.035；95% CI: 10.22-32.59）。E3/L组阴道干燥和炎症显著改善。两组间阴道pH、性交痛和阴道疼痛变化相似。尽管E3/L组FSFI变化更大（中位数+6 vs. +2；p=0.01），但第4周绝对FSFI评分相似，临床意义不确定。两种治疗均耐受良好。",
+          "limitations": "作者指出，鉴于样本量不大、开放标签设计和短期随访，这些发现具有探索性；需要更大规模的双盲随机试验并延长随访以确认结果。",
+          "clinicalInterpretation": "在宫颈癌合并放疗诱导阴道炎的女性中，E3/L在4周内对阴道上皮成熟、干燥和炎症的短期改善大于PBVM；这些结果属探索性，需进一步双盲随机试验确认。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "5dd33bda2d6771364a8a876905f737a05f77e43b5f51b029d9c3d095d124d98a"
+      },
+      {
+        "id": "pmid:42833996",
+        "pmid": "42833996",
+        "doi": "10.1002/cnr2.70705",
+        "title": "Talc Use and Risk of Cancer: An Umbrella Review and Overlapped Analysis.",
+        "abstract": "BACKGROUND: This umbrella review aimed to systematically synthesize and critically appraise the available evidence from systematic reviews and meta-analyses evaluating the association between talc exposure and cancer risk in humans.\nMETHODS: This umbrella review was conducted in accordance with the PRIOR guidelines and registered in PROSPERO. A comprehensive search of PubMed, Embase, Scopus, Web of Science, and Epistemonikos was performed up to October 2024 without language or date restrictions. Eligible studies were systematic reviews evaluating any type of talc exposure in humans. Study selection and data extraction were performed independently, and risk of bias was assessed using the AMSTAR-2 tool.\nRESULTS: Nine systematic reviews were included, eight combining cohort and case-control studies and one restricted to cohort studies. Cosmetic talc exposure was the most frequently investigated, with most reviews focused on ovarian cancer. Moderate overlap of study populations (9.2%) was identified, primarily related to Boon et al. Based on AMSTAR-2, confidence in the evidence was moderate in one review and critically low in seven, with frequent methodological shortcomings such as lack of protocol registration and unclear study exclusions. For occupational exposure, elevated risks were observed for overall cancer (RR 1.21; 95% CI 1.03-1.42) and colorectal cancer (SIR 1.59; 95% CI 1.07-2.26), while no increased risk was found for other cancer types. Four of five systematic reviews evaluating cosmetic talc exposure and ovarian cancer reported a statistically significant association with increased ovarian cancer risk, whereas one review found no statistically significant association. However, confidence in the results of the reviews included was predominantly low or critically low, reflecting important methodological limitations, including concerns regarding risk-of-bias assessment and reporting. Overall, the evidence supporting an association between cosmetic talc exposure and ovarian cancer was of limited confidence.\nCONCLUSION: There is limited evidence from systematic reviews regarding the association of exposure to cosmetic talc with an increased risk of developing ovarian cancer. Therefore, the results of the systematic reviews should be regarded as suggestive, rather than definitive, and further studies are required to demonstrate a causal relationship.",
+        "journal": "Cancer reports (Hoboken, N.J.)",
+        "authors": [
+          "Adrian V Hernandez",
+          "Carlos Quispe-Vicuña",
+          "Fran Espinoza-Carhuancho",
+          "Frank Mayta-Tovalino",
+          "Miguel Cabanillas-Lazo"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-01T00:00:00.000Z",
+        "activityAt": "2026-10-05T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42833996/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 11.25,
+          "recency": 7.5,
+          "total": 93.75,
+          "evidenceRank": 1
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42834039",
+        "pmid": "42834039",
+        "doi": "10.1038/s41467-026-77222-8",
+        "title": "Tumor-intrinsic IFNγ signaling and niche adaptation drive early colonization in ovarian cancer metastasis.",
+        "abstract": "The mechanisms enabling disseminating tumor cells to survive and colonize peritoneal niches during ovarian cancer metastasis remain incompletely understood. Here, we present MetTag, a single-cell barcoding and transcriptome profiling approach with time-stamped batch identifiers to resolve temporal dynamics of dissemination. Sequencing of MetTag barcodes reveals enrichment of early-disseminated clones across metastatic sites, and targeted depletion of pioneers diminishes the outgrowth of later arriving cells. MetTag-coupled single-cell RNA sequencing uncovers a distinct interferon-gamma-centric transcriptional trajectory enriched among pioneer clones. CRISPR/Cas9 screening and subsequent interferon-gamma receptor 1 knockout in pioneer cells significantly reduces metastatic burden, highlighting a critical window where active interferon-gamma signaling shapes the post-seeding metastatic niche and outgrowth. Mechanistically, the tumor-intrinsic interferon-gamma response and peritoneal macrophages cooperatively shield disseminating tumor cells from anoikis. Our study defines the temporal clonal architecture of peritoneal metastasis, revealing a first come, first served dissemination principle, where pioneer fitness determines the success of subsequent colonizers.",
+        "journal": "Nature communications",
+        "authors": [
+          "Ates Tenekeci",
+          "Emilija Aleksandrovic",
+          "Hazel M Borges",
+          "Jacqueline Lopez",
+          "Jayanthi Lea",
+          "Kevin M Dean",
+          "Lei Yu",
+          "Lin Xu",
+          "M Sharon Stack",
+          "Min Zhao",
+          "Nikitha M Das",
+          "Samantha M Golomb",
+          "Shaneann R Fross",
+          "Siyuan Zhang",
+          "Tanner C Reese",
+          "Wei Ma",
+          "Xiyu Liu",
+          "Zhenyu Zhong",
+          "Zhuo Zhao"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-03T00:00:00.000Z",
+        "activityAt": "2026-10-06T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42834039/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42834318",
+        "pmid": "42834318",
+        "doi": "10.1007/s43032-026-02234-0",
+        "title": "3D Placental Bed Perfusion Ultrasound: Development and Internal Validation of Trimester-Specific Prediction Models for Early- and Late-Onset Preeclampsia.",
+        "abstract": "This study aimed to develop trimester-specific and combined prediction models for early-onset preeclampsia (EOPE) and late-onset preeclampsia (LOPE) based on maternal clinical characteristics, uterine artery pulsatility index (UtA-PI), and 3D placental parameters, identify the optimal models, and construct static nomograms. A total of 1602 singleton pregnant women were prospectively enrolled from October 8, 2020 to May 31, 2025. All maternal clinical data were collected and participants were followed up until delivery. UtA-PI and 3D placental ultrasound parameters, including placental volume (PV), placental quotient (PQ), and placental blood flow vascularization index (PBVFI), were measured at 11-14 and 15-18 weeks of gestation, and the placental vascular growth rate (PVGR) was calculated. According to the gestational age at preeclampsia onset, participants were divided into the EOPE group (n = 29), LOPE group (n = 58), and normal control group (n = 1515). Univariable and multivariable Firth's logistic regression analyses were performed to identify independent predictors. Model performance was evaluated using receiver operating characteristic (ROC) curves, bootstrap-based calibration and decision curve analysis (DCA). Static nomograms were constructed based on the optimal combined models. Chronic hypertension was an independent risk factor for both EOPE and LOPE, while elevated placental perfusion parameters exerted a protetive effect. The combined model achieved optimal predictive performance, with AUCs of 0.980 (95% CI 0.968-0.992) for EOPE and 0.827 (95% CI 0.765-0.889) for LOPE. Internal bootstrap validation confirmed acceptable calibration, and DCA demonstrated positive net clinical benefit. Static nomograms established based on the optimal models enable individualized risk assessment for EOPE and LOPE. We developed and internally validated trimester-specific and combined prediction models to assess the risks of EOPE and LOPE, and constructed static nomograms based on the optimal models. The models achieved favorable apparent performance in this single-center cohort. Nevertheless, their generalizability remains unclear. External validation using independent cohorts is required before large-scale application in routine antenatal screening.",
+        "journal": "Reproductive sciences (Thousand Oaks, Calif.)",
+        "authors": [
+          "Chaoyi Qi",
+          "Hongling Wang",
+          "Huifeng Wang",
+          "Jing Li",
+          "Leilei Yu",
+          "Ming Liu",
+          "Zongqi Zhou"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-05T00:00:00.000Z",
+        "activityAt": "2026-10-06T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42834318/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42834466",
+        "pmid": "42834466",
+        "doi": "10.1002/jcu.70413",
+        "title": "The Effectiveness of a First-Trimester Combined Screening Model for Risk Stratification of Preeclampsia (PE).",
+        "abstract": "AIM: To ascertain the effectiveness of a first-trimester combined screening model for risk stratification of preeclampsia (PE) in a south Indian population.\nMETHODS: One hundred and sixty pregnant women were screened at 11-14 gestation weeks with routine antenatal ultrasound, mean uterine artery pulsatility index (UtA PI), mean arterial blood pressure (MAP), and serum placental growth factor (PlGF) assessments. Sensitivity, specificity, area under the receiver operator characteristic (AUC) curves, and diagnostic accuracy were ascertained for 1 in 50, 1 in 100, and 1 in 150 cutoff criteria.\nRESULTS: PE and gestational hypertension developed in 18 (11.6%, 95% CI: 7.47-19.67) and 10 (6.5%, 95% CI: 3.54-11.74) screened women, respectively. The first-trimester combined screening model identified 26 (16.77%), 34 (21.94%), and 38 (24.52%) screen-positive women using a 1 in 50, 1 in 100, and 1 in 150 cut-offs, respectively and had an AUC of 0.85 (95% CI: 0.76, 0.93). The detection rates, AUC, and odds ratio were higher with the 1 in 150 cut-off criteria than the 1 in 100 or 1 in 50 cut-off, but there was a slight decrease in the specificity and diagnostic accuracy.\nCONCLUSION: The first-trimester combined screening model at 11-14 weeks differentiated pregnant women at high risk for preterm PE in this population. A risk stratification cutoff of 1 in 150 had a better AUC than a 1 in 100 or 1 in 50 cutoff.",
+        "journal": "Journal of clinical ultrasound : JCU",
+        "authors": [
+          "Bobby Zachariah",
+          "Gowda Mamtha",
+          "Narayanasamy Saranya",
+          "Vellathussery Chakkalakkoombil Sunitha"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-05T00:00:00.000Z",
+        "activityAt": "2026-10-06T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42834466/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      }
+    ]
+  }
+}
