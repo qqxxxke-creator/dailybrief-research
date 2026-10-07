@@ -1,0 +1,269 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-10-07T22:13:42.763Z",
+    "dataAsOf": "2026-10-07T22:13:42.763Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及卡度尼利单抗联合仑伐替尼治疗晚期子宫内膜癌：多中心单臂II期CLEAR-EC试验、孕前糖尿病女性中孕早期阿司匹林分配策略与早产型子痫前期：一项全国多中心观察性队列研究、集中化滋养细胞诊疗对州级服务中妊娠滋养细胞肿瘤患者的影响。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42838953",
+        "pmid": "42838953",
+        "doi": "10.1038/s41467-026-77467-3",
+        "title": "Cadonilimab plus lenvatinib in advanced endometrial cancer: the multicenter single-arm phase II CLEAR-EC trial.",
+        "abstract": "Treatment options are limited for women with advanced endometrial cancer after platinum-based chemotherapy. In this single-arm, multicenter phase II CLEAR-EC trial with a safety run-in, we evaluated cadonilimab, a bispecific antibody targeting PD-1 and CTLA-4, plus lenvatinib as second-line or later therapy (ClinicalTrials.gov: NCT05824481). Three patients were enrolled in the safety run-in, followed by 29 additional patients after the recommended phase II dose was established. The primary endpoint was objective response rate; secondary endpoints included progression-free survival, overall survival, duration of response, disease control rate, and safety. Prespecified exploratory analyses assessed circulating tumor DNA in relation to efficacy, with additional post-hoc biomarker analyses. No dose-limiting toxicities occurred, establishing lenvatinib 16 mg once daily plus cadonilimab 10 mg/kg every three weeks as the recommended phase II dose. The trial met its prespecified primary endpoint, with an objective response rate of 40.6% (95% confidence interval, 23.7-59.4). Disease control rate was 81.3% (95% confidence interval, 63.6-92.8), median progression-free survival was 13.8 months, and median overall survival was not reached. Grade ≥3 treatment-related adverse events occurred in 40.6% of patients. Early on-treatment circulating tumor DNA levels were associated with progression-free and overall survival.",
+        "journal": "Nature communications",
+        "authors": [
+          "Chunyan Lan",
+          "Dongqin Zhu",
+          "Haixi Liang",
+          "Hongying Yang",
+          "Jing Zhao",
+          "Lin Zhou",
+          "Qiaoxian Yin",
+          "Sijian Li",
+          "Wenyan Wang",
+          "Xiaoliu Wu",
+          "Xielan Yang",
+          "Xin Huang",
+          "Yin Wang"
+        ],
+        "publicationTypes": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Multicenter Study",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "publishedAt": "2026-09-04T00:00:00.000Z",
+        "activityAt": "2026-10-07T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42838953/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 21.25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 96.25,
+          "evidenceRank": 0.85
+        },
+        "summaryZh": {
+          "titleZh": "卡度尼利单抗联合仑伐替尼治疗晚期子宫内膜癌：多中心单臂II期CLEAR-EC试验",
+          "researchQuestion": "在铂类化疗后的晚期子宫内膜癌女性中，卡度尼利单抗（靶向PD-1和CTLA-4的双特异性抗体）联合仑伐替尼作为二线或后线治疗的疗效和安全性如何？",
+          "studyDesign": "多中心、单臂、II期试验，包含安全性导入期（ClinicalTrials.gov: NCT05824481）。",
+          "populationAndSample": "铂类化疗后的晚期子宫内膜癌女性；安全性导入期入组3例，确定II期推荐剂量后额外入组29例（共32例）。",
+          "methods": "卡度尼利单抗联合仑伐替尼治疗；主要终点为客观缓解率；次要终点包括无进展生存期、总生存期、缓解持续时间、疾病控制率和安全性；预设探索性分析评估循环肿瘤DNA与疗效的关系，并进行事后生物标志物分析。",
+          "keyResults": "未发生剂量限制性毒性，确定仑伐替尼16 mg每日一次联合卡度尼利单抗10 mg/kg每三周一次为II期推荐剂量。试验达到预设主要终点，客观缓解率为40.6%（95%置信区间23.7-59.4）。疾病控制率为81.3%（95%置信区间63.6-92.8），中位无进展生存期为13.8个月，中位总生存期未达到。≥3级治疗相关不良事件发生于40.6%的患者。治疗早期循环肿瘤DNA水平与无进展生存期和总生存期相关。",
+          "limitations": "摘要未报告明确局限性；研究为单臂II期试验，共32例患者。",
+          "clinicalInterpretation": "该单臂II期试验显示，在铂类化疗后的晚期子宫内膜癌中，卡度尼利单抗联合仑伐替尼达到预设主要终点，客观缓解率为40.6%，中位无进展生存期为13.8个月，中位总生存期未达到，≥3级治疗相关不良事件为40.6%。这些结果来自单臂试验，需在更充分验证前谨慎解读，不能单独作为指南或临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "3f0a4340c3d59a15a8ea9b6e5812de9b605d3290631a1db36049193793ccbeb2"
+      },
+      {
+        "id": "pmid:42839342",
+        "pmid": "42839342",
+        "doi": "10.1111/aogs.70363",
+        "title": "First-trimester aspirin allocation strategies and preterm preeclampsia in women with pregestational diabetes: A national multicenter observational cohort study.",
+        "abstract": "INTRODUCTION: Women with pregestational diabetes mellitus (PGDM) are at increased risk of preeclampsia (PE) and are commonly prescribed aspirin prophylaxis based on clinical risk factors alone. First-trimester screening algorithms may allow a more individualized allocation of aspirin. We aimed to compare the association between three first-trimester aspirin allocation strategies and the incidence of preterm PE in women with PGDM in routine clinical practice.\nMATERIAL AND METHODS: This retrospective multicenter observational cohort study included 519 singleton pregnancies with PGDM managed at six tertiary hospitals in Spain between January 2017 and December 2022. Women were classified according to the strategy used to allocate aspirin prophylaxis: clinical risk factor-based prophylaxis, first-trimester algorithm-based screening without placental growth factor (PlGF), or algorithm-based screening including PlGF. The primary outcome was preterm PE (<37 weeks). Secondary outcomes included overall and severe PE, gestational age at delivery, spontaneous preterm birth, birthweight, small-for-gestational-age infants, and neonatal intensive care unit admission. Multivariable regression models were adjusted for prespecified maternal characteristics.\nRESULTS: Among 519 pregnancies, 255 were managed using clinical risk factor-based prophylaxis, 119 using the algorithm without PlGF, and 145 using the algorithm with PlGF. Aspirin was prescribed to 100%, 16.8%, and 28.3% of women, respectively. Preterm PE rates were 4.7%, 5.9%, and 4.2%, respectively. After multivariable adjustment, no statistically significant differences in preterm PE were observed for the algorithm without PlGF (adjusted odds ratio [aOR] 1.89, 95% confidence interval [CI] 0.62-5.45) or with PlGF (aOR 1.33, 95% CI 0.41-3.91) compared with clinical risk factor-based prophylaxis. Secondary maternal and perinatal outcomes were also comparable across groups.\nCONCLUSIONS: In women with PGDM, algorithm-based aspirin allocation strategies were associated with substantially lower aspirin exposure without evidence of increased preterm PE or adverse perinatal outcomes compared with clinical risk factor-based prophylaxis. However, given the observational design, baseline differences, and limited number of events, the study was not powered to demonstrate equivalence or exclude smaller clinically relevant differences. These findings should therefore be considered exploratory and require confirmation in adequately powered prospective studies.",
+        "journal": "Acta obstetricia et gynecologica Scandinavica",
+        "authors": [
+          "Ana M Wägner Fahlin",
+          "Anna Megía Colet",
+          "Begoña Vega Guedes",
+          "Fernando Bugatto",
+          "Irene Vinagre Torres",
+          "Judit Amigó Farrán",
+          "Manel Mendoza",
+          "María M Goya",
+          "Mónica Ballesteros Pérez",
+          "Spanish Diabetes and Pregnancy Group (GEDE)",
+          "Verónica Perea Castilla"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-06T00:00:00.000Z",
+        "activityAt": "2026-10-07T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42839342/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "孕前糖尿病女性中孕早期阿司匹林分配策略与早产型子痫前期：一项全国多中心观察性队列研究",
+          "researchQuestion": "在常规临床实践中，孕前糖尿病（PGDM）女性中三种孕早期阿司匹林分配策略与早产型子痫前期（PE）发生率之间有何关联？",
+          "studyDesign": "回顾性、多中心、观察性队列研究。",
+          "populationAndSample": "2017年1月至2022年12月在西班牙六家三级医院管理的519例PGDM单胎妊娠。按阿司匹林预防分配策略分组：基于临床危险因素的预防255例；基于孕早期算法筛查但不含PlGF 119例；基于含PlGF的算法筛查145例。",
+          "methods": "比较三种孕早期阿司匹林分配策略；主要结局为早产型PE（<37周）；次要结局包括总体PE和重度PE、分娩孕周、自发性早产、出生体重、小于胎龄儿和新生儿重症监护病房入住。使用多变量回归模型并校正预设母体特征。",
+          "keyResults": "三组阿司匹林处方率分别为100%、16.8%和28.3%。早产型PE发生率分别为4.7%、5.9%和4.2%。校正后，与基于临床危险因素的预防相比，不含PlGF的算法策略（校正比值比[aOR] 1.89，95%置信区间0.62-5.45）和含PlGF的算法策略（aOR 1.33，95%置信区间0.41-3.91）在早产型PE方面均未观察到统计学显著差异。次要母体和围产结局在各组间也相当。",
+          "limitations": "观察性设计、基线差异和事件数有限；该研究把握度不足以证明等效性或排除较小的临床相关差异；作者认为这些发现应视为探索性，需要在有足够把握度的前瞻性研究中确认。",
+          "clinicalInterpretation": "在PGDM女性中，基于算法的阿司匹林分配策略与显著更低的阿司匹林暴露相关，且未观察到早产型PE或不良围产结局增加的证据；但这是观察性研究，存在基线差异和事件数有限，结果应视为探索性，不能推断因果关系或直接指导临床。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "c95b9acd3158f7fa9c396c27b8b7f5072d3be57891f3ea2d392255b8c05f53d6"
+      },
+      {
+        "id": "pmid:42839545",
+        "pmid": "42839545",
+        "doi": "10.1111/ajco.70199",
+        "title": "The Impact of Centralized Trophoblastic Care on Patients With Gestational Trophoblastic Neoplasia in a Statewide Service.",
+        "abstract": "INTRODUCTION: Rare cancers such as gestational trophoblastic neoplasia (GTN) should be managed in specialized centers, allowing for multidisciplinary team input, expert pathology review, consensus-based treatment and surveillance pathways, and improved patient survival and patient-reported outcomes.\nMETHODS: This retrospective study assessed the impact of centralized care implementation at a tertiary academic women's hospital on patients diagnosed and treated with GTN between 2021 and 2024 in Western Australia. Clinical outcomes compared 2 years pre-centralization (2021-2022) and 2 years post-centralization (2023-2024). The post-centralized patient experience was assessed via surveys.\nRESULTS: A total of 36 patients with GTN were included: 20 pre-centralization and 16 post-centralization. Over the 4-year study period, 32 patients were categorized as low-risk, two were high-risk, and two had high-risk histology that precluded prognostic risk assignment. Centralization of care led to an improvement in identifying those who met the diagnostic criteria for GTN (65% vs. 100%, p = 0.011) and subsequent appropriate chemotherapeutic intervention, as well as better accuracy in the assignment of International Federation of Gynecology and Obstetrics (FIGO) stage (41% vs. 89%) and World Health Organization (WHO) prognostic score (46% vs. 82%). Methotrexate was favored as first-line chemotherapy for low-risk disease in both groups. There have been no relapses or deaths in either group to date. Centralization of care led to improved contraceptive counseling documentation (65% vs. 87.5%, p = 0.026) yet similar pregnancy rates. The patient experience with centralized care was positive.\nCONCLUSION: Although study numbers are small, this study supports the establishment of centralized centers for rare trophoblastic diseases.",
+        "journal": "Asia-Pacific journal of clinical oncology",
+        "authors": [
+          "Chloe Ayres",
+          "Danelle Ward",
+          "Emma R Allanson",
+          "Evelyn Werner",
+          "Marion Kember",
+          "Vivienne Mallen"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-06T00:00:00.000Z",
+        "activityAt": "2026-10-07T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42839545/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "集中化滋养细胞诊疗对州级服务中妊娠滋养细胞肿瘤患者的影响",
+          "researchQuestion": "在州级服务中实施集中化诊疗对妊娠滋养细胞肿瘤（GTN）患者的诊断、分期、治疗、随访和患者体验有何影响？",
+          "studyDesign": "回顾性研究，比较集中化实施前2年（2021-2022）与实施后2年（2023-2024），并对集中化后的患者体验进行问卷调查。",
+          "populationAndSample": "2021年至2024年在西澳大利亚一家三级学术妇女医院诊断并治疗的36例GTN患者：集中化前20例，集中化后16例。4年研究期间，32例归为低危，2例高危，2例因高危组织学无法进行预后风险评分。",
+          "methods": "比较集中化前后的临床结局；集中化后通过调查评估患者体验。",
+          "keyResults": "集中化提高了识别符合GTN诊断标准者的比例（65% vs. 100%，p=0.011）及随后适当化疗干预；提高了FIGO分期分配准确性（41% vs. 89%）和WHO预后评分准确性（46% vs. 82%）。两组低危疾病一线化疗均倾向使用甲氨蝶呤。两组迄今均无复发或死亡。集中化改善了避孕咨询记录（65% vs. 87.5%，p=0.026），但妊娠率相似。患者对集中化诊疗的体验为正面。",
+          "limitations": "摘要指出研究数量小。",
+          "clinicalInterpretation": "这项小样本回顾性研究显示，集中化诊疗与GTN诊断识别、FIGO分期、WHO预后评分及避孕咨询记录改善相关，两组均无复发或死亡，患者体验正面；作者结论称支持建立罕见滋养细胞疾病的集中化中心，但该结果需在更大样本中验证，不能单独作为指南或临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "12ee4c597ac8949a3444afeb61960a51e5e243e6a36f72ed5872f002c80f1839"
+      },
+      {
+        "id": "pmid:42839972",
+        "pmid": "42839972",
+        "doi": "10.3389/fimmu.2026.1949243",
+        "title": "An SPP1-centered immune-parenchymal communication axis links macrophage heterogeneity to ovarian cancer prognosis.",
+        "abstract": "BACKGROUND: Immune and malignant epithelial cells shape each other through ligand-receptor signaling in ovarian cancer. SPP1 interacts with CD44 and several integrins, but its cellular organization and clinical relevance remain unclear.\nMETHODS: We integrated GSE184880 scRNA-seq data with TCGA-OV and three independent cohorts. Single-cell clustering, CNV inference, and cell communication analysis were used to characterize macrophage states and SPP1-related signaling. Based on the SPP1 ligand-receptor network identified by CellChat, an 11-gene set comprising SPP1 and its CD44/integrin receptor components was constructed and subsequently used for molecular subtyping. Four machine learning models were compared for prognostic prediction. PI3 was subsequently silenced in ES-2 and SKOV3 cells. SPP1 expression and secretion, cell proliferation, wound closure, migration, invasion, xenograft growth, and macrophage phenotypes after coculture were then evaluated.\nRESULTS: Four macrophage states were identified: Resident Macro, Inflammatory Macro, SPP1+ TAM, and Activated Macro. Cell communication was extensively reorganized in ovarian tumors. SPP1+ TAM occupied a central position in the SPP1 network and communicated with malignant epithelial cells, fibroblasts, endothelial cells, and other macrophage populations through SPP1-CD44 and SPP1-integrin interactions. SPP1-related genes separated patients into SPP1-High and SPP1-Low subtypes. The SPP1-High subtype showed stronger immune- and cytokine-related activity and poorer overall survival. Among the four machine learning models, GBM-Cox achieved the highest C-index of 0.768 and maintained prognostic stratification across three independent cohorts. PI3 also ranked highly in several models. Silencing PI3 in tumor cells increased TNF, IL1B, CXCL10, and CD86 expression in cocultured macrophages, while reducing CD163, MRC1, CCL18, and IL10. Consistently, TNF-α and IL-12p70 levels increased, whereas IL-10 and CCL18 levels decreased. PI3 silencing reduced SPP1 mRNA expression and secretion and suppressed ovarian cancer cell proliferation, wound closure, migration, and invasion. Stable PI3 knockdown also delayed ES-2 xenograft growth and reduced terminal tumor volume and weight.\nCONCLUSION: The SPP1-associated ligand-receptor network represents an immune-parenchymal communication axis linking macrophages with malignant epithelial and stromal cells in ovarian cancer. This network captures differences in immune state and clinical outcome and supports both molecular classification and prognostic assessment. PI3 may contribute to tumor cell-mediated regulation of macrophage phenotype and could serve as a candidate biomarker or intervention target. PI3 may promote ovarian cancer progression while contributing to tumor-cell-derived SPP1 production and macrophage regulation, supporting its potential value as a candidate biomarker and therapeutic target.",
+        "journal": "Frontiers in immunology",
+        "authors": [
+          "Jindong Sheng",
+          "Ke Wang",
+          "Li Xia",
+          "Xiangyu Liu",
+          "Xuchen Cao"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-22T00:00:00.000Z",
+        "activityAt": "2026-10-07T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42839972/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42840284",
+        "pmid": "42840284",
+        "doi": "10.3389/freae.2025.1644521",
+        "title": "Epigenetic profiling of preterm birth: a dual-tissue methylation patterns using long-read sequencing.",
+        "abstract": "INTRODUCTION: Preterm birth (PTB), a leading cause of neonatal morbidity and mortality, arises from complex maternal-fetal interactions with multifactorial origins. Emerging evidence suggests that epigenetic dysregulation may mediate these interactions. This study aimed to identify DNA methylation changes associated with PTB to uncover potential biomarkers and underlying mechanisms.\nMETHODS: We employed long-read sequencing to profile genome-wide DNA methylation followed by gene ontology and pathway enrichment analysis in matched maternal peripheral blood and neonatal cord blood from 15 preterm and 7 full-term deliveries (mother-infant pairs).\nRESULTS: A total of 1,151 significantly differentially methylated regions (DMRs) and 25,336 differentially methylated loci (DMLs) were identified across maternal and neonatal blood samples. In maternal blood from PTB cases, the most significantly hypermethylated genes were MED38 , PSMB11 , and WNT7B , whereas EXTL3 and MMP9 were among the most hypomethylated. Additionally, the promoters of VWA5A , EIF4E3 , ZNF571 , and COPB2 exhibited significant hypermethylation, while those of SIRPB1 and TNFRSF19 showed hypomethylation. In neonatal cord blood from PTB cases, the most significantly hypermethylated genes were LOC401478 , ISG20 , LMTK3 , TCAF2 , and COL4A2 , whereas EXTL3 and MMP9 were among the most hypomethylated. Promoters of DKK3 , CELF2 , and IFI35 were notably hypermethylated, whereas ALOX12 and CLBA1 were among the most hypomethylated. Enrichment analysis revealed that these epigenetic alterations impact critical developmental, immune, and neuroendocrine pathways, including Wnt signaling, calcium signaling, MAPK, oxytocin signaling, and neuroactive ligand-receptor interaction. Comparative analysis identified 120 overlapping DMLs, with 91 hypermethylated and 28 hypomethylated consistently across maternal and neonatal samples, including DPPA3 , ABCA1 , and GKN1 . In contrast, 20,240 and 4,770 DMLs were unique to cord and peripheral blood, respectively. Additionally, 14 overlapping DMRs were mapped to genes such as PLD5 , FBXO40 , GMNC , HHIP , CLEC18B , and LHX1 , exhibiting non-random chromosomal clustering. Enrichment analysis of these shared DMRs revealed significant involvement in developmental processes, including skeletal morphogenesis, axis patterning, and fibroblast growth factor signaling, indicating convergence on core regulatory pathways in PTB.\nCONCLUSION: This is the first dual-tissue PTB study using long-read methylation profiling. Our results reveal distinct and shared epigenetic signatures in maternal and neonatal compartments, offering insights into the molecular etiology of PTB and potential biomarkers for early detection and therapeutic intervention.",
+        "journal": "Frontiers in epigenetics and epigenomics",
+        "authors": [
+          "Aleem Razzaq",
+          "Amal E I Ahmed",
+          "Aseel Al-Dewik",
+          "Ayla J Ahmedoglu",
+          "Bader Kurdi",
+          "BalaSubramani Gattu Linga",
+          "Duaa Elshiekh",
+          "Faisal E Ibrahim",
+          "Ghassan Abdoh",
+          "Hatem Zayed",
+          "Hilal Al Rifai",
+          "Hind H Adi",
+          "Jameela Roshanuddin",
+          "M Walid Qoronfleh",
+          "Mohamed Alsharshani",
+          "Mona Ellaithi",
+          "Muthanna Samara",
+          "Nader Al-Dewik",
+          "Palli Valapila Abdulrouf",
+          "Rand Hamdan",
+          "Thomas Farrell"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2025-12-05T00:00:00.000Z",
+        "activityAt": "2026-10-07T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42840284/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      }
+    ]
+  }
+}
