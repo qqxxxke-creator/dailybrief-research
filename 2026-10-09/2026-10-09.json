@@ -1,0 +1,243 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-10-08T22:22:15.801Z",
+    "dataAsOf": "2026-10-08T22:22:15.801Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及美国生殖内分泌与不孕症亚专科医师：定义、培训和实践范围、CCNE1基因组扩增与高级别浆液性卵巢癌中的免疫抑制肿瘤微环境及不良临床结局相关、超越体重指数：肥胖与女性不孕症的当代综述。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42844816",
+        "pmid": "42844816",
+        "doi": "10.1016/j.fertnstert.2025.09.028",
+        "title": "The reproductive endocrinology and infertility subspecialist: definition, training, and scope of practice in the United States.",
+        "abstract": "Reproductive endocrinology and infertility (REI) subspecialists are physicians with extensive and specialized training in the diagnosis and treatment of complex reproductive disorders. This unique expertise allows them to provide the highest level of care for patients requiring advanced services for family building, reproductive surgery, and endocrine disorders affecting the female reproductive system. Expertise in reproductive medicine relies on applied physiology and revolves around a fundamental understanding of endocrine physiology and reproductive hormone action at the tissue, cellular, and molecular levels. In addition, an REI's understanding of the fundamentals of study design and data analysis is essential to understand medical literature, adapt to the rapidly changing medical literature, and promote better individualization of care. Reproductive endocrinology and infertility subspecialists are trained surgeons of the female reproductive tract who particularly specialize in minimally invasive surgical approaches, with an emphasis on minimal tissue trauma. REI physicians are trained in the diagnosis and treatment of endocrine, genetic, anatomical, structural, and molecular causes of reproductive disorders, including infertility and advanced fertility options, such as assisted reproductive technologies. This document discusses the training and role of the reproductive endocrinology infertility subspecialist in the United States.",
+        "journal": "Fertility and sterility",
+        "authors": [
+          "Practice Committee of the Society for Reproductive Endocrinology and Infertility and Practice Committee of the American Society for Reproductive Medicine"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2025-10-25T00:00:00.000Z",
+        "activityAt": "2026-10-08T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42844816/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "美国生殖内分泌与不孕症亚专科医师：定义、培训和实践范围",
+          "researchQuestion": "摘要未明确陈述研究问题；该文件讨论美国生殖内分泌与不孕症（REI）亚专科医师的定义、培训和实践范围。",
+          "studyDesign": "综述（实践委员会文件；期刊文章/综述）",
+          "populationAndSample": "摘要未报告研究人群或样本量。",
+          "methods": "摘要未报告系统检索或数据合成方法；文件叙述REI亚专科医师的培训、专业领域和实践范围。",
+          "keyResults": "摘要报告：REI亚专科医师在复杂生殖疾病诊断和治疗方面受过广泛且专门的培训；可提供家庭构建、生殖手术和影响女性生殖系统的内分泌疾病所需的高级服务。其生殖医学专业能力依赖应用生理学，并围绕内分泌生理学及生殖激素在组织、细胞和分子水平作用的基本理解。理解研究设计和数据分析基础对于理解医学文献、适应快速变化的医学文献并促进更好的个体化照护至关重要。REI医师是女性生殖道训练有素的外科医师，特别专长于微创手术方式，强调最小组织创伤。REI医师接受诊断和治疗生殖疾病的内分泌、遗传、解剖、结构和分子原因培训，包括不孕症和辅助生殖技术等高级生育选择。",
+          "limitations": "摘要未报告局限性。",
+          "clinicalInterpretation": "摘要未报告患者结局或临床疗效比较；该文件讨论REI亚专科医师的定义、培训和实践范围。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "1b489ee5e1e979dc3be922e3f95985dbdf8d08e1e565c293f1dafdbe9e2de416"
+      },
+      {
+        "id": "pmid:42844834",
+        "pmid": "42844834",
+        "doi": "10.1177/15578100261495840",
+        "title": "Genomic Amplification of CCNE1 Is Associated with an Immunosuppressive Tumor Microenvironment and Adverse Clinical Outcome in High-Grade Serous Ovarian Cancer.",
+        "abstract": "High-grade serous ovarian cancer (HGSOC) is the most lethal gynecological malignancy, with a poor 5-year survival rate. Many patients also experience relapse of the disease due to chemotherapy resistance, highlighting an urgent need for new therapeutic modalities. Among the genomic alterations implicated in HGSOC progression, amplification of cyclin E1 ( CCNE1 ) has emerged as a frequent and clinically significant event, occurring in ∼19% of cases. In this hypothesis-generating study, we explore the prognostic relevance of CCNE1 amplification, focusing on its role in shaping the tumor microenvironment (TME). We conducted an in silico analysis utilizing exome sequencing, clinical, and transcriptome data from HGSOC patients available in The Cancer Genome Atlas. CCNE1 amplification correlates with significantly reduced overall and disease-free survival in HGSOC patients. Differential gene expression and pathway analyses predicted that CCNE1 -amplified tumors associate with replication stress, elevated mitotic activity, and increased chromosomal instability. Importantly, these tumors showed a predicted reprogrammed immune landscape, characterized by elevated stromal content, increased infiltration of M2 macrophages, myeloid-derived suppressor cells, and cancer-associated fibroblasts, alongside reduced expression of antigen-presenting machinery, particularly Human Leukocyte Antigen (HLA) class II genes. Further analysis highlighted a strong association between replication stress and upregulation of Transforming Growth Factor-beta (TGF-β) signaling pathways, which likely contribute to the observed immunosuppressive microenvironment. Together, our data suggested that CCNE1 amplification is associated with tumor progression not only through enhanced proliferation but also by adopting an immune-suppressive TME. These observations suggest the potential of targeting the TME or replication stress response pathways in CCNE1 -amplified HGSOC as a therapeutic strategy to improve patient outcomes.",
+        "journal": "Omics : a journal of integrative biology",
+        "authors": [
+          "Akhileshwar Namani",
+          "Annapurna Vadaparty",
+          "Durgadevi Veeraiyan",
+          "Guruguhan Sivakumar",
+          "Soumyabrata Roy",
+          "Tapas Patra"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-07T00:00:00.000Z",
+        "activityAt": "2026-10-08T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42844834/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "CCNE1基因组扩增与高级别浆液性卵巢癌中的免疫抑制肿瘤微环境及不良临床结局相关",
+          "researchQuestion": "探索CCNE1扩增的预后相关性，重点在其塑造肿瘤微环境（TME）中的作用；为假设生成性研究。",
+          "studyDesign": "假设生成性研究；基于TCGA的计算机分析（in silico analysis）。",
+          "populationAndSample": "高级别浆液性卵巢癌（HGSOC）患者；使用The Cancer Genome Atlas中可获得的外显子测序、临床和转录组数据；摘要报告CCNE1扩增约发生于19%的病例，未报告具体样本量。",
+          "methods": "利用TCGA中HGSOC患者的外显子测序、临床和转录组数据进行计算机分析；进行差异基因表达和通路分析。",
+          "keyResults": "CCNE1扩增与HGSOC患者的总生存和无病生存显著降低相关。差异基因表达和通路分析预测，CCNE1扩增肿瘤与复制应激、有丝分裂活性升高和染色体不稳定性增加相关。重要的是，这些肿瘤显示出预测的重编程免疫景观，特征为基质含量升高，M2巨噬细胞、髓源性抑制细胞和癌症相关成纤维细胞浸润增加，同时抗原呈递机制表达降低，尤其是人类白细胞抗原（HLA）II类基因。进一步分析强调复制应激与转化生长因子-β（TGF-β）信号通路上调之间存在强关联，后者可能促成所观察到的免疫抑制微环境。总体而言，数据提示CCNE1扩增不仅通过增强增殖，还通过形成免疫抑制性TME与肿瘤进展相关。这些观察提示，在CCNE1扩增的HGSOC中靶向TME或复制应激反应通路可能作为改善患者结局的治疗策略。",
+          "limitations": "摘要未报告明确局限性；研究为假设生成性 in silico 分析，基于TCGA数据，结果包含预测性关联。",
+          "clinicalInterpretation": "摘要提示，在CCNE1扩增的HGSOC中靶向TME或复制应激反应通路可能作为治疗策略以改善患者结局；该提示基于计算机分析和预测，摘要未报告临床验证或治疗试验结果。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "58f349861b8af9aae4b8797eecf416f62bba9188bebd83ad2ad7b15fb53c1cea"
+      },
+      {
+        "id": "pmid:42844892",
+        "pmid": "42844892",
+        "doi": "10.5653/cerm.2026.010048",
+        "title": "Beyond body mass index: A contemporary review of obesity and female infertility.",
+        "abstract": "Obesity is increasingly understood as a reproductive-metabolic condition that can affect female fertility across the continuum from natural conception to assisted reproductive technology (ART). Excess adiposity may disrupt hypothalamic-pituitary-ovarian regulation, insulin signaling, inflammatory pathways, ovarian function, oocyte competence, embryo development, and endometrial receptivity. This review synthesizes current evidence linking obesity with infertility, reduced ART efficiency, implantation failure, miscarriage, and reduced live birth, while emphasizing that these associations vary according to reproductive and metabolic phenotype. Particular attention is given to polycystic ovary syndrome, advanced age, diminished ovarian reserve, recurrent implantation failure, and recurrent pregnancy loss. Pre-treatment weight-loss strategies, including lifestyle intervention, glucagon-like peptide-1 receptor agonists, tirzepatide, and bariatric surgery, are also considered in relation to reproductive benefit, treatment delay, and pregnancy safety. Overall, obesity should not be treated simply as a body mass index category, but rather as a phenotype-dependent reproductive-metabolic condition that requires individualized fertility-treatment planning.",
+        "journal": "Clinical and experimental reproductive medicine",
+        "authors": [
+          "Jongeun Han",
+          "Kyung Jin Lee",
+          "Seulki Kim"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-08T00:00:00.000Z",
+        "activityAt": "2026-10-08T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42844892/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "超越体重指数：肥胖与女性不孕症的当代综述",
+          "researchQuestion": "综述当前证据，探讨肥胖作为生殖-代谢状况如何影响女性生育，从自然受孕到辅助生殖技术（ART），并关注不同生殖和代谢表型下的关联差异。",
+          "studyDesign": "当代综述。",
+          "populationAndSample": "摘要未报告系统检索或样本量；讨论涉及肥胖与女性不孕、多囊卵巢综合征、高龄、卵巢储备减退、反复种植失败和反复妊娠丢失等。",
+          "methods": "综述整合当前证据，讨论肥胖与不孕、ART效率降低、种植失败、流产和活产减少的关联；并考虑治疗前减重策略，包括生活方式干预、胰高血糖素样肽-1受体激动剂、替尔泊肽和减重手术，及其与生殖获益、治疗延迟和妊娠安全的关系。",
+          "keyResults": "肥胖日益被视为一种生殖-代谢状况，可在从自然受孕到ART的连续过程中影响女性生育。过度脂肪堆积可能扰乱下丘脑-垂体-卵巢调节、胰岛素信号、炎症通路、卵巢功能、卵母细胞能力、胚胎发育和子宫内膜容受性。该综述综合了将肥胖与不孕、ART效率降低、种植失败、流产和活产减少相关联的当前证据，同时强调这些关联随生殖和代谢表型而变化。特别关注多囊卵巢综合征、高龄、卵巢储备减退、反复种植失败和反复妊娠丢失。还考虑了治疗前减重策略，包括生活方式干预、胰高血糖素样肽-1受体激动剂、替尔泊肽和减重手术，及其与生殖获益、治疗延迟和妊娠安全的关系。总体而言，肥胖不应仅被视为体重指数类别，而应被视为表型依赖的生殖-代谢状况，需要个体化的生育治疗规划。",
+          "limitations": "摘要未报告明确局限性；综述强调这些关联随生殖和代谢表型而变化。",
+          "clinicalInterpretation": "摘要提出肥胖不应仅被视为体重指数类别，而应被视为表型依赖的生殖-代谢状况，需要个体化的生育治疗规划；摘要未报告具体临床指南或治疗推荐。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "af1eb4f75e91b5f96466ebf7c22a4715f0fb8c2a190b68576fc61ec6ef4ea84a"
+      },
+      {
+        "id": "pmid:42844893",
+        "pmid": "42844893",
+        "doi": "10.5468/ogs.25360",
+        "title": "Placental caspase-3 expression in preeclampsia: a systematic review of observational evidence.",
+        "abstract": "Preeclampsia is a pregnancy disorder that contributes substantially to maternal and fetal morbidity and mortality worldwide. Apoptosis has been implicated in its pathogenesis, particularly in placental dysfunction. Caspase-3, an executioner caspase, mediates the final stage of apoptotic signaling; however, its role in preeclampsia remains incompletely defined. This systematic review evaluated observational evidence on placental caspase-3 expression in preeclampsia. PubMed, Scopus, and ScienceDirect were systematically searched on June 21, 2024. Eligible studies were human observational studies that assessed caspase-3 expression in placental tissue from pregnancies complicated by preeclampsia. Risk of bias was evaluated using the Newcastle-Ottawa Scale and the Risk of Bias Assessment Tool for Nonrandomized Studies 2.0 (RoBANS 2.0; COMPANY, CITY, STATE, COUNTRY). Data were synthesized qualitatively because of substantial methodological heterogeneity. Twelve studies (n=736 pregnancies) were included. All assessed caspase-3 expression in placental tissue obtained after delivery. Most reported higher caspase-3 expression in preeclamptic placentas than in normotensive controls, particularly in early-onset and severe preeclampsia. However, the studies varied substantially in diagnostic subtypes, measurement methods (including immunohistochemistry scoring systems, Western blotting, and enzyme-linked immunosorbent assay), and control of confounding variables. Observational evidence consistently indicates increased placental caspase-3 expression in preeclampsia, supporting enhanced apoptotic activity in affected placentas. However, because measurements were performed after delivery and caspase-3 is a downstream executioner caspase, current evidence supports its use as a marker of established placental injury. Further mechanistic and longitudinal studies are needed.",
+        "journal": "Obstetrics & gynecology science",
+        "authors": [
+          "Annisa Aghnia Rahma",
+          "Graciella Angelica Lukas",
+          "Hidayat Fatahillah",
+          "Hikam Yanwar Pradana",
+          "Matthew Aldo Wijayanto",
+          "Maurilla Iascha Suhartono",
+          "Muhana Fawwazy Ilyas",
+          "Wisnu Prabowo"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-08T00:00:00.000Z",
+        "activityAt": "2026-10-08T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42844893/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "子痫前期中的胎盘caspase-3表达：观察性证据的系统综述",
+          "researchQuestion": "评估子痫前期中胎盘caspase-3表达的观察性证据。",
+          "studyDesign": "系统综述（观察性证据）。",
+          "populationAndSample": "12项研究，共n=736例妊娠；纳入人类观察性研究，评估子痫前期妊娠胎盘组织中的caspase-3表达。",
+          "methods": "于2024年6月21日系统检索PubMed、Scopus和ScienceDirect；纳入标准为评估子痫前期妊娠胎盘组织caspase-3表达的人类观察性研究；使用Newcastle-Ottawa量表和RoBANS 2.0评估偏倚风险；因方法学异质性大，进行定性数据合成。",
+          "keyResults": "纳入12项研究（n=736例妊娠）。所有研究均评估分娩后获得的胎盘组织中的caspase-3表达。多数研究报告子痫前期胎盘中的caspase-3表达高于血压正常对照，尤其是在早发型和重度子痫前期中。然而，这些研究在诊断亚型、测量方法（包括免疫组化评分系统、Western blotting和酶联免疫吸附试验）及混杂变量控制方面差异很大。观察性证据一致表明子痫前期中胎盘caspase-3表达增加，支持受影响胎盘中凋亡活性增强。然而，由于测量在分娩后进行，且caspase-3是下游执行者caspase，当前证据支持其作为已建立胎盘损伤的标志物。需要进一步机制性和纵向研究。",
+          "limitations": "摘要报告：研究在诊断亚型、测量方法（包括免疫组化评分系统、Western blotting和酶联免疫吸附试验）及混杂变量控制方面差异很大；所有测量均在分娩后获得的胎盘组织中进行；caspase-3是下游执行者caspase。摘要指出需要进一步机制性和纵向研究。",
+          "clinicalInterpretation": "观察性证据支持胎盘caspase-3表达升高作为已建立胎盘损伤的标志物；摘要未报告其用于诊断、预测或治疗决策。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "730f9db4a7e47cf652ad83e8f8483787c161b6a046188fa7f04cad146fd1740f"
+      },
+      {
+        "id": "pmid:42845998",
+        "pmid": "42845998",
+        "doi": "10.3389/fcvm.2026.1917892",
+        "title": "Cardio-oncology-relevant programmes in the cervical cancer tumour microenvironment: an exploratory multi-omics and endothelial-cell study.",
+        "abstract": "BACKGROUND: Bevacizumab and immune-checkpoint inhibitors (ICIs) improve outcomes in advanced cervical cancer but may cause cardiovascular toxicity (CVT). Public cervical-cancer transcriptomic datasets do not contain cardiac tissue or adjudicated CVT outcomes; consequently, tumour-microenvironment (TME) expression cannot by itself establish a cardiac susceptibility mechanism. We reanalysed the available data to ask the narrower question of whether cervical tissues contain angiogenic, endothelial, inflammatory, T-cell-exhaustion, and TGF- β /fibrotic programmes that are biologically relevant to cardio-oncology.\nMETHODS: All nine single-cell RNA-sequencing specimens in GSE208653 were analysed: two HPV-negative healthy cervix, two HPV-positive histologically normal cervix, two high-grade squamous intraepithelial lesions, two squamous-cell carcinomas, and one adenocarcinoma. After prespecified quality control, 74,457 cells were integrated with Harmony and annotated into broad lineages. Prespecified module scores and four ligand-receptor expression-product scores were aggregated by biological specimen; malignant versus non-malignant differences were evaluated with exact specimen-label permutation tests and Benjamini-Hochberg correction. Four GSE208654 Visium count matrices were analysed descriptively at spot level. Coexpression among the five programmes was assessed in 304 TCGA-CESC primary tumours. qRT-PCR summary data from HUVEC (ATCC PCS-100-010) and primary human aortic endothelial cells (HAEC; ATCC PCS-100-011) were reinterpreted as endothelial pharmacology, not cardiac validation.\nRESULTS: The scRNA-seq atlas contained 32 clusters spanning epithelial, immune, endothelial, and stromal lineages. None of the five specimen-level programmes differed significantly between malignant and non-malignant specimens after multiple-testing correction (all q ≥ 0.119). Likewise, none of the VEGFA-KDR, IL1B-IL1R1, TGFB1-TGFBR2, or LGALS9-HAVCR2 expression-product scores was significant (all q ≥ 0.143). The four spatial specimens showed heterogeneous spot-level expression but, with one specimen per histology and no slide coordinates in the supplied matrices, did not support group-level spatial inference. TCGA tumours showed coordinated intratumoural expression, strongest between angiogenesis and TGF- β /fibrosis (Spearman ρ =0.707; q = 2.24 × 10⁻46), but TCGA-CESC contained no CVT endpoint. VEGFA increased KDR, ICAM1, VCAM1, and EDN1 mRNA in HUVEC, and bevacizumab attenuated these changes; IL-1 β induced inflammatory transcripts in HAEC, and anakinra attenuated IL6, TNF, and CXCL8.\nCONCLUSIONS: Cervical tissues contain cardio-oncology-relevant transcriptional programmes, but the available data neither demonstrate cardiac expression nor identify bevacizumab- or ICI-induced CVT susceptibility. The endothelial experiments show expected pathway responsiveness and pharmacological blockade, not treatment-induced cardiotoxicity. Prospective analyses must compare CVT-positive and CVT-negative treated patients using matched clinical outcomes and, ideally, blood or cardiac-relevant biospecimens.",
+        "journal": "Frontiers in cardiovascular medicine",
+        "authors": [
+          "Chunyan Gu",
+          "Rongrong Cai",
+          "Suqin Shen"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-23T00:00:00.000Z",
+        "activityAt": "2026-10-08T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42845998/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      }
+    ]
+  }
+}
