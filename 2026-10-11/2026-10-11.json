@@ -1,0 +1,272 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-10-10T22:25:27.607Z",
+    "dataAsOf": "2026-10-10T22:25:27.607Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及女性对不孕症医学监督禁食干预的体验：一项定性研究、端粒相关衰老基因在宫颈癌中的作用、妊娠中期血浆致动脉粥样硬化指数与既往妊娠期糖尿病女性产后早期糖代谢异常相关。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42855686",
+        "pmid": "42855686",
+        "doi": "10.1186/s12905-026-04978-y",
+        "title": "Women's experiences of a medically supervised fasting intervention for infertility: a qualitative study.",
+        "abstract": "BACKGROUND: Infertility affects couples in Germany and worldwide, with impacts on quality of life. Although fertility treatments are available, success rates often remain limited, and treatments are associated with physical and psychological burdens. Consequently, many seek alternative or complementary approaches to support fertility. To investigate one such approach, an RCT was conducted to examine the effects of a medically supervised prolonged, fluid-only fasting intervention (< 500 kcal/day) on fertility-related outcomes. Nested within this trial, this qualitative study explores women's experiences with the intervention, focusing on its acceptability and its perceived physical and psychological effects.\nMETHODS: The study accompanied a randomized controlled trial in which fasting served as an intervention to assess its potential effects on fertility. Semi-structured individual interviews were conducted after the intervention and analysed using inductive thematic analysis, with regular research group discussions ensuring consistency and rigor. All participants available and willing to participate in the qualitative study were interviewed. In total, eight women were interviewed between February 2022 and January 2023.\nRESULTS: Fasting was generally well-received. Challenges included fatigue, taste dissatisfaction, and cravings, low mood and social withdrawal. Participants' motivation, coping strategies, and dietitian support helped manage these difficulties. Reported benefits included physical well-being, improved mood, and a sense of inner balance. Fasting was valued for offering an active role in fertility treatment. Post-fast, some expressed a renewed hope for fertility treatment, while others described a shift away from their formerly intense focus on conception.\nCONCLUSIONS: Medically supervised prolonged fluid-only fasting was perceived as acceptable by women experiencing infertility, with both benefits and challenges reported throughout the fasting experience.\nTRIAL REGISTRATION: Registry: ClinicalTrials.gov, TRN: NCT04942457, Registration date: 10 May 2021.",
+        "journal": "BMC women's health",
+        "authors": [
+          "Alexandra Prüß",
+          "Andreas Michalsen",
+          "Barbara Kunz",
+          "Daniela A Koppold",
+          "Farid I Kandil",
+          "Jocelyn N Behling",
+          "Katharina Batschari",
+          "Katharina Sochiera-Plegniere",
+          "Katharina T May",
+          "Michael Jeitler",
+          "Sarah B Blakeslee",
+          "Wiebke Stritter"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-10-09T00:00:00.000Z",
+        "activityAt": "2026-10-10T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42855686/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "女性对不孕症医学监督禁食干预的体验：一项定性研究",
+          "researchQuestion": "探讨女性对该干预措施的体验，重点关注其可接受性以及感知到的身体和心理影响。",
+          "studyDesign": "嵌套于一项随机对照试验中的定性研究；在干预后开展半结构化个体访谈，并采用归纳性主题分析，通过定期研究小组讨论确保一致性和严谨性。",
+          "populationAndSample": "所有可参与且愿意参与定性研究的参与者均接受了访谈；共有8名女性在2022年2月至2023年1月期间接受访谈。该研究伴随一项随机对照试验，该试验评估医学监督下长时间纯液体禁食（<500 kcal/天）对生育相关结局的潜在影响。",
+          "methods": "半结构化个体访谈，干预后实施；采用归纳性主题分析；定期研究小组讨论。试验注册：ClinicalTrials.gov，TRN：NCT04942457，注册日期：2021年5月10日。",
+          "keyResults": "禁食总体上接受度良好。挑战包括疲劳、对味道不满意、渴望、情绪低落和社交退缩。参与者的动机、应对策略和营养师支持有助于管理这些困难。报告的益处包括身体健康、情绪改善和内在平衡感。禁食被认为提供了在不孕症治疗中发挥主动作用的机会。禁食后，一些人表达了对不孕症治疗重燃希望，而另一些人则描述为从先前对受孕的强烈关注发生转变。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "在有医学监督下进行长时间纯液体禁食，被经历不孕症的女性感知为可接受，整个禁食体验中报告了益处和挑战。该结论来自定性研究，不能改写为指南或临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "382e467ad69c3b0754f7bd60caef7cbfcd2d113cd499273be176c8b9334b21c3"
+      },
+      {
+        "id": "pmid:42855652",
+        "pmid": "42855652",
+        "doi": "10.1007/s43032-026-02217-1",
+        "title": "Effects of Telomere Related Senescence-Genes in Cervical Cancer.",
+        "abstract": "Globally, cervical cancer is a prevalent cancer among women and ranks as the fourth leading cause of mortality in gynecological cancers. However, how telomeres affect cervical cancer remains uncertain. The research entailed the procurement of telomere-associated genes (TRGs) from TelNet. The Cancer Genome Atlas (TCGA) database provided the clinical data and TRG expression rates in patients with cervical cancer. Within the TCGA-CESC dataset, 327 TRGs were identified, differentiating between cancerous and healthy tissues. Subsequently, we combined genes linked to aging and telomeres, leading to 31 overlapping genes and performing an analysis of functional enrichment on these essential genes. Genes unique to telomeres and closely associated with cervical cancer play various roles, mainly in the cell cycle, DNA replication, and DNA repair processes. Key genes, such as those associated with cell aging, homologous recombination, and Human T-cellleukemia virus 1 infection, are vital in the life cycle of a cell. Dysfunction in these genes could lead to irregularities in cellular synthesis and apoptosis processes, potentially accelerating the progression of cervical cancer. Subsequently, the data was analyzed sequentially using single-factor Cox regression, Lasso regression, and multi-factor Cox regression techniques, leading to the development of the TRGs risk model.Among the pinpointed TCGA group (p < 0.001), cervical cancer sufferers with high-risk TRGs showed poorer outcomes. Furthermore, the TRGs risk score emerged as an independent risk factor for cervical cancer. Additionally, communities susceptible to TRGs could benefit from specific medical interventions. To conclude, our team developed a genetic risk model associated with telomeres to predict outcomes in cervical cancer patients, potentially assisting in selecting suitable treatment drugs for them.",
+        "journal": "Reproductive sciences (Thousand Oaks, Calif.)",
+        "authors": [
+          "Cong Xu",
+          "Guangming Wang",
+          "Guoling Luo",
+          "Huaqiu Chen",
+          "Jingwen Yu",
+          "Qingcao",
+          "Yonghong Xu"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-09T00:00:00.000Z",
+        "activityAt": "2026-10-10T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42855652/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "端粒相关衰老基因在宫颈癌中的作用",
+          "researchQuestion": "端粒如何影响宫颈癌仍不确定；研究旨在基于端粒相关基因（TRGs）建立遗传风险模型，以预测宫颈癌患者结局并可能辅助选择合适治疗药物。",
+          "studyDesign": "基于公共数据库的生物信息学分析。",
+          "populationAndSample": "从TelNet获取端粒相关基因（TRGs）。癌症基因组图谱（TCGA）数据库提供宫颈癌患者的临床数据和TRG表达率。在TCGA-CESC数据集中，识别出327个TRGs，用于区分癌组织和健康组织。随后合并与衰老和端粒相关的基因，得到31个重叠基因。",
+          "methods": "从TelNet获取TRGs；使用TCGA-CESC数据；对31个重叠基因进行功能富集分析；依次使用单因素Cox回归、Lasso回归和多因素Cox回归分析数据，建立TRGs风险模型。",
+          "keyResults": "在确定的TCGA组中（p < 0.001），高风险TRGs的宫颈癌患者结局更差。TRGs风险评分是宫颈癌的独立危险因素。此外，对TRGs易感的群体可能从特定医学干预中获益。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "研究团队开发了与端粒相关的遗传风险模型，用于预测宫颈癌患者结局，可能有助于为患者选择合适治疗药物。该结果为生物信息学模型，不能改写为指南或临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "9e997f1b53a915273cc04bfa7d105adec8610be400ae1e54daafd3213010d42f"
+      },
+      {
+        "id": "pmid:42855770",
+        "pmid": "42855770",
+        "doi": "10.3760/cma.j.cn112137-20260607-01475",
+        "title": "[Mid-pregnancy atherogenic index of plasma associated with early postpartum abnormal glucose metabolism in women with previous gestational diabetes].",
+        "abstract": "Objective: To investigate the relationship between the atherogenic index of plasma (AIP) during mid-pregnancy and abnormal glucose metabolism (AGM) in early postpartum period among women with previous gestational diabetes mellitus (GDM). Methods: In this retrospective cohort study, women with previous GDM who attended the Department of Endocrinology and Metabolism, Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, between December 2014 and June 2021 were recruited. Based on the outcomes of the 75 g oral glucose tolerance test (OGTT) performed at 4 to 12 weeks postpartum, the patients were classified into normal glucose tolerance (NGT) group and AGM group. Demographic characteristics, glycemic and lipid profiles, and AIP levels at mid-pregnancy and postpartum were compared between the two groups. Logistic regression analysis was used to identify the risk factors for postpartum AGM, and restricted cubic spline (RCS) analysis was performed to assess the dose-response relationship between mid-pregnancy AIP and postpartum AGM. Results: Finally, 921 women completed follow-up at 4 to 12 weeks postpartum, among whom 626 (68.0%) exhibited NGT and 295 (32.0%) were diagnosed with AGM.Compared with the NGT group, the AGM group had significantly higher AIP levels during both mid-pregnancy and postpartum peroid ( P <0.05). Logistic regression identified age, insulin therapy during pregnancy, mid-pregnancy fasting plasma glucose (FPG), and AIP were independent risk factors for postpartum AGM; each 1 unit increase in AIP was associated with a 237.6% increased risk of postpartum AGM ( OR =3.376, 95% CI : 1.431 to 7.964, P <0.01). After full adjustment for age, pre-pregnancy body mass index (pre-BMI), gestational weight gain rate, diabetic family history, insulin therapy during pregnancy, FPG, low-density lipoprotein cholesterol (LDL-C), and total cholesterol (TC), each 1-standard-deviation (SD) increase in the Z -score-standardized AIP was associated with a 25.3% increased risk of postpartum AGM ( OR =1.253, 95% CI : 1.069 to 1.470, P <0.01). RCS analysis demonstrated a linear positive association between mid-pregnancy AIP and the risk of postpartum AGM ( P for overall=0.020; P for nonlinearity=0.697). When mid-pregnancy AIP>0.093, the risk of postpartum AGM showed an increasing trend. Subgroup analyses stratified by age (<35 vs ≥35 years), pre-BMI (<24 vs ≥24 kg/m 2 ), and insulin therapy during pregnancy (yes vs no) revealed that there was no interaction between mid-pregnancy AIP levels and the risk of AGM across any of the subgroups (all P for interaction>0.05). Conclusion: Mid-pregnancy AIP level was independently and positively correlated with the risk of early postpartum AGM in women with GDM.",
+        "journal": "Zhonghua yi xue za zhi",
+        "authors": [
+          "G L Liang",
+          "J C Hu",
+          "J Y Yang",
+          "S Yan",
+          "Y F Wang",
+          "Y M Su",
+          "Y Yang"
+        ],
+        "publicationTypes": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-13T00:00:00.000Z",
+        "activityAt": "2026-10-10T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42855770/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "妊娠中期血浆致动脉粥样硬化指数与既往妊娠期糖尿病女性产后早期糖代谢异常相关",
+          "researchQuestion": "探讨既往妊娠期糖尿病（GDM）女性妊娠中期血浆致动脉粥样硬化指数（AIP）与产后早期糖代谢异常（AGM）之间的关系。",
+          "studyDesign": "回顾性队列研究。",
+          "populationAndSample": "招募2014年12月至2021年6月期间在上海交通大学医学院附属上海市第一人民医院内分泌代谢科就诊的既往GDM女性。最终921名女性在产后4至12周完成随访，其中626名（68.0%）为正常糖耐量（NGT），295名（32.0%）诊断为AGM。",
+          "methods": "根据产后4至12周进行的75 g口服葡萄糖耐量试验（OGTT）结果，将患者分为NGT组和AGM组。比较两组的人口学特征、血糖和血脂谱以及妊娠中期和产后AIP水平。采用Logistic回归分析识别产后AGM的危险因素，并采用限制性立方样条（RCS）分析评估妊娠中期AIP与产后AGM之间的剂量-反应关系。",
+          "keyResults": "与NGT组相比，AGM组在妊娠中期和产后阶段的AIP水平均显著更高（P<0.05）。Logistic回归识别出年龄、妊娠期胰岛素治疗、妊娠中期空腹血糖（FPG）和AIP是产后AGM的独立危险因素；AIP每增加1个单位，与产后AGM风险增加237.6%相关（OR=3.376，95% CI：1.431至7.964，P<0.01）。在完全调整年龄、孕前体重指数（pre-BMI）、妊娠期体重增长率、糖尿病家族史、妊娠期胰岛素治疗、FPG、低密度脂蛋白胆固醇（LDL-C）和总胆固醇（TC）后，Z-score标准化的AIP每增加1个标准差（SD），与产后AGM风险增加25.3%相关（OR=1.253，95% CI：1.069至1.470，P<0.01）。RCS分析显示妊娠中期AIP与产后AGM风险呈线性正相关（总体P=0.020；非线性P=0.697）。当妊娠中期AIP>0.093时，产后AGM风险呈上升趋势。按年龄（<35岁 vs ≥35岁）、pre-BMI（<24 vs ≥24 kg/m²）和妊娠期胰岛素治疗（是 vs 否）分层的亚组分析显示，妊娠中期AIP水平与AGM风险在各亚组间均无交互作用（所有交互作用P>0.05）。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "在GDM女性中，妊娠中期AIP水平与产后早期AGM风险独立且正相关。该结果为观察性关联，不能改写为因果关系、指南或临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "b54bf36d10a7893237285a2136fc29899a28b75469d4407af71ff7c14ff1469b"
+      },
+      {
+        "id": "pmid:42850375",
+        "pmid": "42850375",
+        "doi": "10.1038/s41417-026-01079-8",
+        "title": "Whole-genome DNA methylation analysis reveals distinct subtype characteristics in epithelial ovarian cancer.",
+        "abstract": "Epithelial ovarian cancer (EOC) is characterized by high mortality, insidious onset, and pronounced heterogeneity, underscoring the critical need for effective biomarkers for early detection and subtype-specific diagnosis. While DNA methylation represents a stable epigenetic marker, prior studies have largely relied on profiling techniques with limited genomic coverage and have often overlooked subtype-specific differences essential for guiding treatment decisions. To address this, we performed whole-genome bisulfite sequencing on 44 normal ovarian tissues and 89 EOC tissues encompassing all five histological subtypes, integrated with transcriptome sequencing, to comprehensively evaluate the diagnostic and prognostic utility of DNA methylation across EOC subtypes. Our analyses revealed that genome-wide methylation profiles effectively distinguished normal from tumor tissues and captured the substantial heterogeneity inherent to EOC. Differentially methylated regions (DMRs) and differentially expressed genes were enriched in immune-related processes and epithelial differentiation, aligning with the increased proportions of epithelial and immune cells identified through deconvolution analysis. Subtype-specific DMRs further implicated hormonal pathways in endometrioid (EC) and clear cell (CCOC) carcinomas, and linked mucinous ovarian cancer (MOC) to fluid regulation. Integrative analysis of DMRs and cellular composition indicated that epithelial cells in high-grade serous (HG), low-grade serous (LG), and EC tumors most closely resembled fallopian tube, ovarian, and endometrial epithelial cells, respectively, whereas MOC and CCOC epithelial cells showed similarity to gastrointestinal and renal epithelia. Moreover, weighted gene co-expression network analysis identified epithelia-associated DMRs that achieved up to 90% specificity for subtype classification in internal validation and demonstrated prognostic relevance in independent public datasets. In conclusion, the subtype-specific DNA methylation markers identified in this study accurately reflect the distinct histological features of each EOC subtype and hold promise for application in subtype classification and prognosis prediction, thereby providing a scientific foundation for future clinical interventions in EOC.",
+        "journal": "Cancer gene therapy",
+        "authors": [
+          "Caizhou Zhong",
+          "Deqiang Sun",
+          "Dongmei Zhou",
+          "Qiaoling Ren",
+          "Renci Liu",
+          "Xiujie Sheng",
+          "Yingqing Deng"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-08T00:00:00.000Z",
+        "activityAt": "2026-10-09T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42850375/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "全基因组DNA甲基化分析揭示上皮性卵巢癌不同亚型特征",
+          "researchQuestion": "上皮性卵巢癌（EOC）具有高死亡率、起病隐匿和显著异质性，亟需有效的早期检测和亚型特异性诊断生物标志物；研究旨在全面评估DNA甲基化在各EOC亚型中的诊断和预后效用。",
+          "studyDesign": "全基因组亚硫酸氢盐测序研究，整合转录组测序。",
+          "populationAndSample": "对44份正常卵巢组织和89份EOC组织（涵盖全部五种组织学亚型）进行全基因组亚硫酸氢盐测序。",
+          "methods": "全基因组亚硫酸氢盐测序；整合转录组测序；分析差异甲基化区域（DMRs）和差异表达基因；去卷积分析；整合DMRs和细胞组成分析；加权基因共表达网络分析（WGCNA）。",
+          "keyResults": "全基因组甲基化谱有效区分正常组织与肿瘤组织，并捕捉到EOC固有的显著异质性。DMRs和差异表达基因富集于免疫相关过程和上皮分化，与去卷积分析发现的上皮细胞和免疫细胞比例增加一致。亚型特异性DMRs进一步提示激素通路参与子宫内膜样癌（EC）和透明细胞癌（CCOC），并将黏液性卵巢癌（MOC）与液体调节联系起来。DMRs和细胞组成的整合分析表明，高级别浆液性（HG）、低级别浆液性（LG）和EC肿瘤中的上皮细胞分别最类似于输卵管、卵巢和子宫内膜上皮细胞，而MOC和CCOC上皮细胞显示与胃肠道和肾上皮相似。此外，WGCNA识别出上皮相关DMRs，在内部验证中达到高达90%的亚型分类特异性，并在独立公共数据集中显示出预后相关性。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "研究识别的亚型特异性DNA甲基化标志物准确反映了每种EOC亚型的独特组织学特征，有望应用于亚型分类和预后预测，从而为未来EOC临床干预提供科学基础。该结果为生物标志物研究，不能改写为指南或临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "057ab99e381c0636c56ef8d9b5ff3adddce7bba7bc430937b0ffa21e2bd60808"
+      },
+      {
+        "id": "pmid:42851598",
+        "pmid": "42851598",
+        "doi": "10.3389/fimmu.2026.1940736",
+        "title": "Metabolic-epigenetic imprinting of macrophages in endometriosis: a working model for lesion persistence and treatment.",
+        "abstract": "Endometriosis is an estrogen-dependent inflammatory disorder that often persists or returns even after visible lesions have been removed. The behavior of peritoneal macrophages may help explain this clinical durability. These cells participate in lesion implantation, vascularization, fibrosis, defective immune clearance, and pain, but it is uncertain why disease-supporting phenotypes are maintained. We argue that repeated exposure to the endometriotic niche may leave macrophages with a metabolically conditioned epigenetic memory rather than only a short-lived polarization state. Lactate, succinate, iron, oxysterols, and glutamine-derived metabolites could alter cellular metabolism while also providing substrates, cofactors, or inhibitors for chromatin-modifying enzymes. Histone lactylation and TET/JmjC-regulated methylation states are plausible molecular records of this exposure, although neither has yet been followed from metabolite to persistent mark and macrophage function in human disease. At present, the most direct endometriosis-specific support comes from a TGF-β1/CCL2-induced TET3 program associated with let-7 repression, inflammatory cytokine production, and macrophage survival. Other proposed circuits, including lactate-lactylation coupling and macrophage-stromal exchange of glycolytic signals, remain incomplete. This distinction matters: established findings support parts of the model, but not yet the entire causal chain. A memory state should be experimentally identifiable by its persistence after stimulus withdrawal, transferability, metabolic dependence, and reversibility. If experiments satisfy these criteria, the retained macrophage state would become a plausible non-hormonal target. The relevant test would be whether changing that state produces a lasting loss of lesion-supporting function instead of a brief reduction in downstream inflammation.",
+        "journal": "Frontiers in immunology",
+        "authors": [
+          "Lei Fang",
+          "Wanqiu Xia",
+          "Xueting Su",
+          "Yaru Wang"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-09-24T00:00:00.000Z",
+        "activityAt": "2026-10-09T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42851598/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "子宫内膜异位症中巨噬细胞的代谢-表观遗传印记：病变持续与治疗的工作模型",
+          "researchQuestion": "为什么支持疾病的巨噬细胞表型得以维持？作者提出，反复暴露于子宫内膜异位症微环境可能使巨噬细胞留下代谢条件化的表观遗传记忆，而不仅仅是短暂的极化状态。",
+          "studyDesign": "综述/提出工作模型。",
+          "populationAndSample": "摘要未报告。",
+          "methods": "摘要未报告。",
+          "keyResults": "反复暴露于子宫内膜异位症微环境可能使巨噬细胞留下代谢条件化的表观遗传记忆。乳酸、琥珀酸、铁、氧固醇和谷氨酰胺衍生代谢物可能改变细胞代谢，同时为染色质修饰酶提供底物、辅因子或抑制剂。组蛋白乳酸化和TET/JmjC调节的甲基化状态可能是这种暴露的合理分子记录，但二者均尚未在人类疾病中从代谢物到持续标记再到巨噬细胞功能被完整追踪。目前最直接的子宫内膜异位症特异性支持来自TGF-β1/CCL2诱导的TET3程序，该程序与let-7抑制、炎性细胞因子产生和巨噬细胞存活相关。其他提出的环路，包括乳酸-乳酸化偶联和巨噬细胞-基质间糖酵解信号交换，仍不完整。这一区分很重要：已确立的发现支持该模型的部分内容，但尚未支持整个因果链。记忆状态应可通过刺激撤除后的持续性、可转移性、代谢依赖性和可逆性进行实验鉴定。如果实验满足这些标准，保留的巨噬细胞状态将成为合理的非激素靶点。相关测试将是改变该状态是否产生病变支持功能的持久丧失，而不是下游炎症的短暂减少。",
+          "limitations": "该模型尚不完整；许多提出的环路仍不完整；已确立的发现仅支持部分内容，尚未支持整个因果链；组蛋白乳酸化和TET/JmjC调节的甲基化状态尚未在人类疾病中从代谢物到持续标记再到巨噬细胞功能被完整追踪。",
+          "clinicalInterpretation": "这是一个关于病变持续和治疗的工作模型。若实验满足持续性、可转移性、代谢依赖性和可逆性等标准，保留的巨噬细胞状态可能成为合理的非激素靶点；相关测试是改变该状态是否产生病变支持功能的持久丧失。该内容为工作模型，不能改写为指南或临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "a4f48210ca05e3702c18682225d9ccdd27933d048760c78dd745605794c98180"
+      }
+    ]
+  }
+}
