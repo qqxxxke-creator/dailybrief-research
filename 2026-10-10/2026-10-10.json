@@ -1,0 +1,264 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-10-10T00:42:54.217Z",
+    "dataAsOf": "2026-10-10T00:42:54.217Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及聚ADP核糖聚合酶抑制剂不良药物反应病例报告的回顾性分析：奥拉帕利与尼拉帕利的比较研究、在常规收集的医疗数据中识别子痫前期的算法：系统评价、评估尼拉帕利作为卵巢癌维持治疗在非洲裔女性中的安全性、耐受性和代谢的前瞻性多中心研究。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42851666",
+        "pmid": "42851666",
+        "doi": "10.3389/fphar.2026.1935594",
+        "title": "A retrospective analysis of adverse drug reaction case reports for PARP inhibitors: a comparative study of olaparib and niraparib.",
+        "abstract": "BACKGROUND: Olaparib and niraparib are the most widely used poly (ADP-ribose) polymerase inhibitors (PARPis) in clinical practice. However, clinical trial data inadequately capture rare and delayed adverse drug reactions (ADRs) in real-world settings, and a systematic comparison of their ADR profiles is lacking, hindering individualized therapy and risk management. This study systematically analyzes published case reports of ADRs associated with these two drugs to summarize their characteristics.\nMETHODS: This retrospective study systematically retrieved case reports on olaparib- and niraparib-related ADRs from seven databases (CNKI, Wanfang, VIP, PubMed, Web of Science, ScienceDirect, and Embase) up to June 2026. Following screening, we extracted baseline data, ADR manifestations, interventions, and outcomes. Adverse events were classified by System Organ Class using the Medical Dictionary for Regulatory Activities (MedDRA), and comparative analyses were conducted on ADR spectra, time-to-onset, and prognosis between the two drugs.\nRESULTS: A total of 45 case reports involving 55 patients (68 ADR events) were included, of which 33 cases (40 events) were olaparib-related and 22 cases (28 events) niraparib-related. Seven patients were male (all olaparib users) and 48 females (male-to-female ratio 1:6.8). Most patients were aged >50 years (47 cases, 85.45%), with a mean age of 61.02 ± 10.76 years. Ovarian cancer (OC) was the predominant primary disease (40 cases, 72.73%). Both drugs exhibited a predilection for middle-aged and elderly patients, with the first 30 days of treatment representing the peak period for ADR occurrence; with toxicities affecting the haematological, cutaneous, and respiratory systems in both groups. Distinct toxicity profiles were also observed: olaparib-associated ADRs were multisystemic, involving skin and subcutaneous tissue disorders (13 events, 32.50%), respiratory and mediastinal disorders (11 events, 27.50%), haematological and lymphatic disorders (9 events, 22.50%), and hepatobiliary disorders (4 events, 10.00%), with delayed organ toxicities such as drug-induced liver injury and myelodysplastic syndrome. Temporally, olaparib exhibited a bimodal onset pattern: early cutaneous toxicity followed by mid-to-late pulmonary and hepatobiliary injury. Niraparib-associated ADRs were highly concentrated in the haematological system (20 events, 71.43%), with thrombocytopenia as the core feature, accompanied by neuromuscular toxicities including dysgeusia and elevated creatine kinase; temporally, an early unimodal distribution was observed, with new ADRs significantly reduced after day 91. Twenty-four patients in the olaparib group improved after drug discontinuation, dose adjustment, or symptomatic treatment, seven died due to ADRs or disease progression, and 2 had unreported outcomes; in the niraparib group, 21 improved, 1 showed no improvement, and no drug-related deaths occurred. Upon rechallenge, ADRs recurred mostly within 1 week, and dose reduction effectively lowered recurrence risk. Causality assessment using the Naranjo scale identified 8 cases as \"definite\", 42 as \"probable\", and 5 as \"possible\".\nCONCLUSIONS: Olaparib and niraparib presented markedly different ADR profiles. Drug selection and monitoring should be individualized based on patient characteristics in clinical practice. Olaparib requires sustained vigilance for cutaneous, pulmonary, and hepatobiliary toxicities, with attention to delayed organ injury; niraparib warrants prioritized prevention of early thrombocytopenia. These findings complement real-world safety evidence for PARP inhibitors and provide a reference for individualized drug selection and stratified safety monitoring in clinical practice.",
+        "journal": "Frontiers in pharmacology",
+        "authors": [
+          "Dong Zou",
+          "Jiaqi Yao",
+          "Zhaoyan Zang"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-09-24T00:00:00.000Z",
+        "activityAt": "2026-10-09T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42851666/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "聚ADP核糖聚合酶抑制剂不良药物反应病例报告的回顾性分析：奥拉帕利与尼拉帕利的比较研究",
+          "researchQuestion": "在已发表病例报告中，奥拉帕利与尼拉帕利相关不良药物反应（ADR）的特征、谱、发生时间和预后有何差异？",
+          "studyDesign": "回顾性病例报告分析；摘要描述为回顾性研究；元数据 publication_types 包含 Journal Article、Systematic Review。",
+          "populationAndSample": "共纳入45篇病例报告，涉及55例患者、68例ADR事件；奥拉帕利相关33例（40事件），尼拉帕利相关22例（28事件）。7例为男性（均为奥拉帕利使用者），48例为女性（男女比1:6.8）。47例（85.45%）年龄>50岁，平均年龄61.02 ± 10.76岁。原发疾病以卵巢癌为主（40例，72.73%）。",
+          "methods": "系统检索CNKI、万方、维普、PubMed、Web of Science、ScienceDirect、Embase七个数据库截至2026年6月的奥拉帕利和尼拉帕利相关ADR病例报告；筛选后提取基线资料、ADR表现、干预和结局；按MedDRA的System Organ Class分类不良事件；对两药ADR谱、发生时间和预后进行比较分析。",
+          "keyResults": "两药均多见于中老年患者，治疗前30天为ADR发生高峰，毒性均涉及血液、皮肤和呼吸系统。奥拉帕利相关ADR呈多系统受累，包括皮肤和皮下组织疾病（13事件，32.50%）、呼吸和纵隔疾病（11事件，27.50%）、血液和淋巴疾病（9事件，22.50%）、肝胆疾病（4事件，10.00%），并有药物性肝损伤和骨髓增生异常综合征等迟发性器官毒性；时间上呈双峰模式：早期皮肤毒性，随后中晚期肺和肝胆损伤。尼拉帕利相关ADR高度集中于血液系统（20事件，71.43%），以血小板减少为核心特征，并伴有味觉障碍和肌酸激酶升高等神经肌肉毒性；时间上呈早期单峰分布，第91天后新发ADR显著减少。奥拉帕利组24例在停药、调整剂量或对症治疗后改善，7例因ADR或疾病进展死亡，2例结局未报告；尼拉帕利组21例改善，1例未改善，无药物相关死亡。再次给药后ADR多在1周内复发，减量有效降低复发风险。Naranjo因果关系评估：8例“肯定”、42例“很可能”、5例“可能”。",
+          "limitations": "摘要未报告明确的局限性；该分析基于已发表病例报告，摘要未报告病例报告质量评价或偏倚评估。",
+          "clinicalInterpretation": "该回顾性病例报告分析提示奥拉帕利与尼拉帕利在真实世界病例报告中的ADR谱不同：奥拉帕利相关ADR呈多系统受累并需关注迟发性器官毒性，尼拉帕利相关ADR集中于血液系统尤其是血小板减少。这些发现可为个体化用药选择与分层安全监测提供参考，但属于真实世界病例报告证据，不能直接外推为因果结论或临床指南。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "7563d895ca2bca9eae74d535878982a3aed117580a2b967abbbb6736fd42fee0"
+      },
+      {
+        "id": "pmid:42853001",
+        "pmid": "42853001",
+        "doi": "10.1002/pds.70490",
+        "title": "Algorithms to Identify Preeclampsia in Routinely Collected Healthcare Data: A Systematic Review.",
+        "abstract": "IMPORTANCE: Preeclampsia is a leading cause of maternal morbidity and mortality globally. As real-world data sources are increasingly used for maternal health surveillance and pharmacoepidemiologic studies, valid algorithms are essential for accurately identifying preeclampsia in routinely collected healthcare data.\nOBJECTIVE: To identify and characterize algorithms used to ascertain preeclampsia in population-based healthcare databases, summarize validation metrics, and describe the range of reported prevalence estimates.\nEVIDENCE REVIEW: Following PRISMA guidelines of 2021, PubMed was searched for studies published from January 1, 2010, to July 1, 2025. Observational studies using reproducible code-based algorithms to identify preeclampsia in routinely collected healthcare data were included. Screening and full-text review were performed in duplicate, with discrepancies resolved by a third reviewer. Data extraction focused on algorithm definitions, coding systems, validation methods, and epidemiologic estimates. A total of 289 studies met inclusion criteria, including 13 validation studies.\nFINDINGS: Across included studies, 43.6% used Nordic nationwide registries, 30.1% used claims databases, and 12.1% used electronic health records. ICD-10 O14.x was used in nearly all studies; inclusion of O11.x and O15.x varied. Validation studies consistently demonstrated high specificity (> 90%) but low sensitivity (≤ 80%), reflecting under-ascertainment when relying solely on diagnosis codes. More than 70% of studies did not report start or end points for the time window of ascertainment. Reported prevalence ranged from 0.6% to 6.6% across case definitions and settings. The prevalence of severe preeclampsia ranged from 0.6% to 2.2%. Algorithms including O11.x, O14.x, and O15.x showed improved sensitivity in some settings.\nCONCLUSIONS AND RELEVANCE: Algorithms for identifying preeclampsia in real-world data are highly specific but variably sensitive, with substantial heterogeneity in coding definitions and ascertainment windows. Standardized reporting and consistent inclusion of O11.x, O14.x, and O15.x may improve comparability, reproducibility, and the accuracy of epidemiologic estimates across data sources. High-specificity algorithms may be particularly useful for comparative safety studies, whereas potential under-ascertainment should be considered when estimating incidence or prevalence.",
+        "journal": "Pharmacoepidemiology and drug safety",
+        "authors": [
+          "Anna Beckmeyer-Borowko",
+          "Ditte Mølgaard-Nielsen",
+          "Elena Rivero-Ferrer",
+          "Eman A Alghamdi",
+          "Julie Scotto",
+          "Maryline Le Noan-Lainé",
+          "Meritxell Sabidó Espin",
+          "Sandra Lopez-Leon",
+          "Sonia Guleria",
+          "Sonia M Grandi",
+          "Susan E Andrade"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-01T00:00:00.000Z",
+        "activityAt": "2026-10-09T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42853001/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "在常规收集的医疗数据中识别子痫前期的算法：系统评价",
+          "researchQuestion": "在基于人群的医疗数据库中，用于识别子痫前期的算法有哪些、验证指标如何、报告患病率范围是多少？",
+          "studyDesign": "系统评价，遵循PRISMA 2021指南；纳入观察性研究，使用可重复的编码算法在常规收集医疗数据中识别子痫前期。",
+          "populationAndSample": "检索PubMed 2010年1月1日至2025年7月1日发表的研究；共289项研究符合纳入标准，其中13项为验证研究。纳入研究使用数据源：43.6%为北欧全国登记，30.1%为索赔数据库，12.1%为电子健康记录。",
+          "methods": "PubMed检索；双人筛选和全文审查，分歧由第三位审查者解决；提取算法定义、编码系统、验证方法和流行病学估计。",
+          "keyResults": "几乎所有研究使用ICD-10 O14.x；O11.x和O15.x的纳入情况不一。验证研究一致显示高特异度（>90%）但低敏感度（≤80%），仅依赖诊断编码时存在漏识别。超过70%研究未报告确定时间窗的起止点。报告患病率范围为0.6%–6.6%，重度子痫前期患病率为0.6%–2.2%。包含O11.x、O14.x和O15.x的算法在一些情况下敏感度提高。",
+          "limitations": "摘要报告：编码定义和确定窗口存在显著异质性；超过70%研究未报告确定时间窗起止点；验证研究仅13项。",
+          "clinicalInterpretation": "在真实世界数据研究中，仅用诊断编码识别子痫前期可能低估病例；高特异度算法可能尤其适用于比较安全性研究，而在估计发生率或患病率时应考虑潜在漏识别。该结论针对研究算法，摘要未报告临床诊断路径推荐。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "13ab983d11e91f99b46414e1daeae93a6f79388a1089641f4a2e7a9119661bb2"
+      },
+      {
+        "id": "pmid:42851761",
+        "pmid": "42851761",
+        "doi": "10.3389/fonc.2026.1976278",
+        "title": "Prospective multicenter study evaluating safety, tolerability and metabolism of niraparib as maintenance for ovarian cancer in women of African ancestry.",
+        "abstract": "UNLABELLED: Large-scale clinical studies investigating the safety and efficacy of novel therapeutics in ovarian cancer rarely include Black women or women of African ancestry. The sampled population in the PRIMA study was only 1.6% Black. Our objective is to evaluate the safety and tolerability of maintenance niraparib treatment in women of African ancestry. We hypothesize that the Poly (ADP-ribose) polymerase inhibitor (PARP) niraparib administered at standard doses in a population of African ancestry may demonstrate different safety and efficacy profiles to those in the PRIMA trial who were of primarily European ancestry. We will conduct a prospective, single-arm, multicenter, international study of 70 women of African ancestry designed to evaluate the safety and efficacy of niraparib maintenance therapy following completion of primary treatment for epithelial ovarian cancer. Study sites will include the United States, Bahamas, and Nigeria. Eligible patients must have histologically confirmed high-grade serous or endometrioid ovarian carcinoma, completed primary treatment for newly diagnosed stage III or IV ovarian, fallopian tube, or primary peritoneal carcinoma (surgery and chemotherapy) with partial or complete response, and self-identify as Black or African or Afro-Caribbean. The primary endpoint is the proportion of women with any grade 3 or higher adverse event. Secondary endpoints and translational endpoints will include progression free survival, pharmacokinetics, quality of life assessments, and biomarkers of PARP inhibitor resistance and metabolism.\nCLINICAL TRIAL REGISTRATION: https://clinicaltrials.gov/study/NCT06412120, identifier NCT06412120.",
+        "journal": "Frontiers in oncology",
+        "authors": [
+          "Abubakar Bello",
+          "Adekunle Oguntayo",
+          "Ahmed Hamidu",
+          "Aisha Mustapha",
+          "Andre Pinto",
+          "Anisah Yahya",
+          "Bala Audu",
+          "Darron Halliday",
+          "Isildinha M Reis",
+          "Karina Hew",
+          "Matthew Schlumbrecht",
+          "R Patricia Castillo",
+          "Raleigh Butler",
+          "Saida Bowe",
+          "Scott Jordan",
+          "Sophia George"
+        ],
+        "publicationTypes": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-24T00:00:00.000Z",
+        "activityAt": "2026-10-09T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42851761/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 21.25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 96.25,
+          "evidenceRank": 0.85
+        },
+        "summaryZh": {
+          "titleZh": "评估尼拉帕利作为卵巢癌维持治疗在非洲裔女性中的安全性、耐受性和代谢的前瞻性多中心研究",
+          "researchQuestion": "在非洲裔女性中，标准剂量尼拉帕利作为上皮性卵巢癌初始治疗后的维持治疗，其安全性、耐受性和代谢特征如何？研究假设：标准剂量尼拉帕利在非洲裔人群中的安全性和疗效特征可能不同于以欧洲裔为主的PRIMA试验人群；摘要提及PRIMA研究样本中仅1.6%为Black。",
+          "studyDesign": "前瞻性、单臂、多中心、国际研究；临床试验注册号NCT06412120。",
+          "populationAndSample": "计划纳入70名非洲裔女性；研究地点包括美国、巴哈马和尼日利亚。入选条件：组织学确诊的高级别浆液性或子宫内膜样卵巢癌；新诊断III期或IV期卵巢癌、输卵管癌或原发性腹膜癌完成初始治疗（手术和化疗）并达到部分或完全缓解；自我认同为Black或African或Afro-Caribbean。",
+          "methods": "在完成初始治疗后给予尼拉帕利维持治疗，评估安全性和有效性；主要终点为发生任何3级或以上不良事件的女性的比例；次要和转化终点包括无进展生存期、药代动力学、生活质量评估以及PARP抑制剂耐药和代谢的生物标志物。摘要未报告具体给药方案、随访时长或统计分析计划。",
+          "keyResults": "摘要未报告研究结果；本文描述研究设计与终点。",
+          "limitations": "摘要未报告研究结果或局限性；作为单臂研究，摘要未报告对照比较结果。",
+          "clinicalInterpretation": "该研究方案旨在补充非洲裔女性中尼拉帕利维持治疗的安全性、耐受性和代谢数据，并检验其与以欧洲裔为主的PRIMA试验人群可能存在的差异；在结果发表前，不能据此得出疗效或安全性结论或改变临床实践。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "8c7e779b665c2d627c9da1b512f6fac9475327ddee46e90a19d2fadd3d1cf4d2"
+      },
+      {
+        "id": "pmid:42853302",
+        "pmid": "42853302",
+        "doi": "10.1007/s12032-026-03454-9",
+        "title": "Curcumin in ovarian cancer: mechanistic insights and translational potential.",
+        "abstract": "Ovarian cancer remains the most fatal gynecological malignancy, primarily due to delayed diagnosis, rapid progression, and resistance to standard chemotherapy. Curcumin, a natural polyphenol from Curcuma longa, has been investigated for its potential anticancer properties through the modulation of multiple molecular pathways. This systematic review examines the mechanistic and therapeutic roles of curcumin and its nanoformulations in preclinical models of ovarian cancer. Evaluation of 21 studies indicates that curcumin may influence key signaling pathways such as phosphoinositide 3-kinase (PI3K)/ protein kinase B (Akt)/ mechanistic target of rapamycin (mTOR), nuclear factor kappa β (NF-κβ), Janus kinase (JAK) /signal transducer and activator of transcription 3 (STAT3), and Wnt/β-catenin. Preliminary evidence also suggests that curcumin may modulate the tumor microenvironment through changes in tumor-associated macrophage polarization, although this finding is currently supported by limited evidence. These interactions are associated with increased apoptosis, reduced proliferation, inhibition of epithelial-to-mesenchymal transition (EMT), and enhanced sensitivity to chemotherapeutic agents like cisplatin and paclitaxel. Nanoformulations-such as micelles, dendrosomes, liposomes, and core-shell nanoparticles-have been shown to improve curcumin's bioavailability and therapeutic performance compared to its free form. While these preclinical findings suggest potential benefits, further clinical studies are necessary to confirm curcumin's role as a supportive treatment in ovarian cancer.",
+        "journal": "Medical oncology (Northwood, London, England)",
+        "authors": [
+          "Maryam Dehghanpour Dehabadi",
+          "Mojtaba Esmaeli"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-09T00:00:00.000Z",
+        "activityAt": "2026-10-09T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42853302/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 3.75,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "姜黄素在卵巢癌中的作用：机制见解与转化潜力",
+          "researchQuestion": "姜黄素及其纳米制剂在卵巢癌临床前模型中的机制作用和治疗潜力如何？",
+          "studyDesign": "系统评价，评估卵巢癌临床前模型研究；共评价21项研究。",
+          "populationAndSample": "21项卵巢癌临床前模型研究；摘要未报告具体模型类型、样本量或研究间特征。",
+          "methods": "摘要未报告检索数据库、检索时间、筛选流程等系统综述方法细节；评价姜黄素及其纳米制剂的作用机制和治疗角色。",
+          "keyResults": "21项研究提示姜黄素可能影响PI3K/Akt/mTOR、NF-κβ、JAK/STAT3和Wnt/β-catenin等关键信号通路；初步证据提示其可能通过改变肿瘤相关巨噬细胞极化调节肿瘤微环境，但该发现目前证据有限。这些相互作用与凋亡增加、增殖减少、上皮-间质转化（EMT）抑制以及对顺铂和紫杉醇等化疗药物敏感性增强相关。纳米制剂如胶束、树状体、脂质体和核壳纳米粒已被显示较游离形式改善姜黄素生物利用度和治疗性能。",
+          "limitations": "摘要指出肿瘤微环境调节的证据有限；这些为临床前发现，需进一步临床研究确认姜黄素作为卵巢癌支持治疗的作用；摘要未报告其他局限性。",
+          "clinicalInterpretation": "该综述提示姜黄素及其纳米制剂在卵巢癌临床前模型中具有多种潜在机制和转化潜力，但现有证据为临床前阶段，尚不能支持临床疗效或支持治疗结论；需临床研究进一步确认。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "3c5726f5da444c869cb081cfdcd44b507df711054c179115f82025747c5aa82c"
+      },
+      {
+        "id": "pmid:42851054",
+        "pmid": "42851054",
+        "title": "[Effects of human placental mesenchymal stem cell (hPDMSC)-derived exosome (PdE) shuttling miR-144-3p on vascular endothelial cell dysfunction in gestational diabetes mellitus (GDM)].",
+        "abstract": "Objective Gestational diabetes mellitus (GDM) is associated with long-term endothelial dysfunction of maternal-fetal vessels, and human placental mesenchymal stem cell (hPDMSC)-derived exosomes (PdE) from GDM patients are closely related to the progression of the disease. This study aims to investigate the expression of miR-144-3p in PdE and its effects and the underlying mechanism on vascular endothelial cell dysfunction in GDM. Methods PdE from normal pregnant patients and GDM patients (the Nor-PdE group and the GDM-PdE group) were isolated and collected. Anti-miR144-3p and negative control were transfected into hPDMSC using the Lipofectamine. Then, the PdE were collected and co-cultured with human umbilical vein endothelial cell (HUVEC). Real-time quantitative PCR (qRT-PCR) was performed to detect miR-144-3p expression, while the CCK-8 assay was used to assess HUVEC viability. Transwell TM assay was performed to analyze cell migration. Matrix gel tube formation assay was carried out to determine tube formation ability. Bioinformatics and dual-luciferase reporter analysis were used to evaluate the targeting relationship between miR-144-3p and suppressors of cytokine signaling 6 (SOCS6). The protein expression of SOCS6 was analyzed by Western blot. Results The PdE from normal pregnant patients and GDM patients were successfully isolated. Compared with Nor-PdE group, the expression levels of miR-144-3p were increased in GDM-PdE group. Moreover, the expression of miR-144-3p was obviously decreased after anti-miR-144-3p treatment. Compared with Nor-PdE group, GDM-PdE treatment dramatically suppressed HUVEC viability, migration and tube formation, these inhibitory effects were markedly attenuated upon miR-144-3p knockdown. Compared with Nor-PdE group, the transcriptional levels of SOCS6 were decreased in HUVECs after treatment with GDM-PdE. Bioinformatics and dual-luciferase reporter analysis confirmed that SOCS6 was a potential target of miR-144-3p. Down-regulation of miR-144-3p obviously increased HUVEC viability, migration and tube formation under GDM-PdE condition, which was abrogated after SOCS6 down-regulation. Conclusion Abnormal high expression of miR-144-3p in GDM-PdE may regulate the dysfunction of vascular endothelial cells by targeting SOCS6, supporting it as a new potential target for PdE in the prevention and treatment of GDM.",
+        "journal": "Xi bao yu fen zi mian yi xue za zhi = Chinese journal of cellular and molecular immunology",
+        "authors": [
+          "Chen Wang",
+          "Jiachen Deng",
+          "Yunjie Wan",
+          "Zhenhua Zheng",
+          "Zhizhong Wang"
+        ],
+        "publicationTypes": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-01T00:00:00.000Z",
+        "activityAt": "2026-10-09T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42851054/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      }
+    ]
+  }
+}
