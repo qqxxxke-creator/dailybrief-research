@@ -1,0 +1,290 @@
+{
+  "hero_headline": "长期女性健康研究揭示疾病预防与健康老龄化的持久经验",
+  "daily_overview": "今日无指南与共识更新，无手术前沿进展；国际方面，一项发表于《柳叶刀·产科学》的研究基于长期女性健康研究，总结疾病预防与健康老龄化的启示。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [
+    {
+      "title": "Long-running women's health studies reveal lasting lessons for disease prevention and healthy aging",
+      "url": "https://medicalxpress.com/news/2026-10-women-health-reveal-lessons-disease.html",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "该研究第一作者为麻省总医院布莱根的Andrea Romanos-Nanclares博士，论文发表于《柳叶刀·产科学》。基于长期女性健康研究，总结疾病预防与健康老龄化的持久经验。原文摘要未说明具体临床建议及与既往观点的差异。",
+      "importance": 6
+    }
+  ],
+  "editor_note": "关注女性全生命周期健康证据积累，但需等待原文提供具体临床转化建议。",
+  "keywords": [
+    "女性健康研究",
+    "疾病预防",
+    "健康老龄化",
+    "长期队列",
+    "柳叶刀·产科学",
+    "麻省总医院布莱根",
+    "妇产科动态"
+  ],
+  "research": {
+    "generatedAt": "2026-10-11T23:53:57.490Z",
+    "dataAsOf": "2026-10-11T23:53:57.490Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及英国少数族裔人群中孕妇的体重管理干预：一项范围综述、抑制素B作为卵巢储备和卵巢反应生物标志物：诊断准确性系统评价和荟萃分析、非洲剖宫产术后手术部位感染的发生率和决定因素：伞状综述。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42856522",
+        "pmid": "42856522",
+        "doi": "10.3389/fpubh.2026.1885429",
+        "title": "Weight management interventions for pregnant women from minority ethnic populations living in the United Kingdom: a scoping review.",
+        "abstract": "BACKGROUND: Maternal obesity disproportionately affects women from minority ethnic backgrounds in the United Kingdom, who face substantially higher risks of gestational diabetes mellitus, hypertensive disorders, and maternal mortality than White British women. Despite well-documented disparities and relevant National Institute for Health and Care Excellence guidance, the evidence base for culturally appropriate weight management during pregnancy remains poorly mapped.\nAIM: To map and synthesize available evidence on weight management interventions during pregnancy among minority ethnic women in UK settings.\nMETHODS: A scoping review was conducted following the Arksey and O'Malley (2005) framework and reported according to PRISMA-ScR. Seven electronic databases were searched from 2010 to 2025. Eligible studies assessed weight management interventions among pregnant minority ethnic women in the UK, or multi-ethnic UK cohorts with ethnicity-disaggregated data.\nFINDINGS: Three studies were included with 1,741 participants, published between 2016 and 2025. Three domains were identified: multi-component behavioral interventions applied without cultural adaptation; differential engagement by ethnicity; and limited ethnicity-stratified reporting of effectiveness, with exploratory subgroup analyses that were underpowered and inconclusive. The reviewed studies demonstrated limited cultural adaptation and inadequate ethnicity-stratified reporting, with lower engagement among minority ethnic participants and insufficient evidence to determine whether interventions effectively reduced ethnic disparities in gestational diabetes outcomes.\nCONCLUSIONS: Within the peer-reviewed evidence identified, interventions were delivered to multi-ethnic cohorts without documented cultural adaptation, and ethnicity-stratified reporting was too limited to permit an assessment of equity of effectiveness. These findings relate to the published literature and do not account for community-based provision not captured by this search. There is a clear need for co-designed, culturally responsive programmes evaluated in trials powered to detect ethnic differences in outcome.",
+        "journal": "Frontiers in public health",
+        "authors": [
+          "Baraa Morsy",
+          "Bhavneet Singh",
+          "Britzer Paul Vincent",
+          "Nasreen Ali",
+          "Sarmad Raza"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Scoping Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-09-25T00:00:00.000Z",
+        "activityAt": "2026-10-11T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42856522/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "英国少数族裔人群中孕妇的体重管理干预：一项范围综述",
+          "researchQuestion": "旨在绘制和综合英国环境下针对少数族裔孕妇妊娠期体重管理干预的现有证据。",
+          "studyDesign": "范围综述，遵循Arksey和O'Malley（2005）框架，并按PRISMA-ScR报告。",
+          "populationAndSample": "纳入3项研究，共1741名参与者，发表于2016年至2025年；纳入标准为在英国妊娠少数族裔女性中评估体重管理干预，或为有按族裔分层数据的英国多族裔队列。",
+          "methods": "检索7个电子数据库，时间范围为2010年至2025年；依据纳入标准筛选合格研究。",
+          "keyResults": "识别出三个领域：未进行文化适应的多成分行为干预；按族裔参与度存在差异；有效性按族裔分层报告有限，探索性亚组分析把握度不足且不确定。所综述研究显示文化适应有限，按族裔分层报告不足，少数族裔参与者参与度较低，且证据不足以确定干预是否有效减少妊娠糖尿病结局的族裔差异。",
+          "limitations": "纳入研究文化适应有限，按族裔分层的有效性报告不足，探索性亚组分析把握度不足且不确定；检索仅基于同行评议证据，未纳入该检索未捕获的社区服务提供。",
+          "clinicalInterpretation": "该范围综述提示，在已识别的同行评议证据中，干预在多族裔队列中实施但未记录文化适应，按族裔分层报告不足以评估有效性公平性；未来需要共同设计、文化响应，并在把握度足以检测族裔结局差异的试验中评估的项目。以上为文献证据解读，不构成临床指南或指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "7094922f828b0c414e3d008e2ca28f3b61ea947d5ca45e3aaeb74f286cc8780f"
+      },
+      {
+        "id": "pmid:42858260",
+        "pmid": "42858260",
+        "doi": "10.1080/09513590.2026.2732860",
+        "title": "Inhibin B as a biomarker for ovarian reserve and ovarian response: systematic reviews and meta-analyses of diagnostic test accuracy.",
+        "abstract": "OBJECTIVE: To assess the diagnostic accuracy of inhibin B in evaluating ovarian reserve and ovarian response.\nMETHODS: We searched EMBASE, PubMed, Web of Science, ScienceDirect, and the Cochrane Library up to July 2, 2025, for diagnostic test accuracy studies comparing inhibin B with anti-Müllerian hormone (AMH). The review followed the PRISMA-DTA and MOOSE guidelines. The risk of bias was assessed using QUADAS-2. Pooled sensitivity, specificity, positive and negative likelihood ratios, diagnostic odds ratio (DOR), and diagnostic score were estimated using bivariate random-effects models. Summary receiver operating characteristic (SROC) curves, a Fagan nomogram (pre-test probability = 0.5), and Deeks' funnel plot were used to evaluate performance and publication bias. Subgroup analyses compared inhibin B's accuracy between ovarian reserve and response.\nRESULTS: Eight studies (12 datasets; 2878 women) were included, all at low risk of bias. For ovarian reserve, inhibin B showed sensitivity of 0.69, specificity of 0.88, DOR of 16.52, and an SROC AUC of 0.89; for ovarian response: sensitivity of 0.60, specificity of 0.79, DOR of 5.80, and AUC of 0.77. No significant publication bias was detected ( P = 0.78 for ovarian reserve; P = 0.21 for ovarian response). The sensitivity was significantly higher for ovarian reserve than for the response ( P < 0.001).\nCONCLUSIONS: Inhibin B has moderate diagnostic accuracy for the ovarian reserve and lower accuracy for the ovarian response. It may be considered a complementary biomarker, but AMH remains superior.",
+        "journal": "Gynecological endocrinology : the official journal of the International Society of Gynecological Endocrinology",
+        "authors": [
+          "Danlin Wang",
+          "Li Wang",
+          "Yan Fang"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-10T00:00:00.000Z",
+        "activityAt": "2026-10-11T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42858260/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "抑制素B作为卵巢储备和卵巢反应生物标志物：诊断准确性系统评价和荟萃分析",
+          "researchQuestion": "评估抑制素B在评估卵巢储备和卵巢反应中的诊断准确性。",
+          "studyDesign": "诊断准确性研究的系统评价和荟萃分析，遵循PRISMA-DTA和MOOSE指南；使用QUADAS-2评估偏倚风险。",
+          "populationAndSample": "纳入8项研究（12个数据集；2878名女性），所有研究均处于低偏倚风险。",
+          "methods": "检索EMBASE、PubMed、Web of Science、ScienceDirect和Cochrane Library，截至2025年7月2日，纳入比较抑制素B与抗苗勒管激素（AMH）的诊断准确性研究。使用双变量随机效应模型合并敏感度、特异度、阳性似然比、阴性似然比、诊断比值比（DOR）和诊断评分；使用SROC曲线、Fagan列线图（验前概率=0.5）和Deeks漏斗图评估性能与发表偏倚；亚组分析比较抑制素B在卵巢储备与卵巢反应中的准确性。",
+          "keyResults": "对于卵巢储备，抑制素B的敏感度为0.69，特异度为0.88，DOR为16.52，SROC AUC为0.89；对于卵巢反应，敏感度为0.60，特异度为0.79，DOR为5.80，AUC为0.77。未检测到显著发表偏倚（卵巢储备P=0.78；卵巢反应P=0.21）。卵巢储备的敏感度显著高于卵巢反应（P<0.001）。结论指出，抑制素B对卵巢储备具有中等诊断准确性，对卵巢反应准确性较低；可考虑作为补充生物标志物，但AMH仍更优。",
+          "limitations": "摘要未报告明确的局限性；所有纳入研究经QUADAS-2评估为低偏倚风险，且未检测到显著发表偏倚。",
+          "clinicalInterpretation": "该荟萃分析提示，抑制素B可能作为补充生物标志物，但AMH仍更优；结果不支持将抑制素B替代AMH，临床解读应结合具体情境。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "9e05dc801c3824c213edabc8d35b874443db784f706cec0e39e5f86b3995eb5c"
+      },
+      {
+        "id": "pmid:42859868",
+        "pmid": "42859868",
+        "doi": "10.1177/17455057261496373",
+        "title": "Prevalence and determinants of surgical site infection following cesarean section in africa: Umbrella review.",
+        "abstract": "BackgroundSurgical site infection following cesarean section remains a major contributor to maternal morbidity, particularly in low- and middle-income countries. Although several systematic reviews and meta-analyses have evaluated its burden and determinants in Africa, findings remain heterogeneous and have not previously been synthesized through an umbrella review.ObjectiveTo synthesize evidence on the prevalence and determinants of surgical site infection following cesarean section in Africa.DesignUmbrella review.MethodsA comprehensive search of PubMed, HINARI/Research4Life, African Journals Online, ScienceDirect, Google Scholar, and Ethiopian scholarly repositories was conducted from March 1, 2026 to March 30, 2026. Systematic reviews and meta-analyses reporting the prevalence and/or determinants of surgical site infection following cesarean section in African populations were eligible. Methodological quality was assessed using AMSTAR 2, and overlap among primary studies was evaluated using the corrected covered area method.ResultsSeven systematic reviews and meta-analyses, comprising 71 primary studies and 61,485 participants, were included. Across the included reviews, reported pooled prevalence estimates consistently clustered around 10%. Maternal anemia, chorioamnionitis, prolonged labor, prolonged rupture of membranes, vertical skin incision, and general anesthesia were the determinants most consistently associated with increased surgical site infection risk following cesarean section. Methodological quality varied across reviews (five high quality and 2 moderate quality), and substantial heterogeneity with slight overlap among primary studies was identified.ConclusionThe available evidence indicates that surgical site infection remains an important maternal health concern following cesarean section in Africa. However, the findings should be interpreted cautiously because of heterogeneity and methodological limitations within the existing evidence base. Strengthening evidence-based perioperative infection prevention, standardized surgical site infection surveillance, and high-quality multicounty prospective research are important priorities.",
+        "journal": "Women's health (London, England)",
+        "authors": [
+          "Abraham Keffale Mengistu",
+          "Geremew Bishaw Mekonen",
+          "Habtamu Ayele",
+          "Melaku Laikemariam",
+          "Melkamu Addis",
+          "Tesfahun Ayenew",
+          "Worku Misganaw Kebede"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-11T00:00:00.000Z",
+        "activityAt": "2026-10-11T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42859868/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "非洲剖宫产术后手术部位感染的发生率和决定因素：伞状综述",
+          "researchQuestion": "综合关于非洲剖宫产术后手术部位感染发生率和决定因素的证据。",
+          "studyDesign": "伞状综述。",
+          "populationAndSample": "纳入7项系统评价和荟萃分析，包含71项原始研究，共61,485名参与者。",
+          "methods": "于2026年3月1日至2026年3月30日检索PubMed、HINARI/Research4Life、African Journals Online、ScienceDirect、Google Scholar和埃塞俄比亚学术仓储。纳入报告非洲人群剖宫产术后手术部位感染发生率和/或决定因素的系统评价和荟萃分析。使用AMSTAR 2评估方法学质量，使用校正覆盖面积法评估原始研究间重叠。",
+          "keyResults": "在所纳入综述中，报告的合并患病率估计一致集中在约10%。与剖宫产术后手术部位感染风险增加最一致相关的决定因素为孕产妇贫血、绒毛膜羊膜炎、产程延长、胎膜早破时间延长、垂直皮肤切口和全身麻醉。方法学质量不一（5项高质量，2项中等质量），并发现显著异质性和原始研究间轻微重叠。结论指出，现有证据表明剖宫产术后手术部位感染仍是非洲重要的孕产妇健康问题，但因现有证据基础中的异质性和方法学局限，应谨慎解释；加强循证围手术期感染预防、标准化手术部位感染监测和高质量多国前瞻性研究是重要优先事项。",
+          "limitations": "纳入综述间存在显著异质性和方法学局限，原始研究间有轻微重叠；证据解释需谨慎。",
+          "clinicalInterpretation": "该伞状综述提示，剖宫产术后手术部位感染在非洲仍是重要孕产妇健康问题，且多个决定因素与风险增加一致相关；但受异质性和方法学局限影响，临床解读需谨慎，优先方向包括循证围手术期感染预防、标准化手术部位感染监测和高质量多国前瞻性研究。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "5b49b0871379abdb34c9688941e888cb79186879741e95fe5ab8521edcc29644"
+      },
+      {
+        "id": "pmid:42859932",
+        "pmid": "42859932",
+        "doi": "10.1007/s12325-026-03809-8",
+        "title": "Perinatal Outcomes of Pleuro-Amniotic Shunting in Isolated Pleural Effusions: Systematic Review and Meta-analysis.",
+        "abstract": "INTRODUCTION: Pleuro-amniotic shunting has been proposed for fetal pleural effusion, although its safety and efficacy remain uncertain. Therefore, we aimed to evaluate the perinatal outcomes of the fetal therapy for isolated pleural effusion through a systematic review and single-arm meta-analysis.\nMETHODS: PubMed/MEDLINE, Embase, Scopus, and Cochrane Central were searched for studies reporting outcomes of fetuses undergoing pleuro-amniotic shunting for isolated pleural effusion. The primary outcomes were overall survival and resolution of fetal hydrops. Single-arm random-effects meta-analyses were performed to estimate pooled event rates with 95% confidence intervals (CI).\nRESULTS: Ten retrospective cohort studies comprising 416 fetuses treated with pleuro-amniotic shunting were included. The pooled overall survival rate was 65.36% (95% CI 59.46-70.83; I 2 = 30.7%). Resolution of fetal hydrops occurred in 62.25% of cases (95% CI 54.27-69.62; I 2 = 0%). A total of 62 catheter displacements were recorded, corresponding to a combined prevalence of 17.13% (95% CI 13.59-21.36). Overall, there were 155 preterm births, resulting in a pooled prevalence of 69.67% (95% CI 61.24-76.95; I 2 = 26.9%). Preterm premature rupture of membranes (PPROM) prevalence was 17.65% (95% CI 7.78-35.28; I 2 = 84.5%; p < 0.001).\nCONCLUSION: Pleuro-amniotic shunting achieves overall survival in approximately two-thirds of treated fetuses and resolving fetal hydrops in most cases. However, the procedure may be associated with preterm birth and PROM, underscoring the need for multidisciplinary perinatal management. Although the evidence is limited, these findings support pleuro-amniotic shunting as a promising treatment for progressive isolated fetal pleural effusion and highlight the need for prospective studies to optimize patient selection and perinatal care.",
+        "journal": "Advances in therapy",
+        "authors": [
+          "Antonio Braga",
+          "Daniel Giatti de Sousa",
+          "Eduardo Moreira Nader",
+          "Edward Araujo Júnior",
+          "Enzo Lofredo Amorim",
+          "Felipe Muniz Ferreira",
+          "Henrique Provinciatto",
+          "Maria Fernanda Dos Santos Lobo",
+          "Mucio Cevulla da Silva Lourenço",
+          "Roberta Granese"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-11T00:00:00.000Z",
+        "activityAt": "2026-10-11T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42859932/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "孤立性胸腔积液胸膜-羊膜腔分流术的围产期结局：系统评价和荟萃分析",
+          "researchQuestion": "评估胸膜-羊膜腔分流术治疗孤立性胸腔积液的围产期结局。",
+          "studyDesign": "系统评价和单臂荟萃分析。",
+          "populationAndSample": "纳入10项回顾性队列研究，共416例接受胸膜-羊膜腔分流术的胎儿。",
+          "methods": "检索PubMed/MEDLINE、Embase、Scopus和Cochrane Central，纳入报告孤立性胸腔积液胎儿接受胸膜-羊膜腔分流术结局的研究。主要结局为总体生存率和胎儿水肿消退。采用单臂随机效应荟萃分析估计合并事件率及95%置信区间（CI）。",
+          "keyResults": "合并总体生存率为65.36%（95% CI 59.46-70.83；I²=30.7%）。胎儿水肿消退发生于62.25%的病例（95% CI 54.27-69.62；I²=0%）。共记录62例导管移位，合并患病率为17.13%（95% CI 13.59-21.36）。共有155例早产，合并患病率为69.67%（95% CI 61.24-76.95；I²=26.9%）。未足月胎膜早破（PPROM）患病率为17.65%（95% CI 7.78-35.28；I²=84.5%；p<0.001）。结论指出，胸膜-羊膜腔分流术使约三分之二接受治疗的胎儿获得总体生存，并在多数病例中使胎儿水肿消退；但该操作可能与早产和PROM相关，强调需要多学科围产期管理；尽管证据有限，这些发现支持胸膜-羊膜腔分流术作为进展性孤立性胎儿胸腔积液的一种有前景治疗，并提示需要前瞻性研究优化患者选择和围产期护理。",
+          "limitations": "纳入研究均为回顾性队列研究，证据有限；部分合并估计异质性较高（如PPROM I²=84.5%），且为单臂荟萃分析。",
+          "clinicalInterpretation": "该单臂荟萃分析提示，胸膜-羊膜腔分流术在孤立性胸腔积液中约三分之二胎儿获得总体生存，且多数胎儿水肿消退，但可能与早产和PROM相关；需多学科围产期管理，并通过前瞻性研究优化患者选择和围产期护理。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "3af31a414ff0cb4557f477cd6fd15276a8ce1c68e4181414fea6dbabb4086a14"
+      },
+      {
+        "id": "pmid:42860035",
+        "pmid": "42860035",
+        "doi": "10.1002/cam4.72366",
+        "title": "Combined Active Bone Marrow-Sparing Radiotherapy and Prophylactic PEG-rhG-CSF to Reduce Severe Neutropenia During Platinum-Doublet Concurrent Chemoradiotherapy for Locally Advanced Cervical Cancer: A Phase II Trial.",
+        "abstract": "BACKGROUND: Platinum-doublet concurrent chemoradiotherapy (CCRT) for locally advanced cervical cancer (LACC) is frequently complicated by severe neutropenia. This Phase II trial investigated whether combining active bone marrow-sparing (ABMS) radiotherapy with prophylactic pegylated recombinant human granulocyte colony-stimulating factor (PEG-rhG-CSF) could reduce the incidence of grade ≥ 3 neutropenia below a prespecified historical benchmark of 30%.\nMETHODS: Patients with FIGO 2018 stage IIA2-IVA LACC received SPECT-guided ABMS radiotherapy (45 Gy external beam plus 30 Gy brachytherapy) concurrent with paclitaxel/carboplatin every 21 days for 4 cycles followed by prophylactic PEG-rhG-CSF. Using Simon's two-stage design (α = 0.05, β = 0.20), we tested whether grade ≥ 3 neutropenia could be reduced from a historical benchmark of 30% to ≤ 15%. The primary endpoint was grade ≥ 3 neutropenia incidence; secondary endpoints included other cytopenias, treatment completion, and survival outcomes.\nRESULTS: Fifty-four patients were enrolled. Grade ≥ 3 neutropenia occurred in 13.0% (7/54; 95% CI: 5.4%-24.9%), meeting the prespecified success criterion (one-sided exact binomial test, p = 0.003 versus the 30% benchmark). Other grade ≥ 3 toxicities included leukopenia (18.5%), anemia (3.7%), thrombocytopenia (5.6%), and febrile neutropenia (1.9%). Overall, 85.2% of patients completed all 4 planned chemotherapy cycles, and all completed radiotherapy within 8 weeks (median overall treatment time: 50 days). At a median follow-up of 40 months, the 3-year progression-free survival (PFS) and overall survival (OS) rates were 88.8% and 88.9%, respectively (6 events each); the study was not powered for survival efficacy.\nCONCLUSIONS: The combination of ABMS radiotherapy and prophylactic PEG-rhG-CSF was associated with a grade ≥ 3 neutropenia rate of 13.0% and a chemotherapy completion rate of 85.2% during platinum-doublet CCRT for LACC. Because the single-arm design and reliance on historical controls preclude causal inference, these findings are hypothesis-generating and primarily establish the operational feasibility of this dual hematoprotection approach. Formal evaluation of safety and efficacy requires the ongoing randomized trial (ChiCTR2400087321).\nTRIAL REGISTRATION: Chinese Clinical Trial Registry, ChiCTR2100046911. Registered May 30, 2021.",
+        "journal": "Cancer medicine",
+        "authors": [
+          "Chunxiu Wang",
+          "Hui Zhong",
+          "Jiapei Liu",
+          "Kaijian Lei",
+          "ShanBing Wang",
+          "Ting Li",
+          "Xia Zhang",
+          "Yuming Jia"
+        ],
+        "publicationTypes": [
+          "Clinical Trial, Phase II",
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-01T00:00:00.000Z",
+        "activityAt": "2026-10-11T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42860035/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 21.25,
+          "clinicalActionability": 7.5,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 0.85
+        },
+        "summaryZh": {
+          "titleZh": "联合主动骨髓保护放疗与预防性PEG-rhG-CSF降低局部晚期宫颈癌铂类双药同步放化疗期间严重中性粒细胞减少：一项II期试验",
+          "researchQuestion": "在局部晚期宫颈癌铂类双药同步放化疗中，联合主动骨髓保护（ABMS）放疗与预防性聚乙二醇化重组人粒细胞集落刺激因子（PEG-rhG-CSF）能否将≥3级中性粒细胞减少发生率降至预设历史基准30%以下？",
+          "studyDesign": "单臂II期试验，采用Simon两阶段设计（α=0.05，β=0.20）。",
+          "populationAndSample": "54例FIGO 2018 IIA2-IVA期局部晚期宫颈癌患者。",
+          "methods": "患者接受SPECT引导的ABMS放疗（45 Gy外照射加30 Gy近距离放疗），同步紫杉醇/卡铂每21天4个周期，随后接受预防性PEG-rhG-CSF。主要终点为≥3级中性粒细胞减少发生率；次要终点包括其他血细胞减少、治疗完成和生存结局。研究检验≥3级中性粒细胞减少能否从历史基准30%降至≤15%。",
+          "keyResults": "≥3级中性粒细胞减少发生于13.0%（7/54；95% CI 5.4%-24.9%），达到预设成功标准（单侧精确二项检验，与30%基准比较p=0.003）。其他≥3级毒性包括白细胞减少（18.5%）、贫血（3.7%）、血小板减少（5.6%）和发热性中性粒细胞减少（1.9%）。85.2%的患者完成全部4个计划化疗周期，所有患者均在8周内完成放疗（中位总治疗时间：50天）。中位随访40个月时，3年无进展生存率和总生存率分别为88.8%和88.9%（各6例事件）；研究未针对生存疗效设把握度。结论指出，ABMS放疗联合预防性PEG-rhG-CSF与13.0%的≥3级中性粒细胞减少发生率和85.2%的化疗完成率相关；由于单臂设计和依赖历史对照，不能进行因果推断，这些发现为假设生成，主要建立这种双重血液保护策略的操作可行性；安全性和有效性的正式评估需正在进行随机试验（ChiCTR2400087321）。试验注册：ChiCTR2100046911，注册于2021年5月30日。",
+          "limitations": "单臂设计且依赖历史对照，不能作因果推断；研究未针对生存疗效设把握度。",
+          "clinicalInterpretation": "该II期单臂试验提示，ABMS放疗联合预防性PEG-rhG-CSF与较低的≥3级中性粒细胞减少发生率和较高的化疗完成率相关，但这些发现为假设生成，主要建立双重血液保护策略的操作可行性；安全性和有效性的正式评估需等待正在进行的随机试验。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "a75daa44fd4fb79e15f838defb9665b059b131ce524ae4b74b342471710df447"
+      }
+    ]
+  }
+}
