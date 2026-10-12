@@ -1,0 +1,263 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-10-12T23:10:15.064Z",
+    "dataAsOf": "2026-10-12T23:10:15.064Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及超越代谢共病：代谢健康分层揭示输卵管因素不孕中的BMI-ART关联、宫颈癌症状求助行为的影响因素：基于社会生态视角的定性研究、转移性宫颈癌的生存趋势与预后因素：一项基于人群的队列研究。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42860527",
+        "pmid": "42860527",
+        "doi": "10.1186/s13048-026-02248-x",
+        "title": "Beyond metabolic comorbidity: metabolic health stratification reveals BMI-ART associations in tubal factor infertility.",
+        "abstract": "BACKGROUND: The association between body mass index (BMI) and assisted reproductive technology (ART) outcomes remains inconsistent, potentially due to confounding by metabolic comorbidities and underlying infertility etiologies. This study introduced metabolic health stratification to reproductive medicine to examine whether the impact of BMI on ART outcomes differs by metabolic status, independent of ovarian reserve impairment or reproductive endocrinopathies.\nMETHODS: This retrospective cohort study included 3,770 women with tubal factor infertility and normal ovarian reserve who underwent their first IVF/ICSI cycle between January 2016 and March 2026. The cohort was divided into metabolically healthy (n = 1,849) and metabolically unhealthy (n = 1,921) subgroups based on blood pressure, glucose metabolism, and lipid profiles. Outcomes included oocyte yield (with basal FSH examined as a potential intermediate variable), embryological parameters (MII oocyte rate, 2PN rate, day 3 good-quality embryo rate, good-quality blastocyst formation rate), and clinical outcomes (clinical pregnancy, miscarriage, live birth). Indirect pathway analysis and multivariable logistic regression with power and effect size analyses were performed.\nRESULTS: BMI was positively associated with oocyte yield, and the indirect pathway through FSH accounted for 4.7-6.3% of this association-findings that were consistent across both metabolic subgroups (all between-cohort P > 0.05). Overweight/obesity was associated with lower 2PN rate in IVF (- 3.4%) and ICSI (- 3.9%), reduced good-quality blastocyst formation rate in IVF (- 3.5%), and lower MII oocyte rate in ICSI (- 4.1%). Underweight was associated with higher day 3 good-quality embryo rate in ICSI (+ 11.4%). For clinical outcomes, no associations remained significant after multiple comparison correction; however, underweight showed a clinically meaningful reduction in miscarriage rate (- 3.5%), while effect sizes for clinical pregnancy and live birth were small (≤ 2.5% absolute difference). No significant BMI-metabolic status interactions were detected for any outcome.\nCONCLUSIONS: The impact of BMI on ART outcomes is independent of metabolic health status. Overweight/obesity exerts consistent detrimental effects on embryological outcomes, while metabolic comorbidities do not modify these associations. Metabolic health stratification suggests that adiposity per se, rather than its associated metabolic abnormalities, may be the primary factor associated with BMI-ART outcomes in tubal factor infertility, although the lack of significant interaction does not exclude metabolic modification.",
+        "journal": "Journal of ovarian research",
+        "authors": [
+          "Jun Tan",
+          "Min Yu",
+          "Xiaoju Wan",
+          "Xingwu Wu",
+          "Zhihui Huang"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-28T00:00:00.000Z",
+        "activityAt": "2026-10-12T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42860527/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "超越代谢共病：代谢健康分层揭示输卵管因素不孕中的BMI-ART关联",
+          "researchQuestion": "在输卵管因素不孕且卵巢储备正常的人群中，BMI与辅助生殖技术（ART）结局的关联是否因代谢健康状态不同而异，且独立于卵巢储备受损或生殖内分泌疾病？",
+          "studyDesign": "回顾性队列研究，引入代谢健康分层。",
+          "populationAndSample": "纳入2016年1月至2026年3月期间接受首次IVF/ICSI周期、输卵管因素不孕且卵巢储备正常的3,770名女性；根据血压、糖代谢和血脂谱分为代谢健康组（n=1,849）和代谢不健康组（n=1,921）。",
+          "methods": "依据血压、糖代谢和血脂谱进行代谢健康分层；结局包括获卵数（并将基础FSH作为潜在中间变量）、胚胎学参数（MII卵母细胞率、2PN率、第3天优质胚胎率、优质囊胚形成率）和临床结局（临床妊娠、流产、活产）；采用间接通路分析和多变量logistic回归，并进行功效与效应量分析。",
+          "keyResults": "BMI与获卵数呈正相关，通过FSH的间接通路解释该关联的4.7-6.3%，且在两代谢亚组中一致（各亚组间比较P>0.05）。超重/肥胖与IVF中2PN率降低（-3.4%）、ICSI中2PN率降低（-3.9%）、IVF中优质囊胚形成率降低（-3.5%）以及ICSI中MII卵母细胞率降低（-4.1%）相关。低体重与ICSI中第3天优质胚胎率升高（+11.4%）相关。临床结局方面，经多重比较校正后无关联仍显著；但低体重显示具有临床意义的流产率降低（-3.5%），临床妊娠和活产的效应量较小（绝对差≤2.5%）。未检测到任何结局存在显著的BMI-代谢状态交互作用。",
+          "limitations": "摘要未报告其他局限性；作者指出，未检出显著交互作用不能排除代谢状态对关联的修饰。",
+          "clinicalInterpretation": "在该回顾性队列中，BMI与ART结局的关联未显示受代谢健康状态显著修饰；超重/肥胖与胚胎学结局较差一致相关，而代谢共病未改变这些关联。代谢健康分层提示，在输卵管因素不孕中，肥胖本身而非其相关代谢异常可能是与BMI-ART结局相关的主要因素，但无显著交互作用并不能排除代谢修饰。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "4518902d5154e5578e4cb80fe50ac848f75eefdf5dc888358c60b80fff5e5796"
+      },
+      {
+        "id": "pmid:42860937",
+        "pmid": "42860937",
+        "doi": "10.21037/gpm-2026-0016",
+        "title": "Factors influencing cervical cancer symptom help-seeking behavior: a qualitative study from a social ecological perspective.",
+        "abstract": "BACKGROUND: Cervical cancer is one of the major public health problems that seriously jeopardizes women's health ranking as the fourth most frequently diagnosed cancer. China is the second country with the heaviest burden of cervical cancer in the world. In recent years, help-seeking behavior related to cancer symptoms has gradually attracted increasing attention. However, in China, no studies have explored cervical cancer patients' help-seeking behavior. This study aimed to examine the influencing factors of symptom seeking behaviors in patients with cervical cancer to provide an effective basis for achieving early diagnosis and treatment and improving the treatment outcomes of patients with cervical cancer.\nMETHODS: This qualitative study utilized a descriptive research design, and cervical cancer patients hospitalized in a tertiary first-class hospital in Beijing from March to May 2025 were selected as the research objects. Using a social ecological model as the theoretical framework, semistructured in-depth interviews were used to collect data, and data were analyzed using thematic analysis following Consolidated Criteria for Reporting Qualitative Research (COREQ) guidelines.\nRESULTS: Three main themes and ten subthemes were identified, covering individual, interpersonal, and environmental-policy levels, including disease knowledge, health beliefs, symptom appraisal, family and social support, economic constraints, stigma, and healthcare system factors.\nCONCLUSIONS: Cervical cancer symptom help-seeking behavior is influenced by multilevel factors across individual, interpersonal, and systemic domains. Targeted interventions addressing knowledge gaps, social support, and healthcare accessibility may promote earlier help-seeking and improve outcomes.",
+        "journal": "Gynecology and pelvic medicine",
+        "authors": [
+          "Ling Lu",
+          "Miao Guo",
+          "Na Wu",
+          "Sudan Wang",
+          "Xulian Tu",
+          "Zhiying Liu"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-06-29T00:00:00.000Z",
+        "activityAt": "2026-10-12T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42860937/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "宫颈癌症状求助行为的影响因素：基于社会生态视角的定性研究",
+          "researchQuestion": "探究宫颈癌患者症状求助行为的影响因素，为早期诊断和治疗、改善患者治疗结局提供依据。",
+          "studyDesign": "定性研究，采用描述性研究设计，以社会生态模型为理论框架，进行半结构化深入访谈和主题分析，并遵循COREQ报告指南。",
+          "populationAndSample": "选取2025年3月至5月于北京某三级甲等医院住院的宫颈癌患者作为研究对象；摘要未报告具体样本量。",
+          "methods": "采用半结构化深入访谈收集资料，基于社会生态模型进行主题分析。",
+          "keyResults": "识别出3个主要主题和10个亚主题，涵盖个体、人际和环境-政策层面，包括疾病知识、健康信念、症状评估、家庭与社会支持、经济限制、污名和医疗系统因素。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "宫颈癌症状求助行为受个体、人际和系统等多层面因素影响；针对知识缺口、社会支持和医疗可及性的干预可能促进更早求助并改善结局。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "faacde85321788733de7bbef5a551540d312a17a5a7974f86d8f29f4177f4c4c"
+      },
+      {
+        "id": "pmid:42860940",
+        "pmid": "42860940",
+        "doi": "10.21037/gpm-2026-0009",
+        "title": "Survival trends and prognostic factors of metastatic cervical cancer: a population-based cohort study.",
+        "abstract": "BACKGROUND: Metastatic cervical cancer (mCC) remains a highly lethal disease. While clinical trials support the addition of targeted therapy and immunotherapy to chemotherapy, real-world survival trends are less well characterized. This study aimed to evaluate real-world overall survival trends and prognostic factors in mCC patients over the past two decades, in the context of evolving targeted and immunotherapeutic treatments.\nMETHODS: We conducted a retrospective cohort study using the Surveillance, Epidemiology, and End Results (SEER) database to evaluate overall survival (OS) trends and prognostic factors among mCC patients diagnosed between 1998 and 2019. Based on major therapeutic milestones, patients were grouped into three calendar cohorts: 1998-2003 (pre-bevacizumab chemotherapy era), 2004-2013 (chemotherapy plus molecular-targeted therapy era), and 2014-2019 (chemotherapy plus immuno-molecular targeted therapy era, after pembrolizumab approval). Kaplan-Meier and Cox regression analyses were used to assess OS and identify independent prognostic variables.\nRESULTS: Among 1,866 patients with distant mCC [corresponding to International Federation of Gynecology and Obstetrics (FIGO) stage IVB], 53.5% were aged ≥55 years and 67.1% had squamous cell carcinoma (SCC). Median OS increased from 11 months in 1998-2003 to 14 months in 2014-2019 (P=0.04), while the mortality rate declined from 91.6% in 1998-2003 to 75.9% in 2014-2019 (P<0.001). Among patients with SCC, median OS increased from 13 months in 1998-2003 to 16 months in 2014-2019 (P=0.006), whereas no significant survival improvement was observed among those with non-SCC histologies (P=0.48). Multivariable analysis identified SCC histology [hazard ratio (HR) =0.764, 95% confidence interval (CI): 0.670-0.871], lymphadenectomy (HR =0.730, 95% CI: 0.602-0.886), radiotherapy (HR =0.696, 95% CI: 0.619-0.783), and chemotherapy (HR =0.508, 95% CI: 0.452-0.571) were independently associated with improved survival. While age ≥55 years (HR =1.158, 95% CI: 1.045-1.284), Black race (HR =1.339, 95% CI: 1.108-1.620), absence of surgery (HR =2.160, 95% CI: 1.788-2.610), and local surgery alone (HR =1.501, 95% CI: 1.129-1.995) were associated with worse outcomes.\nCONCLUSIONS: Survival for mCC has improved in the past two decades, possibly because of the advances of local therapy and systemic therapy. However, outcomes remain poor for patients with non-SCC histologies, older patients, and Black patients, highlighting the need for individualized, multimodal treatment approaches and better access to emerging therapies.",
+        "journal": "Gynecology and pelvic medicine",
+        "authors": [
+          "Cai Xu",
+          "Cheng Wang",
+          "Jing Zeng",
+          "Rutie Yin",
+          "Wei Wang",
+          "Xingchen He"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-03T00:00:00.000Z",
+        "activityAt": "2026-10-12T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42860940/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "转移性宫颈癌的生存趋势与预后因素：一项基于人群的队列研究",
+          "researchQuestion": "在靶向治疗和免疫治疗不断演变的背景下，评估过去二十年转移性宫颈癌（mCC）的真实世界总生存趋势和预后因素。",
+          "studyDesign": "基于监测、流行病学和最终结果（SEER）数据库的回顾性队列研究。",
+          "populationAndSample": "纳入1998年至2019年诊断的mCC患者；共1,866例远处转移mCC患者（对应FIGO IVB期），其中53.5%年龄≥55岁，67.1%为鳞状细胞癌（SCC）。按治疗里程碑分为三个日历队列：1998-2003（贝伐珠单抗前化疗时代）、2004-2013（化疗加分子靶向治疗时代）、2014-2019（帕博利珠单抗获批后化疗加免疫-分子靶向治疗时代）。",
+          "methods": "使用Kaplan-Meier和Cox回归分析评估总生存（OS）并识别独立预后变量。",
+          "keyResults": "中位OS从1998-2003年的11个月增至2014-2019年的14个月（P=0.04），死亡率从1998-2003年的91.6%降至2014-2019年的75.9%（P<0.001）。在SCC患者中，中位OS从1998-2003年的13个月增至2014-2019年的16个月（P=0.006）；非SCC组织学患者未见显著生存改善（P=0.48）。多变量分析显示，SCC组织学（HR=0.764，95%CI：0.670-0.871）、淋巴结清扫（HR=0.730，95%CI：0.602-0.886）、放疗（HR=0.696，95%CI：0.619-0.783）和化疗（HR=0.508，95%CI：0.452-0.571）与生存改善独立相关；年龄≥55岁（HR=1.158，95%CI：1.045-1.284）、黑人种族（HR=1.339，95%CI：1.108-1.620）、未接受手术（HR=2.160，95%CI：1.788-2.610）和仅局部手术（HR=1.501，95%CI：1.129-1.995）与更差结局相关。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "过去二十年mCC生存有所改善，可能因局部治疗和系统治疗进展；但非SCC组织学、老年和黑人患者结局仍差，作者提出需要个体化、多模式治疗以及更好获得新兴治疗。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "1366235ca2b6401581b777461b86afa01d6a8728e4ba2d2a0ea80ef97094cbd2"
+      },
+      {
+        "id": "pmid:42860998",
+        "pmid": "42860998",
+        "doi": "10.21037/gpm-2026-0015",
+        "title": "Comparison of outcomes between fertility-sparing and radical surgery in patients with pathological stage I epithelial ovarian cancer: a single-center retrospective cohort study.",
+        "abstract": "BACKGROUND: Fertility-sparing surgery (FSS) is increasingly considered for young patients with early-stage epithelial ovarian cancer, but evidence regarding its oncologic safety remains limited. We compared oncologic outcomes between FSS and radical surgery (RS) in patients with pathological International Federation of Gynecology and Obstetrics (FIGO) stage I epithelial ovarian cancer and described reproductive outcomes after FSS.\nMETHODS: We retrospectively reviewed patients with FIGO stage I epithelial ovarian cancer who underwent FSS or RS at West China Second University Hospital from 2013 to 2021. Clinicopathological, treatment, follow-up, oncologic, and reproductive data were extracted from medical records and follow-up data. Potential confounding was addressed using multivariable Cox regression and propensity score matching.\nRESULTS: Among 472 patients, 425 underwent RS and 47 underwent FSS. Before matching, patients in the FSS group were younger and had more favorable tumor features; after matching, baseline characteristics were generally balanced. In the matched cohort, FSS and RS showed no significant differences in 5-year disease-free survival (DFS; 97.1% vs. 87.7%, P=0.15), 5-year overall survival (OS; 97.1% vs. 96.1%, P=0.75), or recurrence rate (4.2% vs. 8.8%, P=0.53). Similar findings were observed in the overall cohort and multivariable analyses. Among 15 patients desiring pregnancy after FSS, 10 achieved natural conception.\nCONCLUSIONS: In this single-center retrospective cohort, FSS was not associated with significantly worse oncologic outcomes than RS in selected patients with pathological FIGO stage I epithelial ovarian cancer and was associated with favorable reproductive outcomes. Larger prospective studies with longer follow-up are warranted.",
+        "journal": "Gynecology and pelvic medicine",
+        "authors": [
+          "Cheng-Yu Zhao",
+          "Jin-Ke Li",
+          "Si-Yu Cao",
+          "Yi Mu",
+          "Yu Fan",
+          "Yu-Fei Zhang"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-07T00:00:00.000Z",
+        "activityAt": "2026-10-12T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42860998/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "病理I期上皮性卵巢癌患者保留生育功能手术与根治性手术的结局比较：单中心回顾性队列研究",
+          "researchQuestion": "在病理FIGO I期上皮性卵巢癌患者中，比较保留生育功能手术（FSS）与根治性手术（RS）的肿瘤学结局，并描述FSS后的生殖结局。",
+          "studyDesign": "单中心回顾性队列研究。",
+          "populationAndSample": "回顾性纳入2013年至2021年在四川大学华西第二医院接受FSS或RS的FIGO I期上皮性卵巢癌患者；共472例，其中425例接受RS，47例接受FSS。",
+          "methods": "从病历和随访资料中提取临床病理、治疗、随访、肿瘤学和生殖数据；采用多变量Cox回归和倾向性评分匹配处理潜在混杂。",
+          "keyResults": "匹配前，FSS组患者更年轻且肿瘤特征更有利；匹配后基线特征总体均衡。在匹配队列中，FSS与RS在5年无病生存率（DFS；97.1% vs. 87.7%，P=0.15）、5年总生存率（OS；97.1% vs. 96.1%，P=0.75）或复发率（4.2% vs. 8.8%，P=0.53）方面无显著差异。在总体队列和多变量分析中也观察到相似结果。FSS后有15例患者希望妊娠，其中10例实现自然受孕。",
+          "limitations": "单中心回顾性队列；作者指出需要更大规模、更长随访的前瞻性研究。",
+          "clinicalInterpretation": "在该单中心回顾性队列中，经选择的病理FIGO I期上皮性卵巢癌患者中，FSS与RS相比未观察到显著更差的肿瘤学结局，并伴有有利的生殖结局；但受单中心回顾性设计和样本量限制，证据需谨慎解读，尚需更大型前瞻性长期随访研究。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "1d2d2d757c5349b7d05e8802245af29bce0a14f4a891f0dfddff756f21e80be7"
+      },
+      {
+        "id": "pmid:42861795",
+        "pmid": "42861795",
+        "doi": "10.1002/ijgo.71391",
+        "title": "Association of fetal venous diameter and volume flow measurements with late-onset fetal growth restriction: A prospective case-control study.",
+        "abstract": "OBJECTIVE: This study investigates the diagnostic utility of venous diameter (d) and volume flow (Q) measurements of the umbilical vein (UmbV), ductus venosus (DV), inferior vena cava (IVC), and subdiaphragmatic vestibulum (SDV) in fetuses with late-onset fetal growth restriction (FGR).\nMATERIALS AND METHODS: This prospective case-control study included 54 singleton pregnancies (27 late-onset FGR and 27 gestational age-matched controls) between 33 and 37 weeks of gestation. Venous diameters and Doppler-derived volume flow measurements of the UmbV, DV, IVC, and SDV were assessed using ultrasonography. Correlation, linear regression, and receiver operating characteristic analyses were performed.\nRESULTS: All venous diameter and volume flow parameters were significantly lower in fetuses with FGR than in controls (P ≤ 0.003 for all). Venous parameters were positively correlated with estimated fetal weight (EFW). In multivariable analysis, UmbV-d (B = 1.425, 95% confidence interval CI 0.635-2.214, P = 0.001) and IVC-d (B = 2.212, 95% CI 0.944-3.481, P = 0.001) remained independently associated with EFW. UmbV-d showed the highest discriminative performance for identifying FGR (area under the curve [AUC] 0.947, 95% CI 0.894-0.999, P < 0.001). Among flow parameters, UmbV-Q demonstrated the highest AUC (0.858, 95% CI 0.756-0.960, P < 0.001), whereas only IVC-Q remained independently associated with EFW. A combined model including UmbV-d and IVC-d achieved an AUC of 0.972.\nCONCLUSION: Fetal venous diameter and volume flow measurements were significantly reduced in late-onset FGR. UmbV-d demonstrated the strongest association with EFW and the highest discriminative performance, whereas UmbV-Q was the best-performing flow parameter. Combined assessment of UmbV-d and IVC-d demonstrated promising discriminative performance; however, larger studies are required to determine whether these measurements provide information beyond conventional fetal biometry.",
+        "journal": "International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics",
+        "authors": [
+          "Belgin Savran Üçok",
+          "Dinçer Sümer",
+          "Kadriye Yakut Yücel",
+          "Kubilay Çanga",
+          "Özge Öztürk",
+          "Özgür Volkan Akbulut",
+          "Recep Taha Ağaoğlu",
+          "Sugra İsmayılova"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-12T00:00:00.000Z",
+        "activityAt": "2026-10-12T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42861795/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "胎儿静脉直径和体积流量测量与晚发型胎儿生长受限的关联：一项前瞻性病例对照研究",
+          "researchQuestion": "研究脐静脉（UmbV）、静脉导管（DV）、下腔静脉（IVC）和膈下前庭（SDV）的静脉直径（d）和体积流量（Q）测量对晚发型胎儿生长受限（FGR）胎儿的诊断效用。",
+          "studyDesign": "前瞻性病例对照研究。",
+          "populationAndSample": "纳入54例单胎妊娠（27例晚发型FGR和27例胎龄匹配的对照），孕周33至37周。",
+          "methods": "使用超声评估UmbV、DV、IVC和SDV的静脉直径及多普勒衍生的体积流量测量；进行相关性、线性回归和受试者工作特征（ROC）分析。",
+          "keyResults": "FGR胎儿的全部静脉直径和体积流量参数均显著低于对照组（所有P≤0.003）。静脉参数与估计胎儿体重（EFW）呈正相关。多变量分析中，UmbV-d（B=1.425，95%CI 0.635-2.214，P=0.001）和IVC-d（B=2.212，95%CI 0.944-3.481，P=0.001）仍与EFW独立相关。UmbV-d对识别FGR的鉴别表现最高（AUC 0.947，95%CI 0.894-0.999，P<0.001）。在流量参数中，UmbV-Q的AUC最高（0.858，95%CI 0.756-0.960，P<0.001），而仅IVC-Q仍与EFW独立相关。包含UmbV-d和IVC-d的联合模型AUC为0.972。",
+          "limitations": "作者指出需要更大规模研究来确定这些测量是否提供超出常规胎儿生物测量的信息；摘要未报告其他局限性。",
+          "clinicalInterpretation": "在33至37周单胎妊娠中，晚发型FGR胎儿的静脉直径和体积流量测量降低，UmbV-d与EFW关联最强且鉴别表现最高，UmbV-Q是表现最好的流量参数，UmbV-d与IVC-d联合模型的AUC为0.972；但这些指标能否在常规胎儿生物测量之外提供额外信息尚需更大规模研究确定。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "75f9b739902be88a3db0955e73bf4e8a6cd619c23c4a7f00aa2b2874ad59eac8"
+      }
+    ]
+  }
+}
