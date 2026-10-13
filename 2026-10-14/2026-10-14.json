@@ -1,0 +1,267 @@
+{
+  "hero_headline": "辅助生殖GnRH拮抗剂专家共识：按卵巢反应人群实施精细化管理",
+  "daily_overview": "今日妇产科要闻聚焦辅助生殖用药规范。妇产科在线发布专家共识，围绕GnRH拮抗剂在不同卵巢反应人群中的应用，提出基于获益与风险评估的精细化管理建议，涉及最佳剂量方案与临床结局等持续争议问题。国际与国内其他妇产科动态、手术前沿暂无合格更新。",
+  "tech_briefs": [
+    {
+      "title": "专家共识丨辅助生殖中GnRH拮抗剂如何用于不同卵巢反应人群？——基于获益与风险评估的精细化管理建议",
+      "url": "https://www.cogonline.com/info/134298697154098386",
+      "source": "妇产科在线·临床指南",
+      "summary": "妇产科在线发布专家共识，聚焦辅助生殖控制性卵巢刺激中GnRH拮抗剂用于不同卵巢反应人群的精细化管理，强调基于获益与风险评估制定策略。原文摘要未说明发布机构，亦未说明与既往建议的差异，最佳剂量方案及其对临床结局的影响仍属持续研究课题。",
+      "importance": 7
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "GnRH拮抗剂方案的个体化分层是ART质控关键，该共识提示生殖中心结合本中心数据与患者卵巢反应特征落地用药决策。",
+  "keywords": [
+    "GnRH拮抗剂",
+    "辅助生殖",
+    "控制性卵巢刺激",
+    "卵巢反应",
+    "专家共识",
+    "精细化管理"
+  ],
+  "research": {
+    "generatedAt": "2026-10-13T23:24:37.683Z",
+    "dataAsOf": "2026-10-13T23:24:37.683Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及局部草药治疗化疗诱导的周围神经病变：随机对照试验的系统评价、在宫颈癌患者中验证信任肿瘤科医生量表完整版和简表的阿姆哈拉语版本、如何为这位26岁女性进行宫颈癌筛查？贝斯以色列女执事医疗中心大查房讨论。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42865382",
+        "pmid": "42865382",
+        "doi": "10.3389/fonc.2026.1920042",
+        "title": "Topical herbal medicine as treatment for chemotherapy-induced peripheral neuropathy: a systematic review of randomized controlled trials.",
+        "abstract": "INTRODUCTION: Chemotherapy-induced peripheral neuropathy (CIPN) is a common neurological complication of cancer treatment that worsens function and quality of life. Topical herbal medicines are increasingly used as localized interventions for neuropathic symptoms; however, their clinical efficacy remains uncertain. This systematic review evaluated the effectiveness of topical herbal formulations for CIPN in cancer populations.\nMETHODS: We systematically searched Scopus, MEDLINE (Ovid), CINAHL, and Cochrane CENTRAL for randomized controlled trials assessing the use of topical herbal formulations in adults with CIPN. Outcomes included validated measures of CIPN pain, overall severity, sensory function, and adverse events. Risk of bias was assessed using the Cochrane Risk of Bias tool implemented in RevMan 5.3, and all procedures were conducted in accordance with PRISMA guidelines.\nRESULTS: Five trials involving 201 participants were included, with an overall moderate risk of bias due to limited blinding and underpowered sample sizes. In breast cancer patients, henna vs. standard care significantly improved the overall severity of oxaliplatin-induced peripheral neuropathy, as measured by the CIPN Assessment Tool ( p < 0.001), with significant reductions in sensory and functional subdomain scores. In a mixed-cancer population, Costus sp. oil vs. placebo significantly reduced neuropathic pain intensity, as measured by the Visual Analog Scale (VAS) ( p = 0.001), and improved Functional Assessment of Cancer Therapy/Gynecologic Oncology Group - Neurotoxicity (FACT/GOG-Ntx) scores ( p = 0.028). Trials evaluating ajwain cream, Citrullus colocynthis oil, and a multi-compound essential oil formulation did not demonstrate statistically significant improvements in CIPN severity, pain, or quality of life compared with placebo. None of the included studies incorporated quantitative sensory or functional testing. All interventions were well tolerated, with only mild localized skin reactions reported.\nDISCUSSION: Despite modest benefits from certain herbal treatments in reducing CIPN pain and sensory symptoms, current evidence is limited by small sample sizes, methodological heterogeneity, and the lack of objective outcome measures. Rigorous, adequately powered RCTs with objective CIPN measurements are needed.",
+        "journal": "Frontiers in oncology",
+        "authors": [
+          "Andrew Haggarty",
+          "Carrie Shao",
+          "Cassie Shao",
+          "Mingxiao Yang",
+          "Ting Bao"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-09-28T00:00:00.000Z",
+        "activityAt": "2026-10-13T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42865382/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "局部草药治疗化疗诱导的周围神经病变：随机对照试验的系统评价",
+          "researchQuestion": "局部草药制剂对癌症人群中化疗诱导的周围神经病变（CIPN）是否有效？",
+          "studyDesign": "系统评价，纳入随机对照试验，遵循PRISMA指南，并使用Cochrane偏倚风险工具（RevMan 5.3）评估偏倚风险。",
+          "populationAndSample": "癌症人群中的成人CIPN患者；纳入5项试验，共201名参与者。",
+          "methods": "系统检索Scopus、MEDLINE（Ovid）、CINAHL和Cochrane CENTRAL，纳入评估局部草药制剂用于成人CIPN的随机对照试验；结局包括经过验证的CIPN疼痛、总体严重程度、感觉功能和不良事件指标；使用Cochrane偏倚风险工具（RevMan 5.3）评估偏倚风险，所有程序遵循PRISMA指南。",
+          "keyResults": "纳入5项试验、201名参与者，因盲法有限和样本量不足而总体为中等偏倚风险。在乳腺癌患者中，henna与标准护理相比，采用CIPN Assessment Tool测量，显著改善奥沙利铂诱导的周围神经病变总体严重程度（p < 0.001），并显著降低感觉和功能子领域评分。在混合癌症人群中，Costus sp.油与安慰剂相比，显著降低视觉模拟量表（VAS）测量的神经病理性疼痛强度（p = 0.001），并改善FACT/GOG-Ntx评分（p = 0.028）。评估ajwain乳膏、Citrullus colocynthis油和一种多化合物精油制剂的试验，与安慰剂相比未显示CIPN严重程度、疼痛或生活质量有统计学显著改善。纳入研究均未采用定量感觉或功能测试。所有干预耐受良好，仅报告轻度局部皮肤反应。",
+          "limitations": "总体为中等偏倚风险，原因包括盲法有限和样本量不足；证据受小样本量、方法学异质性和缺乏客观结局指标限制；纳入研究均未进行定量感觉或功能测试。",
+          "clinicalInterpretation": "本系统评价报告某些草药治疗在减少CIPN疼痛和感觉症状方面有适度获益，但现有证据受小样本、方法学异质性和缺乏客观测量限制。摘要结论认为需要严谨、有足够把握度并采用客观CIPN测量的随机对照试验；该结论不代表临床推荐或指南。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "b0c02ddd8a55fcfbe2a97c008b8bcbd154e8eb50c395e2a7049c4cb83e47f9ca"
+      },
+      {
+        "id": "pmid:42864747",
+        "pmid": "42864747",
+        "doi": "10.1002/cnr2.70718",
+        "title": "Validation of the Amharic Version of the Full and Short Form of the Trust in Oncologist Scale Among Cervical Cancer Patient.",
+        "abstract": "BACKGROUND: The Trust in Oncologist Scale (TiOS) is a tool used to measure cancer patients' self-reported trust in their oncologists. It has been validated in Dutch, English, Japanese, and Italian.\nAIMS: This study aims to validate the Amharic version of the tool and develop its short form.\nMETHODS AND RESULTS: A cross-sectional study design was employed among 197 cervical cancer patients at a tertiary teaching hospital in Ethiopia (February to April 2025). Internal consistency, convergent validity, and the structural validity of both the full scale and short form of the Amharic TiOS were tested. The Amharic TiOS mean score was 69.95 (±9.41, range 34-90), with a mean score of 3.89 (±0.52). Neither the four-factor nor the one-factor models fit the full scale. A unidimensional five-item solution emerged with two possible item sets: (1, 6, 15, 14, and 18) and (1, 3, 15, 14, and 18). To preserve content validity, the second set was selected. This five-item scale yielded a mean score of 4.01 (±0.57), strong internal consistency (α = 0.88), and significant correlations with time since diagnosis (r = 0.20, p < 0.05), perceived levels of shared decision-making (r = 0.38, p < 0.001), and health literacy (r = -0.32, p < 0.01).\nCONCLUSION: Unlike the full Amharic scale, the short form demonstrated acceptable psychometric properties and can be used to assess trust in both clinical practice and research settings among cervical cancer patients in Ethiopia.",
+        "journal": "Cancer reports (Hoboken, N.J.)",
+        "authors": [
+          "Adamu Addissie",
+          "Adiam Nega",
+          "Lealem Wagaw",
+          "Marij A Hillen",
+          "Sosina W Tilahun"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Validation Study"
+        ],
+        "publishedAt": "2026-10-01T00:00:00.000Z",
+        "activityAt": "2026-10-13T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42864747/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 17.5,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 92.5,
+          "evidenceRank": 0.7
+        },
+        "summaryZh": {
+          "titleZh": "在宫颈癌患者中验证信任肿瘤科医生量表完整版和简表的阿姆哈拉语版本",
+          "researchQuestion": "旨在验证信任肿瘤科医生量表（TiOS）的阿姆哈拉语版本，并开发其简表。",
+          "studyDesign": "横断面研究。",
+          "populationAndSample": "埃塞俄比亚一家三级教学医院的197例宫颈癌患者，研究时间为2025年2月至4月。",
+          "methods": "检验阿姆哈拉语TiOS完整版和简表的内部一致性、收敛效度和结构效度。",
+          "keyResults": "阿姆哈拉语TiOS平均分为69.95（±9.41，范围34-90），条目均分为3.89（±0.52）。四因子模型和单因子模型均不适配完整量表。出现一个单维五条目解决方案，有两种可能条目集：(1, 6, 15, 14, 18)和(1, 3, 15, 14, 18)。为保留内容效度选择了第二组。该五条目量表平均分为4.01（±0.57），内部一致性较强（α = 0.88），并与诊断后时间（r = 0.20, p < 0.05）、感知共同决策水平（r = 0.38, p < 0.001）和健康素养（r = -0.32, p < 0.01）显著相关。",
+          "limitations": "摘要未报告明确的局限性。",
+          "clinicalInterpretation": "摘要结论认为，与完整阿姆哈拉语量表不同，简表显示出可接受的心理测量学特性，可用于埃塞俄比亚宫颈癌患者在临床实践和研究中评估对肿瘤科医生的信任；完整量表未获得适配的结构模型。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "3ab940bd29ee447445c79daea687d646bde0a0169019c6d7eaa454750a551eb2"
+      },
+      {
+        "id": "pmid:42863118",
+        "pmid": "42863118",
+        "doi": "10.7326/annals-26-02904",
+        "title": "How Would You Screen This 26-Year-Old Woman for Cervical Cancer? Grand Rounds Discussion From Beth Israel Deaconess Medical Center.",
+        "abstract": "Cervical cancer is the third most common gynecologic cancer, with more than 13 000 new cases diagnosed in 2025. The incidence of and mortality from cervical cancer vary across racial and ethnic groups and in persons living in medically underserved or geographically isolated areas, with half of all cervical cancers occurring in women who are underscreened or have never been screened. Persistent infection with high-risk types of human papillomavirus (HPV) is the most important risk factor for cervical cancer and is associated with nearly all cases. Although genital tract HPV infection is common, most HPV infections are transient, and cervical cancer occurs in only a small portion of patients with HPV. For decades, cervical cancer screening relied on annual cytologic assessment. A growing understanding of the role of HPV infection in the natural progression of cervical cancer has led to updated screening recommendations from the American Cancer Society and the Women's Preventive Services Initiative, as well as a draft update from the U.S. Preventive Services Task Force. These recommendations include primary HPV testing as a preferred screening strategy and include an option for self-collected specimens for HPV testing. Here, 2 experts in this field, a primary care physician and an obstetrics and gynecology physician, debate how to apply these guidelines when screening a patient for cervical cancer. They discuss a range of screening options and consider the challenges of applying these guidelines across different age groups and in patients at increased risk.",
+        "journal": "Annals of internal medicine",
+        "authors": [
+          "C Christopher Smith",
+          "David Chelmow",
+          "Karen M Freund",
+          "Risa B Burns"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-13T00:00:00.000Z",
+        "activityAt": "2026-10-13T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42863118/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "如何为这位26岁女性进行宫颈癌筛查？贝斯以色列女执事医疗中心大查房讨论",
+          "researchQuestion": "如何为这位26岁女性进行宫颈癌筛查？",
+          "studyDesign": "大查房讨论（Grand Rounds Discussion），由专家就指南应用进行辩论。",
+          "populationAndSample": "讨论对象为一名26岁女性患者；非原始研究，未报告研究样本。摘要中提及宫颈癌流行病学数据。",
+          "methods": "由一名初级保健医生和一名妇产科医生两名专家辩论如何将筛查指南应用于该患者；讨论一系列筛查选择，并考虑在不同年龄组和风险升高患者中应用这些指南的挑战。",
+          "keyResults": "摘要报告宫颈癌是第三常见妇科癌症，2025年诊断新病例超过13 000例；不同种族和族裔群体以及医疗资源不足或地理隔离地区人群的发病率和死亡率存在差异，半数宫颈癌发生在筛查不足或从未筛查的女性中。持续高危型人乳头瘤病毒（HPV）感染是最重要危险因素，并与几乎所有病例相关；生殖道HPV感染常见，但多数为短暂感染，仅小部分HPV患者发生宫颈癌。数十年来宫颈癌筛查依赖年度细胞学检查；对HPV在宫颈癌自然进展中作用的理解加深，促成美国癌症协会和女性预防服务倡议的更新筛查推荐，以及美国预防服务工作组的草案更新。这些推荐包括将primary HPV testing作为首选筛查策略，并提供自采样标本进行HPV检测的选项。两名专家就如何应用这些指南进行辩论。",
+          "limitations": "摘要未报告研究局限性；本文为专家讨论，非原始研究，未提供新的患者结局数据。",
+          "clinicalInterpretation": "该大查房讨论围绕将宫颈癌筛查指南应用于26岁女性及不同年龄和风险人群的挑战；摘要提及primary HPV testing为优选筛查策略，并包含自采样标本进行HPV检测的选项。作为专家讨论，其内容不能被改写为新的指南或临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "13adb7371707bcdcce5e549321d5fd2060365a42576a5ea8ce58ae930898c554"
+      },
+      {
+        "id": "pmid:42863251",
+        "pmid": "42863251",
+        "doi": "10.1016/j.midw.2026.104993",
+        "title": "Thematic analysis of dyadic coping in couples managing breastfeeding challenges after gestational diabetes mellitus.",
+        "abstract": "AIM: This study intended to explore the lived experiences and dyadic coping processes of couples in breastfeeding support for women with gestational diabetes mellitus (GDM).\nDESIGN: A qualitative dyadic descriptive design was applied.\nMETHODS: A total of 21 postpartum couples were recruited from a tertiary maternity hospital in Shanghai. Joint semi-structured interviews and thematic analysis were conducted under the guidance of an integrated dyadic coping framework.\nRESULTS: Four themes were summarized. Couples held divergent cognitive appraisals and poor stress communication. They suffered from limited professional knowledge, deficient coping skills and insufficient external support. Both sides had unmet demands for professional guidance, emotional comfort and practical help. Positive dyadic coping strengthened breastfeeding confidence and marital harmony, whereas maladaptive coping triggered psychological burden and relationship conflicts.\nCONCLUSION: GDM couples experience prominent communication dilemmas and practical obstacles with unmet support needs. Dyadic coping plays a critical role in maternal breastfeeding persistence, mental status and couple relationship. Couple-centered intervention incorporating spousal breastfeeding education is urgently required to reduce stress, promote sustained breastfeeding, and optimize long-term health management for high-risk GDM populations.\nIMPACT: This study provides empirical evidence for understanding the breastfeeding-related experiences and dyadic coping of GDM couples, and offers a theoretical basis for formulating targeted,couple-centered interventions. It helps to reduce the breastfeeding stress of GDM couples, promote sustained breastfeeding, and improve the long-term health outcomes of GDM mothers and their children, as well as optimize the health management model for high-risk maternal and infant populations. PATIENT OR PUBLIC CONTRIBUTION: not applicable.",
+        "journal": "Midwifery",
+        "authors": [
+          "Xin Jiang"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-19T00:00:00.000Z",
+        "activityAt": "2026-10-13T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42863251/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "妊娠期糖尿病后夫妻应对母乳喂养挑战的二元应对主题分析",
+          "researchQuestion": "探讨妊娠期糖尿病（GDM）女性及其伴侣在母乳喂养支持中的生活体验和二元应对过程。",
+          "studyDesign": "定性二元描述性设计；在整合性二元应对框架指导下进行联合半结构化访谈和主题分析。",
+          "populationAndSample": "从上海一家三级妇产医院招募的21对产后夫妻。",
+          "methods": "对21对产后夫妻进行联合半结构化访谈，并在整合性二元应对框架指导下进行主题分析。",
+          "keyResults": "总结出四个主题：夫妻持有不同的认知评价且压力沟通不良；他们受限于专业 know 不足、应对技能欠缺和外部支持不足；双方都有未满足的专业指导、情感安慰和实际帮助需求；积极二元应对增强母乳喂养信心和婚姻和谐，而适应不良应对引发心理负担和关系冲突。",
+          "limitations": "摘要未报告明确的局限性。",
+          "clinicalInterpretation": "摘要结论认为，GDM夫妻经历突出的沟通困境和实际障碍，并存在未满足的支持需求；二元应对在母亲母乳喂养持续性、心理状态和夫妻关系中起关键作用。作者提出需要以夫妻为中心并纳入配偶母乳喂养教育的干预，以减轻压力、促进持续母乳喂养，并优化高危GDM人群的长期健康管理。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "7a1cafe89803b03387b82ee6857d644608c4021b57084fab7d6a37d019a777b2"
+      },
+      {
+        "id": "pmid:42864189",
+        "pmid": "42864189",
+        "doi": "10.1016/j.whi.2026.09.002",
+        "title": "Social Norms and Supportive Communication in Infertility: Public Attitudes Toward Women's Reproductive Challenges.",
+        "abstract": "PURPOSE: Infertility is an increasingly common women's health concern with well-documented mental health consequences, yet little research has examined how public communication and stigma shape the social support available to women experiencing fertility challenges. Supportive communication is a critical component of social support and may mitigate infertility-related distress, whereas stigmatizing attitudes and misconceptions may contribute to harmful or dismissive responses. This study examined potential attitude-based variables associated with helpful and unhelpful infertility-related communication, as well as contextual factors influencing these attitudes.\nMETHODS: A total of 419 adults from the general public completed an online survey assessing fertility-related attitudes, beliefs, and misconceptions, along with their likelihood of endorsing supportive or unsupportive statements after reading a vignette describing a woman experiencing one of four types of fertility challenges: female-factor infertility, male-factor infertility, age-related infertility, or infertility in a same-sex relationship.\nRESULTS: Overall, 72.4% of participants endorsed at least one unhelpful response. Misconceptions about infertility were common. Expressing more sympathetic and blame-oriented attitudes toward the woman in the vignette was associated with higher endorsement of both helpful (ΔR 2 = .09, p < .05) and unhelpful (ΔR 2 = .07, p < .05) statements, whereas factual knowledge about infertility was not associated with communication responses. Endorsement of helpful statements was modestly higher in the male-factor infertility condition (M = 5.75, SD = 1.26) compared with the same-sex infertility condition (M = 5.14, SD = 1.96, p < .05).\nCONCLUSIONS: Interventions that address stigma and promote compassionate, informed communication may represent an important public health strategy for improving psychosocial support for women experiencing infertility.",
+        "journal": "Women's health issues : official publication of the Jacobs Institute of Women's Health",
+        "authors": [
+          "Jennifer L Gordon",
+          "Maija J Kiviharju",
+          "Sarah K Gulash"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-12T00:00:00.000Z",
+        "activityAt": "2026-10-13T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42864189/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "不孕症中的社会规范与支持性沟通：公众对女性生殖挑战的态度",
+          "researchQuestion": "研究与有益和无益不孕相关沟通相关的潜在态度变量，以及影响这些态度的情境因素。",
+          "studyDesign": "在线调查研究。",
+          "populationAndSample": "419名来自一般公众的成年人。",
+          "methods": "参与者完成在线调查，评估生育相关态度、信念和误解，以及阅读描述女性经历四种生育挑战之一（女性因素不孕、男性因素不孕、年龄相关不孕或同性关系中的不孕）的小故事后，认可支持性或非支持性陈述的可能性。",
+          "keyResults": "总体上，72.4%的参与者至少认可一条无益回应。不孕误解常见。对故事中女性表达更多同情和责备导向态度，与更高认可有益陈述（ΔR² = .09, p < .05）和无益陈述（ΔR² = .07, p < .05）相关；而不孕事实知识与沟通回应无关。有益陈述的认可在男性因素不孕条件下（M = 5.75, SD = 1.26）略高于同性不孕条件（M = 5.14, SD = 1.96, p < .05）。",
+          "limitations": "摘要未报告明确的局限性。",
+          "clinicalInterpretation": "摘要结论认为，针对污名并促进富有同情心、知情沟通的干预，可能成为改善不孕女性心理社会支持的公共卫生策略。该研究为公众态度调查，报告的是态度与沟通回应之间的关联，不能直接作为临床沟通指南。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "4a227e9ca61ef58c5e8b3759a6da9add6ff24213eba8c4a32e6ee9b808f05cc8"
+      }
+    ]
+  }
+}
