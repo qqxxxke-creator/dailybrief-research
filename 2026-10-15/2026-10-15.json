@@ -1,0 +1,283 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-10-14T22:33:30.107Z",
+    "dataAsOf": "2026-10-14T22:33:30.107Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及饮食和生活方式质量与子宫内膜癌：发病率和生存结局——系统综述和荟萃分析的伞形综述、奥拉帕利和西地尼布治疗复发、持续或转移性子宫内膜癌患者的血液生物标志物：NRG-GY012结果、西格列汀对多囊卵巢综合征患者代谢、激素和临床参数的影响：一项随机对照试验。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42873780",
+        "pmid": "42873780",
+        "doi": "10.1371/journal.pone.0360238",
+        "title": "Dietary and lifestyle quality and endometrial cancer: Incidence and survivorship outcomes-An umbrella review of systematic reviews and meta-analyses.",
+        "abstract": "Composite dietary and lifestyle indices capture the combined effects of multiple health-related behaviours and may better reflect real-world cancer risk and survivorship than single exposures. This umbrella review aimed to evaluate and grade the strength of evidence for associations between adherence to composite dietary and lifestyle quality indices and endometrial cancer (EC) outcomes, including risk, EC-specific survival, overall survival, disease recurrence, quality of life, and new-onset cardiometabolic diseases. PubMed, Embase, Scopus, Web of Science, CINAHL, and Cochrane Library databases were systematically searched for relevant systematic reviews. Evidence was graded using prespecified umbrella review criteria. A total of 21 systematic reviews were included. Nine investigated diet quality (7 meta-analyses) and 12 investigated lifestyle exposure or interventions (8 meta-analyses). The outcomes assessed were EC risk (N = 14), all-cause or cancer-specific mortality (N = 5), recurrence (N = 4), overall or cancer-specific survival (N = 3), QoL (N = 5), and cardiometabolic events (N = 1). Following a Mediterranean diet was associated with 29% lower odds of EC (pooled OR = 0.71, 95% CI 0.51-0.98; class IV), whereas Western dietary patterns were associated with 20% higher odds of EC (pooled OR = 1.20, 95% CI 1.03-1.39; class IV). A combined healthy diet and lifestyle approach was associated with a 46% lower hazard of EC incidence (pooled HR = 0.54, 95% CI 0.42-0.71; class III), although heterogeneity was high. No significant associations were observed between lifestyle interventions and global or domain-specific quality of life (QoL) across follow-up durations ranging from 9 weeks to 12 months, irrespective of the validated assessment instruments used. Evidence remains limited regarding the associations between diet and lifestyle factors and EC recurrence, survival, mortality, and cardiometabolic outcomes. Our umbrella review identified suggestive (class III-IV) evidence for associations between healthy dietary patterns, particularly the Mediterranean diet, and combined healthy lifestyle approaches with lower EC incidence. Evidence remains insufficient or non-significant for post-diagnosis outcomes, underscoring the need for further high-quality research.",
+        "journal": "PloS one",
+        "authors": [
+          "Andreas Obermair",
+          "Mary C Playdon",
+          "Monika Janda",
+          "Newshaw Arvin",
+          "Ruqaiya Al Ramadhani",
+          "Saphy Moussa"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-14T00:00:00.000Z",
+        "activityAt": "2026-10-14T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42873780/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "饮食和生活方式质量与子宫内膜癌：发病率和生存结局——系统综述和荟萃分析的伞形综述",
+          "researchQuestion": "评估并分级复合饮食和生活方式质量指数依从性与子宫内膜癌结局（包括风险、子宫内膜癌特异性生存、总生存、疾病复发、生活质量和新发心血管代谢疾病）之间关联的证据强度。",
+          "studyDesign": "伞形综述，纳入系统综述和荟萃分析。",
+          "populationAndSample": "共纳入21篇系统综述；9篇研究饮食质量（其中7篇为荟萃分析），12篇研究生活方式暴露或干预（其中8篇为荟萃分析）。评估结局的综述数量：子宫内膜癌风险N=14，全因或癌症特异性死亡N=5，复发N=4，总生存或癌症特异性生存N=3，生活质量N=5，心血管代谢事件N=1。",
+          "methods": "系统检索PubMed、Embase、Scopus、Web of Science、CINAHL和Cochrane Library数据库，寻找相关系统综述；使用预设的伞形综述标准对证据进行分级。",
+          "keyResults": "坚持地中海饮食与子宫内膜癌odds降低29%相关（合并OR=0.71，95%CI 0.51-0.98；class IV）；西方饮食模式与子宫内膜癌odds升高20%相关（合并OR=1.20，95%CI 1.03-1.39；class IV）。健康饮食和生活方式联合方法与子宫内膜癌发生率风险降低46%相关（合并HR=0.54，95%CI 0.42-0.71；class III），但异质性高。在9周至12个月的不同随访时长中，生活方式干预与整体或领域特异性生活质量均未观察到显著关联，无论使用何种经验证的评估工具。关于饮食和生活方式因素与子宫内膜癌复发、生存、死亡和心血管代谢结局的关联，证据仍有限。伞形综述发现提示性（class III-IV）证据，支持健康饮食模式（尤其地中海饮食）和联合健康生活方式方法与较低子宫内膜癌发病率相关；对诊断后结局证据不足或不显著。",
+          "limitations": "联合健康饮食和生活方式方法的结果异质性高；诊断后结局（复发、生存、死亡、心血管代谢）证据有限、不足或不显著；需要进一步高质量研究。",
+          "clinicalInterpretation": "该伞形综述提示，健康饮食模式（尤其地中海饮食）及联合健康生活方式与较低子宫内膜癌发病风险相关，但证据等级为III-IV；对诊断后结局尚无充分或显著证据。该结果不支持将其表述为临床指南或指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "3fa31eb52c264726e2159fc7deaae9da6659138bdd71fb2f94ac763183fa8c6a"
+      },
+      {
+        "id": "pmid:42870635",
+        "pmid": "42870635",
+        "doi": "10.1002/cncr.70649",
+        "title": "Blood-based biomarkers in patients with recurrent, persistent, or metastatic endometrial cancer treated with olaparib and cediranib: Results from NRG-GY012.",
+        "abstract": "BACKGROUND: The NRG-GY012 phase 2 trial evaluated olaparib, cediranib, and the combination in 120 patients with recurrent, persistent, or metastatic endometrial cancer (EC). Predictive and prognostic associations between blood-based biomarkers and clinical outcomes were assessed.\nMETHODS: Plasma samples collected at baseline, cycle 4 day 1, and disease progression were analyzed for circulating protein biomarkers (Angiome). The primary analysis evaluated the predictive impact of IL-6 on progression-free survival (PFS) and overall survival (OS). The predictive and prognostic impact of all other markers on PFS and OS were also evaluated.\nRESULTS: Ninety-six baseline plasma samples were included in this analysis. Results from GOG-218 identified IL-6 was predictive of clinical benefit using a threshold of 2.9 pg/mL. Although the 2.9 pg/mL cut point did not validate in GY012, IL-6 associated with OS using the median level of 4.2 pg/mL as the cut point. Although patients with >4.2 pg/mL IL-6 had worse prognosis, higher IL-6 levels were associated with longer OS benefit in the cediranib arms (p intx = .085). In secondary analyses, osteopontin (OPN) and placental growth factor (PlGF) potentially predicted benefit. Patients with higher OPN levels had shorter OS in the olaparib arm, whereas patients with lower OPN had longer OS in the cediranib arms (p intx = .035). Patients with higher PlGF benefited more from cediranib (PFS, p intx = .030; OS, p intx = .024). Multiple prognostic markers were also identified.\nCONCLUSIONS: IL-6 may be predictive of outcome; OPN and PlGF represent novel potential predictive biomarkers, in EC patients receiving anti-angiogenic therapy. Further evaluation is warranted.",
+        "journal": "Cancer",
+        "authors": [
+          "Andrew B Nixon",
+          "Angeles Alvarez Secord",
+          "Bobbie J Rimel",
+          "Colleen Rivard",
+          "Dan S Veljovich",
+          "Danielle M Enserro",
+          "David P Bender",
+          "Floor J Backes",
+          "Helen J MacKay",
+          "J Chris Brady",
+          "Jesus Gonzalez Bosquet",
+          "John W Moroney",
+          "Julia Fehniger",
+          "Laura L Holman",
+          "Mark Cadungog",
+          "Mark D Starr",
+          "Matthew A Powell",
+          "Tara Castellano",
+          "Yingmiao Liu"
+        ],
+        "publicationTypes": [
+          "Clinical Trial, Phase II",
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-15T00:00:00.000Z",
+        "activityAt": "2026-10-14T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42870635/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 21.25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 96.25,
+          "evidenceRank": 0.85
+        },
+        "summaryZh": {
+          "titleZh": "奥拉帕利和西地尼布治疗复发、持续或转移性子宫内膜癌患者的血液生物标志物：NRG-GY012结果",
+          "researchQuestion": "评估血液生物标志物与临床结局之间的预测性和预后性关联。",
+          "studyDesign": "NRG-GY012 2期试验的生物标志物分析；该试验评估奥拉帕利、西地尼布及两者联合。",
+          "populationAndSample": "120例复发、持续或转移性子宫内膜癌患者；本分析纳入96份基线血浆样本。",
+          "methods": "采集基线、第4周期第1天和疾病进展时的血浆样本，分析循环蛋白生物标志物（Angiome）。主要分析评估IL-6对无进展生存期（PFS）和总生存期（OS）的预测作用；同时评估所有其他标志物对PFS和OS的预测和预后作用。",
+          "keyResults": "GOG-218结果曾表明IL-6以2.9 pg/mL为阈值可预测临床获益。尽管2.9 pg/mL切点在GY012中未得到验证，但IL-6以中位数4.2 pg/mL为切点与OS相关。IL-6>4.2 pg/mL的患者预后更差，但较高的IL-6水平与西地尼布组更长的OS获益相关（交互p=.085）。在二次分析中，骨桥蛋白（OPN）和胎盘生长因子（PlGF）可能预测获益。OPN水平较高的患者在奥拉帕利组OS更短，而OPN较低的患者在西地尼布组OS更长（交互p=.035）。PlGF水平较高的患者从西地尼布中获益更多（PFS交互p=.030；OS交互p=.024）。还识别出多个预后标志物。",
+          "limitations": "IL-6的2.9 pg/mL切点未在GY012中验证；IL-6与西地尼布组OS获益的交互p=.085；OPN和PlGF为潜在预测标志物，结论认为需要进一步评估。",
+          "clinicalInterpretation": "在复发、持续或转移性子宫内膜癌接受抗血管生成治疗的患者中，IL-6可能具有预测结局的作用，OPN和PlGF是新型潜在预测生物标志物；这些发现为探索性，需进一步评估，尚不能用于临床决策。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "86d61459cec7b96d4280e574a99d79ef98b2a31555f5a7d24316517593a1ece8"
+      },
+      {
+        "id": "pmid:42871447",
+        "pmid": "42871447",
+        "doi": "10.3389/fphar.2026.1822226",
+        "title": "The role of sitagliptin in modifying metabolic, hormonal and clinical parameters in polycystic ovarian syndrome patients: a randomized controlled trial.",
+        "abstract": "BACKGROUND: Polycystic ovarian syndrome (PCOS) is a disease that is not limited to reproductive symptoms; it is also significantly linked to metabolic problems such as obesity, insulin resistance, and dyslipidemia. Sitagliptin, a DPP-4 inhibitor, may play a significant role in metabolic, inflammatory, and hormonal abnormalities in PCOS patients.\nOBJECTIVE: This randomized clinical trial aimed to investigate the impact of sitagliptin on metabolic disturbances, hormonal abnormalities, and clinical outcomes in patients with PCOS. The study is registered on Clinicaltrials.gov with an ID of (NCT05972928).\nMETHODS: This randomized controlled trial was conducted at Beni-Suef University Hospital, involving 80 women diagnosed with PCOS based on the Rotterdam criteria. Participants were equally allocated into either a sitagliptin group, receiving 100 mg daily, or a control group, with a follow-up period of 3 months. Changes in body weight served as the sole primary outcome of the study. Meanwhile, changes in BMI, HOMA-IR, lipid profile, and hormonal indicators, along with clinical improvements in infertility, hirsutism, acne, and menstrual irregularity, were evaluated as secondary outcomes.\nRESULTS: Regarding the primary outcome, a highly significant reduction in body weight was observed within the sitagliptin group (p < 0.001). Similarly, secondary outcomes including BMI, HOMA-IR, DHEA, HbA1c, total and free testosterone, and LH levels, all demonstrated significant decreases (p < 0.05). Clinical secondary outcomes also showed potential improvements, with menstrual regularity increasing significantly (p = 0.006), alongside visible reductions in hirsutism (p = 0.006) and exploratory reduction in the infertility rates (p = 0.031), that needs further confirmation. Furthermore, the intervention was well-tolerated, as recorded side effects were both rare and mild in intensity.\nCONCLUSION: Sitagliptin has potential impact on the hormonal, metabolic and clinical aspects of PCOS, and an exploratory effect on reproductive function. This makes it a potentially promising option for managing this complex condition.\nCLINICAL TRIAL REGISTRATION: https://clinicaltrials.gov/study/NCT05972928, identifier NCT05972928.",
+        "journal": "Frontiers in pharmacology",
+        "authors": [
+          "Ahmed E Altyar",
+          "Dina Y Dessouky",
+          "Heba F Salem",
+          "Marian S Boshra",
+          "Sara Abdallah Mohamed Salem"
+        ],
+        "publicationTypes": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-29T00:00:00.000Z",
+        "activityAt": "2026-10-14T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42871447/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 21.25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 96.25,
+          "evidenceRank": 0.85
+        },
+        "summaryZh": {
+          "titleZh": "西格列汀对多囊卵巢综合征患者代谢、激素和临床参数的影响：一项随机对照试验",
+          "researchQuestion": "研究西格列汀对多囊卵巢综合征（PCOS）患者代谢紊乱、激素异常和临床结局的影响。",
+          "studyDesign": "随机对照试验；在ClinicalTrials.gov注册，ID为NCT05972928。",
+          "populationAndSample": "80名根据Rotterdam标准诊断的PCOS女性，在Beni-Suef大学医院开展；等分为西格列汀组（每日100 mg）和对照组，随访3个月。",
+          "methods": "随机对照试验。主要结局为体重变化；次要结局包括BMI、HOMA-IR、血脂谱、激素指标变化，以及不孕、多毛、痤疮和月经不规则的临床改善。",
+          "keyResults": "主要结局方面，西格列汀组内体重出现高度显著下降（p<0.001）。次要结局中BMI、HOMA-IR、DHEA、HbA1c、总睾酮和游离睾酮、LH水平均显著下降（p<0.05）。临床次要结局也显示潜在改善：月经规律性显著增加（p=0.006），多毛可见减少（p=0.006），不孕率有探索性下降（p=0.031），需要进一步确认。干预耐受性良好，记录的副作用少见且轻微。",
+          "limitations": "不孕率的下降被描述为探索性，需要进一步确认；随访3个月；摘要未报告其他局限。",
+          "clinicalInterpretation": "该随机对照试验提示，西格列汀可能对PCOS的激素、代谢和临床方面有影响，并对生殖功能有探索性作用；摘要结论称其可能是有前景的选择，但不足以形成临床推荐。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "fc16f85ba4ee32c35d120c47ffb3657b458dfd5ea415d176f7a05d1614344c67"
+      },
+      {
+        "id": "pmid:42868113",
+        "pmid": "42868113",
+        "doi": "10.1371/journal.pone.0360240",
+        "title": "Psychological distress among women with abnormal cervical cancer screening results in Poland: Validation of the Polish version of the Cervical Dysplasia Distress Questionnaire (CDDQ-PL).",
+        "abstract": "BACKGROUND: This study evaluated the validity and reliability of the Polish version of the Cervical Dysplasia Distress Questionnaire (CDDQ-PL) in women with abnormal cervical cancer screening results.\nMETHODS: A cross-sectional validation study was conducted among 285 women referred to a colposcopy unit following an abnormal cervical cancer screening result. Psychometric evaluation included language and content validity, item analysis, confirmatory factor analysis, internal consistency, and concurrent and convergent validity. Data were collected using a sociodemographic questionnaire, the CDDQ, an anxiety scale, and the Short Form Health Survey (SF-36).\nRESULTS: The mean age of participants was 38.69 years (SD = 10.77). The mean total CDDQ-PL score was 2.21, with the highest distress observed for health consequences (3.02) and the lowest for embarrassment (1.47). Anxiety significantly decreased after the visit (6.51 ± 2.73 vs. 4.87 ± 2.95). Internal consistency was good, with Cronbach's alpha coefficients ranging from 0.830 to 0.919 across subscales. Total CDDQ-PL scores showed moderate positive correlations with anxiety before (r = 0.378, p < 0.001) and after the visit (r = 0.381, p < 0.001). Higher distress was associated with poorer quality of life, particularly in emotional well-being, pain, and energy/fatigue domains of the SF-36.\nCONCLUSIONS: The Polish version of the CDDQ demonstrated satisfactory validity and good internal consistency for assessing psychological distress in women with abnormal cervical cancer screening results. Its temporal stability requires confirmation in future test-retest studies.",
+        "journal": "PloS one",
+        "authors": [
+          "Agata Szmigiel-Soja",
+          "Dominika Trojnarska",
+          "Iwona Gawron",
+          "Iwona Malinowska-Lipień",
+          "Justyna Kot",
+          "Klaudia Sieńko-Hans",
+          "Robert Jach"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Validation Study"
+        ],
+        "publishedAt": "2026-10-13T00:00:00.000Z",
+        "activityAt": "2026-10-13T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42868113/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 17.5,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 92.5,
+          "evidenceRank": 0.7
+        },
+        "summaryZh": {
+          "titleZh": "波兰宫颈癌筛查结果异常女性的心理困扰：宫颈异型增生困扰问卷波兰版（CDDQ-PL）验证",
+          "researchQuestion": "评估波兰版CDDQ在宫颈癌筛查结果异常女性中的效度和信度。",
+          "studyDesign": "横断面验证研究。",
+          "populationAndSample": "285名因宫颈癌筛查结果异常被转诊至阴道镜单位的女性。",
+          "methods": "心理测量学评估包括语言和内容效度、条目分析、验证性因子分析、内部一致性，以及同时效度和聚合效度。数据通过社会人口学问卷、CDDQ、焦虑量表和SF-36收集。",
+          "keyResults": "参与者平均年龄38.69岁（SD=10.77）。CDDQ-PL总分均值2.21，健康后果维度困扰最高（3.02），尴尬维度最低（1.47）。就诊后焦虑显著下降（6.51±2.73 vs. 4.87±2.95）。内部一致性良好，各分量表Cronbach's alpha为0.830至0.919。CDDQ-PL总分与就诊前焦虑（r=0.378，p<0.001）和就诊后焦虑（r=0.381，p<0.001）呈中度正相关。较高困扰与较差生活质量相关，尤其是SF-36的情绪健康、疼痛和精力/疲劳维度。",
+          "limitations": "摘要指出其时间稳定性需要在未来重测研究中确认；为横断面研究。",
+          "clinicalInterpretation": "CDDQ-PL在该人群中显示出满意的效度和良好的内部一致性，可用于评估宫颈癌筛查结果异常女性的心理困扰；时间稳定性尚待确认。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "088306e1499db0da9042235527c3064ddaad6096597b26c564e6caa271ab6bdc"
+      },
+      {
+        "id": "pmid:42870161",
+        "pmid": "42870161",
+        "doi": "10.1007/s10278-026-02352-w",
+        "title": "Development and External Testing of an Interpretable MRI-Based Machine Learning Model for Differentiating Endometrial Stromal Sarcoma from Cellular Leiomyoma.",
+        "abstract": "This retrospective two-center diagnostic study was aimed at developing and externally testing an interpretable MRI-based machine learning model for differentiating endometrial stromal sarcoma (ESS) from cellular leiomyoma (CL). A total of 155 women with pathologically confirmed ESS or CL were assigned to a derivation cohort (n = 111) and an external testing cohort (n = 44). Clinical variables, qualitative MRI features, and apparent diffusion coefficient (ADC) histogram parameters were evaluated. Three MRI-derived predictors-irregular tumor margin, cystic areas on T2-weighted imaging, and mean ADC-were used to train six classifiers. The final support vector machine model with a radial basis function kernel was evaluated at a fixed threshold determined in the derivation cohort using receiver operating characteristic, calibration, decision curve, and Shapley additive explanations (SHAP) analyses. A reader study assessed the effect of model assistance. The model achieved areas under the curve of 0.843 (95% CI, 0.760-0.917) in the derivation cohort and 0.835 (95% CI, 0.669-0.960) in the external testing cohort. Calibration and decision curve analyses indicated acceptable performance and potential clinical utility. In an exploratory model-assisted reader analysis, junior radiologist specificity increased from 46.4 to 82.1% and accuracy from 52.3 to 77.3%. This interpretable three-feature model demonstrated promising performance across cohorts and may serve as an adjunctive tool for preoperative MRI assessment, although prospective multicenter validation is warranted.",
+        "journal": "Journal of imaging informatics in medicine",
+        "authors": [
+          "Feiran Zhang",
+          "Guofu Zhang",
+          "He Zhang",
+          "Shulei Cai",
+          "Wentao Jin",
+          "Yan Ning",
+          "Yuanyuan Lu",
+          "Yue Zhou",
+          "Zhuoting Xu"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-13T00:00:00.000Z",
+        "activityAt": "2026-10-14T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42870161/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "用于鉴别子宫内膜间质肉瘤与富于细胞性平滑肌瘤的可解释MRI机器学习模型的开发与外部测试",
+          "researchQuestion": "开发和外部测试可解释的基于MRI的机器学习模型，以鉴别子宫内膜间质肉瘤（ESS）与富于细胞性平滑肌瘤（CL）。",
+          "studyDesign": "回顾性双中心诊断研究。",
+          "populationAndSample": "155名病理确诊ESS或CL的女性，分为推导队列（n=111）和外部测试队列（n=44）。",
+          "methods": "评估临床变量、定性MRI特征和表观扩散系数（ADC）直方图参数。使用三个MRI衍生预测因子——肿瘤边缘不规则、T2加权成像囊性区域和平均ADC——训练六种分类器。最终采用径向基函数核支持向量机模型，在推导队列确定的固定阈值下评估，并使用受试者工作特征、校准、决策曲线和Shapley加法解释（SHAP）分析。读者研究评估模型辅助的效果。",
+          "keyResults": "模型在推导队列的曲线下面积为0.843（95%CI 0.760-0.917），在外部测试队列为0.835（95%CI 0.669-0.960）。校准和决策曲线分析提示可接受的性能和潜在临床效用。在探索性模型辅助读者分析中，初级放射科医生的特异度从46.4%提高到82.1%，准确率从52.3%提高到77.3%。",
+          "limitations": "回顾性研究；外部测试队列样本量44；作者指出需要前瞻性多中心验证；读者分析为探索性。",
+          "clinicalInterpretation": "该可解释三特征模型在两个队列中表现出有前景的性能，可能作为术前MRI评估的辅助工具；但需要前瞻性多中心验证，尚不能替代病理诊断或独立临床决策。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "0940dd9a70719624ee9a4296f950b12cd8e417c18ae8ab4d08f258b0db5f8d9a"
+      }
+    ]
+  }
+}
