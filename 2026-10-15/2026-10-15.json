@@ -7,8 +7,8 @@
   "editor_note": "过去24小时暂无符合质量要求的重要更新。",
   "keywords": [],
   "research": {
-    "generatedAt": "2026-10-14T22:33:30.107Z",
-    "dataAsOf": "2026-10-14T22:33:30.107Z",
+    "generatedAt": "2026-10-14T23:52:25.892Z",
+    "dataAsOf": "2026-10-14T23:52:25.892Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及饮食和生活方式质量与子宫内膜癌：发病率和生存结局——系统综述和荟萃分析的伞形综述、奥拉帕利和西地尼布治疗复发、持续或转移性子宫内膜癌患者的血液生物标志物：NRG-GY012结果、西格列汀对多囊卵巢综合征患者代谢、激素和临床参数的影响：一项随机对照试验。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
@@ -41,15 +41,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 100,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "饮食和生活方式质量与子宫内膜癌：发病率和生存结局——系统综述和荟萃分析的伞形综述",
           "researchQuestion": "评估并分级复合饮食和生活方式质量指数依从性与子宫内膜癌结局（包括风险、子宫内膜癌特异性生存、总生存、疾病复发、生活质量和新发心血管代谢疾病）之间关联的证据强度。",
@@ -61,7 +52,16 @@
           "clinicalInterpretation": "该伞形综述提示，健康饮食模式（尤其地中海饮食）及联合健康生活方式与较低子宫内膜癌发病风险相关，但证据等级为III-IV；对诊断后结局尚无充分或显著证据。该结果不支持将其表述为临床指南或指令。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "3fa31eb52c264726e2159fc7deaae9da6659138bdd71fb2f94ac763183fa8c6a"
+        "summaryInputHash": "3fa31eb52c264726e2159fc7deaae9da6659138bdd71fb2f94ac763183fa8c6a",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:42870635",
@@ -104,15 +104,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 21.25,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 96.25,
-          "evidenceRank": 0.85
-        },
         "summaryZh": {
           "titleZh": "奥拉帕利和西地尼布治疗复发、持续或转移性子宫内膜癌患者的血液生物标志物：NRG-GY012结果",
           "researchQuestion": "评估血液生物标志物与临床结局之间的预测性和预后性关联。",
@@ -124,7 +115,16 @@
           "clinicalInterpretation": "在复发、持续或转移性子宫内膜癌接受抗血管生成治疗的患者中，IL-6可能具有预测结局的作用，OPN和PlGF是新型潜在预测生物标志物；这些发现为探索性，需进一步评估，尚不能用于临床决策。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "86d61459cec7b96d4280e574a99d79ef98b2a31555f5a7d24316517593a1ece8"
+        "summaryInputHash": "86d61459cec7b96d4280e574a99d79ef98b2a31555f5a7d24316517593a1ece8",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 21.25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 96.25,
+          "evidenceRank": 0.85
+        }
       },
       {
         "id": "pmid:42871447",
@@ -153,15 +153,6 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 21.25,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 96.25,
-          "evidenceRank": 0.85
-        },
         "summaryZh": {
           "titleZh": "西格列汀对多囊卵巢综合征患者代谢、激素和临床参数的影响：一项随机对照试验",
           "researchQuestion": "研究西格列汀对多囊卵巢综合征（PCOS）患者代谢紊乱、激素异常和临床结局的影响。",
@@ -173,7 +164,16 @@
           "clinicalInterpretation": "该随机对照试验提示，西格列汀可能对PCOS的激素、代谢和临床方面有影响，并对生殖功能有探索性作用；摘要结论称其可能是有前景的选择，但不足以形成临床推荐。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "fc16f85ba4ee32c35d120c47ffb3657b458dfd5ea415d176f7a05d1614344c67"
+        "summaryInputHash": "fc16f85ba4ee32c35d120c47ffb3657b458dfd5ea415d176f7a05d1614344c67",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 21.25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 96.25,
+          "evidenceRank": 0.85
+        }
       },
       {
         "id": "pmid:42868113",
@@ -204,15 +204,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 17.5,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 92.5,
-          "evidenceRank": 0.7
-        },
         "summaryZh": {
           "titleZh": "波兰宫颈癌筛查结果异常女性的心理困扰：宫颈异型增生困扰问卷波兰版（CDDQ-PL）验证",
           "researchQuestion": "评估波兰版CDDQ在宫颈癌筛查结果异常女性中的效度和信度。",
@@ -224,7 +215,16 @@
           "clinicalInterpretation": "CDDQ-PL在该人群中显示出满意的效度和良好的内部一致性，可用于评估宫颈癌筛查结果异常女性的心理困扰；时间稳定性尚待确认。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "088306e1499db0da9042235527c3064ddaad6096597b26c564e6caa271ab6bdc"
+        "summaryInputHash": "088306e1499db0da9042235527c3064ddaad6096597b26c564e6caa271ab6bdc",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 17.5,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 92.5,
+          "evidenceRank": 0.7
+        }
       },
       {
         "id": "pmid:42870161",
@@ -256,15 +256,6 @@
         "matchedTopicIds": [
           "endometriosis-benign-gynecology"
         ],
-        "assignedTopicId": "endometriosis-benign-gynecology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "用于鉴别子宫内膜间质肉瘤与富于细胞性平滑肌瘤的可解释MRI机器学习模型的开发与外部测试",
           "researchQuestion": "开发和外部测试可解释的基于MRI的机器学习模型，以鉴别子宫内膜间质肉瘤（ESS）与富于细胞性平滑肌瘤（CL）。",
@@ -276,7 +267,16 @@
           "clinicalInterpretation": "该可解释三特征模型在两个队列中表现出有前景的性能，可能作为术前MRI评估的辅助工具；但需要前瞻性多中心验证，尚不能替代病理诊断或独立临床决策。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "0940dd9a70719624ee9a4296f950b12cd8e417c18ae8ab4d08f258b0db5f8d9a"
+        "summaryInputHash": "0940dd9a70719624ee9a4296f950b12cd8e417c18ae8ab4d08f258b0db5f8d9a",
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       }
     ]
   }
