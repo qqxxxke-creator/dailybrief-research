@@ -7,8 +7,8 @@
   "editor_note": "过去24小时暂无符合质量要求的重要更新。",
   "keywords": [],
   "research": {
-    "generatedAt": "2026-10-15T22:08:45.691Z",
-    "dataAsOf": "2026-10-15T22:08:45.691Z",
+    "generatedAt": "2026-10-15T23:14:31.400Z",
+    "dataAsOf": "2026-10-15T23:14:31.400Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及低FODMAP饮食对子宫内膜异位症女性症状和生活质量的影响：系统综述与荟萃分析、孕激素、宫颈环扎术和宫颈托预防无症状单胎妊娠合并超声短宫颈且无自发性早产史女性早产：系统综述与贝叶斯网络荟萃分析、高血压妊娠后3-4年的饮食质量和体力活动：血压产后横断面子研究。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
@@ -43,15 +43,6 @@
         "matchedTopicIds": [
           "endometriosis-benign-gynecology"
         ],
-        "assignedTopicId": "endometriosis-benign-gynecology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 100,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "低FODMAP饮食对子宫内膜异位症女性症状和生活质量的影响：系统综述与荟萃分析",
           "researchQuestion": "评估低FODMAP饮食与子宫内膜异位症女性生活质量结局之间的关联。",
@@ -63,7 +54,16 @@
           "clinicalInterpretation": "作者结论认为低FODMAP饮食与子宫内膜异位症女性多个生活质量领域改善相关，但强调这些发现需谨慎解读并需随机对照试验确认；摘要未报告指南或临床指令。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "17278615b300d55099ff70eed2bf89c19d7e3a990d5c6000ce4462ddaf9bcc73"
+        "summaryInputHash": "17278615b300d55099ff70eed2bf89c19d7e3a990d5c6000ce4462ddaf9bcc73",
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:42877099",
@@ -95,15 +95,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 100,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "孕激素、宫颈环扎术和宫颈托预防无症状单胎妊娠合并超声短宫颈且无自发性早产史女性早产：系统综述与贝叶斯网络荟萃分析",
           "researchQuestion": "比较不同干预措施在无症状单胎妊娠、超声短宫颈且无自发性早产史女性中预防早产的效果。",
@@ -115,7 +106,16 @@
           "clinicalInterpretation": "作者结论认为阴道孕激素单药治疗仍是预防早产的基准标准照护，具有高确定性直接证据、较强疗效排名和良好的母体安全性；联合治疗虽然疗效排名高，但鉴于安全性担忧和较低确定性证据，其常规临床采用应限于研究环境；宫颈托在选定人群中可能是阴道孕激素的替代选择。该结论来自单篇系统综述与网络荟萃分析，不应改写为指南或共识。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "3e651e745848d0ac66033582e52c151387ea71e1b5a31bfcbafe4f9d76e0841c"
+        "summaryInputHash": "3e651e745848d0ac66033582e52c151387ea71e1b5a31bfcbafe4f9d76e0841c",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:42875917",
@@ -145,15 +145,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 23.75,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 98.75,
-          "evidenceRank": 0.95
-        },
         "summaryZh": {
           "titleZh": "高血压妊娠后3-4年的饮食质量和体力活动：血压产后横断面子研究",
           "researchQuestion": "在高血压妊娠后3-4年，评估饮食质量、体力活动及其与心血管疾病风险标志物的关联；并比较不同BP 2产后照护/生活方式干预策略、HDP亚型和基线BMI分类的差异。",
@@ -165,7 +156,16 @@
           "clinicalInterpretation": "作者结论指出，尽管先前有生活方式干预，高血压妊娠后3-4年仍观察到饮食质量不理想，提示需要产后支持和长期生活方式干预以降低高血压妊娠后心血管疾病风险。摘要未报告临床指南或指令。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "059dd1704ccb16107f62121daeea3a7db68966e692879518636248f7c48cf494"
+        "summaryInputHash": "059dd1704ccb16107f62121daeea3a7db68966e692879518636248f7c48cf494",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        }
       },
       {
         "id": "pmid:42876325",
@@ -203,15 +203,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 23.75,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 98.75,
-          "evidenceRank": 0.95
-        },
         "summaryZh": {
           "titleZh": "预测乌干达北部两岁婴儿神经发育迟缓",
           "researchQuestion": "开发并评估一个模型，使用易于获取的预测因子预测乌干达北部两岁婴儿的神经发育迟缓。",
@@ -223,7 +214,16 @@
           "clinicalInterpretation": "作者结论认为开发了一个有前景的工具，可用于在低资源环境中识别神经发育迟缓风险较高的婴儿，可能有助于优先安排儿童随访和专门干预。此为模型开发研究结论，不应改写为临床指南或指令。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "7c3a2161657faacab688a28e7f0935f15238b2eeeb9f8122029389917e7eec29"
+        "summaryInputHash": "7c3a2161657faacab688a28e7f0935f15238b2eeeb9f8122029389917e7eec29",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        }
       },
       {
         "id": "pmid:42876043",
@@ -252,15 +252,6 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "接受癌症治疗女性的生育力保存进展：从冷冻保存到新型疗法",
           "researchQuestion": "综述接受癌症治疗女性生育力保存的进展，涵盖冷冻保存至新型疗法。",
@@ -272,7 +263,16 @@
           "clinicalInterpretation": "摘要强调生育力保存应在诊断时和治疗开始前处理；已建立策略包括胚胎和成熟卵母细胞保存，卵巢组织冷冻保存并自体移植是特定情况下（青春期前或需立即化疗）的唯一可用选择，且现已视为已确立技术但仍需优化。摘要未报告具体指南或共识推荐。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "f971b0a920602e9c51bf30ff76a468465d443f35fbe4347b67582bf9c43843f9"
+        "summaryInputHash": "f971b0a920602e9c51bf30ff76a468465d443f35fbe4347b67582bf9c43843f9",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       }
     ]
   }
