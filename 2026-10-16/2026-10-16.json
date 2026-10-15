@@ -1,0 +1,279 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-10-15T22:08:45.691Z",
+    "dataAsOf": "2026-10-15T22:08:45.691Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及低FODMAP饮食对子宫内膜异位症女性症状和生活质量的影响：系统综述与荟萃分析、孕激素、宫颈环扎术和宫颈托预防无症状单胎妊娠合并超声短宫颈且无自发性早产史女性早产：系统综述与贝叶斯网络荟萃分析、高血压妊娠后3-4年的饮食质量和体力活动：血压产后横断面子研究。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42876029",
+        "pmid": "42876029",
+        "doi": "10.1111/jhn.70353",
+        "title": "Effects of a Low-FODMAP Diet on Symptoms and Quality of Life in Women With Endometriosis: A Systematic Review and Meta-Analysis.",
+        "abstract": "INTRODUCTION: Endometriosis is a chronic inflammatory gynaecological disease that significantly impairs quality of life. Dietary strategies such as low-FODMAP diet have been proposed as adjunctive non-pharmacological approaches to symptom management. This systematic review and meta-analysis aim to evaluate the association of a low-FODMAP diet on quality-of-life outcomes in women with endometriosis.\nMETHODS: PubMed, Embase, and Cochrane were searched for randomised and observational studies assessing low-FODMAP dietary interventions in women with endometriosis. Outcomes were evaluated using the Endometriosis Health Profile-30 (EHP-30). Pooled analysis was performed using a random-effects model.\nRESULTS: We included three studies comprising 90 women with a mean age of 34 years. The mean follow-up duration was 3.5 months. The pooled post-intervention mean score was 28.45 for pain (95% CI: 20.88 to 36.02; I² = 61.8%) and 39.33 for control/helplessness (95% CI: 24.92 to 53.73; I² = 81.7%). The corresponding post-intervention mean scores were 31.87 for emotional well-being (95% CI: 27.15 to 36.59; I² = 0%), 38.94 for social support (95% CI: 33.69 to 44.20; I² = 0%), and 43.22 for self-image (95% CI: 35.94 to 50.49; I² = 21.2%).\nCONCLUSION: A low-FODMAP diet was associated with improvements across multiple quality-of-life domains in women with endometriosis. However, these findings should be interpreted with caution and considered hypothesis-generating, requiring confirmation by larger, well-designed randomised controlled trials.",
+        "journal": "Journal of human nutrition and dietetics : the official journal of the British Dietetic Association",
+        "authors": [
+          "Alessandra Bedin-Pochini",
+          "Amanda Alves Rabelo",
+          "Carolina Alves Corrêa",
+          "Gabriel Bernardes Yacoub",
+          "Guilherme Santos da Silva",
+          "Janete Rabelo Rios",
+          "Júlia Fraga Castro E Oliveira",
+          "Yasmim de Souza Nunes"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-01T00:00:00.000Z",
+        "activityAt": "2026-10-15T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42876029/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "低FODMAP饮食对子宫内膜异位症女性症状和生活质量的影响：系统综述与荟萃分析",
+          "researchQuestion": "评估低FODMAP饮食与子宫内膜异位症女性生活质量结局之间的关联。",
+          "studyDesign": "系统综述与荟萃分析；纳入评估低FODMAP饮食干预的随机研究和观察性研究。",
+          "populationAndSample": "纳入3项研究，共90名子宫内膜异位症女性，平均年龄34岁，平均随访3.5个月。",
+          "methods": "检索PubMed、Embase和Cochrane；使用子宫内膜健康量表-30（EHP-30）评估结局；采用随机效应模型进行汇总分析。",
+          "keyResults": "干预后汇总平均分：疼痛为28.45（95% CI：20.88至36.02；I²=61.8%），控制/无助感为39.33（95% CI：24.92至53.73；I²=81.7%），情绪健康为31.87（95% CI：27.15至36.59；I²=0%），社会支持为38.94（95% CI：33.69至44.20；I²=0%），自我形象为43.22（95% CI：35.94至50.49；I²=21.2%）。",
+          "limitations": "作者指出应谨慎解读这些发现，并将其视为产生假设，需要更大规模、设计良好的随机对照试验确认；摘要未报告其他局限性。",
+          "clinicalInterpretation": "作者结论认为低FODMAP饮食与子宫内膜异位症女性多个生活质量领域改善相关，但强调这些发现需谨慎解读并需随机对照试验确认；摘要未报告指南或临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "17278615b300d55099ff70eed2bf89c19d7e3a990d5c6000ce4462ddaf9bcc73"
+      },
+      {
+        "id": "pmid:42877099",
+        "pmid": "42877099",
+        "doi": "10.1136/bmjmed-2026-003010",
+        "title": "Progestogens, cervical cerclage, and cervical pessary for preventing preterm birth in asymptomatic singleton pregnancies with a sonographic short cervix and no previous history of spontaneous preterm birth: systematic review and bayesian network meta-analysis.",
+        "abstract": "OBJECTIVE: To compare the efficacy of different interventions to prevent preterm birth in asymptomatic singleton pregnancies with a sonographic short cervix and no previous history of spontaneous preterm birth.\nDESIGN: Systematic review and bayesian network meta-analysis.\nDATA SOURCES: Ovid Medline, Cochrane Library, Embase, ClinicalTrials.gov, Google Scholar, and Chinese databases, from inception to 13 March 2025, updated 3 February 2026.\nELIGIBILITY CRITERIA FOR SELECTING STUDIES: Randomised controlled trials comparing two or more active interventions or comparing an active intervention with a control (placebo, expectant management, or usual care) to prevent preterm birth in asymptomatic women with singleton pregnancies and a sonographic short cervix, but no previous history of spontaneous preterm birth.\nRESULTS: The primary outcomes were preterm birth before 34 and 37 weeks' gestation. 26 randomised controlled trials (8561 women) were identified, with 6004 participants included in the network meta-analysis. In direct pairwise comparisons, vaginal progesterone monotherapy was supported by high certainty evidence as a highly effective intervention for reducing preterm birth before 34 weeks' gestation (risk ratio 0.56, 95% confidence interval (CI) 0.44 to 0.72). In the network meta-analysis for preterm birth before 34 weeks' gestation (24 randomised controlled trials, 5738 women), vaginal progesterone monotherapy maintained a high efficacy ranking (mean rank 3.3, probability of risk ratio <1.00=96.4%), alongside the highest ranking of pessary with vaginal progesterone (mean rank 1.5, probability of risk ratio <1.00=99.1%). For preterm birth before 37 weeks' gestation (16 randomised controlled trials, 4203 women), vaginal progesterone monotherapy similarly showed a strong probability of risk reduction (probability of risk ratio <1.00=92.0%, mean rank 3.4). In terms of safety, direct evidence showed that vaginal progesterone monotherapy was associated with a significantly lower risk of maternal adverse events than combination treatments (risk ratio 0.56, 95% CI 0.42 to 0.76). Efficacy and safety hierarchies of vaginal progesterone remained highly robust across sensitivity analyses. For most secondary outcomes, the certainty of evidence was generally low, with moderate to high between study variability.\nCONCLUSIONS: The results showed that vaginal progesterone monotherapy remains the benchmark standard of care for the prevention of preterm birth, uniquely combining high certainty direct evidence, strong efficacy rankings, and excellent maternal safety. Although combination treatments showed high efficacy rankings, their routine clinical adoption should be restricted to research settings given the safety concerns and lower certainty evidence. A cervical pessary might be an alternative to vaginal progesterone in selected populations.\nSYSTEMATIC REVIEW REGISTRATION: PROSPERO CRD420251004808.",
+        "journal": "BMJ medicine",
+        "authors": [
+          "Hanglin Wu",
+          "Jindi Zhang",
+          "Katsufumi Otsuki",
+          "Liming Yu",
+          "Maria Goya",
+          "Sara Cruz-Melguizo",
+          "XueWen Fu"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Network Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-12T00:00:00.000Z",
+        "activityAt": "2026-10-15T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42877099/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "孕激素、宫颈环扎术和宫颈托预防无症状单胎妊娠合并超声短宫颈且无自发性早产史女性早产：系统综述与贝叶斯网络荟萃分析",
+          "researchQuestion": "比较不同干预措施在无症状单胎妊娠、超声短宫颈且无自发性早产史女性中预防早产的效果。",
+          "studyDesign": "系统综述与贝叶斯网络荟萃分析；纳入随机对照试验。",
+          "populationAndSample": "无症状单胎妊娠、超声短宫颈且无自发性早产史女性；共识别26项随机对照试验（8561名女性），其中6004名参与者纳入网络荟萃分析。",
+          "methods": "检索Ovid Medline、Cochrane Library、Embase、ClinicalTrials.gov、Google Scholar和中文数据库，从建库至2025年3月13日，2026年2月3日更新；纳入比较两种或以上积极干预，或积极干预与对照（安慰剂、期待管理或常规照护）的随机对照试验；主要结局为妊娠34周前和37周前早产；采用贝叶斯网络荟萃分析并做敏感性分析。",
+          "keyResults": "直接两两比较中，阴道孕激素单药治疗被高确定性证据支持为降低妊娠34周前早产的高度有效干预（RR 0.56，95% CI 0.44至0.72）。妊娠34周前早产的网络荟萃分析（24项随机对照试验，5738名女性）中，阴道孕激素单药治疗保持高效排名（平均排名3.3，RR<1.00的概率=96.4%），宫颈托联合阴道孕激素排名最高（平均排名1.5，RR<1.00的概率=99.1%）。妊娠37周前早产（16项随机对照试验，4203名女性）中，阴道孕激素单药治疗同样显示较强风险降低概率（RR<1.00的概率=92.0%，平均排名3.4）。安全性方面，直接证据显示阴道孕激素单药治疗与母体不良事件风险显著低于联合治疗相关（RR 0.56，95% CI 0.42至0.76）。阴道孕激素的疗效和安全性排序在敏感性分析中保持高度稳健。对于多数次要结局，证据确定性普遍较低，研究间变异为中至高度。",
+          "limitations": "摘要报告多数次要结局证据确定性普遍较低，研究间变异为中至高度；摘要未报告其他局限性。",
+          "clinicalInterpretation": "作者结论认为阴道孕激素单药治疗仍是预防早产的基准标准照护，具有高确定性直接证据、较强疗效排名和良好的母体安全性；联合治疗虽然疗效排名高，但鉴于安全性担忧和较低确定性证据，其常规临床采用应限于研究环境；宫颈托在选定人群中可能是阴道孕激素的替代选择。该结论来自单篇系统综述与网络荟萃分析，不应改写为指南或共识。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "3e651e745848d0ac66033582e52c151387ea71e1b5a31bfcbafe4f9d76e0841c"
+      },
+      {
+        "id": "pmid:42875917",
+        "pmid": "42875917",
+        "doi": "10.1111/jhn.70356",
+        "title": "Diet Quality and Physical Activity at 3-4 Years Following a Hypertensive Pregnancy: A Blood Pressure Postpartum Cross-Sectional Sub-Study.",
+        "abstract": "INTRODUCTION: Hypertensive disorders of pregnancy (HDP), as well as being a leading global cause of maternal mortality, confer lifelong increased maternal cardiovascular disease (CVD) risk. Although lifestyle interventions may mitigate these risks, robust evidence remains scarce.\nMATERIAL AND METHODS: This cross-sectional sub-study of the three-armed, multicenter BP 2 randomised controlled trial primarily assessed diet quality, physical activity, and their association with CVD risk markers in women 3-4 years after HDP, following different BP 2 postpartum care/lifestyle intervention strategies implemented between six and 12 months post-HDP. Diet quality was evaluated using the Australian Recommended Food Score (ARFS) derived from the Australian Eating Survey. Duration of moderate-vigorous physical activity (MVPA) was estimated using the International Physical activity Questionnaire. Associations between key lifestyle outcomes and clinical cardiovascular markers were examined using linear regression models. Secondary lifestyle outcomes include estimated daily energy intake, food consumption, nutrients, estimated duration and engagement of specific physical activity types, and sedentary behaviour.\nRESULTS: In 180 participants, the mean ARFS was 33.8 ± 10.5 (SD), with 61% scoring < 38 indicating suboptimal diet quality. Median MVPA was 515 (IQR 690) minutes/week with 87% meeting physical activity recommendations of at least 150 min/week. No significant differences were observed across BP 2 lifestyle intervention strategies, HDP subtypes (chronic hypertension, gestational hypertension, preeclampsia, and superimposed preeclampsia), or baseline body mass index (BMI) categories (< 30 vs. ≥ 30 kg/m 2 ). Neither ARFS nor MVPA showed significant associations with blood pressure, BMI, or waist circumference.\nCONCLUSIONS: Suboptimal diet was observed 3-4 years after HDP despite prior lifestyle interventions, highlighting the need for postpartum support and long-term lifestyle interventions to reduce CVD risks post-HDP.",
+        "journal": "Journal of human nutrition and dietetics : the official journal of the British Dietetic Association",
+        "authors": [
+          "Amanda Henry",
+          "Katie Harris",
+          "Lynne Roberts",
+          "Megan Gow",
+          "Yining Chen"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-10-01T00:00:00.000Z",
+        "activityAt": "2026-10-15T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42875917/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "高血压妊娠后3-4年的饮食质量和体力活动：血压产后横断面子研究",
+          "researchQuestion": "在高血压妊娠后3-4年，评估饮食质量、体力活动及其与心血管疾病风险标志物的关联；并比较不同BP 2产后照护/生活方式干预策略、HDP亚型和基线BMI分类的差异。",
+          "studyDesign": "三臂、多中心BP 2随机对照试验的横断面子研究。",
+          "populationAndSample": "180名参与女性，均为高血压妊娠后3-4年；这些女性在高血压妊娠后6至12个月期间接受过不同BP 2产后照护/生活方式干预策略。",
+          "methods": "使用澳大利亚饮食调查中的澳大利亚推荐食物评分（ARFS）评估饮食质量；使用国际体力活动问卷估计中等至剧烈体力活动（MVPA）时长；使用线性回归模型检验关键生活方式结局与临床心血管标志物的关联；次要生活方式结局包括估计每日能量摄入、食物摄入、营养素、特定体力活动类型的估计时长和参与情况以及久坐行为。",
+          "keyResults": "180名参与者中，平均ARFS为33.8 ± 10.5（SD），61%得分<38，提示饮食质量不理想。MVPA中位数为515（IQR 690）分钟/周，87%达到至少150分钟/周的体力活动建议。在不同BP 2生活方式干预策略、HDP亚型（慢性高血压、妊娠期高血压、子痫前期和叠加子痫前期）或基线BMI分类（<30 vs ≥30 kg/m²）之间未观察到显著差异。ARFS和MVPA均未显示与血压、BMI或腰围的显著关联。",
+          "limitations": "摘要未报告明确的局限性；该研究为横断面子研究，摘要未报告可支持因果推断的信息。",
+          "clinicalInterpretation": "作者结论指出，尽管先前有生活方式干预，高血压妊娠后3-4年仍观察到饮食质量不理想，提示需要产后支持和长期生活方式干预以降低高血压妊娠后心血管疾病风险。摘要未报告临床指南或指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "059dd1704ccb16107f62121daeea3a7db68966e692879518636248f7c48cf494"
+      },
+      {
+        "id": "pmid:42876325",
+        "pmid": "42876325",
+        "doi": "10.1080/16549716.2026.2748101",
+        "title": "Predicting neurodevelopmental delay among two-year-old infants in Northern Uganda.",
+        "abstract": "BACKGROUND: Data on neurodevelopmental disabilities in sub-Saharan Africa are scarce. Identifying children at the highest risk of neurodevelopmental delay could enable health workers to target these groups more effectively, improve resource allocation and programmatic focus.\nOBJECTIVE: To develop and assess a model for predicting neurodevelopmental delay among two-year-old infants in Northern Uganda using easily obtainable predictors.\nMETHODS: We studied children born to women enrolled in a cluster randomized controlled trial (January 2018-March 2019) evaluating the effect of peer counseling on health facility births. At the trial's final visit (day 50), 1,804 children were enrolled. In November 2020, we followed up 1,421 children (78.8%) and assessed their neurodevelopment at 2 years using the Malawi Developmental Assessment Tool. We used least absolute shrinkage and selection operator penalized regression with 10-fold cross-validation to select the best subset of predictors and assessed model performance using the area under the curve (AUC).\nRESULTS: Of the 1,421 children, 70 (4.9%; 95% CI: 3.6-6.7%) had neurodevelopmental delays. Of the 19 candidate predictors, six were retained in the final model (lambda = 0.0076): moderate wasting, prolonged neonatal hospitalization (up to 28 days), maternal education, place of birth, preterm birth, and absence of skin-to-skin contact at birth. The model showed strong discriminative power (AUC 0.75) and reasonable calibration (calibration slope 1.37; calibration belt 0.536-0.727).\nCONCLUSION: We developed a promising tool for identifying infants at increased risk of neurodevelopmental delay in low-resource settings, which could help prioritize children for follow-up and specialized interventions.",
+        "journal": "Global health action",
+        "authors": [
+          "Agnes Napyo",
+          "Beatrice Odongkara",
+          "Brendah Nambozo",
+          "David Mukunya",
+          "Gertrude Namazzi",
+          "Grace Ndeezi",
+          "James K Tumwine",
+          "Josephine Tumuhamye",
+          "Justin Bruno Tongun",
+          "Milton W Musaba",
+          "Thorkild Tylleskär",
+          "Vicent Ssentumbwe",
+          "Victoria Nankabirwa",
+          "Vincentina Achora"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-10-15T00:00:00.000Z",
+        "activityAt": "2026-10-15T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42876325/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "预测乌干达北部两岁婴儿神经发育迟缓",
+          "researchQuestion": "开发并评估一个模型，使用易于获取的预测因子预测乌干达北部两岁婴儿的神经发育迟缓。",
+          "studyDesign": "基于集群随机对照试验数据的预测模型开发与评估；论文类型标注为随机对照试验。",
+          "populationAndSample": "研究对象为参与一项集群随机对照试验的女性所生儿童，该试验于2018年1月至2019年3月评估同伴咨询对卫生机构分娩的影响。试验最终访视（第50天）纳入1,804名儿童；2020年11月随访1,421名儿童（78.8%），并在2岁时使用马拉维发育评估工具评估神经发育。",
+          "methods": "使用最小绝对收缩和选择算子（LASSO）惩罚回归结合10折交叉验证选择最佳预测因子子集；使用曲线下面积（AUC）评估模型性能；共有19个候选预测因子。",
+          "keyResults": "1,421名儿童中，70名（4.9%；95% CI：3.6-6.7%）存在神经发育迟缓。19个候选预测因子中，6个保留在最终模型（lambda=0.0076）：中度消瘦、新生儿住院时间延长（至28天）、母亲教育、出生地点、早产以及出生时缺乏皮肤接触。模型显示较强区分能力（AUC 0.75）和合理校准（校准斜率1.37；校准带0.536-0.727）。",
+          "limitations": "摘要未报告明确局限性；未报告外部验证或临床效用评估。",
+          "clinicalInterpretation": "作者结论认为开发了一个有前景的工具，可用于在低资源环境中识别神经发育迟缓风险较高的婴儿，可能有助于优先安排儿童随访和专门干预。此为模型开发研究结论，不应改写为临床指南或指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "7c3a2161657faacab688a28e7f0935f15238b2eeeb9f8122029389917e7eec29"
+      },
+      {
+        "id": "pmid:42876043",
+        "pmid": "42876043",
+        "doi": "10.1093/reprod/xaag123",
+        "title": "Advances in Fertility Preservation for Women Undergoing Cancer Treatment: From Cryopreservation to Novel Therapies.",
+        "abstract": "Advances in oncology have significantly improved survival, particularly among children and adolescents with cancer. However, many anti-cancer treatments are gonadotoxic and pose a significant risk to future fertility with important psychosocial consequences for both patients and their families. Fertility preservation should therefore be addressed at diagnosis and prior to treatment initiation. Established strategies include embryo and mature oocyte preservation; however, these options are not feasible for pre-pubertal patients or for those requiring immediate chemotherapy. In such cases ovarian tissue cryopreservation with auto transplantation following remission represents the only available option. This approach can restore both endocrine and fertility. Once considered experimental, ovarian tissue cryopreservation is now considered an established technique, however, further optimization is required to improve efficacy and long-term outcomes, as well as to develop alternative strategies for utilizing tissue unsuitable for transplantation.",
+        "journal": "Reproduction (Cambridge, England)",
+        "authors": [
+          "A Lacueva-Aparicio",
+          "C Malo",
+          "E E Telfer",
+          "I Ochoa",
+          "M Gargallo-Alonso",
+          "R Antolín"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-14T00:00:00.000Z",
+        "activityAt": "2026-10-15T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42876043/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "接受癌症治疗女性的生育力保存进展：从冷冻保存到新型疗法",
+          "researchQuestion": "综述接受癌症治疗女性生育力保存的进展，涵盖冷冻保存至新型疗法。",
+          "studyDesign": "综述（论文类型为期刊文章）；摘要未报告具体综述方法。",
+          "populationAndSample": "摘要未报告研究人群或样本量。",
+          "methods": "摘要未报告具体检索、筛选或合成方法；摘要叙述了已建立策略和替代策略。",
+          "keyResults": "摘要指出：肿瘤学进展显著提高了生存率，尤其在儿童和青少年癌症患者中；但许多抗癌治疗具有性腺毒性，对未来生育构成重大风险，并对患者及其家庭产生重要心理社会后果。生育力保存应在诊断时和治疗开始前处理。已建立策略包括胚胎和成熟卵母细胞保存；但这些选择对青春期前患者或需要立即化疗者不可行。在这些情况下，缓解后行卵巢组织冷冻保存并自体移植是唯一可用选择。该方法可恢复内分泌功能和生育力。卵巢组织冷冻保存曾被视为实验性，现在被认为是已确立技术，但仍需进一步优化以提高疗效和长期结局，并开发替代策略以利用不适合移植的组织。",
+          "limitations": "摘要指出仍需进一步优化以提高疗效和长期结局，并需开发替代策略以利用不适合移植的组织；摘要未报告其他局限性。",
+          "clinicalInterpretation": "摘要强调生育力保存应在诊断时和治疗开始前处理；已建立策略包括胚胎和成熟卵母细胞保存，卵巢组织冷冻保存并自体移植是特定情况下（青春期前或需立即化疗）的唯一可用选择，且现已视为已确立技术但仍需优化。摘要未报告具体指南或共识推荐。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "f971b0a920602e9c51bf30ff76a468465d443f35fbe4347b67582bf9c43843f9"
+      }
+    ]
+  }
+}
