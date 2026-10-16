@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-17",
+  "articles": [
+    {
+      "sourceId": "medpage-today-headlines",
+      "title": "ACOG Guideline Backs Early Hormone Therapy for Menopause Symptoms",
+      "url": "https://www.medpagetoday.com/obgyn/menopause/123457",
+      "excerpt": "(MedPage Today) -- Updated guidelines from the American College of Obstetricians and Gynecologists (ACOG) expand on previous recommendations and align with a growing cross-specialty consensus on how to manage menopause symptoms. For managing vasomotor...",
+      "publishedAt": "2026-10-16T20:41:42.000Z",
+      "category": "tech",
+      "source": "MedPage Today",
+      "summary": "ACOG更新更年期症状管理指南，支持早期激素治疗，扩展既往建议，并与跨专科共识一致，涉及血管舒缩症状等管理。",
+      "reviewStatus": "accepted",
+      "lowPriority": false
+    }
+  ]
+}

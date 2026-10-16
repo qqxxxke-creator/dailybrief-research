@@ -1,0 +1,271 @@
+{
+  "hero_headline": "ACOG 更新绝经激素治疗指南，支持绝经早期启用激素治疗",
+  "daily_overview": "今日妇产科要闻以指南更新为主线：美国妇产科医师学会（ACOG）发布更新版绝经激素治疗指南，主张在绝经早期启用激素治疗，并称其扩展了既往建议、与多学科共识趋于一致，对绝经门诊的处方决策具有直接影响。手术前沿与国内外妇产科动态两个方向在过去24小时内无符合入选标准的更新。",
+  "tech_briefs": [
+    {
+      "title": "ACOG Guideline Backs Early Hormone Therapy for Menopause Symptoms",
+      "url": "https://www.medpagetoday.com/obgyn/menopause/123457",
+      "source": "MedPage Today",
+      "summary": "美国妇产科医师学会（ACOG）更新绝经激素治疗指南，支持绝经早期启用激素治疗，称其扩展了既往建议并与多学科共识趋于一致。原文摘要未说明与既往建议的具体差异，需查阅原文确认适用人群与疗程，影响绝经门诊处方决策。",
+      "importance": 8
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "绝经激素治疗再次成为指南焦点，临床落地前建议核对原文中适用人群、启动时机与疗程的具体条款。",
+  "keywords": [
+    "ACOG",
+    "绝经激素治疗",
+    "指南更新",
+    "绝经管理",
+    "早期干预",
+    "多学科共识",
+    "女性生殖健康"
+  ],
+  "research": {
+    "generatedAt": "2026-10-16T22:59:09.243Z",
+    "dataAsOf": "2026-10-16T22:59:09.243Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及改进TCGA框架：靶向下一代测序在解决子宫内膜癌诊断模糊中的关键作用——系统性综述、卵巢癌中的循环miRNAs与多变量生物标志物特征：系统性综述、Key Components of Prenatal Nutrition Education Interventions to Prevent Gestational Diabetes Mellitus: A Systematic Review and Meta-Analysis.。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42883850",
+        "pmid": "42883850",
+        "doi": "10.3390/ijms27198602",
+        "title": "Refining the TCGA Framework: The Pivotal Role of Targeted Next-Generation Sequencing in Resolving Diagnostic Ambiguities in Endometrial Cancer-Systematic Review.",
+        "abstract": "The classification of endometrial cancer based on histological examination often fails to accurately predict treatment outcomes for patients. The Cancer Genome Atlas (TCGA) has proposed a new molecular model that more accurately identifies the tumour subtype, enabling more precise treatment. However, its implementation in daily practice remains a challenge. This systematic review assesses the key role of targeted next-generation sequencing (NGS) in refining the TCGA model and resolving these diagnostic ambiguities. A systematic review was conducted using the PubMed, Scopus, and Embase databases, focusing on studies published mainly between 2019 and 2025. Original studies and clinical guidelines concerning the evaluation of targeted NGS panels, surrogate markers, and the clinical significance of molecular subtypes in endometrial cancer were analysed. Based on the PRISMA guidelines, 11 relevant studies were used in the review. NGS is of key importance, particularly for the detection of POLE gene mutations that cannot be identified using traditional immunohistochemistry. The studies confirm that NGS accurately classifies tumours that exhibit more than one molecular feature. Although sequencing requires more time and resources, it provides a more objective and reproducible diagnostic model. Furthermore, NGS panels currently allow patients to be divided into four prognostic groups with a 100% survival rate in the POLE subtype. Across independently reported cohorts, concordance between NGS and IHC for MMR/p53 status ranged from roughly 65% to 98% depending on the platform and gene target, and NGS-based germline testing identified Lynch syndrome in 9-10% of patients screened; targeted panels also detected homologous-recombination-repair alterations (e.g., BRCA1/2, ATM, CHEK2) relevant to PARP-inhibitor eligibility. NGS combined with immunohistochemistry enables the most accurate diagnosis of patients with endometrial cancer. This combined approach reduces diagnostic errors and also provides the basis for decisions regarding personalised treatment. The introduction of targeted sequencing as a standard clinical tool allows for greater precision in tumour classification and improves the quality of patient care.",
+        "journal": "International journal of molecular sciences",
+        "authors": [
+          "Amelia Trzcińska",
+          "Anna Kułak",
+          "Ewa Tomaszewska",
+          "Iwona Puzio",
+          "Julia Orzelska",
+          "Julia Piekarz",
+          "Karolina Mazur",
+          "Katarzyna Lachowska",
+          "Krzysztof Kułak",
+          "Natalia Gierulska",
+          "Natalia Picheta",
+          "Patrycja Wójcikiewicz"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-09-25T00:00:00.000Z",
+        "activityAt": "2026-10-16T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42883850/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "改进TCGA框架：靶向下一代测序在解决子宫内膜癌诊断模糊中的关键作用——系统性综述",
+          "researchQuestion": "评估靶向下一代测序（NGS）在改进TCGA模型和解决子宫内膜癌诊断模糊中的关键作用。",
+          "studyDesign": "系统性综述；遵循PRISMA，检索PubMed、Scopus、Embase，主要关注2019年至2025年发表的研究，最终纳入11项相关研究。",
+          "populationAndSample": "子宫内膜癌相关研究；纳入11项相关研究（包括原始研究和临床指南），主要发表于2019年至2025年。摘要未报告患者总样本量。",
+          "methods": "基于PRISMA的系统性综述；检索PubMed、Scopus、Embase；分析关于靶向NGS panel、替代标志物和子宫内膜癌分子亚型临床意义的原始研究和临床指南。",
+          "keyResults": "NGS在检测传统免疫组化（IHC）无法识别的POLE基因突变方面具有关键重要性；研究证实NGS可准确分类具有一种以上分子特征的肿瘤。测序需要更多时间和资源，但提供更客观、可重复的诊断模型。目前NGS panel可将患者分为四个预后组，POLE亚型生存率为100%。在独立报告的队列中，NGS与IHC对MMR/p53状态的一致性约为65%至98%，取决于平台和基因靶点；基于NGS的胚系检测在受筛查患者中识别出Lynch综合征的比例为9-10%；靶向panel还检出与PARP抑制剂资格相关的同源重组修复（HRR）改变（如BRCA1/2、ATM、CHEK2）。NGS联合IHC可实现最准确的子宫内膜癌诊断。",
+          "limitations": "摘要未报告该系统性综述的具体局限性；仅提及TCGA模型在日常实践中实施仍具挑战，且测序需要更多时间和资源。摘要未报告纳入研究的偏倚风险评价结果、证据分级或其他系统性评价局限性。",
+          "clinicalInterpretation": "摘要结论认为，NGS联合免疫组化可实现最准确的子宫内膜癌诊断，减少诊断错误，并为个体化治疗决策提供依据；摘要认为将靶向测序引入作为标准临床工具可提高肿瘤分类精确性和患者照护质量。此为该综述结论，摘要未报告指南推荐或具体实施路径。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "89351086ac9134263b8af255c59833c401501c74e9f406e89df4cbd14dfd3f3b"
+      },
+      {
+        "id": "pmid:42884066",
+        "pmid": "42884066",
+        "doi": "10.3390/ijms27198823",
+        "title": "Circulating miRNAs and Multivariate Biomarker Signatures in Ovarian Cancer: A Systematic Review.",
+        "abstract": "Ovarian cancer (OC) is the most lethal gynecological malignancy, largely because non-specific symptoms contribute to advanced-stage diagnosis and poor prognosis, underscoring the need for improved non-invasive biomarkers. Circulating microRNAs (c-miRNAs) have emerged as promising candidates for OC detection, risk stratification, prognosis, and treatment monitoring. This systematic review, prospectively registered in PROSPERO (CRD420251230898), evaluated the diagnostic and prognostic performance of c-miRNAs and miRNA-based multivariate signatures. MEDLINE/PubMed, Scopus, and CENTRAL were searched from inception to 30 May 2026. Eligible studies assessed c-miRNAs in serum, plasma, whole blood, or extracellular vesicle fractions from women with confirmed or suspected OC including studies using prediagnostic samples from women subsequently diagnosed with OC. Records were screened, data extracted, and risk of bias evaluated according to the type of result using QUADAS-2 for diagnostic accuracy, QUIPS for prognostic-factor associations, and PROBAST for multivariable prediction models. Of 697 records identified, 91 publications met the inclusion criteria. Most studies used case-control or observational designs and analysed serum or plasma samples. Single c-miRNAs generally showed moderate diagnostic accuracy, whereas multivariate miRNA panels and multimodal models incorporating CA-125 or HE4 generally reported higher AUC values, including in some early-stage cohorts. Frequently reported candidates included members of the miR-200 family, miR-21, miR-1246, miR-125b, miR-145, miR-205, and miR-130a. Prognostic studies associated c-miRNAs with survival, recurrence, treatment response, and chemoresistance, although findings were more heterogeneous than diagnostic findings. Risk-of-bias concerns were common, particularly for patient selection in diagnostic studies, confounding in prognostic-factor analyses, and statistical analysis in prediction-model studies. Overall, c-miRNAs represent promising non-invasive biomarkers for OC, particularly when integrated into multivariate or multimodal models. However, methodological heterogeneity, small cohort sizes, limited external validation, and inconsistent reporting currently restrict clinical translation. Future studies should prioritize standardized pre-analytical and analytical workflows, adequately powered prospective cohorts, and independent multicenter validation.",
+        "journal": "International journal of molecular sciences",
+        "authors": [
+          "Ana Vieira",
+          "Christos Papaneophytou",
+          "Dimitra Dionysiou",
+          "Fátima Vaz",
+          "Ioannis Gallos",
+          "Jonathan Krell",
+          "Karen Ayache",
+          "Myrtani Pieri",
+          "Paula Cunnea",
+          "Paula M Mendes",
+          "Pushpa Patel",
+          "Siobhan Brushett",
+          "Sofia Fragoso"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-02T00:00:00.000Z",
+        "activityAt": "2026-10-16T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42884066/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "卵巢癌中的循环miRNAs与多变量生物标志物特征：系统性综述",
+          "researchQuestion": "评估循环microRNAs（c-miRNAs）及基于miRNA的多变量特征在卵巢癌中的诊断和预后性能。",
+          "studyDesign": "系统性综述；前瞻性注册于PROSPERO（CRD420251230898）。",
+          "populationAndSample": "确诊或疑似卵巢癌女性的血清、血浆、全血或细胞外囊泡组分中的c-miRNAs研究，包括随后诊断为卵巢癌的女性的诊断前样本；共91篇符合纳入标准的出版物。摘要未报告患者总样本量。",
+          "methods": "检索MEDLINE/PubMed、Scopus和CENTRAL（从建库至2026年5月30日）；筛选记录、提取数据，并根据结果类型进行偏倚风险评价：诊断准确性用QUADAS-2，预后因素关联用QUIPS，多变量预测模型用PROBAST。",
+          "keyResults": "697条记录中，91篇出版物符合纳入标准；多数研究为病例对照或观察性设计，分析血清或血浆样本。单一c-miRNAs通常显示中等诊断准确性，而多变量miRNA panel及纳入CA-125或HE4的多模态模型通常报告较高的AUC值，包括在一些早期队列中。频繁报道的候选包括miR-200家族、miR-21、miR-1246、miR-125b、miR-145、miR-205和miR-130a。预后研究将c-miRNAs与生存、复发、治疗反应和化疗耐药相关联，但结果比诊断性发现更具异质性。偏倚风险担忧常见，尤其是诊断研究中的患者选择、预后因素分析中的混杂以及预测模型研究中的统计分析。",
+          "limitations": "摘要报告的方法学异质性、队列规模小、外部验证有限和报告不一致目前限制临床转化。偏倚风险担忧常见，尤其涉及诊断研究中的患者选择、预后因素分析中的混杂以及预测模型研究中的统计分析。",
+          "clinicalInterpretation": "摘要认为c-miRNAs是有前景的非侵入性卵巢癌生物标志物，尤其在整合入多变量或多模态模型时；但方法学异质性、小队列、有限外部验证和报告不一致限制当前临床转化。摘要提出未来研究应优先标准化分析前和分析流程、有足够把握度的前瞻性队列及独立多中心验证。此为该综述对未来研究的建议。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "7bb86fe5628ec670e52d54742270df76c6b721d93a260ba42659df7c16d8c69d"
+      },
+      {
+        "id": "pmid:42884754",
+        "pmid": "42884754",
+        "doi": "10.3390/nu18193303",
+        "title": "Key Components of Prenatal Nutrition Education Interventions to Prevent Gestational Diabetes Mellitus: A Systematic Review and Meta-Analysis.",
+        "abstract": "Objective: To investigate the association between key components of prenatal nutrition education interventions and the prevention of GDM in pregnant women. Methods : We systematically searched PubMed, Web of Science, Embase, and the Cochrane Central Register of Controlled Trials from database inception to 18 January 2026, using search terms including \"gestational diabetes mellitus,\" \"glycemic control,\" \"pregnancy,\" and \"nutrition interventions\"; only English-language publications were eligible. Eligible studies were randomized controlled trials (RCTs) assessing prenatal nutrition education interventions and reporting gestational diabetes mellitus (GDM) incidence. Of the initial 4961 retrieved records, 29 RCTs fulfilled the selection criteria. In accordance with PRISMA guidelines, two reviewers independently performed data extraction and risk-of-bias assessment using the Cochrane RoB 2.0 tool. Given expected clinical heterogeneity, pooled risk ratios (RRs) were synthesized via a random-effects model. The primary outcome was GDM incidence, expressed as a pooled RR comparing nutrition education intervention groups with control groups. Results : A total of 29 RCTs comprising 17,937 pregnant women were included. The pooled analysis showed that prenatal nutrition education interventions were associated with a statistically significant reduction in GDM risk (pooled RR, 0.88 [95% CI, 0.79-0.98]; p = 0.02). In absolute terms, the GDM incidence was 16.01% in the intervention group vs. 17.06% in the control group. Moderate between-study heterogeneity was observed ( I 2 = 51.1%; p for heterogeneity < 0.001), largely driven by variations in dietary protocols and intervention fidelity. Conclusions : In this meta-analysis of 29 RCTs, prenatal nutrition education was associated with a significantly lower GDM risk. Interventions grounded in nutritional theory, delivered in hospital settings, and achieving high fidelity were associated with the largest reductions in risk; delivery by healthcare professionals, high individualization, and balanced dietary content showed favorable but statistically nonsignificant trends. These findings support the systematic adoption of these core components in routine antenatal care to mitigate the GDM burden.",
+        "journal": "Nutrients",
+        "authors": [
+          "Huanling Yu",
+          "Min Gao",
+          "Shanshan Cui",
+          "Xiaxia Cai",
+          "Yadi Zhang",
+          "Yulu Zhang",
+          "Yunqi Yang",
+          "Zixuan Liu"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-08T00:00:00.000Z",
+        "activityAt": "2026-10-16T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42884754/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42884715",
+        "pmid": "42884715",
+        "doi": "10.3390/nu18193264",
+        "title": "''Not a Universal Effect'': Polyunsaturated Fatty Acids and Cognition from Pregnancy to Adolescence-A Narrative Review and Nutritional Guidance for a Mediterranean Population.",
+        "abstract": "Polyunsaturated fatty acids (PUFAs), particularly docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA), are an important class of bioactive lipid mediators, essential for brain development from gestation through adolescence. Yet human studies evaluating the benefits of PUFAs for cognition remain inconsistent. This narrative review synthesizes studies from PubMed, Scopus, and Google Scholar examining PUFA intake, status, and supplementation in relation to cognitive and neurodevelopmental outcomes. It uses a thematic approach rather than the systematic search and screening protocol of a systematic review. This review also discusses the genetic determinants of PUFA metabolism and their association with neurodevelopmental outcomes, in addition to nutritional recommendations for Lebanon, a Mediterranean country. Animal models consistently show neuroprotective and anti-inflammatory effects of omega-3 PUFAs during critical windows of brain development. However, evidence from human studies evaluating the cognitive benefits of PUFAs remains limited and inconsistent, with more pronounced benefits in specific populations with low baseline PUFA status, learning difficulties, ADHD, or preterm birth. Genetic variation in genes involved in PUFA metabolism such as FADS1, FADS2, and ELOVL2/5 affects the capacity to synthesize long-chain PUFAs from dietary precursors, helping explain variability in response to omega-3 supplementation. Lebanon's traditional Mediterranean diet already supplies PUFAs and MUFAs; the real challenge is improving adherence to it through nutrition education and policy.",
+        "journal": "Nutrients",
+        "authors": [
+          "Celine Mrad",
+          "Elissar El-Hayek",
+          "Marc Bouji",
+          "Marguerita Akiki",
+          "Marie-Joelle Chbat",
+          "Rita Keyrouz",
+          "Yonna Sacre"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-03T00:00:00.000Z",
+        "activityAt": "2026-10-16T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42884715/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 3.75,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 1
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42881679",
+        "pmid": "42881679",
+        "doi": "10.3390/healthcare14193241",
+        "title": "Adolescent Endometriosis: From Clinical Management to an Early Recognition and Prevention-Oriented Paradigm-A Narrative Review.",
+        "abstract": "BACKGROUND: Adolescent endometriosis remains underrecognized, although symptoms often begin after menarche and diagnosis may be delayed for years. Severe dysmenorrhea, chronic or acyclic pelvic pain, school absenteeism, and impaired functioning should not be normalized. This narrative review synthesizes evidence on adolescent and early-onset endometriosis, focusing on early recognition, non-invasive assessment, individualized care, and function-preserving follow-up.\nMETHODS: A structured narrative review search supported by PubMed/MEDLINE was updated on 9 August 2026, focused mainly on the last decade, with selected older studies included when relevant. Adolescent-specific evidence was prioritized; adult or mixed-age data were used only when applicable to diagnosis, imaging, treatment safety, or pathophysiology. Evidence was synthesized descriptively; no meta-analysis, formal risk-of-bias assessment, or formal evidence grading was performed.\nRESULTS: The synthesis included 58 unique publications. Direct adolescent evidence supports early suspicion in severe dysmenorrhea, refractory or acyclic pain, functional impairment, family history, and obstructive Müllerian anomalies. Imaging may identify endometriomas, deep endometriosis, adhesions, or adenomyosis-related features, but normal imaging does not exclude superficial disease. Biomarkers remain investigational in adolescents. Hormonal treatment is primarily supported for pain, bleeding, and functional outcomes.\nCONCLUSIONS: Early recognition, timely referral, expert imaging when appropriate, individualized treatment, and follow-up centered on functional impact may reduce symptom burden in adolescents. Hormonal suppression is a clinically plausible strategy for symptom control and preservation of functioning, but it is not a proven disease-modifying or fertility-preserving intervention in adolescents.",
+        "journal": "Healthcare (Basel, Switzerland)",
+        "authors": [
+          "Adriana Ioana Gaia-Oltean",
+          "Alexandru Florin-Badea",
+          "Laura-Ancuta Pop",
+          "Miana Gabriela Pop",
+          "Romeo Micu",
+          "Teodora Telecan"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-10-01T00:00:00.000Z",
+        "activityAt": "2026-10-16T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42881679/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      }
+    ]
+  }
+}
