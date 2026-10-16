@@ -1,32 +1,32 @@
 {
-  "hero_headline": "ACOG 更新绝经激素治疗指南，支持绝经早期启用激素治疗",
-  "daily_overview": "今日妇产科要闻以指南更新为主线：美国妇产科医师学会（ACOG）发布更新版绝经激素治疗指南，主张在绝经早期启用激素治疗，并称其扩展了既往建议、与多学科共识趋于一致，对绝经门诊的处方决策具有直接影响。手术前沿与国内外妇产科动态两个方向在过去24小时内无符合入选标准的更新。",
+  "hero_headline": "ACOG 更新指南支持更年期症状早期激素治疗",
+  "daily_overview": "今日妇产科要闻聚焦 ACOG 更年期激素治疗指南更新：新指南扩展既往建议，支持早期激素治疗并与跨学科共识趋同；手术前沿及国内外其他动态暂无合格更新。",
   "tech_briefs": [
     {
       "title": "ACOG Guideline Backs Early Hormone Therapy for Menopause Symptoms",
       "url": "https://www.medpagetoday.com/obgyn/menopause/123457",
       "source": "MedPage Today",
-      "summary": "美国妇产科医师学会（ACOG）更新绝经激素治疗指南，支持绝经早期启用激素治疗，称其扩展了既往建议并与多学科共识趋于一致。原文摘要未说明与既往建议的具体差异，需查阅原文确认适用人群与疗程，影响绝经门诊处方决策。",
-      "importance": 8
+      "summary": "ACOG 发布更新版更年期激素治疗指南，支持对更年期症状早期使用激素治疗，扩展既往建议并与跨学科共识一致。原文摘要未说明具体差异及推荐强度，但该更新可能影响围绝经期激素治疗的启动时机与临床决策。",
+      "importance": 9
     }
   ],
   "finance_briefs": [],
   "politics_briefs": [],
-  "editor_note": "绝经激素治疗再次成为指南焦点，临床落地前建议核对原文中适用人群、启动时机与疗程的具体条款。",
+  "editor_note": "ACOG 此次更新释放出更积极看待激素治疗窗口期的信号，临床医师需关注具体推荐变化后再调整实践。",
   "keywords": [
-    "ACOG",
-    "绝经激素治疗",
-    "指南更新",
-    "绝经管理",
+    "ACOG指南",
+    "更年期",
+    "激素治疗",
+    "围绝经期",
     "早期干预",
-    "多学科共识",
-    "女性生殖健康"
+    "跨学科共识",
+    "临床实践"
   ],
   "research": {
-    "generatedAt": "2026-10-16T22:59:09.243Z",
-    "dataAsOf": "2026-10-16T22:59:09.243Z",
+    "generatedAt": "2026-10-16T23:28:20.207Z",
+    "dataAsOf": "2026-10-16T23:28:20.207Z",
     "isCachedFallback": false,
-    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及改进TCGA框架：靶向下一代测序在解决子宫内膜癌诊断模糊中的关键作用——系统性综述、卵巢癌中的循环miRNAs与多变量生物标志物特征：系统性综述、Key Components of Prenatal Nutrition Education Interventions to Prevent Gestational Diabetes Mellitus: A Systematic Review and Meta-Analysis.。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及改进TCGA框架：靶向下一代测序在解决子宫内膜癌诊断模糊中的关键作用——系统性综述、卵巢癌中的循环miRNAs与多变量生物标志物特征：系统性综述、预防妊娠期糖尿病的产前营养教育干预关键组成部分：系统综述与荟萃分析。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
       {
         "id": "pmid:42883850",
@@ -63,15 +63,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 100,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "改进TCGA框架：靶向下一代测序在解决子宫内膜癌诊断模糊中的关键作用——系统性综述",
           "researchQuestion": "评估靶向下一代测序（NGS）在改进TCGA模型和解决子宫内膜癌诊断模糊中的关键作用。",
@@ -83,7 +74,16 @@
           "clinicalInterpretation": "摘要结论认为，NGS联合免疫组化可实现最准确的子宫内膜癌诊断，减少诊断错误，并为个体化治疗决策提供依据；摘要认为将靶向测序引入作为标准临床工具可提高肿瘤分类精确性和患者照护质量。此为该综述结论，摘要未报告指南推荐或具体实施路径。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "89351086ac9134263b8af255c59833c401501c74e9f406e89df4cbd14dfd3f3b"
+        "summaryInputHash": "89351086ac9134263b8af255c59833c401501c74e9f406e89df4cbd14dfd3f3b",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:42884066",
@@ -121,15 +121,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 100,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "卵巢癌中的循环miRNAs与多变量生物标志物特征：系统性综述",
           "researchQuestion": "评估循环microRNAs（c-miRNAs）及基于miRNA的多变量特征在卵巢癌中的诊断和预后性能。",
@@ -141,7 +132,16 @@
           "clinicalInterpretation": "摘要认为c-miRNAs是有前景的非侵入性卵巢癌生物标志物，尤其在整合入多变量或多模态模型时；但方法学异质性、小队列、有限外部验证和报告不一致限制当前临床转化。摘要提出未来研究应优先标准化分析前和分析流程、有足够把握度的前瞻性队列及独立多中心验证。此为该综述对未来研究的建议。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "7bb86fe5628ec670e52d54742270df76c6b721d93a260ba42659df7c16d8c69d"
+        "summaryInputHash": "7bb86fe5628ec670e52d54742270df76c6b721d93a260ba42659df7c16d8c69d",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:42884754",
@@ -175,6 +175,7 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
+        "summaryStatus": "success",
         "assignedTopicId": "maternal-fetal-medicine",
         "score": {
           "topicMatch": 50,
@@ -184,7 +185,87 @@
           "total": 100,
           "evidenceRank": 1
         },
-        "summaryStatus": "failed"
+        "summaryZh": {
+          "titleZh": "预防妊娠期糖尿病的产前营养教育干预关键组成部分：系统综述与荟萃分析",
+          "researchQuestion": "探讨产前营养教育干预的关键组成部分与孕妇妊娠期糖尿病（GDM）预防之间的关联。",
+          "studyDesign": "系统综述与荟萃分析；纳入评估产前营养教育干预并报告GDM发生率的随机对照试验（RCT）。",
+          "populationAndSample": "检索PubMed、Web of Science、Embase和Cochrane Central Register of Controlled Trials，自建库至2026年1月18日，仅纳入英文出版物；初始检索到4961条记录，最终纳入29项RCT，共17,937名孕妇。",
+          "methods": "依据PRISMA指南，由两名评价者独立进行数据提取，并使用Cochrane RoB 2.0工具评估偏倚风险；因预期存在临床异质性，采用随机效应模型合并风险比（RR）；主要结局为GDM发生率，以营养教育干预组与对照组的合并RR表示。",
+          "keyResults": "29项RCT共17,937名孕妇。合并分析显示，产前营养教育干预与GDM风险显著降低相关（合并RR 0.88[95%CI 0.79-0.98]；p=0.02）；绝对发生率干预组为16.01%，对照组为17.06%。观察到中等程度的研究间异质性（I²=51.1%；异质性p<0.001），主要来源于饮食方案和干预保真度的差异。以营养理论为基础、在医院环境中实施且保真度高的干预与最大风险降低相关；由医疗专业人员实施、高度个体化和均衡饮食内容显示有利但无统计学显著性的趋势。",
+          "limitations": "摘要未报告专门的局限性讨论；报告了中等程度异质性（I²=51.1%；异质性p<0.001），主要来源于饮食方案和干预保真度的差异。部分组成部分（由医疗专业人员实施、高度个体化、均衡饮食内容）仅显示无统计学显著性的趋势。",
+          "clinicalInterpretation": "该荟萃分析提示产前营养教育干预与GDM风险降低相关，属于汇总关联而非因果证明。摘要中作者认为这些核心组成部分支持在常规产前保健中系统采用以减轻GDM负担；这是作者基于该分析的结论，不等同于指南、共识或临床指令。具体应用需结合临床背景和个体情况，摘要未报告相关指南推荐。"
+        },
+        "summaryInputHash": "9b050896eea212e7b13fd3563852f7f9682ca55b31cb2dbd3fb8769a7119f59c"
+      },
+      {
+        "id": "pmid:42886889",
+        "pmid": "42886889",
+        "doi": "10.1200/po-26-00484",
+        "title": "PIK3CA Mutations in Advanced or Recurrent Endometrial Cancer: An Exploratory Molecular Profiling From the Phase II MITO END-3 Study.",
+        "abstract": "PURPOSE: Immunotherapy with chemotherapy significantly improves progression-free survival in advanced endometrial cancer (EC), especially in microsatellite instability-high (MSI-H) cases. Despite this, for recurrent EC in the postimmunotherapy setting, new treatment options are urgently needed. The PI3K pathway is frequently altered in gynecologic cancers, including EC, representing a potential treatment target.\nPATIENTS AND METHODS: In a preplanned translational analysis of the MITO END-3, we retrospectively analyzed the genomic abnormalities of 107 patients with samples eligible for next-generation sequencing (NGS) analysis (FoundationOne CDx) with a focus on PIK3CA mutational status.\nRESULTS: In our analysis, the four most frequently mutated genes were TP53 , PIK3CA , ARID1A , and PTEN. PIK3CA mutations were detected in 51.4% (55/107 patients) of tissue samples. A total of 68 different PIK3CA mutations were observed, of which 64 were considered pathogenic and four were classified as variants of unknown significance, with the co-occurrence of two different pathogenic mutations in 2 patients. The most frequent PIK3CA mutations were found in the kinase domain, most commonly H1047R (11/68) and H1047Y (3/68), and in the helical domain, including E545K (4/68) and E542K (3/68). Notably, 24 different PIK3CA mutations out of 68 reported in MITO END-3 are considered predictive of response to PI3K inhibition with alpelisib according to current literature in breast cancer. Interestingly, PIK3CA mutations were observed in all The Cancer Genome Atlas categories.\nCONCLUSION: In this post hoc analysis from the MITO END-3 trial, we confirmed the high frequency of PIK3CA mutations in EC, establishing this tumor as an ideal candidate for testing of PI3K inhibitors in clinical trials.",
+        "journal": "JCO precision oncology",
+        "authors": [
+          "Alberto Farolfi",
+          "Anna Fagotti",
+          "Anna Passarelli",
+          "Carmela Pisano",
+          "Claudia Andreetta",
+          "Clorinda Schettino",
+          "Daniela Califano",
+          "Daniela Russo",
+          "Domenica Lorusso",
+          "Elena Zafarana",
+          "Francesco Perrone",
+          "Giovanni Luca Scaglione",
+          "Jole Ventriglia",
+          "Laura Arenare",
+          "Maria Chiara Cannizzaro",
+          "Maria Teresa Perri",
+          "Michele Bartoletti",
+          "Rossella De Cecio",
+          "Sabrina Chiara Cecere",
+          "Sandro Pignata",
+          "Saverio Cinieri",
+          "Serafina Mammoliti",
+          "Simona Scalone",
+          "Tommaso Ambrosio",
+          "Ugo De Giorgi",
+          "Valentina Arcangeli"
+        ],
+        "publicationTypes": [
+          "Clinical Trial, Phase II",
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-16T00:00:00.000Z",
+        "activityAt": "2026-10-16T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42886889/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 21.25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 96.25,
+          "evidenceRank": 0.85
+        },
+        "summaryZh": {
+          "titleZh": "晚期或复发性子宫内膜癌中的PIK3CA突变：来自II期MITO END-3研究的探索性分子图谱",
+          "researchQuestion": "在晚期或复发性子宫内膜癌中，探索PIK3CA突变状态及其他基因组异常，评估其作为潜在治疗靶点的价值；摘要强调免疫治疗后复发EC亟需新治疗选择，PI3K通路是潜在靶点。",
+          "studyDesign": "II期MITO END-3研究的预设计转化分析/事后分析（探索性分子图谱），对可进行二代测序（NGS）样本的患者进行回顾性基因组异常分析。",
+          "populationAndSample": "107名具有可进行NGS分析样本的患者；样本采用FoundationOne CDx检测。摘要未报告患者其他基线特征。",
+          "methods": "对MITO END-3研究中107例符合NGS分析条件的患者样本进行回顾性分析，使用FoundationOne CDx进行NGS，重点分析PIK3CA突变状态；摘要未报告具体统计方法。",
+          "keyResults": "最常突变的四个基因是TP53、PIK3CA、ARID1A和PTEN。51.4%（55/107）的组织样本中检测到PIK3CA突变。共观察到68种不同的PIK3CA突变，其中64种被认为是致病性突变，4种被归类为意义未明变异，2名患者同时存在两种不同致病性突变。最常见的PIK3CA突变位于激酶结构域，最常见为H1047R（11/68）和H1047Y（3/68）；螺旋结构域包括E545K（4/68）和E542K（3/68）。值得注意的是，根据当前乳腺癌文献，MITO END-3中报告的68种PIK3CA突变中有24种不同突变被认为可预测对alpelisib（PI3K抑制）的应答。PIK3CA突变在所有TCGA分类中均可见。",
+          "limitations": "摘要未报告专门局限性；该分析为MITO END-3的探索性/事后分析，并以回顾性方式分析基因组异常；关于alpelisib预测性应答的依据来自当前乳腺癌文献。摘要未报告治疗疗效或临床结局。",
+          "clinicalInterpretation": "该分析确认子宫内膜癌中PIK3CA突变频率较高，作者提出该肿瘤是临床试验中测试PI3K抑制剂的理想候选。此结论来自探索性分子分析，不能说明PI3K抑制剂在子宫内膜癌中的疗效或临床获益；摘要未报告相关指南推荐或治疗结局。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "0102e2a98b55e5bb2d678bdf5caf4d57ec705a34bcb83cd8fdbf021b8e715fc4"
       },
       {
         "id": "pmid:42884715",
@@ -216,6 +297,7 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
+        "summaryStatus": "success",
         "assignedTopicId": "maternal-fetal-medicine",
         "score": {
           "topicMatch": 50,
@@ -225,46 +307,17 @@
           "total": 88.75,
           "evidenceRank": 1
         },
-        "summaryStatus": "failed"
-      },
-      {
-        "id": "pmid:42881679",
-        "pmid": "42881679",
-        "doi": "10.3390/healthcare14193241",
-        "title": "Adolescent Endometriosis: From Clinical Management to an Early Recognition and Prevention-Oriented Paradigm-A Narrative Review.",
-        "abstract": "BACKGROUND: Adolescent endometriosis remains underrecognized, although symptoms often begin after menarche and diagnosis may be delayed for years. Severe dysmenorrhea, chronic or acyclic pelvic pain, school absenteeism, and impaired functioning should not be normalized. This narrative review synthesizes evidence on adolescent and early-onset endometriosis, focusing on early recognition, non-invasive assessment, individualized care, and function-preserving follow-up.\nMETHODS: A structured narrative review search supported by PubMed/MEDLINE was updated on 9 August 2026, focused mainly on the last decade, with selected older studies included when relevant. Adolescent-specific evidence was prioritized; adult or mixed-age data were used only when applicable to diagnosis, imaging, treatment safety, or pathophysiology. Evidence was synthesized descriptively; no meta-analysis, formal risk-of-bias assessment, or formal evidence grading was performed.\nRESULTS: The synthesis included 58 unique publications. Direct adolescent evidence supports early suspicion in severe dysmenorrhea, refractory or acyclic pain, functional impairment, family history, and obstructive Müllerian anomalies. Imaging may identify endometriomas, deep endometriosis, adhesions, or adenomyosis-related features, but normal imaging does not exclude superficial disease. Biomarkers remain investigational in adolescents. Hormonal treatment is primarily supported for pain, bleeding, and functional outcomes.\nCONCLUSIONS: Early recognition, timely referral, expert imaging when appropriate, individualized treatment, and follow-up centered on functional impact may reduce symptom burden in adolescents. Hormonal suppression is a clinically plausible strategy for symptom control and preservation of functioning, but it is not a proven disease-modifying or fertility-preserving intervention in adolescents.",
-        "journal": "Healthcare (Basel, Switzerland)",
-        "authors": [
-          "Adriana Ioana Gaia-Oltean",
-          "Alexandru Florin-Badea",
-          "Laura-Ancuta Pop",
-          "Miana Gabriela Pop",
-          "Romeo Micu",
-          "Teodora Telecan"
-        ],
-        "publicationTypes": [
-          "Journal Article",
-          "Review"
-        ],
-        "publishedAt": "2026-10-01T00:00:00.000Z",
-        "activityAt": "2026-10-16T00:00:00.000Z",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42881679/",
-        "sourceKinds": [
-          "pubmed"
-        ],
-        "matchedTopicIds": [
-          "endometriosis-benign-gynecology"
-        ],
-        "assignedTopicId": "endometriosis-benign-gynecology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
+        "summaryZh": {
+          "titleZh": "“并非普遍效应”：从妊娠到青春期的多不饱和脂肪酸与认知——叙述性综述及针对地中海人群的营养指导",
+          "researchQuestion": "综合关于多不饱和脂肪酸（PUFA）摄入、状态和补充与认知及神经发育结局关系的研究，并讨论PUFA代谢的遗传决定因素及其与神经发育结局的关联，以及针对黎巴嫩这一地中海国家的营养建议。",
+          "studyDesign": "叙述性综述，采用主题方法，而非系统综述的系统检索和筛选方案。",
+          "populationAndSample": "综合来自PubMed、Scopus和Google Scholar的研究，涉及PUFA摄入、状态和补充与认知及神经发育结局的关系；摘要未报告纳入研究的数量、样本量或人群特征。另讨论黎巴嫩地中海人群的营养建议。",
+          "methods": "叙述性综述，采用主题方法整合相关研究；摘要未报告系统检索与筛选流程。讨论PUFA代谢相关基因（如FADS1、FADS2、ELOVL2/5）的遗传变异及其与神经发育结局的关联。",
+          "keyResults": "PUFA，尤其是DHA和EPA，是一类重要的生物活性脂质介质，对从妊娠到青春期的大脑发育至关重要。然而，评估PUFA对认知益处的人类研究结果仍不一致。动物模型一致显示，omega-3 PUFA在大脑发育关键窗口期具有神经保护和抗炎作用；但人类研究中评估PUFA认知益处的证据仍有限且不一致，在基线PUFA状态低、学习困难、ADHD或早产等特定人群中益处更明显。参与PUFA代谢的基因如FADS1、FADS2和ELOVL2/5的遗传变异会影响由膳食前体合成长链PUFA的能力，有助于解释omega-3补充反应的变异性。黎巴嫩传统地中海饮食已提供PUFA和MUFA；真正的挑战是通过营养教育和政策提高对其的依从性。",
+          "limitations": "叙述性综述，采用主题方法而非系统综述的系统检索和筛选方案；人类研究中评估PUFA认知益处的证据仍有限且不一致。摘要未报告其他专门局限性。",
+          "clinicalInterpretation": "该叙述性综述强调PUFA对认知并非普遍效应，人类证据有限且不一致，特定人群可能更明显。作者提出黎巴嫩传统地中海饮食已提供PUFA和MUFA，真正的挑战是通过营养教育和政策提高依从性；此为综述作者建议，不等同于指南或临床指令。摘要未报告具体剂量、疗程或个体化临床推荐。"
         },
-        "summaryStatus": "failed"
+        "summaryInputHash": "9d2b4aa763c8c9ecf6771082e10ac401c4a33eb64ab540ee0485f5dbb3491d01"
       }
     ]
   }
