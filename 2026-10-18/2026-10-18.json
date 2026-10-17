@@ -1,0 +1,244 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-10-17T22:11:41.412Z",
+    "dataAsOf": "2026-10-17T22:11:41.412Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及新型小型化机器人辅助手术系统在子宫切除术中的安全性和有效性：一项前瞻性、研究性器械豁免临床试验、局部晚期宫颈癌中MRI定义的宫旁静脉侵犯：与病理宫旁静脉侵犯、治疗前淋巴结转移及生存结局的关联、Impact of the COVID-19 pandemic on diagnosis, treatment, and prognosis of cervical, endometrial, and ovarian cancers: A retrospective cohort study based on the SEER database.。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42886291",
+        "pmid": "42886291",
+        "doi": "10.1007/s11701-026-04078-x",
+        "title": "Safety and efficacy of a novel miniaturized robotic assisted surgery system in hysterectomy: a prospective, investigational device exemption clinical trial.",
+        "abstract": "To evaluate safety and effectiveness of the first-in-kind miniaturized surgical robotic platform, the MIRA Surgical System, in patients presenting with an indication for benign hysterectomy. A prospective, multi-center, multi-operator, non-randomized, consecutively enrolled Investigational Device Exemption Clinical Trial. Five surgeons participated across three types of institutions. Thirty-five patients with a mean age of 46.1 years (range 25-74) and a mean BMI of 29.2 kg/m² (range 21.5-41.5) were operated upon. Indications were menorrhagia (71.4%), fibroids (28.6%), and/or dysmenorrhea (25.7%). A total hysterectomy with uni-/bi-lateral salpingectomy was performed in 80%, a total hysterectomy with uni-/bi-lateral salpingo-oophorectomy in 14.3% and a total hysterectomy without adnexectomy in 5.7%. One subject required conversion to a laparoscopy due to a technical malfunction. Mean estimated blood loss was 52.6 ml (median 50 ml; range 10-200 ml). Specimens weighed from 31.2 g to 384 g (mean 136.1 g). No malignancies were identified. Vaginal-cuff closure was successfully completed in 34 cases, and completed vaginally in the converted case. Mean procedure duration was 141.8 min (median 127; range 73-273). Mean length of stay post-operatively was 5.0 h (median 3.5; range 1.3-29.4 h). Ten adverse events were reported: two intraoperative device-related and eight postoperative procedure-related (Seven Clavien-Dindo Grade-I, three Grade-II; no Grade-III or higher events). All resolved. The MIRA Surgical System demonstrated technical feasibility and an acceptable short-term safety profile in a selected cohort of patients undergoing benign hysterectomy. Evaluation in larger, diverse cohorts, with longer follow-up is required. (Registry: ClinicalTrials.gov, TRN: NCT06028542, Registration date: 16 August 2023.).",
+        "journal": "Journal of robotic surgery",
+        "authors": [
+          "Florence Beck",
+          "Greg Heidrick",
+          "Jean Dubuisson",
+          "Nadia Gomez",
+          "Piet Hinoul",
+          "Ricardo Estape",
+          "Todd Martin",
+          "Ty B Erickson"
+        ],
+        "publicationTypes": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "publishedAt": "2026-10-16T00:00:00.000Z",
+        "activityAt": "2026-10-16T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42886291/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "minimally-invasive-surgery"
+        ],
+        "assignedTopicId": "minimally-invasive-surgery",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 21.25,
+          "clinicalActionability": 7.5,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 0.85
+        },
+        "summaryZh": {
+          "titleZh": "新型小型化机器人辅助手术系统在子宫切除术中的安全性和有效性：一项前瞻性、研究性器械豁免临床试验",
+          "researchQuestion": "评估首创的小型化手术机器人平台MIRA Surgical System在具有良性子宫切除术指征患者中的安全性和有效性。",
+          "studyDesign": "前瞻性、多中心、多术者、非随机、连续入组的医疗器械研究性豁免临床试验；注册号ClinicalTrials.gov NCT06028542，注册日期2023年8月16日。",
+          "populationAndSample": "35例患者，平均年龄46.1岁（范围25-74岁），平均BMI 29.2 kg/m²（范围21.5-41.5 kg/m²）；指征为月经过多（71.4%）、子宫肌瘤（28.6%）和/或痛经（25.7%）；由5名外科医生在3类机构中实施手术。",
+          "methods": "使用MIRA Surgical System行子宫切除术；术式为全子宫切除联合单/双侧输卵管切除（80%）、全子宫切除联合单/双侧输卵管卵巢切除（14.3%）、全子宫切除不伴附件切除（5.7%）。评估包括转为腹腔镜、估计失血量、标本重量、阴道残端闭合、手术时间、术后住院时间和不良事件。",
+          "keyResults": "1例因技术故障转为腹腔镜。平均估计失血量52.6 mL（中位数50 mL；范围10-200 mL）。标本重量31.2-384 g（平均136.1 g），未发现恶性肿瘤。34例成功完成阴道残端闭合，转换病例经阴道完成。平均手术时间141.8 min（中位数127；范围73-273）。术后平均住院时间5.0 h（中位数3.5；范围1.3-29.4 h）。报告10例不良事件：2例术中器械相关、8例术后手术相关（Clavien-Dindo I级7例、II级3例；无III级或更高）；均缓解。",
+          "limitations": "摘要报告为经过选择的患者队列；需要在更大、更多样化队列中并延长随访进行评估。",
+          "clinicalInterpretation": "在该经过选择的良性子宫切除术患者队列中，MIRA Surgical System显示技术可行性和可接受的短期安全性；这些结果来自单篇临床试验，需进一步验证，不作为临床指南或指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "a9613de786e72be719c2a93d42be3c3b6f4e7bcf1eb1a722cdf605d04db21d30"
+      },
+      {
+        "id": "pmid:42888363",
+        "pmid": "42888363",
+        "doi": "10.1007/s11604-026-02099-y",
+        "title": "MRI-defined parametrial venous invasion in locally advanced cervical cancer: association with pathological venous invasion, pretreatment lymph node metastasis, and survival outcomes.",
+        "abstract": "PURPOSE: To evaluate MRI-defined parametrial venous invasion (mrPMVI) for detecting pathological parametrial venous invasion (pPMVI) and its associations with pretreatment lymph node metastasis (LNM) and survival outcomes in locally advanced cervical cancer.\nMATERIALS AND METHODS: This retrospective study included 42 patients with cervical cancer with parametrial invasion on MRI or histopathology, corresponding to International Federation of Gynecology and Obstetrics 2018 stage IIB or higher disease. Fifteen patients underwent surgery without preoperative therapy and were included in the pathological validation analysis. Image interpretation was primarily based on T2-weighted and diffusion-weighted imaging. Two radiologists independently assessed mrPMVI using a five-point scoring system. Scores ≥ 3 were predefined as mrPMVI-positive. Diagnostic performance for pPMVI and interobserver agreement were evaluated. Univariable logistic and Cox regression analyses were performed for pretreatment LNM and survival outcomes, respectively.\nRESULTS: pPMVI was present in 10 of 15 patients. The five-point mrPMVI score showed an area under the receiver operating characteristic curve of 0.87 (95% confidence interval [CI], 0.60-0.98) for detecting pPMVI. The predefined threshold (≥ 3) yielded 30.0% sensitivity and 100% specificity. Interobserver agreement for the five-point mrPMVI score was substantial (linearly weighted κ = 0.75). mrPMVI positivity was associated with pretreatment LNM (odds ratio = 4.00, 95% CI: 1.05-15.26, p = 0.042). During a median follow-up of 24.0 months, 16 patients experienced disease progression and 10 died. mrPMVI positivity was associated with shorter progression-free survival (hazard ratio = 34.25, 95% CI: 4.35-269.91; p < 0.001) and overall survival (hazard ratio = 10.16; 95% CI: 1.28-80.61, p = 0.028).\nCONCLUSION: The mrPMVI score showed potential for identifying pPMVI, although the predefined threshold was highly specific but insensitive. mrPMVI positivity was associated with pretreatment LNM and survival outcomes, suggesting potential complementary value for risk characterization in locally advanced cervical cancer.",
+        "journal": "Japanese journal of radiology",
+        "authors": [
+          "Arata Oose",
+          "Fumiko Kanzaki",
+          "Fumitaka Ejima",
+          "Hiroaki Kobayashi",
+          "Hirokazu Otsuka",
+          "Ikumi Kitazono",
+          "Kiyohisa Kamimura",
+          "Koji Takumi",
+          "Ryoji Yamagishi",
+          "Shintaro Yanazume",
+          "Takashi Yoshiura",
+          "Yuki Satake"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-17T00:00:00.000Z",
+        "activityAt": "2026-10-17T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42888363/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "局部晚期宫颈癌中MRI定义的宫旁静脉侵犯：与病理宫旁静脉侵犯、治疗前淋巴结转移及生存结局的关联",
+          "researchQuestion": "评估MRI定义的宫旁静脉侵犯（mrPMVI）检测病理宫旁静脉侵犯（pPMVI）的能力，并探讨其与治疗前淋巴结转移（LNM）及生存结局的关联。",
+          "studyDesign": "回顾性研究。",
+          "populationAndSample": "42例宫颈癌患者，MRI或组织病理学显示宫旁侵犯，对应FIGO 2018 IIB期或更高；其中15例未接受术前治疗直接手术，纳入病理验证分析。",
+          "methods": "图像判读主要基于T2加权和扩散加权成像；两名放射科医生独立使用五分评分系统评估mrPMVI，预先定义≥3分为mrPMVI阳性。评估对pPMVI的诊断表现和观察者间一致性；分别采用单变量logistic回归和Cox回归分析治疗前LNM和生存结局。",
+          "keyResults": "15例中10例存在pPMVI。五分mrPMVI评分检测pPMVI的ROC曲线下面积0.87（95% CI 0.60-0.98）。预设阈值（≥3分）敏感性30.0%、特异性100%。观察者间一致性为线性加权κ=0.75。mrPMVI阳性与治疗前LNM相关（OR=4.00，95% CI 1.05-15.26，p=0.042）。中位随访24.0个月期间，16例疾病进展、10例死亡。mrPMVI阳性与较短无进展生存期相关（HR=34.25，95% CI 4.35-269.91；p<0.001）和较短总生存期相关（HR=10.16；95% CI 1.28-80.61，p=0.028）。",
+          "limitations": "摘要报告为回顾性研究，病理验证分析仅15例；预设阈值高度特异但不敏感。",
+          "clinicalInterpretation": "mrPMVI评分显示出识别pPMVI的潜力，但预设阈值高度特异且不敏感；mrPMVI阳性与治疗前LNM和生存结局相关，提示可能对局部晚期宫颈癌风险分层具有补充价值。上述为关联性结果，需进一步验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "df1b0e1dc34b850fd2d2e4708e1bb0f313493161076760ec57c63c997d62385b"
+      },
+      {
+        "id": "pmid:42888541",
+        "pmid": "42888541",
+        "doi": "10.1097/md.0000000000051038",
+        "title": "Impact of the COVID-19 pandemic on diagnosis, treatment, and prognosis of cervical, endometrial, and ovarian cancers: A retrospective cohort study based on the SEER database.",
+        "abstract": "The coronavirus disease 2019 pandemic disrupted healthcare systems worldwide, but population-based evidence on its effects on gynecologic cancer care remains limited. We evaluated changes in diagnosis, disease presentation, treatment timeliness, and cancer-specific survival (CSS) for cervical, endometrial, and ovarian cancers during the pandemic. In this retrospective cohort study, Surveillance, Epidemiology, and End Results (SEER)-22 data were used to evaluate trends in newly diagnosed cases from 2017 to 2021, and SEER-17 data to compare patients diagnosed in 2020 (pandemic cohort) with those diagnosed in 2018 to 2019 (pre-pandemic cohort). Eligible patients were aged 20 to 85 years with primary cervical, endometrial, or ovarian cancer. Demographic characteristics, disease presentation, time from diagnosis to treatment initiation, and CSS were compared using ordinal logistic regression, logistic regression, and Kaplan-Meier/log-rank analyses. The cohorts comprised 7997 patients with cervical, 36,151 with endometrial, and 11,508 with ovarian cancer; median follow-up in the pandemic cohort was 27 to 28 months. In SEER-22, new diagnoses in 2020 decreased by 8.7%, 5.5%, and 6.5% for cervical, endometrial, and ovarian cancers versus 2019. Diagnosis in 2020 was associated with more advanced-stage endometrial cancer (odds ratio, 1.06; 95% confidence interval [CI], 1.01-1.12; P = .027) but not cervical or ovarian cancer. Median time from diagnosis to treatment was shorter in the pandemic cohort for cervical (28 vs 30 days; P = .019) and endometrial cancer (28 vs 31 days; P < .001), but not for ovarian cancer (6 vs 4 days; P = .127). The pandemic cohort had borderline worse CSS for cervical cancer (hazard ratio [HR], 1.11; 95% CI, 1.00-1.24; P = .050) and worse CSS for endometrial cancer (HR, 1.10; 95% CI, 1.02-1.18; P = .009), but not ovarian cancer (HR, 1.05; 95% CI, 0.98-1.14; P = .185); 18-month CSS rates (pre-pandemic vs pandemic) were 86.6% vs 84.5%, 93.1% vs 92.6%, and 82.8% vs 83.0%. The pandemic period was associated with fewer recorded diagnoses of the 3 major gynecologic cancers, a modest shift toward more advanced-stage endometrial cancer, and worse short-term CSS for cervical and endometrial cancers. The reduction in recorded diagnoses may reflect disrupted screening and delayed presentation rather than a true decline in cancer occurrence.",
+        "journal": "Medicine",
+        "authors": [
+          "Chunyan Tan",
+          "Huibo Dai",
+          "Ning Xu",
+          "Xingya Liu",
+          "Xinli Zhong",
+          "Yanqiu Liu"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-16T00:00:00.000Z",
+        "activityAt": "2026-10-17T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42888541/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42888604",
+        "pmid": "42888604",
+        "doi": "10.1097/md.0000000000051082",
+        "title": "Bibliometric analysis and visualization of adenomyosis: From 1980-2024.",
+        "abstract": "OBJECTIVES: This bibliometric analysis systematically evaluated the research landscape, emerging trends, and key focus areas in adenomyosis to guide future research directions.\nDESIGN: Performance analysis combined with scientific mapping of global adenomyosis research literature.\nDATA SOURCES: Web of Science Core Collection (1980-2024).\nDATA EXTRACTION AND SYNTHESIS: Articles were manually screened. Bibliometrix (R 4.3.0), VOSviewer, and CiteSpace analyzed productivity, collaboration, citation patterns, and research trends. Derived data and analysis scripts are deposited in the Open Science Framework (OSF) under a citable DOI.\nRESULTS: Among 3100 included publications, China led output (752, 24.26%, full-counted), followed by the United States (414, 13.35%), Japan (350, 11.29%), Italy (215, 6.94%), and South Korea (128, 4.13%). In the 2 adenomyosis-specific corpora, however, the United States ranked first. The US had the highest citations and international collaboration, though international co-authorship among top-producing countries remained low (16.14%). Leading institutions were Fudan University (89), Shandong University (52), and University of Tokyo (49). Top journals by volume: Fertility and Sterility, Human Reproduction, and Journal of Minimally Invasive Gynecology. Research focus shifted from hysterectomy and uterine artery embolization toward high-intensity focused ultrasound (HIFU), and from endothelial nitric oxide synthase/induced adenomyosis toward ectopic endometrium. Eight keyword clusters emerged; the 4 largest (#0 EMT, #1 HIFU, #2 endometrial cancer, #3 pregnancy outcomes) form the present focus. Burst analysis identified \"consensus\" (2020-2024), \"pathogenesis\" (2022-2024), and \"pregnancy outcome\" (2022-2024) as recent and currently active hotspots.\nCONCLUSIONS: Current adenomyosis research centers on ectopic endometrium and EMT in pathogenesis, fertility outcomes, long-term efficacy of HIFU and fertility-sparing surgery, links to endometrial cancer, and adverse pregnancy outcomes. Beyond deepening pathogenesis and pregnancy-outcome research, key future directions include enhancing international collaboration and developing internationally agreed, evidence-based standardized terminology, diagnostic criteria, and classification systems for adenomyosis.",
+        "journal": "Medicine",
+        "authors": [
+          "Chunlei Guo",
+          "Chunying Li",
+          "Liping Zeng",
+          "Qicai Hu",
+          "Ruifang Wu",
+          "Xiuli Sun"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-16T00:00:00.000Z",
+        "activityAt": "2026-10-17T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42888604/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology",
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42888903",
+        "pmid": "42888903",
+        "doi": "10.1002/1878-0261.70351",
+        "title": "Tumour-proximal deep serum proteomics identifies biomarkers associated with ovarian cancer.",
+        "abstract": "Ovarian cancer diagnosis is often delayed due to poorly defined clinical symptoms, underscoring the need for novel biomarkers that enable earlier detection. Protein biomarker discovery in blood samples is analytically challenging using mass spectrometry, as high-abundance proteins can obscure detection of low-abundance biomarkers. Ovarian vein (ovarian) and median cubital vein (peripheral) serum were collected from healthy women or patients with benign or malignant (majority stage I) serous ovarian tumours. Proteograph XT assay was employed as a protein enrichment methodology prior to LC-MS/MS analyses to obtain deeper proteome coverage in these samples. From an initial cohort of 53 samples, we identified 6603 proteins across all samples, including 3467 proteins uniquely identified in ovarian serum. Following exclusion of red blood cell-contaminated samples, differential abundance analysis identified 86 and 101 malignancy-associated protein candidates in ovarian and peripheral samples, respectively. Notably, ANK1, CAND1 and GMPR2 were differentially abundant across both sample types. Using logistic regression with repeated cross-validation and permutation testing, ANK1 demonstrated strong discriminatory performance [area under the curve (AUC) = 0.97] when combined with clinical CA125 measurements. These findings highlight the importance of ovarian vein sampling for enhanced access to tumour-associated proteins and support further validation of these candidate biomarkers for early ovarian cancer detection.",
+        "journal": "Molecular oncology",
+        "authors": [
+          "Clifford Young",
+          "Daniel Pincher",
+          "Darren Lau",
+          "Doug A Brooks",
+          "Leigh Donnellan",
+          "Martin K Oehler",
+          "Nicholas Chappell",
+          "Noor A Lokman",
+          "Parul Mittal",
+          "Peter Hoffmann"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-17T00:00:00.000Z",
+        "activityAt": "2026-10-17T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42888903/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryStatus": "failed"
+      }
+    ]
+  }
+}
