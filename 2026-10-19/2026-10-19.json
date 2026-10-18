@@ -1,0 +1,278 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-10-18T22:59:59.054Z",
+    "dataAsOf": "2026-10-18T22:59:59.054Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及子宫内膜癌与尿失禁的关系：系统综述、深部盆腔子宫内膜异位症的结构化MRI报告：一项随机比较研究中的客观报告质量与外科医生感知的临床实用性、基于近距离放疗的局部放疗改善新诊断转移性宫颈癌生存。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42890221",
+        "pmid": "42890221",
+        "doi": "10.3389/fgwh.2026.1898627",
+        "title": "The relationship between endometrial cancer and urinary incontinence: systematic review.",
+        "abstract": "BACKGROUND: The most common gynecological cancer in industrialized countries is endometrial cancer (EC), whose prevalence is growing and is associated with metabolic syndrome and obesity. Women's quality of life is negatively impacted by the common and upsetting disorder known as urinary incontinence (UI), particularly in postmenopausal and post-surgical populations. Despite plausible biological and iatrogenic connections between EC and UI-including shared risk factors such as obesity and the impact of hysterectomy on pelvic anatomy-the relationship remains inadequately synthesized in the literature.\nOBJECTIVE: The purpose of this systematic review is to summarize the data about the connection between endometrial cancer and incontinence, looking at prevalence, potential etiological mechanisms, and implications for clinical care.\nMETHODS: A comprehensive search for English-language studies published in the last ten years was done using PubMed/MEDLINE, Scopus, Web of Science, and the Cochrane Library. MeSH phrases and keywords associated with urinary incontinence and endometrial cancer were used in the search. Two reviewers used Rayyan software to independently pick studies, extract data, and evaluate quality. Because the studies were so different from one another, a narrative synthesis technique was used.\nRESULTS: Six studies comprising 955 patients and 85 healthcare professionals met inclusion criteria. The collective evidence reveals that UI is a highly prevalent yet often undermanaged consequence of EC and its treatments. Findings demonstrate that lymph node dissection may contribute to urinary symptoms, though not reaching statistical significance. Radiotherapy exhibits paradoxical effects-potentially improving stress UI while contributing to broader pelvic floor dysfunction through radiation-induced fibrosis and measurable alterations in pelvic floor muscle properties. Obesity and age, rather than radiation exposure consistently, become important risk factors on their own.\nCONCLUSION: Due to common risk factors, direct effects of the disease, and damage from therapy, urinary incontinence is a common and clinically important side effect of endometrial cancer and its therapies. As the number of EC survivors keeps rising, addressing UI must become a priority in comprehensive survivorship care. Future efforts should focus on developing validated screening tools, establishing evidence-based management guidelines, and implementing integrated care models.",
+        "journal": "Frontiers in global women's health",
+        "authors": [
+          "Aesha Abdulaziz Alamer",
+          "Alwala'a Saud Alaqeel",
+          "Amjad Saud Alaqil",
+          "Dhiyaa Abdullah Almusaylim",
+          "Feda Mohammed Ali Al Saleh",
+          "Jomana Hussain Alali",
+          "Kayan Munahi Alotaibi",
+          "Khalil Ibrahim Bograin",
+          "Lubna Abdullatif Alnajim",
+          "Majd Khalid Al Dhailan",
+          "Nourah Mashari Alqadri"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-02T00:00:00.000Z",
+        "activityAt": "2026-10-17T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42890221/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "子宫内膜癌与尿失禁的关系：系统综述",
+          "researchQuestion": "总结子宫内膜癌与尿失禁之间关联的数据，包括患病率、潜在病因机制及其对临床照护的意义。",
+          "studyDesign": "系统综述，采用叙述性合成。",
+          "populationAndSample": "纳入6项研究，共955例患者和85名医疗专业人员；研究对象涉及子宫内膜癌及其治疗与尿失禁。",
+          "methods": "检索PubMed/MEDLINE、Scopus、Web of Science和Cochrane Library近十年发表的英文研究，使用与尿失禁和子宫内膜癌相关的MeSH词和关键词；两名评价者使用Rayyan软件独立筛选研究、提取数据并评估质量；因研究间差异较大，采用叙述性合成。",
+          "keyResults": "汇总证据显示，尿失禁是子宫内膜癌及其治疗常见但常管理不足的后果。淋巴结清扫可能促成泌尿症状，但未达统计学显著性。放疗呈现矛盾效应：可能改善压力性尿失禁，又可通过放射性纤维化和盆底肌特性的可测量改变促成更广泛的盆底功能障碍。肥胖和年龄本身成为重要危险因素，而非始终与放疗暴露相关。",
+          "limitations": "摘要未报告明确的偏倚风险评估结果；因研究差异较大采用叙述性合成，摘要未报告定量合并结果。",
+          "clinicalInterpretation": "该综述提示尿失禁在子宫内膜癌幸存者中具有临床重要性；相关关联和机制仍需更高质量研究验证，不能据此形成指南或因果结论。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "d818814a4a9f1b92e0dcbe5ad839f871f581370d24a206dedd23781f9377e45c"
+      },
+      {
+        "id": "pmid:42891704",
+        "pmid": "42891704",
+        "doi": "10.1007/s00261-026-05838-x",
+        "title": "Structured MRI reporting for deep pelvic endometriosis: objective report quality and surgeon-perceived clinical utility in a randomized comparative study.",
+        "abstract": "OBJECTIVES: To compare structured and free-text MRI reporting in terms of objective report quality and surgeon ratings of perceived clinical utility in suspected deep pelvic endometriosis.\nMATERIALS AND METHODS: In this single-center randomized reader study, 20 radiology residents were assigned to free-text or structured reporting. Five residents became unavailable before report generation and provided no outcome data. The remaining 15 readers completed the same 22 pelvic MRI examinations, generating 330 reports: 154 free-text and 176 structured reports. Reports were compared with an imaging reference standard established by two pelvic radiologists through independent review and consensus adjudication. The primary endpoint was clinically weighted completeness. Secondary endpoints included unweighted completeness, explicit negative discrepancies relative to the expert imaging reference, positive findings unsupported by the expert imaging reference, and reporting time. Objective outcomes were analyzed using mixed-effects models or Poisson generalized estimating equations. In an exploratory paired assessment, two expert gynecologic surgeons evaluated 44 reports, comprising one free-text and one structured report for each MRI examination.\nRESULTS: Structured reporting was associated with an 8.1%-point increase in completeness compared with free-text reporting (95% CI, 4.1-12.1; p < 0.001) and a 5.6%-point increase in clinically weighted completeness (95% CI, 1.3-10.0; p = 0.011). Reporting time was 4.52 min longer with structured reporting (95% CI, 3.05-5.99; p < 0.001). Structured reporting was also associated with more explicit negative discrepancies relative to the expert imaging reference (rate ratio, 2.94; 95% CI, 1.73-4.98; p < 0.001). These discrepancies were mainly explicit compartment-based negative statements. In the exploratory surgeon assessment, structured reports received higher ratings for perceived completeness, usefulness for clinical decision-making, and adequacy to clinical needs, whereas clarity ratings were similar between formats.\nCONCLUSION: Structured MRI reporting was associated with higher objective completeness and, in an exploratory assessment, higher surgeon ratings for several dimensions of perceived clinical utility. These findings should be balanced against longer reporting time and more explicit negative discrepancies relative to the expert imaging reference.",
+        "journal": "Abdominal radiology (New York)",
+        "authors": [
+          "Adrien Walch",
+          "Aline Host",
+          "Amandine Streiff",
+          "Baptiste Labetowiez",
+          "Catherine Roy",
+          "Clement Xu",
+          "Eloise Sossavi",
+          "Gaspard Ludes",
+          "Julien Messie",
+          "Louis Burgart",
+          "Ludivine Tochon",
+          "Mariem Eleuch",
+          "Melanie Ribeiro",
+          "Pierre Blonde",
+          "Rodolphe Jochem",
+          "Sebastien Molière",
+          "Thibaut Moerckel",
+          "Valentin Ance",
+          "Valentin Bernard",
+          "Victor Gabriele"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-17T00:00:00.000Z",
+        "activityAt": "2026-10-18T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42891704/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "深部盆腔子宫内膜异位症的结构化MRI报告：一项随机比较研究中的客观报告质量与外科医生感知的临床实用性",
+          "researchQuestion": "在疑似深部盆腔子宫内膜异位症中，比较结构化MRI报告与自由文本MRI报告的客观报告质量，以及外科医生对感知临床实用性的评分。",
+          "studyDesign": "单中心随机阅读者研究；另进行探索性配对评估。",
+          "populationAndSample": "20名放射科住院医师被分配至自由文本或结构化报告组；5名在生成报告前退出且未提供结局数据；其余15名阅读者完成同一22例盆腔MRI检查，共生成330份报告（154份自由文本、176份结构化）。由两名盆腔放射科医师独立审阅并共识裁定建立影像参考标准；两名妇科外科专家在探索性配对评估中评价44份报告（每例MRI各1份自由文本和1份结构化报告）。",
+          "methods": "主要终点为临床加权完整性；次要终点包括非加权完整性、相对专家影像参考的明确阴性差异、专家影像参考不支持的阳性发现及报告时间。客观结局采用混合效应模型或Poisson广义估计方程分析；外科医生评估为探索性配对评估。",
+          "keyResults": "结构化报告与完整性提高8.1个百分点相关（95%CI 4.1–12.1；p<0.001），与临床加权完整性提高5.6个百分点相关（95%CI 1.3–10.0；p=0.011）。结构化报告的报告时间延长4.52分钟（95%CI 3.05–5.99；p<0.001）。结构化报告相对专家影像参考有更多明确阴性差异（率比2.94；95%CI 1.73–4.98；p<0.001），这些差异主要为明确的按腔室阴性陈述。摘要未报告“专家影像参考不支持的阳性发现”这一终点的结果。探索性外科医生评估中，结构化报告在感知完整性、临床决策有用性和满足临床需求充分性方面评分更高，而清晰度评分两种格式相似。",
+          "limitations": "单中心随机阅读者研究；5名住院医师未提供结局数据；外科医生评估为探索性，仅由2名外科专家评价44份报告；结构化报告耗时更长，且相对专家影像参考有更多明确阴性差异。",
+          "clinicalInterpretation": "结构化MRI报告可能提高报告完整性和外科医生感知的部分临床实用性，但需权衡更长报告时间及更多明确阴性差异；不能据此推断患者结局改善或作为强制性报告标准。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "0f752035fd6c19186e652ae73e438116e932fcd4453020bba463529c4c8c8685"
+      },
+      {
+        "id": "pmid:42891728",
+        "pmid": "42891728",
+        "doi": "10.1007/s10585-026-10438-6",
+        "title": "Brachytherapy-based local radiotherapy improves survival in newly diagnosed metastatic cervical cancer.",
+        "abstract": "To explore if adding local radiotherapy to systemic treatment could enhance the survival of newly-diagnosed stage IVB cervical cancer (CC) patients and compare the impact of different radiotherapy strategies on survival. We included patients diagnosed from 2004 to 2022. Local radiotherapy strategies included external beam radiotherapy (EBRT) and/or brachytherapy (BT). Multivariable Cox regression models were used to assess the link between treatment modality and survival. A total of 4257 patients were involved, all receiving chemotherapy. There were 1280 (30.1%), 2,089 (49.1%), 759 (17.8%), and 129 (3.0%) patients who received chemotherapy alone, chemotherapy plus EBRT, chemotherapy plus EBRT and BT, and chemotherapy plus BT. Using the chemotherapy plus EBRT and BT group as a reference, those on chemotherapy alone had a higher risk of death (cancer-specific survival [CSS]: hazard ratio [HR] 2.037, P < 0.001; overall survival [OS]: HR of 1.992, P < 0.001). Similarly, chemotherapy plus EBRT patients also had an increased risk (CSS: HR 1.576, P < 0.001; OS: HR 1.582, P < 0.001). However, there were no significant differences in CSS (HR 1.082, P = 0.504) and OS (HR 1.083, P = 0.476) between the chemotherapy plus BT group and the reference group. Sensitivity analyses indicated that chemotherapy plus BT and chemotherapy plus EBRT and BT improved survival across subgroups. Our study reveals that adding any form of radiotherapy to chemotherapy for stage IVB CC patients improves survival. BT, alone or combined with EBRT, offers the best outcomes, while EBRT alone has a limited advantage over chemotherapy alone. BT-based local treatment may serve as an effective local treatment option for stage IVB CC.",
+        "journal": "Clinical & experimental metastasis",
+        "authors": [
+          "Juan Zhou",
+          "Li-Ying Chen",
+          "Qing-Xiang Wang",
+          "San-Gang Wu"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-17T00:00:00.000Z",
+        "activityAt": "2026-10-18T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42891728/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "基于近距离放疗的局部放疗改善新诊断转移性宫颈癌生存",
+          "researchQuestion": "探讨在全身治疗基础上加局部放疗能否改善新诊断ⅣB期宫颈癌患者的生存，并比较不同放疗策略对生存的影响。",
+          "studyDesign": "摘要未明确研究设计类型；为纳入2004—2022年诊断患者的比较性生存分析。",
+          "populationAndSample": "共4257例新诊断ⅣB期宫颈癌患者，均接受化疗。",
+          "methods": "局部放疗策略包括外照射放疗（EBRT）和/或近距离放疗（BT）。采用多变量Cox回归模型评估治疗方式与生存的关联，并进行敏感性分析。",
+          "keyResults": "4257例中，单纯化疗1280例（30.1%）、化疗+EBRT 2089例（49.1%）、化疗+EBRT+BT 759例（17.8%）、化疗+BT 129例（3.0%）。以化疗+EBRT+BT组为参照，单纯化疗组死亡风险更高（癌症特异性生存[CSS]：HR 2.037，P<0.001；总生存[OS]：HR 1.992，P<0.001）；化疗+EBRT组风险亦升高（CSS：HR 1.576，P<0.001；OS：HR 1.582，P<0.001）。化疗+BT组与参照组在CSS（HR 1.082，P=0.504）和OS（HR 1.083，P=0.476）上无显著差异。敏感性分析提示，化疗+BT和化疗+EBRT+BT在各亚组中改善生存。",
+          "limitations": "摘要未报告明确的局限性；为治疗组间比较的生存分析，摘要未报告随机化、具体混杂调整、随访完整性及不良反应信息。",
+          "clinicalInterpretation": "该比较性生存分析提示，在ⅣB期宫颈癌化疗基础上加任何形式放疗与生存改善相关，其中BT单独或联合EBRT结局最佳，而单独EBRT相对单纯化疗优势有限；但不能从摘要推断因果关系或据此形成指南。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "52c19d261f4853ce8f2d460af85c6553d33afcc23545258ab5fb5ad49bfda59a"
+      },
+      {
+        "id": "pmid:42891872",
+        "pmid": "42891872",
+        "doi": "10.1007/s10555-026-10385-4",
+        "title": "Histotype and molecular subtype integration in epithelial ovarian cancer: implications for targeted treatment.",
+        "abstract": "Ovarian cancer remains a major global health burden among women, ranking eighth in both cancer incidence and cancer mortality worldwide in 2024, with an estimated 330,731 new cases and 203,850 deaths. Epithelial ovarian cancer (EOC) accounts for more than 90% of ovarian cancers and comprises five major histological subtypes with distinct biological behavior, molecular alterations, and therapeutic vulnerabilities. However, most EOC histotypes continue to be managed primarily with surgery and platinum-based chemotherapy, underscoring the need to better define histotype-informed molecular targets and precision therapeutic strategies. This review summarizes the histological features, frequent molecular alterations, dysregulated signaling pathways, and clinically relevant protein-expression patterns across major EOC histotypes, with emphasis on their potential therapeutic implications. Representative clinical and preclinical evidence supporting histotype-specific targeted therapies is also discussed, with attention to differences in therapeutic actionability and evidence maturity. Building on this histotype-specific evidence, an integrated histotype-molecular therapeutic stratification framework covering five major EOC histotypes is proposed. By integrating histologic context with molecular profiling, this framework may help refine precision-guided therapeutic approaches and complement conventional management. Nevertheless, the clinical applicability and long-term benefits of therapies guided by this stratification framework remain to be confirmed in prospective studies.",
+        "journal": "Cancer metastasis reviews",
+        "authors": [
+          "Chaoyang Sun",
+          "Shuyi Liu"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-10-17T00:00:00.000Z",
+        "activityAt": "2026-10-18T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42891872/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "上皮性卵巢癌中组织学类型与分子亚型的整合：对靶向治疗的意义",
+          "researchQuestion": "总结主要上皮性卵巢癌组织学类型的组织学特征、常见分子改变、失调信号通路和临床相关蛋白表达模式，并讨论其治疗意义。",
+          "studyDesign": "叙述性综述。",
+          "populationAndSample": "上皮性卵巢癌占卵巢癌90%以上，包括五个主要组织学亚型；综述引用2024年全球卵巢癌估计330731例新发和203850例死亡，发病率和死亡率均居全球第8位。",
+          "methods": "综述各主要上皮性卵巢癌组织学类型的组织学特征、常见分子改变、失调信号通路和临床相关蛋白表达模式，并讨论代表性临床和临床前证据；在此基础上提出覆盖五个主要组织学类型的组织学-分子治疗分层框架。",
+          "keyResults": "摘要未报告新的原始研究结果；综述提出一个整合组织学背景与分子分型的治疗分层框架，并指出不同组织学类型在治疗可操作性和证据成熟度方面存在差异。",
+          "limitations": "为综述；该分层框架所指导治疗的临床适用性和长期获益仍需前瞻性研究确认。",
+          "clinicalInterpretation": "该综述提示，将组织学背景与分子分型整合可能有助于细化精准治疗策略并补充常规管理；但其临床价值尚未在前瞻性研究中确立，不能据此形成指南。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "5daa20b03a8a5fd413b586d8cb89b0384dcf79f5f4add11cd99f5dfa4b2da6d7"
+      },
+      {
+        "id": "pmid:42892004",
+        "pmid": "42892004",
+        "doi": "10.1016/j.ejogrb.2026.115500",
+        "title": "Effectiveness of estetrol 15 mg combined with drospirenone 3 mg for symptom control in women with endometriosis: a systematic review.",
+        "abstract": "OBJECTIVE: To systematically evaluate the effectiveness of estetrol (E4) combined with drospirenone (DRSP) in reducing endometriosis-related symptoms and improving quality of life (QoL).\nSTUDY DESIGN: We conducted a systematic review in accordance with Cochrane Collaboration guidelines and the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) statement. Two reviewers independently performed study selection, data extraction, and risk of bias assessment. A third author resolved disagreements between the reviewers. We conducted a comprehensive search across PubMed, Embase, and Cochrane Central Register of Controlled Trials, without language or date restrictions.\nMAIN FINDINGS: We included two RCTs and two observational cohorts, encompassing a total of 198 patients. Quantitative synthesis was not feasible for the outcomes due to the limited number of eligible studies and the lack of sufficient comparable data. E4/DRSP demonstrated a significant reduction in pelvic pain compared with placebo, whereas no significant differences were observed when compared with other active hormonal regimens. Treatment with E4/DRSP also was associated with clinically meaningful improvements in dysmenorrhea symptoms. Furthermore, E4/DRSP improved QoL in women with endometriosis, with improvements in sleep quality, patient- and clinician-reported global improvement and overall health status. The findings regarding dyspareunia were inconsistent. The most common adverse effect was intermenstrual bleeding/spotting.\nCONCLUSION: Based on the current evidence, E4/DRSP appears to be a promising option for the management of endometriosis-related symptoms, particularly improving pelvic pain, dysmenorrhea, and QoL.\nIMPLICATIONS: This systematic review, conducted according to Cochrane and PRISMA guidelines, indicated that E4/DRSP may be effective in reducing endometriosis-associated symptoms, although its superiority over other combined hormonal contraceptives remains uncertain.",
+        "journal": "European journal of obstetrics, gynecology, and reproductive biology",
+        "authors": [
+          "Ana Luiza Lunardi Rocha",
+          "Elaine Cristina Fontes de Oliveira",
+          "Frederico Timm Rodrigues de Sousa",
+          "Gabriela Reis Cunha",
+          "Lara Vieira Tavares",
+          "Manuela Oliveira Leitão"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-10-15T00:00:00.000Z",
+        "activityAt": "2026-10-18T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42892004/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "雌四醇15 mg联合屈螺酮3 mg对子宫内膜异位症女性症状控制的有效性：系统综述",
+          "researchQuestion": "系统评价雌四醇（E4）联合屈螺酮（DRSP）减轻子宫内膜异位症相关症状和改善生活质量（QoL）的有效性。",
+          "studyDesign": "系统综述，遵循Cochrane协作网指南和PRISMA声明。",
+          "populationAndSample": "纳入2项随机对照试验和2项观察性队列研究，共198例患者。",
+          "methods": "检索PubMed、Embase和Cochrane Central Register of Controlled Trials，无语言或日期限制；两名评价者独立进行研究筛选、数据提取和偏倚风险评估，第三名作者解决分歧。因 eligible 研究数量有限且缺乏足够可比数据，未进行定量合成。",
+          "keyResults": "与安慰剂相比，E4/DRSP显著减轻盆腔痛；与其他活性激素方案相比未观察到显著差异。E4/DRSP与痛经症状具有临床意义的改善相关。E4/DRSP改善子宫内膜异位症女性QoL，包括睡眠质量、患者和临床医生报告的总体改善及总体健康状况。性交痛相关结果不一致。最常见不良事件为经间期出血/点滴出血。",
+          "limitations": "仅纳入4项研究、共198例患者；因研究数量有限和可比数据不足，未进行定量合成；相对其他复方激素避孕药的优效性仍不确定；性交痛结果不一致；纳入研究包括观察性队列。",
+          "clinicalInterpretation": "当前证据提示E4/DRSP可能改善子宫内膜异位症相关盆腔痛、痛经和QoL，但其相对其他复方激素避孕药的优效性不确定，不能据此形成临床指南。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "475b21979a648a5eb55bb2d9932ec3b9d55814c27c0f291e863935e7d885d19c"
+      }
+    ]
+  }
+}
