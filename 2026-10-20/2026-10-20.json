@@ -7,8 +7,8 @@
   "editor_note": "过去24小时暂无符合质量要求的重要更新。",
   "keywords": [],
   "research": {
-    "generatedAt": "2026-10-19T22:36:11.027Z",
-    "dataAsOf": "2026-10-19T22:36:11.027Z",
+    "generatedAt": "2026-10-19T23:33:26.442Z",
+    "dataAsOf": "2026-10-19T23:33:26.442Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及新辅助化疗联合免疫检查点抑制剂治疗局部晚期宫颈癌的疗效与安全性：系统综述与荟萃分析、子宫内膜异位症女性的短期产科与新生儿并发症、亚洲卵巢癌：2022年发病与死亡及至2050年的未来预测。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
@@ -39,15 +39,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 6,
-          "recency": 10,
-          "total": 91,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "新辅助化疗联合免疫检查点抑制剂治疗局部晚期宫颈癌的疗效与安全性：系统综述与荟萃分析",
           "researchQuestion": "在局部晚期宫颈癌中，新辅助化疗联合免疫检查点抑制剂（NACI）的缓解率和安全性如何？",
@@ -59,7 +50,16 @@
           "clinicalInterpretation": "该荟萃分析提示，在局部晚期宫颈癌中，化疗联合PD-1/PD-L1抑制剂达到95.5%的ORR和45.5%的pCR，≥3级AE为35.5%；作者认为结果为在特定条件下缩小手术范围以减少并发症或保留生育能力的进一步研究提供理论基础，尚需更多研究验证。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "24d2a1af6b741671f1b510bb096293a8999e117602a56adfe17d170bca76e4fb"
+        "summaryInputHash": "24d2a1af6b741671f1b510bb096293a8999e117602a56adfe17d170bca76e4fb",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 6,
+          "recency": 10,
+          "total": 91,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:42894015",
@@ -88,15 +88,6 @@
           "maternal-fetal-medicine",
           "reproductive-medicine"
         ],
-        "assignedTopicId": "endometriosis-benign-gynecology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "子宫内膜异位症女性的短期产科与新生儿并发症",
           "researchQuestion": "子宫内膜异位症是否与产科和新生儿结局相关？",
@@ -108,7 +99,16 @@
           "clinicalInterpretation": "在该研究调查的结局中，子宫内膜异位症在调整后仅与剖宫产独立相关，其他产科和围产期结局未见独立差异；这属于观察性关联，不能推断因果或据此改变临床处理。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "c3057f347c5487e3a47bde9c04700e90f7c47b71b73c9fdae51e9109b0663ebc"
+        "summaryInputHash": "c3057f347c5487e3a47bde9c04700e90f7c47b71b73c9fdae51e9109b0663ebc",
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42894150",
@@ -136,15 +136,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "亚洲卵巢癌：2022年发病与死亡及至2050年的未来预测",
           "researchQuestion": "2022年亚洲47个国家的卵巢癌负担如何，至2050年如何预测，并与人类发展指数（HDI）、世代风险和可改变危险因素有何关联？",
@@ -156,7 +147,16 @@
           "clinicalInterpretation": "结果提示亚洲卵巢癌负担在国家、世代和发展水平之间存在明显异质性；在恒定率假设下，2050年病例和死亡数预计上升，低HDI国家增幅最快。摘要强调需要年龄针对性和发展水平敏感的预防及卫生系统策略；这些为预测性分析，不证明干预的因果效果。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "15340e58f981c8af05c31afdfc461a8d383f7e89bc28114cfd17fa278d11731a"
+        "summaryInputHash": "15340e58f981c8af05c31afdfc461a8d383f7e89bc28114cfd17fa278d11731a",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42894251",
@@ -185,15 +185,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "子宫内膜癌表观遗传修饰与免疫治疗的新视角",
           "researchQuestion": "子宫内膜癌中主要表观遗传改变及其与免疫治疗和表观遗传靶向治疗的关系是什么？",
@@ -205,7 +196,16 @@
           "clinicalInterpretation": "该综述整合子宫内膜癌表观遗传机制与免疫治疗及联合策略，提出生物标志物指导的精准治疗视角；摘要未报告具体疗效数据，不能据此形成临床推荐。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "252d5f654f92db6f5efdca2488d1326cf3164f8869bb67c4c122690f960474d5"
+        "summaryInputHash": "252d5f654f92db6f5efdca2488d1326cf3164f8869bb67c4c122690f960474d5",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42892005",
@@ -234,15 +234,6 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "人类柔膜体——盆腔感染及相关不孕的沉默原因：综述",
           "researchQuestion": "生殖支原体、人型支原体、解脲脲原体和微小脲原体等人类柔膜体与男女不孕的证据、可能致病机制是什么，是否应将其筛查纳入不孕评估？",
@@ -254,7 +245,16 @@
           "clinicalInterpretation": "综述旨在评估是否应将上述微生物筛查纳入不孕评估；摘要未给出明确筛查推荐或效应量，相关关联仍需进一步研究。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "fc7a912a7d2c64d2c12ddaa6caf6a2515505ff91826c36fec06292020cf71f4b"
+        "summaryInputHash": "fc7a912a7d2c64d2c12ddaa6caf6a2515505ff91826c36fec06292020cf71f4b",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       }
     ]
   }
