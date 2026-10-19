@@ -1,0 +1,261 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-10-19T22:36:11.027Z",
+    "dataAsOf": "2026-10-19T22:36:11.027Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及新辅助化疗联合免疫检查点抑制剂治疗局部晚期宫颈癌的疗效与安全性：系统综述与荟萃分析、子宫内膜异位症女性的短期产科与新生儿并发症、亚洲卵巢癌：2022年发病与死亡及至2050年的未来预测。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42894145",
+        "pmid": "42894145",
+        "doi": "10.1186/s12885-026-16585-z",
+        "title": "The efficacy and safety of neoadjuvant chemotherapy plus immune check point inhibitors for locally advanced cervical cancer: a systematic review and meta-analysis.",
+        "abstract": "OBJECTIVE: Immune checkpoint inhibitors (ICIs) enable organ preservation strategies and surgical de-escalation in multiple cancers.In locally advanced cervical cancer (LACC), neoadjuvant chemotherapy plus immune checkpoint inhibitors (NACI) may improve tumor response.This study conducted a systematic review and meta-analysis to evaluate the response rates and safety of NACI in LACC.\nMETHODS: We systematically searched PubMed, Web of Science, Cochrane Library, and Embase from inception to March 2025, including major congress abstracts. Phase II/III trials or retrospective analyses reporting pathological complete response (pCR), objective response rate (ORR), and adverse events (AEs) for NACI in LACC were included. Two investigators independently extracted data. Pooled rates were calculated using STATA 18.0 with random-effects models (I² statistic assessed heterogeneity).\nRESULTS: Three clinical studies involving 162 patients with locally advanced cervical cancer were included in the meta-analysis. The pooled ORR was 95.5% (95% confidence interval [CI],90.8-98.6%), while the pooled pCR rate was 45.5% (95% CI, 27.7-63.2%). Grade 3 or higher AEs occurred at a pooled rate of 35.5% (95% CI, 28.2-42.9%). Sensitivity analysis confirmed the reliability of the meta-analytic findings.\nCONCLUSION: The combination of chemotherapy and PD-1/PD-L1 inhibitors achieved 45.5% pCR and tolerable toxicity .The results provide theoretical basis for further studies in reducing the scope of surgery under specific conditions to minimize complicationsr surgery or preserving fertility.\nSYNOPSIS: Neoadjuvant PD-1/PD-L1 inhibitors with chemotherapy achieved 95.5% ORR and 45.5% pCR in LACC (3 studies, n=162). Grade ≥3 AEs occurred in 35.5% of patients.",
+        "journal": "BMC cancer",
+        "authors": [
+          "Jianqing Xu",
+          "Jing Chen",
+          "Lin Zhu",
+          "Ming Wang"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-07-22T00:00:00.000Z",
+        "activityAt": "2026-10-19T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42894145/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 6,
+          "recency": 10,
+          "total": 91,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "新辅助化疗联合免疫检查点抑制剂治疗局部晚期宫颈癌的疗效与安全性：系统综述与荟萃分析",
+          "researchQuestion": "在局部晚期宫颈癌中，新辅助化疗联合免疫检查点抑制剂（NACI）的缓解率和安全性如何？",
+          "studyDesign": "系统综述与荟萃分析；纳入II/III期试验或回顾性分析。",
+          "populationAndSample": "3项临床研究，共162例局部晚期宫颈癌患者。",
+          "methods": "系统检索PubMed、Web of Science、Cochrane Library和Embase（自建库至2025年3月），并纳入主要会议摘要；纳入报告病理完全缓解（pCR）、客观缓解率（ORR）和不良事件（AEs）的II/III期试验或回顾性分析；两名研究者独立提取数据；使用STATA 18.0以随机效应模型计算合并率，并用I²统计量评估异质性。",
+          "keyResults": "合并ORR为95.5%（95%CI 90.8–98.6%），合并pCR率为45.5%（95%CI 27.7–63.2%）；≥3级AE合并发生率为35.5%（95%CI 28.2–42.9%）；敏感性分析证实荟萃分析结果可靠。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "该荟萃分析提示，在局部晚期宫颈癌中，化疗联合PD-1/PD-L1抑制剂达到95.5%的ORR和45.5%的pCR，≥3级AE为35.5%；作者认为结果为在特定条件下缩小手术范围以减少并发症或保留生育能力的进一步研究提供理论基础，尚需更多研究验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "24d2a1af6b741671f1b510bb096293a8999e117602a56adfe17d170bca76e4fb"
+      },
+      {
+        "id": "pmid:42894015",
+        "pmid": "42894015",
+        "doi": "10.1007/s00404-026-08519-8",
+        "title": "Short-term obstetrical and neonatal complications in women with endometriosis.",
+        "abstract": "OBJECTIVE: Endometriosis is a chronic gynecological condition that affects women in their reproductive age and could potentially lead to reproductive difficulties. Despite extensive research into the impact of endometriosis on fertility and reproductive health, its association with obstetric complications and short-term neonatal outcomes is still an area of limited understanding with conflicting evidence in published studies. We conducted this study to explore a potential effect of endometriosis on obstetric and neonatal outcomes.\nMETHODS: A retrospective population-based cohort study was conducted comparing obstetric and perinatal complications in women with and without endometriosis. We evaluated all singleton deliveries that occurred between 1991 and 2021 at a tertiary medical center. Fetuses with chromosomal abnormalities or congenital malformations were excluded. Generalized estimation equation (GEE) models were used to control for maternal recurrence in the cohort and for confounding variables.\nRESULTS: During the study period, 232,476 deliveries met our inclusion criteria, 0.1% (n = 224) of whom had documented endometriosis. In the univariate analysis, women with endometriosis were significantly older, had higher rates of infertility and diabetes mellitus, and were more likely to undergo cesarean delivery. They also had higher rates of preterm birth and low birthweight infants, whereas perinatal mortality rates were comparable between the groups. In the GEE models, after controlling for maternal age, gravidity, and fertility treatments, the association for most of the aforementioned variables was no longer statistically significant. However, women with endometriosis were found to have a significant independent higher risk for cesarean delivery (adjusted OR 2.14 (1.62-2.83, p < 0.001).\nCONCLUSION: Among the obstetrical and perinatal complications investigated in this study, endometriosis was found to be an independent risk factor for cesarean delivery, while all other pregnancy outcomes were comparable to women without endometriosis.",
+        "journal": "Archives of gynecology and obstetrics",
+        "authors": [
+          "Anastasia Bendet",
+          "Eyal Sheiner",
+          "Gil Gutvirtz",
+          "Noa Leybovitz-Haleluya"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-07-22T00:00:00.000Z",
+        "activityAt": "2026-10-19T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42894015/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology",
+          "maternal-fetal-medicine",
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "子宫内膜异位症女性的短期产科与新生儿并发症",
+          "researchQuestion": "子宫内膜异位症是否与产科和新生儿结局相关？",
+          "studyDesign": "回顾性人群队列研究。",
+          "populationAndSample": "1991—2021年在一家三级医疗中心所有单胎分娩，排除染色体异常或先天畸形胎儿；共232,476例分娩符合纳入标准，其中0.1%（n=224）有子宫内膜异位症记录。",
+          "methods": "比较有和无子宫内膜异位症女性的产科和围产期并发症；采用广义估计方程（GEE）模型控制队列中同一母亲的重复数据和混杂变量；调整因素包括母亲年龄、孕次和生育治疗。",
+          "keyResults": "单变量分析中，子宫内膜异位症女性年龄更大，不孕和糖尿病比例更高，剖宫产率更高，早产和低出生体重儿率更高，而围产期死亡率两组相当。GEE模型控制母亲年龄、孕次和生育治疗后，上述大多数变量的关联不再有统计学意义；但子宫内膜异位症与剖宫产独立相关（校正OR 2.14，95%CI 1.62–2.83，p<0.001），其他妊娠结局与无子宫内膜异位症女性相当。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "在该研究调查的结局中，子宫内膜异位症在调整后仅与剖宫产独立相关，其他产科和围产期结局未见独立差异；这属于观察性关联，不能推断因果或据此改变临床处理。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "c3057f347c5487e3a47bde9c04700e90f7c47b71b73c9fdae51e9109b0663ebc"
+      },
+      {
+        "id": "pmid:42894150",
+        "pmid": "42894150",
+        "doi": "10.1186/s12889-026-28608-2",
+        "title": "Ovarian cancer in Asia: incidence, mortality in 2022, and future projections to 2050.",
+        "abstract": "Ovarian cancer continues to carry a poor prognosis, particularly in resource-limited settings. Using estimates from the International Agency for Research on Cancer, we conducted a secondary analysis of ovarian cancer burden across 47 Asian countries in 2022 and projected the burden through 2050. Age-standardized incidence and mortality rates (ASIR, ASMR) were obtained from GLOBOCAN 2022, using the Segi-Doll standard population. Associations with the Human Development Index (HDI) were assessed using Spearman's correlation. Age-period-cohort (APC) modeling was applied to explore generational risk patterns based on mortality data from 1993 to 2022. In 2022, Asia accounted for 178.2 thousand new cases and 109.5 thousand deaths. ASIR and ASMR were 6.2 and 3.7 per 100,000, respectively. Brunei Darussalam exhibited the highest incidence (13.2 per 100,000), and the Philippines had the highest mortality (7.5 per 100,000). APC analysis revealed higher cohort-specific risks among women born in more recent birth cohorts relative to those born in 1949-1957 (reference cohort). ASIR (r = 0.425, P < 0.05) and ASMR (r = 0.309, P < 0.05) were positively correlated with HDI among women aged ≥ 50 years. High body-mass index emerged as the leading modifiable risk factor contributing to mortality, with the highest contributions in Kuwait (22.3%), Qatar (21.3%) and Jordan (20.2%). Under constant rates, ovarian cancer cases and deaths in Asia are projected to rise to 265.9 thousand and 183.6 thousand by 2050, with the fastest increases in low-HDI countries (124% cases; 137% deaths). These findings highlight substantial heterogeneity across countries, generations, and development levels, underscoring the need for age-targeted, development-sensitive prevention and health-system strategies in Asia.",
+        "journal": "BMC public health",
+        "authors": [
+          "Baohua Zhang",
+          "Huizhen Sun",
+          "Mengxia Fu",
+          "Yangyang Xu",
+          "Yu Fu"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-07-23T00:00:00.000Z",
+        "activityAt": "2026-10-19T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42894150/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "亚洲卵巢癌：2022年发病与死亡及至2050年的未来预测",
+          "researchQuestion": "2022年亚洲47个国家的卵巢癌负担如何，至2050年如何预测，并与人类发展指数（HDI）、世代风险和可改变危险因素有何关联？",
+          "studyDesign": "基于国际癌症研究机构估计的二次分析，结合年龄-时期-队列（APC）建模和未来预测。",
+          "populationAndSample": "47个亚洲国家；2022年卵巢癌发病和死亡估计；使用1993—2022年死亡数据进行APC建模；HDI相关分析针对≥50岁女性。",
+          "methods": "从GLOBOCAN 2022获取年龄标化发病率和死亡率（ASIR、ASMR），采用Segi-Doll标准人口；用Spearman相关评估与HDI的关联；用APC模型基于1993—2022年死亡数据探索世代风险模式；在恒定率假设下预测至2050年。",
+          "keyResults": "2022年亚洲有17.82万新发病例和10.95万死亡；ASIR和ASMR分别为6.2/10万和3.7/10万。文莱达鲁萨兰国发病率最高（13.2/10万），菲律宾死亡率最高（7.5/10万）。APC分析显示，与1949—1957年出生队列相比，较近期出生队列的女性具有更高的队列特异性风险。在≥50岁女性中，ASIR（r=0.425，P<0.05）和ASMR（r=0.309，P<0.05）与HDI呈正相关。高体重指数是导致死亡的主要可改变危险因素，贡献最高的是科威特（22.3%）、卡塔尔（21.3%）和约旦（20.2%）。在恒定率假设下，亚洲卵巢癌病例和死亡预计到2050年升至26.59万和18.36万，低HDI国家增幅最快（病例124%；死亡137%）。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "结果提示亚洲卵巢癌负担在国家、世代和发展水平之间存在明显异质性；在恒定率假设下，2050年病例和死亡数预计上升，低HDI国家增幅最快。摘要强调需要年龄针对性和发展水平敏感的预防及卫生系统策略；这些为预测性分析，不证明干预的因果效果。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "15340e58f981c8af05c31afdfc461a8d383f7e89bc28114cfd17fa278d11731a"
+      },
+      {
+        "id": "pmid:42894251",
+        "pmid": "42894251",
+        "doi": "10.1186/s13148-026-02174-1",
+        "title": "New perspective on epigenetic modification and immunotherapy in endometrial cancer.",
+        "abstract": "Endometrial carcinoma (EC) is a heterogeneous gynecological malignancy. Epigenetic dysregulation promotes the initiation, progression, immune evasion, and therapeutic resistance of EC. Aberrant DNA methylation, histone methylation, histone acetylation, and chromatin remodeling affect key EC-associated pathways and help shape distinct molecular subtypes, including POLE-mutated and mismatch repair-deficient tumours. In this review, we summarize the major epigenetic alterations implicated in EC, with emphasis on DNA methylation regulators, histone-modifying enzymes, and emerging epigenetic targets such as DNMTs, HDACs, LSD1, EZH2, PRMTs, and BET proteins. We further highlight the rapidly evolving immunotherapy landscape in EC, including clinically established or practice-changing regimens such as pembrolizumab-, dostarlimab-, durvalumab-, and lenvatinib-based strategies, particularly in advanced or recurrent disease. In parallel, we discuss investigational epigenetic therapies, including DNMT inhibitors, HDAC inhibitors, LSD1 inhibitors, EZH2-targeted agents, PRMT inhibitors, and BRD4-directed approaches, which are being explored to restore tumour suppressor pathways, enhance tumour immunogenicity, and improve sensitivity to immune checkpoint blockade. By integrating EC-specific epigenetic mechanisms with current immunotherapy advances and ongoing combination strategies, this review provides a clinically oriented perspective on biomarker-guided precision treatment for EC.",
+        "journal": "Clinical epigenetics",
+        "authors": [
+          "Chenchen Ren",
+          "Dandan Shen",
+          "Haoqian Zhang",
+          "Li Yang",
+          "Nanshan Lin"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-07-22T00:00:00.000Z",
+        "activityAt": "2026-10-19T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42894251/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "子宫内膜癌表观遗传修饰与免疫治疗的新视角",
+          "researchQuestion": "子宫内膜癌中主要表观遗传改变及其与免疫治疗和表观遗传靶向治疗的关系是什么？",
+          "studyDesign": "综述。",
+          "populationAndSample": "不适用（综述）；摘要未报告纳入研究数量或样本量。",
+          "methods": "总结子宫内膜癌中DNA甲基化、组蛋白甲基化、组蛋白乙酰化和染色质重塑等表观遗传改变，并讨论免疫治疗及在研表观遗传治疗和联合策略。",
+          "keyResults": "综述指出，DNA甲基化、组蛋白甲基化/乙酰化及染色质重塑异常影响子宫内膜癌关键通路并塑造分子亚型，包括POLE突变和错配修复缺陷肿瘤；讨论DNMTs、HDACs、LSD1、EZH2、PRMTs和BET蛋白等表观遗传靶点；免疫治疗包括pembrolizumab、dostarlimab、durvalumab和lenvatinib为基础方案，尤其用于晚期或复发疾病；在研表观遗传治疗包括DNMT抑制剂、HDAC抑制剂、LSD1抑制剂、EZH2靶向药、PRMT抑制剂和BRD4导向策略，旨在恢复抑癌通路、增强肿瘤免疫原性并提高免疫检查点阻断敏感性。",
+          "limitations": "摘要未报告系统检索策略、纳入研究数量、偏倚评估或证据分级。",
+          "clinicalInterpretation": "该综述整合子宫内膜癌表观遗传机制与免疫治疗及联合策略，提出生物标志物指导的精准治疗视角；摘要未报告具体疗效数据，不能据此形成临床推荐。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "252d5f654f92db6f5efdca2488d1326cf3164f8869bb67c4c122690f960474d5"
+      },
+      {
+        "id": "pmid:42892005",
+        "pmid": "42892005",
+        "doi": "10.1016/j.ejogrb.2026.115485",
+        "title": "Human mollicutes- a silent cause of pelvic infections and associated infertility - a review.",
+        "abstract": "Human mollicutes, specifically Mycoplasma genitalium, Mycoplasma hominis, Ureaplasma urealitycum and Ureaplasma parvum, are known commensals of the genital tract and have been implicated in urogenital infections, adverse pregnancy outcomes and possibly infertility. Traditionally, these organisms are not screened for in the workup of subfertile couples; hence, the burden of their association with infertility remains largely unknown, and they may be one of the many pieces in the puzzle of unexplained infertility. This review looks at the current evidence linking Mycoplasma spp. and Ureaplasma spp. to infertility in both women and men, outlines possible pathogenic mechanisms, and evaluates whether screening for these organisms should be incorporated into the work-up of subfertility.",
+        "journal": "European journal of obstetrics, gynecology, and reproductive biology",
+        "authors": [
+          "Albert A Opoku",
+          "Badreldeen Ahmed",
+          "Justin C Konje",
+          "Mandy Abushama",
+          "Masautso Chaponda"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-10-14T00:00:00.000Z",
+        "activityAt": "2026-10-18T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42892005/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "人类柔膜体——盆腔感染及相关不孕的沉默原因：综述",
+          "researchQuestion": "生殖支原体、人型支原体、解脲脲原体和微小脲原体等人类柔膜体与男女不孕的证据、可能致病机制是什么，是否应将其筛查纳入不孕评估？",
+          "studyDesign": "综述。",
+          "populationAndSample": "不适用（综述）；摘要未报告纳入研究数量或样本量。",
+          "methods": "综述现有证据，梳理支原体属和脲原体属与女性和男性不孕的关联，概述可能致病机制，并评估是否应将筛查纳入不孕评估。",
+          "keyResults": "综述指出，生殖支原体、人型支原体、解脲脲原体、微小脲原体等为生殖道已知共生体，并与泌尿生殖道感染、不良妊娠结局及可能的不孕相关；传统上不孕夫妇评估未常规筛查这些微生物，因此其与不孕的关联负担仍大多未知，可能是原因不明不孕的一个组成部分。",
+          "limitations": "摘要未报告系统检索策略、纳入研究数量、偏倚评估或证据分级。",
+          "clinicalInterpretation": "综述旨在评估是否应将上述微生物筛查纳入不孕评估；摘要未给出明确筛查推荐或效应量，相关关联仍需进一步研究。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "fc7a912a7d2c64d2c12ddaa6caf6a2515505ff91826c36fec06292020cf71f4b"
+      }
+    ]
+  }
+}
