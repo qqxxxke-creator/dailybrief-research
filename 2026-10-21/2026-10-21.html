@@ -1,0 +1,943 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>妇产科医学晨报 · 2026-10-21</title>
+<style>
+  :root {
+    --bg: #fafaf9;
+    --bg-elevated: #ffffff;
+    --fg: #18181b;
+    --fg-soft: #3f3f46;
+    --muted: #71717a;
+    --rule: #e4e4e7;
+    --card: #f4f4f5;
+    --link: #1d4ed8;
+    --accent: #18181b;
+    --accent-fg: #fafaf9;
+    --rank-high-bg: #fee2e2;
+    --rank-high-fg: #991b1b;
+    --rank-mid-bg: #fef3c7;
+    --rank-mid-fg: #92400e;
+    --rank-low-bg: #e0e7ff;
+    --rank-low-fg: #3730a3;
+    --hero-grad-from: #fafaf9;
+    --hero-grad-to: #f4f4f5;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0a0a0a;
+      --bg-elevated: #18181b;
+      --fg: #fafafa;
+      --fg-soft: #d4d4d8;
+      --muted: #a1a1aa;
+      --rule: #27272a;
+      --card: #18181b;
+      --link: #93c5fd;
+      --accent: #fafafa;
+      --accent-fg: #0a0a0a;
+      --rank-high-bg: rgba(239,68,68,0.18);
+      --rank-high-fg: #fca5a5;
+      --rank-mid-bg: rgba(245,158,11,0.18);
+      --rank-mid-fg: #fcd34d;
+      --rank-low-bg: rgba(99,102,241,0.18);
+      --rank-low-fg: #a5b4fc;
+      --hero-grad-from: #18181b;
+      --hero-grad-to: #0a0a0a;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+      "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+  main { max-width: 960px; margin: 0 auto; padding: 2.5rem 1.5rem 4rem; }
+
+  /* ===== header ===== */
+  header.report-header { margin-bottom: 1.25rem; }
+  .eyebrow {
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: var(--muted);
+    font-weight: 500;
+  }
+  h1.report-title {
+    font-size: 2.2rem;
+    font-weight: 700;
+    margin: 0.4rem 0 1.2rem;
+    letter-spacing: -0.02em;
+    line-height: 1.1;
+  }
+  .archive-link {
+    display: inline-block;
+    margin-bottom: 1rem;
+    font-size: 0.85rem;
+    color: var(--muted);
+    text-decoration: none;
+    border-bottom: 1px dashed var(--rule);
+    padding-bottom: 1px;
+  }
+  .archive-link:hover { color: var(--accent); border-bottom-style: solid; }
+  .hero-card {
+    background: linear-gradient(135deg, var(--hero-grad-from) 0%, var(--hero-grad-to) 100%);
+    border: 1px solid var(--rule);
+    border-left: 4px solid var(--accent);
+    padding: 1rem 1.4rem;
+    border-radius: 0.6rem;
+  }
+  .hero-eyebrow {
+    font-size: 0.7rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--muted);
+    font-weight: 500;
+  }
+  .hero-headline {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin: 0.35rem 0 0;
+    line-height: 1.45;
+    color: var(--fg);
+  }
+  .overview-card {
+    margin: 0.7rem 0 0;
+    padding: 0.7rem 1.1rem;
+    background: var(--card);
+    border-radius: 0.5rem;
+    border-left: 3px solid var(--muted);
+  }
+  .overview-card .eyebrow { display: block; margin-bottom: 0.3rem; }
+  .overview-text {
+    margin: 0;
+    font-size: 0.88rem;
+    line-height: 1.65;
+    color: var(--fg-soft);
+  }
+
+  /* ===== primary tabs ===== */
+  .tabs {
+    display: flex;
+    gap: 0.25rem;
+    margin: 1.25rem 0 0.75rem;
+    border-bottom: 1px solid var(--rule);
+    flex-wrap: wrap;
+  }
+  .tab {
+    background: none;
+    border: none;
+    padding: 0.7rem 1.1rem;
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: var(--muted);
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+    margin-bottom: -1px;
+    font-family: inherit;
+    transition: color 0.15s;
+  }
+  .tab:hover { color: var(--fg); }
+  .tab.active {
+    color: var(--fg);
+    border-bottom-color: var(--accent);
+  }
+  .tab .count {
+    font-size: 0.72rem;
+    color: var(--muted);
+    margin-left: 0.4rem;
+    font-weight: 400;
+  }
+  .panel { display: none; }
+  .panel.active { display: block; }
+
+  /* ===== digest (AI 简报) — compact ===== */
+  .digest-category { margin-bottom: 1.1rem; }
+  .category-header {
+    display: flex;
+    align-items: baseline;
+    gap: 0.55rem;
+    margin: 0 0 0.55rem;
+    padding-bottom: 0.35rem;
+    border-bottom: 1px solid var(--rule);
+  }
+  .category-title {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--fg);
+    margin: 0;
+    letter-spacing: 0.05em;
+  }
+  .category-count {
+    font-size: 0.7rem;
+    color: var(--muted);
+    background: var(--card);
+    padding: 0.12rem 0.45rem;
+    border-radius: 999px;
+  }
+  .brief-list {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+  }
+  @media (min-width: 720px) {
+    .brief-list { grid-template-columns: 1fr 1fr; }
+  }
+  .brief {
+    background: var(--bg-elevated);
+    border: 1px solid var(--rule);
+    border-radius: 0.5rem;
+    padding: 0.7rem 0.95rem;
+    transition: border-color 0.15s, transform 0.15s;
+  }
+  .brief:hover {
+    border-color: var(--muted);
+    transform: translateY(-1px);
+  }
+  .brief-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.6rem;
+    margin-bottom: 0.3rem;
+  }
+  .brief-source {
+    font-size: 0.72rem;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    font-weight: 500;
+  }
+  .brief-rank {
+    font-size: 0.7rem;
+    padding: 0.12rem 0.5rem;
+    border-radius: 999px;
+    font-weight: 600;
+    flex-shrink: 0;
+  }
+  .brief-rank.high { background: var(--rank-high-bg); color: var(--rank-high-fg); }
+  .brief-rank.mid  { background: var(--rank-mid-bg);  color: var(--rank-mid-fg); }
+  .brief-rank.low  { background: var(--rank-low-bg);  color: var(--rank-low-fg); }
+  .brief-title {
+    font-size: 0.98rem;
+    font-weight: 600;
+    margin: 0 0 0.3rem;
+    line-height: 1.35;
+  }
+  .brief-title a { color: var(--fg); text-decoration: none; }
+  .brief-title a:hover { color: var(--link); text-decoration: underline; }
+  .brief-summary {
+    margin: 0;
+    color: var(--fg-soft);
+    font-size: 0.86rem;
+    line-height: 1.55;
+  }
+
+  .editor-card {
+    background: var(--card);
+    border-left: 3px solid var(--muted);
+    border-radius: 0.5rem;
+    padding: 1rem 1.3rem;
+    margin: 1.5rem 0 1.2rem;
+  }
+  .editor-card .eyebrow { display: block; margin-bottom: 0.4rem; }
+  .editor-text {
+    margin: 0;
+    font-size: 0.95rem;
+    line-height: 1.7;
+    color: var(--fg);
+  }
+  .keywords { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0 0 1.5rem; }
+  .keyword {
+    background: var(--card);
+    color: var(--fg-soft);
+    padding: 0.25rem 0.7rem;
+    border-radius: 999px;
+    font-size: 0.8rem;
+  }
+
+  /* ===== L2 sub-tabs ===== */
+  .sub-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin: 1rem 0;
+  }
+  .sub-tab {
+    background: var(--card);
+    border: 1px solid transparent;
+    padding: 0.5rem 1.05rem;
+    border-radius: 0.5rem;
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: var(--fg-soft);
+    cursor: pointer;
+    font-family: inherit;
+    transition: all 0.15s;
+  }
+  .sub-tab:hover { border-color: var(--muted); color: var(--fg); }
+  .sub-tab.active {
+    background: var(--accent);
+    color: var(--accent-fg);
+  }
+  .sub-tab .count {
+    font-size: 0.7rem;
+    opacity: 0.75;
+    margin-left: 0.4rem;
+    font-weight: 400;
+  }
+  .sub-content { display: none; }
+  .sub-content.active { display: block; }
+
+  /* ===== L3 source-tabs ===== */
+  .source-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+    margin: 0.9rem 0 1.3rem;
+    padding-bottom: 0.7rem;
+    border-bottom: 1px solid var(--rule);
+  }
+  .source-tab {
+    background: none;
+    border: 1px solid var(--rule);
+    padding: 0.35rem 0.85rem;
+    border-radius: 999px;
+    font-size: 0.83rem;
+    color: var(--fg-soft);
+    cursor: pointer;
+    font-family: inherit;
+    transition: all 0.15s;
+  }
+  .source-tab:hover { border-color: var(--muted); color: var(--fg); }
+  .source-tab.active {
+    background: var(--fg);
+    color: var(--bg);
+    border-color: var(--fg);
+  }
+  .source-tab .count {
+    font-size: 0.7rem;
+    opacity: 0.75;
+    margin-left: 0.3rem;
+  }
+  .source-content { display: none; }
+  .source-content.active { display: block; }
+
+  /* ===== article cards in raw panels ===== */
+  .article {
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .article:first-child { padding-top: 0; }
+  .article:last-child { border-bottom: none; }
+  .article-title {
+    font-size: 1rem;
+    margin: 0 0 0.3rem;
+    font-weight: 500;
+    line-height: 1.45;
+  }
+  .article-title a { color: var(--fg); text-decoration: none; }
+  .article-title a:hover { color: var(--link); text-decoration: underline; }
+  .article-meta { color: var(--muted); font-size: 0.76rem; margin: 0 0 0.35rem; }
+  .article-stats {
+    color: var(--muted);
+    font-size: 0.8rem;
+    margin: 0 0 0.4rem;
+    font-feature-settings: "tnum";
+  }
+  .article-excerpt {
+    margin: 0;
+    color: var(--fg-soft);
+    font-size: 0.9rem;
+    line-height: 1.6;
+  }
+  .article-summary {
+    margin: 0.55rem 0 0;
+    padding: 0.6rem 0.85rem;
+    background: var(--card);
+    border-left: 2px solid var(--link);
+    border-radius: 0.3rem;
+    font-size: 0.9rem;
+    line-height: 1.6;
+    color: var(--fg);
+  }
+  .summary-label {
+    display: inline-block;
+    font-size: 0.68rem;
+    color: var(--link);
+    margin-right: 0.4rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+  }
+
+  .empty {
+    color: var(--muted);
+    text-align: center;
+    padding: 2rem 0;
+    font-size: 0.9rem;
+  }
+
+  /* ===== trading panel ===== */
+  .crypto-widgets {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.55rem;
+    margin: 0.4rem 0 1.2rem;
+  }
+  @media (min-width: 720px) {
+    .crypto-widgets { grid-template-columns: repeat(4, 1fr); }
+  }
+  .crypto-widget {
+    background: var(--bg-elevated);
+    border: 1px solid var(--rule);
+    border-radius: 0.5rem;
+    padding: 0.7rem 0.85rem;
+    text-align: center;
+  }
+  .widget-label {
+    font-size: 0.7rem;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 0.3rem;
+  }
+  .widget-value {
+    font-size: 1.5rem;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+    color: var(--fg);
+    line-height: 1.1;
+  }
+  .widget-sub {
+    font-size: 0.78rem;
+    color: var(--muted);
+    margin-top: 0.25rem;
+  }
+  .widget-sub.positive { color: #16a34a; }
+  .widget-sub.negative { color: #dc2626; }
+  @media (prefers-color-scheme: dark) {
+    .widget-sub.positive { color: #4ade80; }
+    .widget-sub.negative { color: #fca5a5; }
+  }
+  .crypto-widget.fg-fear-extreme { border-left: 4px solid #b91c1c; }
+  .crypto-widget.fg-fear-extreme .widget-value { color: #b91c1c; }
+  .crypto-widget.fg-fear { border-left: 4px solid #d97706; }
+  .crypto-widget.fg-fear .widget-value { color: #d97706; }
+  .crypto-widget.fg-neutral { border-left: 4px solid var(--muted); }
+  .crypto-widget.fg-greed { border-left: 4px solid #65a30d; }
+  .crypto-widget.fg-greed .widget-value { color: #65a30d; }
+  .crypto-widget.fg-greed-extreme { border-left: 4px solid #16a34a; }
+  .crypto-widget.fg-greed-extreme .widget-value { color: #16a34a; }
+  @media (prefers-color-scheme: dark) {
+    .crypto-widget.fg-fear-extreme .widget-value,
+    .crypto-widget.fg-fear .widget-value { color: #fca5a5; }
+    .crypto-widget.fg-greed .widget-value,
+    .crypto-widget.fg-greed-extreme .widget-value { color: #4ade80; }
+  }
+
+  .trading-overview-card {
+    margin: 0 0 1.5rem;
+    padding: 1rem 1.3rem;
+    background: var(--card);
+    border-radius: 0.5rem;
+    border-left: 3px solid var(--accent);
+  }
+  .trading-overview-card .eyebrow { display: block; margin-bottom: 0.4rem; }
+  .trading-overview-text { font-size: 0.92rem; line-height: 1.75; color: var(--fg-soft); margin: 0; }
+
+  .trading-section-title {
+    font-size: 0.95rem;
+    font-weight: 600;
+    margin: 1.5rem 0 0.8rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 1px solid var(--rule);
+    color: var(--fg);
+    letter-spacing: 0.05em;
+  }
+
+  /* picks (Sonnet's watchlist) */
+  .trading-picks {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.6rem;
+  }
+  @media (min-width: 720px) {
+    .trading-picks { grid-template-columns: 1fr 1fr; }
+  }
+  .trading-pick {
+    background: var(--bg-elevated);
+    border: 1px solid var(--rule);
+    border-left: 4px solid var(--muted);
+    border-radius: 0.5rem;
+    padding: 0.8rem 1rem;
+  }
+  .trading-pick.stance-bull { border-left-color: #16a34a; }
+  .trading-pick.stance-bear { border-left-color: #dc2626; }
+  .trading-pick.stance-neutral { border-left-color: var(--muted); }
+  .pick-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.6rem;
+    margin-bottom: 0.45rem;
+  }
+  .pick-symbol-block {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+  .pick-symbol { font-weight: 700; font-size: 1rem; color: var(--fg); }
+  .pick-name { color: var(--muted); font-size: 0.82rem; }
+  .pick-stance {
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.2rem 0.6rem;
+    border-radius: 999px;
+    white-space: nowrap;
+  }
+  .pick-stance-bull { background: rgba(22,163,74,0.12); color: #16a34a; }
+  .pick-stance-bear { background: rgba(220,38,38,0.12); color: #dc2626; }
+  .pick-stance-neutral { background: var(--card); color: var(--muted); }
+  .pick-rationale { margin: 0; font-size: 0.88rem; line-height: 1.65; color: var(--fg-soft); }
+
+  /* asset-group tabs */
+  .trading-group-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin: 0.6rem 0 1.2rem;
+  }
+  .trading-group-tab {
+    background: var(--card);
+    border: 1px solid transparent;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    font-size: 0.88rem;
+    font-weight: 500;
+    color: var(--fg-soft);
+    cursor: pointer;
+    font-family: inherit;
+    transition: all 0.15s;
+  }
+  .trading-group-tab:hover { border-color: var(--muted); color: var(--fg); }
+  .trading-group-tab.active {
+    background: var(--accent);
+    color: var(--accent-fg);
+  }
+  .trading-group-tab .count {
+    font-size: 0.7rem;
+    opacity: 0.75;
+    margin-left: 0.4rem;
+    font-weight: 400;
+  }
+  .trading-group-content { display: none; }
+  .trading-group-content.active { display: block; }
+
+  /* ticker cards */
+  .ticker-card {
+    background: var(--bg-elevated);
+    border: 1px solid var(--rule);
+    border-radius: 0.55rem;
+    padding: 0.85rem 1.1rem;
+    margin-bottom: 0.7rem;
+  }
+  .ticker-head {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: 0.65rem;
+  }
+  .ticker-id { min-width: 0; }
+  .ticker-symbol { margin: 0; font-size: 1rem; font-weight: 700; font-family: ui-monospace, "SFMono-Regular", Menlo, monospace; }
+  .ticker-name { margin: 0.15rem 0 0; font-size: 0.82rem; color: var(--muted); }
+  .ticker-price-block { text-align: right; flex-shrink: 0; }
+  .ticker-price { display: block; font-size: 1.05rem; font-weight: 600; font-variant-numeric: tabular-nums; }
+  .ticker-pct { display: inline-block; font-size: 0.82rem; font-weight: 500; margin-top: 0.15rem; font-variant-numeric: tabular-nums; }
+  .ticker-pct.positive, .positive { color: #16a34a; }
+  .ticker-pct.negative, .negative { color: #dc2626; }
+
+  .ticker-indicators {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.35rem 0.9rem;
+    margin: 0;
+    font-size: 0.82rem;
+    color: var(--fg-soft);
+  }
+  @media (min-width: 720px) {
+    .ticker-indicators { grid-template-columns: repeat(3, 1fr); }
+  }
+  .ticker-indicators > div { display: flex; gap: 0.4rem; align-items: baseline; min-width: 0; }
+  .ticker-indicators dt { color: var(--muted); font-size: 0.74rem; margin: 0; white-space: nowrap; }
+  .ticker-indicators dd { margin: 0; font-variant-numeric: tabular-nums; font-weight: 500; color: var(--fg); }
+  .trend-bullish { color: #16a34a; }
+  .trend-bearish { color: #dc2626; }
+  .trend-neutral { color: var(--muted); }
+  .rsi-overbought { color: #d97706; }
+  .rsi-oversold { color: #2563eb; }
+
+  .ticker-signals {
+    margin-top: 0.65rem;
+    padding-top: 0.55rem;
+    border-top: 1px dashed var(--rule);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+  }
+  .signal-pill {
+    font-size: 0.72rem;
+    padding: 0.18rem 0.55rem;
+    border-radius: 999px;
+    font-weight: 500;
+  }
+  .signal-pill.tone-bull { background: rgba(22,163,74,0.13); color: #166534; }
+  .signal-pill.tone-bear { background: rgba(220,38,38,0.13); color: #991b1b; }
+  .signal-pill.tone-caution { background: rgba(217,119,6,0.15); color: #92400e; }
+  @media (prefers-color-scheme: dark) {
+    .signal-pill.tone-bull { color: #4ade80; }
+    .signal-pill.tone-bear { color: #fca5a5; }
+    .signal-pill.tone-caution { color: #fcd34d; }
+    .trend-bullish, .positive, .ticker-pct.positive { color: #4ade80; }
+    .trend-bearish, .negative, .ticker-pct.negative { color: #fca5a5; }
+    .rsi-overbought { color: #fcd34d; }
+    .rsi-oversold { color: #93c5fd; }
+    .trading-pick.stance-bull { border-left-color: #4ade80; }
+    .trading-pick.stance-bear { border-left-color: #fca5a5; }
+    .pick-stance-bull { background: rgba(74,222,128,0.15); color: #4ade80; }
+    .pick-stance-bear { background: rgba(252,165,165,0.15); color: #fca5a5; }
+  }
+  .signal-age { opacity: 0.7; font-weight: 400; }
+
+  .trading-risk {
+    margin: 1.5rem 0 0;
+    padding: 0.9rem 1.2rem;
+    background: var(--card);
+    border-radius: 0.45rem;
+    border-left: 3px solid #d97706;
+  }
+  .trading-risk .eyebrow { display: block; margin-bottom: 0.35rem; }
+  .trading-risk p { margin: 0; font-size: 0.82rem; line-height: 1.65; color: var(--fg-soft); }
+
+  /* ===== research intelligence — always the final content section ===== */
+  .research-section { margin-top: 2.5rem; padding-top: 1.8rem; border-top: 2px solid var(--fg); }
+  .research-section-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem; }
+  .research-section-head h2 { margin: 0.2rem 0 0; font-size: 1.45rem; line-height: 1.3; }
+  .research-cache-badge, .research-score, .research-topic {
+    display: inline-block; padding: 0.2rem 0.6rem; border-radius: 999px;
+    background: var(--rank-mid-bg); color: var(--rank-mid-fg); font-size: 0.74rem; font-weight: 600;
+  }
+  .research-as-of { margin: 0.35rem 0 0; color: var(--muted); font-size: 0.76rem; }
+  .research-signal { margin: 0.9rem 0 1.1rem; padding: 0.85rem 1rem; background: var(--card); border-left: 3px solid var(--link); border-radius: 0.4rem; font-size: 0.9rem; }
+  .research-paper { padding: 1.1rem 0; border-bottom: 1px solid var(--rule); }
+  .research-paper:last-child { border-bottom: 0; }
+  .research-paper-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem; }
+  .research-paper-title { margin: 0; font-size: 1.05rem; line-height: 1.45; }
+  .research-paper-title a { color: var(--fg); text-decoration: none; }
+  .research-paper-title a:hover { color: var(--link); text-decoration: underline; }
+  .research-score { flex-shrink: 0; background: var(--rank-high-bg); color: var(--rank-high-fg); }
+  .research-original-title { margin: 0.3rem 0 0; color: var(--muted); font-size: 0.78rem; }
+  .research-original-title span { font-weight: 600; }
+  .research-meta { margin: 0.45rem 0 0.35rem; color: var(--muted); font-size: 0.76rem; }
+  .research-topic { margin: 0; background: var(--rank-low-bg); color: var(--rank-low-fg); }
+  .research-details { margin: 0.8rem 0; display: grid; gap: 0.45rem; }
+  .research-detail { display: grid; grid-template-columns: minmax(7rem, 0.25fr) 1fr; gap: 0.8rem; }
+  .research-detail dt { color: var(--muted); font-size: 0.78rem; font-weight: 600; }
+  .research-detail dd { margin: 0; color: var(--fg-soft); font-size: 0.86rem; }
+  .research-summary-failed, .research-empty { color: var(--muted); font-size: 0.86rem; }
+  .research-original-link { color: var(--link); font-size: 0.8rem; text-decoration: none; }
+  .research-original-link:hover { text-decoration: underline; }
+  @media (max-width: 600px) {
+    .research-paper-head { display: block; }
+    .research-score { margin-top: 0.5rem; }
+    .research-detail { grid-template-columns: 1fr; gap: 0.1rem; }
+  }
+
+  footer {
+    margin-top: 2.5rem;
+    border-top: 1px solid var(--rule);
+    padding-top: 1.1rem;
+    color: var(--muted);
+    font-size: 0.82rem;
+  }
+</style>
+</head>
+<body>
+<main>
+  <header class="report-header">
+    <span class="eyebrow">妇产科医学晨报</span>
+    <h1 class="report-title">2026-10-21</h1>
+    <a class="archive-link" href="../archive.html">← 历史归档</a>
+  </header>
+
+  <section class="hero-card">
+    <span class="hero-eyebrow">今日妇产科要闻</span>
+    <p class="hero-headline">过去24小时暂无符合质量要求的重要更新。</p>
+  </section>
+  <section class="overview-card">
+    <span class="eyebrow">今日总览</span>
+    <p class="overview-text">过去24小时暂无符合质量要求的重要更新。</p>
+  </section>
+  <section class="digest-category">
+    <div class="category-header"><h2 class="category-title">今日妇产科要闻</h2><span class="category-count">0</span></div>
+    <p class="empty">过去24小时暂无符合质量要求的重要更新。</p>
+  </section>
+  <section class="editor-card">
+    <span class="eyebrow">编辑短评</span>
+    <p class="editor-text">过去24小时暂无符合质量要求的重要更新。</p>
+  </section>
+  <span class="eyebrow">今日关键词</span>
+  <div class="keywords"><span class="empty">过去24小时暂无符合质量要求的重要更新。</span></div>
+
+  <nav class="tabs" role="tablist">
+    <button class="tab active" data-tab="tech">指南与共识更新<span class="count">0</span></button>
+    <button class="tab" data-tab="finance">妇产科手术前沿<span class="count">0</span></button>
+    <button class="tab" data-tab="international-obgyn">国际妇产科动态<span class="count">0</span></button>
+    <button class="tab" data-tab="china-obgyn">国内妇产科动态<span class="count">0</span></button>
+  </nav>
+
+  <section class="panel active" data-panel="tech">
+    <div class="sub-content active" data-sub-content="guidelines" data-cat="tech">
+    <nav class="source-tabs"><button class="source-tab active" data-source="acog-clinical-guidance" data-sub="guidelines" data-cat="tech">ACOG Clinical Guidance<span class="count">0</span></button><button class="source-tab" data-source="rcog-guidance" data-sub="guidelines" data-cat="tech">RCOG Guidance<span class="count">0</span></button><button class="source-tab" data-source="who-maternal-health" data-sub="guidelines" data-cat="tech">WHO Maternal Health<span class="count">0</span></button><button class="source-tab" data-source="nice-fertility-pregnancy" data-sub="guidelines" data-cat="tech">NICE Fertility, Pregnancy and Childbirth<span class="count">0</span></button><button class="source-tab" data-source="smfm-publications" data-sub="guidelines" data-cat="tech">SMFM Publications and Clinical Guidelines<span class="count">0</span></button><button class="source-tab" data-source="pubmed-asrm-guidance" data-sub="guidelines" data-cat="tech">PubMed · Fertility &amp; Sterility Practice Guidance<span class="count">0</span></button><button class="source-tab" data-source="gocm-guidelines" data-sub="guidelines" data-cat="tech">GOCM · Gynecology and Obstetrics Clinical Medicine · Guidelines and Consensus<span class="count">0</span></button><button class="source-tab" data-source="esgo-guidelines" data-sub="guidelines" data-cat="tech">ESGO Guidelines<span class="count">0</span></button><button class="source-tab" data-source="china-clinical-obgyn-current" data-sub="guidelines" data-cat="tech">中国妇产科临床杂志<span class="count">0</span></button></nav>
+    <div class="source-contents">
+      <div class="source-content active" data-source-content="acog-clinical-guidance" data-sub="guidelines" data-cat="tech">
+    <p class="empty">近90天暂无未展示过的权威指南或共识更新。</p>
+  </div>
+<div class="source-content" data-source-content="rcog-guidance" data-sub="guidelines" data-cat="tech">
+    <p class="empty">近90天暂无未展示过的权威指南或共识更新。</p>
+  </div>
+<div class="source-content" data-source-content="who-maternal-health" data-sub="guidelines" data-cat="tech">
+    <p class="empty">近90天暂无未展示过的权威指南或共识更新。</p>
+  </div>
+<div class="source-content" data-source-content="nice-fertility-pregnancy" data-sub="guidelines" data-cat="tech">
+    <p class="empty">近90天暂无未展示过的权威指南或共识更新。</p>
+  </div>
+<div class="source-content" data-source-content="smfm-publications" data-sub="guidelines" data-cat="tech">
+    <p class="empty">近90天暂无未展示过的权威指南或共识更新。</p>
+  </div>
+<div class="source-content" data-source-content="pubmed-asrm-guidance" data-sub="guidelines" data-cat="tech">
+    <p class="empty">近90天暂无未展示过的权威指南或共识更新。</p>
+  </div>
+<div class="source-content" data-source-content="gocm-guidelines" data-sub="guidelines" data-cat="tech">
+    <p class="empty">近90天暂无未展示过的权威指南或共识更新。</p>
+  </div>
+<div class="source-content" data-source-content="esgo-guidelines" data-sub="guidelines" data-cat="tech">
+    <p class="empty">近90天暂无未展示过的权威指南或共识更新。</p>
+  </div>
+<div class="source-content" data-source-content="china-clinical-obgyn-current" data-sub="guidelines" data-cat="tech">
+    <p class="empty">近90天暂无未展示过的权威指南或共识更新。</p>
+  </div>
+    </div>
+  </div>
+  </section>
+  <section class="panel" data-panel="finance">
+    <div class="sub-content active" data-sub-content="surgery" data-cat="finance">
+    <nav class="source-tabs"><button class="source-tab active" data-source="gocm-surgery" data-sub="surgery" data-cat="finance">GOCM · Gynecology and Obstetrics Clinical Medicine · Surgical Techniques<span class="count">0</span></button><button class="source-tab" data-source="esge-guidelines" data-sub="surgery" data-cat="finance">European Society for Gynaecological Endoscopy Guidelines<span class="count">0</span></button><button class="source-tab" data-source="esge-news" data-sub="surgery" data-cat="finance">European Society for Gynaecological Endoscopy News<span class="count">0</span></button><button class="source-tab" data-source="aagl-surgeryu" data-sub="surgery" data-cat="finance">AAGL SurgeryU<span class="count">0</span></button><button class="source-tab" data-source="jmig-articles-in-press" data-sub="surgery" data-cat="finance">Journal of Minimally Invasive Gynecology - Articles in Press<span class="count">0</span></button></nav>
+    <div class="source-contents">
+      <div class="source-content active" data-source-content="gocm-surgery" data-sub="surgery" data-cat="finance">
+    <p class="empty">近30天暂无通过专业筛选的新手术技术进展。</p>
+  </div>
+<div class="source-content" data-source-content="esge-guidelines" data-sub="surgery" data-cat="finance">
+    <p class="empty">近30天暂无通过专业筛选的新手术技术进展。</p>
+  </div>
+<div class="source-content" data-source-content="esge-news" data-sub="surgery" data-cat="finance">
+    <p class="empty">近30天暂无通过专业筛选的新手术技术进展。</p>
+  </div>
+<div class="source-content" data-source-content="aagl-surgeryu" data-sub="surgery" data-cat="finance">
+    <p class="empty">近30天暂无通过专业筛选的新手术技术进展。</p>
+  </div>
+<div class="source-content" data-source-content="jmig-articles-in-press" data-sub="surgery" data-cat="finance">
+    <p class="empty">近30天暂无通过专业筛选的新手术技术进展。</p>
+  </div>
+    </div>
+  </div>
+  </section>
+  <section class="panel" data-panel="international-obgyn">
+    <div class="sub-content active" data-sub-content="international-obgyn" data-cat="politics">
+    <nav class="source-tabs"><button class="source-tab active" data-source="acog-news" data-sub="international-obgyn" data-cat="politics">ACOG News<span class="count">0</span></button><button class="source-tab" data-source="rcog-news" data-sub="international-obgyn" data-cat="politics">RCOG News<span class="count">0</span></button><button class="source-tab" data-source="figo-guidance" data-sub="international-obgyn" data-cat="politics">FIGO Guidance (PubMed)<span class="count">0</span></button><button class="source-tab" data-source="figo-podcast" data-sub="international-obgyn" data-cat="politics">FIGO Society Updates<span class="count">0</span></button><button class="source-tab" data-source="figo-society-pubmed" data-sub="international-obgyn" data-cat="politics">FIGO Society Updates (PubMed)<span class="count">0</span></button><button class="source-tab" data-source="who-womens-health" data-sub="international-obgyn" data-cat="politics">WHO Women&#39;s Health<span class="count">0</span></button><button class="source-tab" data-source="fda-owh-news" data-sub="international-obgyn" data-cat="politics">FDA Office of Women&#39;s Health News<span class="count">0</span></button><button class="source-tab" data-source="medical-xpress-obgyn" data-sub="international-obgyn" data-cat="politics">Medical Xpress Obstetrics &amp; Gynecology<span class="count">0</span></button><button class="source-tab" data-source="medpage-today-headlines" data-sub="international-obgyn" data-cat="politics">MedPage Today<span class="count">0</span></button></nav>
+    <div class="source-contents">
+      <div class="source-content active" data-source-content="acog-news" data-sub="international-obgyn" data-cat="politics">
+    <p class="empty">近7天暂无通过领域与专业价值筛选的重要更新。</p>
+  </div>
+<div class="source-content" data-source-content="rcog-news" data-sub="international-obgyn" data-cat="politics">
+    <p class="empty">近7天暂无通过领域与专业价值筛选的重要更新。</p>
+  </div>
+<div class="source-content" data-source-content="figo-guidance" data-sub="international-obgyn" data-cat="politics">
+    <p class="empty">近7天暂无通过领域与专业价值筛选的重要更新。</p>
+  </div>
+<div class="source-content" data-source-content="figo-podcast" data-sub="international-obgyn" data-cat="politics">
+    <p class="empty">近7天暂无通过领域与专业价值筛选的重要更新。</p>
+  </div>
+<div class="source-content" data-source-content="figo-society-pubmed" data-sub="international-obgyn" data-cat="politics">
+    <p class="empty">近7天暂无通过领域与专业价值筛选的重要更新。</p>
+  </div>
+<div class="source-content" data-source-content="who-womens-health" data-sub="international-obgyn" data-cat="politics">
+    <p class="empty">近7天暂无通过领域与专业价值筛选的重要更新。</p>
+  </div>
+<div class="source-content" data-source-content="fda-owh-news" data-sub="international-obgyn" data-cat="politics">
+    <p class="empty">近7天暂无通过领域与专业价值筛选的重要更新。</p>
+  </div>
+<div class="source-content" data-source-content="medical-xpress-obgyn" data-sub="international-obgyn" data-cat="politics">
+    <p class="empty">近7天暂无通过领域与专业价值筛选的重要更新。</p>
+  </div>
+<div class="source-content" data-source-content="medpage-today-headlines" data-sub="international-obgyn" data-cat="politics">
+    <p class="empty">近7天暂无通过领域与专业价值筛选的重要更新。</p>
+  </div>
+    </div>
+  </div>
+  </section>
+  <section class="panel" data-panel="china-obgyn">
+    <div class="sub-content active" data-sub-content="china-obgyn" data-cat="politics">
+    
+    <div class="source-contents">
+      <div class="source-content active" data-source-content="cogonline-clinical-guidance" data-sub="china-obgyn" data-cat="politics">
+    <p class="empty">近7天暂无通过领域与专业价值筛选的重要更新。</p>
+  </div>
+    </div>
+  </div>
+  </section>
+
+  <section class="research-section">
+    <div class="research-section-head">
+      <div>
+        <span class="eyebrow">Research Intelligence</span>
+        <h2>研究前沿论文</h2>
+      </div>
+      
+    </div>
+    <p class="research-as-of">数据截至 2026-10-20T23:07:40.591Z</p>
+    <p class="research-signal">今日共筛选出5篇达到阈值的研究，重点涉及妊娠合并母体睡眠呼吸障碍的胎儿和新生儿结局：一项系统综述、机器人辅助活体供者子宫切除术用于子宫移植：手术技术、供者安全与受者结局的系统综述、CDS2通过PI3K/AKT通路驱动上皮性卵巢癌肿瘤进展。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。</p>
+    <div class="research-papers"><article class="research-paper">
+    <div class="research-paper-head">
+      <div>
+        <h3 class="research-paper-title"><a href="https://pubmed.ncbi.nlm.nih.gov/42898148/" target="_blank" rel="noopener noreferrer">妊娠合并母体睡眠呼吸障碍的胎儿和新生儿结局：一项系统综述</a></h3>
+        <p class="research-original-title"><span>英文题名</span> Fetal and neonatal outcomes of pregnancies complicated by maternal sleep-disordered breathing: a systematic review.</p>
+      </div>
+      <span class="research-score">综合评分 96.25</span>
+    </div>
+    <p class="research-meta">Frontiers in physiology · 2026-10-05 · PMID 42898148 · DOI 10.3389/fphys.2026.1775697</p>
+    <p class="research-topic">兴趣方向 · maternal-fetal-medicine</p>
+    <dl class="research-details"><div class="research-detail"><dt>研究问题</dt><dd>评估母体睡眠呼吸障碍（SDB）与胎儿/新生儿结局之间的关联，同时保留暴露判定方式的差异。</dd></div><div class="research-detail"><dt>研究设计</dt><dd>系统综述；遵循PRISMA 2020，重新审核检索；未进行Meta分析。</dd></div><div class="research-detail"><dt>研究对象与样本</dt><dd>共纳入64篇符合条件的出版物，映射为53个保守的队列/数据集家族（若将两对可能重叠的文献视为独立，则为55个）：22篇客观/生理学判定、11篇行政/临床编码判定、31篇症状/问卷判定。</dd></div><div class="research-detail"><dt>方法</dt><dd>更新PubMed和Web of Science检索，并进行后向和前向引文检索，以及ClinicalTrials.gov和WHO ICTRP注册库检索；将暴露分为客观确认的OSA/SDB、行政编码定义的OSA、症状/打鼾/问卷定义的SDB风险三类；因临床可比子集不足以定量合并，未进行Meta分析。</dd></div><div class="research-detail"><dt>关键结果</dt><dd>客观研究结果不一：部分队列显示胎儿生长或新生儿信号，但若干其他客观评估人群中为阴性。行政编码定义的OSA反复与早产及部分新生儿结局相关，但暴露错分和残余混杂仍重要。症状/问卷研究异质性大，关联随症状定义、时机和结局而变化。结论认为，现有证据未能在客观确认的母体OSA/SDB中建立一致的胎儿或新生儿风险模式；行政编码和症状/问卷证据提示部分结局（尤其早产）存在关联，但不应解释为单一同质的OSA效应。</dd></div><div class="research-detail"><dt>局限性</dt><dd>文献异质性强且暴露定义在临床上不同；因临床可比子集不足未进行Meta分析；行政编码暴露存在错分和残余混杂；症状/问卷研究异质性大。</dd></div><div class="research-detail"><dt>临床解读</dt><dd>该综述提示，母体SDB与胎儿/新生儿结局的证据受暴露判定方式影响，不能将不同来源的证据视为单一同质的OSA效应；客观确认的OSA/SDB尚无一致的胎儿或新生儿风险模式。</dd></div></dl>
+    <a class="research-original-link" href="https://pubmed.ncbi.nlm.nih.gov/42898148/" target="_blank" rel="noopener noreferrer">查看论文原文 →</a>
+  </article>
+<article class="research-paper">
+    <div class="research-paper-head">
+      <div>
+        <h3 class="research-paper-title"><a href="https://pubmed.ncbi.nlm.nih.gov/42900394/" target="_blank" rel="noopener noreferrer">机器人辅助活体供者子宫切除术用于子宫移植：手术技术、供者安全与受者结局的系统综述</a></h3>
+        <p class="research-original-title"><span>英文题名</span> Robotic-assisted living-donor hysterectomy for uterus transplantation: a systematic review of surgical techniques, donor safety, and recipient outcomes.</p>
+      </div>
+      <span class="research-score">综合评分 92.50</span>
+    </div>
+    <p class="research-meta">Journal of robotic surgery · 2026-10-20 · PMID 42900394 · DOI 10.1007/s11701-026-04093-y</p>
+    <p class="research-topic">兴趣方向 · reproductive-medicine</p>
+    <dl class="research-details"><div class="research-detail"><dt>研究问题</dt><dd>评估机器人辅助活体供者子宫切除术用于子宫移植的现有证据，重点关注手术技术、供者安全、受者结局和生殖成功。</dd></div><div class="research-detail"><dt>研究设计</dt><dd>系统综述；检索数据库和试验注册库，检索时间自建库至2026年6月。</dd></div><div class="research-detail"><dt>研究对象与样本</dt><dd>6项研究，共29例独特的机器人辅助活体供者子宫切除术，分布于5个国家。</dd></div><div class="research-detail"><dt>方法</dt><dd>系统检索数据库和试验注册库；所有手术均使用da Vinci Xi机器人平台；供者子宫切除为机器人辅助，受者植入经剖腹术完成；评估手术技术、供者安全、受者结局和生殖成功。</dd></div><div class="research-detail"><dt>关键结果</dt><dd>随着手术经验增加，手术时间和估计失血量下降；主要供者并发症（Clavien-Dindo III级或以上）在较晚系列中较少见。在报告随访的病例中未观察到移植物丢失；实现了月经恢复、胚胎移植、临床妊娠和活产，其中最大项目报告10例活产。同时观察到主要供者并发症，包括需再植入的输尿管损伤和双侧卵巢切除；供者并发症的真实发生率仍不确定。</dd></div><div class="research-detail"><dt>局限性</dt><dd>现有证据仅限于小型观察性研究；供者并发症的真实发生率仍不确定；病例高度选择。</dd></div><div class="research-detail"><dt>临床解读</dt><dd>作者认为，机器人辅助活体供者子宫切除术在高度选择的病例中技术上可行，并与有活力的移植物和成功妊娠相关；但鉴于观察到主要供者并发症且证据有限，应在结构化多学科项目和国际注册体系内谨慎评估，而非广泛推广。</dd></div></dl>
+    <a class="research-original-link" href="https://pubmed.ncbi.nlm.nih.gov/42900394/" target="_blank" rel="noopener noreferrer">查看论文原文 →</a>
+  </article>
+<article class="research-paper">
+    <div class="research-paper-head">
+      <div>
+        <h3 class="research-paper-title"><a href="https://pubmed.ncbi.nlm.nih.gov/42897435/" target="_blank" rel="noopener noreferrer">CDS2通过PI3K/AKT通路驱动上皮性卵巢癌肿瘤进展</a></h3>
+        <p class="research-original-title"><span>英文题名</span> CDS2 Drives Tumor Progression in Epithelial Ovarian Cancer via the PI3K/AKT Pathway.</p>
+      </div>
+      <span class="research-score">综合评分 85.00</span>
+    </div>
+    <p class="research-meta">Cancer medicine · 2026-10-01 · PMID 42897435 · DOI 10.1002/cam4.72309</p>
+    <p class="research-topic">兴趣方向 · gynecologic-oncology</p>
+    <dl class="research-details"><div class="research-detail"><dt>研究问题</dt><dd>整合线粒体和脂质代谢相关转录组分析，识别上皮性卵巢癌（EOC）的候选调控因子，并研究CDS2相关的临床和生物学特征。</dd></div><div class="research-detail"><dt>研究设计</dt><dd>生物信息学分析与实验验证研究（摘要未明确命名具体研究设计）。</dd></div><div class="research-detail"><dt>研究对象与样本</dt><dd>摘要未报告具体临床样本量；研究涉及EOC转录组数据、化疗耐药数据集、肿瘤组织临床验证及卵巢癌细胞功能实验。</dd></div><div class="research-detail"><dt>方法</dt><dd>整合线粒体和脂质代谢相关转录组分析；构建MALRS预后模型；结合FIGO分期、组织学分级和MALRS评分构建列线图并评估校准；在化疗耐药数据集中筛选候选基因；验证CDS2表达及其与分期和生存的关系；进行CDS2过表达的功能实验、PI3K/AKT通路分析和免疫去卷积分析。</dd></div><div class="research-detail"><dt>关键结果</dt><dd>识别出7个与线粒体和脂质代谢相关的关键基因，并用于构建MALRS预后模型；列线图校准图显示预测与观察的1年、3年和5年生存概率具有良好一致性。CDS2在化疗耐药数据集中是最持续上调的候选基因；临床验证显示CDS2在肿瘤组织中显著过表达，并与晚期疾病阶段相关；生存分析显示，在III/IV期患者中，CDS2表达较高与无进展生存期（PFS）较短相关。CDS2过表达促进卵巢癌细胞脂滴积累和迁移能力；通路分析显示PI3K/AKT信号显著富集，实验验证确认CDS2介导PI3K/AKT磷酸化过度激活；免疫去卷积分析发现CDS2表达、估计T细胞丰度和免疫检查点转录本之间存在探索性关联。</dd></div><div class="research-detail"><dt>局限性</dt><dd>摘要未报告研究局限性；免疫相关分析为探索性；具体样本量及验证队列信息未报告。</dd></div><div class="research-detail"><dt>临床解读</dt><dd>CDS2是被关联到EOC侵袭性临床病理特征的脂质代谢相关候选生物标志物；研究结果将CDS2与疾病进展、PI3K/AKT相关信号及免疫相关转录组特征相联系，支持将其作为候选预后标志物进一步评估，但不等同于因果结论。</dd></div></dl>
+    <a class="research-original-link" href="https://pubmed.ncbi.nlm.nih.gov/42897435/" target="_blank" rel="noopener noreferrer">查看论文原文 →</a>
+  </article>
+<article class="research-paper">
+    <div class="research-paper-head">
+      <div>
+        <h3 class="research-paper-title"><a href="https://pubmed.ncbi.nlm.nih.gov/42897499/" target="_blank" rel="noopener noreferrer">白蛋白校正缺血修饰白蛋白比值联合子宫动脉多普勒鉴别早发型子痫前期与妊娠期高血压：一项前瞻性探索性预试验</a></h3>
+        <p class="research-original-title"><span>英文题名</span> Combined albumin-adjusted ischemia-modified albumin ratio and uterine artery Doppler for differentiating early-onset preeclampsia from gestational hypertension: a prospective exploratory pilot study.</p>
+      </div>
+      <span class="research-score">综合评分 85.00</span>
+    </div>
+    <p class="research-meta">BMC pregnancy and childbirth · 2026-07-24 · PMID 42897499 · DOI 10.1186/s12884-026-09700-2</p>
+    <p class="research-topic">兴趣方向 · maternal-fetal-medicine</p>
+    <dl class="research-details"><div class="research-detail"><dt>研究问题</dt><dd>评估白蛋白校正缺血修饰白蛋白比值（IMAR）联合子宫动脉搏动指数中位数倍数（UtA-PI MoM）是否能在初次就诊时为鉴别早发型子痫前期（EO-PE）与妊娠期高血压（GHT）提供互补信息。</dd></div><div class="research-detail"><dt>研究设计</dt><dd>前瞻性单中心探索性预试验。</dd></div><div class="research-detail"><dt>研究对象与样本</dt><dd>90例单胎妊娠，包括30例EO-PE、30例GHT和30例对照。</dd></div><div class="research-detail"><dt>方法</dt><dd>检测IMAR和UtA-PI MoM，分别及联合使用受试者工作特征曲线分析和逻辑回归，并进行bootstrap内部验证。</dd></div><div class="research-detail"><dt>关键结果</dt><dd>IMAR和UtA-PI MoM在EO-PE中高于GHT（分别为p=0.003和p&lt;0.001），而原始IMA未能区分两组。IMAR具有中等区分度（AUC 0.727，95% CI 0.600-0.854）；UtA-PI MoM表现更高（AUC 0.844，95% CI 0.743-0.946）。联合模型显示最高表观区分度（AUC 0.898，95% CI 0.818-0.977；乐观校正后AUC 0.889），在探索性操作点下敏感度为83.3%、特异度为86.7%。</dd></div><div class="research-detail"><dt>局限性</dt><dd>单中心探索性预试验；样本量为90例；需在更大规模多中心研究中验证；该探索性模型不旨在替代已建立的血管生成生物标志物。</dd></div><div class="research-detail"><dt>临床解读</dt><dd>在初次就诊时，IMAR联合UtA-PI MoM可能为鉴别EO-PE与GHT提供互补信息；但该模型仍属探索性，在临床 application 前需要更大规模多中心验证。</dd></div></dl>
+    <a class="research-original-link" href="https://pubmed.ncbi.nlm.nih.gov/42897499/" target="_blank" rel="noopener noreferrer">查看论文原文 →</a>
+  </article>
+<article class="research-paper">
+    <div class="research-paper-head">
+      <div>
+        <h3 class="research-paper-title"><a href="https://pubmed.ncbi.nlm.nih.gov/42897506/" target="_blank" rel="noopener noreferrer">图像引导放疗再程放疗治疗复发性宫颈癌：结局与毒性分析</a></h3>
+        <p class="research-original-title"><span>英文题名</span> Re-irradiation with image-guided radiotherapy for recurrent cervical cancer: an analysis of outcomes and toxicity.</p>
+      </div>
+      <span class="research-score">综合评分 85.00</span>
+    </div>
+    <p class="research-meta">BMC cancer · 2026-07-24 · PMID 42897506 · DOI 10.1186/s12885-026-16594-y</p>
+    <p class="research-topic">兴趣方向 · gynecologic-oncology</p>
+    <dl class="research-details"><div class="research-detail"><dt>研究问题</dt><dd>评估图像引导再程放疗治疗复发性宫颈癌的临床结局和安全性，并识别与肿瘤控制和治疗相关毒性相关的预后因素。</dd></div><div class="research-detail"><dt>研究设计</dt><dd>回顾性分析，连续纳入2020年3月至2024年12月接受图像引导再程放疗的患者。</dd></div><div class="research-detail"><dt>研究对象与样本</dt><dd>共102例患者。</dd></div><div class="research-detail"><dt>方法</dt><dd>再程放疗采用图像引导外照射放疗和/或图像引导近距离放疗；临床需要时给予同步化疗或免疫治疗；记录再程放疗计划中的危及器官剂量；应用逻辑模型评估肿瘤控制概率和正常组织并发症概率。</dd></div><div class="research-detail"><dt>关键结果</dt><dd>复发时45.1%为中央型复发，14.7%为盆腔复发，17.6%为中央和盆腔合并复发，22.5%有远处转移。再程放疗中位剂量为56.8 Gy（a/β=10）。中位随访13.7个月，1年和2年局部控制率分别为67.6%和59.2%，1年和2年无进展生存率分别为52.7%和42.6%。较高的再程放疗处方EQD2与更好的肿瘤控制相关。初次放疗后无进展间期&gt;2年预测更好的无进展生存和局部控制，而远处转移与较差的无进展生存相关。较高的直肠和膀胱D2cc值与晚期毒性增加显著相关；当直肠或膀胱D2cc超过约50 Gy（a/β=3）时，≥2级晚期并发症风险显著升高。本研究未观察到4级或5级毒性。</dd></div><div class="research-detail"><dt>局限性</dt><dd>回顾性分析；中位随访13.7个月；摘要未报告其他局限性。</dd></div><div class="research-detail"><dt>临床解读</dt><dd>在该队列中，再程放疗是复发性宫颈癌可行的挽救治疗选择，并提供了中等程度的局部控制和可接受的毒性；较高的再程放疗剂量与更好的肿瘤控制相关，而直肠和膀胱D2cc较高与晚期毒性风险增加相关。</dd></div></dl>
+    <a class="research-original-link" href="https://pubmed.ncbi.nlm.nih.gov/42897506/" target="_blank" rel="noopener noreferrer">查看论文原文 →</a>
+  </article></div>
+  </section>
+
+  <footer>
+    内容均来自原媒体，本站仅作摘要整理与回链。
+  </footer>
+</main>
+<script>
+  document.querySelectorAll('.tabs > .tab').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var target = btn.dataset.tab;
+      document.querySelectorAll('.tabs > .tab').forEach(function (b) {
+        b.classList.toggle('active', b === btn);
+      });
+      document.querySelectorAll('.panel').forEach(function (p) {
+        p.classList.toggle('active', p.dataset.panel === target);
+      });
+    });
+  });
+  // Scope sub-tab / source-tab toggles to the parent .panel so two L1 panels
+  // can share the same data-cat (e.g. tech main + community both data-cat=tech)
+  // without stomping on each other's active state.
+  document.querySelectorAll('.sub-tab').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var panel = btn.closest('.panel');
+      if (!panel) return;
+      var sub = btn.dataset.sub;
+      panel.querySelectorAll('.sub-tab').forEach(function (b) {
+        b.classList.toggle('active', b === btn);
+      });
+      panel.querySelectorAll('.sub-content').forEach(function (p) {
+        p.classList.toggle('active', p.dataset.subContent === sub);
+      });
+    });
+  });
+  document.querySelectorAll('.source-tab').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var subContent = btn.closest('.sub-content');
+      if (!subContent) return;
+      var src = btn.dataset.source;
+      subContent.querySelectorAll('.source-tab').forEach(function (b) {
+        b.classList.toggle('active', b === btn);
+      });
+      subContent.querySelectorAll('.source-content').forEach(function (p) {
+        p.classList.toggle('active', p.dataset.sourceContent === src);
+      });
+    });
+  });
+  // Trading panel: asset-group sub-tabs (US/crypto/china/commodity)
+  document.querySelectorAll('.trading-group-tab').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var grp = btn.dataset.group;
+      document.querySelectorAll('.trading-group-tab').forEach(function (b) {
+        b.classList.toggle('active', b === btn);
+      });
+      document.querySelectorAll('.trading-group-content').forEach(function (p) {
+        p.classList.toggle('active', p.dataset.group === grp);
+      });
+    });
+  });
+</script>
+</body>
+</html>
