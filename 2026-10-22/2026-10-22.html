@@ -1,0 +1,956 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>妇产科医学晨报 · 2026-10-22</title>
+<style>
+  :root {
+    --bg: #fafaf9;
+    --bg-elevated: #ffffff;
+    --fg: #18181b;
+    --fg-soft: #3f3f46;
+    --muted: #71717a;
+    --rule: #e4e4e7;
+    --card: #f4f4f5;
+    --link: #1d4ed8;
+    --accent: #18181b;
+    --accent-fg: #fafaf9;
+    --rank-high-bg: #fee2e2;
+    --rank-high-fg: #991b1b;
+    --rank-mid-bg: #fef3c7;
+    --rank-mid-fg: #92400e;
+    --rank-low-bg: #e0e7ff;
+    --rank-low-fg: #3730a3;
+    --hero-grad-from: #fafaf9;
+    --hero-grad-to: #f4f4f5;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0a0a0a;
+      --bg-elevated: #18181b;
+      --fg: #fafafa;
+      --fg-soft: #d4d4d8;
+      --muted: #a1a1aa;
+      --rule: #27272a;
+      --card: #18181b;
+      --link: #93c5fd;
+      --accent: #fafafa;
+      --accent-fg: #0a0a0a;
+      --rank-high-bg: rgba(239,68,68,0.18);
+      --rank-high-fg: #fca5a5;
+      --rank-mid-bg: rgba(245,158,11,0.18);
+      --rank-mid-fg: #fcd34d;
+      --rank-low-bg: rgba(99,102,241,0.18);
+      --rank-low-fg: #a5b4fc;
+      --hero-grad-from: #18181b;
+      --hero-grad-to: #0a0a0a;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+      "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+  main { max-width: 960px; margin: 0 auto; padding: 2.5rem 1.5rem 4rem; }
+
+  /* ===== header ===== */
+  header.report-header { margin-bottom: 1.25rem; }
+  .eyebrow {
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: var(--muted);
+    font-weight: 500;
+  }
+  h1.report-title {
+    font-size: 2.2rem;
+    font-weight: 700;
+    margin: 0.4rem 0 1.2rem;
+    letter-spacing: -0.02em;
+    line-height: 1.1;
+  }
+  .archive-link {
+    display: inline-block;
+    margin-bottom: 1rem;
+    font-size: 0.85rem;
+    color: var(--muted);
+    text-decoration: none;
+    border-bottom: 1px dashed var(--rule);
+    padding-bottom: 1px;
+  }
+  .archive-link:hover { color: var(--accent); border-bottom-style: solid; }
+  .hero-card {
+    background: linear-gradient(135deg, var(--hero-grad-from) 0%, var(--hero-grad-to) 100%);
+    border: 1px solid var(--rule);
+    border-left: 4px solid var(--accent);
+    padding: 1rem 1.4rem;
+    border-radius: 0.6rem;
+  }
+  .hero-eyebrow {
+    font-size: 0.7rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--muted);
+    font-weight: 500;
+  }
+  .hero-headline {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin: 0.35rem 0 0;
+    line-height: 1.45;
+    color: var(--fg);
+  }
+  .overview-card {
+    margin: 0.7rem 0 0;
+    padding: 0.7rem 1.1rem;
+    background: var(--card);
+    border-radius: 0.5rem;
+    border-left: 3px solid var(--muted);
+  }
+  .overview-card .eyebrow { display: block; margin-bottom: 0.3rem; }
+  .overview-text {
+    margin: 0;
+    font-size: 0.88rem;
+    line-height: 1.65;
+    color: var(--fg-soft);
+  }
+
+  /* ===== primary tabs ===== */
+  .tabs {
+    display: flex;
+    gap: 0.25rem;
+    margin: 1.25rem 0 0.75rem;
+    border-bottom: 1px solid var(--rule);
+    flex-wrap: wrap;
+  }
+  .tab {
+    background: none;
+    border: none;
+    padding: 0.7rem 1.1rem;
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: var(--muted);
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+    margin-bottom: -1px;
+    font-family: inherit;
+    transition: color 0.15s;
+  }
+  .tab:hover { color: var(--fg); }
+  .tab.active {
+    color: var(--fg);
+    border-bottom-color: var(--accent);
+  }
+  .tab .count {
+    font-size: 0.72rem;
+    color: var(--muted);
+    margin-left: 0.4rem;
+    font-weight: 400;
+  }
+  .panel { display: none; }
+  .panel.active { display: block; }
+
+  /* ===== digest (AI 简报) — compact ===== */
+  .digest-category { margin-bottom: 1.1rem; }
+  .category-header {
+    display: flex;
+    align-items: baseline;
+    gap: 0.55rem;
+    margin: 0 0 0.55rem;
+    padding-bottom: 0.35rem;
+    border-bottom: 1px solid var(--rule);
+  }
+  .category-title {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--fg);
+    margin: 0;
+    letter-spacing: 0.05em;
+  }
+  .category-count {
+    font-size: 0.7rem;
+    color: var(--muted);
+    background: var(--card);
+    padding: 0.12rem 0.45rem;
+    border-radius: 999px;
+  }
+  .brief-list {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+  }
+  @media (min-width: 720px) {
+    .brief-list { grid-template-columns: 1fr 1fr; }
+  }
+  .brief {
+    background: var(--bg-elevated);
+    border: 1px solid var(--rule);
+    border-radius: 0.5rem;
+    padding: 0.7rem 0.95rem;
+    transition: border-color 0.15s, transform 0.15s;
+  }
+  .brief:hover {
+    border-color: var(--muted);
+    transform: translateY(-1px);
+  }
+  .brief-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.6rem;
+    margin-bottom: 0.3rem;
+  }
+  .brief-source {
+    font-size: 0.72rem;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    font-weight: 500;
+  }
+  .brief-rank {
+    font-size: 0.7rem;
+    padding: 0.12rem 0.5rem;
+    border-radius: 999px;
+    font-weight: 600;
+    flex-shrink: 0;
+  }
+  .brief-rank.high { background: var(--rank-high-bg); color: var(--rank-high-fg); }
+  .brief-rank.mid  { background: var(--rank-mid-bg);  color: var(--rank-mid-fg); }
+  .brief-rank.low  { background: var(--rank-low-bg);  color: var(--rank-low-fg); }
+  .brief-title {
+    font-size: 0.98rem;
+    font-weight: 600;
+    margin: 0 0 0.3rem;
+    line-height: 1.35;
+  }
+  .brief-title a { color: var(--fg); text-decoration: none; }
+  .brief-title a:hover { color: var(--link); text-decoration: underline; }
+  .brief-summary {
+    margin: 0;
+    color: var(--fg-soft);
+    font-size: 0.86rem;
+    line-height: 1.55;
+  }
+
+  .editor-card {
+    background: var(--card);
+    border-left: 3px solid var(--muted);
+    border-radius: 0.5rem;
+    padding: 1rem 1.3rem;
+    margin: 1.5rem 0 1.2rem;
+  }
+  .editor-card .eyebrow { display: block; margin-bottom: 0.4rem; }
+  .editor-text {
+    margin: 0;
+    font-size: 0.95rem;
+    line-height: 1.7;
+    color: var(--fg);
+  }
+  .keywords { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0 0 1.5rem; }
+  .keyword {
+    background: var(--card);
+    color: var(--fg-soft);
+    padding: 0.25rem 0.7rem;
+    border-radius: 999px;
+    font-size: 0.8rem;
+  }
+
+  /* ===== L2 sub-tabs ===== */
+  .sub-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin: 1rem 0;
+  }
+  .sub-tab {
+    background: var(--card);
+    border: 1px solid transparent;
+    padding: 0.5rem 1.05rem;
+    border-radius: 0.5rem;
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: var(--fg-soft);
+    cursor: pointer;
+    font-family: inherit;
+    transition: all 0.15s;
+  }
+  .sub-tab:hover { border-color: var(--muted); color: var(--fg); }
+  .sub-tab.active {
+    background: var(--accent);
+    color: var(--accent-fg);
+  }
+  .sub-tab .count {
+    font-size: 0.7rem;
+    opacity: 0.75;
+    margin-left: 0.4rem;
+    font-weight: 400;
+  }
+  .sub-content { display: none; }
+  .sub-content.active { display: block; }
+
+  /* ===== L3 source-tabs ===== */
+  .source-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+    margin: 0.9rem 0 1.3rem;
+    padding-bottom: 0.7rem;
+    border-bottom: 1px solid var(--rule);
+  }
+  .source-tab {
+    background: none;
+    border: 1px solid var(--rule);
+    padding: 0.35rem 0.85rem;
+    border-radius: 999px;
+    font-size: 0.83rem;
+    color: var(--fg-soft);
+    cursor: pointer;
+    font-family: inherit;
+    transition: all 0.15s;
+  }
+  .source-tab:hover { border-color: var(--muted); color: var(--fg); }
+  .source-tab.active {
+    background: var(--fg);
+    color: var(--bg);
+    border-color: var(--fg);
+  }
+  .source-tab .count {
+    font-size: 0.7rem;
+    opacity: 0.75;
+    margin-left: 0.3rem;
+  }
+  .source-content { display: none; }
+  .source-content.active { display: block; }
+
+  /* ===== article cards in raw panels ===== */
+  .article {
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .article:first-child { padding-top: 0; }
+  .article:last-child { border-bottom: none; }
+  .article-title {
+    font-size: 1rem;
+    margin: 0 0 0.3rem;
+    font-weight: 500;
+    line-height: 1.45;
+  }
+  .article-title a { color: var(--fg); text-decoration: none; }
+  .article-title a:hover { color: var(--link); text-decoration: underline; }
+  .article-meta { color: var(--muted); font-size: 0.76rem; margin: 0 0 0.35rem; }
+  .article-stats {
+    color: var(--muted);
+    font-size: 0.8rem;
+    margin: 0 0 0.4rem;
+    font-feature-settings: "tnum";
+  }
+  .article-excerpt {
+    margin: 0;
+    color: var(--fg-soft);
+    font-size: 0.9rem;
+    line-height: 1.6;
+  }
+  .article-summary {
+    margin: 0.55rem 0 0;
+    padding: 0.6rem 0.85rem;
+    background: var(--card);
+    border-left: 2px solid var(--link);
+    border-radius: 0.3rem;
+    font-size: 0.9rem;
+    line-height: 1.6;
+    color: var(--fg);
+  }
+  .summary-label {
+    display: inline-block;
+    font-size: 0.68rem;
+    color: var(--link);
+    margin-right: 0.4rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+  }
+
+  .empty {
+    color: var(--muted);
+    text-align: center;
+    padding: 2rem 0;
+    font-size: 0.9rem;
+  }
+
+  /* ===== trading panel ===== */
+  .crypto-widgets {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.55rem;
+    margin: 0.4rem 0 1.2rem;
+  }
+  @media (min-width: 720px) {
+    .crypto-widgets { grid-template-columns: repeat(4, 1fr); }
+  }
+  .crypto-widget {
+    background: var(--bg-elevated);
+    border: 1px solid var(--rule);
+    border-radius: 0.5rem;
+    padding: 0.7rem 0.85rem;
+    text-align: center;
+  }
+  .widget-label {
+    font-size: 0.7rem;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 0.3rem;
+  }
+  .widget-value {
+    font-size: 1.5rem;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+    color: var(--fg);
+    line-height: 1.1;
+  }
+  .widget-sub {
+    font-size: 0.78rem;
+    color: var(--muted);
+    margin-top: 0.25rem;
+  }
+  .widget-sub.positive { color: #16a34a; }
+  .widget-sub.negative { color: #dc2626; }
+  @media (prefers-color-scheme: dark) {
+    .widget-sub.positive { color: #4ade80; }
+    .widget-sub.negative { color: #fca5a5; }
+  }
+  .crypto-widget.fg-fear-extreme { border-left: 4px solid #b91c1c; }
+  .crypto-widget.fg-fear-extreme .widget-value { color: #b91c1c; }
+  .crypto-widget.fg-fear { border-left: 4px solid #d97706; }
+  .crypto-widget.fg-fear .widget-value { color: #d97706; }
+  .crypto-widget.fg-neutral { border-left: 4px solid var(--muted); }
+  .crypto-widget.fg-greed { border-left: 4px solid #65a30d; }
+  .crypto-widget.fg-greed .widget-value { color: #65a30d; }
+  .crypto-widget.fg-greed-extreme { border-left: 4px solid #16a34a; }
+  .crypto-widget.fg-greed-extreme .widget-value { color: #16a34a; }
+  @media (prefers-color-scheme: dark) {
+    .crypto-widget.fg-fear-extreme .widget-value,
+    .crypto-widget.fg-fear .widget-value { color: #fca5a5; }
+    .crypto-widget.fg-greed .widget-value,
+    .crypto-widget.fg-greed-extreme .widget-value { color: #4ade80; }
+  }
+
+  .trading-overview-card {
+    margin: 0 0 1.5rem;
+    padding: 1rem 1.3rem;
+    background: var(--card);
+    border-radius: 0.5rem;
+    border-left: 3px solid var(--accent);
+  }
+  .trading-overview-card .eyebrow { display: block; margin-bottom: 0.4rem; }
+  .trading-overview-text { font-size: 0.92rem; line-height: 1.75; color: var(--fg-soft); margin: 0; }
+
+  .trading-section-title {
+    font-size: 0.95rem;
+    font-weight: 600;
+    margin: 1.5rem 0 0.8rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 1px solid var(--rule);
+    color: var(--fg);
+    letter-spacing: 0.05em;
+  }
+
+  /* picks (Sonnet's watchlist) */
+  .trading-picks {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.6rem;
+  }
+  @media (min-width: 720px) {
+    .trading-picks { grid-template-columns: 1fr 1fr; }
+  }
+  .trading-pick {
+    background: var(--bg-elevated);
+    border: 1px solid var(--rule);
+    border-left: 4px solid var(--muted);
+    border-radius: 0.5rem;
+    padding: 0.8rem 1rem;
+  }
+  .trading-pick.stance-bull { border-left-color: #16a34a; }
+  .trading-pick.stance-bear { border-left-color: #dc2626; }
+  .trading-pick.stance-neutral { border-left-color: var(--muted); }
+  .pick-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.6rem;
+    margin-bottom: 0.45rem;
+  }
+  .pick-symbol-block {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+  .pick-symbol { font-weight: 700; font-size: 1rem; color: var(--fg); }
+  .pick-name { color: var(--muted); font-size: 0.82rem; }
+  .pick-stance {
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.2rem 0.6rem;
+    border-radius: 999px;
+    white-space: nowrap;
+  }
+  .pick-stance-bull { background: rgba(22,163,74,0.12); color: #16a34a; }
+  .pick-stance-bear { background: rgba(220,38,38,0.12); color: #dc2626; }
+  .pick-stance-neutral { background: var(--card); color: var(--muted); }
+  .pick-rationale { margin: 0; font-size: 0.88rem; line-height: 1.65; color: var(--fg-soft); }
+
+  /* asset-group tabs */
+  .trading-group-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin: 0.6rem 0 1.2rem;
+  }
+  .trading-group-tab {
+    background: var(--card);
+    border: 1px solid transparent;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    font-size: 0.88rem;
+    font-weight: 500;
+    color: var(--fg-soft);
+    cursor: pointer;
+    font-family: inherit;
+    transition: all 0.15s;
+  }
+  .trading-group-tab:hover { border-color: var(--muted); color: var(--fg); }
+  .trading-group-tab.active {
+    background: var(--accent);
+    color: var(--accent-fg);
+  }
+  .trading-group-tab .count {
+    font-size: 0.7rem;
+    opacity: 0.75;
+    margin-left: 0.4rem;
+    font-weight: 400;
+  }
+  .trading-group-content { display: none; }
+  .trading-group-content.active { display: block; }
+
+  /* ticker cards */
+  .ticker-card {
+    background: var(--bg-elevated);
+    border: 1px solid var(--rule);
+    border-radius: 0.55rem;
+    padding: 0.85rem 1.1rem;
+    margin-bottom: 0.7rem;
+  }
+  .ticker-head {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: 0.65rem;
+  }
+  .ticker-id { min-width: 0; }
+  .ticker-symbol { margin: 0; font-size: 1rem; font-weight: 700; font-family: ui-monospace, "SFMono-Regular", Menlo, monospace; }
+  .ticker-name { margin: 0.15rem 0 0; font-size: 0.82rem; color: var(--muted); }
+  .ticker-price-block { text-align: right; flex-shrink: 0; }
+  .ticker-price { display: block; font-size: 1.05rem; font-weight: 600; font-variant-numeric: tabular-nums; }
+  .ticker-pct { display: inline-block; font-size: 0.82rem; font-weight: 500; margin-top: 0.15rem; font-variant-numeric: tabular-nums; }
+  .ticker-pct.positive, .positive { color: #16a34a; }
+  .ticker-pct.negative, .negative { color: #dc2626; }
+
+  .ticker-indicators {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.35rem 0.9rem;
+    margin: 0;
+    font-size: 0.82rem;
+    color: var(--fg-soft);
+  }
+  @media (min-width: 720px) {
+    .ticker-indicators { grid-template-columns: repeat(3, 1fr); }
+  }
+  .ticker-indicators > div { display: flex; gap: 0.4rem; align-items: baseline; min-width: 0; }
+  .ticker-indicators dt { color: var(--muted); font-size: 0.74rem; margin: 0; white-space: nowrap; }
+  .ticker-indicators dd { margin: 0; font-variant-numeric: tabular-nums; font-weight: 500; color: var(--fg); }
+  .trend-bullish { color: #16a34a; }
+  .trend-bearish { color: #dc2626; }
+  .trend-neutral { color: var(--muted); }
+  .rsi-overbought { color: #d97706; }
+  .rsi-oversold { color: #2563eb; }
+
+  .ticker-signals {
+    margin-top: 0.65rem;
+    padding-top: 0.55rem;
+    border-top: 1px dashed var(--rule);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+  }
+  .signal-pill {
+    font-size: 0.72rem;
+    padding: 0.18rem 0.55rem;
+    border-radius: 999px;
+    font-weight: 500;
+  }
+  .signal-pill.tone-bull { background: rgba(22,163,74,0.13); color: #166534; }
+  .signal-pill.tone-bear { background: rgba(220,38,38,0.13); color: #991b1b; }
+  .signal-pill.tone-caution { background: rgba(217,119,6,0.15); color: #92400e; }
+  @media (prefers-color-scheme: dark) {
+    .signal-pill.tone-bull { color: #4ade80; }
+    .signal-pill.tone-bear { color: #fca5a5; }
+    .signal-pill.tone-caution { color: #fcd34d; }
+    .trend-bullish, .positive, .ticker-pct.positive { color: #4ade80; }
+    .trend-bearish, .negative, .ticker-pct.negative { color: #fca5a5; }
+    .rsi-overbought { color: #fcd34d; }
+    .rsi-oversold { color: #93c5fd; }
+    .trading-pick.stance-bull { border-left-color: #4ade80; }
+    .trading-pick.stance-bear { border-left-color: #fca5a5; }
+    .pick-stance-bull { background: rgba(74,222,128,0.15); color: #4ade80; }
+    .pick-stance-bear { background: rgba(252,165,165,0.15); color: #fca5a5; }
+  }
+  .signal-age { opacity: 0.7; font-weight: 400; }
+
+  .trading-risk {
+    margin: 1.5rem 0 0;
+    padding: 0.9rem 1.2rem;
+    background: var(--card);
+    border-radius: 0.45rem;
+    border-left: 3px solid #d97706;
+  }
+  .trading-risk .eyebrow { display: block; margin-bottom: 0.35rem; }
+  .trading-risk p { margin: 0; font-size: 0.82rem; line-height: 1.65; color: var(--fg-soft); }
+
+  /* ===== research intelligence — always the final content section ===== */
+  .research-section { margin-top: 2.5rem; padding-top: 1.8rem; border-top: 2px solid var(--fg); }
+  .research-section-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem; }
+  .research-section-head h2 { margin: 0.2rem 0 0; font-size: 1.45rem; line-height: 1.3; }
+  .research-cache-badge, .research-score, .research-topic {
+    display: inline-block; padding: 0.2rem 0.6rem; border-radius: 999px;
+    background: var(--rank-mid-bg); color: var(--rank-mid-fg); font-size: 0.74rem; font-weight: 600;
+  }
+  .research-as-of { margin: 0.35rem 0 0; color: var(--muted); font-size: 0.76rem; }
+  .research-signal { margin: 0.9rem 0 1.1rem; padding: 0.85rem 1rem; background: var(--card); border-left: 3px solid var(--link); border-radius: 0.4rem; font-size: 0.9rem; }
+  .research-paper { padding: 1.1rem 0; border-bottom: 1px solid var(--rule); }
+  .research-paper:last-child { border-bottom: 0; }
+  .research-paper-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem; }
+  .research-paper-title { margin: 0; font-size: 1.05rem; line-height: 1.45; }
+  .research-paper-title a { color: var(--fg); text-decoration: none; }
+  .research-paper-title a:hover { color: var(--link); text-decoration: underline; }
+  .research-score { flex-shrink: 0; background: var(--rank-high-bg); color: var(--rank-high-fg); }
+  .research-original-title { margin: 0.3rem 0 0; color: var(--muted); font-size: 0.78rem; }
+  .research-original-title span { font-weight: 600; }
+  .research-meta { margin: 0.45rem 0 0.35rem; color: var(--muted); font-size: 0.76rem; }
+  .research-topic { margin: 0; background: var(--rank-low-bg); color: var(--rank-low-fg); }
+  .research-details { margin: 0.8rem 0; display: grid; gap: 0.45rem; }
+  .research-detail { display: grid; grid-template-columns: minmax(7rem, 0.25fr) 1fr; gap: 0.8rem; }
+  .research-detail dt { color: var(--muted); font-size: 0.78rem; font-weight: 600; }
+  .research-detail dd { margin: 0; color: var(--fg-soft); font-size: 0.86rem; }
+  .research-summary-failed, .research-empty { color: var(--muted); font-size: 0.86rem; }
+  .research-original-link { color: var(--link); font-size: 0.8rem; text-decoration: none; }
+  .research-original-link:hover { text-decoration: underline; }
+  @media (max-width: 600px) {
+    .research-paper-head { display: block; }
+    .research-score { margin-top: 0.5rem; }
+    .research-detail { grid-template-columns: 1fr; gap: 0.1rem; }
+  }
+
+  footer {
+    margin-top: 2.5rem;
+    border-top: 1px solid var(--rule);
+    padding-top: 1.1rem;
+    color: var(--muted);
+    font-size: 0.82rem;
+  }
+</style>
+</head>
+<body>
+<main>
+  <header class="report-header">
+    <span class="eyebrow">妇产科医学晨报</span>
+    <h1 class="report-title">2026-10-22</h1>
+    <a class="archive-link" href="../archive.html">← 历史归档</a>
+  </header>
+
+  <section class="hero-card">
+    <span class="hero-eyebrow">今日妇产科要闻</span>
+    <p class="hero-headline">不孕女性生育力评估委员会意见发布：强调系统、快速、经济的诊断路径</p>
+  </section>
+  <section class="overview-card">
+    <span class="eyebrow">今日总览</span>
+    <p class="overview-text">今日妇产科专业信息量较少，仅检索到一条指南类更新：《Fertility &amp; Sterility》实践指南栏目发布不孕女性生育力评估委员会意见，强调诊断评估应系统、快速、经济，并优先识别相关致病因素。过去24小时未见可信来源的妇产科手术前沿进展，也无国内外妇产科动态更新，相关栏目留空。</p>
+  </section>
+  <section class="digest-category">
+    <div class="category-header"><h2 class="category-title">今日妇产科要闻</h2><span class="category-count">1</span></div>
+    <div class="brief-list"><article class="brief">
+    <div class="brief-head">
+      <span class="brief-source">PubMed · Fertility &amp; Sterility Practice Guidance</span>
+      <span class="brief-rank mid">7/10</span>
+    </div>
+    <h3 class="brief-title"><a href="https://pubmed.ncbi.nlm.nih.gov/42901815/" target="_blank" rel="noopener noreferrer">Fertility evaluation of infertile women: a committee opinion.</a></h3>
+    <p class="brief-summary">《Fertility &amp; Sterility》实践指南栏目发布委员会意见，指出不孕女性的诊断性评估应以系统、快速、经济的方式进行，全面识别相关致病因素，初始检查强调优先选择创伤较小的项目。原文摘要未说明与既往建议的差异，若落地将推动不孕评估路径向高效与微创排序倾斜。</p>
+  </article></div>
+  </section>
+  <section class="editor-card">
+    <span class="eyebrow">编辑短评</span>
+    <p class="editor-text">今日仅一条指南类信号，生殖医学评估路径的效率与微创排序值得关注，其余栏目暂无合格更新。</p>
+  </section>
+  <span class="eyebrow">今日关键词</span>
+  <div class="keywords"><span class="keyword">#不孕症</span><span class="keyword">#生育力评估</span><span class="keyword">#委员会意见</span><span class="keyword">#生殖医学</span><span class="keyword">#诊断路径</span><span class="keyword">#指南共识</span></div>
+
+  <nav class="tabs" role="tablist">
+    <button class="tab active" data-tab="tech">指南与共识更新<span class="count">1</span></button>
+    <button class="tab" data-tab="finance">妇产科手术前沿<span class="count">0</span></button>
+    <button class="tab" data-tab="international-obgyn">国际妇产科动态<span class="count">0</span></button>
+    <button class="tab" data-tab="china-obgyn">国内妇产科动态<span class="count">0</span></button>
+  </nav>
+
+  <section class="panel active" data-panel="tech">
+    <div class="sub-content active" data-sub-content="guidelines" data-cat="tech">
+    <nav class="source-tabs"><button class="source-tab active" data-source="acog-clinical-guidance" data-sub="guidelines" data-cat="tech">ACOG Clinical Guidance<span class="count">0</span></button><button class="source-tab" data-source="rcog-guidance" data-sub="guidelines" data-cat="tech">RCOG Guidance<span class="count">0</span></button><button class="source-tab" data-source="who-maternal-health" data-sub="guidelines" data-cat="tech">WHO Maternal Health<span class="count">0</span></button><button class="source-tab" data-source="nice-fertility-pregnancy" data-sub="guidelines" data-cat="tech">NICE Fertility, Pregnancy and Childbirth<span class="count">0</span></button><button class="source-tab" data-source="smfm-publications" data-sub="guidelines" data-cat="tech">SMFM Publications and Clinical Guidelines<span class="count">0</span></button><button class="source-tab" data-source="pubmed-asrm-guidance" data-sub="guidelines" data-cat="tech">PubMed · Fertility &amp; Sterility Practice Guidance<span class="count">1</span></button><button class="source-tab" data-source="gocm-guidelines" data-sub="guidelines" data-cat="tech">GOCM · Gynecology and Obstetrics Clinical Medicine · Guidelines and Consensus<span class="count">0</span></button><button class="source-tab" data-source="esgo-guidelines" data-sub="guidelines" data-cat="tech">ESGO Guidelines<span class="count">0</span></button><button class="source-tab" data-source="china-clinical-obgyn-current" data-sub="guidelines" data-cat="tech">中国妇产科临床杂志<span class="count">0</span></button></nav>
+    <div class="source-contents">
+      <div class="source-content active" data-source-content="acog-clinical-guidance" data-sub="guidelines" data-cat="tech">
+    <p class="empty">近90天暂无未展示过的权威指南或共识更新。</p>
+  </div>
+<div class="source-content" data-source-content="rcog-guidance" data-sub="guidelines" data-cat="tech">
+    <p class="empty">近90天暂无未展示过的权威指南或共识更新。</p>
+  </div>
+<div class="source-content" data-source-content="who-maternal-health" data-sub="guidelines" data-cat="tech">
+    <p class="empty">近90天暂无未展示过的权威指南或共识更新。</p>
+  </div>
+<div class="source-content" data-source-content="nice-fertility-pregnancy" data-sub="guidelines" data-cat="tech">
+    <p class="empty">近90天暂无未展示过的权威指南或共识更新。</p>
+  </div>
+<div class="source-content" data-source-content="smfm-publications" data-sub="guidelines" data-cat="tech">
+    <p class="empty">近90天暂无未展示过的权威指南或共识更新。</p>
+  </div>
+<div class="source-content" data-source-content="pubmed-asrm-guidance" data-sub="guidelines" data-cat="tech">
+    <article class="article">
+  <h3 class="article-title"><a href="https://pubmed.ncbi.nlm.nih.gov/42901815/" target="_blank" rel="noopener noreferrer">Fertility evaluation of infertile women: a committee opinion.</a></h3>
+  
+  <p class="article-meta">10/20 08:00</p>
+  <p class="article-excerpt">Diagnostic evaluation for infertility in women should be conducted in a systematic, expeditious, and cost-effective manner to identify all the relevant factors with an initial emphasis on the least invasive methods for detecting the most common causes of infertility. The purpose of this committee opinion is to provide a critical review of the current methods and procedures for the evaluation of infertile women, and it replaces the document of the same name, last published in 2021 (Fertil Steril 2021;116:1255-65). · Fertility and sterility · Journal Article · DOI: 10.1016/j.fertnstert.2026.08.686</p>
+  <p class="article-summary"><span class="summary-label">中文介绍</span> 该委员会意见对不孕女性的诊断评估方法与流程进行系统评述，强调以系统、快速且具成本效益的方式识别相关因素，并优先采用微创方法检测最常见的不孕原因；该文件替代2021年发布的同名文件。</p>
+</article>
+  </div>
+<div class="source-content" data-source-content="gocm-guidelines" data-sub="guidelines" data-cat="tech">
+    <p class="empty">近90天暂无未展示过的权威指南或共识更新。</p>
+  </div>
+<div class="source-content" data-source-content="esgo-guidelines" data-sub="guidelines" data-cat="tech">
+    <p class="empty">近90天暂无未展示过的权威指南或共识更新。</p>
+  </div>
+<div class="source-content" data-source-content="china-clinical-obgyn-current" data-sub="guidelines" data-cat="tech">
+    <p class="empty">近90天暂无未展示过的权威指南或共识更新。</p>
+  </div>
+    </div>
+  </div>
+  </section>
+  <section class="panel" data-panel="finance">
+    <div class="sub-content active" data-sub-content="surgery" data-cat="finance">
+    <nav class="source-tabs"><button class="source-tab active" data-source="gocm-surgery" data-sub="surgery" data-cat="finance">GOCM · Gynecology and Obstetrics Clinical Medicine · Surgical Techniques<span class="count">0</span></button><button class="source-tab" data-source="esge-guidelines" data-sub="surgery" data-cat="finance">European Society for Gynaecological Endoscopy Guidelines<span class="count">0</span></button><button class="source-tab" data-source="esge-news" data-sub="surgery" data-cat="finance">European Society for Gynaecological Endoscopy News<span class="count">0</span></button><button class="source-tab" data-source="aagl-surgeryu" data-sub="surgery" data-cat="finance">AAGL SurgeryU<span class="count">0</span></button><button class="source-tab" data-source="jmig-articles-in-press" data-sub="surgery" data-cat="finance">Journal of Minimally Invasive Gynecology - Articles in Press<span class="count">0</span></button></nav>
+    <div class="source-contents">
+      <div class="source-content active" data-source-content="gocm-surgery" data-sub="surgery" data-cat="finance">
+    <p class="empty">近30天暂无通过专业筛选的新手术技术进展。</p>
+  </div>
+<div class="source-content" data-source-content="esge-guidelines" data-sub="surgery" data-cat="finance">
+    <p class="empty">近30天暂无通过专业筛选的新手术技术进展。</p>
+  </div>
+<div class="source-content" data-source-content="esge-news" data-sub="surgery" data-cat="finance">
+    <p class="empty">近30天暂无通过专业筛选的新手术技术进展。</p>
+  </div>
+<div class="source-content" data-source-content="aagl-surgeryu" data-sub="surgery" data-cat="finance">
+    <p class="empty">近30天暂无通过专业筛选的新手术技术进展。</p>
+  </div>
+<div class="source-content" data-source-content="jmig-articles-in-press" data-sub="surgery" data-cat="finance">
+    <p class="empty">近30天暂无通过专业筛选的新手术技术进展。</p>
+  </div>
+    </div>
+  </div>
+  </section>
+  <section class="panel" data-panel="international-obgyn">
+    <div class="sub-content active" data-sub-content="international-obgyn" data-cat="politics">
+    <nav class="source-tabs"><button class="source-tab active" data-source="acog-news" data-sub="international-obgyn" data-cat="politics">ACOG News<span class="count">0</span></button><button class="source-tab" data-source="rcog-news" data-sub="international-obgyn" data-cat="politics">RCOG News<span class="count">0</span></button><button class="source-tab" data-source="figo-guidance" data-sub="international-obgyn" data-cat="politics">FIGO Guidance (PubMed)<span class="count">0</span></button><button class="source-tab" data-source="figo-podcast" data-sub="international-obgyn" data-cat="politics">FIGO Society Updates<span class="count">0</span></button><button class="source-tab" data-source="figo-society-pubmed" data-sub="international-obgyn" data-cat="politics">FIGO Society Updates (PubMed)<span class="count">0</span></button><button class="source-tab" data-source="who-womens-health" data-sub="international-obgyn" data-cat="politics">WHO Women&#39;s Health<span class="count">0</span></button><button class="source-tab" data-source="fda-owh-news" data-sub="international-obgyn" data-cat="politics">FDA Office of Women&#39;s Health News<span class="count">0</span></button><button class="source-tab" data-source="medical-xpress-obgyn" data-sub="international-obgyn" data-cat="politics">Medical Xpress Obstetrics &amp; Gynecology<span class="count">0</span></button><button class="source-tab" data-source="medpage-today-headlines" data-sub="international-obgyn" data-cat="politics">MedPage Today<span class="count">0</span></button></nav>
+    <div class="source-contents">
+      <div class="source-content active" data-source-content="acog-news" data-sub="international-obgyn" data-cat="politics">
+    <p class="empty">近7天暂无通过领域与专业价值筛选的重要更新。</p>
+  </div>
+<div class="source-content" data-source-content="rcog-news" data-sub="international-obgyn" data-cat="politics">
+    <p class="empty">近7天暂无通过领域与专业价值筛选的重要更新。</p>
+  </div>
+<div class="source-content" data-source-content="figo-guidance" data-sub="international-obgyn" data-cat="politics">
+    <p class="empty">近7天暂无通过领域与专业价值筛选的重要更新。</p>
+  </div>
+<div class="source-content" data-source-content="figo-podcast" data-sub="international-obgyn" data-cat="politics">
+    <p class="empty">近7天暂无通过领域与专业价值筛选的重要更新。</p>
+  </div>
+<div class="source-content" data-source-content="figo-society-pubmed" data-sub="international-obgyn" data-cat="politics">
+    <p class="empty">近7天暂无通过领域与专业价值筛选的重要更新。</p>
+  </div>
+<div class="source-content" data-source-content="who-womens-health" data-sub="international-obgyn" data-cat="politics">
+    <p class="empty">近7天暂无通过领域与专业价值筛选的重要更新。</p>
+  </div>
+<div class="source-content" data-source-content="fda-owh-news" data-sub="international-obgyn" data-cat="politics">
+    <p class="empty">近7天暂无通过领域与专业价值筛选的重要更新。</p>
+  </div>
+<div class="source-content" data-source-content="medical-xpress-obgyn" data-sub="international-obgyn" data-cat="politics">
+    <p class="empty">近7天暂无通过领域与专业价值筛选的重要更新。</p>
+  </div>
+<div class="source-content" data-source-content="medpage-today-headlines" data-sub="international-obgyn" data-cat="politics">
+    <p class="empty">近7天暂无通过领域与专业价值筛选的重要更新。</p>
+  </div>
+    </div>
+  </div>
+  </section>
+  <section class="panel" data-panel="china-obgyn">
+    <div class="sub-content active" data-sub-content="china-obgyn" data-cat="politics">
+    
+    <div class="source-contents">
+      <div class="source-content active" data-source-content="cogonline-clinical-guidance" data-sub="china-obgyn" data-cat="politics">
+    <p class="empty">近7天暂无通过领域与专业价值筛选的重要更新。</p>
+  </div>
+    </div>
+  </div>
+  </section>
+
+  <section class="research-section">
+    <div class="research-section-head">
+      <div>
+        <span class="eyebrow">Research Intelligence</span>
+        <h2>研究前沿论文</h2>
+      </div>
+      
+    </div>
+    <p class="research-as-of">数据截至 2026-10-21T22:16:00.791Z</p>
+    <p class="research-signal">今日共筛选出5篇达到阈值的研究，重点涉及产前他汀暴露与亚洲女性不良出生结局：系统综述与荟萃分析、低收入和中等收入国家预防孕产妇围产期感染的健康系统干预：系统综述、不孕相关压力与依恋风格对接受不孕治疗女性生育准备度的预测作用。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。</p>
+    <div class="research-papers"><article class="research-paper">
+    <div class="research-paper-head">
+      <div>
+        <h3 class="research-paper-title"><a href="https://pubmed.ncbi.nlm.nih.gov/42902252/" target="_blank" rel="noopener noreferrer">产前他汀暴露与亚洲女性不良出生结局：系统综述与荟萃分析</a></h3>
+        <p class="research-original-title"><span>英文题名</span> Prenatal statin exposure and adverse birth outcomes in Asian women: a systematic review and meta-analysis.</p>
+      </div>
+      <span class="research-score">综合评分 100.00</span>
+    </div>
+    <p class="research-meta">BMC pediatrics · 2026-07-23 · PMID 42902252 · DOI 10.1186/s12887-026-07379-0</p>
+    <p class="research-topic">兴趣方向 · maternal-fetal-medicine</p>
+    <dl class="research-details"><div class="research-detail"><dt>研究问题</dt><dd>评估亚洲女性产前他汀暴露与不良妊娠结局（包括低出生体重、早产和先天畸形）之间的关联。</dd></div><div class="research-detail"><dt>研究设计</dt><dd>符合PRISMA的系统综述与荟萃分析；纳入随机和观察性研究，对3项全国性观察队列进行定量合成，并对1项随机试验进行定性综述。</dd></div><div class="research-detail"><dt>研究对象与样本</dt><dd>亚洲人群。定量合成纳入来自台湾和韩国的3项全国性观察队列；另定性综述1项印度尼西亚的普伐他汀预防子痫前期随机试验；总样本量摘要未报告。</dd></div><div class="research-detail"><dt>方法</dt><dd>检索PubMed、Embase、Cochrane Library、Web of Science和试验注册库至2026年1月31日；纳入报告低出生体重、早产或先天畸形的亚洲人群随机和观察性研究；采用随机效应逆方差模型合并校正风险比，并用标准工具评估偏倚风险。</dd></div><div class="research-detail"><dt>关键结果</dt><dd>产前他汀暴露与先天畸形无显著关联（RR 0.98，95% CI 0.89-1.08，I²=0%）；与低出生体重相关（RR 1.27，95% CI 1.07-1.49，I²=49%）；与早产的关联无统计学意义（RR 1.24，95% CI 0.95-1.62，I²=87%）。仅比较暴露与未暴露的敏感性分析得到相似结论。</dd></div><div class="research-detail"><dt>局限性</dt><dd>定量合成仅纳入3项全国性观察队列，证据主要来自东亚；作者指出低出生体重结果需谨慎解释，原因包括残余混杂、对照选择异质性、早产相关低出生体重以及不同他汀的药理异质性；摘要未报告总样本量及各研究偏倚风险的具体结果。</dd></div><div class="research-detail"><dt>临床解读</dt><dd>现有亚洲证据未显示产前他汀暴露或继续用药与先天畸形存在明确关联；低出生体重呈幅度不大的关联，但因混杂和异质性需谨慎看待；早产证据仍不确定。该结果不足以改变临床实践或形成指南，个体化决策仍需更多证据。</dd></div></dl>
+    <a class="research-original-link" href="https://pubmed.ncbi.nlm.nih.gov/42902252/" target="_blank" rel="noopener noreferrer">查看论文原文 →</a>
+  </article>
+<article class="research-paper">
+    <div class="research-paper-head">
+      <div>
+        <h3 class="research-paper-title"><a href="https://pubmed.ncbi.nlm.nih.gov/42902316/" target="_blank" rel="noopener noreferrer">低收入和中等收入国家预防孕产妇围产期感染的健康系统干预：系统综述</a></h3>
+        <p class="research-original-title"><span>英文题名</span> Health systems interventions for prevention of maternal peripartum infection in low and middle-income countries: a systematic review.</p>
+      </div>
+      <span class="research-score">综合评分 100.00</span>
+    </div>
+    <p class="research-meta">BMC women&#39;s health · 2026-07-23 · PMID 42902316 · DOI 10.1186/s12905-026-04710-w</p>
+    <p class="research-topic">兴趣方向 · maternal-fetal-medicine</p>
+    <dl class="research-details"><div class="research-detail"><dt>研究问题</dt><dd>识别并评价在低收入和中等收入国家预防孕产妇围产期感染的干预措施。</dd></div><div class="research-detail"><dt>研究设计</dt><dd>采用PRISMA模型的系统综述，纳入原始干预性研究。</dd></div><div class="research-detail"><dt>研究对象与样本</dt><dd>低收入和中等收入国家的研究人群；最终纳入24项研究，共55,982名参与者。</dd></div><div class="research-detail"><dt>方法</dt><dd>检索Cochrane Library、CINAHL、MEDLINE（通过PubMed）、Scopus、WHO和NICE网站，检索时间为2022年8月1日至2022年10月30日，为期3个月；检索词包括Peripartum、Infection、Genital tract及其MeSH词；纳入标准为报告预防孕产妇围产期感染干预的原始干预性研究、来自低收入和中等收入国家、英文发表；使用Cochrane Risk of Bias工具评价研究质量。</dd></div><div class="research-detail"><dt>关键结果</dt><dd>从1,662篇文章中纳入24项研究，共55,982名参与者。干预分为5类：抗生素预防10项（42%）、自我照护培训6项（25%）、皮肤准备5项（21%）、传统接生员培训2项（2%）、清洁分娩包1项（1%）；摘要报告11项研究显示感染风险显著降低（原文该处排版为“1(1%)0.11 studies reported a significantly lower risk of infection”）。4项研究报告女性对围产期感染的知识和实践显著改善；6项研究报告干预后感染风险无变化。</dd></div><div class="research-detail"><dt>局限性</dt><dd>纳入干预均针对单一措施，未整合其他卫生系统组成部分；检索限英文且时间窗为3个月；作者指出需要整合型卫生系统干预和进一步研究以产生更强证据并指导有效实施；摘要未报告各研究偏倚风险的具体结果及效应量合并结果。</dd></div><div class="research-detail"><dt>临床解读</dt><dd>该综述识别了多类围产期感染预防干预，部分研究报告感染风险降低或知识实践改善，但也有研究报告无变化；作者强调需要整合型卫生系统干预和更强证据。现有结果不足以将任一单一干预直接作为指南推荐，实施应结合本地卫生系统条件并进一步研究。</dd></div></dl>
+    <a class="research-original-link" href="https://pubmed.ncbi.nlm.nih.gov/42902316/" target="_blank" rel="noopener noreferrer">查看论文原文 →</a>
+  </article>
+<article class="research-paper">
+    <div class="research-paper-head">
+      <div>
+        <h3 class="research-paper-title"><a href="https://pubmed.ncbi.nlm.nih.gov/42902329/" target="_blank" rel="noopener noreferrer">不孕相关压力与依恋风格对接受不孕治疗女性生育准备度的预测作用</a></h3>
+        <p class="research-original-title"><span>英文题名</span> Infertility-related stress and attachment styles as predictors of fertility readiness in women undergoing infertility treatment.</p>
+      </div>
+      <span class="research-score">综合评分 85.00</span>
+    </div>
+    <p class="research-meta">BMC women&#39;s health · 2026-07-24 · PMID 42902329 · DOI 10.1186/s12905-026-04729-z</p>
+    <p class="research-topic">兴趣方向 · reproductive-medicine</p>
+    <dl class="research-details"><div class="research-detail"><dt>研究问题</dt><dd>在接受不孕治疗的女性中，不孕相关压力和依恋风格是否与生育准备度相关，并识别其预测因素。</dd></div><div class="research-detail"><dt>研究设计</dt><dd>描述性横断面研究。</dd></div><div class="research-detail"><dt>研究对象与样本</dt><dd>2024年4月至2024年9月在土耳其阿达纳省阿达纳城市医院辅助生殖治疗中心寻求治疗的316名女性。</dd></div><div class="research-detail"><dt>方法</dt><dd>使用个人信息表、生育问题压力量表、关系量表问卷和接受生育治疗女性生育准备度量表收集数据；分析压力各领域和依恋各分量表与生育准备度的关系，并进行回归分析。</dd></div><div class="research-detail"><dt>关键结果</dt><dd>生育准备度量表总均分为89.88 ± 13.34。生育准备度与个人压力领域得分呈负向、低水平且显著的关联（p &lt; 0.05）；准备的身体和大脑与社交压力领域得分呈显著负向关联（p &lt; 0.05）。包含所有压力领域和依恋分量表得分的回归分析解释生育准备度变异的4.6%（R²adjusted = 0.046，p &lt; 0.001）；在该模型中，个人压力升高和 preoccupied attachment 升高是唯一有统计学意义的个体预测因素（p &lt; 0.05）。</dd></div><div class="research-detail"><dt>局限性</dt><dd>横断面设计不能推断因果；回归模型仅解释4.6%的生育准备度变异；研究为土耳其单中心样本，外推性有限；使用量表评估，摘要未报告抽样方法、应答率及混杂因素调整情况。</dd></div><div class="research-detail"><dt>临床解读</dt><dd>在该样本中，个人压力较低和 preoccupied attachment 较低与较高的生育准备度相关；但横断面关联和较低的解释方差提示不能据此推断干预因果或用于临床筛选。摘要未报告可操作的干预阈值，结果需在更多人群中验证。</dd></div></dl>
+    <a class="research-original-link" href="https://pubmed.ncbi.nlm.nih.gov/42902329/" target="_blank" rel="noopener noreferrer">查看论文原文 →</a>
+  </article>
+<article class="research-paper">
+    <div class="research-paper-head">
+      <div>
+        <h3 class="research-paper-title"><a href="https://pubmed.ncbi.nlm.nih.gov/42902392/" target="_blank" rel="noopener noreferrer">全身免疫和凝血放大指标可解决子宫内膜异位症相关卵巢癌的诊断模糊性</a></h3>
+        <p class="research-original-title"><span>英文题名</span> Systemic immune and coagulation amplifiers resolve diagnostic ambiguity in endometriosis-associated ovarian cancer.</p>
+      </div>
+      <span class="research-score">综合评分 85.00</span>
+    </div>
+    <p class="research-meta">Journal of ovarian research · 2026-07-23 · PMID 42902392 · DOI 10.1186/s13048-026-02205-8</p>
+    <p class="research-topic">兴趣方向 · gynecologic-oncology</p>
+    <dl class="research-details"><div class="research-detail"><dt>研究问题</dt><dd>在影像表现重叠且CA125常因良性盆腔炎症升高的背景下，子宫内膜异位症相关卵巢癌（EAOC）是否具有可改善术前风险分层的全身免疫-凝血特征，并能否用于区分EAOC与良性卵巢子宫内膜瘤？</dd></div><div class="research-detail"><dt>研究设计</dt><dd>回顾性分析，构建并内部验证多变量logistic回归列线图。</dd></div><div class="research-detail"><dt>研究对象与样本</dt><dd>2015年1月至2025年2月接受初次手术的初治卵巢肿块患者；EAOC 49例，良性卵巢子宫内膜瘤（OE）146例，均按Sampson-Scott标准经组织病理学确认。</dd></div><div class="research-detail"><dt>方法</dt><dd>回顾性分析术前2周内的实验室指标：纤维蛋白原、白蛋白、绝对单核细胞计数（AMC）、CA125和HE4，并计算纤维蛋白原/白蛋白比值（FAR）；构建整合年龄、绝经状态、AMC、FAR、CA125和HE4的多变量logistic回归模型（CO-MHF列线图）；补充进行LASSO logistic回归、基于AIC的逐步选择和add-one/drop-one边际贡献分析；用AUC、bootstrap置信区间、Hosmer-Lemeshow检验和决策曲线分析评估区分度、校准和临床效用。</dd></div><div class="research-detail"><dt>关键结果</dt><dd>EAOC组FAR和AMC显著高于OE组（FAR中位数0.10对0.07；AMC中位数0.39对0.31 × 10⁹/L）。CO-MHF模型显示良好的内部区分度（AUC 0.932，95% CI 0.887-0.968），优于HE4（0.835）、FAR（0.786）、CA125（0.769）和AMC（0.657）。在Youden确定的阈值0.468处，灵敏度75.5%、特异度95.9%，阳性预测值86.0%，阴性预测值92.1%；降低阈值可使灵敏度升至85.7%-93.9%，但特异度下降。基于AIC的逐步选择识别出相同变量，LASSO保留所有CO-MHF预测因子；校准可接受（Hosmer-Lemeshow P = 0.225），决策曲线分析显示在多个阈值概率范围内净获益更高。</dd></div><div class="research-detail"><dt>局限性</dt><dd>回顾性分析，仅报告内部区分度、校准和临床效用，未报告外部多中心前瞻性验证；样本为49例EAOC和146例OE，可能存在选择偏倚和未测量混杂；作者指出仍需前瞻性多中心验证和临床阈值优化。</dd></div><div class="research-detail"><dt>临床解读</dt><dd>CO-MHF列线图在回顾性数据中显示较好的内部区分度和净获益，可能作为EAOC术前风险分层的辅助工具；但该模型不能据此确诊，也不能替代病理诊断。在临床使用前需外部验证和阈值优化。</dd></div></dl>
+    <a class="research-original-link" href="https://pubmed.ncbi.nlm.nih.gov/42902392/" target="_blank" rel="noopener noreferrer">查看论文原文 →</a>
+  </article>
+<article class="research-paper">
+    <div class="research-paper-head">
+      <div>
+        <h3 class="research-paper-title"><a href="https://pubmed.ncbi.nlm.nih.gov/42902435/" target="_blank" rel="noopener noreferrer">严重孕产妇发病率中的种族差异：孕产妇合并症的作用</a></h3>
+        <p class="research-original-title"><span>英文题名</span> Racial Disparities in Severe Maternal Morbidity: The Role of Maternal Comorbidities.</p>
+      </div>
+      <span class="research-score">综合评分 85.00</span>
+    </div>
+    <p class="research-meta">Health economics · 2026-10-20 · PMID 42902435 · DOI 10.1002/hec.70158</p>
+    <p class="research-topic">兴趣方向 · maternal-fetal-medicine</p>
+    <dl class="research-details"><div class="research-detail"><dt>研究问题</dt><dd>孕产妇合并症在Black-White严重孕产妇发病率（SMM）差异中起多大作用？</dd></div><div class="research-detail"><dt>研究设计</dt><dd>基于医院出院数据的回顾性观察性分析，采用Oaxaca-Blinder分解。</dd></div><div class="research-detail"><dt>研究对象与样本</dt><dd>2016-2022年美国德克萨斯州医院出院数据中的孕产妇；分析Black与White女性之间的SMM差异；样本量摘要未报告。</dd></div><div class="research-detail"><dt>方法</dt><dd>使用2016-2022年德州医院出院数据和经验证的产科合并症评分；记录SMM患病率和孕产妇合并症负担变化；将合并症评分拆分为基础健康状况和妊娠特有条件；采用Oaxaca-Blinder分解评估各因素对Black-White SMM差异的贡献，并在医院间、医院内及同一医生诊治人群中评估残差差异。</dd></div><div class="research-detail"><dt>关键结果</dt><dd>SMM患病率在2016-2022年间增加18%，同期孕产妇合并症负担增加42%；Black女性SMM风险约为White女性的近两倍。Oaxaca-Blinder分解显示，基础健康状况占Black-White SMM差异的最大份额（49%-53%），妊娠特有条件额外贡献约三分之一；在考虑这些因素后，仍存在17%-20%的残差Black-White SMM差异，且该差异见于医院间、医院内以及同一医生诊治的人群中。</dd></div><div class="research-detail"><dt>局限性</dt><dd>观察性分析不能推断因果；基于2016-2022年德州医院出院数据，外推至其他地区需谨慎；摘要未报告样本量、分解模型的具体假设、编码准确性及残余混杂情况。</dd></div><div class="research-detail"><dt>临床解读</dt><dd>Black-White SMM差异中，基础健康状况和妊娠特有条件解释了大部分，但仍有17%-20%的残差差异；提示改善孕前全生命周期健康和产前照护可能重要，但该研究不能证明具体干预有效，也不能据此形成指南。</dd></div></dl>
+    <a class="research-original-link" href="https://pubmed.ncbi.nlm.nih.gov/42902435/" target="_blank" rel="noopener noreferrer">查看论文原文 →</a>
+  </article></div>
+  </section>
+
+  <footer>
+    内容均来自原媒体，本站仅作摘要整理与回链。
+  </footer>
+</main>
+<script>
+  document.querySelectorAll('.tabs > .tab').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var target = btn.dataset.tab;
+      document.querySelectorAll('.tabs > .tab').forEach(function (b) {
+        b.classList.toggle('active', b === btn);
+      });
+      document.querySelectorAll('.panel').forEach(function (p) {
+        p.classList.toggle('active', p.dataset.panel === target);
+      });
+    });
+  });
+  // Scope sub-tab / source-tab toggles to the parent .panel so two L1 panels
+  // can share the same data-cat (e.g. tech main + community both data-cat=tech)
+  // without stomping on each other's active state.
+  document.querySelectorAll('.sub-tab').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var panel = btn.closest('.panel');
+      if (!panel) return;
+      var sub = btn.dataset.sub;
+      panel.querySelectorAll('.sub-tab').forEach(function (b) {
+        b.classList.toggle('active', b === btn);
+      });
+      panel.querySelectorAll('.sub-content').forEach(function (p) {
+        p.classList.toggle('active', p.dataset.subContent === sub);
+      });
+    });
+  });
+  document.querySelectorAll('.source-tab').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var subContent = btn.closest('.sub-content');
+      if (!subContent) return;
+      var src = btn.dataset.source;
+      subContent.querySelectorAll('.source-tab').forEach(function (b) {
+        b.classList.toggle('active', b === btn);
+      });
+      subContent.querySelectorAll('.source-content').forEach(function (p) {
+        p.classList.toggle('active', p.dataset.sourceContent === src);
+      });
+    });
+  });
+  // Trading panel: asset-group sub-tabs (US/crypto/china/commodity)
+  document.querySelectorAll('.trading-group-tab').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var grp = btn.dataset.group;
+      document.querySelectorAll('.trading-group-tab').forEach(function (b) {
+        b.classList.toggle('active', b === btn);
+      });
+      document.querySelectorAll('.trading-group-content').forEach(function (p) {
+        p.classList.toggle('active', p.dataset.group === grp);
+      });
+    });
+  });
+</script>
+</body>
+</html>

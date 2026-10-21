@@ -1,0 +1,274 @@
+{
+  "hero_headline": "不孕女性生育力评估委员会意见发布：强调系统、快速、经济的诊断路径",
+  "daily_overview": "今日妇产科专业信息量较少，仅检索到一条指南类更新：《Fertility & Sterility》实践指南栏目发布不孕女性生育力评估委员会意见，强调诊断评估应系统、快速、经济，并优先识别相关致病因素。过去24小时未见可信来源的妇产科手术前沿进展，也无国内外妇产科动态更新，相关栏目留空。",
+  "tech_briefs": [
+    {
+      "title": "Fertility evaluation of infertile women: a committee opinion.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42901815/",
+      "source": "PubMed · Fertility & Sterility Practice Guidance",
+      "summary": "《Fertility & Sterility》实践指南栏目发布委员会意见，指出不孕女性的诊断性评估应以系统、快速、经济的方式进行，全面识别相关致病因素，初始检查强调优先选择创伤较小的项目。原文摘要未说明与既往建议的差异，若落地将推动不孕评估路径向高效与微创排序倾斜。",
+      "importance": 7
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "今日仅一条指南类信号，生殖医学评估路径的效率与微创排序值得关注，其余栏目暂无合格更新。",
+  "keywords": [
+    "不孕症",
+    "生育力评估",
+    "委员会意见",
+    "生殖医学",
+    "诊断路径",
+    "指南共识"
+  ],
+  "research": {
+    "generatedAt": "2026-10-21T22:16:00.791Z",
+    "dataAsOf": "2026-10-21T22:16:00.791Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及产前他汀暴露与亚洲女性不良出生结局：系统综述与荟萃分析、低收入和中等收入国家预防孕产妇围产期感染的健康系统干预：系统综述、不孕相关压力与依恋风格对接受不孕治疗女性生育准备度的预测作用。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42902252",
+        "pmid": "42902252",
+        "doi": "10.1186/s12887-026-07379-0",
+        "title": "Prenatal statin exposure and adverse birth outcomes in Asian women: a systematic review and meta-analysis.",
+        "abstract": "BACKGROUND: The safety of statin use during pregnancy remains controversial. We aimed to evaluate the association between prenatal statin exposure and pregnancy outcomes in Asian women, including low birth weight, preterm birth, and congenital anomalies.\nMETHODS: We conducted a PRISMA-compliant systematic review and meta-analysis of studies in Asian populations evaluating prenatal statin exposure. PubMed, Embase, the Cochrane Library, Web of Science, and trial registries were searched through January 31, 2026. Eligible randomized and observational studies included Asian populations and reported low birth weight, preterm birth, or congenital anomalies. Adjusted risk ratios were pooled using random-effects inverse-variance models, and risk of bias was assessed with standard tools.\nRESULTS: Three nationwide observational cohort studies from Taiwan and South Korea were included in the quantitative synthesis, and one Indonesian randomized trial of pravastatin for preeclampsia prevention was reviewed qualitatively. Prenatal statin exposure was not associated with congenital anomalies (RR, 0.98; 95% CI, 0.89-1.08; I 2 = 0%), but was associated with low birth weight (RR, 1.27; 95% CI, 1.07-1.49; I 2 = 49%). The association with preterm birth was not statistically significant (RR, 1.24; 95% CI, 0.95-1.62; I 2 = 87%). Sensitivity analyses restricted to exposed versus unexposed comparisons yielded similar conclusions.\nCONCLUSIONS: The available Asian evidence, largely derived from nationwide East Asian cohorts, suggests no clear association between prenatal statin exposure or continuation and congenital anomalies. A modest association with low birth weight was observed, whereas evidence for preterm birth remained inconclusive. The low-birth-weight finding should be interpreted cautiously because of residual confounding, comparator heterogeneity, prematurity-related low birth weight, and pharmacological heterogeneity across statins.\nSYSTEMATIC REVIEW REGISTRATION: PROSPERO CRD420251235975.",
+        "journal": "BMC pediatrics",
+        "authors": [
+          "Caihong Zheng",
+          "Dongli Sun",
+          "Fan Wu",
+          "Li Wang",
+          "Meng Zhang",
+          "Shuya Ye",
+          "Xiao Zhang",
+          "Yue Chen"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-07-23T00:00:00.000Z",
+        "activityAt": "2026-10-21T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42902252/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "产前他汀暴露与亚洲女性不良出生结局：系统综述与荟萃分析",
+          "researchQuestion": "评估亚洲女性产前他汀暴露与不良妊娠结局（包括低出生体重、早产和先天畸形）之间的关联。",
+          "studyDesign": "符合PRISMA的系统综述与荟萃分析；纳入随机和观察性研究，对3项全国性观察队列进行定量合成，并对1项随机试验进行定性综述。",
+          "populationAndSample": "亚洲人群。定量合成纳入来自台湾和韩国的3项全国性观察队列；另定性综述1项印度尼西亚的普伐他汀预防子痫前期随机试验；总样本量摘要未报告。",
+          "methods": "检索PubMed、Embase、Cochrane Library、Web of Science和试验注册库至2026年1月31日；纳入报告低出生体重、早产或先天畸形的亚洲人群随机和观察性研究；采用随机效应逆方差模型合并校正风险比，并用标准工具评估偏倚风险。",
+          "keyResults": "产前他汀暴露与先天畸形无显著关联（RR 0.98，95% CI 0.89-1.08，I²=0%）；与低出生体重相关（RR 1.27，95% CI 1.07-1.49，I²=49%）；与早产的关联无统计学意义（RR 1.24，95% CI 0.95-1.62，I²=87%）。仅比较暴露与未暴露的敏感性分析得到相似结论。",
+          "limitations": "定量合成仅纳入3项全国性观察队列，证据主要来自东亚；作者指出低出生体重结果需谨慎解释，原因包括残余混杂、对照选择异质性、早产相关低出生体重以及不同他汀的药理异质性；摘要未报告总样本量及各研究偏倚风险的具体结果。",
+          "clinicalInterpretation": "现有亚洲证据未显示产前他汀暴露或继续用药与先天畸形存在明确关联；低出生体重呈幅度不大的关联，但因混杂和异质性需谨慎看待；早产证据仍不确定。该结果不足以改变临床实践或形成指南，个体化决策仍需更多证据。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "c2459727ebbeb2aa5c4ef78cda32db02525cf13ceaa536dd04d37b5149ad0f1f"
+      },
+      {
+        "id": "pmid:42902316",
+        "pmid": "42902316",
+        "doi": "10.1186/s12905-026-04710-w",
+        "title": "Health systems interventions for prevention of maternal peripartum infection in low and middle-income countries: a systematic review.",
+        "abstract": "BACKGROUND: Globally, there is growing recognition that a functional health system is key to improving maternal health and reducing maternal mortality. Maternal peripartum infection remains a major cause of maternal morbidity and mortality, particularly in low- and middle-income countries. This infection is a multifaceted problem with many players. Adopting a health systems approach could help avert this preventable infection by addressing the gaps across all the components of care.\nOBJECTIVE: The aim of this systematic review was to identify and evaluate interventions to prevent maternal peripartum infection in LMICs.\nMETHODS: A systematic search was conducted in Cochrane Library, CINAHL, MEDLINE (via PubMed) and Scopus, World Health Organization (WHO), and the National Institute for Health and Care Excellence (NICE) websites to identify primary articles reporting on interventions for preventing maternal peripartum infection using the PRISMA model. The article search was conducted for a period of 3 months (01/08/2022 to 30/10/2022). Search terms were \"Peripartum\", \"Infection\", \"Genital tract\", and their MESH terms. The inclusion criteria were primary interventional studies that reported interventions for the prevention of maternal peripartum infection, studies from LMICs, and those written in the English language. Cochrane Risk of Bias tools were used to appraise the quality of the studies.\nRESULTS: Out of 1662 articles, 24 studies met the inclusion criteria comprising of 55,982 participants. The interventions were grouped into five domains: antibiotic prophylaxis 10(42%) of studies), self-care training 6 (25%), skin preparation 5 (21%), Traditional Birth Attendant training 2(2%) and use of Clean Delivery Kit 1(1%)0.11 studies reported a significantly lower risk of infection. Four studies reported a significantly improved knowledge and practice of women regarding maternal peripartum infection. While six studies reported no change in the risk of infection with the intervention.\nCONCLUSION: A range of interventions targeting maternal peripartum infection prevention in LMICs were identified in this review. They were all targeting a single intervention without integrating other system components. The review highlights the need for integrated health systems interventions and further research to generate stronger evidence and inform effective implementation.\nSTUDY REGISTRATION: PROSPERO CRD42022342550.",
+        "journal": "BMC women's health",
+        "authors": [
+          "David Odada",
+          "Felix Riunga",
+          "Job Mapesa",
+          "Nasra Gathoni",
+          "Roseline Abwao",
+          "Wanja Tenambergen"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-07-23T00:00:00.000Z",
+        "activityAt": "2026-10-21T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42902316/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "低收入和中等收入国家预防孕产妇围产期感染的健康系统干预：系统综述",
+          "researchQuestion": "识别并评价在低收入和中等收入国家预防孕产妇围产期感染的干预措施。",
+          "studyDesign": "采用PRISMA模型的系统综述，纳入原始干预性研究。",
+          "populationAndSample": "低收入和中等收入国家的研究人群；最终纳入24项研究，共55,982名参与者。",
+          "methods": "检索Cochrane Library、CINAHL、MEDLINE（通过PubMed）、Scopus、WHO和NICE网站，检索时间为2022年8月1日至2022年10月30日，为期3个月；检索词包括Peripartum、Infection、Genital tract及其MeSH词；纳入标准为报告预防孕产妇围产期感染干预的原始干预性研究、来自低收入和中等收入国家、英文发表；使用Cochrane Risk of Bias工具评价研究质量。",
+          "keyResults": "从1,662篇文章中纳入24项研究，共55,982名参与者。干预分为5类：抗生素预防10项（42%）、自我照护培训6项（25%）、皮肤准备5项（21%）、传统接生员培训2项（2%）、清洁分娩包1项（1%）；摘要报告11项研究显示感染风险显著降低（原文该处排版为“1(1%)0.11 studies reported a significantly lower risk of infection”）。4项研究报告女性对围产期感染的知识和实践显著改善；6项研究报告干预后感染风险无变化。",
+          "limitations": "纳入干预均针对单一措施，未整合其他卫生系统组成部分；检索限英文且时间窗为3个月；作者指出需要整合型卫生系统干预和进一步研究以产生更强证据并指导有效实施；摘要未报告各研究偏倚风险的具体结果及效应量合并结果。",
+          "clinicalInterpretation": "该综述识别了多类围产期感染预防干预，部分研究报告感染风险降低或知识实践改善，但也有研究报告无变化；作者强调需要整合型卫生系统干预和更强证据。现有结果不足以将任一单一干预直接作为指南推荐，实施应结合本地卫生系统条件并进一步研究。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "a9e0e264729679c7b2e7b0039c52a7662867854834052aec059b98234323807f"
+      },
+      {
+        "id": "pmid:42902329",
+        "pmid": "42902329",
+        "doi": "10.1186/s12905-026-04729-z",
+        "title": "Infertility-related stress and attachment styles as predictors of fertility readiness in women undergoing infertility treatment.",
+        "abstract": "BACKGROUND: This study aimed to identify the predictors of fertility readiness, specifically examining the roles of infertility-related stress and attachment styles in women undergoing infertility treatment.\nMETHODS: This study used a descriptive and cross-sectional design. It was conducted with 316 women who sought treatment at the Assisted Reproductive Treatment Center at Adana City Hospital, located in Adana Province, Turkey, between April 2024 and September 2024. Data were collected through the \"Personal Information Form,\" the \"Fertility Problem Stress Scale,\" the \"Relationship Scales Questionnaire,\" and the \"Fertility Preparedness Scale for Women Receiving Fertility Treatment\".\nRESULTS: The participants' Fertility Preparedness Scale total mean score was 89.88 ± 13.34. A negative, low-level, and significant relationship was found between fertility preparedness and personal stress domain score (p < 0.05). A negative and significant relationship was also found between the prepared body and brain and the social stress domain score (p < 0.05). Regression analysis, including all stress domain and attachment subscale scores, explained 4.6% of the variance in readiness for fertility (R²adjusted = 0.046, p < 0.001); within this model, increased personal stress and increased preoccupied attachment emerged as the only statistically significant individual predictors (p < 0.05).\nCONCLUSION: This study suggested that women may feel more ready for fertility as their personal stress decreases and their preoccupied attachment levels decline.",
+        "journal": "BMC women's health",
+        "authors": [
+          "Ebru Gozuyesil",
+          "Mehtap Duran",
+          "Rukiye Sulu Dursun",
+          "Sefa Arlier"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-07-24T00:00:00.000Z",
+        "activityAt": "2026-10-21T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42902329/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "不孕相关压力与依恋风格对接受不孕治疗女性生育准备度的预测作用",
+          "researchQuestion": "在接受不孕治疗的女性中，不孕相关压力和依恋风格是否与生育准备度相关，并识别其预测因素。",
+          "studyDesign": "描述性横断面研究。",
+          "populationAndSample": "2024年4月至2024年9月在土耳其阿达纳省阿达纳城市医院辅助生殖治疗中心寻求治疗的316名女性。",
+          "methods": "使用个人信息表、生育问题压力量表、关系量表问卷和接受生育治疗女性生育准备度量表收集数据；分析压力各领域和依恋各分量表与生育准备度的关系，并进行回归分析。",
+          "keyResults": "生育准备度量表总均分为89.88 ± 13.34。生育准备度与个人压力领域得分呈负向、低水平且显著的关联（p < 0.05）；准备的身体和大脑与社交压力领域得分呈显著负向关联（p < 0.05）。包含所有压力领域和依恋分量表得分的回归分析解释生育准备度变异的4.6%（R²adjusted = 0.046，p < 0.001）；在该模型中，个人压力升高和 preoccupied attachment 升高是唯一有统计学意义的个体预测因素（p < 0.05）。",
+          "limitations": "横断面设计不能推断因果；回归模型仅解释4.6%的生育准备度变异；研究为土耳其单中心样本，外推性有限；使用量表评估，摘要未报告抽样方法、应答率及混杂因素调整情况。",
+          "clinicalInterpretation": "在该样本中，个人压力较低和 preoccupied attachment 较低与较高的生育准备度相关；但横断面关联和较低的解释方差提示不能据此推断干预因果或用于临床筛选。摘要未报告可操作的干预阈值，结果需在更多人群中验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "8da00e77b744bc9a84ceaf60023465ac4fea35aa276eb83162455c57b2da8b8c"
+      },
+      {
+        "id": "pmid:42902392",
+        "pmid": "42902392",
+        "doi": "10.1186/s13048-026-02205-8",
+        "title": "Systemic immune and coagulation amplifiers resolve diagnostic ambiguity in endometriosis-associated ovarian cancer.",
+        "abstract": "BACKGROUND: Preoperative discrimination between endometriosis-associated ovarian cancer (EAOC) and benign ovarian endometrioma (OE) remains challenging because imaging findings overlap and CA125 is frequently elevated by benign pelvic inflammation. We hypothesized that EAOC is associated with a systemic immune-coagulation signature that could improve risk stratification beyond tumor markers alone.\nMETHODS: We retrospectively analyzed treatment-naive patients who underwent primary surgery for ovarian masses between January 2015 and February 2025. EAOC (n = 49) and OE (n = 146) were confirmed histopathologically according to the Sampson-Scott criteria. Preoperative laboratory indices obtained within 2 weeks before surgery included fibrinogen, albumin, absolute monocyte count (AMC), CA125, and HE4; the fibrinogen-to-albumin ratio (FAR) was calculated. A multivariable logistic regression model integrating age, menopausal status, AMC, FAR, CA125, and HE4 was developed as the CO-MHF nomogram. Supplementary data-driven analyses included least absolute shrinkage and selection operator (LASSO) logistic regression, Akaike information criterion (AIC)-based stepwise selection, and add-one/drop-one marginal contribution analysis. Discrimination, calibration, and clinical utility were assessed by area under the receiver operating characteristic curve (AUC), bootstrap-derived confidence interval (CI), the Hosmer-Lemeshow test, and decision curve analysis (DCA).\nRESULTS: FAR and AMC were significantly higher in EAOC than in OE (median FAR 0.10 versus 0.07; median AMC 0.39 versus 0.31 × 10 9 /L). The CO-MHF model showed favorable internal discrimination (AUC 0.932, 95% CI 0.887-0.968), outperforming HE4 (0.835), FAR (0.786), CA125 (0.769), and AMC (0.657). At the Youden-derived threshold (0.468), sensitivity was 75.5% and specificity 95.9%, with a positive predictive value (PPV) of 86.0% and a negative predictive value (NPV) of 92.1%. Lower thresholds increased sensitivity to 85.7%-93.9% at the cost of reduced specificity. Supplementary data-driven analyses supported the predictor set: AIC-based stepwise selection identified the same variables, and LASSO retained all CO-MHF predictors. Calibration was acceptable (Hosmer-Lemeshow P = 0.225), and DCA showed greater net benefit across a range of threshold probabilities.\nCONCLUSIONS: A mechanism-informed nomogram combining FAR and AMC with established tumor markers may improve preoperative risk stratification for EAOC. This host-response framework merits further evaluation in other malignancy-versus-inflammation diagnostic settings, although prospective multicenter validation and clinical threshold optimization remain necessary.",
+        "journal": "Journal of ovarian research",
+        "authors": [
+          "Li Luo",
+          "Mingzhu Ye",
+          "Yanwei Tu",
+          "Zirui Zhu"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-07-23T00:00:00.000Z",
+        "activityAt": "2026-10-21T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42902392/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology",
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "全身免疫和凝血放大指标可解决子宫内膜异位症相关卵巢癌的诊断模糊性",
+          "researchQuestion": "在影像表现重叠且CA125常因良性盆腔炎症升高的背景下，子宫内膜异位症相关卵巢癌（EAOC）是否具有可改善术前风险分层的全身免疫-凝血特征，并能否用于区分EAOC与良性卵巢子宫内膜瘤？",
+          "studyDesign": "回顾性分析，构建并内部验证多变量logistic回归列线图。",
+          "populationAndSample": "2015年1月至2025年2月接受初次手术的初治卵巢肿块患者；EAOC 49例，良性卵巢子宫内膜瘤（OE）146例，均按Sampson-Scott标准经组织病理学确认。",
+          "methods": "回顾性分析术前2周内的实验室指标：纤维蛋白原、白蛋白、绝对单核细胞计数（AMC）、CA125和HE4，并计算纤维蛋白原/白蛋白比值（FAR）；构建整合年龄、绝经状态、AMC、FAR、CA125和HE4的多变量logistic回归模型（CO-MHF列线图）；补充进行LASSO logistic回归、基于AIC的逐步选择和add-one/drop-one边际贡献分析；用AUC、bootstrap置信区间、Hosmer-Lemeshow检验和决策曲线分析评估区分度、校准和临床效用。",
+          "keyResults": "EAOC组FAR和AMC显著高于OE组（FAR中位数0.10对0.07；AMC中位数0.39对0.31 × 10⁹/L）。CO-MHF模型显示良好的内部区分度（AUC 0.932，95% CI 0.887-0.968），优于HE4（0.835）、FAR（0.786）、CA125（0.769）和AMC（0.657）。在Youden确定的阈值0.468处，灵敏度75.5%、特异度95.9%，阳性预测值86.0%，阴性预测值92.1%；降低阈值可使灵敏度升至85.7%-93.9%，但特异度下降。基于AIC的逐步选择识别出相同变量，LASSO保留所有CO-MHF预测因子；校准可接受（Hosmer-Lemeshow P = 0.225），决策曲线分析显示在多个阈值概率范围内净获益更高。",
+          "limitations": "回顾性分析，仅报告内部区分度、校准和临床效用，未报告外部多中心前瞻性验证；样本为49例EAOC和146例OE，可能存在选择偏倚和未测量混杂；作者指出仍需前瞻性多中心验证和临床阈值优化。",
+          "clinicalInterpretation": "CO-MHF列线图在回顾性数据中显示较好的内部区分度和净获益，可能作为EAOC术前风险分层的辅助工具；但该模型不能据此确诊，也不能替代病理诊断。在临床使用前需外部验证和阈值优化。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "42c8496c855e9ddfd20727899a5c24e75eb744d81a54bbb66de5530e0a126b35"
+      },
+      {
+        "id": "pmid:42902435",
+        "pmid": "42902435",
+        "doi": "10.1002/hec.70158",
+        "title": "Racial Disparities in Severe Maternal Morbidity: The Role of Maternal Comorbidities.",
+        "abstract": "The U.S. maternal health crisis disproportionately affects Black women, who face nearly twice the risk of severe maternal morbidity (SMM) compared with White women. Using 2016-2022 Texas hospital discharge data and a validated obstetric comorbidity score, the analysis first documents that the prevalence of SMM increased by 18% between 2016 and 2022, whereas maternal comorbidity burden increased by 42% over the same period. To better assess the role of comorbidities, the comorbidity score is disaggregated into underlying health and pregnancy-specific conditions. Oaxaca-Blinder decompositions indicate that the former accounts for the largest share-49 to 53%-of the Black-White SMM gap, while the latter accounts for an additional third of the disparity. After accounting for these factors, a residual Black-White SMM gap of 17%-20% persists across and within hospitals, including among women treated by the same physician. Overall, the findings underscore the critical need to improve women's health well before childbirth hospitalization and throughout the reproductive life course, while also strengthening prenatal care to prevent and effectively manage conditions that arise during pregnancy.",
+        "journal": "Health economics",
+        "authors": [
+          "Annamaria Milazzo"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-20T00:00:00.000Z",
+        "activityAt": "2026-10-21T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42902435/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "严重孕产妇发病率中的种族差异：孕产妇合并症的作用",
+          "researchQuestion": "孕产妇合并症在Black-White严重孕产妇发病率（SMM）差异中起多大作用？",
+          "studyDesign": "基于医院出院数据的回顾性观察性分析，采用Oaxaca-Blinder分解。",
+          "populationAndSample": "2016-2022年美国德克萨斯州医院出院数据中的孕产妇；分析Black与White女性之间的SMM差异；样本量摘要未报告。",
+          "methods": "使用2016-2022年德州医院出院数据和经验证的产科合并症评分；记录SMM患病率和孕产妇合并症负担变化；将合并症评分拆分为基础健康状况和妊娠特有条件；采用Oaxaca-Blinder分解评估各因素对Black-White SMM差异的贡献，并在医院间、医院内及同一医生诊治人群中评估残差差异。",
+          "keyResults": "SMM患病率在2016-2022年间增加18%，同期孕产妇合并症负担增加42%；Black女性SMM风险约为White女性的近两倍。Oaxaca-Blinder分解显示，基础健康状况占Black-White SMM差异的最大份额（49%-53%），妊娠特有条件额外贡献约三分之一；在考虑这些因素后，仍存在17%-20%的残差Black-White SMM差异，且该差异见于医院间、医院内以及同一医生诊治的人群中。",
+          "limitations": "观察性分析不能推断因果；基于2016-2022年德州医院出院数据，外推至其他地区需谨慎；摘要未报告样本量、分解模型的具体假设、编码准确性及残余混杂情况。",
+          "clinicalInterpretation": "Black-White SMM差异中，基础健康状况和妊娠特有条件解释了大部分，但仍有17%-20%的残差差异；提示改善孕前全生命周期健康和产前照护可能重要，但该研究不能证明具体干预有效，也不能据此形成指南。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "fbe27b2134dc0ec2b4d111ca021e82c6913a2472a6f10c17a4318388b54e528c"
+      }
+    ]
+  }
+}

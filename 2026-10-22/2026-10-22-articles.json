@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-22",
+  "articles": [
+    {
+      "sourceId": "pubmed-asrm-guidance",
+      "title": "Fertility evaluation of infertile women: a committee opinion.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42901815/",
+      "excerpt": "Diagnostic evaluation for infertility in women should be conducted in a systematic, expeditious, and cost-effective manner to identify all the relevant factors with an initial emphasis on the least invasive methods for detecting the most common causes of infertility. The purpose of this committee opinion is to provide a critical review of the current methods and procedures for the evaluation of infertile women, and it replaces the document of the same name, last published in 2021 (Fertil Steril 2021;116:1255-65). · Fertility and sterility · Journal Article · DOI: 10.1016/j.fertnstert.2026.08.686",
+      "publishedAt": "2026-10-20T00:00:00.000Z",
+      "category": "tech",
+      "source": "PubMed · Fertility & Sterility Practice Guidance",
+      "summary": "该委员会意见对不孕女性的诊断评估方法与流程进行系统评述，强调以系统、快速且具成本效益的方式识别相关因素，并优先采用微创方法检测最常见的不孕原因；该文件替代2021年发布的同名文件。",
+      "reviewStatus": "accepted",
+      "lowPriority": false
+    }
+  ]
+}
