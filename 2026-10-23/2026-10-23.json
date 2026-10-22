@@ -1,0 +1,256 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-10-22T22:14:58.851Z",
+    "dataAsOf": "2026-10-22T22:14:58.851Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及妇科肿瘤中从疗效到实效：社会决定因素、治疗可移植性与生物学风化、宫颈癌化疗耐药：识别和利用非编码RNA、子宫内膜异位的非激素治疗：多巴胺D2受体激动剂在保留生育力和卵巢功能中的作用。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42902793",
+        "pmid": "42902793",
+        "doi": "10.1093/oncolo/oyag415",
+        "title": "From Efficacy to Effectiveness in Gynecologic Oncology: Social Determinants, Therapeutic Transportability, and Biological Weathering.",
+        "abstract": "Precision therapeutics have improved outcomes in gynecologic oncology, but their population-level impact depends on both biological efficacy and reliable treatment delivery. Randomized controlled trials establish causal effects under defined conditions; real-world evidence characterizes implementation and transportability while introducing distinct confounding and measurement challenges. This contextual narrative review integrates pivotal and updated therapeutic studies with clinical, social and translational evidence available through September 2026. Progression-free survival and overall survival are distinct endpoints, whereas effectiveness concerns benefit in routine care; cross-study interpretation requires aligned populations, treatment strategies, follow-up and estimands. The benefits of poly(ADP-ribose) polymerase inhibitors and immunotherapy are examined separately by molecular subgroup and treatment setting. Financial hardship, geographic access, caregiving and health-system constraints can affect initiation, tolerable exposure and continuity. We use the proposed term \"social discontinuation\" for treatment disruption with a material social contribution, while distinguishing clinical reasons and patient preference. Biological weathering provides plausible links between cumulative adversity and inflammatory, neuroendocrine, epigenetic and immune phenotypes. Human epidemiological associations, translational findings and experimental mechanisms support different inferences; mediation through treatment delivery remains distinct from biological modification of treatment effect. Priorities include justified broader eligibility, prospective social-needs and exposure measurement, responsive symptom management, navigation and hybrid care. Automated extraction and prediction tools require external validation, fairness assessment and prospective clinical-impact evaluation. Integrating randomized and real-world evidence can identify remediable barriers without diminishing the clinical value of effective therapies.",
+        "journal": "The oncologist",
+        "authors": [
+          "Chao Wang",
+          "Ling Li",
+          "Xinyu Yao",
+          "Yamei Chen",
+          "Ziwen Zheng"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-20T00:00:00.000Z",
+        "activityAt": "2026-10-22T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42902793/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "妇科肿瘤中从疗效到实效：社会决定因素、治疗可移植性与生物学风化",
+          "researchQuestion": "如何从疗效证据走向人群实效，理解妇科肿瘤精准治疗的社会决定因素、治疗可移植性和生物学风化？",
+          "studyDesign": "情境化叙述性综述（contextual narrative review）",
+          "populationAndSample": "妇科肿瘤患者；摘要未报告具体样本量、研究数量或人群构成。",
+          "methods": "整合截至2026年9月的关键和更新治疗研究以及临床、社会和转化证据；分别按分子亚组和治疗场景审视聚ADP核糖聚合酶抑制剂和免疫治疗的获益；讨论无进展生存期与总生存期终点、真实世界证据的可移植性、社会 discontinuation（社会性中断）和生物学风化等概念。",
+          "keyResults": "无进展生存期和总生存期是不同终点，而实效关注常规诊疗中的获益；跨研究解读需要人群、治疗策略、随访和估计目标一致。聚ADP核糖聚合酶抑制剂和免疫治疗的获益需按分子亚组和治疗场景分别分析。经济困难、地理可及性、照护责任和卫生系统限制可影响治疗启动、可耐受暴露和连续性。作者提出“社会性中断”一词，指具有实质性社会因素贡献的治疗中断，并与临床原因和患者偏好相区分。生物学风化提供累积逆境与炎症、神经内分泌、表观遗传和免疫表型之间的可能联系。人类流行病学关联、转化发现和实验机制支持不同推断；通过治疗实施的中介作用不同于对治疗效应的生物学修饰。优先事项包括有依据地扩大 eligibility、前瞻性测量社会需求和暴露、响应性症状管理、导航和混合照护；自动提取和预测工具需要外部验证、公平性评估和前瞻性临床影响评价。",
+          "limitations": "本文为情境化叙述性综述；摘要未报告系统检索策略、纳入排除标准、偏倚评估或定量合并。随机对照试验与真实世界证据的推断类型不同，不能将观察性关联直接解释为因果。",
+          "clinicalInterpretation": "整合随机对照与真实世界证据有助于识别可干预的障碍，同时不应削弱有效治疗的临床价值；本文提出研究优先级，而非临床指南。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "ba80d565a5fb61daa4f9240dad317c0b3dcbb41ff6bbca6fff29e055bf746f52"
+      },
+      {
+        "id": "pmid:42903611",
+        "pmid": "42903611",
+        "doi": "10.3389/fonc.2026.1913768",
+        "title": "Chemoresistance in cervical cancer: identifying and exploiting non-coding RNAs.",
+        "abstract": "Drug resistance continues to pose a significant challenge, accounting for a large proportion of relapses and playing a major role in cervical cancer-related mortality worldwide. Emerging evidence has indicated that the aberrant expression of non-coding RNAs, especially circular RNAs (circRNAs), long non-coding RNAs (lncRNAs), and microRNAs (miRNAs) is responsible for drug resistance, which poses a significant challenge to the success of chemotherapy. Addressing drug resistance is crucial for improving patient outcomes and reducing the burden of cervical cancer on healthcare systems. In this review, we summarize the molecular and cellular mechanisms through which circRNAs, miRNAs and lncRNAs mediate drug resistance to common drugs used in the treatment of cervical cancer. This work underscores non-coding RNAs as a promising therapeutic target, offering a potential avenue for overcoming chemoresistance in cervical cancer.",
+        "journal": "Frontiers in oncology",
+        "authors": [
+          "Lilian Makgoo",
+          "Zukile Mbita"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-10-06T00:00:00.000Z",
+        "activityAt": "2026-10-22T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42903611/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "宫颈癌化疗耐药：识别和利用非编码RNA",
+          "researchQuestion": "非编码RNA（circRNA、miRNA、lncRNA）如何介导宫颈癌对常用化疗药物的耐药，并能否作为治疗靶点？",
+          "studyDesign": "综述",
+          "populationAndSample": "宫颈癌；摘要未报告综述纳入研究数量、样本量或人群特征。",
+          "methods": "总结circRNA、miRNA和lncRNA介导宫颈癌对常用治疗药物耐药的分子和细胞机制。",
+          "keyResults": "新证据提示非编码RNA，尤其是circRNA、长链非编码RNA和miRNA的异常表达参与药物耐药，是化疗成功面临的显著挑战。综述强调非编码RNA是有前景的治疗靶点，为克服宫颈癌化疗耐药提供潜在途径。",
+          "limitations": "摘要未报告系统检索策略、纳入研究数量、偏倚评估或临床验证数据；非编码RNA作为治疗靶点的作用仍需进一步研究验证。",
+          "clinicalInterpretation": "非编码RNA可能作为克服宫颈癌化疗耐药的潜在治疗靶点；当前证据为综述层面，需进一步机制和临床研究验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "a418e51078f5a41cde942f11487b5d522adfda75fd166ec5961c5d5ec757d179"
+      },
+      {
+        "id": "pmid:42903633",
+        "pmid": "42903633",
+        "doi": "10.1016/j.xfre.2026.07.005",
+        "title": "Nonhormonal management of endometriosis: Role of dopamine D2 receptor agonists in preserving fertility and ovarian function.",
+        "abstract": "Dopamine D2 receptor (DRD2) agonists represent a promising targeted, nonhormonal therapeutic strategy for endometriosis. These agents selectively downregulate vascular endothelial growth factor-A signaling, thereby inhibiting the aberrant angiogenesis that supports the survival and proliferation of endometriotic lesions. This review synthesizes preclinical and early clinical evidence on DRD2 targeting, with a focus on the clinical translation of cabergoline and quinagolide. In a randomized, double-blind, placebo-controlled pilot trial, a 6-month cabergoline regimen significantly reduced chronic pelvic pain scores and improved pain relief without serious adverse events. Additionally, post hoc analysis of lesion regression showed that 61.3% of lesions in the quinagolide group demonstrated regression, while ovulatory function was preserved in 93% of participants, consistent with maintenance of the hypothalamic-pituitary-ovarian axis. Collectively, these data suggest that DRD2 agonists may represent a fertility-compatible, mechanistically targeted therapeutic approach and underscore the need for adequately powered phase 3 clinical trials.",
+        "journal": "F&S reports",
+        "authors": [
+          "Pradip Kumar Mitra",
+          "Rahi Tinni Basu"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-07-22T00:00:00.000Z",
+        "activityAt": "2026-10-22T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42903633/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "子宫内膜异位的非激素治疗：多巴胺D2受体激动剂在保留生育力和卵巢功能中的作用",
+          "researchQuestion": "多巴胺D2受体激动剂作为非激素靶向治疗，能否在子宫内膜异位症中抑制病灶血管生成、缓解疼痛并保留生育力和卵巢功能？",
+          "studyDesign": "综述，整合临床前和早期临床证据（包括一项随机、双盲、安慰剂对照试点试验及喹高利特病灶消退的事后分析）",
+          "populationAndSample": "子宫内膜异位症患者；具体综述纳入研究数量、各研究样本量及人群特征摘要未报告。",
+          "methods": "综合多巴胺D2受体靶向的临床前和早期临床证据，重点讨论卡麦角林和喹高利特的临床转化。",
+          "keyResults": "多巴胺D2受体激动剂选择性下调血管内皮生长因子-A信号，从而抑制支持子宫内膜异位病灶存活和增殖的异常血管生成。一项随机、双盲、安慰剂对照试点试验中，6个月卡麦角林方案显著降低慢性盆腔痛评分并改善疼痛缓解，无严重不良事件。喹高利特组事后分析显示61.3%的病灶消退，93%的参与者排卵功能保留，与下丘脑-垂体-卵巢轴维持一致。这些数据提示多巴胺D2受体激动剂可能是有生育兼容性的机制靶向治疗方法，并强调需要足够把握度的3期临床试验。",
+          "limitations": "证据主要来自临床前和早期临床研究；卡麦角林试验为随机双盲安慰剂对照试点试验，喹高利特病灶消退为事后分析；摘要未报告样本量。摘要明确指出需要足够把握度的3期临床试验。",
+          "clinicalInterpretation": "多巴胺D2受体激动剂可能代表一种保留生育力、机制靶向的非激素治疗方向；其疗效和安全性尚需3期临床试验确认。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "9392fa80bf68db8f07d2aa7b4f3b245b39df989b5fc5d33054b8e7fc43c1c0b3"
+      },
+      {
+        "id": "pmid:42903651",
+        "pmid": "42903651",
+        "doi": "10.1016/j.xfre.2026.08.003",
+        "title": "Microfluidic sperm separation for intracytoplasmic sperm injection yields similar blastocyst rates compared with density gradient, however, may be of benefit for male factor infertility: a randomized sibling oocyte study.",
+        "abstract": "OBJECTIVE: To study whether microfluidic sperm separation in intracytoplasmic sperm injection cycles provides any benefit over density gradient sperm separation for good-quality embryo formation.\nDESIGN: Randomized sibling oocyte study.\nSUBJECTS: Patients undergoing intracytoplasmic sperm injection.\nINTERVENTION: Microfluidic sperm separation vs. density gradient sperm separation.\nMAIN OUTCOME MEASURES: Primary outcomes were percentage of good-quality blastocyst formation. Secondary outcomes included sperm parameters after sperm separation, including percent motility, grade of forward progression, fertilization rates, blastocyst formation rates, and ploidy rates in the event that preimplantation testing for aneuploidy was performed. Additionally, subanalysis on those with male factor infertility was performed, evaluating primary and secondary outcomes above.\nRESULTS: A total of 34 cycles enrolled into the study, yielding 456 oocytes, 231 randomized to microfluidics and 225 to density gradient (DG). Average microfluidic fertilization rate was 76.1% ± 19.2% and 72.4% ± 26.6% for DG. Microfluidic blastocyst formation rate was 58.4% ± 31.9% compared with 58.7% ± 30.5% for DG. Good-quality blastocyst formation rate for microfluidics was 51.4% ± 29.7% and for DG was 51.7% ± 30.9%. Euploid rates were 43.8% ± 35.5% in the microfluidics cohort and 33.7% ± 33.3% in the DG cohort. Subanalysis of cycles with male factor infertility revealed good-quality blastocyst formation rate was 45.9% ± 30.9% after microfluidics and 55.1% ± 29.2% for DG. Subanalysis of cycles with male factor infertility revealed an euploid rate of 50.0% ± 37.6% after microfluidics compared with 18.4% ± 24.5% for DG.\nCONCLUSION: There were similar rates of good-quality embryo formation after intracytoplasmic sperm injection using sperm separated with microfluidics compared with density gradient; however, subanalysis of the male factor infertility group revealed higher euploid rates with microfluidics.\nTRIAL REGISTRATION: This trial was registered in clinicaltrials.gov, ID number NCT04818593. URL: https://clinicaltrials.gov/study/NCT04818593. Date of registration: 3/25/2021. Date of first enrollment: 6/18/2021.",
+        "journal": "F&S reports",
+        "authors": [
+          "Alicia Arnott",
+          "Anand Rajan",
+          "Jessica Tozour",
+          "Linda Sung",
+          "Maria Saketos",
+          "Rani Fritz",
+          "Satu Kuokkanen",
+          "Vasilios Goudas"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-18T00:00:00.000Z",
+        "activityAt": "2026-10-22T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42903651/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "微流控精子分离用于卵胞浆内单精子注射的囊胚率与密度梯度相似，但可能对男性因素不孕有益：一项随机同胞卵母细胞研究",
+          "researchQuestion": "在卵胞浆内单精子注射周期中，微流控精子分离与密度梯度精子分离相比，能否提高优质囊胚形成率？",
+          "studyDesign": "随机同胞卵母细胞研究",
+          "populationAndSample": "接受卵胞浆内单精子注射的患者；共34个周期、456个卵母细胞，231个随机分配至微流控组、225个至密度梯度组。男性因素不孕亚组的周期数摘要未报告。",
+          "methods": "比较微流控精子分离与密度梯度精子分离；主要结局为优质囊胚形成百分比；次要结局包括精子分离后的精子参数（活动率百分比、前向运动分级）、受精率、囊胚形成率，以及在行胚胎植入前非整倍体检测时的整倍体率；并对男性因素不孕者进行亚组分析。试验注册号NCT04818593。",
+          "keyResults": "微流控组平均受精率为76.1% ± 19.2%，密度梯度组为72.4% ± 26.6%。微流控组囊胚形成率为58.4% ± 31.9%，密度梯度组为58.7% ± 30.5%。微流控组优质囊胚形成率为51.4% ± 29.7%，密度梯度组为51.7% ± 30.9%。整倍体率在微流控组为43.8% ± 35.5%，密度梯度组为33.7% ± 33.3%。男性因素不孕亚组中，微流控组优质囊胚形成率为45.9% ± 30.9%，密度梯度组为55.1% ± 29.2%；微流控组整倍体率为50.0% ± 37.6%，密度梯度组为18.4% ± 24.5%。结论为总体优质胚胎形成率相似，但男性因素不孕亚组中微流控组整倍体率较高。",
+          "limitations": "样本为34个周期；男性因素不孕亚组的周期数摘要未报告；亚组分析结果需进一步验证。摘要未报告活产或临床妊娠结局。",
+          "clinicalInterpretation": "总体上微流控精子分离未显示优质囊胚形成优势；男性因素不孕亚组中整倍体率较高提示可能获益，但受样本量和亚组不确定性限制，尚需进一步研究验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "a232cb957680503d025ba0c298b34edbeea07f186a2db6397b3dba793db1d433"
+      },
+      {
+        "id": "pmid:42903660",
+        "pmid": "42903660",
+        "doi": "10.1016/j.eurox.2026.100499",
+        "title": "Malignant transformation of endometriosis into endometrioid ovarian carcinoma with a contralateral borderline seromucinous tumour: A rare case report.",
+        "abstract": "BACKGROUND: Endometriosis-associated ovarian cancer is uncommon and is most often represented by endometrioid and clear cell carcinomas. Synchronous contralateral borderline ovarian tumours are uncommon and may be missed when gross intraoperative assessment is reassuring.\nCASE: A 43-year-old woman with a confirmed diagnosis of endometriosis for approximately 5 years presented with worsening pelvic pain and menstrual symptoms. A left ovarian endometrioma increased from 6.1 × 6.8 × 5.2 cm in April 2024 to 8.8 × 9 × 9.5 cm in April 2025, with subsequent MRI showing a complex mass with solid components (O-RADS MRI 5). CA-125 was 408.6 U/mL and CA 19-9 was 643.58 U/mL; RMI-I was 1225.8 (U = 3, M = 1, CA-125 = 408.6). Staging laparotomy was performed. Histopathology demonstrated grade 2 endometrioid adenocarcinoma arising in an endometriotic cyst of the left ovary, FIGO stage IC1, while the grossly normal-appearing right ovary contained a borderline seromucinous tumour with endometrioid differentiation. The omentum, peritoneal cytology, and all 31 sampled lymph nodes were negative for malignancy. Immunohistochemistry supported endometrioid carcinoma.\nCONCLUSION: This case highlights the importance of interval change and suspicious imaging features in an endometrioma, the limitations of gross intraoperative assessment of the contralateral ovary, and the value of complete histopathological examination in identifying synchronous bilateral ovarian pathology.",
+        "journal": "European journal of obstetrics & gynecology and reproductive biology: X",
+        "authors": [
+          "Asha Rao",
+          "Damodar R Rao",
+          "G Padmashri",
+          "T Kiruthika"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-07T00:00:00.000Z",
+        "activityAt": "2026-10-22T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42903660/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology",
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "子宫内膜异位症恶变为子宫内膜样卵巢癌并伴对侧交界性浆液黏液性肿瘤：一例罕见病例报告",
+          "researchQuestion": "报告一例子宫内膜异位症恶变为子宫内膜样卵巢癌并伴对侧交界性浆液黏液性肿瘤的罕见病例及其诊断要点。",
+          "studyDesign": "罕见病例报告",
+          "populationAndSample": "一名43岁女性，确诊子宫内膜异位症约5年，因盆腔痛和月经症状加重就诊；单例。",
+          "methods": "临床病史、影像学（左卵巢子宫内膜异位囊肿增大；MRI显示复杂肿块伴实性成分，O-RADS MRI 5）、肿瘤标志物和RMI-I计算，行分期剖腹探查术，组织病理学和免疫组化检查。",
+          "keyResults": "左卵巢子宫内膜异位囊肿从2024年4月的6.1 × 6.8 × 5.2 cm增大至2025年4月的8.8 × 9 × 9.5 cm，随后MRI显示复杂肿块伴实性成分（O-RADS MRI 5）。CA-125为408.6 U/mL，CA 19-9为643.58 U/mL；RMI-I为1225.8（U=3，M=1，CA-125=408.6）。行分期剖腹探查术。组织病理显示左卵巢子宫内膜异位囊肿起源的2级子宫内膜样腺癌，FIGO IC1期；肉眼正常的右卵巢含伴子宫内膜样分化的交界性浆液黏液性肿瘤。网膜、腹腔细胞学及31枚取样淋巴结均无恶性。免疫组化支持子宫内膜样癌。",
+          "limitations": "单例病例报告，不能推断因果关系或推广至其他患者；摘要未报告随访、治疗和最终结局。",
+          "clinicalInterpretation": "该病例提示应关注子宫内膜异位囊肿的间隔变化和可疑影像特征，术中肉眼评估对侧卵巢正常可能遗漏同步病变，完整组织病理检查有助于识别双侧同步卵巢病变。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "01d25192a3b7e936162c5e5b9530d155b053bcdd4d02d38c88e20ac7647dcde1"
+      }
+    ]
+  }
+}
