@@ -1,0 +1,272 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-10-23T22:33:58.941Z",
+    "dataAsOf": "2026-10-23T22:33:58.941Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及南部和东部非洲HIV阳性女性中的宫颈癌前病变及相关因素：系统综述与meta分析、远程医疗干预对妊娠期糖尿病女性母婴结局的影响：随机对照试验的系统综述与meta分析、癌症后生殖身份的协商：女性幸存者治疗后生育体验的定性系统综述。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42912824",
+        "pmid": "42912824",
+        "doi": "10.1371/journal.pone.0361185",
+        "title": "Precancerous cervical lesions and associated factors among HIV-positive women in Southern and Eastern African countries: A systematic review and meta-analysis.",
+        "abstract": "BACKGROUND: Women living with HIV (WLHIV) face a sixfold increased risk of cervical cancer compared to HIV-negative women. Most WLHIV residing in the Southern and Eastern African regions have a substantial HIV-related cervical cancer burden. Studies on precancerous cervical lesions (PCCL) and associated factors in WLHIV from these regions have inconsistent and inconclusive findings. Therefore, we aimed to synthesize the pooled prevalence of PCCL and associated factors among WLHIV in Southern and Eastern Africa.\nMETHODS: This study was registered under PROSPERO (CRD420251123583) and conducted in accordance with PRISMA 2020 standards. Primary studies published from inception to 2025 in Southern and Eastern Africa were included. The methodological quality of studies was assessed using the Newcastle-Ottawa scale. Data extraction and statistical analyses were done in Microsoft Excel and STATA 17, respectively. Pooled prevalence, publication bias, subgroup, and sensitivity analysis were conducted. Associations were expressed as odds ratios (OR), and a p-value of less than 0.05 was considered statistically significant.\nRESULTS: 44 studies met the inclusion criteria, with a sample size of 47,009. The pooled prevalence of PCCL was 22.25% (95% CI: 19.57, 24.93). Age at first sexual intercourse (< 18 years) (OR = 2.99, (2.34, 3.82)), multiparity (OR = 4.97, (3.21, 7.69)), having multiple sexual partners (OR = 3.06 (2.45, 3.83)), having a history of sexually transmitted infections (STI) (OR = 3.93 (3.23, 4.78)), smoking (OR = 7.01, (3.39, 14.49)), ever taking oral contraceptive pills (OR = 2.69, (1.85, 3.90)), low CD4 count (OR = 1.79, (1.56, 2.05)), and having not initiated antiretroviral therapy (ART) (OR = 2.02, (1.56, 2.62)) were significantly associated with an increased risk of PCCL.\nCONCLUSION AND RECOMMENDATIONS: The pooled prevalence of PCCL was high. Additionally, early first sexual intercourse, parity, STIs, multiple sexual partners, smoking, oral contraceptive use, CD4 count, and ART were positively associated with the occurrence of PCCL. Therefore, stakeholders shall implement interventions to avert future incidents of PCCL and address the identified factors.",
+        "journal": "PloS one",
+        "authors": [
+          "Amlaku Nigusie Yirsaw",
+          "Astewil Moges Bazezew",
+          "Berihun Agegn Mengistie",
+          "Bisrat Tewelde Gebretsadkan",
+          "Gebeyehu Lakew",
+          "Gebrie Getu Alemu",
+          "Mekuriaw Nibret Aweke",
+          "Nebebe Demis Baykemagn",
+          "Tenagnework Eseyneh Dagnaw",
+          "Wubet Tazeb Wondie"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-23T00:00:00.000Z",
+        "activityAt": "2026-10-23T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42912824/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "南部和东部非洲HIV阳性女性中的宫颈癌前病变及相关因素：系统综述与meta分析",
+          "researchQuestion": "在南部和东部非洲的HIV阳性女性中，宫颈癌前病变（PCCL）的合并患病率及其相关因素是什么？",
+          "studyDesign": "系统综述与meta分析；按PRISMA 2020开展，并在PROSPERO注册（CRD420251123583）；纳入研究的方法学质量用Newcastle-Ottawa量表评估。",
+          "populationAndSample": "纳入44项符合标准的一手研究，合计样本量47,009；研究对象为南部和东部非洲的HIV阳性女性，纳入研究发表于研究起始至2025年。",
+          "methods": "摘要报告：在Microsoft Excel中提取数据，在STATA 17中分析；计算合并患病率，并进行发表偏倚、亚组和敏感性分析；关联以OR表示，p<0.05为有统计学意义。摘要未报告具体检索数据库和检索策略。",
+          "keyResults": "PCCL合并患病率为22.25%（95% CI：19.57–24.93）。与PCCL风险升高显著相关的因素包括：首次性交年龄<18岁（OR=2.99，95% CI：2.34–3.82）、多产（OR=4.97，95% CI：3.21–7.69）、有多个性伴侣（OR=3.06，95% CI：2.45–3.83）、有性传播感染（STI）史（OR=3.93，95% CI：3.23–4.78）、吸烟（OR=7.01，95% CI：3.39–14.49）、曾服用口服避孕药（OR=2.69，95% CI：1.85–3.90）、低CD4计数（OR=1.79，95% CI：1.56–2.05）以及未启动抗逆转录病毒治疗（ART）（OR=2.02，95% CI：1.56–2.62）。",
+          "limitations": "摘要未报告明确的局限性；纳入研究异质性、偏倚风险细节以及上述OR是否来自多变量调整均未在摘要中说明。",
+          "clinicalInterpretation": "该汇总分析显示，南部和东部非洲HIV阳性女性中PCCL合并患病率较高，并与多项生殖、感染、行为及HIV治疗相关因素呈正相关。这些为汇总关联，不能据此推断因果；摘要亦未将其表述为筛查或治疗指南。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "4342702c490229dcf2a50056e5b249297a4387b750ac1bf3573261ed53da0e26"
+      },
+      {
+        "id": "pmid:42913437",
+        "pmid": "42913437",
+        "doi": "10.2196/103569",
+        "title": "The Impact of Telemedicine Interventions on Maternal and Fetal Outcomes in Women With Gestational Diabetes: Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+        "abstract": "BACKGROUND: Gestational diabetes mellitus (GDM) has a rising global prevalence and brings short-term and long-term adverse risks for mothers and fetuses. Conventional in-person GDM care is limited by time and geographic barriers, often resulting in suboptimal compliance and delayed individualized interventions. Telemedicine is increasingly applied in GDM management; however, randomized controlled trial (RCT) evidence remains inconsistent.\nOBJECTIVE: The study aims to pool data from RCTs to quantify the effects of telemedicine on glycemic control and pregnancy-related outcomes in women with GDM and to inform optimized clinical management.\nMETHODS: We searched PubMed, Embase, Cochrane Library, Web of Science, and Scopus up to August 16, 2026. Two reviewers independently performed study screening and data extraction. Risk of bias was assessed using RoB 2. Meta-analyses were conducted in Stata 18.0. For heterogeneous outcomes, 95% prediction intervals (PIs) were calculated to estimate effect ranges for future studies. Heterogeneity was explored via leave-one-out sensitivity, meta-regression, and subgroup analyses. The GRADE (Grading of Recommendations Assessment, Development, and Evaluation) framework rated evidence certainty. Publication bias was evaluated for outcomes reported in ≥10 studies.\nRESULTS: Twenty-three RCTs (3055 women with GDM) were included. Pooled estimates suggested that telemedicine may reduce fasting glucose (mean difference [MD] -0.26, 95% CI -0.42 to -0.09, 95% PI -0.93 to 0.42; P =.002), 2-hour postprandial glucose (MD -0.50, 95% CI -0.87 to -0.14, 95% PI -1.84 to 0.84; P =.007), and gestational weight gain (MD -0.78, 95% CI -1.40 to -0.17, 95% PI -2.83 to 1.26; P =.01). Telemedicine was also associated with lower risks of cesarean section, emergency cesarean section, macrosomia, neonatal hypoglycemia, and neonatal respiratory distress. No significant differences were found for hemoglobin A 1c , preterm birth, or neonatal intensive care unit admission. Notably, fasting glucose, 2-hour postprandial glucose, and gestational weight gain exhibited very high unexplained heterogeneity ( I ²>90%), with their 95% PIs crossing the null value despite statistically significant pooled effects. The GRADE certainty of evidence was very low to low across all assessed outcomes.\nCONCLUSIONS: Telemedicine may improve selected glycemic and perinatal outcomes for women with GDM and may serve as a promising supplementary option for prenatal care, particularly in resource-limited settings where routine in-person follow-up is difficult to implement. Nevertheless, the apparent benefits for glycemic control and gestational weight gain remain tentative due to extreme, unexplained between-study heterogeneity and 95% PIs crossing the null. Based on current evidence, telemedicine should not completely replace standard antenatal care. Future well-designed, large-sample RCTs are warranted; such trials should adopt standardized definitions for telemedicine interventions, fully report intervention components, and conduct long-term follow-up to verify sustained maternal and neonatal clinical benefits.",
+        "journal": "Journal of medical Internet research",
+        "authors": [
+          "Fang Wang",
+          "Haoyue Zhang",
+          "Hongyue He",
+          "Jiao Chen",
+          "Jingxian Liu",
+          "Juan Deng",
+          "Lixin Liu",
+          "Xiaohong Xu"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-23T00:00:00.000Z",
+        "activityAt": "2026-10-23T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42913437/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "远程医疗干预对妊娠期糖尿病女性母婴结局的影响：随机对照试验的系统综述与meta分析",
+          "researchQuestion": "在妊娠期糖尿病（GDM）女性中，远程医疗干预对血糖控制和妊娠相关结局的影响如何？",
+          "studyDesign": "随机对照试验的系统综述与meta分析；两名评价者独立筛选和提取数据，使用RoB 2评估偏倚风险，采用GRADE框架评价证据确定性。",
+          "populationAndSample": "纳入23项RCT，共3055名GDM女性。",
+          "methods": "检索PubMed、Embase、Cochrane Library、Web of Science和Scopus，截止2026年8月16日；在Stata 18.0进行meta分析；对异质性结局计算95%预测区间（PI），通过留一法敏感性分析、meta回归和亚组分析探索异质性；对报告于≥10项研究中的结局评估发表偏倚。",
+          "keyResults": "汇总估计提示远程医疗可能降低空腹血糖（MD=-0.26，95% CI：-0.42至-0.09，95% PI：-0.93至0.42，P=.002）、餐后2小时血糖（MD=-0.50，95% CI：-0.87至-0.14，95% PI：-1.84至0.84，P=.007）和妊娠期体重增加（MD=-0.78，95% CI：-1.40至-0.17，95% PI：-2.83至1.26，P=.01）。远程医疗还与剖宫产、急诊剖宫产、巨大儿、新生儿低血糖和新生儿呼吸窘迫的风险降低相关。血红蛋白A1c、早产或新生儿重症监护病房入住方面未发现显著差异。空腹血糖、餐后2小时血糖和妊娠期体重增加的异质性极高且无法解释（I²>90%），其95% PI跨过无效值，尽管合并效应有统计学意义。所有评估结局的GRADE证据确定性为极低至低。",
+          "limitations": "摘要报告：血糖控制和妊娠期体重增加的明显获益仍属初步，原因是研究间异质性极高且无法解释、95% PI跨过无效值；总体证据确定性为极低至低。基于当前证据，远程医疗不应完全替代标准产前保健；未来需设计良好、大样本的RCT，并统一远程医疗干预定义、完整报告干预组成和开展长期随访。",
+          "clinicalInterpretation": "在GDM管理中，远程医疗可能作为产前保健的补充选择，尤其在难以实施常规面对面随访的资源有限环境中；但血糖和体重增加结局的获益因异质性和预测区间跨无效值而不确定，不能替代标准产前保健，也不构成临床指南。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "6cdfeebe3c0a41e6c824294ba510b64160af55a8bc5d4210f7d1a66cf191d8ed"
+      },
+      {
+        "id": "pmid:42905955",
+        "pmid": "42905955",
+        "doi": "10.1111/hex.70811",
+        "title": "Negotiating Reproductive Identity After Cancer: A Qualitative Systematic Review of Female Survivors' Post-Treatment Fertility Experiences.",
+        "abstract": "BACKGROUND: Fertility concerns are common among female cancer survivors and are shaped by sociocultural influences that extend beyond biomedical outcomes. Previous systematic reviews have consolidated evidence on fertility-related distress but have tended to operate within clinical or descriptive frameworks. Although identity-related findings have emerged in existing reviews, they received limited conceptual attention.\nOBJECTIVE: Guided by the concept of reproductive identity, this review systematically synthesises qualitative research on how female cancer survivors experience, negotiate, and reconstruct their reproductive identities within the broader context of post-cancer survivorship.\nMETHODS: A systematic search was conducted in eight databases for qualitative studies published in English and Chinese between January 2010 and February 2026. The review followed PRISMA guidelines and was prospectively registered in PROSPERO (CRD42024604353). Data were synthesised using thematic synthesis, with coding conducted inductively before the reproductive identity framework was applied as an interpretive lens.\nRESULTS: Thirty studies met the inclusion criteria. Three analytical themes were identified: (1) macro-level discourses and structures shape reproductive identity-fertility is positioned as secondary to survival within cancer care and constrained by sociocultural motherhood narratives; (2) micro-level relational dynamics and internal processes shape reproductive identity-fertility concerns are navigated within intimate relationships and through ongoing (re)working of reproductive selfhood; and (3) lived experience informs the reimagining of macro-level care-participants' experiences of structural constraints generated insight into how care systems could better support reproductive identity across survivorship.\nCONCLUSION: The findings of this review highlight that post-cancer fertility is a dynamic process of identity negotiation shaped by the interplay between macro-level discourses and micro-level relational and internal processes. This reinforces the importance of embedding reproductive identity literacy into survivorship care through proactive, clinician-initiated fertility conversations and coordinated referral pathways that extend beyond the treatment phase.\nPATIENT AND PUBLIC CONTRIBUTION: Patient and public involvement were not formally incorporated into this review. However, the first author is a female cancer survivor with lived experience of fertility preservation, whose patient perspective contributed to the development of the research, the interpretation of findings and the framing of implications for survivorship care.",
+        "journal": "Health expectations : an international journal of public participation in health care and health policy",
+        "authors": [
+          "Jeffry Oktavianus",
+          "Margo Louise Turnbull",
+          "Xiaoyan I Wu",
+          "Yijun Wang"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-01T00:00:00.000Z",
+        "activityAt": "2026-10-22T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42905955/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "癌症后生殖身份的协商：女性幸存者治疗后生育体验的定性系统综述",
+          "researchQuestion": "女性癌症幸存者如何在癌症后生存背景下体验、协商并重建其生殖身份？",
+          "studyDesign": "定性研究的系统综述；遵循PRISMA指南，前瞻性注册于PROSPERO（CRD42024604353），采用主题综合法，先进行归纳编码，再以生殖身份框架作为解释性视角。",
+          "populationAndSample": "纳入30项符合标准的定性研究；检索2010年1月至2026年2月以英文和中文发表的定性研究。",
+          "methods": "在8个数据库中系统检索；采用主题综合法，先归纳编码，再以生殖身份框架作为解释视角。摘要未报告偏倚风险评价方法。",
+          "keyResults": "识别出三个分析主题：（1）宏观层面的话语和结构塑造生殖身份——在癌症照护中生育被置于生存之后，并受社会文化母职叙事约束；（2）微观层面的关系动态和内部过程塑造生殖身份——生育担忧在亲密关系中协商，并通过对生殖自我的持续（重新）加工来处理；（3）生活经验推动对宏观层面照护的重新想象——参与者对结构性限制的体验为照护系统如何在整个生存期更好支持生殖身份提供了洞见。",
+          "limitations": "摘要未报告明确的方法学局限性；说明患者与公众参与未正式纳入本综述，但第一作者为女性癌症幸存者、具有生育力保存的生活经验，并参与了研究开发、结果解释和生存期照护启示的构建。",
+          "clinicalInterpretation": "综述结果强调，癌症后生育是受宏观话语与微观关系/内部过程共同塑造的动态身份协商过程；作者据此提出应将生殖身份素养嵌入生存期照护，通过临床医生主动发起的生育对话和跨治疗阶段的协调转诊路径予以支持。该表述为综述作者对照护的启示，不构成指南或临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "6a8d9baf88b01a6d4d059ee66484751c0109a60160c244dc0d2941af8575bef1"
+      },
+      {
+        "id": "pmid:42907780",
+        "pmid": "42907780",
+        "doi": "10.1186/s12884-026-09705-x",
+        "title": "Anxiety in pregnancy complicated by gestational and pre-gestational diabetes: a systematic review and meta-analysis.",
+        "abstract": "BACKGROUND: Gestational diabetes mellitus (GDM) and pregestational diabetes mellitus (pre-GDM) affect approximately 20% of pregnancies worldwide, requiring intensive management, alongside pregnancy-related concerns and broader psychosocial factors, all of which may contribute to increased psychological distress. While anxiety is associated with adverse maternal and child outcomes, evidence in women with diabetes during pregnancy remains fragmented. This systematic review and meta-analysis examined anxiety in pregnant and postpartum women with GDM and pre-GDM.\nMETHODS: This study searched MEDLINE, Scopus, Embase, EBSCO, Cochrane Library, ClinicalTrials.gov, and WHO ICTRP from inception to April 2025. Observational studies reporting anxiety outcomes in pregnant or postpartum women with GDM or pre-GDM were included. Two reviewers independently screened articles, extracted data, and assessed quality using the JBI Critical Appraisal Checklists. Random-effects meta-analyses were performed, with subgroup analyses by region and measurement instrument. Meta-regression explored heterogeneity sources. The study followed PRISMA 2020 and was prospectively registered in PROSPERO (CRD420251063824).\nRESULTS: Thirty-four studies (n = 994,189; 38,584 GDM; 156 pre-GDM; 955,449 healthy controls) were included. Women with GDM had higher odds of antenatal anxiety than healthy controls (OR = 1.69, 95% CI: 1.20-2.37) and higher mean anxiety scores (SMD = 0.21, 95% CI: 0.07-0.34). Among eight single-arm studies reporting the prevalence of screen-positive antenatal anxiety in women with GDM, all conducted in Asia, the pooled prevalence was 36% (95% CI: 22-50%); however, this estimate should be interpreted very cautiously because of extreme heterogeneity (I 2 = 98.7%), with individual study estimates ranging from 12 to 61%. Subgroup analyses indicated stronger antenatal anxiety associations in Asian studies (SMD = 0.41, 95% CI: 0.27-0.55). Postpartum anxiety did not differ significantly between women with GDM and healthy controls (RR = 0.99, 95% CI: 0.93-1.05). Evidence regarding pre-GDM was limited and should be considered preliminary.\nCONCLUSIONS: A high burden of antenatal anxiety was observed among women with GDM, particularly in Asian populations, although precise prevalence estimates remain uncertain due to extreme heterogeneity. Postpartum anxiety appeared comparable to that of healthy women. Evidence regarding pre-GDM was based on only two studies and remains insufficient to draw conclusions. Findings suggest that targeted assessment and increased clinical vigilance may be appropriate in higher-risk subgroups; however, further prospective studies are needed before routine screening can be recommended.",
+        "journal": "BMC pregnancy and childbirth",
+        "authors": [
+          "Alicia K Matthews",
+          "Piyanun Limruangrong",
+          "Prapaporn Pornsuriyasak",
+          "Uraiwan Ukhawounam"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-07-27T00:00:00.000Z",
+        "activityAt": "2026-10-22T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42907780/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "妊娠合并妊娠期糖尿病与孕前糖尿病的焦虑：系统综述与meta分析",
+          "researchQuestion": "妊娠期糖尿病（GDM）和孕前糖尿病（pre-GDM）孕妇及产后女性的焦虑情况如何？",
+          "studyDesign": "系统综述与meta分析，纳入观察性研究；两名评价者独立筛选、提取数据并用JBI关键评价清单评估质量；采用随机效应meta分析、按地区和测量工具进行亚组分析、meta回归探索异质性；遵循PRISMA 2020并在PROSPERO前瞻性注册（CRD420251063824）。",
+          "populationAndSample": "纳入34项研究，总n=994,189；其中GDM 38,584例、pre-GDM 156例、健康对照955,449例。",
+          "methods": "检索MEDLINE、Scopus、Embase、EBSCO、Cochrane Library、ClinicalTrials.gov和WHO ICTRP，从建库至2025年4月；纳入报告GDM或pre-GDM孕妇或产后女性焦虑结局的观察性研究；采用随机效应meta分析、亚组分析和meta回归。",
+          "keyResults": "GDM女性较健康对照有更高的产前焦虑odds（OR=1.69，95% CI：1.20–2.37），平均焦虑评分更高（SMD=0.21，95% CI：0.07–0.34）。8项报告GDM女性产前焦虑筛查阳性率的单臂研究（均在亚洲）合并患病率为36%（95% CI：22–50%），但异质性极高（I²=98.7%），单项研究估计为12%–61%，该估计应非常谨慎解读。亚组分析显示亚洲研究中产前焦虑关联更强（SMD=0.41，95% CI：0.27–0.55）。产后焦虑在GDM女性和健康对照间无显著差异（RR=0.99，95% CI：0.93–1.05）。pre-GDM证据有限，应视为初步。",
+          "limitations": "摘要报告：GDM女性产前焦虑筛查阳性率的精确估计因异质性极高（I²=98.7%）仍不确定；pre-GDM证据仅基于2项研究，不足以得出结论；在推荐常规筛查前仍需进一步前瞻性研究。",
+          "clinicalInterpretation": "GDM女性中产前焦虑负担较高，尤其在亚洲人群；产后焦虑与健康女性相近。结果提示可对较高风险亚组进行针对性评估并提高临床警觉，但由于异质性和pre-GDM证据不足，尚不能据此推荐常规筛查。此为关联性证据，不构成指南。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "bec6d50aeb96a69de6844bc7f1994d868d0c15d721b06994f2d67a86d5f0b67f"
+      },
+      {
+        "id": "pmid:42907783",
+        "pmid": "42907783",
+        "doi": "10.1186/s12887-026-07400-6",
+        "title": "Maternal risk factors associated with neonatal necrotizing enterocolitis: a meta-analysis and systematic review.",
+        "abstract": "BACKGROUND: Neonatal Necrotizing Enterocolitis (NEC) is a multifactorial intestinal disorder that affects 2-5% of premature infants and has a mortality rate of 20-30%. Maternal factors such as breastmilk feeding and antenatal corticosteroid therapy have been found to influence NEC development in infants, yet other maternal and perinatal contributors have not been analyzed in detail. A better understanding of the role of specific maternal factors in NEC development can help identify infants at risk. This meta-analysis aims to investigate the pooled association between Cesarean section delivery, smoking, preeclampsia, chorioamnionitis, diabetes mellitus, and maternal education on the development of NEC.\nMETHODS: We systematically searched for journal articles published before April 2025 in Springer Nature Link, Scopus, PubMed, and Google Scholar. Results were narrowed down using the Boolean search string (\"necrotizing enterocolitis\" OR \"neonatal necrotizing enterocolitis\") AND ((\"maternal risk\" OR \"maternal factors\") OR (\"smoking\" OR \"preeclampsia\" OR \"chorioamnionitis\" OR \"diabetes\")). Studies were included if they reported NEC incidence rates for any of the examined factors. Two evaluators independently screened and extracted literature, and disagreements were resolved through discussion. Interrater reliability was assessed using Cohen's Kappa.\nRESULTS: We identified 74 manuscripts that met the inclusion criteria, of which 26 were suitable for our meta-analysis. We calculated unadjusted ORs from extracted 2 × 2 data, as adjusted estimates were infrequently reported and were not pooled. The unadjusted pooled risk calculation showed a higher odds of NEC for both preeclampsia (OR: 2.11, 95% CI: 1.15-3.06, n = 4) and smoking during pregnancy (OR: 1.97, 95% CI: 1.66-2.28, n = 6). Funnel plots and Egger's regression tests indicated no evidence of publication bias for maternal factors with more than 10 studies.\nCONCLUSIONS: This study highlights a significant pooled unadjusted association between maternal smoking and preeclampsia during pregnancy and the development of NEC. Chorioamnionitis and Cesarean sections alone were not significantly associated with NEC in this pooled unadjusted analysis, despite conflicting claims from other studies. This meta-analysis underscores the need for more research to be conducted to analyze the association between maternal smoking, preeclampsia, Cesarean sections, chorioamnionitis, and maternal education on the development of NEC.",
+        "journal": "BMC pediatrics",
+        "authors": [
+          "Alex Lyford",
+          "Lindsey Burnham",
+          "Will Lichstein"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-07-25T00:00:00.000Z",
+        "activityAt": "2026-10-22T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42907783/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "与新生儿坏死性小肠结肠炎相关的母亲危险因素：meta分析与系统综述",
+          "researchQuestion": "剖宫产分娩、吸烟、子痫前期、绒毛膜羊膜炎、糖尿病和母亲教育等母亲因素与新生儿坏死性小肠结肠炎（NEC）发生之间的合并关联如何？",
+          "studyDesign": "系统综述与meta分析；两名评价者独立筛选和提取文献，分歧通过讨论解决，使用Cohen's Kappa评估评价者间信度。",
+          "populationAndSample": "共识别74篇符合纳入标准的手稿，其中26篇适合纳入meta分析；摘要未报告总样本量。",
+          "methods": "系统检索Springer Nature Link、Scopus、PubMed和Google Scholar中2025年4月前发表的文章；使用布尔检索式（“necrotizing enterocolitis” OR “neonatal necrotizing enterocolitis”）AND（（“maternal risk” OR “maternal factors”）OR（“smoking” OR “preeclampsia” OR “chorioamnionitis” OR “diabetes”））；纳入报告任一所考察因素的NEC发生率的研究；从提取的2×2数据计算未调整OR，因调整估计少报道且未合并；对超过10项研究的母亲因素用漏斗图和Egger回归检验发表偏倚。",
+          "keyResults": "未调整合并风险计算显示，子痫前期（OR=2.11，95% CI：1.15–3.06，n=4）和妊娠期吸烟（OR=1.97，95% CI：1.66–2.28，n=6）均与NEC odds升高相关。绒毛膜羊膜炎和单纯剖宫产在该合并未调整分析中与NEC无显著关联。漏斗图和Egger回归检验在超过10项研究的母亲因素中未发现发表偏倚证据。糖尿病和母亲教育的合并结果摘要未报告。",
+          "limitations": "摘要报告：计算的是未调整OR，调整估计很少报告且未合并；子痫前期和吸烟的合并分析分别仅4项和6项研究；作者指出需要更多研究分析母亲吸烟、子痫前期、剖宫产、绒毛膜羊膜炎和母亲教育与NEC发生的关联。",
+          "clinicalInterpretation": "该汇总未调整分析显示，母亲妊娠期吸烟和子痫前期与NEC发生呈正相关；单纯剖宫产和绒毛膜羊膜炎在本分析中未显示显著关联。这些为未调整的汇总关联，不能推断因果，也不构成筛查或干预指南。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "71a5577e69766fe70170cbd68d15f1e4f4019f53b7a5054d9b6938fa245e4bf8"
+      }
+    ]
+  }
+}
