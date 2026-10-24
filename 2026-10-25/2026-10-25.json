@@ -7,8 +7,8 @@
   "editor_note": "过去24小时暂无符合质量要求的重要更新。",
   "keywords": [],
   "research": {
-    "generatedAt": "2026-10-24T23:05:44.407Z",
-    "dataAsOf": "2026-10-24T23:05:44.407Z",
+    "generatedAt": "2026-10-24T23:35:44.491Z",
+    "dataAsOf": "2026-10-24T23:35:44.491Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及甘油三酯-葡萄糖指数与子痫前期风险：系统综述与荟萃分析、输卵管因素不孕的诊断方法：HSG、HyCoSy、HyFoSy与腹腔镜的系统综述、类器官在卵巢癌中的转化应用与临床效用：系统综述。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
@@ -38,15 +38,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 100,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "甘油三酯-葡萄糖指数与子痫前期风险：系统综述与荟萃分析",
           "researchQuestion": "甘油三酯-葡萄糖（TyG）指数与子痫前期（PE）之间存在何种关联，其诊断准确性如何？",
@@ -58,7 +49,16 @@
           "clinicalInterpretation": "TyG指数是一种与PE相关的探索性代谢标志物；这些发现不能确认其前瞻性预测价值，也不支持将其作为独立筛查工具。其对多变量预测模型的增量贡献，仍需在多样人群中开展前瞻性验证，并统一测量时机和预设阈值。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "eba7563f3cc58cf61b50a0d8afef78651badc0a6aa9f897d46d255037e17f0c9"
+        "summaryInputHash": "eba7563f3cc58cf61b50a0d8afef78651badc0a6aa9f897d46d255037e17f0c9",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:42909007",
@@ -87,15 +87,6 @@
           "reproductive-medicine",
           "minimally-invasive-surgery"
         ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 7.5,
-          "recency": 10,
-          "total": 92.5,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "输卵管因素不孕的诊断方法：HSG、HyCoSy、HyFoSy与腹腔镜的系统综述",
           "researchQuestion": "子宫输卵管造影（HSG）、宫腔输卵管超声造影（HyCoSy）、宫腔输卵管泡沫超声造影（HyFoSy）及腹腔镜通液术在输卵管因素不孕诊断中的诊断性能、临床适用性及在现代诊断路径中的作用如何？",
@@ -107,7 +98,16 @@
           "clinicalInterpretation": "作者讨论认为，当前证据支持对输卵管评估采用分步方法，即先使用侵入性较低的方法，将确认性或侵入性技术保留给特定病例；该路径可能提高诊断信心并减少不必要的操作负担和风险。仍需设计良好、采用标准化参考标准和结局定义的比较研究，以明确各技术的相对诊断价值。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "2d0e53874c53608fd687adece0561b79c70922bd1b426744ee6dea38bc6f73ed"
+        "summaryInputHash": "2d0e53874c53608fd687adece0561b79c70922bd1b426744ee6dea38bc6f73ed",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 7.5,
+          "recency": 10,
+          "total": 92.5,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:42911417",
@@ -134,15 +134,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 3.75,
-          "recency": 10,
-          "total": 88.75,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "类器官在卵巢癌中的转化应用与临床效用：系统综述",
           "researchQuestion": "卵巢癌患者来源类器官（PDOs）在个性化治疗中的可行性、组织学保真度及临床一致性如何？",
@@ -154,7 +145,16 @@
           "clinicalInterpretation": "PDOs在临床可操作的21天窗口内作为功能药物筛选平台具有潜力；但要进入常规实践，仍需标准化能力验证、统一建立率分母报告，并整合含复杂基质的模型。摘要未报告该平台对患者临床结局的改善。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "2d180fa8c113d5d299b7eead2c9d28ad5337d5be5933f26209215eec65785da5"
+        "summaryInputHash": "2d180fa8c113d5d299b7eead2c9d28ad5337d5be5933f26209215eec65785da5",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 3.75,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:42908936",
@@ -180,15 +180,6 @@
         "matchedTopicIds": [
           "minimally-invasive-surgery"
         ],
-        "assignedTopicId": "minimally-invasive-surgery",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 21.25,
-          "clinicalActionability": 7.5,
-          "recency": 10,
-          "total": 88.75,
-          "evidenceRank": 0.85
-        },
         "summaryZh": {
           "titleZh": "宫腔镜手术中精准膨宫液收集装置与传统装置收集效率及安全性的评估",
           "researchQuestion": "精准膨宫液收集装置在宫腔镜手术中收集膨宫液的有效性如何，能否为监测液体流出提供更可靠工具？",
@@ -200,7 +191,16 @@
           "clinicalInterpretation": "在该随机试验中，精准膨宫液收集装置提高了膨宫液收集率、缩短了手术室周转时间并提高了手术团队满意度；摘要未报告不良事件的具体结果，也不能据此推断对其他临床结局或广泛人群的效果。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "10e5ede8831302c81cfe91a641f644995709c0ee9b58eeaee5350a9d8ad26698"
+        "summaryInputHash": "10e5ede8831302c81cfe91a641f644995709c0ee9b58eeaee5350a9d8ad26698",
+        "assignedTopicId": "minimally-invasive-surgery",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 21.25,
+          "clinicalActionability": 7.5,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 0.85
+        }
       },
       {
         "id": "pmid:42919408",
@@ -234,15 +234,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 23.75,
-          "clinicalActionability": 3.75,
-          "recency": 10,
-          "total": 87.5,
-          "evidenceRank": 0.95
-        },
         "summaryZh": {
           "titleZh": "评估非贫血孕妇口服铁补充剂后妊娠期糖尿病风险的随机对照双盲试验",
           "researchQuestion": "在非贫血初孕妇中，每日口服60 mg元素铁与每日30 mg元素铁相比，妊娠期糖尿病（GDM）发生率如何？",
@@ -254,7 +245,16 @@
           "clinicalInterpretation": "该试验旨在提供与印度当前孕期普遍口服铁补充指南相关的证据，结果预期用于未来政策决策，即普遍补充是否适用于所有孕妇，还是应针对铁状态较低者。由于摘要未报告结果，不能得出补充剂量与GDM风险或β细胞功能相关的临床结论。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "c07563338e8e55b54b1fef5a10d7bf2075b42456830cc5ebac5a99204da0fa65"
+        "summaryInputHash": "c07563338e8e55b54b1fef5a10d7bf2075b42456830cc5ebac5a99204da0fa65",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 3.75,
+          "recency": 10,
+          "total": 87.5,
+          "evidenceRank": 0.95
+        }
       }
     ]
   }
