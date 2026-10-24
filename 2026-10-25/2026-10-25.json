@@ -1,0 +1,261 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-10-24T23:05:44.407Z",
+    "dataAsOf": "2026-10-24T23:05:44.407Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及甘油三酯-葡萄糖指数与子痫前期风险：系统综述与荟萃分析、输卵管因素不孕的诊断方法：HSG、HyCoSy、HyFoSy与腹腔镜的系统综述、类器官在卵巢癌中的转化应用与临床效用：系统综述。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42911038",
+        "pmid": "42911038",
+        "doi": "10.17305/bb.2026.14779",
+        "title": "Triglyceride-glucose index and preeclampsia risk: A systematic review and meta-analysis.",
+        "abstract": "Insulin resistance plays a role in preeclampsia (PE), yet the clinical utility of the triglyceride-glucose (TyG) index is unclear. This systematic review and meta-analysis evaluated the association between the TyG index and PE, as well as its diagnostic accuracy. We searched eight databases for observational studies published from inception to December 31, 2025. Data were synthesized using random-effects models, with subgroup and sensitivity analyses addressing heterogeneity. Our analysis included 12 studies involving 103,702 pregnant women. A higher TyG index was linked to increased odds of PE, with a pooled odds ratio of 1.85 (95% CI: 1.48-2.32). Significant heterogeneity was observed across studies (I² = 71.2%). In five studies, the pooled sensitivity was 0.65 (95% CI: 0.49-0.78), specificity was 0.58 (95% CI: 0.50-0.65), and the area under the summary receiver operating characteristic curve was 0.64 (95% CI: 0.59-0.68), suggesting limited discriminatory power. Limitations included substantial heterogeneity, a predominance of Chinese populations, and TyG measurements taken near or after PE onset in some studies. While the TyG index is an exploratory metabolic marker associated with PE, these findings do not confirm its prospective predictive value or support its use as a standalone screening tool. Its incremental contribution to multivariable prediction models requires prospective validation in diverse populations, using standardized measurement timing and predefined thresholds.",
+        "journal": "Biomolecules & biomedicine",
+        "authors": [
+          "Lei Hu",
+          "Qi Lv",
+          "Wei Liu",
+          "Zhuo Yuan"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "publishedAt": "2026-10-22T00:00:00.000Z",
+        "activityAt": "2026-10-23T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42911038/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "甘油三酯-葡萄糖指数与子痫前期风险：系统综述与荟萃分析",
+          "researchQuestion": "甘油三酯-葡萄糖（TyG）指数与子痫前期（PE）之间存在何种关联，其诊断准确性如何？",
+          "studyDesign": "系统综述与荟萃分析，纳入观察性研究。",
+          "populationAndSample": "共纳入12项研究，涉及103,702名孕妇。",
+          "methods": "检索8个数据库，纳入从建库至2025年12月31日发表的观察性研究；采用随机效应模型合并数据，并通过亚组分析和敏感性分析处理异质性；同时评估TyG指数对PE的诊断准确性。",
+          "keyResults": "较高的TyG指数与PE风险升高相关，合并比值比为1.85（95% CI：1.48-2.32）；研究间存在显著异质性（I²=71.2%）。在5项研究中，合并灵敏度为0.65（95% CI：0.49-0.78），特异度为0.58（95% CI：0.50-0.65），综合受试者工作特征曲线下面积为0.64（95% CI：0.59-0.68），提示判别能力有限。",
+          "limitations": "存在显著异质性；研究人群以中国人群为主；部分研究中TyG测量时间接近或发生于PE发病之后。",
+          "clinicalInterpretation": "TyG指数是一种与PE相关的探索性代谢标志物；这些发现不能确认其前瞻性预测价值，也不支持将其作为独立筛查工具。其对多变量预测模型的增量贡献，仍需在多样人群中开展前瞻性验证，并统一测量时机和预设阈值。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "eba7563f3cc58cf61b50a0d8afef78651badc0a6aa9f897d46d255037e17f0c9"
+      },
+      {
+        "id": "pmid:42909007",
+        "pmid": "42909007",
+        "doi": "10.3389/frph.2026.1861471",
+        "title": "Diagnostic approaches for tubal factor infertility: a systematic review of HSG, HyCoSy, HyFoSy, and laparoscopy.",
+        "abstract": "INTRODUCTION: Tubal pathology remains a major cause of female infertility, making accurate assessment of tubal patency and morphology important for clinical decision-making. Several diagnostic approaches are available, including hysterosalpingography (HSG), hysterosalpingo-contrast sonography (HyCoSy), hysterosalpingo-foam sonography (HyFoSy), and laparoscopy with chromopertubation. This systematic review aimed to synthesize current evidence on their diagnostic performance, clinical applicability, and role in contemporary diagnostic pathways.\nMETHODS: PubMed/MEDLINE, Embase, the Cochrane Library, and Web of Science were searched for studies published between January 2015 and March 2026. Studies evaluating methods for tubal patency or morphological assessment in women undergoing infertility investigation were considered. A total of 21 studies were included. Owing to clinical and methodological heterogeneity, particularly differences in study populations, diagnostic thresholds, and reference standards, the findings were synthesized qualitatively.\nRESULTS: HSG generally demonstrated high sensitivity but variable specificity, limiting its reliability for confirming tubal occlusion. HyCoSy showed potentially useful diagnostic performance as a non-invasive screening method, although estimates varied across studies. Several studies reported favorable specificity, predictive values, and agreement measures for HyFoSy, together with improved patient tolerability; however, findings were not uniform and were influenced by methodological heterogeneity and differences in reference standards. Laparoscopy with chromopertubation remained the reference standard for assessing tubal patency and identifying concomitant pelvic pathology, although its invasive nature limits its routine use.\nDISCUSSION: Current evidence supports a stepwise approach to tubal assessment in which less invasive methods may be used initially, with confirmatory or invasive techniques reserved for selected cases. Such an approach may improve diagnostic confidence while reducing unnecessary procedural burden and risks. Further well-designed comparative studies using standardized reference standards and outcome definitions are needed to clarify the relative diagnostic value of available techniques.",
+        "journal": "Frontiers in reproductive health",
+        "authors": [
+          "Adalyat Alenova",
+          "Almagul Kauysheva",
+          "Anuar Korkan",
+          "Islam Magalov"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-07T00:00:00.000Z",
+        "activityAt": "2026-10-23T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42909007/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine",
+          "minimally-invasive-surgery"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 7.5,
+          "recency": 10,
+          "total": 92.5,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "输卵管因素不孕的诊断方法：HSG、HyCoSy、HyFoSy与腹腔镜的系统综述",
+          "researchQuestion": "子宫输卵管造影（HSG）、宫腔输卵管超声造影（HyCoSy）、宫腔输卵管泡沫超声造影（HyFoSy）及腹腔镜通液术在输卵管因素不孕诊断中的诊断性能、临床适用性及在现代诊断路径中的作用如何？",
+          "studyDesign": "系统综述，因临床和方法学异质性而采用定性综合。",
+          "populationAndSample": "纳入21项研究，研究对象为接受不孕评估的女性。",
+          "methods": "检索PubMed/MEDLINE、Embase、Cochrane Library和Web of Science，时间范围为2015年1月至2026年3月；纳入评估输卵管通畅性或形态学检查方法的研究；由于研究人群、诊断阈值和参考标准等存在差异，对结果进行定性综合。",
+          "keyResults": "HSG通常显示较高灵敏度，但特异度不一，限制了其确认输卵管闭塞的可靠性。HyCoSy作为无创筛查方法显示出可能有用的诊断性能，但各研究估计值存在差异。多项研究报告HyFoSy具有较好的特异度、预测值和一致性指标，并改善患者耐受性，但结果并不一致，且受方法学异质性和参考标准差异影响。腹腔镜通液术仍是评估输卵管通畅性和识别合并盆腔病变的参考标准，但其侵入性限制常规使用。",
+          "limitations": "存在临床和方法学异质性，尤其表现为研究人群、诊断阈值和参考标准不同；证据采用定性综合。",
+          "clinicalInterpretation": "作者讨论认为，当前证据支持对输卵管评估采用分步方法，即先使用侵入性较低的方法，将确认性或侵入性技术保留给特定病例；该路径可能提高诊断信心并减少不必要的操作负担和风险。仍需设计良好、采用标准化参考标准和结局定义的比较研究，以明确各技术的相对诊断价值。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "2d0e53874c53608fd687adece0561b79c70922bd1b426744ee6dea38bc6f73ed"
+      },
+      {
+        "id": "pmid:42911417",
+        "pmid": "42911417",
+        "doi": "10.1007/s00280-026-04973-y",
+        "title": "Translational applications and clinical utility of organoids in ovarian cancer: a systematic review.",
+        "abstract": "BACKGROUND: Ovarian cancer remains the most lethal gynecological malignancy, largely due to late-stage diagnosis and the rapid emergence of platinum resistance. Traditional treatment selection relies on population-level guidelines that often fail to account for individual tumor heterogeneity. Patient-derived organoids have emerged as potential functional avatars for personalized therapy, providing a real-time read-out of tumor sensitivity.\nMETHODS: This systematic review synthesized data from 13 studies evaluating the feasibility, histological fidelity, and clinical concordance of ovarian cancer patient-derived organoids. Studies were assessed for quality using the Newcastle-Ottawa Scale and QUADAS-2.\nRESULTS: A pooled analysis identified a mean success rate of 71% for obtaining patient-derived tumor organoids in early passages, with short-term assays showing high feasibility for immediate therapy guidance. Because the majority of the included studies relied on short-term cultures, these figures represent early-passage obtention rather than the true \"establishment\" of stable, cryopreservable lines that can be propagated beyond five passages. Indeed, a direct comparison of establishment rates for such long-term lines was precluded by the inconsistent reporting of total sample sizes (denominators) across the included publications-an important reporting gap that should be addressed in future studies. While 92.3% of studies reported high concordance between PDTO drug sensitivity and patient outcomes for platinum and PARP inhibitors, critical discordance in specific models suggests that growth robustness does not always guarantee predictive accuracy.\nCONCLUSION: PDOs represent a robust platform for functional drug screening within a clinically actionable 21-day window. To move into routine practice, the field requires standardized proficiency testing, harmonized reporting of establishment denominators, and the integration of complex stroma-containing models to better reflect the tumor microenvironment.",
+        "journal": "Cancer chemotherapy and pharmacology",
+        "authors": [
+          "Maha Ali Alghadmi",
+          "Reem ALzahrani"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-22T00:00:00.000Z",
+        "activityAt": "2026-10-23T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42911417/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 3.75,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "类器官在卵巢癌中的转化应用与临床效用：系统综述",
+          "researchQuestion": "卵巢癌患者来源类器官（PDOs）在个性化治疗中的可行性、组织学保真度及临床一致性如何？",
+          "studyDesign": "系统综述。",
+          "populationAndSample": "共纳入13项研究，评估卵巢癌患者来源类器官。",
+          "methods": "系统综述13项评估卵巢癌患者来源类器官可行性、组织学保真度和临床一致性的研究；使用Newcastle-Ottawa量表和QUADAS-2进行质量评价。",
+          "keyResults": "合并分析显示，早期传代获取患者来源肿瘤类器官的平均成功率为71%，短期检测在即时治疗指导方面显示较高可行性。由于多数纳入研究依赖短期培养，这些数字代表早期传代获取率，而非可稳定冻存并传代超过5代的稳定细胞系的真正“建立”率。由于各纳入文献对总样本量（分母）报告不一致，无法直接比较此类长期细胞系的建立率。92.3%的研究报告PDTO药物敏感性与患者铂类和PARP抑制剂治疗结局高度一致，但特定模型存在关键不一致，提示生长稳健性并不总能保证预测准确性。",
+          "limitations": "多数研究为短期培养；总样本量（分母）报告不一致，阻碍长期细胞系建立率的直接比较；特定模型存在预测不一致；需要整合含复杂基质的模型以更好反映肿瘤微环境。",
+          "clinicalInterpretation": "PDOs在临床可操作的21天窗口内作为功能药物筛选平台具有潜力；但要进入常规实践，仍需标准化能力验证、统一建立率分母报告，并整合含复杂基质的模型。摘要未报告该平台对患者临床结局的改善。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "2d180fa8c113d5d299b7eead2c9d28ad5337d5be5933f26209215eec65785da5"
+      },
+      {
+        "id": "pmid:42908936",
+        "pmid": "42908936",
+        "doi": "10.3389/fsurg.2026.1894370",
+        "title": "Evaluation of collection efficiency and safety of a precise distention fluid collection device compared to traditional devices in hysteroscopic surgery.",
+        "abstract": "OBJECTIVE: This study aims to validate the effectiveness of this device in collecting distension fluid during hysteroscopic surgery, providing a more reliable tool for monitoring fluid outflow.\nMETHODS: A total of 164 patients scheduled for elective hysteroscopy were randomly assigned in a 1:1 ratio to either the precision collection group or the control group. The precision collection group utilized a precision distension fluid collection device for hysteroscopic distension fluid collection, while the control group used a conventional collection device. The primary outcome was the hysteroscopic distension fluid collection rate. Secondary outcomes included the incidence of adverse events, operating room cleaning time, and satisfaction levels of surgeons, nurses, and operating room support staff.\nRESULTS: There were no significant differences in baseline patient characteristics or surgical types between the two groups. Compared to the conventional fluid collection device, the precision distension fluid collection device significantly improved the hysteroscopic distension fluid collection rate (95% vs. 48%, P < 0.001) and reduced the operating room turnover time for staff (4.1 min vs. 6.4 min, P < 0.001), while also substantially increasing surgical team satisfaction.\nCONCLUSION: The precision distension fluid collection device effectively enhances the collection rate of hysteroscopic distension fluid, reduces risks associated with improper fluid management, shortens operating room turnover time, and improves the satisfaction of the surgical team.\nCLINICAL TRIAL REGISTRATION: https://www.chictr.org.cn, identifier ChiCTR2500101460.",
+        "journal": "Frontiers in surgery",
+        "authors": [
+          "Haiyan Lan",
+          "Yongli Ying"
+        ],
+        "publicationTypes": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-07T00:00:00.000Z",
+        "activityAt": "2026-10-23T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42908936/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "minimally-invasive-surgery"
+        ],
+        "assignedTopicId": "minimally-invasive-surgery",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 21.25,
+          "clinicalActionability": 7.5,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 0.85
+        },
+        "summaryZh": {
+          "titleZh": "宫腔镜手术中精准膨宫液收集装置与传统装置收集效率及安全性的评估",
+          "researchQuestion": "精准膨宫液收集装置在宫腔镜手术中收集膨宫液的有效性如何，能否为监测液体流出提供更可靠工具？",
+          "studyDesign": "随机对照试验，按1:1比例分组。",
+          "populationAndSample": "共164例计划接受择期宫腔镜手术的患者。",
+          "methods": "患者随机分为精准收集组和对照组，每组按1:1分配；精准收集组使用精准膨宫液收集装置，对照组使用传统收集装置。主要结局为宫腔镜膨宫液收集率；次要结局包括不良事件发生率、手术室清洁时间和外科医生、护士及手术室支持人员满意度。",
+          "keyResults": "两组基线患者特征和手术类型无显著差异。与传统液体收集装置相比，精准膨宫液收集装置显著提高宫腔镜膨宫液收集率（95% vs. 48%，P < 0.001），缩短工作人员手术室周转时间（4.1分钟 vs. 6.4分钟，P < 0.001），并显著提高手术团队满意度。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "在该随机试验中，精准膨宫液收集装置提高了膨宫液收集率、缩短了手术室周转时间并提高了手术团队满意度；摘要未报告不良事件的具体结果，也不能据此推断对其他临床结局或广泛人群的效果。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "10e5ede8831302c81cfe91a641f644995709c0ee9b58eeaee5350a9d8ad26698"
+      },
+      {
+        "id": "pmid:42919408",
+        "pmid": "42919408",
+        "doi": "10.1186/s13063-026-09468-y",
+        "title": "A randomized controlled double-blinded trial to assess the risk of gestational diabetes mellitus in non-anemic pregnant women who receive oral iron supplementation.",
+        "abstract": "BACKGROUND: Pregnant women in India are routinely prescribed oral iron supplements as part of the national Anemia Mukt Bharat (AMB) program for anemia control. In women with iron-deficiency anemia, the benefits of iron supplementation during pregnancy, both for the mother and child, are very clear. In non-anemic pregnant women, however, the benefits of iron supplementation vis-à-vis associated risks that have been reported have not been studied adequately. Studies have suggested that iron may impair insulin secretion, thus increasing the risk of gestational diabetes mellitus (GDM).\nPRIMARY OBJECTIVE: To determine the incidence of GDM among non-anemic pregnant women receiving 60 mg/day of elemental iron as oral supplementation, compared with those receiving 30 mg/day.\nSECONDARY OBJECTIVES: To assess beta-cell functional capacity and quantify unmethylated insulin promoter DNA (a sensitive and specific marker of beta-cell damage) in blood samples from the two study groups.\nMETHODS: This study is a randomized, parallel-group, double-blinded clinical trial, with 800 non-anemic primigravidae in each arm. One arm will receive oral supplementation at a dose of 60 mg per day (as per current national guidelines), while the other arm will receive 30 mg per day, for a duration of 12 weeks in the second trimester. The incidence of GDM in the two arms will be compared. Insulin secretion kinetics will be assessed using an oral glucose tolerance test (OGTT) done at the end of the intervention. Additionally, the unmethylated insulin promoter DNA in circulating free DNA (a marker of beta-cell damage) will be quantified in both arms.\nDISCUSSION: The study's findings will provide important evidence relevant to the current national guidelines in India on universal oral iron supplementation during pregnancy. The results are expected to inform future policy decisions on whether universal supplementation for all pregnant women is appropriate or whether it should be targeted to those with low iron status.\nTRIAL REGISTRATION: CTRI/2024/04/065301 [registered on 05/04/2024]-trial registered prospectively.",
+        "journal": "Trials",
+        "authors": [
+          "Aaron Chapla",
+          "Anuja Abraham",
+          "Joe Varghese",
+          "Kavitha Abraham",
+          "Manisha Madhai Beck",
+          "Molly Jacob",
+          "Monica Peter",
+          "Padmanaban Venkatesan",
+          "Prasanna Samuel",
+          "Swati Rathore"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-07-28T00:00:00.000Z",
+        "activityAt": "2026-10-23T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42919408/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 3.75,
+          "recency": 10,
+          "total": 87.5,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "评估非贫血孕妇口服铁补充剂后妊娠期糖尿病风险的随机对照双盲试验",
+          "researchQuestion": "在非贫血初孕妇中，每日口服60 mg元素铁与每日30 mg元素铁相比，妊娠期糖尿病（GDM）发生率如何？",
+          "studyDesign": "随机、平行组、双盲临床试验（试验方案）。",
+          "populationAndSample": "计划每组纳入800名非贫血初孕妇，共1600名。",
+          "methods": "非贫血初孕妇随机分配至每日口服60 mg元素铁组（依据当前国家指南）或每日30 mg元素铁组，在妊娠中期干预12周；比较两组GDM发生率。干预结束时通过口服葡萄糖耐量试验（OGTT）评估胰岛素分泌动力学，并定量循环游离DNA中未甲基化胰岛素启动子DNA（β细胞损伤标志物）。",
+          "keyResults": "摘要未报告结果；本文报告研究设计与目的。",
+          "limitations": "摘要未报告。",
+          "clinicalInterpretation": "该试验旨在提供与印度当前孕期普遍口服铁补充指南相关的证据，结果预期用于未来政策决策，即普遍补充是否适用于所有孕妇，还是应针对铁状态较低者。由于摘要未报告结果，不能得出补充剂量与GDM风险或β细胞功能相关的临床结论。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "c07563338e8e55b54b1fef5a10d7bf2075b42456830cc5ebac5a99204da0fa65"
+      }
+    ]
+  }
+}
