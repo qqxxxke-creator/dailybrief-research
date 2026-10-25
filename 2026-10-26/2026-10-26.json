@@ -1,0 +1,284 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-10-25T22:46:09.061Z",
+    "dataAsOf": "2026-10-25T22:46:09.061Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及从菌群失调到恶性肿瘤：子宫内膜癌中的女性生殖道微生物组——系统综述与荟萃分析的见解、子痫前期孕妇的睡眠模式与睡眠障碍：系统综述与荟萃分析、妊娠期母亲感染筛查以预防早产：系统综述。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42922244",
+        "pmid": "42922244",
+        "doi": "10.7417/ct.2026.2175",
+        "title": "From Dysbiosis to Malignancy: The Female Genital Tract Microbiome in Endometrial Cancer; Insights from a Systematic Review and Meta-Analysis.",
+        "abstract": "BACKGROUND/AIM: Emerging evidence suggests that alterations in the female genital tract microbiome may be associated with the development and progression of endometrial cancer (EC). Microbial dysbiosis may contribute to chronic inflammation, immune dysregulation, and metabolic disturbances within the endometrial microenvironment. This systematic review and meta-analysis aimed to evaluate alterations in the female genital tract microbiome in women with EC and to identify microbial patterns associated with benign, premalignant, and malignant endometrial conditions.\nMETHODS: A systematic review and meta-analysis was conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines and Meta-analysis of Observational Studies in Epidemiology (MOOSE) recommendations. Ten eligible observational studies published between 2016 and 2026 were included, comprising 775 women: 329 with benign conditions, 121 with endometrial hyperplasia, and 325 with EC. Demographic, histopathological, anatomical sampling, and microbiological data were extracted and analyzed using Review Manager, SPSS version 23, and EPI-INFO. Risk of bias was assessed using the Cochrane Collaboration tool.\nRESULTS: Women with EC were older than those with benign conditions (59.2 ± 5.3 vs. 52.7 ± 4.4 years) and had a higher mean body mass index (33.8 ± 3.8 vs. 27.5 ± 2.0 kg/m²). Endometrioid carcinoma was the predominant histological subtype, and most malignant cases were low-grade and early-stage tumors. EC was associated with significant alterations in the genital tract microbiome. Several commensal taxa, including Lactobacillus, Bacteroides, Prevotella, Staphylococcus, and Enterococcus, were decreased in malignant cases, whereas potentially pathogenic or infection-associated genera, particularly Stenotrophomonas, Streptococcus, and Porphyromonas, were increased (p < 0.001). The pooled analysis demonstrated a significant association between genital tract microbial dysbiosis and EC.\nCONCLUSIONS: Female genital tract microbial dysbiosis is associated with EC, characterized particularly by depletion of potentially protective microorganisms and enrichment of potentially pathogenic or infection-associated taxa. These microbial alterations may have potential as adjunctive biomarkers for EC risk stratification and early detection. However, the available observational evidence does not establish a causal role of microbial dysbiosis or infection in endometrial carcinogenesis. Large prospective studies using standardized sampling, sequencing, and analytical methods are required to clarify causality and determine the clinical utility of microbiome-based diagnostic and therapeutic approaches.",
+        "journal": "La Clinica terapeutica",
+        "authors": [
+          "Ahmed Abd Elkader Eltabakh",
+          "Ahmed Abdeltawab",
+          "Ahmed Mohamed Fahmy Selim",
+          "Ahmed Salah Ahmed El Beltagy",
+          "Ayman Mansour",
+          "Ehsan Hamed Ali Abdelaal",
+          "El-Metwally Farouk Elshahat",
+          "Islam Ibrahim Elewiny",
+          "Mazed Mohamed Labib Ghonemy Ibrahim",
+          "Mohamed Ali Mohamed",
+          "Mohamed Elsayed Mohamed Shenishan",
+          "Mohamed Ibrahim Abdelkader Elbarbary",
+          "Mohamed Selim Mohamed Elbrolosy",
+          "Mostafa Ellaban",
+          "Yasser S Saraya"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-01-01T00:00:00.000Z",
+        "activityAt": "2026-10-25T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42922244/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "从菌群失调到恶性肿瘤：子宫内膜癌中的女性生殖道微生物组——系统综述与荟萃分析的见解",
+          "researchQuestion": "评估子宫内膜癌（EC）女性的女性生殖道微生物组改变，并识别与良性、癌前及恶性子宫内膜状况相关的微生物模式。",
+          "studyDesign": "系统综述与荟萃分析，纳入观察性研究；遵循PRISMA指南和MOOSE建议。",
+          "populationAndSample": "纳入2016年至2026年发表的10项合格观察性研究，共775名女性：329例良性疾病、121例子宫内膜增生、325例EC。",
+          "methods": "提取人口学、组织病理学、解剖采样和微生物学数据，使用Review Manager、SPSS 23版和EPI-INFO分析；使用Cochrane协作工具评估偏倚风险。",
+          "keyResults": "EC女性较良性疾病女性年龄更大（59.2 ± 5.3岁 vs. 52.7 ± 4.4岁），平均体重指数更高（33.8 ± 3.8 kg/m² vs. 27.5 ± 2.0 kg/m²）。子宫内膜样癌是主要组织学亚型，大多数恶性病例为低级别和早期肿瘤。EC与生殖道微生物组显著改变相关：包括Lactobacillus、Bacteroides、Prevotella、Staphylococcus和Enterococcus在内的若干共生菌在恶性病例中减少，而潜在致病或感染相关菌属，尤其是Stenotrophomonas、Streptococcus和Porphyromonas增加（p < 0.001）。汇总分析显示生殖道微生物失调与EC之间存在显著关联。",
+          "limitations": "摘要未报告偏倚风险评估的具体结果。现有观察性证据不能确立微生物失调或感染在子宫内膜癌发生中的因果作用；需要采用标准化采样、测序和分析方法的大型前瞻性研究来明确因果关系及基于微生物组的诊断和治疗方法的临床效用。",
+          "clinicalInterpretation": "女性生殖道微生物失调与EC相关，其特征尤其是潜在保护性微生物减少和潜在致病或感染相关分类群富集。这些微生物改变可能作为EC风险分层和早期检测的辅助生物标志物，但观察性证据不能确立因果作用。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "0e5665524454f2f36e25c8be45ebd9c3431cb960cc503423075d5b8c7c902f24"
+      },
+      {
+        "id": "pmid:42923919",
+        "pmid": "42923919",
+        "doi": "10.61622/rbgo/2026rbgo54",
+        "title": "Sleep patterns and sleep disorders in pregnant women with preeclampsia: a systematic review and meta-analysis.",
+        "abstract": "OBJECTIVE: Preeclampsia (PE) is a hypertensive disorder of pregnancy with diverse and poorly understood risk factors. Hormonal changes during this period affect sleep, raising the question of whether sleep disturbances may be related to PE. This review aimed to investigate the prevalence of sleep disturbances among pregnant women diagnosed with PE.\nMETHODS: We included observational studies and clinical trials assessing sleep by any method. Exclusion criteria were studies on PE without sleep assessment, systematic reviews, editorials, animal studies, and unavailable full texts. Studies were retrieved from Virtual Health Library, MEDLINE and Embase using the descriptors \"preeclampsia\" and \"sleep\" with additional manual searches. The last search was conducted on December 10, 2024. Screening and data extraction were performed independently by two reviewers. Risk of bias was assessed using the Joanna Briggs Institute checklist. Random-effects models were used to synthesize prevalence as proportions with 95% confidence intervals (CIs).\nRESULTS: Twenty-one studies were included from 2,075 initially identified. The pooled prevalence of sleep disturbances in PE was 46% (95% CI [0,19 - 0,76]), p=0,823. Stratified analysis identified two categories: qualitative disturbances, with prevalence of 50% (95% CI [0.31-0.70]); and sleep-disordered breathing with prevalence of 43% (95% CI [0.10-0.83]).\nDISCUSSION: This meta-analysis found an estimated 46% prevalence of sleep disturbances in preeclampsia; however, the evidence is of very low quality (GRADE), due to extreme heterogeneity and uncontrolled risk of bias. PROSPERO: CRD42024557766.",
+        "journal": "Revista brasileira de ginecologia e obstetricia : revista da Federacao Brasileira das Sociedades de Ginecologia e Obstetricia",
+        "authors": [
+          "Celia Regina Santos Cavalcanti",
+          "Luisa Six Maeda",
+          "Naila Giovana Ferraz de Oliveira",
+          "Nelson Sass",
+          "Rebeca Lundii Oliveira Pereira"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-20T00:00:00.000Z",
+        "activityAt": "2026-10-25T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42923919/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "子痫前期孕妇的睡眠模式与睡眠障碍：系统综述与荟萃分析",
+          "researchQuestion": "调查被诊断为子痫前期（PE）的孕妇中睡眠障碍的患病率。",
+          "studyDesign": "系统综述与荟萃分析，纳入通过任何方法评估睡眠的观察性研究和临床试验。",
+          "populationAndSample": "从最初识别的2,075项研究中纳入21项研究；对象为诊断为PE的孕妇；样本总量摘要未报告。",
+          "methods": "检索Virtual Health Library、MEDLINE和Embase，使用描述词“preeclampsia”和“sleep”并辅以手工检索，最后检索日期为2024年12月10日。两名评价者独立筛选和提取数据；使用Joanna Briggs Institute清单评估偏倚风险；采用随机效应模型以比例及95%置信区间（CI）合成患病率。",
+          "keyResults": "PE中睡眠障碍的合并患病率为46%（95% CI [0,19–0,76]），p=0,823。分层分析识别出两类：定性睡眠障碍患病率为50%（95% CI [0.31–0.70]）；睡眠呼吸障碍患病率为43%（95% CI [0.10–0.83]）。",
+          "limitations": "证据质量极低（GRADE），原因是极度异质性和未控制的偏倚风险。",
+          "clinicalInterpretation": "本荟萃分析估计子痫前期中睡眠障碍患病率为46%，但证据质量极低；不能据此建立因果或临床实践指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "fcff142623815d06d6c3a9ee36ec2d9aadc5cddb805765f657744ca3f7052efa"
+      },
+      {
+        "id": "pmid:42924317",
+        "pmid": "42924317",
+        "doi": "10.61622/rbgo/2026rbgo56",
+        "title": "Screening for maternal infection in pregnancy to prevent preterm birth: a systematic review.",
+        "abstract": "OBJECTIVE: To analyze whether screening for maternal infections during pregnancy to prevent premature birth is associated with a reduction in premature birth.\nDATA SOURCES: A systematic review was conducted. PubMed, Scopus, Cochrane Library and ProQuest databases were screened for original studies carried out on pregnant women and used Medical Subject Headings (MeSH) terms and free-text keywords related to pregnancy, infection screening, and preterm birth.\nSELECTION OF STUDIES: Randomized and observational studies that evaluated antenatal screening for maternal genital or urinary infections, compared screened populations with usual care without additional targeted infection screening, and reported preterm birth (<37 weeks) or related obstetric outcomes were included.\nDATA COLLECTION: Study selection and extraction were performed independently by two reviewers.\nDATA SYNTHESIS: Out of 858 records obtained, 10 studies met the inclusion criteria. These studies screened for various genital and urinary infections. The effect estimates for the unselected antenatal populations were mostly not significant. Nevertheless, maternal infection screening in selected or high-risk populations and subgroup analyses among nulliparous women screened for bacterial vaginosis (BV) or Chlamydia trachomatis/Neisseria gonorrhoeae (CT/NG) was associated with reduction in preterm birth. Marked heterogeneity in populations, settings, target infections, and screening protocols limited direct comparison across studies.\nCONCLUSION: Antenatal infection screening in unselected pregnant populations did not show a significant reduction in preterm birth. However, more favourable findings were observed in selected or high-risk populations, although overall effects are heterogeneous. Further well-designed studies in clearly defined target populations are needed to define optimal screening strategies for routine practice. PROSPERO registration number : CRD420251244205.",
+        "journal": "Revista brasileira de ginecologia e obstetricia : revista da Federacao Brasileira das Sociedades de Ginecologia e Obstetricia",
+        "authors": [
+          "Dwiana Ocviyanti",
+          "Fera Ibrahim",
+          "Zaenab Azzahra"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-13T00:00:00.000Z",
+        "activityAt": "2026-10-25T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42924317/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "妊娠期母亲感染筛查以预防早产：系统综述",
+          "researchQuestion": "分析妊娠期筛查母亲感染以预防早产是否与早产减少相关。",
+          "studyDesign": "系统综述，纳入随机和观察性研究。",
+          "populationAndSample": "从858条记录中获得10项符合纳入标准的研究；对象为孕妇；样本总量摘要未报告。研究评估产前筛查生殖道或泌尿道感染，并与未进行额外针对性感染筛查的常规照护比较，报告早产（<37周）或相关产科结局。",
+          "methods": "检索PubMed、Scopus、Cochrane Library和ProQuest数据库，使用与妊娠、感染筛查和早产相关的MeSH术语和自由文本关键词；两名评价者独立进行研究选择和数据提取。",
+          "keyResults": "在未选择的产前人群中，效应估计大多不显著。然而，在选定或高风险人群中进行母亲感染筛查，以及在无产次女性中筛查细菌性阴道病（BV）或沙眼衣原体/淋病奈瑟菌（CT/NG）的亚组分析，与早产减少相关。人群、环境、目标感染和筛查方案的明显异质性限制了研究间的直接比较。",
+          "limitations": "人群、环境、目标感染和筛查方案存在明显异质性，限制研究间直接比较；需要在明确界定的目标人群中进一步开展设计良好的研究。",
+          "clinicalInterpretation": "在未选择的孕妇人群中进行产前感染筛查未显示早产显著减少；在选定或高风险人群中观察到更有利的结果，但总体效应异质。需要进一步研究确定常规实践的最佳筛查策略。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "417b49d62579a70abeb83c40b2537a24c1ade64bc6cecbfe367d18b90d51739e"
+      },
+      {
+        "id": "pmid:42924382",
+        "pmid": "42924382",
+        "doi": "10.61622/rbgo/2026rbgo49",
+        "title": "Fibromyalgia in pregnancy and postpartum period: effects on quality of life, obstetric outcomes, delivery decisions, and breastfeeding: a systematic review.",
+        "abstract": "OBJECTIVE: To systematically evaluate the impact of fibromyalgia (FM) during pregnancy and the postpartum period on health-related quality of life ( HRQoL ), obstetric outcomes, and breastfeeding practices.\nDATA SOURCES: PubMed/MEDLINE, EMBASE, Cochrane CENTRAL, and SciELO were searched for studies published between January 2010 and May 2024. The review followed Cochrane Collaboration standards and PRISMA 2020 recommendations.\nSTUDY SELECTION: Randomized and observational studies assessing FM during pregnancy or postpartum were eligible. Titles, abstracts, and full texts were independently screened by two reviewers according to predefined inclusion and exclusion criteria.\nDATA COLLECTION: Data were extracted on maternal HRQoL, psychological well-being, obstetric complications, and breastfeeding outcomes. Methodological quality was appraised using ROBINS-I for non-randomized studies.\nDATA SYNTHESIS: From 152 records identified, five studies met inclusion criteria, encompassing 8,182 women with FM. FM was associated with greater pain intensity, reduced functional capacity, lower HRQoL, and higher rates of depressive and anxiety symptoms. A population-based cohort showed modestly increased risks of gestational diabetes, preterm birth, and cesarean delivery, while reproductive capacity and breastfeeding duration appeared unaffected. Most studies presented moderate risk of bias due to confounding and reliance on self-reported data.\nCONCLUSION: FM during pregnancy appears to be associated with reduced maternal HRQoL and impaired psychological well-being and may be associated with a modest increase in obstetric risk. PROSPERO registry: #CRD42024572007.",
+        "journal": "Revista brasileira de ginecologia e obstetricia : revista da Federacao Brasileira das Sociedades de Ginecologia e Obstetricia",
+        "authors": [
+          "Bruna Maria Dos Santos Pereira",
+          "Durval Campos Kraychete",
+          "Liana Maria Tôrres de Araújo Azi",
+          "Rodrigo Leal Alves",
+          "Vinícius Borges Alencar"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-20T00:00:00.000Z",
+        "activityAt": "2026-10-25T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42924382/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "妊娠期和产褥期纤维肌痛：对生活质量、产科结局、分娩决策和母乳喂养的影响——系统综述",
+          "researchQuestion": "系统评估妊娠期和产褥期纤维肌痛（FM）对健康相关生活质量（HRQoL）、产科结局和母乳喂养实践的影响。",
+          "studyDesign": "系统综述，纳入随机和观察性研究；遵循Cochrane协作标准和PRISMA 2020建议。",
+          "populationAndSample": "从152条记录中纳入5项符合标准的研究，共涵盖8,182名FM女性。",
+          "methods": "检索PubMed/MEDLINE、EMBASE、Cochrane CENTRAL和SciELO，时间范围为2010年1月至2024年5月；两名评价者独立筛选标题、摘要和全文。提取母亲HRQoL、心理福祉、产科并发症和母乳喂养结局数据；使用ROBINS-I评估非随机研究的方法学质量。",
+          "keyResults": "FM与更严重的疼痛强度、功能能力下降、较低HRQoL以及更高比例的抑郁和焦虑症状相关。一项基于人群的队列显示妊娠期糖尿病、早产和剖宫产风险轻度增加，而生育能力和母乳喂养持续时间似乎未受影响。大多数研究因混杂和依赖自我报告数据而存在中等偏倚风险。",
+          "limitations": "大多数研究因混杂和依赖自我报告数据而存在中等偏倚风险；纳入研究仅5项。",
+          "clinicalInterpretation": "妊娠期FM似乎与母亲HRQoL降低和心理福祉受损相关，并可能与产科风险轻度增加相关；观察性关联不能确立因果。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "1c1a4d9fc1750184f3bffd2cc17ea6d0fe970ee2112634272afc631d7e77e286"
+      },
+      {
+        "id": "pmid:42924873",
+        "pmid": "42924873",
+        "doi": "10.1111/eci.70266",
+        "title": "Fertility Treatment and Risk of Melanoma: A Certainty-Rated Systematic Review and Meta-Analysis of 3,733,499 Women.",
+        "abstract": "BACKGROUND: Cancer safety after fertility treatment is well studied for breast and gynaecological tumours, but melanoma risk remains poorly characterized. We synthesized internally controlled evidence on this association.\nMETHODS: PubMed/MEDLINE, Scopus, Cochrane Library, and ClinicalTrials.gov (2000-2025) were searched for comparative observational studies of melanoma incidence. The primary outcome was incident melanoma; treatment-pathway/SIR analyses were secondary. Hazard ratios and case-cohort relative risks (rare-disease approximation) were pooled using random-effects meta-analysis (REML, Hartung-Knapp) in R; SIRs were synthesized separately. Risk of bias was assessed with ROBINS-E and certainty graded using GRADE.\nRESULTS: Twelve observational studies (3,733,499 women; 219,357 exposed) were included. ROBINS-E rated no study overall low risk of bias (83% some concerns, 17% high risk), reflecting incomplete ultraviolet-exposure adjustment. Melanoma risk was modestly elevated (HR 1.24, 95% CI 1.02-1.50; I 2 = 0%; prediction interval 0.97-1.58); drug-only ovulation induction showed a stronger association (HR 1.39, 95% CI 1.01-1.92), while ART/IVF was near-null (HR 1.09, 95% CI 0.81-1.48). Corresponding absolute increases were approximately 3-8, 5-13, and 1-3 per 10,000 women over 10 years (baseline 13.3-33.1/100,000/year). Certainty was very low for any fertility treatment and drug-only treatment, and low for ART/IVF. SIR-based analyses were non-significant and highly heterogeneous (SIR 1.25, 95% CI 0.66-2.38; I 2 = 80%).\nCONCLUSIONS: Observed associations are small and of very low to low certainty, reflecting incomplete ultraviolet-exposure and risk-factor adjustment; causality cannot be established. Current evidence does not justify changes in fertility-treatment practice. Future studies require cycle-level exposure data and rigorous ultraviolet-exposure control.",
+        "journal": "European journal of clinical investigation",
+        "authors": [
+          "Cinzia Solinas",
+          "Dimitrios Stylianakis",
+          "Emanuela Passoni",
+          "Fausto Petrelli",
+          "Gianluca Nazzaro",
+          "Ioannis Stylianakis",
+          "Laura Atzori",
+          "Mario Scartozzi",
+          "Matteo Lambertini",
+          "Nerina Denaro",
+          "Ornella Garrone",
+          "Serafina Martella"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-11-01T00:00:00.000Z",
+        "activityAt": "2026-10-25T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42924873/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "生育治疗与黑色素瘤风险：一项对3,733,499名女性进行证据确定性评级系统综述与荟萃分析",
+          "researchQuestion": "综合内部对照证据，评估生育治疗与黑色素瘤风险之间的关联。",
+          "studyDesign": "证据确定性评级的系统综述与荟萃分析，纳入比较性观察研究；使用ROBINS-E评估偏倚风险，并使用GRADE进行确定性分级。",
+          "populationAndSample": "纳入12项观察性研究，共3,733,499名女性，其中219,357名暴露。",
+          "methods": "检索PubMed/MEDLINE、Scopus、Cochrane Library和ClinicalTrials.gov（2000—2025年），纳入黑色素瘤发病率的比较性观察研究。主要结局为 incident melanoma；治疗路径/SIR分析为次要结局。使用R中的随机效应荟萃分析（REML、Hartung-Knapp）合并风险比和病例队列相对风险（罕见病近似）；SIR另行合成。",
+          "keyResults": "ROBINS-E评级显示没有研究总体为低偏倚风险（83%存在一些担忧，17%高偏倚风险），反映紫外线暴露调整不完整。黑色素瘤风险轻度升高（HR 1.24，95% CI 1.02–1.50；I² = 0%；预测区间0.97–1.58）；仅药物促排卵显示更强关联（HR 1.39，95% CI 1.01–1.92），而ART/IVF接近无效（HR 1.09，95% CI 0.81–1.48）。相应绝对增加约每10,000名女性10年内3–8例、5–13例和1–3例（基线13.3–33.1/100,000/年）。任何生育治疗和仅药物治疗的确定性为极低，ART/IVF为低。基于SIR的分析不显著且高度异质（SIR 1.25，95% CI 0.66–2.38；I² = 80%）。",
+          "limitations": "观察到的关联较小且确定性为极低至低，反映紫外线暴露和风险因素调整不完整；不能确立因果关系。未来研究需要周期级暴露数据和严格的紫外线暴露控制。",
+          "clinicalInterpretation": "现有证据不能确立生育治疗与黑色素瘤之间的因果关系，当前证据不支持改变生育治疗实践。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "190d1cedbef1c3437e0d9d04f821a4a8a207ef2a9ccfc0946e9fe33bf0201df7"
+      }
+    ]
+  }
+}
