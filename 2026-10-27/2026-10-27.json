@@ -1,0 +1,271 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-10-26T22:35:36.583Z",
+    "dataAsOf": "2026-10-26T22:35:36.583Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及无糖尿病的肥胖孕妇的子痫前期风险：二甲双胍与对照组比较的Meta分析、甘油三酯-葡萄糖指数（TyG）作为胰岛素抵抗替代标志物与妊娠期糖尿病（GDM）风险的关联：更新的系统综述和Meta分析、评估获益框架与损失框架移动信息改善孕产妇保健服务利用：埃塞俄比亚吉马地区的整群随机对照试验。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42924392",
+        "pmid": "42924392",
+        "doi": "10.61622/rbgo/2026rbgo46",
+        "title": "Preeclampsia Risk in Obese Pregnant Women without Diabetes Mellitus: a Meta-Analysis Comparing Metformin versus Control Group.",
+        "abstract": "OBJECTIVE: To evaluate the impact of metformin on reducing the risk of pre-eclampsia in obese pregnant women without diabetes.\nSOURCES OF DATA: Following PRISMA guidelines, Scopus, Embase, PubMed (MEDLINE), Cochrane Database of Systematic Reviews, LILACS, SciElo, and Web of Science were searched for articles published between 2014 and April 2024. Search terms: (\"Metformin\" OR \"Biguanide\" OR \"Glucophage\" OR \"dimethylbiguanide\") AND (\"pre-eclampsia\" OR \"preeclampsia\") AND (\"obese pregnant women\" OR \"obesity in pregnancy\" OR \"maternal obesity\" OR \"pregnancy\" OR \"obesity\").\nSTUDY SELECTION: From 2022 studies identified, three randomized controlled trials comparing metformin with placebo or standard care in obese pregnant women without diabetes were included. Primary outcomes were pre-eclampsia incidence; secondary outcomes included gestational hypertension, gestational diabetes, preterm birth, cesarean delivery, postpartum hemorrhage, and NICU admission.\nDATA COLLECTION: Data were extracted, and odds ratios (OR) with 95% confidence intervals (CI) were calculated. Heterogeneity was assessed using I 2 statistics.\nDATA SYNTHESIS: Metformin did not significantly reduce PE risk (OR: 0.42; 95% CI: 0.10-1.68; p=0.22; I 2 =81%). Secondary outcomes showed no significant differences. Subgroup analysis excluding a methodological outlier suggested potential benefit (OR: 0.20; 95% CI: 0.10-0.38; p<0.00001; I 2 =0%). Metformin alone may not effectively prevent PE in these women, but efficacy could improve with lifestyle modifications. Study heterogeneity highlights the need for larger, rigorous trials.\nCONCLUSIONS: Metformin should not be routinely recommended for pre-eclampsia prevention in obese pregnant women without diabetes until robust evidence from further research supports its efficacy. Prospero registry: CRD42024611538.",
+        "journal": "Revista brasileira de ginecologia e obstetricia : revista da Federacao Brasileira das Sociedades de Ginecologia e Obstetricia",
+        "authors": [
+          "Bianca Cardoso Lopes",
+          "Fabyola Jorge Cruz",
+          "Nathália Maria Ladeira de Oliveira",
+          "Vinícius Diniz Cedro Araújo"
+        ],
+        "publicationTypes": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "publishedAt": "2026-08-20T00:00:00.000Z",
+        "activityAt": "2026-10-25T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42924392/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "无糖尿病的肥胖孕妇的子痫前期风险：二甲双胍与对照组比较的Meta分析",
+          "researchQuestion": "评价二甲双胍对无糖尿病的肥胖孕妇子痫前期风险的降低作用。",
+          "studyDesign": "系统综述与Meta分析；按照PRISMA指南；最终纳入3项比较二甲双胍与安慰剂或标准治疗的随机对照试验。",
+          "populationAndSample": "无糖尿病的肥胖孕妇；纳入3项随机对照试验；摘要未报告总样本量。",
+          "methods": "检索Scopus、Embase、PubMed（MEDLINE）、Cochrane Database of Systematic Reviews、LILACS、SciElo和Web of Science，检索2014年至2024年4月发表的文献；提取数据并计算比值比（OR）及95%置信区间（CI）；使用I²统计量评估异质性。主要结局为子痫前期发生率；次要结局包括妊娠期高血压、妊娠期糖尿病、早产、剖宫产、产后出血和NICU入住。",
+          "keyResults": "二甲双胍未显著降低子痫前期风险（OR 0.42；95% CI 0.10–1.68；p=0.22；I²=81%）。次要结局均无显著差异。排除一项方法学离群研究后的亚组分析提示潜在获益（OR 0.20；95% CI 0.10–0.38；p<0.00001；I²=0%）。作者指出二甲双胍单药可能不能有效预防这些女性的子痫前期，但结合生活方式干预可能提高效果；研究异质性提示需要更大规模、更严谨的试验。",
+          "limitations": "异质性较高（I²=81%）；仅纳入3项随机对照试验；存在方法学离群研究；作者指出需要更大规模、更严谨的试验；摘要未报告其他局限性。",
+          "clinicalInterpretation": "该Meta分析作者结论认为，在获得进一步可靠研究证据支持其疗效之前，不应将二甲双胍常规推荐用于无糖尿病的肥胖孕妇的子痫前期预防；亚组分析提示的潜在获益需谨慎解读。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "e1a94ca86d23712d47b55deaa2c731b28f006cc44d71cbcdb382aebf4028759a"
+      },
+      {
+        "id": "pmid:42924394",
+        "pmid": "42924394",
+        "doi": "10.61622/rbgo/2026rbgo47",
+        "title": "Association between triglyceride-glucose index (TyG) as a surrogate marker of insulin resistance and risk of gestational diabetes mellitus (GDM): updated systematic review and meta-analysis.",
+        "abstract": "OBJECTIVE: This systematic review and meta-analysis evaluated whether the first-trimester triglyceride-glucose (TyG) index predicts subsequent gestational diabetes mellitus (GDM).\nMETHODS: MEDLINE/PubMed, Scopus, Embase, Web of Science, ScienceDirect, and the Cochrane Library were searched from inception to August 12, 2025. Eligible studies were prospective or retrospective cohorts including adult women with singleton pregnancies, first-trimester TyG assessment, and later GDM ascertainment; non-original studies, case reports/series, and duplicates were excluded. Risk of bias was assessed using ROBINS-E. Adjusted odds ratios (ORs) were pooled using random-effects models with REML and Hartung-Knapp adjustment. Sensitivity, subgroup, diagnostic accuracy, publication-bias, and GRADE certainty analyses were performed.\nRESULTS: Fourteen observational cohorts comprising 462,233 pregnant women were included; 30,875 (7%) developed GDM. Twelve studies contributed adjusted association estimates. Elevated first-trimester TyG was associated with higher odds of GDM (OR 2.35, 95% CI 1.88-2.94; I 2 =92%). The association persisted after excluding influential studies (OR 2.36, 95% CI 1.91-2.90; I 2 =30.6%) and was consistent in Asian populations and low-risk-of-bias studies. Diagnostic performance was moderate, with pooled sensitivity of 0.62 (95% CI 0.54-0.69), specificity of 0.64 (95% CI 0.60-0.69), and AUC of 0.67. Limitations included substantial heterogeneity, variable TyG thresholds, observational designs, and limited non-Asian evidence.\nCONCLUSIONS: First-trimester TyG is associated with increased GDM risk and may support early risk stratification, but its moderate diagnostic performance precludes use as a standalone screening test. PROSPERO registry : # CRD420251125511.",
+        "journal": "Revista brasileira de ginecologia e obstetricia : revista da Federacao Brasileira das Sociedades de Ginecologia e Obstetricia",
+        "authors": [
+          "Angie Farfán-Castillo",
+          "Claudia Vanessa Quispe-Castañeda",
+          "Diego Alexis Moncada-Gutiérrez",
+          "Edinson Dante Meregildo-Rodríguez",
+          "Gustavo Adolfo Vásquez-Tirado",
+          "María Cuadra-Campos",
+          "Milene Villarreal-Jara",
+          "Víctor Serna-Alarcón"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-13T00:00:00.000Z",
+        "activityAt": "2026-10-25T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42924394/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "甘油三酯-葡萄糖指数（TyG）作为胰岛素抵抗替代标志物与妊娠期糖尿病（GDM）风险的关联：更新的系统综述和Meta分析",
+          "researchQuestion": "评价孕早期TyG指数是否预测随后发生的妊娠期糖尿病（GDM）。",
+          "studyDesign": "更新的系统综述与Meta分析，纳入前瞻性或回顾性队列研究；采用ROBINS-E评估偏倚风险，使用随机效应模型（REML和Hartung-Knapp校正），并进行敏感性、亚组、诊断准确性、发表偏倚和GRADE证据确定性分析。",
+          "populationAndSample": "14项观察性队列，共462,233名孕妇；其中30,875名（7%）发生GDM；纳入成人单胎妊娠、孕早期进行TyG评估并后续确认GDM的研究。",
+          "methods": "检索MEDLINE/PubMed、Scopus、Embase、Web of Science、ScienceDirect和Cochrane Library（自建库至2025年8月12日）；排除非原创研究、病例报告/系列和重复文献；合并校正OR；进行敏感性、亚组、诊断准确性、发表偏倚和GRADE分析。",
+          "keyResults": "12项研究提供校正关联估计。孕早期TyG升高与GDM风险升高相关（OR 2.35；95% CI 1.88–2.94；I²=92%）。排除影响性研究后关联持续（OR 2.36；95% CI 1.91–2.90；I²=30.6%），在亚洲人群和低偏倚风险研究中一致。诊断性能中等：合并敏感度0.62（95% CI 0.54–0.69）、特异度0.64（95% CI 0.60–0.69）、AUC 0.67。",
+          "limitations": "存在显著异质性；TyG阈值不一；研究为观察性设计；非亚洲证据有限；摘要未报告其他局限性。",
+          "clinicalInterpretation": "作者结论认为孕早期TyG与GDM风险升高相关，可能有助于早期风险分层，但诊断性能中等，不能作为独立筛查试验使用。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "be34f6fb6b8d034f2b3d4a06aedda02ca1666305f7d059efc8f03dc36aad716c"
+      },
+      {
+        "id": "pmid:42932269",
+        "pmid": "42932269",
+        "doi": "10.1371/journal.pone.0360474",
+        "title": "Evaluating gain and loss-framed mobile messaging to improve maternal health service uptake: A cluster randomized controlled trial in Jimma, Ethiopia.",
+        "abstract": "BACKGROUND: Maternal mortality has declined in Ethiopia, yet rural areas still struggle with access to care. Mobile phone-based gain or loss-framed messaging-hold promise for improving maternal health outcomes. Evidence on the comparative impact of these framing strategies in low-resource rural settings remains limited. This study evaluated the effectiveness of gain- versus loss-framed SMS messages in improving maternal health service utilization in Jimma Zone, Ethiopia.\nMETHODS: A three-arm cluster-randomized controlled trial was conducted across 21 clusters, with clusters allocated to gain-framed messaging, loss-framed messaging, or control (usual care). A total of 588 pregnant women (16-20 GA) were recruited in March 2023 and followed from May to December 2023, with endline assessment in February 2024. Participants received 39 messages over a 6-8 month period, aligned with gestational age and postnatal timeline. Primary outcomes were at least one ANC, SBA, and PNC within 7 days. Secondary outcomes included knowledge, attitudes, self-efficacy, and self-reported morbidity. Analyses used generalized and linear mixed models with cluster-level adjustments.\nRESULT: Both framing strategies improved service utilization compared to control. Gain-framed messages increased odds of ANC attendance (OR 5.40, 97.5% CI 1.95-14.94), SBA (OR 7.53, 97.5% CI 2.20-25.79), and PNC (OR 4.83, 97.5% CI 1.71-13.67). Loss-framed messages also improved ANC attendance (OR 7.14, 97.5% CI 2.40-21.26), Skilled Birth Attendance (SBA) (OR 7.31, 97.5% CI 2.13-25.09), and PNC (OR 4.07, 97.5% CI 1.46-11.39). Knowledge improved in both arms, attitudes improved only in the gain-framed arm, and self-efficacy showed no significant change. Self-reported maternal morbidity decreased in both intervention arms.\nCONCLUSION: Both gain- and loss-framed mobile messages led to increased maternal health service utilization. Loss-framed messages were more effective for ANC attendance, knowledge, and morbidity reduction, while gain-framed messages showed greater impact on SBA, PNC, and attitudes.\nTRIAL REGISTRATION: Pan African Clinical Trials Registry (PACTR), PACTR202201753436676, registered on January 4, 2022; https://tinyurl.com/ykhnpc49.",
+        "journal": "PloS one",
+        "authors": [
+          "Demisew Amenu",
+          "Gebeyehu Bulcha Duguma",
+          "Hordofa Gutema",
+          "Mulusew Gerbaba",
+          "Zewdie Birhanu"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-10-26T00:00:00.000Z",
+        "activityAt": "2026-10-26T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42932269/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "评估获益框架与损失框架移动信息改善孕产妇保健服务利用：埃塞俄比亚吉马地区的整群随机对照试验",
+          "researchQuestion": "评价获益框架与损失框架短信在改善埃塞俄比亚吉马地区孕产妇保健服务利用方面的有效性。",
+          "studyDesign": "三臂整群随机对照试验，共21个整群，分配至获益框架信息、损失框架信息或对照（常规照护）。",
+          "populationAndSample": "588名孕16–20周的孕妇，于2023年3月招募，2023年5月至12月随访，2024年2月终线评估。",
+          "methods": "参与者在6–8个月内接受39条信息，按孕龄和产后时间线安排；主要结局为至少一次ANC、SBA和产后7天内PNC；次要结局包括知识、态度、自我效能和自我报告发病率；使用广义和线性混合模型并进行整群水平校正。",
+          "keyResults": "与对照相比，两种框架均改善服务利用。获益框架：ANC OR 5.40（97.5% CI 1.95–14.94）、SBA OR 7.53（97.5% CI 2.20–25.79）、PNC OR 4.83（97.5% CI 1.71–13.67）。损失框架：ANC OR 7.14（97.5% CI 2.40–21.26）、SBA OR 7.31（97.5% CI 2.13–25.09）、PNC OR 4.07（97.5% CI 1.46–11.39）。两臂知识均改善；仅获益框架组态度改善；自我效能无显著变化；两干预臂自我报告孕产妇发病率下降。",
+          "limitations": "摘要未报告明确局限性。",
+          "clinicalInterpretation": "作者结论认为两种框架短信均增加孕产妇保健服务利用；损失框架对ANC、知识和发病率下降更有效，获益框架对SBA、PNC和态度影响更大。该研究为单国农村整群随机试验，结果不宜直接视为普遍临床指南。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "315e6d42c27c4d90e9c0f9a88597ab03fae53432580d16b617aa54aed123d149"
+      },
+      {
+        "id": "pmid:42931961",
+        "pmid": "42931961",
+        "doi": "10.1007/s00432-026-06555-0",
+        "title": "Intensity-modulated radiotherapy combined with albumin-bound paclitaxel and platinum-based chemotherapy for locoregional recurrent cervical cancer: a single-institutional phase II investigator-initiated nonrandomized clinical trial.",
+        "abstract": "OBJECTIVE: To prospectively explore efficacy and safety of radiotherapy combined with albumin-bound paclitaxel and platinum-based chemotherapy for locoregional recurrent cervical cancer (CC).\nMETHODS: Patients with locoregional recurrent CC were enrolled in the analysis. The enrolled patients received radiotherapy and albumin-bound paclitaxel and platinum-based chemotherapy. The primary endpoint was overall survival (OS). Secondary endpoints were progression-free survival (PFS), objective response rate (ORR), and safety.\nRESULTS: 99 patients were enrolled. For all patients, the 3-year PFS and 3-year OS were 48.5% and 58.6%. 17.2% of patients achieved CR and 67.7% of patients achieved PR. The ORR was 84.8%. Moreover, 10.1% of patients were confirmed SD. The DCR was 94.9%.\nCONCLUSION: Locoregional recurrent CC could benefit from radiotherapy combined with albumin-bound paclitaxel and platinum-based chemotherapy.",
+        "journal": "Journal of cancer research and clinical oncology",
+        "authors": [
+          "Chi Fang",
+          "Guihao Ke",
+          "Jie Xia",
+          "Jun Zhu",
+          "Suping Liu",
+          "Xiaohua Wu"
+        ],
+        "publicationTypes": [
+          "Clinical Trial, Phase II",
+          "Journal Article"
+        ],
+        "publishedAt": "2026-07-28T00:00:00.000Z",
+        "activityAt": "2026-10-26T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42931961/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 21.25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 96.25,
+          "evidenceRank": 0.85
+        },
+        "summaryZh": {
+          "titleZh": "调强放疗联合白蛋白结合型紫杉醇及铂类化疗治疗局部区域复发宫颈癌：单中心II期研究者发起的非随机临床试验",
+          "researchQuestion": "前瞻性探索放疗联合白蛋白结合型紫杉醇及铂类化疗治疗局部区域复发宫颈癌的疗效和安全性。",
+          "studyDesign": "单中心、II期、研究者发起的非随机临床试验。",
+          "populationAndSample": "纳入99例局部区域复发宫颈癌患者。",
+          "methods": "患者接受放疗联合白蛋白结合型紫杉醇及铂类化疗；主要终点为总生存期（OS）；次要终点为无进展生存期（PFS）、客观缓解率（ORR）和安全性。",
+          "keyResults": "全组3年PFS为48.5%，3年OS为58.6%；17.2%达完全缓解（CR），67.7%达部分缓解（PR），ORR为84.8%；10.1%确认疾病稳定（SD），疾病控制率（DCR）为94.9%。",
+          "limitations": "摘要未报告具体局限性；研究设计为单中心、II期、非随机临床试验，样本量99例。",
+          "clinicalInterpretation": "作者结论认为局部区域复发宫颈癌可从放疗联合白蛋白结合型紫杉醇及铂类化疗中获益；该研究为单中心II期非随机试验，不能据此形成指南推荐。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "c60e4e1aad6cfdd679781fb9c14c338b57b3885b1d3820dee9317828c73ac866"
+      },
+      {
+        "id": "pmid:42932696",
+        "pmid": "42932696",
+        "doi": "10.1056/aioa2600270",
+        "title": "Closing the Automation Gap in HPV-Based Cervical Cancer Screening: Independent External Validation of an AI Model for Dual-Stain Triage.",
+        "abstract": "BACKGROUND: Primary human papillomavirus (HPV) screening has enabled scalable molecular detection in cervical cancer prevention, but downstream triage of HPV-positive individuals remains dependent on manual p16/Ki-67 dual-stain (DS) cytology interpretation. Although DS is guideline-endorsed and biologically well-defined, scalable implementation is limited by reader-dependent variability and lack of standardized automation.\nMETHODS: We developed Cytoreader-Fusion, a transparent, ensemble-based AI system for automated slide-level DS classification within HPV-based screening workflows that produces well-calibrated probabilistic outputs. The model was trained on 1919 cases and evaluated under blinded honest-broker oversight on 9006 cases across four independent cohorts, including a fully independent post-lock external validation cohort (EXVC; n=4996). All preprocessing steps, aggregation rules, and decision parameters were prespecified and irreversibly locked prior to validation. Performance was evaluated against independently ascertained histologically confirmed cervical intraepithelial neoplasia grade 3 or worse (CIN 3+) (or anal intraepithelial neoplasia grade 3 or worse [AIN 3+]) end points rather than cytologic concordance. A single unified classifier was applied across both ThinPrep and SurePath preparations without platform-specific retraining.\nRESULTS: Cytoreader-Fusion demonstrated stable and reproducible slide-level classification across imaging variability, preparation platforms, and clinical settings. Across blinded screening and referral cohorts, sensitivity and specificity were higher than atypical squamous cells of undetermined significance or worse (ASC-US+) Papanicolaou (Pap) cytology in HPV-based screening populations and comparable to or exceeded manual DS interpretation. In the fully independent post-lock cohort (n=4996), the locked system achieved a sensitivity of 88.3% (90% UI, 85.3%-91.3%) and a specificity of 54.4% (90% UI, 52.9%-55.9%) for detection of CIN 3+, without any model retraining, threshold tuning, or configuration adjustment after lock. Operating characteristics remained consistent across cohorts and preparation platforms.\nCONCLUSIONS: This study establishes a high-stringency validation framework for clinically deployable artificial intelligence in population-based cancer screening. By combining prespecified algorithm locking, independent blinded evaluation under honest-broker supervision, end point-based validation against histologically confirmed disease, and cross-platform generalization, Cytoreader-Fusion demonstrates robust and scalable automation of DS triage within HPV-based screening programs. (Funded by the U.S. National Cancer Institute and others.).",
+        "journal": "NEJM AI",
+        "authors": [
+          "Alexandra Krauthoff",
+          "Andreas Keil",
+          "Bernd Lahrmann",
+          "Betty Suh-Burgmann",
+          "Carolann Risley",
+          "Didem Egemen",
+          "Felipe Miranda Ruiz",
+          "Finley P Grabe",
+          "Kiranjit K Grewal",
+          "Laurie A Fuller",
+          "Liam Bartels",
+          "Megan A Clarke",
+          "Nancy Poitras",
+          "Nicolas Wentzensen",
+          "Niels Grabe",
+          "Patricia E Goldhoff",
+          "Philipp Ströbel",
+          "Sydney Reaves",
+          "Thomas S Lorey",
+          "Walter Kinney"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Validation Study"
+        ],
+        "publishedAt": "2026-09-24T00:00:00.000Z",
+        "activityAt": "2026-10-26T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42932696/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 17.5,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 92.5,
+          "evidenceRank": 0.7
+        },
+        "summaryStatus": "failed"
+      }
+    ]
+  }
+}
