@@ -1,0 +1,279 @@
+{
+  "hero_headline": "晚期子宫内膜癌免疫联合方案显示长期生存获益",
+  "daily_overview": "今日可纳入的妇产科专业更新有限，重点为晚期或复发性子宫内膜癌免疫联合治疗的长期生存信号；暂无指南共识更新或手术前沿进展。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [
+    {
+      "title": "Immunotherapy combination extends survival in advanced endometrial cancer",
+      "url": "https://medicalxpress.com/news/2026-10-immunotherapy-combination-survival-advanced-endometrial.html",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "研究显示，度伐利尤单抗联合PARP抑制剂奥拉帕利在晚期或复发性子宫内膜癌中呈现令人鼓舞的长期生存结局。该结果提示免疫联合策略值得进一步评估，但原文未提供完整疗效与安全性数据，对临床实践的影响尚需验证。",
+      "importance": 8
+    }
+  ],
+  "editor_note": "单一研究信号值得关注，但需等待完整数据和正式发表后再评估临床定位。",
+  "keywords": [
+    "子宫内膜癌",
+    "免疫治疗",
+    "PARP抑制剂",
+    "度伐利尤单抗",
+    "奥拉帕利",
+    "长期生存",
+    "妇科肿瘤"
+  ],
+  "research": {
+    "generatedAt": "2026-10-27T23:43:14.194Z",
+    "dataAsOf": "2026-10-27T23:43:14.194Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及母体循环血管生成生物标志物用于预测无子痫前期的胎儿生长受限和小于胎龄儿出生、孕妇弓形虫感染与糖尿病之间的关联：系统综述与Meta分析、孕妇抗抑郁药和抗精神病药暴露与妊娠期糖尿病风险：观察性研究的系统综述与Meta分析。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42941923",
+        "pmid": "42941923",
+        "doi": "10.3390/ijms27209155",
+        "title": "Maternal Circulating Angiogenic Biomarkers for Predicting Fetal Growth Restriction and Small-for-Gestational-Age Birth Without Preeclampsia.",
+        "abstract": "Maternal circulating angiogenic factors are established biomarkers in preeclampsia, but their early profiles in fetal growth impairment without preeclampsia remain unclear. We quantitatively synthesized data from observational studies measuring maternal serum placental growth factor (PlGF), soluble fms-like tyrosine kinase-1 (sFlt-1), or their ratio before 29 weeks and before clinical recognition of growth impairment in singleton pregnancies without preeclampsia, subsequently classified as fetal growth restriction (FGR), small for gestational age (SGA), or unaffected. PubMed, Embase, and the Cochrane Library were searched through April 2026; 22 studies were included. In random-effects meta-analysis, PlGF was lower in affected pregnancies (standardized mean difference [SMD] -0.38; 95% CI -0.63 to -0.13; I 2 = 92.0%; 19 studies), whereas sFlt-1 did not differ (SMD 0.03; 95% CI -0.27 to 0.34; I 2 = 79.5%; 12 studies) and the ratio was higher in the primary analysis (SMD 0.39; 95% CI 0.08 to 0.70; I 2 = 80.0%; seven studies). This pattern suggests that the ratio signal was influenced largely by lower PlGF. Bivariate analysis of five PlGF accuracy studies yielded a summary sensitivity of 0.29 and specificity of 0.86. Despite substantial heterogeneity, reduced PlGF was the most consistent early angiogenic feature in pregnancies subsequently classified as FGR/SGA without preeclampsia. Its low sensitivity does not support its use as a stand-alone screening test, but these findings warrant further evaluation of PlGF within multimarker prediction models.",
+        "journal": "International journal of molecular sciences",
+        "authors": [
+          "Ah-Young Choi",
+          "Eunju Lee",
+          "Hye Sun Lee",
+          "Min-A Kim"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review"
+        ],
+        "publishedAt": "2026-10-15T00:00:00.000Z",
+        "activityAt": "2026-10-27T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42941923/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "母体循环血管生成生物标志物用于预测无子痫前期的胎儿生长受限和小于胎龄儿出生",
+          "researchQuestion": "在无子痫前期的单胎妊娠中，孕29周前且临床识别生长受损前，母体血清胎盘生长因子（PlGF）、可溶性fms样酪氨酸激酶-1（sFlt-1）或其比值的早期水平，与随后分类为胎儿生长受限（FGR）、小于胎龄儿（SGA）或未受影响之间有何关联及预测准确性？",
+          "studyDesign": "系统综述与随机效应Meta分析，定量合成观察性研究数据。",
+          "populationAndSample": "无子痫前期的单胎妊娠，随后分类为FGR、SGA或未受影响；纳入22项研究；具体受试者人数摘要未报告。",
+          "methods": "检索PubMed、Embase和Cochrane Library至2026年4月；纳入在孕29周前且临床识别生长受损前测定母体血清PlGF、sFlt-1或其比值的观察性研究；采用随机效应Meta分析计算标准化均数差（SMD）；对5项PlGF准确性研究进行双变量分析。",
+          "keyResults": "PlGF在受影响妊娠中较低（SMD -0.38；95% CI -0.63至-0.13；I²=92.0%；19项研究）；sFlt-1无差异（SMD 0.03；95% CI -0.27至0.34；I²=79.5%；12项研究）；比值在主分析中较高（SMD 0.39；95% CI 0.08至0.70；I²=80.0%；7项研究），该模式提示比值信号主要受较低PlGF影响。5项PlGF准确性研究的双变量分析汇总敏感性为0.29、特异性为0.86。",
+          "limitations": "摘要报告异质性很高（I²最高达92.0%）；PlGF单独敏感性低，不支持作为单独筛查试验；其他局限性摘要未报告。",
+          "clinicalInterpretation": "降低的PlGF是无子痫前期妊娠随后分类为FGR/SGA时最一致的早期血管生成特征，但其低敏感性不支持单独用于筛查；摘要认为值得在多标志物预测模型中进一步评估PlGF。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "2371a66f3da8f6f9305970fa1176d5192f0fb6c0ecddf8e5017c04f9b9cd953d"
+      },
+      {
+        "id": "pmid:42928127",
+        "pmid": "42928127",
+        "doi": "10.1186/s12879-026-14081-0",
+        "title": "Association between Toxoplasma gondii infection and diabetes in pregnant women: a systematic review and meta-analysis.",
+        "abstract": "BACKGROUND: Toxoplasma gondii is a globally prevalent zoonotic parasite that can cause significant maternal and neonatal complications during pregnancy. Diabetes mellitus, a condition associated with impaired immune function, may increase susceptibility to such infection. Despite the severe consequences of toxoplasmosis in immunocompromised individuals, no systematic review has previously evaluated its association with diabetes in pregnant women.\nMETHODS: Following the PRISMA 2020 guidelines, a comprehensive search was conducted across PubMed, Scopus, Web of Science and Google Scholar (updated in August 2025). Eligible human observational studies reporting Toxoplasma gondii infection among pregnant women with gestational diabetes mellitus (GDM), type 1 diabetes, or type 2 diabetes were included. Data extraction and quality assessment were performed using Hoy et al.'s tool and Newcastle-Ottawa Scale. Meta-analysis was conducted using Stata version 17.\nRESULTS: Out of 198 retrieved articles, 9 studies (7 case-control and 2 cross-sectional) met the inclusion criteria. In cross-sectional studies, pooled IgG seroprevalence among diabetic pregnant women was 29% (95% CI: 0.22-0.35), with low heterogeneity (I² = 23.63%). IgM seroprevalence was 7% (95% CI: 0.02-0.12). Case-control meta-analysis revealed a significant association between IgG seropositivity and diabetic pregnancy (OR = 2.07, 95% CI: 1.66-2.58; p < 0.001) without evidence of publication bias or heterogeneity. IgM seropositivity was not significantly different between diabetic and healthy pregnant women (OR = 1.81, 95% CI: 0.97-3.35; p > 0.05).\nCONCLUSION: Diabetic pregnant women exhibit a significantly higher prevalence of chronic T. gondii infection (IgG) compared to non-diabetic controls, highlighting a potential association that warrants further investigation. However, the association with acute infection remains unclear. More prospective, geographically diverse studies are needed to clarify causality, underlying mechanisms, and clinical outcomes.",
+        "journal": "BMC infectious diseases",
+        "authors": [
+          "Azam Moslemi",
+          "Reza Ghasemikhah",
+          "Seyyed Amir Mohammad Mirmomeni"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-07-28T00:00:00.000Z",
+        "activityAt": "2026-10-26T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42928127/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 11.25,
+          "recency": 10,
+          "total": 96.25,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "孕妇弓形虫感染与糖尿病之间的关联：系统综述与Meta分析",
+          "researchQuestion": "妊娠女性中弓形虫感染与糖尿病（妊娠期糖尿病、1型糖尿病或2型糖尿病）之间是否存在关联？",
+          "studyDesign": "系统综述与Meta分析，纳入观察性研究（7项病例对照研究和2项横断面研究）。",
+          "populationAndSample": "妊娠女性，包括妊娠期糖尿病、1型糖尿病或2型糖尿病者及对照；共纳入9项研究；检索到198篇文章。",
+          "methods": "遵循PRISMA 2020指南，检索PubMed、Scopus、Web of Science和Google Scholar（更新至2025年8月）；纳入报告孕妇弓形虫感染的人类观察性研究；使用Hoy等工具和Newcastle-Ottawa量表进行质量评估；使用Stata版本17进行Meta分析。",
+          "keyResults": "横断面研究中，糖尿病孕妇合并IgG血清阳性率为29%（95% CI：0.22-0.35），异质性低（I²=23.63%）；IgM血清阳性率为7%（95% CI：0.02-0.12）。病例对照Meta分析显示，IgG血清阳性与糖尿病妊娠显著相关（OR=2.07，95% CI：1.66-2.58；p<0.001），未发现发表偏倚或异质性；IgM血清阳性在糖尿病与健康孕妇间无显著差异（OR=1.81，95% CI：0.97-3.35；p>0.05）。",
+          "limitations": "仅纳入9项观察性研究（7项病例对照、2项横断面）；摘要指出需要更多前瞻性、地理多样化的研究来阐明因果关系、潜在机制和临床结局；急性感染关联仍不明确。",
+          "clinicalInterpretation": "糖尿病孕妇的慢性弓形虫感染（IgG）患病率显著高于非糖尿病对照，提示潜在关联并值得进一步研究；但这是观察性关联，不能推断因果，急性感染关联尚不明确。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "7d69f89233674d6258d93fcf3a252a1caabc78563dff28bda95f7b9f543554b2"
+      },
+      {
+        "id": "pmid:42931956",
+        "pmid": "42931956",
+        "doi": "10.1007/s00737-026-01733-y",
+        "title": "Exposure to antidepressant and antipsychotic medicines in pregnant women and risk of gestational diabetes: a systematic review and meta-analysis of observational studies.",
+        "abstract": "BACKGROUND: Antidepressants and antipsychotics are commonly prescribed for psychiatric disorders such as schizophrenia, bipolar disorder, major depressive disorder, and severe anxiety disorders. Psychotropic medications are increasingly prescribed during pregnancy to manage severe mental illnesses. Concerns have been raised about their metabolic side effects, including the risk of gestational diabetes mellitus (GDM). This study aimed to systematically review and meta-analyze existing evidence on the risk of GDM development in pregnant women with prenatal exposure to two common psychotropics, antipsychotics and antidepressants.\nMETHODS: We conducted a systematic search of PubMed, Scopus, and the Web of Science, up to June 2025, identifying observational studies reporting GDM outcomes following the use of psychotropic medicines during pregnancy. Eligible studies were reviewed, and pooled relative risks (RRs) were calculated using a random-effects model, with subgroup analyses based on medication classification.\nRESULTS: Twenty-one studies were included in this review and meta-analysis. The pooled adjusted RR for GDM among women exposed to any antipsychotics and antidepressants during pregnancy was 1.43 (95% CI: 1.17,1.69), and 1.19 (95% CI: 1.10,1.27). Second-generation antipsychotics (SGAs) were associated with a significantly higher risk of GDM (RR = 1.6, 95% CI: 1.23, 1.97). First-generation antipsychotics showed no statistically significant association.\nCONCLUSIONS: Prenatal exposure to antipsychotics, particularly SGAs, and antidepressants is associated with an increased risk of GDM. Clinicians should consider these risks when prescribing psychotropic medications during pregnancy and ensure appropriate metabolic monitoring.",
+        "journal": "Archives of women's mental health",
+        "authors": [
+          "Cheng Chen",
+          "Xuejia Zhao",
+          "Zhihong Hu"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-26T00:00:00.000Z",
+        "activityAt": "2026-10-26T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42931956/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 11.25,
+          "recency": 10,
+          "total": 96.25,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "孕妇抗抑郁药和抗精神病药暴露与妊娠期糖尿病风险：观察性研究的系统综述与Meta分析",
+          "researchQuestion": "妊娠期产前暴露于抗精神病药或抗抑郁药是否与妊娠期糖尿病（GDM）发生风险相关？",
+          "studyDesign": "系统综述与Meta分析，纳入观察性研究。",
+          "populationAndSample": "妊娠女性，报告孕期使用精神药物后的GDM结局；共纳入21项研究；具体样本量摘要未报告。",
+          "methods": "系统检索PubMed、Scopus和Web of Science至2025年6月；识别报告孕期使用精神药物后GDM结局的观察性研究；采用随机效应模型计算汇总相对风险（RR），并按药物分类进行亚组分析。",
+          "keyResults": "孕期暴露于任何抗精神病药者的GDM汇总校正RR为1.43（95% CI：1.17-1.69）；暴露于抗抑郁药者为1.19（95% CI：1.10-1.27）。第二代抗精神病药（SGAs）与GDM风险显著升高相关（RR=1.6，95% CI：1.23-1.97）；第一代抗精神病药未显示统计学显著关联。",
+          "limitations": "摘要未报告具体偏倚、异质性或随访方面的局限性；纳入研究为观察性研究。",
+          "clinicalInterpretation": "摘要结论认为产前暴露于抗精神病药（尤其是第二代抗精神病药）和抗抑郁药与GDM风险升高相关；临床医生在孕期处方精神药物时应考虑这些风险，并进行适当的代谢监测。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "368d822496c90169cbe1dc48bf9886336781a346bcfb6a7a510b5f8667e632ed"
+      },
+      {
+        "id": "pmid:42943002",
+        "pmid": "42943002",
+        "doi": "10.3390/nu18203431",
+        "title": "Melatonin and Female Fertility: A Systematic Review and Meta-Analysis of Clinical Supplementation, In Vitro Experiments, and Observational Evidence.",
+        "abstract": "Background/Objectives: Melatonin has been proposed as a potential strategy to improve female fertility, but existing evidence is dispersed across assisted reproduction, reproductive disorders, and in vitro studies. This study aimed to comprehensively evaluate the relationships of melatonin supplementation, in vitro melatonin treatment, and endogenous melatonin levels with female fertility. Methods: PubMed, Web of Science, and EMBASE were searched from inception through February 2026. Randomized and non-randomized intervention studies, observational studies, and in vitro studies involving human oocytes or embryos were included. Random-effects meta-analyses were performed, and certainty of evidence was assessed using GRADE. Results: Thirty-six publications were included. Among women undergoing ART, melatonin supplementation increased the clinical pregnancy rate (RR = 1.55, 95% CI: 1.23-1.94) and live birth (RR = 1.59, 95% CI: 1.01-2.51). Melatonin supplementation also improved selected ovarian and embryological outcomes. In vitro treatment increased fertilization (OR = 1.97, 95% CI: 1.40-2.76) and blastocyst formation (OR = 2.00, 95% CI: 1.33-3.03). Observational studies showed higher morning serum melatonin levels in women with PCOS (MD = 7.83 pg/mL, 95% CI: 3.56-12.11). The certainty of evidence ranged from very low to moderate. Conclusions: Melatonin supplementation may improve selected reproductive outcomes, including clinical pregnancy and live birth, although evidence for live birth remains limited. In vitro and observational findings further support a potential role of melatonin in female reproductive function, but its clinical value requires confirmation in high-quality studies.",
+        "journal": "Nutrients",
+        "authors": [
+          "Bei Wang",
+          "Han Wang",
+          "Hanqi Ye",
+          "Jiechen Yin",
+          "Xiang Hong",
+          "Yijia Hu",
+          "Yumo Shi"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-19T00:00:00.000Z",
+        "activityAt": "2026-10-27T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42943002/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 3.75,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "褪黑素与女性生育力：临床补充、体外实验和观察性证据的系统综述与Meta分析",
+          "researchQuestion": "褪黑素补充、体外褪黑素处理及内源性褪黑素水平与女性生育力之间有何关系？",
+          "studyDesign": "系统综述与Meta分析，纳入随机和非随机干预研究、观察性研究以及涉及人卵母细胞或胚胎的体外研究；使用GRADE评估证据确定性。",
+          "populationAndSample": "共纳入36篇出版物；包括接受辅助生殖技术（ART）的女性、多囊卵巢综合征（PCOS）女性以及人卵母细胞或胚胎体外研究；具体样本量摘要未报告。",
+          "methods": "检索PubMed、Web of Science和EMBASE，从建库至2026年2月；纳入干预研究、观察性研究和体外研究；进行随机效应Meta分析，并使用GRADE评估证据确定性。",
+          "keyResults": "在接受ART的女性中，褪黑素补充提高临床妊娠率（RR=1.55，95% CI：1.23-1.94）和活产（RR=1.59，95% CI：1.01-2.51）；褪黑素补充还改善部分卵巢和胚胎学结局。体外处理提高受精（OR=1.97，95% CI：1.40-2.76）和囊胚形成（OR=2.00，95% CI：1.33-3.03）。观察性研究显示PCOS女性晨间血清褪黑素水平较高（MD=7.83 pg/mL，95% CI：3.56-12.11）。证据确定性范围为极低至中等。",
+          "limitations": "证据确定性为极低至中等；活产证据仍然有限；其他具体局限性摘要未报告。",
+          "clinicalInterpretation": "褪黑素补充可能改善部分生殖结局，包括临床妊娠和活产，但活产证据有限；体外和观察性结果进一步支持褪黑素在女性生殖功能中的潜在作用，其临床价值仍需高质量研究确认。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "a5850a0e00b76906da969fd4e54557bbc4f44b1dfb4646234a560ee65508b16b"
+      },
+      {
+        "id": "pmid:42929006",
+        "pmid": "42929006",
+        "doi": "10.22074/ijfs.2025.2057893.1858",
+        "title": "A Systematic Review of The Role of Probiotics and Synbiotics on Semen Quality and Sperm Function in Male Infertility.",
+        "abstract": "BACKGROUND: With the increasing prevalence of male infertility in recent years, studies on therapeutic interventions leading to improvement in semen quality have increased. There has been increasing interest in recent years in the possible role of probiotics and synbiotics in improving male fertility, especially idiopathic male infertility. This systematic review aimed to assess the effects of probiotics and/or synbiotics on male semen quality and discusses the results, mechanism, and future potential of these interventions in male reproductive health.\nMATERIALS AND METHODS: A comprehensive systematic search of major databases (PubMed, Google Scholar and Scopus) was conducted using the following search terms (\"male infertility\" or \"semen\" or \"semen analysis\" or \"sperm\" or \"spermatozoa\" and \"probiotic\" or \"synbiotic\"), without restriction on publication date, and a hand search reference list was also performed between January and March 2025. Only original clinical and animal (rat, mice and dog) studies published in English were included. Observational, in vitro, book, review, editorial, and conference articles were excluded.\nRESULTS: A total of 296 articles were found, of which 4 randomized clinical studies and 5 animal studies met the inclusion criteria. The results of the included studies suggested that probiotics or symbiotic have significant effects on semen parameters such as motility, morphology, and total sperm count through alleviating oxidative stress, modulating inflammation, regulating reproductive hormones, and restoring gut microbiota balance.\nCONCLUSION: The available evidence suggests that supplementation with probiotics and synbiotics holds promise for enhancing semen quality. However, the field is limited by small, heterogeneous study populations and short follow-up periods, necessitating larger, well-designed randomized controlled trials (RCTs).",
+        "journal": "International journal of fertility & sterility",
+        "authors": [
+          "Arezoo Moini Jazani",
+          "Leila Maghsoumi-Norouzabad",
+          "Ramin Nasimi Doost Azgomi"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-03T00:00:00.000Z",
+        "activityAt": "2026-10-26T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42929006/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 3.75,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "益生菌和合生元对男性不育患者精液质量和精子功能作用的系统综述",
+          "researchQuestion": "益生菌和/或合生元对男性精液质量和精子功能有何影响？",
+          "studyDesign": "系统综述，纳入原始临床研究和动物研究，未进行Meta分析。",
+          "populationAndSample": "男性不育相关临床研究及动物研究（大鼠、小鼠和犬）；检索到296篇文章，最终纳入4项随机临床研究和5项动物研究。",
+          "methods": "系统检索PubMed、Google Scholar和Scopus，检索词包括男性不育、精液、精液分析、精子、精子细胞与益生菌或合生元，不限制发表时间；2025年1月至3月进行参考文献手工检索；仅纳入英文原始临床和动物研究；排除观察性、体外、书籍、综述、社论和会议文章。",
+          "keyResults": "共发现296篇文章，4项随机临床研究和5项动物研究符合纳入标准。纳入研究结果提示，益生菌或合生元可能通过减轻氧化应激、调节炎症、调节生殖激素和恢复肠道菌群平衡，对精子活力、形态和精子总数等精液参数产生显著影响。",
+          "limitations": "研究人群样本量小且异质性大，随访时间短；需要更大规模、设计良好的随机对照试验（RCT）。",
+          "clinicalInterpretation": "现有证据提示益生菌和合生元补充在改善精液质量方面具有前景，但该领域受限于小型、异质性研究人群和短随访期，尚需更大规模、设计良好的RCT进一步验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "f29d088473134ff7806b2956230f211c8d37d181f4692f462fc48a00c26fed93"
+      }
+    ]
+  }
+}

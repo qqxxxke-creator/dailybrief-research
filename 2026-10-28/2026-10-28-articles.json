@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-28",
+  "articles": [
+    {
+      "sourceId": "medical-xpress-obgyn",
+      "title": "Immunotherapy combination extends survival in advanced endometrial cancer",
+      "url": "https://medicalxpress.com/news/2026-10-immunotherapy-combination-survival-advanced-endometrial.html",
+      "excerpt": "An immunotherapy-based regimen combining durvalumab and the PARP inhibitor olaparib demonstrated encouraging long-term survival outcomes for patients with advanced or recurrent endometrial cancer, according to new trial results presented by researchers from The University of Texas MD Anderson Cancer",
+      "publishedAt": "2026-10-26T15:40:10.000Z",
+      "category": "politics",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "会议公布的试验结果显示，durvalumab联合PARP抑制剂olaparib在晚期或复发性子宫内膜癌患者中带来长期生存获益。",
+      "reviewStatus": "accepted",
+      "lowPriority": false
+    }
+  ]
+}
