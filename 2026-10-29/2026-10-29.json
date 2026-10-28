@@ -1,0 +1,267 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-10-28T23:07:08.708Z",
+    "dataAsOf": "2026-10-28T23:07:08.708Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及妊娠合并孕前2型糖尿病时血清neudesin升高：一项探索性横断面对照研究、中国妊娠期糖尿病起始胰岛素与二甲双胍治疗的比较效果：一项回顾性队列研究、WBC、hs-CRP、ROMA指数及肿瘤标志物在子宫内膜异位症中的表达与临床意义。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42947056",
+        "pmid": "42947056",
+        "doi": "10.1186/s12884-026-09743-5",
+        "title": "Serum neudesin is elevated in pregnancies complicated by pregestational type 2 diabetes: an exploratory cross-sectional controlled study : Neudesin in pregestational diabetes during pregnancy.",
+        "abstract": "OBJECTIVE: Neudesin has been linked to adipose tissue activity, glucose metabolism, and insulin resistance. Evidence on its behavior in diabetic pregnancies is limited, particularly in women with pregestational type 2 diabetes mellitus (PREGDM). This exploratory cross-sectional controlled study evaluated serum neudesin concentrations in pregnancies complicated by pregestational type 2 diabetes mellitus (PREGDM) or gestational diabetes mellitus (GDM), and in non-diabetic pregnant controls without major systemic disease, while examining the influence of gestational timing.\nMETHODS: This study included 90 pregnant women: 30 with PREGDM, 30 with GDM, and 30 non-diabetic controls without major systemic disease. Controls were recruited in two planned gestational-age strata, including early pregnancy and 24-28 weeks, to provide clinically relevant timing-aware comparisons. Serum neudesin concentrations were measured using a human neudesin enzyme-linked immunosorbent assay kit (BT LAB, catalogue no. E4258Hu) and reported as ng/mL. Overall group comparisons were supplemented by gestational-timing-aware analyses and exploratory multivariable log-neudesin regression.\nRESULTS: Overall median serum neudesin was highest in the PREGDM group (5.67 [4.72-6.21] ng/mL), followed by the GDM group (2.80 [2.70-3.10] ng/mL) and controls (2.17 [1.77-2.89] ng/mL; p < 0.001). In gestational-timing-aware comparisons, PREGDM remained higher than early-pregnancy controls (5.67 [4.72-6.21] vs. 1.70 [1.37-2.15] ng/mL; Hodges-Lehmann difference, 3.70 ng/mL; 95% CI, 3.15-4.35; p < 0.001). In contrast, GDM did not differ from controls sampled at 24-28 weeks (2.80 [2.70-3.10] vs. 2.85 [2.28-3.03] ng/mL; Hodges-Lehmann difference, 0.04 ng/mL; 95% CI, - 0.20 to 0.40; p = 0.791). In the diabetic-only model adjusted for gestational age and age, the PREGDM-GDM contrast was attenuated (GMR, 1.31; 95% CI, 0.61-2.85; p = 0.490). In the all-participant adjusted model, PREGDM remained associated with higher neudesin than controls (GMR, 3.11; 95% CI, 2.57-3.76; p < 0.001), whereas the GDM-control contrast was not significant (GMR, 1.12; 95% CI, 0.96-1.30; p = 0.149).\nCONCLUSION: Serum neudesin was most consistently elevated in pregnancies complicated by PREGDM. The apparent overall GDM-control difference was not retained after timing-aware comparison or adjustment. Given the modest sample size, neudesin should be considered an exploratory complementary metabolic marker rather than a standalone diagnostic biomarker.",
+        "journal": "BMC pregnancy and childbirth",
+        "authors": [
+          "Funda Güçel",
+          "Şeyma Sarışen",
+          "Zuhal Köksal"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-07-31T00:00:00.000Z",
+        "activityAt": "2026-10-28T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42947056/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "妊娠合并孕前2型糖尿病时血清neudesin升高：一项探索性横断面对照研究",
+          "researchQuestion": "评估妊娠合并孕前2型糖尿病（PREGDM）或妊娠期糖尿病（GDM）及无重大系统性疾病的非糖尿病妊娠对照中血清neudesin浓度，并考察妊娠时间的影响。",
+          "studyDesign": "探索性横断面对照研究。",
+          "populationAndSample": "共纳入90名孕妇：30例PREGDM、30例GDM、30例无重大系统性疾病的非糖尿病对照；对照按两个预设孕龄层（早孕期和24–28周）招募。",
+          "methods": "采用人neudesin酶联免疫吸附测定试剂盒（BT LAB，货号E4258Hu）测定血清neudesin浓度，单位为ng/mL；总体组间比较辅以妊娠时间分层分析和探索性多变量对数neudesin回归。",
+          "keyResults": "总体血清neudesin中位数在PREGDM组最高（5.67 [4.72–6.21] ng/mL），其次为GDM组（2.80 [2.70–3.10] ng/mL）和对照组（2.17 [1.77–2.89] ng/mL；p < 0.001）。在妊娠时间分层比较中，PREGDM仍高于早孕期对照（5.67 [4.72–6.21] vs. 1.70 [1.37–2.15] ng/mL；Hodges-Lehmann差值3.70 ng/mL；95% CI 3.15–4.35；p < 0.001）。相反，GDM与24–28周对照无差异（2.80 [2.70–3.10] vs. 2.85 [2.28–3.03] ng/mL；Hodges-Lehmann差值0.04 ng/mL；95% CI -0.20至0.40；p = 0.791）。在仅纳入糖尿病患者的模型中，校正孕龄和年龄后，PREGDM与GDM的对比减弱（GMR 1.31；95% CI 0.61–2.85；p = 0.490）。在全部参与者校正模型中，PREGDM仍与较对照更高的neudesin相关（GMR 3.11；95% CI 2.57–3.76；p < 0.001），而GDM与对照的对比不显著（GMR 1.12；95% CI 0.96–1.30；p = 0.149）。",
+          "limitations": "探索性研究，样本量有限（每组30例）；摘要未报告其他局限性。",
+          "clinicalInterpretation": "血清neudesin在妊娠合并PREGDM中较一致地升高；但样本量有限，作者将其定位为探索性补充代谢标志物，而非独立诊断生物标志物。GDM与对照的总体差异在妊娠时间分层比较或校正后未保留。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "2291efe3ddec5288d4d32cfb850a4416c0b3f605795bb188afaf863c83d6b70e"
+      },
+      {
+        "id": "pmid:42947081",
+        "pmid": "42947081",
+        "doi": "10.1186/s12884-026-09752-4",
+        "title": "Comparative effectiveness of initiating insulin versus metformin therapy for gestational diabetes mellitus in China: a retrospective cohort study.",
+        "abstract": "BACKGROUND: While insulin is widely recommended as the first-line pharmacological therapy for gestational diabetes mellitus (GDM), the use of metformin is increasing in routine clinical practice. However, real-world evidence comparing their effectiveness and safety remains limited. This study aimed to evaluate glycemic control and adverse pregnancy outcomes between the insulin and the metformin initiation group in women with GDM in China.\nMETHODS: We conducted a retrospective cohort study using electronic medical records from a provincial healthcare database in Eastern China. Women diagnosed with GDM between 2018 and 2025 were included. Patients were divided into the insulin initiation group and the metformin initiation group based on their first prescription. Propensity score overlap weighting (OW) was used to balance baseline characteristics. Weighted linear and logistic regression models were used to assess glycemic outcomes, including the glycated hemoglobin (HbA1c) level at the end of pregnancy, the change in HbA1c, and target achievement (HbA1c < 6.0%). Adverse pregnancy outcomes were evaluated using weighted Cox proportional hazards models with gestational age as the time scale.\nRESULTS: Of the 7,397 women included, 6,922 (93.6%) initiated insulin and 475 (6.4%) initiated metformin therapy. After OW adjustment, no significant differences were found between the two groups in end-of-pregnancy HbA1c levels, HbA1c changes, or glycemic control rates. Compared with insulin initiation, metformin initiation was associated with significantly lower risks of cesarean delivery (HR: 0.77, 95% CI: 0.62-0.95; P = 0.017), premature rupture of membranes (HR: 0.66, 95% CI: 0.48-0.93; P = 0.016), and macrosomia (HR: 0.61, 95% CI: 0.40-0.93; P = 0.021). Risks for other adverse outcomes, including preterm birth and preeclampsia, were comparable. Sensitivity analyses, including per-protocol analysis, confirmed the robustness of these findings.\nCONCLUSIONS: In this real-world Chinese cohort, the metformin initiation group achieved glycemic control similar to the insulin initiation group. In addition, the metformin initiation group had lower risks of cesarean delivery, premature rupture of membranes, and macrosomia. These findings suggest that metformin may be a viable and effective initial treatment option for selected women with GDM.",
+        "journal": "BMC pregnancy and childbirth",
+        "authors": [
+          "Beini Lyu",
+          "Dongning Yao",
+          "Guoxian Lu",
+          "Linfeng Jiang",
+          "Mengyao Xue",
+          "Nan Peng",
+          "Ruolan Wei",
+          "Shuo Zhang",
+          "Yuqing Fan"
+        ],
+        "publicationTypes": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "publishedAt": "2026-07-31T00:00:00.000Z",
+        "activityAt": "2026-10-28T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42947081/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "中国妊娠期糖尿病起始胰岛素与二甲双胍治疗的比较效果：一项回顾性队列研究",
+          "researchQuestion": "评估中国GDM女性中起始胰岛素治疗与起始二甲双胍治疗在血糖控制和不良妊娠结局方面的差异。",
+          "studyDesign": "回顾性队列研究，使用中国东部省级医疗数据库的电子病历。",
+          "populationAndSample": "纳入2018年至2025年诊断为GDM的女性7,397例；按首次处方分为胰岛素起始组6,922例（93.6%）和二甲双胍起始组475例（6.4%）。",
+          "methods": "采用倾向评分重叠权重（OW）平衡基线特征；加权线性和logistic回归评估血糖结局，包括妊娠末期糖化血红蛋白（HbA1c）水平、HbA1c变化及达标情况（HbA1c < 6.0%）；不良妊娠结局采用以孕龄为时间尺度的加权Cox比例风险模型评估；并进行包括符合方案分析在内的敏感性分析。",
+          "keyResults": "OW校正后，两组在妊娠末期HbA1c水平、HbA1c变化或血糖控制率方面均无显著差异。与起始胰岛素相比，起始二甲双胍与较低的剖宫产风险（HR 0.77，95% CI 0.62–0.95；P = 0.017）、胎膜早破风险（HR 0.66，95% CI 0.48–0.93；P = 0.016）和巨大儿风险（HR 0.61，95% CI 0.40–0.93；P = 0.021）相关。早产和子痫前期等其他不良结局风险相当。包括符合方案分析在内的敏感性分析证实了这些发现的稳健性。",
+          "limitations": "摘要未报告明确局限性；作为回顾性队列研究，组间比较属于观察性关联，不能直接推断因果关系。",
+          "clinicalInterpretation": "在该真实世界中国队列中，二甲双胍起始组达到与胰岛素起始组相似的血糖控制，并与较低的剖宫产、胎膜早破和巨大儿风险相关。作者认为二甲双胍可能是部分GDM女性可行且有效的初始治疗选择；该结论来自观察性队列，不能直接推断因果关系。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "047ac4460736f14039392e9f74f2892973b6b6ca432698ebb0be2c09006a423b"
+      },
+      {
+        "id": "pmid:42947085",
+        "pmid": "42947085",
+        "doi": "10.1186/s12905-026-04749-9",
+        "title": "Expression and clinical significance of WBC, hs-CRP, and ROMA index, and tumor markers in endometriosis.",
+        "abstract": "PURPOSE: To investigate the expression and clinical significance of white blood cell (WBC) count, high-sensitivity C-reactive protein (hs-CRP), Risk of Ovarian Malignancy Algorithm (ROMA) index, and tumor markers in patients with endometriosis.\nMETHODS: A total of 125 women with surgically and histologically confirmed endometriosis and 80 control women without clinical or ultrasonographic evidence of endometriosis were enrolled at the Affiliated Hospital of Putian University between August 2019 and March 2023. Fasting venous blood samples were collected preoperatively, prior to surgical intervention, to measure WBC, hs-CRP, CA125, HE4, and formula-derived ROMA index values. Statistical analyses included independent-sample t-tests and one-way ANOVA to compare biomarker levels between groups and across surgical procedures.\nRESULTS: Compared with controls, patients with endometriosis showed significantly elevated WBC, hs-CRP, CA125, HE4, and formula-derived premenopausal and postmenopausal ROMA index values (all p < 0.001). One-way ANOVA showed no significant differences in biomarker levels across surgical procedures. These findings suggest that inflammatory markers, tumor-associated biomarkers, and formula-derived ROMA values are elevated in patients with endometriosis; however, ROMA findings should be interpreted cautiously because menopausal status was not consistently available for patient-specific ROMA classification.\nCONCLUSION: Elevated WBC count, hs-CRP, CA125, and formula-derived ROMA index values may reflect systemic inflammatory activation in endometriosis, while HE4 should be interpreted more cautiously as a nonspecific tumor-associated biomarker difference. Because menopausal status was not consistently available, ROMA findings should be interpreted as exploratory formula-derived values rather than patient-specific clinical ROMA classifications.",
+        "journal": "BMC women's health",
+        "authors": [
+          "Jiao Li",
+          "Kangying Wang"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-07-31T00:00:00.000Z",
+        "activityAt": "2026-10-28T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42947085/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "WBC、hs-CRP、ROMA指数及肿瘤标志物在子宫内膜异位症中的表达与临床意义",
+          "researchQuestion": "探讨白细胞（WBC）计数、高敏C反应蛋白（hs-CRP）、卵巢恶性肿瘤风险算法（ROMA）指数及肿瘤标志物在子宫内膜异位症患者中的表达和临床意义。",
+          "studyDesign": "摘要未明确命名研究设计；为比较子宫内膜异位症患者与对照组的临床研究。",
+          "populationAndSample": "2019年8月至2023年3月在莆田学院附属医院纳入125例经手术和组织学确诊的子宫内膜异位症女性和80例无子宫内膜异位症临床或超声证据的对照女性。",
+          "methods": "术前、手术干预前采集空腹静脉血，测定WBC、hs-CRP、CA125、HE4及公式推导的ROMA指数；采用独立样本t检验和单因素方差分析比较组间及不同手术方式间的生物标志物水平。",
+          "keyResults": "与对照组相比，子宫内膜异位症患者的WBC、hs-CRP、CA125、HE4以及公式推导的绝经前和绝经后ROMA指数均显著升高（均p < 0.001）。单因素方差分析显示不同手术方式间生物标志物水平无显著差异。",
+          "limitations": "绝经状态未一致获得，ROMA结果仅为探索性公式推导值，不能作为患者特异性临床ROMA分类；HE4作为非特异性肿瘤相关标志物，其差异需谨慎解读；摘要未报告其他局限性。",
+          "clinicalInterpretation": "WBC、hs-CRP、CA125和公式推导ROMA指数升高可能反映子宫内膜异位症中的全身炎症激活；HE4解释需更谨慎。摘要未提供诊断效能数据，不能据此将这些指标视为确诊工具。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "b472abf602fd2c5f473c5649322ffd192d622f0289de2a277b4abdd93a6e0d47"
+      },
+      {
+        "id": "pmid:42947152",
+        "pmid": "42947152",
+        "doi": "10.1186/s12964-026-03071-z",
+        "title": "ESM1 drives H4K8 lactylation to promote vasculogenic mimicry and bevacizumab resistance in ovarian cancer.",
+        "abstract": "Despite the significant clinical value of bevacizumab in treating advanced ovarian cancer (OC), acquired resistance to treatment remains a critical challenge. Bevacizumab therapy is frequently associated with metabolic reprogramming in tumor cells. Our prior studies demonstrated that endothelial cell-specific molecule 1 (ESM1) promotes vascular mimicry (VM) formation and lactate production in OC cells. Here, we elucidated the molecular mechanism by which ESM1 drives VM formation and bevacizumab resistance through histone lactylation modifications, specifically H4K8 lactylation (H4K8la). Mechanistically, ESM1 facilitates H4K8la-mediated transcriptional activation of ERBB2, inducing heterodimerization between ERBB2 and EGFR to activate the downstream Akt/mTOR cascade. This cascade suppresses autophagy and activates STAT3 signaling, ultimately promoting VM formation. Pharmacological inhibition of lactylation or ERBB2 signaling effectively blocks VM formation and synergizes with bevacizumab in patient-derived preclinical models, significantly enhancing therapeutic efficacy. Our findings reveal ESM1 as a metabolic switch bridging transcriptional regulation and metabolic reprogramming via histone lactylation. The results of this study indicate that targeting ESM1 modulation could be a strategy to overcome bevacizumab resistance in OC.",
+        "journal": "Cell communication and signaling : CCS",
+        "authors": [
+          "Daichao Wu",
+          "Juan Zou",
+          "Li Yang",
+          "Peiting Wu",
+          "Xing Tang",
+          "Xing Yu",
+          "Xiongjin Tan",
+          "Xueru Liu",
+          "Xun Chen",
+          "Yukun Li"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-07-30T00:00:00.000Z",
+        "activityAt": "2026-10-28T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42947152/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "ESM1驱动H4K8乳酰化促进卵巢癌血管生成拟态和贝伐珠单抗耐药",
+          "researchQuestion": "探讨ESM1是否通过组蛋白乳酰化（特别是H4K8la）驱动卵巢癌血管生成拟态（VM）形成和贝伐珠单抗耐药，以及涉及ERBB2/EGFR、Akt/mTOR、自噬和STAT3的分子机制。",
+          "studyDesign": "临床前机制研究（摘要未明确命名具体设计）。",
+          "populationAndSample": "卵巢癌细胞及患者来源的临床前模型；摘要未报告具体样本量、患者特征和纳入标准。",
+          "methods": "摘要未报告完整实验方法；研究围绕ESM1、H4K8la、ERBB2/EGFR、Akt/mTOR、自噬和STAT3信号进行机制解析，并在患者来源临床前模型中测试乳酰化抑制或ERBB2信号抑制联合贝伐珠单抗的效果。",
+          "keyResults": "ESM1促进H4K8la介导的ERBB2转录激活，诱导ERBB2与EGFR异二聚化并激活下游Akt/mTOR级联；该级联抑制自噬并激活STAT3信号，最终促进VM形成。药理学抑制乳酰化或ERBB2信号可阻断VM形成，并在患者来源临床前模型中与贝伐珠单抗协同显著增强疗效。",
+          "limitations": "摘要未报告样本量、具体实验方法和统计细节；结果为细胞及患者来源临床前模型中的机制性发现，摘要未报告临床人群验证或临床试验数据。",
+          "clinicalInterpretation": "结果提示靶向ESM1调控可能是克服卵巢癌贝伐珠单抗耐药的候选策略；但证据限于临床前机制研究，不能直接转化为临床用药建议。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "2f2747a427367e73d7a52d153a5739e183b3d6dc4bc23b365e3701cd7e283f59"
+      },
+      {
+        "id": "pmid:42948144",
+        "pmid": "42948144",
+        "doi": "10.3389/fonc.2026.1989686",
+        "title": "Functional biomarkers complementing static BRCA/HRD testing for dynamic PARP inhibitor therapy in ovarian cancer: a narrative review.",
+        "abstract": "Poly (ADP-ribose) polymerase inhibitors (PARPi) have revolutionized the management of high-grade serous ovarian cancer (HGSOC). Yet, current treatment decisions remain almost exclusively guided by static BRCA/homologous recombination deficiency (HRD) genotyping. This paradigm is increasingly challenged by a profound eligibility-benefit gap: real-world data show 93.4% of patients are PARPi-eligible, but only 22.0% achieve meaningful 2-year progression-free survival benefit, compounded by 10-30% HRD test failure rates, inability to capture dynamic resistance evolution, and negligible predictive value in the ~50% of HGSOC that are homologous recombination-proficient. This narrative review, based on literature up to June 2026, systematically evaluates functional biomarkers that complement BRCA/HRD testing by assessing real-time tumor biology. To our knowledge, this is the first review to integrate these biomarkers into a unified whole-disease-course framework accounting for evidence level, assay cost, and global resource setting. RAD51 immunohistochemistry directly visualizes homologous recombination repair capacity, achieving 95% accuracy in predicting PARPi response in preclinical patient-derived xenograft models and demonstrating robust predictive value in prospective clinical cohorts. The KELIM model, derived from early CA-125 kinetics and evaluated in >12,000 patients within prospective trial and registry datasets, provides a no-additional-assay-cost, tissue-independent readout of chemosensitivity with potential for broad, low-cost global deployment. Circulating tumor DNA enables noninvasive longitudinal monitoring of resistance, potentially preceding radiographic progression by weeks to months. Exploratory immune and artificial intelligence-based multimodal markers further refine response stratification. We propose deployment of these biomarkers at four critical clinical nodes-diagnosis, post-chemotherapy, maintenance, and progression-to guide therapy selection dynamically. By transitioning from static genotype-based eligibility to real-time functional phenotyping, this integrated strategy aims to close the eligibility-benefit gap and advance adaptive precision oncology for ovarian cancer globally. As a narrative review, this work aims to offer forward-looking conceptual frameworks and stimulate future research rather than to establish high-level clinical evidence or formal guidelines.",
+        "journal": "Frontiers in oncology",
+        "authors": [
+          "Guoqing Wang",
+          "Jianrong Lu",
+          "Kai Tao",
+          "Lijuan Hu",
+          "Pengchuang Zhang",
+          "Ruxing Xi",
+          "Tao Wu",
+          "Xiaowei Wang",
+          "Yahui Shen"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-10-13T00:00:00.000Z",
+        "activityAt": "2026-10-28T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42948144/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "补充静态BRCA/HRD检测以指导卵巢癌动态PARP抑制剂治疗的功能性生物标志物：一项叙述性综述",
+          "researchQuestion": "系统评估可补充BRCA/HRD静态基因分型、反映实时肿瘤生物学的功能性生物标志物，并探讨将其整合到卵巢癌全病程框架中的策略。",
+          "studyDesign": "叙述性综述，基于截至2026年6月的文献。",
+          "populationAndSample": "不适用（叙述性综述）；讨论对象为高级别浆液性卵巢癌（HGSOC），并引用KELIM在>12,000例患者的前瞻性试验和登记数据集中评估的数据。",
+          "methods": "摘要未报告系统检索和纳入排除标准；作者综合文献评估功能性生物标志物，并按证据水平、检测成本和全球资源环境提出整合框架。",
+          "keyResults": "现实数据显示93.4%的患者符合PARPi资格，但仅22.0%获得有意义的2年无进展生存获益；HRD检测失败率为10–30%；约50%的HGSOC为同源重组功能正常。RAD51免疫组化可直接显示同源重组修复能力，在临床前患者来源异种移植模型中预测PARPi反应准确率达95%，并在前瞻性临床队列中显示稳健预测价值。KELIM模型基于早期CA-125动力学，在>12,000例患者的前瞻性试验和登记数据集中评估，提供无需额外检测成本、不依赖组织的化疗敏感性读数，具有广泛低成本全球部署潜力。循环肿瘤DNA可无创纵向监测耐药，可能比影像学进展提前数周至数月。探索性免疫和人工智能多模态标志物可进一步细化反应分层。作者提出在诊断、化疗后、维持和进展四个关键临床节点部署这些标志物。",
+          "limitations": "作为叙述性综述，旨在提供前瞻性概念框架并激发未来研究，而非建立高级别临床证据或正式指南；摘要未报告系统检索、纳入排除标准及正式偏倚评估。",
+          "clinicalInterpretation": "从静态基因型资格判断转向实时功能表型，可能有助于缩小PARPi资格与获益之间的差距并推进卵巢癌适应性精准肿瘤学；但该策略属于综述提出的概念框架，尚非指南或高级别临床证据。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "f6a800bba57f086d341c40762c44114e62eec2985f11347f18c0461cabb2cc2e"
+      }
+    ]
+  }
+}
