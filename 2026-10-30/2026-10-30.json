@@ -1,0 +1,234 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-10-29T23:32:30.036Z",
+    "dataAsOf": "2026-10-29T23:32:30.036Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及促性腺激素释放激素拮抗剂与激动剂治疗子宫内膜异位症：随机对照试验的系统综述与Meta分析、Polycystic ovary syndrome research in sub-Saharan Africa: a systematic review on current status and future directions.、Maternity versus non-maternity healthcare settings for the diagnosis of gestational diabetes or diabetes in pregnancy.。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42953143",
+        "pmid": "42953143",
+        "doi": "10.3389/fendo.2026.1979544",
+        "title": "Gonadotropin-releasing hormone antagonists versus agonists for endometriosis: a systematic review and meta-analysis of randomized controlled trials.",
+        "abstract": "BACKGROUND: Endometriosis is a chronic estrogen-dependent inflammatory disease requiring individualized long-term hormonal management. Gonadotropin-releasing hormone agonists (GnRH-a) effectively suppress ovarian function but may induce hypoestrogenic adverse effects, whereas oral gonadotropin-releasing hormone antagonists (GnRH-ant) offer rapid, reversible suppression with reduced hormonal fluctuation. However, their comparative efficacy and safety remain unclear.\nMETHODS: We performed a systematic review and meta-analysis of randomized controlled trials comparing GnRH-ant with leuprolide-based GnRH-a for the treatment of endometriosis, assessing symptom relief, pelvic signs, bone mineral density (BMD), quality of life, and hormonal outcomes.\nRESULTS: Five randomized controlled trials were included. Compared with GnRH-ant, GnRH-a yielded greater improvements in dysmenorrhea (standardized mean difference (SMD) = 0.69, 95% CI: 0.48-0.91), nonmenstrual pelvic pain (NMPP) (SMD = 0.33, 95% CI: 0.16-0.50), overall pelvic pain (OPP) (SMD = 0.25, 95% CI: 0.13-0.38), and dyspareunia (SMD = 0.14, 95% CI: 0.02-0.26). GnRH-a was also associated with better outcomes in pelvic tenderness, Douglas pouch induration scores, peak pain severity, analgesic requirements, and menstrual blood loss. Subgroup analysis suggested a more pronounced analgesic benefit of GnRH-a after 12 weeks of treatment. In contrast, GnRH-ant resulted in significantly less BMD reduction (SMD = 0.64, 95% CI: 0.39-0.89), a stronger bone-sparing effect at 24 weeks. No significant differences were observed in most quality-of-life domains.\nCONCLUSIONS: Leuprolide-based GnRH-a provides superior symptom control, whereas GnRH-ant offers less decline in BMD and reversible ovarian suppression, but differences among individual antagonists should be considered. Treatment selection should be individualized based on symptom severity, bone health, and fertility goals. Long-term head-to-head trials are warranted.\nSYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/view/CRD420261289010, identifier CRD420261289010.",
+        "journal": "Frontiers in endocrinology",
+        "authors": [
+          "Dongmei Tang",
+          "Leilei Wang",
+          "Mingyang Li",
+          "Nan Zhu",
+          "Suqing Cai",
+          "Tianmeng Liu",
+          "Yiling Wu",
+          "Yuhong Cai"
+        ],
+        "publicationTypes": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-14T00:00:00.000Z",
+        "activityAt": "2026-10-29T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42953143/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "促性腺激素释放激素拮抗剂与激动剂治疗子宫内膜异位症：随机对照试验的系统综述与Meta分析",
+          "researchQuestion": "比较促性腺激素释放激素拮抗剂（GnRH-ant）与以亮丙瑞林为基础的促性腺激素释放激素激动剂（GnRH-a）治疗子宫内膜异位症的疗效和安全性。",
+          "studyDesign": "系统综述与Meta分析，仅纳入随机对照试验；PROSPERO注册号CRD420261289010。",
+          "populationAndSample": "纳入5项随机对照试验；具体样本量、人群特征和纳入标准摘要未报告。",
+          "methods": "系统综述与Meta分析，比较GnRH-ant与以亮丙瑞林为基础的GnRH-a，评估症状缓解、盆腔",
+          "keyResults": "摘要未报告",
+          "limitations": "摘要未报告",
+          "clinicalInterpretation": "摘要未报告"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "93b8b1ed2afc5aaf951d4d256b569d9f144df02242d322b1c4543610d0ba9312"
+      },
+      {
+        "id": "pmid:42953909",
+        "pmid": "42953909",
+        "doi": "10.1080/09513590.2026.2750762",
+        "title": "Polycystic ovary syndrome research in sub-Saharan Africa: a systematic review on current status and future directions.",
+        "abstract": "OBJECTIVES: Polycystic ovary syndrome (PCOS) is one of the most prevalent disorders affecting women. The status of PCOS research in sub-Saharan Africa is unknown, where non-communicable diseases are prevalent but often underrecognized. To assess current knowledge about PCOS in sub-Saharan Africa and identify gaps in the literature.\nMETHODS: A systematic search was conducted across PubMed, Embase, Cochrane, and African Journals Online through 9 August 2026 to identify original studies on PCOS in sub-Saharan Africa. Original research studies involving sub-Saharan African populations, without age-related constraints, were eligible. We excluded non-original studies and studies that did not focus on PCOS. Three independent reviewers (S.H., M.A., and C.C.M.) performed the searches.\nRESULTS: Of 1973 retrieved records, 40 studies met the inclusion criteria, predominantly from Nigeria, with additional contributions from South Africa, Cameroon, the Democratic Republic of Congo, Tanzania, Benin, Kenya, and Ethiopia. Most studies were observational and primarily focused on PCOS in the context of infertility. No population-based prevalence studies were identified; however, 13 studies reported PCOS prevalence, mostly in clinically selected populations.\nCONCLUSIONS: PCOS remains understudied in sub-Saharan Africa, with substantial gaps in population-based epidemiology, diagnostic practices, phenotype distribution, management, and metabolic outcomes. Addressing these gaps through larger, well-designed studies is critical to accurately assess the disease burden, inform clinical guidelines, and optimize management strategies. Additionally, overcoming barriers such as cultural attitudes, cost, and limited accessibility to diagnostic tools and treatment options remains essential to improving PCOS care and research across the region.PROSPERO registration ID CRD420250649730 - 13 March 2025.",
+        "journal": "Gynecological endocrinology : the official journal of the International Society of Gynecological Endocrinology",
+        "authors": [
+          "Christian Chigozie Makwe",
+          "Joseph Ayodeji Olamijulo",
+          "Mina Amiri",
+          "Ricardo Azziz",
+          "Sana Hatoum"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-29T00:00:00.000Z",
+        "activityAt": "2026-10-29T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42953909/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42954428",
+        "pmid": "42954428",
+        "doi": "10.1002/14651858.cd016295",
+        "title": "Maternity versus non-maternity healthcare settings for the diagnosis of gestational diabetes or diabetes in pregnancy.",
+        "abstract": "RATIONALE: Substantial uncertainty exists regarding how healthcare system factors, especially care setting types, affect the uptake and implementation of gestational diabetes or diabetes in pregnancy screening in practice. Evidence suggests that the care environment may influence diagnostic processes.\nOBJECTIVES: To assess the effectiveness of maternity and non-maternity healthcare settings for the diagnosis of gestational diabetes mellitus or diabetes in pregnancy.\nSEARCH METHODS: We searched CENTRAL, MEDLINE, Embase, and Cumulative Index to Nursing and Allied Health Literature (CINAHL) for randomised controlled trials (RCTs) up to April 2026, and for controlled non-randomised studies of interventions (NRSIs) up to December 2025. We also searched CENTRAL to identify ongoing trials.\nELIGIBILITY CRITERIA: We included RCTs and planned to include cluster-RCTs and NRSIs, but we did not find any. Eligible participants were pregnant women being screened for gestational diabetes mellitus (GDM) or diabetes in pregnancy. We defined maternity healthcare settings as those specialising in care for pregnant, birthing, and postpartum individuals, with appropriate screening protocols, and non-maternity healthcare settings as general medical environments lacking a focus on pregnancy and women's care. We considered any screening format (e.g. risk-factor-based screening) and any diagnostic test (e.g. one- and two-step oral glucose tolerance tests (OGTT)).\nOUTCOMES: Critical health service outcomes were compliance with screening and follow-up guidelines, diagnosis of gestational diabetes or diabetes in pregnancy, maternal emergency department visits during pregnancy, maternal antenatal hospitalisation, length of maternal hospitalisation, length of neonatal hospitalisation, and care accessibility. Critical maternal outcomes included hypertensive disorders, maternal death, intensive care admissions, hyperglycaemia requiring pharmacological treatment, infections, and postpartum glucose intolerance, including progression to diabetes, within 15 years after birth. Critical child-related outcomes encompassed perinatal death, neonatal intensive care admissions, preterm birth, neonatal hypoglycaemia, large-for-gestational-age, shoulder dystocia, and birth trauma. Further critical and important outcomes not included in the summary of findings tables can be found in the full text.\nRISK OF BIAS: We used the Cochrane RoB 2 tool to assess bias in the RCTs. We had planned to use ROBINS-I version 2 to assess bias in the NRSIs if we had identified any.\nSYNTHESIS METHODS: We used standard Cochrane methodology. We planned to synthesise results for each outcome using meta-analysis where possible (inverse-variance or Mantel-Haenszel approaches; fixed-effect model). We used GRADE to assess the certainty of the evidence for each outcome.\nINCLUDED STUDIES: We included one RCT with 781 participants: 390 were randomised to screening in a maternity healthcare setting and 391 were randomised to screening in a non-maternity healthcare setting. Except for screening compliance, trialists evaluated all outcomes using a per-protocol analysis instead of by original randomised groups. This approach created substantial disparities in sample sizes between settings and largely nullified the methodological protections typically provided by a randomised design. The trial evaluated screening for GDM only. We did not identify any ongoing studies or studies awaiting classification.\nSYNTHESIS OF RESULTS: Health service outcomes Screening in a maternity healthcare setting may increase compliance with screening and follow-up guidelines (risk ratio (RR) 1.69, 95% confidence interval (CI) 1.53 to 1.87; 781 participants) and may improve care accessibility, assessed as time to access antenatal diabetes care, measured in days (mean difference (MD) -4.70, 95% CI -6.03 to -3.37; 690 participants), both with low-certainty evidence. We are very uncertain about the effect of screening in a maternity healthcare setting versus a non-maternity healthcare setting on diagnosis of gestational diabetes or diabetes in pregnancy (RR 1.10, 95% CI 0.60 to 2.01; 690 participants; very low-certainty evidence) and length of neonatal hospitalisation (MD 0.04, 95% CI -0.57 to 0.65; 690 participants; very low-certainty evidence). No direct evidence was available on screening for diabetes in pregnancy as distinct from GDM. No data were reported on maternal emergency department visits, maternal antenatal hospitalisation, length of maternal hospitalisations, and costs. Maternal outcomes We are very uncertain about the effect of screening in a maternity healthcare setting versus a non-maternity healthcare setting on pre-eclampsia (RR 1.24, 95% CI 0.56 to 2.75; 690 participants; very low-certainty evidence). The following outcomes were not reported: eclampsia, HELLP syndrome, maternal death, admission to intensive care, hyperglycaemia requiring pharmacological treatment, infections, and postpartum glucose intolerance. Child-related outcomes We are very uncertain about the effect of screening in a maternity healthcare setting versus a non-maternity healthcare setting on: stillbirth or foetal death (RR 0.91, 95% CI 0.08 to 9.93), admission to neonatal intensive care (RR 1.01, 95% CI 0.59 to 1.71), preterm birth (RR 1.06, 95% CI 0.41 to 2.71), neonatal hypoglycaemia (RR 0.91, 95% CI 0.23 to 3.59), large-for-gestational-age (RR 0.73, 95% CI 0.51 to 1.04), shoulder dystocia (RR 0.15, 95% CI 0.01 to 3.70), and birth trauma (RR 0.91, 95% CI 0.08 to 9.93), all with 690 participants each and very low-certainty evidence. An effect estimate for neonatal death was not estimable (maternity setting: 0/475; non-maternity setting: 0/215).\nAUTHORS: There is insufficient evidence to determine whether screening for gestational diabetes or diabetes in pregnancy in maternity healthcare settings compared with non-maternity healthcare settings improves health service, maternal, or child-related outcomes. Low-certainty evidence from a single study indicates that screening in maternity healthcare settings may result in a reduction in time to access antenatal diabetes care and may increase compliance. The effects on other outcomes remain unknown. Conducting studies using intention-to-treat analyses could bridge existing research gaps, enhancing effect estimates and certainty.\nFUNDING: This Cochrane review was funded by the World Health Organization (WHO) and the UNDP-UNFPA-UNICEF-WHO-World Bank Special Programme of Research, Development and Research Training in Human Reproduction (HRP).\nREGISTRATION: Protocol available via PROSPERO: https://www.crd.york.ac.uk/PROSPERO/view/CRD420251108692.",
+        "journal": "The Cochrane database of systematic reviews",
+        "authors": [
+          "Ana-Mihaela Zorger",
+          "Anna H Noel-Storr",
+          "Carina Wagner",
+          "Edward Mullins",
+          "Juan Va Franco",
+          "Julia Schroer",
+          "Karen D Gibbs",
+          "Nicole Skoetz",
+          "Nora Cryns",
+          "Sarah Messer",
+          "Shayesteh Jahanfar",
+          "Suci Ardini Widyaningsih",
+          "Ünsal Çolakkeskin"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-29T00:00:00.000Z",
+        "activityAt": "2026-10-29T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42954428/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42955146",
+        "pmid": "42955146",
+        "doi": "10.1007/s11701-026-04116-8",
+        "title": "Obesity and perioperative outcomes of robotic-assisted surgery for endometrial cancer: a systematic review and meta-analysis.",
+        "abstract": "This systematic review and meta-analysis evaluated perioperative outcomes after robotic-assisted surgery for endometrial cancer in obese versus non-obese patients, as classified in the source studies. PubMed, Embase, Web of Science, and the Cochrane Library were searched for comparative studies of robotic-assisted surgery for endometrial cancer. Obesity was defined as BMI ≥ 30 kg/m² according to each study. The included data were not uniformly restricted to BMI < 40 kg/m²; consequently, the analysis does not represent class I-II obesity alone. Eight retrospective studies involving 1,879 patients were included. No statistically significant differences were detected in operative time (MD, - 9.02 min; 95% CI, - 21.25 to 3.20; p = 0.15), estimated blood loss (MD, 35.69 mL; 95% CI, - 40.54 to 111.93; p = 0.36), or length of stay (MD, - 0.25 days; 95% CI, - 0.61 to 0.10; p = 0.16). Pooled complication estimates were also nonsignificant. These findings do not establish equivalent safety. In the included retrospective studies, obesity as classified by the original reports was not associated with statistically significant differences in the assessed perioperative outcomes after robotic-assisted surgery. The estimates are imprecise and potentially confounded; they do not establish equivalence or demonstrate superiority over other surgical approaches.",
+        "journal": "Journal of robotic surgery",
+        "authors": [
+          "Jianxue Gong",
+          "Min Zhang",
+          "Mukun Yang",
+          "Xuefang Jia",
+          "Yanrong Chen"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-28T00:00:00.000Z",
+        "activityAt": "2026-10-29T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42955146/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 7.5,
+          "recency": 10,
+          "total": 92.5,
+          "evidenceRank": 1
+        },
+        "summaryStatus": "failed"
+      },
+      {
+        "id": "pmid:42952714",
+        "pmid": "42952714",
+        "doi": "10.3389/fphar.2026.1945339",
+        "title": "Effective doses of propofol and oliceridine fumarate for painless hysteroscopy: a two-phase dose-finding study using Dixon's up-and-down method.",
+        "abstract": "BACKGROUND: Painless hysteroscopy is widely performed in gynecological practice, yet achieving an optimal balance between anesthetic safety and patient comfort remains challenging. Combining propofol with oliceridine may mitigate respiratory depression and injection pain associated with conventional regimens, though the effective doses for this combination have not been established. This study sought to identify the optimal dose combination of propofol and oliceridine for use in painless hysteroscopy.\nMETHODS: Fifty-one women scheduled for elective painless hysteroscopy were enrolled in this prospective, two-phase dose-finding study. In Phase I, all patients received a fixed 1 mg dose of oliceridine at induction; propofol was subsequently titrated from an initial 2 mg/kg using Dixon's up-and-down sequential method in 0.1 mg/kg intervals. Probit regression modeling was used to derive propofol ED50 and ED95, with 95% confidence intervals (CIs) obtained via the delta method; isotonic regression served as sensitivity analysis. In Phase II, propofol was fixed at the Phase I ED50, and oliceridine was titrated from 1 mg in 0.1 mg increments, with ED50 and ED95 determined identically. An effective response was defined as no body movement, no frowning, and a Ramsay Sedation Score ≥5 during cervical dilation and hysteroscope insertion. Secondary outcomes included Nociception Level Index (NOX), Cerebral State Index (CSI), hemodynamic parameters, and adverse events.\nRESULTS: The ED50 and ED95 of propofol were 1.818 mg/kg (95% CI: 1.696-1.940) and 2.223 mg/kg (95% CI: 1.840-2.605), respectively. For oliceridine, the corresponding ED50 was 0.663 mg (95% CI: 0.605-0.720) and ED95 was 0.813 mg (95% CI: 0.692-0.934). Pearson goodness-of-fit tests confirmed adequate model fit for both phases (propofol: P = 0.755; oliceridine: P = 0.899), and isotonic regression yielded ED50 estimates within 3% of probit-derived values. Hemodynamic parameters remained stable throughout sedation, with no serious adverse events observed.\nCONCLUSION: The propofol-oliceridine appears to be a feasible option for painless hysteroscopy, with an acceptable safety profile provided that continuous airway monitoring is maintained. The ED50 and ED95 values observed in this study offer preliminary dosing guidance for outpatient practice.\nCLINICAL TRIAL REGISTRATION: www.chictr.org.cn/showproj.html?proj=241260, identifier ChiCTR2500102118.",
+        "journal": "Frontiers in pharmacology",
+        "authors": [
+          "Hao Sun",
+          "Jinming Chen",
+          "Yunhao Shao",
+          "Zhongqi Zhang"
+        ],
+        "publicationTypes": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-14T00:00:00.000Z",
+        "activityAt": "2026-10-29T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42952714/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "minimally-invasive-surgery"
+        ],
+        "assignedTopicId": "minimally-invasive-surgery",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 21.25,
+          "clinicalActionability": 7.5,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 0.85
+        },
+        "summaryStatus": "failed"
+      }
+    ]
+  }
+}
