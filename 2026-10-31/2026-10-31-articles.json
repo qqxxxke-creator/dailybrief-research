@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-31",
+  "articles": [
+    {
+      "sourceId": "medpage-today-headlines",
+      "title": "Does ChatGPT Measure Up to Doctors When It Comes to Questions About IVF?",
+      "url": "https://www.medpagetoday.com/meetingcoverage/asrm/123668",
+      "excerpt": "(MedPage Today) -- BALTIMORE -- ChatGPT's answers to patient queries about assisted reproductive technology (ART) were generally accurate but less complete than professional society education materials, a comparative analysis showed. On a scale...",
+      "publishedAt": "2026-10-30T20:02:10.000Z",
+      "category": "politics",
+      "source": "MedPage Today",
+      "summary": "一项比较分析显示，ChatGPT对辅助生殖技术（ART）患者提问的回答总体准确，但完整性不及专业学会教育材料。",
+      "reviewStatus": "accepted",
+      "lowPriority": false
+    }
+  ]
+}

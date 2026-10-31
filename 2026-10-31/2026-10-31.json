@@ -1,0 +1,311 @@
+{
+  "hero_headline": "ChatGPT辅助生殖咨询准确性受关注：回答总体准确但完整性不及专业学会材料",
+  "daily_overview": "今日妇产科专业动态聚焦生殖医学数字化：ASRM会议报道显示ChatGPT对辅助生殖技术患者提问的回答总体准确，但完整性弱于专业学会教育材料，提示AI患者教育仍需专业内容补充。无新增指南或手术前沿更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [
+    {
+      "title": "Does ChatGPT Measure Up to Doctors When It Comes to Questions About IVF?",
+      "url": "https://www.medpagetoday.com/meetingcoverage/asrm/123668",
+      "source": "MedPage Today",
+      "summary": "MedPage Today报道ASRM会议覆盖研究：ChatGPT对辅助生殖技术患者提问的回答总体准确，但不如专业学会教育材料完整；提示AI患者教育需谨慎补充。",
+      "importance": 6
+    }
+  ],
+  "editor_note": "AI回答可作为辅助生殖患者教育的补充，但不能替代专业学会材料，临床沟通仍需个体化。",
+  "keywords": [
+    "辅助生殖技术",
+    "ChatGPT",
+    "患者教育",
+    "生殖医学",
+    "AI医疗",
+    "ASRM"
+  ],
+  "research": {
+    "generatedAt": "2026-10-31T00:41:25.560Z",
+    "dataAsOf": "2026-10-31T00:41:25.560Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及硒补充对成人血糖指标和氧化应激生物标志物的影响：随机对照试验的系统评价、荟萃分析和剂量反应分析、人工智能在图像引导宫颈介入放疗中的应用：系统评价、机器学习和深度学习用于子宫内膜异位症诊断：系统评价和荟萃分析。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42958331",
+        "pmid": "42958331",
+        "doi": "10.1186/s12937-026-01376-w",
+        "title": "Effects of selenium supplementation on glycemic indices and oxidative-stress biomarkers in adults: a systematic review, meta-analysis, and dose-response analysis of randomized controlled trials.",
+        "abstract": "BACKGROUND: Diabetes and metabolic syndrome are major public health challenges closely linked to oxidative stress, inflammation, and impaired insulin signaling. Selenium, an essential trace element with antioxidant and immunomodulatory roles, has been proposed as an adjunctive strategy for metabolic regulation; however, evidence from randomized trials remains inconsistent. We evaluated the effects of selenium supplementation on glycemic indices, oxidative-stress-related biomarkers, lipid metabolism, and related metabolic indicators in adults, and explored potential effect modifiers.\nMETHODS: We searched PubMed, Embase, Cochrane CENTRAL, Web of Science, CINAHL, CNKI, WanFang, VIP, and SinoMed through 12 August 2025 for randomized controlled trials of oral selenium supplementation in adults, including pregnant women with gestational diabetes mellitus (GDM). Outcomes included fasting plasma glucose, glycated hemoglobin, fasting insulin, indices of insulin resistance and β-cell function, oxidative-stress-related and inflammatory biomarkers, lipid parameters, and anthropometric and hemodynamic indicators. Random-effects meta-analyses estimated weighted mean differences with 95% confidence intervals. Subgroup, dose-response, and sensitivity analyses were performed, and certainty of evidence was assessed using GRADE.\nRESULTS: Fifty-two treatment arms involving 10,916 participants were included. Selenium supplementation reduced fasting insulin, HOMA-IR, and HOMA-β values and increased QUICKI, but showed no clear overall effect on fasting plasma glucose or glycated hemoglobin. Favorable changes were observed in selected antioxidant and inflammatory biomarkers, including increases in glutathione, total antioxidant capacity, superoxide dismutase, glutathione peroxidase, and serum selenium, and reductions in malondialdehyde and high-sensitivity C-reactive protein, with no clear effect on nitric oxide. Modest changes in lipid parameters were also observed, including higher high-density lipoprotein cholesterol and lower low-density lipoprotein cholesterol, triglycerides, and total cholesterol. Among anthropometric and hemodynamic outcomes, only diastolic blood pressure was reduced. Effects varied by dose, duration, participant characteristics, and geographical selenium exposure context.\nCONCLUSIONS: Selenium supplementation was associated with modest improvements in insulin-sensitivity markers, selected antioxidantand inflammatory biomarkers, and lipid parameters, while showing no clear overall effect on fasting plasma glucose or glycated hemoglobin. These findings may be most applicable to populations with marginal or low baseline selenium status and should be extrapolated cautiously to selenium-replete settings. Long-term, high-quality RCTs are needed to clarify baseline-status-specific effects, safe dose ranges, and long-term safety.\nTRIAL REGISTRATION: PROSPERO CRD420251124852.",
+        "journal": "Nutrition journal",
+        "authors": [
+          "Chao Zhang",
+          "Long Wang",
+          "Min Tang",
+          "Pan Xu",
+          "Shi-Shi Wu",
+          "Xin Tan",
+          "Xin-Yue Yang",
+          "Yu-Ting Sun"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-01T00:00:00.000Z",
+        "activityAt": "2026-10-30T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42958331/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "硒补充对成人血糖指标和氧化应激生物标志物的影响：随机对照试验的系统评价、荟萃分析和剂量反应分析",
+          "researchQuestion": "在成人（包括妊娠期糖尿病孕妇）中，口服硒补充对血糖指标、氧化应激相关生物标志物、脂质代谢及相关代谢指标有何影响，并探索潜在效应修饰因素。",
+          "studyDesign": "系统评价、随机对照试验荟萃分析及剂量反应分析；PROSPERO CRD420251124852；采用GRADE评估证据确定性。",
+          "populationAndSample": "52个治疗臂、10,916名成人，包括妊娠期糖尿病孕妇；具体年龄和基线硒状态分布摘要未报告。",
+          "methods": "检索PubMed、Embase、Cochrane CENTRAL、Web of Science、CINAHL、CNKI、WanFang、VIP和SinoMed至2025年8月12日，纳入成人口服硒补充的随机对照试验；结局包括空腹血糖、糖化血红蛋白、空腹胰岛素、胰岛素抵抗和β细胞功能指标、氧化应激和炎症标志物、血脂、人体测量和血流动力学指标；随机效应模型估计加权均数差及95%CI，并行亚组、剂量反应、敏感性分析和GRADE评估。",
+          "keyResults": "硒补充降低空腹胰岛素、HOMA-IR和HOMA-β并提高QUICKI，但对空腹血糖或糖化血红蛋白无明确总体影响。部分抗氧化和炎症标志物改善：谷胱甘肽、总抗氧化能力、超氧化物歧化酶、谷胱甘肽过氧化物酶和血清硒升高，丙二醛和高敏C反应蛋白降低，对一氧化氮无明确影响。脂质指标有适度变化：高密度脂蛋白胆固醇升高，低密度脂蛋白胆固醇、甘油三酯和总胆固醇降低。人体测量和血流动力学结局中仅舒张压降低。效应随剂量、持续时间、参与者特征和地理硒暴露背景而变化。",
+          "limitations": "摘要指出随机试验证据不一致，效应随剂量、持续时间、参与者特征和地理硒暴露背景而变化；结果应谨慎外推至硒充足人群；需要长期、高质量随机对照试验明确基线硒状态特异性效应、安全剂量范围和长期安全性。摘要未报告GRADE具体评级和其他偏倚评估细节。",
+          "clinicalInterpretation": "该荟萃分析提示硒补充与胰岛素敏感性标志物、部分抗氧化和炎症标志物及血脂指标的适度改善相关，但未显示空腹血糖或糖化血红蛋白的明确总体改善；这些发现可能最适用于基线硒状态边缘或偏低人群，不应外推为常规补硒建议。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "a816da04155fcf51f8c0ab248d82aa3932207446b4126c53b8bf58a748d8443c"
+      },
+      {
+        "id": "pmid:42959106",
+        "pmid": "42959106",
+        "doi": "10.3389/fonc.2026.1910070",
+        "title": "Artificial intelligence in image-guided cervical interventional radiotherapy: a systematic review.",
+        "abstract": "BACKGROUND: Imaging-guided interventional radiotherapy (IG-IRT) is the standard of care for locally advanced cervical cancer but remains time-consuming and operator-dependent. Artificial intelligence (AI) has emerged as a promising tool to improve efficiency and reproducibility.\nMETHODS: A systematic review was conducted according to PRISMA 2020 guidelines, searching PubMed, Scopus, and Web of Science for studies published between 2010 and 2026 investigating AI-based imaging applications in cervical IRT. Eligible studies included original research evaluating segmentation (targets and organ at risk), planning, reconstruction, image registration and applicator selection.\nRESULTS: Fifty-two studies were included. Deep learning-based segmentation showed variable performance across anatomical structures and studies, with Dice coefficients approaching or exceeding 0.90 for some organs at risk and target volumes in the best-performing models. Individual studies reported shorter processing times, reduced contouring variability, accurate applicator reconstruction, and potential support for applicator selection. However, the substantial methodological and clinical heterogeneity precluded direct comparisons among AI approaches.\nCONCLUSIONS: The available studies suggest that AI may support the automation of selected workflow steps and assist treatment-related decision-making in image-guided cervical interventional radiotherapy. While several applications have achieved high technical performance, most remain at the proof-of-concept stage, and robust external validation and prospective clinical evaluation are needed before routine clinical adoption.",
+        "journal": "Frontiers in oncology",
+        "authors": [
+          "Angeles Rovirosa",
+          "Benedetta Gui",
+          "Bruno Fionda",
+          "Enrico Rosa",
+          "Gabriella Macchia",
+          "Leonardo Bannoni",
+          "Luca Russo",
+          "Luca Tagliaferri",
+          "Maria Antonietta Gambacorta",
+          "Maria Concetta La Milia",
+          "Maria Vaccaro",
+          "Nicolò Bizzarri",
+          "Pierpaolo Dragonetti",
+          "Rosa Autorino",
+          "Valentina Lancellotta"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-15T00:00:00.000Z",
+        "activityAt": "2026-10-30T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42959106/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "人工智能在图像引导宫颈介入放疗中的应用：系统评价",
+          "researchQuestion": "人工智能在图像引导宫颈介入放疗中用于分割、计划、重建、图像配准和施源器选择等成像应用的研究现状和性能如何？",
+          "studyDesign": "系统评价，按PRISMA 2020进行。",
+          "populationAndSample": "纳入2010—2026年发表的52项研究；研究对象为图像引导宫颈介入放疗中AI成像应用研究；患者总样本量摘要未报告。",
+          "methods": "检索PubMed、Scopus和Web of Science 2010—2026年文献；纳入评估靶区及危及器官分割、计划、重建、图像配准和施源器选择的原创研究。",
+          "keyResults": "基于深度学习的分割在不同解剖结构和研究间性能不一，表现最佳模型对部分危及器官和靶区的Dice系数接近或超过0.90。个别研究报告处理时间缩短、勾画变异性降低、施源器重建准确以及可能支持施源器选择。方法学和临床异质性大，无法直接比较不同AI方法。",
+          "limitations": "多数应用仍处于概念验证阶段；研究间方法和临床异质性大，妨碍直接比较；需要稳健外部验证和前瞻性临床评价后才能常规临床采用。摘要未报告患者样本量及具体偏倚风险评估结果。",
+          "clinicalInterpretation": "现有研究提示AI可能支持图像引导宫颈介入放疗中部分工作流程步骤的自动化和治疗相关决策辅助，但技术性能高不等同于临床有效，当前不应视为常规实践依据。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "37f1df703339de3f5b0047aa1bc6e07a450cc107d2fd9eaf20d6fc92e183b209"
+      },
+      {
+        "id": "pmid:42959151",
+        "pmid": "42959151",
+        "doi": "10.3389/fmed.2026.1907483",
+        "title": "Machine learning and deep learning for diagnosis of endometriosis: systematic review and meta-analysis.",
+        "abstract": "OBJECTIVE: To assess the diagnostic accuracy of machine learning (ML) and deep learning (DL) models for endometriosis.\nMETHODS: A systematic review and meta-analysis were conducted in accordance with PRISMA guidelines (PROSPERO: CRD420251231469). Databases were searched through November 24, 2025. Twenty-two eligible studies were included. Risk of bias was assessed using QUADAS-2. Pooled analysis was conducted in Stata 18.0.\nRESULTS: Pooled sensitivity was 0.90 (95% CI 0.86-0.93), specificity 0.75 (95% CI 0.64-0.84), and SROC-AUC 0.92 (95% CI 0.89-0.94). A positive prediction increased disease probability from 10% to 29%, whereas a negative prediction reduced it to 1%. Multicenter design and DL were associated with lower sensitivity. Results were robust.\nCONCLUSIONS: ML/DL models demonstrate high diagnostic performance and are promising for non-invasive auxiliary diagnosis. Large multicenter prospective studies and multimodal models are needed to enable clinical translation. Systematic Review Registration : https://www.crd.york.ac.uk/PROSPERO/view/CRD420251231469, identifier CRD420251231469.",
+        "journal": "Frontiers in medicine",
+        "authors": [
+          "Huiying Zhang",
+          "Jiayi Guo",
+          "Shaobin Wei",
+          "Xue Liu"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-15T00:00:00.000Z",
+        "activityAt": "2026-10-30T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42959151/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "机器学习和深度学习用于子宫内膜异位症诊断：系统评价和荟萃分析",
+          "researchQuestion": "机器学习和深度学习模型诊断子宫内膜异位症的诊断准确性如何？",
+          "studyDesign": "系统评价和荟萃分析，遵循PRISMA；PROSPERO CRD420251231469；采用QUADAS-2评估偏倚风险。",
+          "populationAndSample": "纳入22项符合条件的研究；摘要未报告各研究人群特征及总样本量。",
+          "methods": "检索数据库至2025年11月24日；纳入评估机器学习或深度学习诊断子宫内膜异位症的研究；用QUADAS-2评估偏倚风险，Stata 18.0进行汇总分析。",
+          "keyResults": "汇总灵敏度0.90（95% CI 0.86-0.93），特异度0.75（95% CI 0.64-0.84），SROC-AUC 0.92（95% CI 0.89-0.94）。阳性预测使疾病概率从10%升至29%，阴性预测降至1%。多中心设计和深度学习与较低灵敏度相关。结果稳健。",
+          "limitations": "摘要提示需要大型多中心前瞻性研究和多模态模型以实现临床转化；未报告具体异质性、偏倚风险评级或纳入研究样本量细节。",
+          "clinicalInterpretation": "机器学习/深度学习模型显示出较高诊断性能，作为无创辅助诊断有前景，但当前证据尚不足以直接用于临床诊断；需前瞻性验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "0ac7047bc5f10515c06eacd2297c301f2f60916e91a88ef5ebecf7de44ee1a7a"
+      },
+      {
+        "id": "pmid:42957251",
+        "pmid": "42957251",
+        "doi": "10.21873/invivo.14476",
+        "title": "Six Decades of Pelvic Exenterative Surgery for Gynaecological Malignancies: A Meta-analysis of Indications and Surgical Outcomes in 13,434 Cases Across 29 Countries.",
+        "abstract": "BACKGROUND/AIM: Robust international data on pelvic exenteration (PE) are limited. This study aimed to summarise indications, intent, surgical outcomes, morbidity, and mortality of PE for gynaecological malignancies.\nMATERIALS AND METHODS: PubMed was searched from inception to November 2024 (PROSPERO CRD42024615187) following PRISMA guidelines. Data on histology, demographics, body mass index, PE type and intent, prior radiotherapy, resection margins, operative time, hospital stay, and Clavien-Dindo (CD) morbidity/mortality were extracted. Random-effects meta-analysis estimated pooled proportions with 95% confidence intervals (95%CI). Exploratory subgroup analyses compared pre- versus post-2005 studies and regions. Study quality was assessed using MINORS.\nRESULTS: We included 132 studies comprising 13,434 women. Pooled proportions of anterior, posterior, and total PE were 33%, 19%, and 49%, respectively. Indications were cervical (61%), uterine (13%), vulval (13%), and vaginal/other malignancies (17%). PE was performed for recurrent disease in 68%, and negative margins were achieved in 76%. Pooled CD grade I-IV complication rates were 21%, 38%, 28%, and 10%, respectively; 30-day mortality was 5%. From pre- to post-2005 studies, cervical indications declined from 76.1% to 61.0% ( p =0.008), uterine indications increased from 3.0% to 12.4% ( p <0.001), and mortality decreased from 8.1% to 3.7% ( p <0.001). Mortality was 4.5% in Europe, 5.9% in the US, and 11.4% in Latin America ( p <0.001).\nCONCLUSION: PE carries substantial morbidity, while perioperative mortality was approximately 5% overall and 3.7% in post-2005 studies. Given substantial heterogeneity, pooled estimates should be interpreted as broad descriptive summaries rather than universal benchmarks.",
+        "journal": "In vivo (Athens, Greece)",
+        "authors": [
+          "Alexandra Nyiro",
+          "Amanda Dibden",
+          "Anna Fagotti",
+          "Arjun Jeyarajah",
+          "Bethany Wildridge",
+          "Chiara Caricato",
+          "Claudia Marchetti",
+          "Elly Brockbank",
+          "Kshitij Jamdade",
+          "Lili Ellison",
+          "Michail Sideris",
+          "Nana Gomes",
+          "Nikolaos Lymperopoulos",
+          "Oleg Blyuss",
+          "Ranjit Manchanda",
+          "Saurabh Phadnis",
+          "Savvas Papagrigoriadis",
+          "Venshani DE Alwis"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "publishedAt": "2026-01-01T00:00:00.000Z",
+        "activityAt": "2026-10-29T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42957251/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "minimally-invasive-surgery"
+        ],
+        "assignedTopicId": "minimally-invasive-surgery",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 7.5,
+          "total": 97.5,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "妇科恶性肿瘤盆腔廓清术六十年：29个国家13,434例适应证和手术结局的荟萃分析",
+          "researchQuestion": "妇科恶性肿瘤盆腔廓清术的适应证、手术意图、手术结局、并发症和死亡率如何？",
+          "studyDesign": "系统评价和荟萃分析，遵循PRISMA；PROSPERO CRD42024615187；随机效应模型；MINORS评估研究质量。",
+          "populationAndSample": "132项研究、13,434名女性，来自29个国家；摘要未报告年龄等人口学细节。",
+          "methods": "检索PubMed自建库至2024年11月；提取组织学、人口学、BMI、盆腔廓清术类型和意图、既往放疗、切缘、手术时间、住院时间及Clavien-Dindo并发症/死亡率；随机效应荟萃分析估计合并比例及95%CI；探索性亚组比较2005年前后研究和地区。",
+          "keyResults": "前盆腔、后盆腔和全盆腔廓清术合并比例分别为33%、19%和49%。适应证为宫颈61%、子宫13%、外阴13%、阴道/其他17%。68%因复发疾病手术，76%达到阴性切缘。Clavien-Dindo I-IV级并发症合并率分别为21%、38%、28%、10%；30天死亡率5%。2005年前后比较：宫颈适应证从76.1%降至61.0%（p=0.008），子宫适应证从3.0%升至12.4%（p<0.001），死亡率从8.1%降至3.7%（p<0.001）。死亡率欧洲4.5%、美国5.9%、拉丁美洲11.4%（p<0.001）。",
+          "limitations": "摘要强调存在显著异质性，合并估计应作为宽泛描述性总结而非通用基准；国际稳健数据有限。摘要未报告MINORS具体评分及各项偏倚风险细节。",
+          "clinicalInterpretation": "盆腔廓清术与较高并发症负担相关，围手术期死亡率总体约5%，2005年后研究约3.7%；这些汇总值用于描述历史或区域经验，不能作为单一中心质量基准或治疗指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "9b688df6784be59df0715847b5f53a3c31fc14623d5689dadfcb3f720205443d"
+      },
+      {
+        "id": "pmid:42961418",
+        "pmid": "42961418",
+        "doi": "10.1001/jamanetworkopen.2026.41231",
+        "title": "Survival After Risk-Reducing Mastectomy in Patients With Pathogenic Variants in BRCA1 and BRCA2: A Network Meta-Analysis.",
+        "abstract": "IMPORTANCE: The independent survival benefit of risk-reducing mastectomy (RRM), separate from risk-reducing salpingo-oophorectomy (RRSO), remains uncertain among patients with pathogenic variants (PVs) in BRCA1 and BRCA2 genes.\nOBJECTIVE: To evaluate the association of RRM, magnetic resonance imaging (MRI)-based screening, and mammography alone with all-cause and breast cancer-specific mortality using RRSO-adjusted estimates.\nDATA SOURCES: MEDLINE, Embase, and Web of Science were searched from January 1, 1990, to May 28, 2026. Search structures, subject headings, and keywords were tailored to each database.\nSTUDY SELECTION: Inclusion criteria were English-language prospective and retrospective observational studies of adult female patients with PV or likely PV in BRCA1 and BRCA2 who underwent RRM or breast cancer screening (MRI-based with or without mammography, or mammography alone), with RRSO excluded by design or adjusted for in multivariable analysis. Studies including females with prior breast or ovarian cancer were excluded.\nDATA EXTRACTION AND SYNTHESIS: Study reporting followed Preferred Reporting Items for Systematic Reviews and Meta-Analyses 2020 network meta-analysis extension. Two authors independently performed study selection, data extraction, and bias assessment using a risk-of-bias assessment tool (ROBINS-I V2) and a grading approach (Grading of Recommendations Assessment, Development, and Evaluation [GRADE]). Frequentist random-effects network meta-analysis was performed with surface under the cumulative ranking curve (SUCRA) estimation. Sensitivity analysis was conducted for the BRCA1 cohort.\nMAIN OUTCOMES AND MEASURES: Primary outcome was all-cause mortality. Secondary outcome was breast cancer-specific mortality. All outcomes were analyzed and reported as hazard ratios (HRs) with corresponding 95% CIs.\nRESULTS: Five observational studies with 7937 female patients (median [range] age, 35.9 [unreported] years to 43.4 [32.0-55.7] years) met the inclusion criteria. RRM was associated with lower all-cause mortality compared with MRI-based screening (HR, 0.37; 95% CI, 0.22-0.63) and mammography alone (HR, 0.16; 95% CI, 0.08-0.32). RRM was also associated with lower breast cancer-specific mortality compared with mammography alone (HR, 0.07; 95% CI, 0.01-0.44) but did not have significantly lower mortality than MRI-based screening (HR, 0.26; 95% CI, 0.05-1.35). In BRCA1-only analyses, RRM was associated with lower breast cancer-specific mortality compared with MRI-based screening (HR, 0.13; 95% CI, 0.03-0.66) and mammography alone (HR, 0.03; 95% CI, 0.00-0.15). SUCRA rankings indicated RRM had the highest likelihood of association with the lowest all-cause mortality (SUCRA value, 99.9%). Risk of bias was critical for 4 studies, and certainty of evidence was rated as very low for all 5 studies.\nCONCLUSIONS AND RELEVANCE: In this systematic review and network meta-analysis of RRSO-adjusted analyses, RRM was associated with lower all-cause mortality compared with breast cancer screening among females with PVs in BRCA1 and BRCA2, with the greatest magnitude of association for breast cancer-specific mortality observed in BRCA1 PV carriers. These findings provide less confounded survival estimates to support individualized shared decision-making for RRM.",
+        "journal": "JAMA network open",
+        "authors": [
+          "Alexander Melamed",
+          "Banu Arun",
+          "David Viveros-Carreño",
+          "Helen M Johnson",
+          "Isabel Beshar",
+          "J Alejandro Rauh-Hain",
+          "Karla Barajas",
+          "Kate J Krause",
+          "Maria Angeles Lopez-Olivo",
+          "Maria D Iniesta",
+          "Nuria Agusti",
+          "Roni Nitecki Wilke"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Network Meta-Analysis"
+        ],
+        "publishedAt": "2026-10-01T00:00:00.000Z",
+        "activityAt": "2026-10-30T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42961418/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 40,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 90,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "BRCA1和BRCA2致病性变异患者风险降低性乳房切除术后的生存：网络荟萃分析",
+          "researchQuestion": "在BRCA1和BRCA2致病性变异女性中，风险降低性乳房切除术相较MRI筛查或单独钼靶筛查，在校正RRSO后与全因死亡率和乳腺癌特异性死亡率有何关联？",
+          "studyDesign": "系统评价和频率学派随机效应网络荟萃分析；纳入前瞻性和回顾性观察性研究；ROBINS-I V2评估偏倚风险，GRADE评估证据确定性，SUCRA排序。",
+          "populationAndSample": "5项观察性研究、7,937名成年女性，携带BRCA1/BRCA2致病性或可能致病性变异，无既往乳腺癌或卵巢癌；RRSO通过设计排除或多变量分析校正。中位（范围）年龄35.9（未报告）至43.4（32.0-55.7）岁。",
+          "methods": "检索MEDLINE、Embase和Web of Science，1990年1月1日至2026年5月28日；纳入英文前瞻性或回顾性观察性研究，比较风险降低性乳房切除术与MRI为基础筛查（含或不含钼靶）或单独钼靶，且RRSO排除或校正；主要结局全因死亡率，次要结局乳腺癌特异性死亡率，以风险比（HR）及95%CI报告；进行BRCA1队列敏感性分析。",
+          "keyResults": "与MRI为基础筛查相比，风险降低性乳房切除术与较低全因死亡率相关（HR 0.37，95% CI 0.22-0.63）；与单独钼靶相比HR 0.16（95% CI 0.08-0.32）。风险降低性乳房切除术与单独钼靶相比乳腺癌特异性死亡率较低（HR 0.07，95% CI 0.01-0.44），但与MRI为基础筛查相比无显著更低死亡率（HR 0.26，95% CI 0.05-1.35）。仅BRCA1分析中，风险降低性乳房切除术与较低乳腺癌特异性死亡率相关：对比MRI筛查HR 0.13（95% CI 0.03-0.66），对比单独钼靶HR 0.03（95% CI 0.00-0.15）。SUCRA显示风险降低性乳房切除术与最低全因死亡率相关的可能性最高（SUCRA 99.9%）。4项研究偏倚风险为关键，5项研究证据确定性均极低。",
+          "limitations": "仅纳入5项观察性研究；4项研究偏倚风险为关键，所有研究证据确定性极低；摘要未报告其他局限性。",
+          "clinicalInterpretation": "在校正RRSO的分析中，风险降低性乳房切除术与BRCA1/BRCA2致病性变异女性较低全因死亡率相关，BRCA1携带者乳腺癌特异性死亡率关联幅度最大；该结果为观察性关联，可用于个体化共同决策的信息支持，不能推断因果或替代指南。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "73f30b940f3bc2812509dbbbace6f2eecae1b2fef750efa275946f1c7b2f30d8"
+      }
+    ]
+  }
+}
