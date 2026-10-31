@@ -1,0 +1,258 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-10-31T22:25:17.773Z",
+    "dataAsOf": "2026-10-31T22:25:17.773Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及仑伐替尼起始剂量低于20 mg与20 mg联合帕博利珠单抗治疗晚期或复发性子宫内膜癌：比较性观察证据的系统综述与荟萃分析、子宫内膜异位症中新兴的口腔微生物-宿主轴：具核梭杆菌的系统综述、子宫肌瘤长期瑞卢戈利单药治疗：单中心回顾性队列研究中的手术避免。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42964024",
+        "pmid": "42964024",
+        "doi": "10.3389/fonc.2026.1965694",
+        "title": "Lenvatinib starting doses below 20 mg versus 20 mg with pembrolizumab in advanced or recurrent endometrial cancer: a systematic review and meta-analysis of comparative observational evidence.",
+        "abstract": "BACKGROUND: Lenvatinib plus pembrolizumab is an established treatment for patients with previously treated advanced or recurrent endometrial cancer. In routine practice, clinicians may select a lenvatinib starting dose below 20 mg for patients expected to have limited tolerance, but the comparative effectiveness and tolerability of that strategy remain uncertain.\nMETHODS: We searched PubMed/MEDLINE, Web of Science Core Collection, and Cochrane CENTRAL from inception to 11 July 2026, with source-specific updates completed on 13-14 July 2026. Comparative observational studies of adults receiving lenvatinib plus pembrolizumab were eligible. The primary estimand compared starting doses below 20 mg with 20 mg; a 10-mg threshold contrast and first-8-week relative dose intensity were kept separate. Binary outcomes were summarized as risk ratios (RRs) and time-to-event outcomes as hazard ratios (HRs). Risk of bias was assessed with ROBINS-I, missing-evidence bias with ROB-ME, and certainty with GRADE.\nRESULTS: Ten studies representing 10 independent cohorts and 1,000 patients were included. Five cohorts (703 patients in total) informed the primary starting-dose comparison, with outcome-specific analysis denominators. For starting doses below 20 mg versus 20 mg, the pooled RR was 0.97 for objective response (95% confidence interval [CI], 0.70-1.34; I²=11.9%) and 0.96 for disease control (95% CI, 0.83-1.11; I²=0%). The RR for subsequent lenvatinib dose reduction was 0.66 (95% CI, 0.34-1.27; I²=27.4%). Estimates for interruption, permanent discontinuation, grade 3 or higher adverse events, and progression-free survival were imprecise; hospitalization and treatment persistence were not poolable. Every evaluated result had serious overall risk of bias, and certainty was very low for all pooled comparisons.\nCONCLUSION: Comparative observational evidence does not establish that starting lenvatinib below 20 mg preserves antitumor effectiveness or improves tolerability relative to a 20 mg starting dose. Prospective, confounder-aware comparative studies are needed before a reduced starting-dose strategy can be recommended broadly. Systematic review registration: https://www.crd.york.ac.uk/PROSPERO/, identifier CRD420261458417.",
+        "journal": "Frontiers in oncology",
+        "authors": [
+          "Chuyue Chang",
+          "Juncheng Wei",
+          "Mengfei Li",
+          "Miao Jiang",
+          "Runbing Xu",
+          "Shi Dong",
+          "Yu Wu"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-16T00:00:00.000Z",
+        "activityAt": "2026-10-31T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42964024/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "仑伐替尼起始剂量低于20 mg与20 mg联合帕博利珠单抗治疗晚期或复发性子宫内膜癌：比较性观察证据的系统综述与荟萃分析",
+          "researchQuestion": "在接受仑伐替尼联合帕博利珠单抗的成人中，低于20 mg起始剂量与20 mg起始剂量相比，比较有效性和耐受性如何？10 mg阈值对比和首个8周相对剂量强度被分开处理。",
+          "studyDesign": "系统综述与荟萃分析，纳入比较性观察研究；使用ROBINS-I评估偏倚风险，ROB-ME评估缺失证据偏倚，GRADE评估证据确定性。",
+          "populationAndSample": "接受仑伐替尼联合帕博利珠单抗的成人；共纳入10项研究、10个独立队列、1000例患者；主要起始剂量比较由5个队列（共703例患者）提供信息，分析分母随结局而异。",
+          "methods": "检索PubMed/MEDLINE、Web of Science Core Collection和Cochrane CENTRAL，从建库至2026年7月11日，源特异性更新于2026年7月13-14日完成；纳入比较性观察研究。二分类结局以风险比（RR）汇总，时间至事件结局以风险比（HR）汇总。主要估计目标为低于20 mg起始剂量与20 mg起始剂量的比较。",
+          "keyResults": "低于20 mg起始剂量与20 mg相比，客观缓解的合并RR为0.97（95%CI 0.70-1.34；I²=11.9%），疾病控制的合并RR为0.96（95%CI 0.83-1.11；I²=0%）。后续仑伐替尼剂量降低的RR为0.66（95%CI 0.34-1.27；I²=27.4%）。中断、永久停药、≥3级不良事件和无进展生存期的估计不精确；住院和治疗持续性无法合并。所有评估结果均有严重总体偏倚风险，所有合并比较的证据确定性均为极低。",
+          "limitations": "比较性观察证据；所有评估结果存在严重总体偏倚风险；所有合并比较的证据确定性均为极低；部分结局估计不精确，住院和治疗持续性无法合并；摘要未报告随机对照证据。",
+          "clinicalInterpretation": "比较性观察证据不能确立低于20 mg起始剂量相对于20 mg起始剂量可保留抗肿瘤有效性或改善耐受性；在广泛推荐降低起始剂量策略前，需要前瞻性、能处理混杂的比较研究。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "3a16ce89fd70e1474d84e85ddab09493ccc07ec57b79a802b7452a6197df9205"
+      },
+      {
+        "id": "pmid:42964104",
+        "pmid": "42964104",
+        "doi": "10.3389/fcimb.2026.1994934",
+        "title": "The emerging oral microbe-host axis in endometriosis: a systematic review of Fusobacterium nucleatum .",
+        "abstract": "BACKGROUND: Fusobacterium nucleatum , an oral-associated bacterium implicated in several extraoral diseases, has recently been proposed as a potential contributor to endometriosis through microbial translocation, inflammation, and fibrosis. However, the consistency and clinical significance of this association remain uncertain. This systematic review evaluated the human and experimental evidence linking F. nucleatum with endometriosis and assessed the plausibility of a proposed oral microbe-host axis.\nMETHODS: PubMed/MEDLINE, Embase, Web of Science, and Google Scholar were searched from inception through August 31, 2026, following PRISMA 2020 guidelines. Human and animal studies reporting F. nucleatum or historically related F. nucleatum -complex taxa in relation to endometriosis were included. Risk of bias was assessed using a prespecified adapted ROBINS-I framework for human observational studies and SYRCLE for animal studies. Owing to substantial heterogeneity in anatomical compartments, detection methods, and outcomes, meta-analysis was not appropriate and findings were synthesized qualitatively.\nRESULTS: Four human studies encompassing 384 participants at the study level were included, although analysis-specific denominators varied. Direct tissue evidence came from two studies and was conflicting: Muraoka et al. reported Fusobacterium positivity in 64.3% of endometrial samples from women with endometriosis versus 7.1% of controls in a 42-versus-42 tissue subset, whereas Graciano-España et al. found no significant case-control difference in F. nucleatum abundance among 55 cases and 37 controls. Indirect microbiome studies reported oral Fusobacterium enrichment in moderate/severe endometriosis and vaginal F. animalis depletion in chronic pelvic pain with endometriosis. All human studies were judged at serious overall risk of bias, and certainty of evidence was very low. Experimental evidence suggesting TGF-β-mediated lesion growth and fibrosis derived principally from one translational study and lacked independent replication.\nCONCLUSIONS: Current evidence supports biological plausibility but not a consistent or causal association between F. nucleatum and endometriosis. Direct tissue evidence is limited to two conflicting studies, while non-tissue microbiome findings are indirect. Standardized contamination-controlled sampling, paired anatomical-site sampling, strain-level analyses, and longitudinal studies are required before microbial translocation, temporality, causality, or antimicrobial treatment can be established.\nSYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/view/CRD420261337885.",
+        "journal": "Frontiers in cellular and infection microbiology",
+        "authors": [
+          "Aniruddha Doshi",
+          "Maria E Ramos-Nino",
+          "Prakash V A K Ramdass"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-16T00:00:00.000Z",
+        "activityAt": "2026-10-31T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42964104/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "子宫内膜异位症中新兴的口腔微生物-宿主轴：具核梭杆菌的系统综述",
+          "researchQuestion": "评估具核梭杆菌与子宫内膜异位症相关的人类和实验证据，并评估所提出的口腔微生物-宿主轴的可信性。",
+          "studyDesign": "系统综述，遵循PRISMA 2020；采用预设改编的ROBINS-I框架评估人类观察性研究偏倚风险，SYRCLE评估动物研究；因异质性大未进行荟萃分析，采用定性综合。",
+          "populationAndSample": "纳入4项人类研究，研究层面共384名参与者，分析特异性分母不一；直接组织证据来自2项研究。动物或实验研究的具体数量摘要未报告。",
+          "methods": "检索PubMed/MEDLINE、Embase、Web of Science和Google Scholar，从建库至2026年8月31日；纳入报告具核梭杆菌或历史上相关的具核梭杆菌复合群分类群与子宫内膜异位症关系的人类和动物研究。因解剖部位、检测方法和结局存在显著异质性，未进行荟萃分析。",
+          "keyResults": "直接组织证据相互冲突：Muraoka等报告，在42例对42例的组织子集中，子宫内膜异位症女性子宫内膜样本具梭杆菌阳性率为64.3%，对照组为7.1%；Graciano-España等在55例病例和37例对照中未发现具核梭杆菌丰度有显著病例对照差异。间接微生物组研究报告，在中重度子宫内膜异位症中口腔梭杆菌属富集，在伴子宫内膜异位症的慢性盆腔痛中阴道F. animalis耗竭。所有人类研究均被判定为严重总体偏倚风险，证据确定性极低。提示TGF-β介导病灶生长和纤维化的实验证据主要来自一项转化研究，缺乏独立重复。",
+          "limitations": "直接组织证据仅限2项且结果冲突；非组织微生物组发现为间接证据；研究间解剖部位、检测方法和结局异质性大；所有人类研究总体偏倚风险严重，证据确定性极低；实验证据主要来自一项转化研究，缺乏独立重复。摘要指出需标准化污染控制采样、配对解剖部位采样、菌株水平分析和纵向研究后，才能确立微生物易位、时间性、因果性或抗菌治疗。",
+          "clinicalInterpretation": "当前证据支持生物学合理性，但不支持具核梭杆菌与子宫内膜异位症之间存在一致或因果关联；直接组织证据有限且冲突，非组织发现为间接，不能据此确立微生物易位、时间顺序、因果性或抗菌治疗。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "7a52ac2dbb1575511baabeae472d1a30731874b0964a28f975cb8eb3629b6b5c"
+      },
+      {
+        "id": "pmid:42963842",
+        "pmid": "42963842",
+        "doi": "10.1111/jog.70553",
+        "title": "Long-Term Relugolix Monotherapy for Uterine Fibroids: Surgery Avoidance in a Single-Center Retrospective Cohort Study.",
+        "abstract": "AIM: Relugolix monotherapy for uterine fibroids is approved in Japan for only 180 days, and almost all long-term evidence concerns relugolix combination therapy with estradiol and norethisterone acetate. We evaluated surgery avoidance, transition to menopause, symptom control, and bone mineral density (BMD) beyond 180 days.\nMETHODS: We retrospectively reviewed 83 women with uterine fibroids given relugolix 40 mg monotherapy for at least 180 days at a single center between January 2015 and December 2024. Continuous variables are presented as median [interquartile range]; paired comparisons used the Wilcoxon signed-rank test, and group comparisons used the Mann-Whitney U test and Fisher's exact test (two-sided α = 0.05).\nRESULTS: Median treatment duration was 327 days [239.5-420.0] (maximum 1030) and median age was 43 years [37-47]. Overall, 55.4% (46/83) avoided fibroid surgery and 8.4% (7/83) reached menopause without surgery; symptoms resolved or improved in 60.2% (50/83). Among women not wishing surgery, 90.0% (27/30) avoided it, whereas 77.3% (34/44) of those wishing surgery underwent it (Fisher's exact test, p < 0.001). Uterine volume fell from 658 to 502 cm 3 (median within-patient reduction 19.0%, p < 0.001) and maximum fibroid diameter by 7.8% (p = 0.001). BMD trended downward at every site without reaching significance (lumbar spine -3.0%, p = 0.11). In addition, the median duration of the drug-free period for patients who measured bone mineral density was evaluated was 726 days (range: 7-2359 days).\nCONCLUSION: Long-term relugolix monotherapy frequently enabled surgery avoidance and transition to menopause in women who declined surgery and controlled symptoms in most. Because estrogen add-back is absent, BMD monitoring and a prespecified exit strategy are essential.",
+        "journal": "The journal of obstetrics and gynaecology research",
+        "authors": [
+          "Jun Kumakiri",
+          "Tsutomu Tabata",
+          "Yu Horibe"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-11-01T00:00:00.000Z",
+        "activityAt": "2026-10-31T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42963842/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "子宫肌瘤长期瑞卢戈利单药治疗：单中心回顾性队列研究中的手术避免",
+          "researchQuestion": "评估瑞卢戈利单药治疗超过180天时的手术避免、向绝经过渡、症状控制和骨密度（BMD）情况。",
+          "studyDesign": "单中心回顾性队列研究。",
+          "populationAndSample": "2015年1月至2024年12月单中心83例子宫肌瘤女性，接受瑞卢戈利40 mg单药治疗至少180天；中位治疗持续时间327天[239.5-420.0]（最长1030天），中位年龄43岁[37-47]。",
+          "methods": "回顾性审查83例患者；连续变量以中位数[四分位距]表示；配对比较使用Wilcoxon符号秩检验，组间比较使用Mann-Whitney U检验和Fisher精确检验（双侧α=0.05）。",
+          "keyResults": "55.4%（46/83）避免了肌瘤手术，8.4%（7/83）未手术即达到绝经，60.2%（50/83）症状缓解或改善。在不愿手术的女性中，90.0%（27/30）避免了手术；而在希望手术的女性中，77.3%（34/44）接受了手术（Fisher精确检验，p<0.001）。子宫体积从658 cm³降至502 cm³（患者内中位下降19.0%，p<0.001），最大肌瘤直径下降7.8%（p=0.001）。BMD在各部位呈下降趋势但未达显著性（腰椎-3.0%，p=0.11）。在测量BMD的患者中，中位无药期为726天（范围7-2359天）。",
+          "limitations": "单中心回顾性设计，样本量83例；摘要未报告对照组、盲法或混杂调整细节；BMD各部位下降未达显著；观察性设计不能建立因果关系。",
+          "clinicalInterpretation": "在这项单中心回顾性队列中，长期瑞卢戈利单药治疗常使拒绝手术的女性避免手术并过渡至绝经，且多数症状得到控制；作者指出因无雌激素反向添加，需关注BMD监测和预设退出策略。该观察性证据不能确立因果关系或形成广泛临床推荐。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "56f8bf23e2929cb6654487e6b5a05a0dfc647b303cfd9d41f6dfd684ffdd682c"
+      },
+      {
+        "id": "pmid:42963964",
+        "pmid": "42963964",
+        "doi": "10.1096/fj.202603200r",
+        "title": "USP22 Facilitates Cervical Cancer Progression via Deubiquitinating and Stabilizing IRAK1 to Activate NF-κB Signaling.",
+        "abstract": "Cervical cancer remains one of the most commonly diagnosed malignancies among women worldwide. Although USP22 is known to be involved in tumor progression, its specific function in cervical cancer remains unclear. This study explored the biological significance of USP22 and the mechanism by which it regulates cervical cancer progression. Through bioinformatic analysis, we identified that USP22 expression was significantly upregulated in cervical cancer tissues and was associated with proliferative potential. Single-cell RNA sequencing analysis revealed high USP22 expression in malignant epithelial cells, and USP22 expression was associated with the differentiation potential of cervical cancer cells. Moreover, USP22 deficiency suppressed cervical cancer cell proliferation, triggered cell cycle arrest in G0/G1, accelerated apoptosis, and inhibited migration and invasion. Mechanistically, USP22 bound to and deubiquitinated IRAK1, thereby preventing its proteasomal degradation and maintaining NF-κB pathway activation. USP22 deficiency significantly suppressed xenograft tumor growth and inhibited expression of the proliferation marker Ki67. Furthermore, IRAK1 overexpression abolished the suppressive effects of USP22 deficiency on cervical cancer cell growth and stemness. Collectively, this study provides evidence that USP22 regulates NF-κB signaling pathway by deubiquitinating and stabilizing IRAK1, suggesting that the USP22/IRAK1/NF-κB axis is a promising target for developing novel therapeutic strategies in cervical cancer.",
+        "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+        "authors": [
+          "Mengyuan Qian",
+          "Siyi Li",
+          "Wenjuan Chen",
+          "Xingyun Xie",
+          "Xueping Wang",
+          "Yuling Ye"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-11-15T00:00:00.000Z",
+        "activityAt": "2026-10-31T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42963964/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "USP22通过去泛素化并稳定IRAK1激活NF-κB信号促进宫颈癌进展",
+          "researchQuestion": "探讨USP22在宫颈癌中的生物学意义及其调控宫颈癌进展的机制。",
+          "studyDesign": "基础实验研究，包含生物信息学分析、单细胞RNA测序、细胞功能实验和异种移植模型。",
+          "populationAndSample": "宫颈癌组织、宫颈癌细胞及异种移植模型；具体样本量、细胞系和动物数量摘要未报告。",
+          "methods": "生物信息学分析；单细胞RNA测序；USP22缺失后的细胞增殖、细胞周期、凋亡、迁移和侵袭实验；USP22与IRAK1结合及去泛素化机制实验；异种移植肿瘤生长和Ki67检测；IRAK1过表达挽救实验。",
+          "keyResults": "USP22在宫颈癌组织中显著上调，并与增殖潜能相关；单细胞RNA测序显示恶性上皮细胞中USP22高表达，且USP22表达与宫颈癌细胞分化潜能相关。USP22缺失抑制宫颈癌细胞增殖、触发G0/G1期细胞周期停滞、加速凋亡并抑制迁移和侵袭。机制上，USP22结合IRAK1并使其去泛素化，阻止其蛋白酶体降解，维持NF-κB通路激活。USP22缺失显著抑制异种移植肿瘤生长并抑制增殖标志物Ki67表达；IRAK1过表达消除了USP22缺失对宫颈癌细胞生长和干性的抑制效应。",
+          "limitations": "摘要未报告具体样本量、细胞系、动物数量、实验重复次数及临床验证结果；结论主要基于生物信息学、细胞和异种移植实验。",
+          "clinicalInterpretation": "该研究提供实验证据，提示USP22/IRAK1/NF-κB轴是开发宫颈癌新治疗策略的潜在靶点；摘要未报告临床疗效或安全性数据，尚不能转化为临床治疗结论。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "dd3406bb57f030f4e57c2e64a033e6d03465910447c01943fcca9a51c2feec77"
+      },
+      {
+        "id": "pmid:42957658",
+        "pmid": "42957658",
+        "doi": "10.1038/s41419-026-09133-x",
+        "title": "Cell death-based treatment of ovarian cancer.",
+        "abstract": "Ovarian cancer (OC) is the seventh most prevalent type of cancer in women and one of the most lethal gynecological malignancies, due to the poor prognosis (with a 5-year survival rate of about 50%), the lack of specific clinical symptoms, the absence of effective screening, and the fact that the tumor grows without obvious signs. These factors complicate early detection, when clinical intervention is most effective, leading to late diagnosis. Standard treatment for OC includes cytoreductive surgery followed by platinum-based chemotherapy (PBC) with carboplatin and paclitaxel or their analogs. Conversely, despite the initial positive response to chemotherapy, many patients experience disease recurrence and develop chemotherapy resistance, which makes long-term treatment challenging and often results in fatal outcomes. Here, we focus on therapeutic strategies that overcome this resistance by precisely targeting pathways of programmed cell death (PCD), thereby opening new avenues for treatment. The potential of using PCD in OC treatment is being considered, focusing on key regulatory mechanisms: triggering intrinsic and/or extrinsic apoptosis; the complex role of autophagy in both promoting survival and inducing cell death; the emerging relevance of ferroptosis activation through inhibition of GPX4 or blockade of Xc- system; and the potential of using necroptosis and pyroptosis as immunogenic PCD modalities that can activate an immune response against the tumor. The use of these different PCD pathways offers opportunities to sensitize resistant tumors and improve patient outcomes.",
+        "journal": "Cell death & disease",
+        "authors": [
+          "Aygun R Mamedova",
+          "Boris Zhivotovsky",
+          "Gelina S Kopeina",
+          "Larisa V Smolyaninova"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-08-03T00:00:00.000Z",
+        "activityAt": "2026-10-30T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42957658/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "基于细胞死亡的卵巢癌治疗",
+          "researchQuestion": "针对卵巢癌标准化疗后复发和耐药问题，综述探讨通过精准靶向程序性细胞死亡通路克服耐药的治疗策略。",
+          "studyDesign": "综述。",
+          "populationAndSample": "卵巢癌相关文献；摘要未报告系统检索、纳入文献数量或患者样本量。",
+          "methods": "摘要未报告系统检索策略；综述围绕内源性和/或外源性凋亡、自噬在促生存与诱导细胞死亡中的复杂作用、通过抑制GPX4或阻断Xc-系统激活铁死亡、以及坏死性凋亡和焦亡作为可激活抗肿瘤免疫的免疫原性程序性细胞死亡方式展开讨论。",
+          "keyResults": "摘要未报告原始研究结果或定量合并结果。背景信息包括卵巢癌为女性第七常见癌症，5年生存率约50%；标准治疗为肿瘤细胞减灭术后铂类化疗（卡铂和紫杉醇或其类似物）；尽管初始化疗反应良好，许多患者仍复发并产生化疗耐药。综述讨论靶向程序性细胞死亡通路可能使耐药肿瘤增敏并改善患者结局。",
+          "limitations": "为综述，摘要未报告系统检索、纳入标准、证据质量评价或定量分析；所讨论程序性细胞死亡治疗策略的临床有效性和安全性数据摘要未报告。",
+          "clinicalInterpretation": "综述提出靶向程序性细胞死亡通路是克服卵巢癌化疗耐药的潜在治疗方向，可能使耐药肿瘤增敏并改善结局；但摘要未报告临床研究数据，不能据此形成临床推荐。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "c8e8f57c0995ca017594c3ee548eee704c619eefdd644c1a06c148ffe089bf36"
+      }
+    ]
+  }
+}
