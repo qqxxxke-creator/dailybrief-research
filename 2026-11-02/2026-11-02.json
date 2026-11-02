@@ -1,0 +1,279 @@
+{
+  "hero_headline": "孕期两次STI筛查与早产风险降低23%相关",
+  "daily_overview": "今日妇产科专业动态聚焦一项观察性研究：孕期两次筛查并治疗三类常见性传播感染，与标准照护相比早产风险降低23%。指南与手术前沿暂无合格更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [
+    {
+      "title": "STI screening linked to fewer preterm births",
+      "url": "https://medicalxpress.com/news/2026-10-sti-screening-linked-preterm-births.html",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "一项观察性研究报道，孕期两次筛查并治疗三类常见性传播感染，与标准照护相比早产风险降低23%。该信号支持重新评估孕期STI筛查频率，但原文未提供研究设计与因果推断细节。",
+      "importance": 7
+    }
+  ],
+  "editor_note": "单条研究信号值得关注，但需等待原文与指南评估，不宜据此直接改变临床实践。",
+  "keywords": [
+    "孕期STI筛查",
+    "早产",
+    "性传播感染",
+    "围产医学",
+    "筛查频率",
+    "临床实践"
+  ],
+  "research": {
+    "generatedAt": "2026-11-02T00:37:29.858Z",
+    "dataAsOf": "2026-11-02T00:37:29.858Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及多内分泌代谢性卵巢综合征孕妇的母体甲状腺功能与后续胰岛素抵抗标志物、机器人妇科手术学习曲线中的手术结局与成本评估：系统综述与meta分析、不明原因不孕中女性生殖激素与伴侣精液参数的跨伴侣关联：探索性二次分析。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42964126",
+        "pmid": "42964126",
+        "doi": "10.3389/fendo.2026.1884684",
+        "title": "Maternal thyroid function and subsequent markers of insulin resistance in pregnant women with polyendocrine metabolic ovarian syndrome.",
+        "abstract": "OBJECTIVES: Low maternal free thyroxine (fT4) levels have been associated with markers of insulin resistance and gestational diabetes. Our primary aim was to investigate whether maternal thyroid function was associated with subsequent insulin resistance in pregnant women with polyendocrine metabolic ovary syndrome (PMOS, previously known as PCOS).\nMETHODS: In this post-hoc analysis of two randomized controlled trials, we used linear regression analyses to examine associations of thyroid stimulating hormone (TSH) and fT4 with parameters of metabolic profile (pre- and post-load glucose, fasting insulin and homeostatic model assessment of insulin resistance (HOMA-IR) in 284 pregnant women with PMOS who were randomized to metformin or placebo in early pregnancy. Blood samples were drawn at gestational weeks (gw) 5 to12, 19, 32 and 36. An oral glucose tolerance test was performed at inclusion, gw19 and 32.\nRESULTS: At baseline, the women had a mean body mass index (BMI) of 28.9 and HOMA-IR 3.2, and none had overt hypothyroidism. We found significant inverse associations between the change in TSH during pregnancy and post-load glucose at gw19, as well as fasting glucose at gw36, i.e. the smaller increase in maternal TSH, the higher subsequent maternal glucose levels. Furthermore, lower maternal fT4 levels were significantly associated with higher subsequent insulin/HOMA-IR levels, and the change in TSH was also inversely associated with HOMA-IR at gw32. All associations were independent of treatment with metformin or placebo.\nCONCLUSIONS: In this exploratory post-hoc analysis, a smaller maternal TSH increase and lower fT4 levels during pregnancy in overweight women with PMOS are associated with higher subsequent glucose and insulin/HOMA-IR levels later in pregnancy.",
+        "journal": "Frontiers in endocrinology",
+        "authors": [
+          "Anastasia Trouva",
+          "Angelica Lindén Hirschberg",
+          "Bjørn Olav Åsvold",
+          "Dorina Ujvari",
+          "Eszter Vanky",
+          "Jan Calissendorff",
+          "Michael Alvarsson"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-10-16T00:00:00.000Z",
+        "activityAt": "2026-10-31T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42964126/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 7.5,
+          "total": 96.25,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "多内分泌代谢性卵巢综合征孕妇的母体甲状腺功能与后续胰岛素抵抗标志物",
+          "researchQuestion": "在患多内分泌代谢性卵巢综合征（PMOS，既往称PCOS）的孕妇中，母体甲状腺功能（TSH和fT4）是否与随后出现的胰岛素抵抗指标相关？",
+          "studyDesign": "两项随机对照试验的事后分析（探索性post-hoc分析）",
+          "populationAndSample": "284例PMOS孕妇，孕早期被随机分配至二甲双胍或安慰剂组；基线平均BMI为28.9，HOMA-IR为3.2，均无显性甲状腺功能减退。",
+          "methods": "采用线性回归分析，评估TSH和fT4与代谢谱指标（负荷前及负荷后血糖、空腹胰岛素、HOMA-IR）的关联；在妊娠5～12周、19周、32周和36周采血；在入组时、妊娠19周和32周行口服葡萄糖耐量试验。",
+          "keyResults": "孕期TSH变化与妊娠19周负荷后血糖及妊娠36周空腹血糖呈显著负相关，即母体TSH升幅越小，随后母体血糖水平越高。较低母体fT4水平与随后较高的胰岛素/HOMA-IR水平显著相关；TSH变化也与妊娠32周HOMA-IR呈负相关。所有关联均独立于二甲双胍或安慰剂治疗。",
+          "limitations": "摘要未报告其他局限性；该分析为探索性事后分析，所报告的关联不能推断因果。",
+          "clinicalInterpretation": "在超重PMOS孕妇中，孕期TSH升幅较小及fT4较低与孕后期更高的血糖及胰岛素/HOMA-IR水平相关；这些为探索性关联，不构成治疗建议。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "e936c6683705f0aa95165f4df04fdb50b3d1efe1424b5e4934af9b10d164899c"
+      },
+      {
+        "id": "pmid:42965762",
+        "pmid": "42965762",
+        "doi": "10.1007/s11701-026-04148-0",
+        "title": "Evaluation of surgical outcomes and costs during the learning curve in robotic gynecologic surgery: a systematic review and meta-analysis.",
+        "abstract": "To quantify the potential surgical and financial benefits associated with progression along the learning curve in robotic gynecologic surgery. Observational studies comparing earlier and later cases of the same robotic gynecologic procedure were identified from nine bibliographic sources. Single-reviewer preselection preceded two-reviewer assessment. Continuous outcomes from chronological or experience-period comparisons were pooled using REML random-effects models with modified Hartung-Knapp intervals; outcome-derived comparisons were analyzed separately. Complications and reported hospital costs were summarized descriptively, while resource use was valued in separate exploratory models. Appraisal used the JBI cohort checklist and adapted GRADE. Registration followed searching (INPLASY2026100011). Twenty-one reports contributed: 19 provided 25 time comparisons (1,305 phase observations); two were economic-only. Across 13 primary reports (923 observations), later procedures were 31 min shorter (95% CI 16-46; I²=65.3%; very low certainty), a 19.6% reduction. Four of these yielded - 10.4 min per 10 cases (95% CI -25.0 to 4.2). Blood-loss (-6.3 mL) and hospital-stay (-0.08 days) differences remained uncertain (very low certainty); complication findings varied. Three programs reported lower hospital costs: mean reductions of $2,222 and $4,457 and a median difference of $83 (2025 USD). Exploratory resource valuation estimated -$1,068 per case (95% CI -$3,747 to $1,610). Later phases were associated with approximately 31 minutes shorter operative time, withoperative minutes valued using an external reference input of $28.43 per minute. Available evidence didnot establish clear reductions in blood loss or hospital stay, while heterogeneous definitions precluded apooled complication estimate. The time and personal financial investment required for surgeons to reachthis stage remains an important separate cost requiring prospective evaluation.",
+        "journal": "Journal of robotic surgery",
+        "authors": [
+          "Feyza Gulgel Sen",
+          "Serhat Sen"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-31T00:00:00.000Z",
+        "activityAt": "2026-10-31T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42965762/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "minimally-invasive-surgery"
+        ],
+        "assignedTopicId": "minimally-invasive-surgery",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 7.5,
+          "recency": 7.5,
+          "total": 90,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "机器人妇科手术学习曲线中的手术结局与成本评估：系统综述与meta分析",
+          "researchQuestion": "量化机器人妇科手术中沿学习曲线推进可能带来的手术和财务获益。",
+          "studyDesign": "系统综述与meta分析，纳入比较同一机器人妇科手术早期与后期病例的观察性研究；方案注册号为INPLASY2026100011。",
+          "populationAndSample": "共纳入21篇报告；其中19篇提供25项时间比较（1,305个阶段观察），2篇仅涉及经济分析；13篇主要报告（923个观察）用于主要手术时间分析。",
+          "methods": "从九个文献来源检索；先由单名评审预筛，再由两名评审评估；对按时间或经验分组的连续结局，采用REML随机效应模型及改良Hartung-Knapp区间合并；基于结局的比较单独分析；并发症和报告的医院成本作描述性总结，资源使用采用单独探索性模型估值；使用JBI队列清单和改良GRADE进行评价。",
+          "keyResults": "在13篇主要报告中，后期手术时间缩短31分钟（95% CI 16～46；I²=65.3%；证据确定性极低），相当于缩短19.6%。其中4篇报告显示每10例减少10.4分钟（95% CI -25.0～4.2）。失血量（-6.3 mL）和住院时间（-0.08天）的差异仍不确定（证据确定性极低）；并发症结果不一致。3个项目报告医院成本降低：平均分别减少2,222美元和4,457美元，中位差值为83美元（2025年美元）。探索性资源估值估计每例为-1,068美元（95% CI -3,747～1,610美元）。后期阶段与手术时间缩短约31分钟相关，手术分钟数采用外部参考输入值28.43美元/分钟估值。现有证据未能确立失血量或住院时间的明确下降，而定义异质导致无法合并并发症估计。外科医生达到该阶段所需的时间和个人财务投入仍是需前瞻性评估的独立成本。",
+          "limitations": "证据确定性极低；失血量和住院时间差异不确定；并发症定义异质，无法合并估计；摘要指出外科医生达到该学习阶段所需时间和个人财务投入尚需前瞻性评估。",
+          "clinicalInterpretation": "沿机器人妇科手术学习曲线进入后期阶段与约31分钟更短的手术时间相关；对失血量、住院时间和成本的影响尚不确定，相关成本结果异质。该研究结果不能据此形成临床或政策指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "76124be8ceaef0a77af019c9d8b5d232734734e4df8e80603e39be1bfdf49e49"
+      },
+      {
+        "id": "pmid:42967193",
+        "pmid": "42967193",
+        "doi": "10.7759/cureus.117329",
+        "title": "Cross-Partner Associations of Female Reproductive Hormones With Semen Parameters in Unexplained Infertility: An Exploratory Secondary Analysis.",
+        "abstract": "Background Unexplained infertility is a couple-level diagnosis made after standard female and male investigations do not identify a specific cause. Subtle cross-partner reproductive patterns may nevertheless be present. This exploratory secondary analysis assessed associations between female reproductive hormones and partner semen parameters in couples with unexplained infertility. Methods This cross-sectional secondary analysis used paired data from 70 couples with unexplained infertility from a previously published case-control study conducted at Ain Shams University Maternity Hospital in Cairo, Egypt, from October 2018 through April 2019. The original study evaluated vitamin D and reported descriptive hormone and semen data; the cross-partner analyses reported here are new. Female follicle-stimulating hormone, luteinizing hormone, prolactin, estradiol (E2), and thyroid-stimulating hormone (TSH) were correlated with partner semen volume, concentration, total count, total motility, progressive motility, and normal morphology using Spearman correlation. Thirty correlations were screened with Benjamini-Hochberg false-discovery-rate (FDR) adjustment. Targeted linear models were adjusted for female age and body mass index (BMI), with 5,000-resample bootstrap confidence intervals. Results Female prolactin was inversely correlated with partner progressive motility (rho = -0.472, FDR q < 0.001) and normal morphology (rho = -0.595, FDR q < 0.001). TSH correlated positively with progressive motility (rho = 0.331, FDR q = 0.038) and morphology (rho = 0.419, FDR q = 0.003). E2 was nominally correlated with sperm concentration (rho = 0.284, p = 0.017) but did not survive FDR adjustment (q = 0.103). In age- and BMI-adjusted models, prolactin remained inversely associated with progressive motility (B = -0.401, bootstrap 95% CI -0.687 to -0.147) and morphology (B = -0.929, bootstrap 95% CI -1.282 to -0.620). The adjusted TSH association with morphology persisted (B = 4.076, bootstrap 95% CI 0.250 to 8.016), whereas the bootstrap interval for progressive motility included the null. Conclusions Female prolactin showed the most consistent inverse couple-level association with partner progressive motility and normal morphology. These cross-sectional findings do not establish biological effects of female hormones on male semen quality and should be regarded as hypothesis-generating pending independent prospective replication.",
+        "journal": "Cureus",
+        "authors": [
+          "Ikran Mohamud",
+          "Mena Abdalla"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-01T00:00:00.000Z",
+        "activityAt": "2026-11-01T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42967193/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "不明原因不孕中女性生殖激素与伴侣精液参数的跨伴侣关联：探索性二次分析",
+          "researchQuestion": "在不明原因不孕夫妇中，女性生殖激素是否与伴侣的精液参数相关？",
+          "studyDesign": "横断面二次分析，使用既往已发表病例对照研究的配对数据；本文报告的跨伴侣分析为新分析。",
+          "populationAndSample": "70对不明原因不孕夫妇；数据来自埃及开罗Ain Shams大学妇产医院2018年10月至2019年4月开展的既往病例对照研究。",
+          "methods": "采用Spearman相关分析女性促卵泡激素、促黄体生成素、催乳素、雌二醇（E2）和促甲状腺激素（TSH）与伴侣精液量、浓度、总数、总活力、前向活力和正常形态的关联；共筛选30项相关性，并用Benjamini-Hochberg错误发现率（FDR）校正；针对性线性模型校正女性年龄和BMI，采用5,000次重抽样bootstrap置信区间。",
+          "keyResults": "女性催乳素与伴侣前向活力呈负相关（rho=-0.472，FDR q<0.001），与正常形态呈负相关（rho=-0.595，FDR q<0.001）。TSH与前向活力呈正相关（rho=0.331，FDR q=0.038），与形态呈正相关（rho=0.419，FDR q=0.003）。E2与精子浓度呈名义相关（rho=0.284，p=0.017），但未通过FDR校正（q=0.103）。在校正年龄和BMI的模型中，催乳素仍与前向活力负相关（B=-0.401，bootstrap 95% CI -0.687～-0.147），与形态负相关（B=-0.929，bootstrap 95% CI -1.282～-0.620）。校正后TSH与形态的关联仍存在（B=4.076，bootstrap 95% CI 0.250～8.016），而前向活力的bootstrap区间包含无效值。",
+          "limitations": "该分析为探索性、横断面、小样本二次分析；筛查了多项相关性；不能确立女性激素对男性精液质量的生物学效应；结果需独立前瞻性重复验证。",
+          "clinicalInterpretation": "女性催乳素与伴侣前向活力和正常形态呈较一致的跨伴侣负相关，TSH与形态呈正相关；这些横断面关联仅具假设生成意义，不能用于临床推断或干预。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "7658eee2a56f28ed4044629ed4f434dc3e45256e84d6144df10125ad4c6f4c8e"
+      },
+      {
+        "id": "pmid:42965204",
+        "pmid": "42965204",
+        "doi": "10.4103/jfmpc.jfmpc_2277_25",
+        "title": "Treatment outcomes and safety of metformin versus insulin in gestational diabetes mellitus: A systematic review and meta-analysis.",
+        "abstract": "Gestational diabetes mellitus (GDM) is a common pregnancy complication associated with adverse maternal and neonatal outcomes. While insulin remains the traditional treatment, metformin has emerged as a potential alternative due to its ease of use and favorable metabolic effects. This systematic review and meta-analysis aimed to compare the efficacy and safety of metformin versus insulin in the management of GDM. This review was registered with International Prospective Register of Systematic Reviews (PROSPERO) (CRD42025644196) and conducted in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. A comprehensive literature search was performed using PubMed and Google Scholar for studies published between 2020 and 2025. Eligible studies were randomized controlled trials (RCTs) comparing metformin and insulin in pregnant women diagnosed with GDM and reporting relevant maternal or neonatal outcomes. Data screening and extraction were performed using Rayyan software. Statistical analysis was conducted using Stata version 17. Pooled effect sizes were calculated using a random-effects model. Standardized mean differences (SMDs) and odds ratios (ORs) with 95% confidence intervals (CIs) were used to assess continuous and dichotomous outcomes, respectively. Heterogeneity was evaluated using the I² statistic and Cochran's Q test. Publication bias was assessed using funnel plots and Egger's test. Twenty-two RCTs met the inclusion criteria. Metformin achieved glycemic control comparable to insulin, with a pooled SMD for fasting blood glucose (FBG) of -0.29 (95% CI: -0.55 to -0.03; P = 0.03). No significant difference was observed in glycated hemoglobin (HbA1c) levels (SMD = -0.26; 95% CI: -0.75 to 0.23; P = 0.30). Metformin was associated with significantly less maternal weight gain and a reduced risk of neonatal hypoglycemia (OR = 2.72; 95% CI: 1.02-7.26; P = 0.05). The incidence of pre-eclampsia and hypertensive disorders was similar between groups. Patient satisfaction was consistently higher in the metformin group, with most participants preferring it over insulin. Funnel plots and Egger's test indicated no significant publication bias. Metformin is a safe and effective alternative to insulin for the management of GDM in most pregnant women, offering comparable glycemic control, reduced maternal weight gain, lower risk of neonatal hypoglycemia, and higher patient acceptability. While some patients may still require insulin supplementation, metformin represents a valuable first-line option, especially in settings where injection therapy is less feasible or poorly tolerated.",
+        "journal": "Journal of family medicine and primary care",
+        "authors": [
+          "Arwa Aloraini",
+          "Ayesha Alnashwan",
+          "Basil Alshammari",
+          "Hala Alruwaili",
+          "Khalid Al-Nemer",
+          "Layin Almasoud",
+          "Leen Almohayya",
+          "Maan Almuzaini",
+          "Marwa Akram",
+          "Meshal Alzakari",
+          "Musab Alsulami",
+          "Rahaf Alsaedi",
+          "Waad Aljadani"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-10-07T00:00:00.000Z",
+        "activityAt": "2026-10-31T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42965204/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 7.5,
+          "total": 82.5,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "二甲双胍与胰岛素治疗妊娠期糖尿病的效果与安全性：系统综述与meta分析",
+          "researchQuestion": "比较二甲双胍与胰岛素治疗妊娠期糖尿病（GDM）的疗效和安全性。",
+          "studyDesign": "系统综述与meta分析，仅纳入随机对照试验（RCT）；PROSPERO注册号CRD42025644196，按PRISMA指南进行。",
+          "populationAndSample": "共纳入22项RCT，对象为诊断为GDM的孕妇，研究报告相关母体或新生儿结局；检索PubMed和Google Scholar中2020—2025年发表的研究。",
+          "methods": "使用Rayyan软件筛选和提取数据，Stata 17进行统计分析；采用随机效应模型合并效应量；连续结局用标准化均数差（SMD），二分类结局用比值比（OR）及95%置信区间（CI）；用I²统计量和Cochran Q检验评估异质性；用漏斗图和Egger检验评估发表偏倚。",
+          "keyResults": "二甲双胍达到与胰岛素相当的血糖控制，空腹血糖（FBG）合并SMD为-0.29（95% CI -0.55～-0.03；P=0.03）。糖化血红蛋白（HbA1c）无显著差异（SMD=-0.26；95% CI -0.75～0.23；P=0.30）。二甲双胍与显著较少的母体体重增加及较低的新生儿低血糖风险相关（OR=2.72；95% CI 1.02～7.26；P=0.05）。两组子痫前期和高血压疾病发生率相似。二甲双胍组患者满意度持续较高，多数参与者更偏好二甲双胍。漏斗图和Egger检验未提示显著发表偏倚。",
+          "limitations": "检索来源限于PubMed和Google Scholar，发表年份限于2020—2025年；摘要未报告各试验偏倚风险及具体异质性数值等其他局限性。",
+          "clinicalInterpretation": "该meta分析汇总显示，在多数GDM孕妇中，二甲双胍与胰岛素相比血糖控制相当、母体体重增加较少、新生儿低血糖风险较低且患者接受度较高；部分患者仍可能需要补充胰岛素。该汇总证据不能替代个体化临床决策。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "5d8fd38779af99994cc79af2185d5f9b457802ea5123f50f1014acaf61480d88"
+      },
+      {
+        "id": "pmid:42965347",
+        "pmid": "42965347",
+        "doi": "10.5603/gpl.113127",
+        "title": "Expression of the CYP1A1 and CYP2D6 genes responsible for xenobiotic metabolism in women with endometrial cancer.",
+        "abstract": "OBJECTIVES: The aetiology of endometrial cancer is not fully understood. A range of factors may influence its development. One potential factor is the abnormal functioning of proteins involved in the metabolism of xenobiotics. This may lead to the accumulation of harmful substances and potentially trigger the development of cancer. This study assessed the expression levels of the CYP1A1 and CYP2D6 genes in cancer tissue samples collected post-surgery and its correlations with factors such as age, obesity, hypertension and tumour stage.\nMATERIAL AND METHODS: The CYP1A1 and CYP2D6 genes were analysed in tumour samples taken from 190 patients diagnosed with endometrial cancer. The control group comprised 102 patients who had undergone surgery for non-cancerous reasons and had no history of cancer. Genotyping of the CYP1A1 rs1799814 and CYP2D6 rs3892097 polymorphisms was performed and the expression levels of these genes were measured. GAPDH was used as the reference gene due to its constant and stable expression.\nRESULTS: No associations were found between the expression levels of the CYP1A1 and CYP2D6 genes and the patients' age, the presence of diabetes or hypertension, nor the stage of the tumour according to the FIGO classification, lymph node involvement, or the degree of myometrial invasion.\nCONCLUSIONS: However, CYP1A1 expression was significantly higher in the examined group, whereas CYP2D6 expression was lower in patients with endometrial cancer compared to the control group. In patients with diabetes, CYP1A1 expression was significantly higher compared with non-diabetic women. CYP2D6 levels were reduced in obese patients. GAPDH expression varied significantly depending on the histopathological grade of the tumour.",
+        "journal": "Ginekologia polska",
+        "authors": [
+          "Andrzej Bienkiewicz",
+          "Joanna Wronska-Stefaniak",
+          "Katarzyna Wojcik-Krowiranda"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-01-01T00:00:00.000Z",
+        "activityAt": "2026-10-31T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42965347/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 7.5,
+          "total": 82.5,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "子宫内膜癌女性中外源性物质代谢相关CYP1A1和CYP2D6基因的表达",
+          "researchQuestion": "子宫内膜癌组织中CYP1A1和CYP2D6基因的表达水平如何，并与年龄、肥胖、高血压和肿瘤分期等因素有何相关？",
+          "studyDesign": "病例对照式分子表达分析（术后肿瘤样本与对照组织比较）",
+          "populationAndSample": "190例诊断为子宫内膜癌患者的肿瘤样本；对照组为102例因非癌原因接受手术且无癌症史的患者。",
+          "methods": "对CYP1A1 rs1799814和CYP2D6 rs3892097多态性进行基因分型，并测量这两个基因的表达水平；以表达恒定稳定的GAPDH作为参考基因；分析表达与年龄、肥胖、高血压、糖尿病、FIGO分期、淋巴结受累及肌层浸润程度等因素的相关性。",
+          "keyResults": "CYP1A1和CYP2D6表达水平与患者年龄、糖尿病或高血压、FIGO肿瘤分期、淋巴结受累及肌层浸润程度均未发现关联。然而，与对照组相比，子宫内膜癌患者CYP1A1表达显著较高，CYP2D6表达较低。在糖尿病患者中，CYP1A1表达较非糖尿病女性显著较高。肥胖患者CYP2D6水平降低。GAPDH表达随肿瘤组织病理学分级显著变化。",
+          "limitations": "摘要未报告研究局限性；该研究为组织表达对照分析，不能推断因果或临床用途。",
+          "clinicalInterpretation": "观察到子宫内膜癌中CYP1A1表达较高、CYP2D6表达较低，且部分表达与糖尿病、肥胖和肿瘤组织学分级相关；这些为相关性发现，其生物学与临床意义尚待验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "e9eb7ae7ba22b70cb7fbfba8739243b88203a26ea8afe6f5938d995eb6ecd4e0"
+      }
+    ]
+  }
+}

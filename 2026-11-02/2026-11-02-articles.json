@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-02",
+  "articles": [
+    {
+      "sourceId": "medical-xpress-obgyn",
+      "title": "STI screening linked to fewer preterm births",
+      "url": "https://medicalxpress.com/news/2026-10-sti-screening-linked-preterm-births.html",
+      "excerpt": "Screening and treating pregnant patients for three common sexually transmitted infections (STIs) twice during pregnancy was associated with a 23% lower risk of preterm birth compared with standard care, according to a randomized clinical trial published in Clinical Infectious Diseases from researche",
+      "publishedAt": "2026-10-29T17:20:27.000Z",
+      "category": "politics",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "一项随机临床试验发现，孕期对三种常见性传播感染进行两次筛查和治疗，与标准护理相比，与早产风险降低23%相关；结果发表于《Clinical Infectious Diseases》。",
+      "reviewStatus": "accepted",
+      "lowPriority": false
+    }
+  ]
+}
