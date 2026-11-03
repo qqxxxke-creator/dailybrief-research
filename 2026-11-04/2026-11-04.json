@@ -1,0 +1,269 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-11-03T23:12:35.534Z",
+    "dataAsOf": "2026-11-03T23:12:35.534Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及PD-1/PD-L1抑制剂联合化疗±贝伐珠单抗治疗复发或转移性宫颈癌的疗效与安全性：随机对照试验的系统评价与Meta分析、单基因病胚胎植入前遗传学检测：卫生技术评估、选择性胎儿生长受限的单绒毛膜双胎与生长受限单胎的胎盘组织学病变：队列研究。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42973905",
+        "pmid": "42973905",
+        "doi": "10.3389/fimmu.2026.1972995",
+        "title": "Efficacy and safety of PD-1/PD-L1 inhibitors plus chemotherapy ± bevacizumab for recurrent or metastatic cervical cancer: a systematic review and meta-analysis of randomized controlled trials.",
+        "abstract": "BACKGROUND: The efficacy of adding PD-1/PD-L1 inhibitors to chemotherapy ± bevacizumab in recurrent or metastatic cervical cancer is under active investigation.\nOBJECTIVE: To systematically evaluate the efficacy and safety of PD-1/PD-L1 inhibitors combined with chemotherapy ± bevacizumab in this setting through a meta-analysis of randomized controlled trials (RCTs).\nMETHODS: A systematic search of PubMed, Embase, Web of Science, Cochrane Library, Scopus, and ClinicalTrials.gov was conducted for RCTs published up to January 14, 2026. Primary outcomes were overall survival (OS) and progression-free survival (PFS); hazard ratios (HRs) were derived from reconstructed Kaplan-Meier curves.\nRESULTS: Six RCTs involving 2,242 patients were included: 1,131 received PD-1/PD-L1 inhibitors plus chemotherapy ± bevacizumab, and 1,111 received chemotherapy ± bevacizumab alone. The combination regimen significantly prolonged median OS (28.7 vs. 19.4 months) and median PFS (12.0 vs. 8.7 months). Pooled risk ratios (RRs) for complete response, partial response, stable disease, progressive disease, and objective response rate were 1.606 (95% CI, 1.333-1.936), 1.127 (95% CI, 0.994-1.277), 0.733 (95% CI, 0.612-0.878), 0.460 (95% CI, 0.305-0.695), and 1.235 (95% CI, 1.153-1.322), respectively. The risk of any-grade adverse events did not differ significantly between groups (RR 0.999, 95% CI 0.991-1.008), whereas the combination was associated with an increased risk of grade ≥3 adverse events (RR 1.069, 95% CI 1.019-1.121). Frequently reported adverse reactions included nausea, anemia, constipation, arthralgia, neutropenia, hypertension, alopecia, and peripheral neuropathy.\nCONCLUSION: In patients with recurrent or metastatic cervical cancer, the addition of PD-1/PD-L1 inhibitors to chemotherapy ± bevacizumab significantly improves OS and PFS, though with a modest increase in high-grade toxicity.\nSYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/view/, identifier CRD420261472748.",
+        "journal": "Frontiers in immunology",
+        "authors": [
+          "Li Ma",
+          "Minghong Li",
+          "Raoshan Luo",
+          "Zhilong Huang"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-19T00:00:00.000Z",
+        "activityAt": "2026-11-03T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42973905/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "PD-1/PD-L1抑制剂联合化疗±贝伐珠单抗治疗复发或转移性宫颈癌的疗效与安全性：随机对照试验的系统评价与Meta分析",
+          "researchQuestion": "在复发或转移性宫颈癌中，PD-1/PD-L1抑制剂联合化疗±贝伐珠单抗的疗效和安全性如何？",
+          "studyDesign": "随机对照试验的系统评价与Meta分析。",
+          "populationAndSample": "纳入6项随机对照试验，共2,242例患者；1,131例接受PD-1/PD-L1抑制剂联合化疗±贝伐珠单抗，1,111例接受单纯化疗±贝伐珠单抗。",
+          "methods": "系统检索PubMed、Embase、Web of Science、Cochrane Library、Scopus和ClinicalTrials.gov截至2026年1月14日的随机对照试验；主要结局为总生存期（OS）和无进展生存期（PFS）；风险比（HR）由重建的Kaplan-Meier曲线得出。",
+          "keyResults": "联合方案显著延长中位OS（28.7个月 vs 19.4个月）和中位PFS（12.0个月 vs 8.7个月）。完全缓解、部分缓解、疾病稳定、疾病进展和客观缓解率的合并风险比（RR）分别为1.606（95% CI 1.333-1.936）、1.127（95% CI 0.994-1.277）、0.733（95% CI 0.612-0.878）、0.460（95% CI 0.305-0.695）和1.235（95% CI 1.153-1.322）。任何级别不良事件风险组间无显著差异（RR 0.999，95% CI 0.991-1.008），但联合方案与≥3级不良事件风险增加相关（RR 1.069，95% CI 1.019-1.121）。常见不良反应包括恶心、贫血、便秘、关节痛、中性粒细胞减少、高血压、脱发和周围神经病变。",
+          "limitations": "摘要未报告明确的局限性；合并结果基于6项随机对照试验，HR由重建的Kaplan-Meier曲线得出。",
+          "clinicalInterpretation": "在复发或转移性宫颈癌患者中，加用PD-1/PD-L1抑制剂与OS和PFS改善相关，但≥3级毒性有所增加；这是Meta分析证据，不能直接改写为指南或临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "118e27160fd9bad841d9d7682b8e7c1d94f57f2a4490e7764e38112e4580ca13"
+      },
+      {
+        "id": "pmid:42974227",
+        "pmid": "42974227",
+        "title": "Preimplantation Genetic Testing for Monogenic Disorders: A Health Technology Assessment.",
+        "abstract": "BACKGROUND: Monogenic (or single gene) disorders are caused by 1 or more pathogenic variants in a single gene. Monogenic disorders are inherited and can result in substantial morbidity, disability, and mortality. Preimplantation genetic testing for monogenic disorders (PGT-M) can be used to screen embryos that are created via in vitro fertilization (IVF) for pathogenic variants of interest. We conducted a health technology assessment of IVF with PGT-M among people at risk of transmitting single gene disorders with an evaluation of clinical effectiveness. A report describing a rapid review of the qualitative literature, direct patient engagement, a review of published literature examining ethical considerations relating to PGT, and a rapid review of the obstetrical and neonatal harms of PGT using trophectoderm biopsy has been published separately.\nMETHODS: We performed a systematic literature search of the clinical evidence. We conducted an overview of reviews to describe the body of systematic review evidence. We assessed the quality of each included systematic review using AMSTAR 2 (A Measurement Tool to Assess Systematic Reviews 2).\nRESULTS: We included 4 systematic reviews in the clinical evidence review: 2 were of low quality and 2 were of critically low quality. We did not identify any data evaluating PGT-M with relevant comparators, such as conception (natural or via IVF) with prenatal diagnostic testing. The evidence is very uncertain about the effect of PGT-M on live births, clinical pregnancy, ongoing pregnancy, and pregnancy loss. The reported frequency of false-negative test results appears low, but the evidence is very uncertain. The impact on parental psychological outcomes is unknown. There was no evidence identified on number of IVF cycles to achieve an unaffected embryo or live birth, or parental quality of life.\nCONCLUSIONS: Owing to the current body of noncomparative evidence, the clinical effectiveness of PGT-M is inconclusive.",
+        "journal": "Ontario health technology assessment series",
+        "authors": [
+          "Ontario Health"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-06T00:00:00.000Z",
+        "activityAt": "2026-11-03T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42974227/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 3.75,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "单基因病胚胎植入前遗传学检测：卫生技术评估",
+          "researchQuestion": "对于有传播单基因病风险的人群，体外受精（IVF）联合单基因病胚胎植入前遗传学检测（PGT-M）的临床有效性如何？",
+          "studyDesign": "卫生技术评估，包含系统文献检索和系统评价概览。",
+          "populationAndSample": "评估对象为有传播单基因病风险、接受IVF联合PGT-M的人群；临床证据部分纳入4项系统评价，其中2项低质量、2项极低质量。",
+          "methods": "进行临床证据的系统文献检索；开展系统评价概览以描述系统评价证据体；使用AMSTAR 2评估每项纳入系统评价的质量。",
+          "keyResults": "未发现评估PGT-M与相关对照（如自然受孕或IVF受孕后产前诊断）比较的数据。PGT-M对活产、临床妊娠、持续妊娠和妊娠丢失的影响证据非常不确定。假阴性检测结果的报告频率似乎较低，但证据非常不确定。对父母心理结局的影响未知。未发现关于达到未受累胚胎或活产所需IVF周期数或父母生活质量方面的证据。",
+          "limitations": "当前证据体为非对照证据；纳入的4项系统评价中2项低质量、2项极低质量；缺乏与相关对照比较的数据，证据非常不确定。",
+          "clinicalInterpretation": "由于现有证据为非对照证据，PGT-M的临床有效性尚无定论；摘要未报告可据此形成临床指令的结论。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "475e4a7db0ba3c1266ff0fc40ccaa983d6d4ea77c93c21113929df521659dd4d"
+      },
+      {
+        "id": "pmid:42972911",
+        "pmid": "42972911",
+        "doi": "10.1111/1471-0528.70367",
+        "title": "Placental Histological Lesions in Monochorionic Twins With Selective Fetal Growth Restriction Versus Growth-Restricted Singletons: A Cohort Study.",
+        "abstract": "OBJECTIVE: To determine the prevalence of placental histological lesions in the smaller twin's placental territory in monochorionic (MC) twins complicated by selective fetal growth restriction (sFGR), and compare it to FGR singletons.\nDESIGN: Cohort study with 1:1 comparison.\nSETTING: Leiden University Medical Center, The Netherlands.\nPOPULATION: Forty-four MC twin placentas with sFGR and 44 FGR singleton placentas, histologically evaluated between 2020 and 2025.\nMETHODS: FGR was defined as birthweight < 10th percentile. sFGR was defined as birthweight discordance ≥ 20% between twins and birthweight < 10th percentile for the smaller twin. Placental parenchyma was examined using Amsterdam Consensus Statement criteria for maternal vascular malperfusion (MVM), fetal vascular malperfusion (FVM), and acute and chronic inflammation. Analyses of placental lesions were adjusted for gestational age at diagnosis of (s)FGR.\nMAIN OUTCOME MEASURES: Prevalence of histological lesions.\nRESULTS: Median gestational age at birth was 37.1 weeks (IQR 32.0-38.1) for FGR singletons and 32.3 weeks (IQR 30.1-35.0) for sFGR twins (p < 0.001). FVM was more common in smaller twins than sFGR singletons (45% versus 16%; OR 3.7 (95% CI: 1.0-13.2); p = 0.046), alongside a higher prevalence of abnormal cord insertions (84% versus 21%; p < 0.001). MVM prevalence was similar between smaller twins and FGR singletons (73% versus 75%; OR 0.8 (95% CI: 0.2-2.9); p = 0.779), as was chronic inflammation (27% versus 34%; OR 0.7 (95% CI: 0.2-2.3); p = 0.549).\nCONCLUSIONS: The smaller twin's placental territory in sFGR showed lesions consistent with placental insufficiency, with prevalences of MVM and chronic inflammation comparable to FGR singletons and increased prevalence of FVM. These findings suggest that placental insufficiency may be involved in the pathophysiology of sFGR alongside unequal sharing.",
+        "journal": "BJOG : an international journal of obstetrics and gynaecology",
+        "authors": [
+          "Angélique van Dam",
+          "Anne T R Noll",
+          "Chiara C M M Lap",
+          "E J T Verweij",
+          "Enrico Lopriore",
+          "Femke Slaghekke",
+          "Jeanine M M van Klink",
+          "Jip A Spekman",
+          "Jip A. Spekman, \nSophie G. Groene, \nAnne T. R. Noll, \nFemke Slaghekke, \nChiara C. M. M. Lap, \nAngélique van Dam, \nLiesbeth Lewi, \nLotta Herling, \nE. J. T. Verweij, \nMonique C. Haak, \nJeanine M. M. van Klink, \nEnrico Lopriore, \nLotte E. van der Meeren",
+          "Liesbeth Lewi",
+          "Lotta Herling",
+          "Lotte E van der Meeren",
+          "Monique C Haak",
+          "Sophie G Groene"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-11-03T05:55:28.000Z",
+        "activityAt": "2026-11-03T05:55:28.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42972911/",
+        "sourceKinds": [
+          "journal-rss",
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "选择性胎儿生长受限的单绒毛膜双胎与生长受限单胎的胎盘组织学病变：队列研究",
+          "researchQuestion": "在并发选择性胎儿生长受限（sFGR）的单绒毛膜（MC）双胎中，较小胎儿胎盘区域的胎盘组织学病变患病率如何，并与FGR单胎比较？",
+          "studyDesign": "1:1比较的队列研究。",
+          "populationAndSample": "荷兰Leiden University Medical Center的44例并发sFGR的MC双胎胎盘和44例FGR单胎胎盘，于2020年至2025年间进行组织学评估。",
+          "methods": "FGR定义为出生体重低于第10百分位；sFGR定义为双胎间出生体重不一致≥20%且较小胎儿出生体重低于第10百分位。使用Amsterdam共识声明标准检查胎盘实质，评估母体血管灌注不良（MVM）、胎儿血管灌注不良（FVM）以及急性和慢性炎症。胎盘病变分析针对诊断（s）FGR时的孕周进行调整。",
+          "keyResults": "FGR单胎出生时中位孕周为37.1周（IQR 32.0-38.1），sFGR双胎为32.3周（IQR 30.1-35.0）（p < 0.001）。与FGR单胎相比，较小双胎的FVM更常见（45% vs 16%；OR 3.7，95% CI 1.0-13.2；p = 0.046），异常脐带插入的患病率也更高（84% vs 21%；p < 0.001）。较小双胎与FGR单胎的MVM患病率相似（73% vs 75%；OR 0.8，95% CI 0.2-2.9；p = 0.779），慢性炎症也相似（27% vs 34%；OR 0.7，95% CI 0.2-2.3；p = 0.549）。",
+          "limitations": "摘要未报告明确局限性；本研究为单中心1:1队列，样本量为44对44，且两组出生时中位孕周存在显著差异。",
+          "clinicalInterpretation": "sFGR较小胎儿的胎盘区域显示与胎盘功能不全一致的病变，MVM和慢性炎症患病率与FGR单胎相近，FVM患病率更高；提示除份额不均外，胎盘功能不全可能参与sFGR的病理生理。该研究为观察性比较，不能确立因果关系。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "5cbdd59fc9f747a32621aff092f62690daebc2d628721a7005e38ad530fc5699"
+      },
+      {
+        "id": "pmid:42972107",
+        "pmid": "42972107",
+        "doi": "10.1038/s41591-026-04729-4",
+        "title": "Global, regional and national burden of cervical cancer in 1990-2023 with forecasts to 2050: a Global Burden of Disease study.",
+        "abstract": "Although highly preventable, cervical cancer remains one of the most common malignancies among women worldwide. As part of the Global Burden of Disease study, we estimated cervical cancer incidence, mortality and disability-adjusted life-years (DALYs) across 204 countries and territories from 1990 to 2023, with forecasts to 2050. In 2023, 887,000 new cases (95% uncertainty interval 682,000-1,170,000), 369,000 deaths (292,000-475,000) and 13.3 million DALYs (10.1-17.4) were estimated globally. Age-standardized incidence rate (ASIR) and age-standardized mortality rates (ASMR) were more than four and seven times higher in low- versus high-income countries. Between 1990 and 2023, global ASIR was largely stable (-0.4% (-26.6 to 34.7)), whereas ASMR changed by -17.5% (-36.2 to 13.4). All cervical cancer DALYs were attributable to human papillomavirus infection, with tobacco use contributing 5.9% (3.2-9.3) globally. By 2050, global ASIR and ASMR are forecast to change by -12.5% (-25.7 to 3.5) and -9.0% (-21.5 to 6.6) from 2024, yet absolute cases and deaths are forecast to rise by 20.2% (4.6-38.5) and 39.3% (23.6-57.3). ASIR and ASMR are forecast to remain highest in low-income countries. Intensified action is needed to accelerate progress.",
+        "journal": "Nature medicine",
+        "authors": [
+          "GBD 2023 Cervical Cancer Collaborators"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-11-02T00:00:00.000Z",
+        "activityAt": "2026-11-03T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42972107/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "1990-2023年全球、区域和国家宫颈癌负担及2050年预测：全球疾病负担研究",
+          "researchQuestion": "1990年至2023年全球、区域和国家宫颈癌的发病率、死亡率和伤残调整生命年（DALYs）负担如何，至2050年的预测趋势如何？",
+          "studyDesign": "全球疾病负担（GBD）研究，进行负担估计和至2050年的预测。",
+          "populationAndSample": "覆盖204个国家和地区的宫颈癌负担估计；摘要未报告个体样本量。",
+          "methods": "作为全球疾病负担研究的一部分，估计1990年至2023年204个国家和地区的宫颈癌发病率、死亡率和DALYs，并预测至2050年。",
+          "keyResults": "2023年全球估计新发887,000例（95%不确定性区间682,000-1,170,000），死亡369,000例（292,000-475,000），DALYs为1,330万（10.1-17.4百万）。低收入国家与高收入国家相比，年龄标化发病率（ASIR）和年龄标化死亡率（ASMR）分别高4倍以上和7倍以上。1990年至2023年，全球ASIR总体稳定（-0.4%，-26.6至34.7），ASMR变化为-17.5%（-36.2至13.4）。所有宫颈癌DALYs均归因于人乳头瘤病毒感染，烟草使用全球贡献5.9%（3.2-9.3）。到2050年，全球ASIR和ASMR预计较2024年分别变化-12.5%（-25.7至3.5）和-9.0%（-21.5至6.6），但绝对病例数和死亡数预计分别上升20.2%（4.6-38.5）和39.3%（23.6-57.3）。ASIR和ASMR预计仍在低收入国家最高。",
+          "limitations": "摘要未报告明确局限性；2050年数据为预测，并伴有不确定性区间。",
+          "clinicalInterpretation": "宫颈癌全球负担仍然较高，低收入国家的ASIR和ASMR明显更高；预测至2050年年龄标化率下降，但绝对病例和死亡上升。摘要强调需要加强行动以加速进展。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "16f810f731a302bb1924a8fe5563b5b2193ddbc610ca9029b8049e5fcfa22b2d"
+      },
+      {
+        "id": "pmid:42972316",
+        "pmid": "42972316",
+        "doi": "10.1186/s12884-026-09836-1",
+        "title": "Phenotypic characteristics associated with preterm births in the Indian population.",
+        "abstract": "BACKGROUND: Preterm birth (PTB), defined as the birth of an infant before 37 weeks of gestation, poses significant health risks, including increased mortality and long-term disabilities. India stands as a major contributor to global PTB-related mortality, primarily due to its substantial prevalence. The complex temporal relationship among multiple etiological factors makes predicting PTB occurrence challenging. This is further complicated by the diverse PTB phenotypic categories, namely maternal, fetal, placental, parturition, and pathway-to-delivery features, which affect birth outcomes.\nMETHODS: Our study focused on PTB in the Indian population using a comprehensive dataset from the GARBH-Ini cohort. We analyzed 21 variables across maternal, fetal, placental, parturition-related, and other phenotypic categories in the context of Phenotype I (PTB/Non-PTB) and Phenotype II, which classifies PTB based on the pathway to delivery as either Spontaneous Onset of Labor (SOL) or Caregiver-Initiated (CGI). We assessed the prevalence of these phenotypic variables and their co-occurrences using the complete dataset. We applied hierarchical clustering to identify key PTB-associated phenotypic patterns and their impact on neonatal outcomes, including NICU admissions and early neonatal mortality. The optimal number of clusters (K = 20) was selected based on silhouette scores. Clusters with intermediate PTB composition (40-80% PTB, \"grey zone\") were excluded to minimize misclassification and improve interpretability. Additionally, we used one-year follow-up data to examine infant-related phenotypic variables and their distribution across PTB and non-PTB cases.\nRESULTS: We identified key phenotypic variables across maternal, fetal, placental, and parturition categories that significantly influenced PTB outcomes. In SOL cases, fetal (perinatal sepsis, polyhydramnios) and parturition-related (PROM, short cervix, peripartum bleeding) features were significantly associated. In contrast, CGI cases were predominantly associated with maternal complications like illness suggestive of birth asphyxia, hypertension, and hypothyroidism. Placental abnormalities, such as placenta previa, in combination with PROM and short cervix, were notably prevalent in PTB cases, impacting neonatal mortality, NICU admissions, and infant health.\nCONCLUSIONS: Compared with non-PTB births, PTB cases showed higher prevalence of several key phenotypic features, including short cervix (10.84% vs 3.42%), perinatal sepsis (16.58% vs 3.63%), previous PTB among multiparous women (19.21% vs 7.1%), amniotic fluid abnormalities, PROM (21.67% vs 13.3%), and hypertensive disorders including eclampsia (9.52% vs 5.17%) (all P adj < 0.05). Stratified analyses demonstrated that SOL-associated PTB was enriched for short cervix, perinatal sepsis, PROM, and amniotic fluid abnormalities, whereas CGI-associated PTB was primarily linked to pre-eclampsia. PTB was also associated with higher NICU admissions and early neonatal mortality. This detailed PTB phenotyping enables healthcare providers to better monitor and manage high-risk pregnancies, leading to improved maternal and neonatal outcomes.",
+        "journal": "BMC pregnancy and childbirth",
+        "authors": [
+          "Aditi Sadhu",
+          "Alka Singh",
+          "Ayushi",
+          "Dharmendra Sharma",
+          "GARBH-Ini Study Group",
+          "Himanshu Sinha",
+          "Nitya Wadhwa",
+          "Rahul Jain",
+          "Ramachandran Thiruvengadam",
+          "Shambo Basu Thakur",
+          "Shinjini Bhatnagar",
+          "Siddarth Ramji",
+          "Umesh Mehta",
+          "Veerendra P Gadekar"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-18T00:00:00.000Z",
+        "activityAt": "2026-11-03T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42972316/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "印度人群中与早产相关的表型特征",
+          "researchQuestion": "在印度人群中，哪些母体、胎儿、胎盘和分娩相关表型特征与早产（PTB）相关，并按自然临产（SOL）或照护者启动分娩（CGI）分层后有何不同？",
+          "studyDesign": "基于GARBH-Ini队列的观察性表型分析，使用层次聚类。",
+          "populationAndSample": "印度GARBH-Ini队列人群；摘要未报告样本量。分析21个变量，涵盖母体、胎儿、胎盘、分娩相关及其他表型类别；并使用一年随访数据。",
+          "methods": "在表型I（PTB/非PTB）和表型II（按分娩路径分为SOL或CGI）背景下分析21个变量的患病率及共现情况。应用层次聚类识别关键PTB相关表型模式及其对新生儿结局（包括NICU入住和早期新生儿死亡）的影响；根据轮廓系数选择最佳聚类数K=20；排除PTB构成处于40%-80%的“灰色区”聚类以减少错分并提高可解释性。",
+          "keyResults": "与非PTB相比，PTB病例中若干关键表型患病率更高：短宫颈（10.84% vs 3.42%）、围产期脓毒症（16.58% vs 3.63%）、多产妇既往PTB（19.21% vs 7.1%）、羊水异常、胎膜早破（PROM）（21.67% vs 13.3%）以及包括子痫在内的高血压疾病（9.52% vs 5.17%）（所有P adj < 0.05）。SOL相关PTB富集短宫颈、围产期脓毒症、PROM和羊水异常；CGI相关PTB主要与子痫前期相关。SOL病例中，胎儿因素（围产期脓毒症、羊水过多）和分娩相关因素（PROM、短宫颈、围产期出血）显著相关；CGI病例主要与母体并发症相关，如提示出生窒息的疾病、高血压和甲状腺功能减退。胎盘异常如前置胎盘合并PROM和短宫颈在PTB中较常见，并影响新生儿死亡、NICU入住和婴儿健康。PTB还与更高的NICU入住和早期新生儿死亡相关。",
+          "limitations": "摘要未报告明确局限性；样本量未报告，分析为基于GARBH-Ini队列的观察性表型分析，关联不能推断因果。",
+          "clinicalInterpretation": "在印度队列中，PTB与非PTB相比多种母胎及分娩表型更常见，SOL与CGI相关表型不同；这些表型特征有助于高风险妊娠的识别研究，但摘要不支持将其转化为临床干预指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "602b96b45af84fcd631fb0a83db89eb6b8effe172f481537a30333e9df6b297c"
+      }
+    ]
+  }
+}
