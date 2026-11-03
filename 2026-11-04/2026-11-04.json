@@ -7,8 +7,8 @@
   "editor_note": "过去24小时暂无符合质量要求的重要更新。",
   "keywords": [],
   "research": {
-    "generatedAt": "2026-11-03T23:12:35.534Z",
-    "dataAsOf": "2026-11-03T23:12:35.534Z",
+    "generatedAt": "2026-11-03T23:36:48.781Z",
+    "dataAsOf": "2026-11-03T23:36:48.781Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及PD-1/PD-L1抑制剂联合化疗±贝伐珠单抗治疗复发或转移性宫颈癌的疗效与安全性：随机对照试验的系统评价与Meta分析、单基因病胚胎植入前遗传学检测：卫生技术评估、选择性胎儿生长受限的单绒毛膜双胎与生长受限单胎的胎盘组织学病变：队列研究。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
@@ -39,15 +39,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 100,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "PD-1/PD-L1抑制剂联合化疗±贝伐珠单抗治疗复发或转移性宫颈癌的疗效与安全性：随机对照试验的系统评价与Meta分析",
           "researchQuestion": "在复发或转移性宫颈癌中，PD-1/PD-L1抑制剂联合化疗±贝伐珠单抗的疗效和安全性如何？",
@@ -59,7 +50,16 @@
           "clinicalInterpretation": "在复发或转移性宫颈癌患者中，加用PD-1/PD-L1抑制剂与OS和PFS改善相关，但≥3级毒性有所增加；这是Meta分析证据，不能直接改写为指南或临床指令。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "118e27160fd9bad841d9d7682b8e7c1d94f57f2a4490e7764e38112e4580ca13"
+        "summaryInputHash": "118e27160fd9bad841d9d7682b8e7c1d94f57f2a4490e7764e38112e4580ca13",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:42974227",
@@ -83,15 +83,6 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 3.75,
-          "recency": 10,
-          "total": 88.75,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "单基因病胚胎植入前遗传学检测：卫生技术评估",
           "researchQuestion": "对于有传播单基因病风险的人群，体外受精（IVF）联合单基因病胚胎植入前遗传学检测（PGT-M）的临床有效性如何？",
@@ -103,7 +94,16 @@
           "clinicalInterpretation": "由于现有证据为非对照证据，PGT-M的临床有效性尚无定论；摘要未报告可据此形成临床指令的结论。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "475e4a7db0ba3c1266ff0fc40ccaa983d6d4ea77c93c21113929df521659dd4d"
+        "summaryInputHash": "475e4a7db0ba3c1266ff0fc40ccaa983d6d4ea77c93c21113929df521659dd4d",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 3.75,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:42972911",
@@ -141,15 +141,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "选择性胎儿生长受限的单绒毛膜双胎与生长受限单胎的胎盘组织学病变：队列研究",
           "researchQuestion": "在并发选择性胎儿生长受限（sFGR）的单绒毛膜（MC）双胎中，较小胎儿胎盘区域的胎盘组织学病变患病率如何，并与FGR单胎比较？",
@@ -161,7 +152,16 @@
           "clinicalInterpretation": "sFGR较小胎儿的胎盘区域显示与胎盘功能不全一致的病变，MVM和慢性炎症患病率与FGR单胎相近，FVM患病率更高；提示除份额不均外，胎盘功能不全可能参与sFGR的病理生理。该研究为观察性比较，不能确立因果关系。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "5cbdd59fc9f747a32621aff092f62690daebc2d628721a7005e38ad530fc5699"
+        "summaryInputHash": "5cbdd59fc9f747a32621aff092f62690daebc2d628721a7005e38ad530fc5699",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42972107",
@@ -185,15 +185,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "1990-2023年全球、区域和国家宫颈癌负担及2050年预测：全球疾病负担研究",
           "researchQuestion": "1990年至2023年全球、区域和国家宫颈癌的发病率、死亡率和伤残调整生命年（DALYs）负担如何，至2050年的预测趋势如何？",
@@ -205,7 +196,16 @@
           "clinicalInterpretation": "宫颈癌全球负担仍然较高，低收入国家的ASIR和ASMR明显更高；预测至2050年年龄标化率下降，但绝对病例和死亡上升。摘要强调需要加强行动以加速进展。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "16f810f731a302bb1924a8fe5563b5b2193ddbc610ca9029b8049e5fcfa22b2d"
+        "summaryInputHash": "16f810f731a302bb1924a8fe5563b5b2193ddbc610ca9029b8049e5fcfa22b2d",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       },
       {
         "id": "pmid:42972316",
@@ -242,15 +242,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "印度人群中与早产相关的表型特征",
           "researchQuestion": "在印度人群中，哪些母体、胎儿、胎盘和分娩相关表型特征与早产（PTB）相关，并按自然临产（SOL）或照护者启动分娩（CGI）分层后有何不同？",
@@ -262,7 +253,16 @@
           "clinicalInterpretation": "在印度队列中，PTB与非PTB相比多种母胎及分娩表型更常见，SOL与CGI相关表型不同；这些表型特征有助于高风险妊娠的识别研究，但摘要不支持将其转化为临床干预指令。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "602b96b45af84fcd631fb0a83db89eb6b8effe172f481537a30333e9df6b297c"
+        "summaryInputHash": "602b96b45af84fcd631fb0a83db89eb6b8effe172f481537a30333e9df6b297c",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       }
     ]
   }
