@@ -1,0 +1,256 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-11-03T01:31:44.532Z",
+    "dataAsOf": "2026-11-03T01:31:44.532Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及不同剂量艾司氯胺酮联合丙泊酚在宫腔镜手术中的麻醉效能与安全性比较：一项随机双盲对照试验、对初中生开展宫颈癌与HPV疫苗教育的效果评价、纳米比亚女性宫颈癌认知：基层医疗卫生护士的视角。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42968012",
+        "pmid": "42968012",
+        "doi": "10.1186/s12871-026-04119-w",
+        "title": "Comparison of the anaesthetic efficacy and safety of different doses of esketamine combined with propofol in hysteroscopic surgery: a randomised, double-blind controlled trial.",
+        "abstract": "BACKGROUND: Hysteroscopy is increasingly performed under day-surgery total intravenous anaesthesia, but propofol alone provides insufficient analgesia and the routine adjunct of opioids is associated with respiratory depression and emetic complications. Esketamine, the S-enantiomer of ketamine, offers analgesia together with sympathomimetic support and represents a promising opioid-sparing alternative; however, its optimal dose for combination with propofol in this setting has not been firmly established.\nMETHODS: In this prospective, randomised, double-blind, controlled trial, 160 women aged 18-60 years (ASA I-II) scheduled for elective hysteroscopy were assigned to four groups using computer-generated random numbers: K1 (esketamine 0.15 mg/kg), K2 (esketamine 0.3 mg/kg), K3 (esketamine 0.5 mg/kg) or S (sufentanil 0.1 µg/kg). All patients received an induction dose of propofol 1.5 mg/kg followed by maintenance infusion of 4-6 mg·kg⁻¹·h⁻¹. The primary outcomes were postoperative pain (Numeric Rating Scale, NRS) and total intra-operative propofol consumption; secondary outcomes were perioperative haemodynamics, recovery time and adverse events. After exclusion of three patients with major protocol deviation, 157 patients were analysed (K1 = 40, K2 = 38, K3 = 40, S = 39).\nRESULTS: Demographics, surgical and anaesthesia times were comparable between groups. NRS scores at 10 and 30 min post-recovery were significantly lower in groups K2, K3 and S than in group K1 (p < 0.001). Mean arterial pressure at the start of surgery (T2, immediately after the start of surgery) and at the end of surgery (T3) was significantly higher in K1 than in the other three groups (p < 0.001). Total propofol consumption did not differ between groups (p = 0.95). The incidence of intra-operative hypertension was significantly greater in K1 (22.5%) than in K2 (0%), K3 (5.0%) and S (5.1%) (p = 0.002), and the incidence of SpO₂ < 90% was significantly greater in S (20.5%) than in K1 (0%), K2 (5.3%) and K3 (5.0%) (p = 0.004). The incidence of emergence agitation differed among groups, with the highest incidence observed in K3 (10.0%) (p = 0.034).\nCONCLUSIONS: Among the regimens tested, esketamine 0.3 mg/kg combined with propofol 1.5 mg/kg was associated with a favourable balance of analgesia, haemodynamic stability and safety. The 0.15 mg/kg dose was associated with higher postoperative pain scores and a higher incidence of intra-operative hypertension, while 0.5 mg/kg was associated with a higher incidence of agitation and a longer recovery time without additional analgesic benefit at 30 min. All three esketamine doses were associated with a lower incidence of hypoxaemia than the sufentanil regimen.\nCLINICAL REGISTER NUMBER: The trial was registered in the Chinese Clinical Trial Registry (ChiCTR2400092022) with the retrospective registration date 2024/11/07.",
+        "journal": "BMC anesthesiology",
+        "authors": [
+          "Jing Chen",
+          "Juncheng Xiong",
+          "Ruru Li",
+          "Yanya Zheng",
+          "Zhanghuan Chi"
+        ],
+        "publicationTypes": [
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-07-28T00:00:00.000Z",
+        "activityAt": "2026-11-02T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42968012/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "minimally-invasive-surgery"
+        ],
+        "assignedTopicId": "minimally-invasive-surgery",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 7.5,
+          "recency": 10,
+          "total": 91.25,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "不同剂量艾司氯胺酮联合丙泊酚在宫腔镜手术中的麻醉效能与安全性比较：一项随机双盲对照试验",
+          "researchQuestion": "在接受择期宫腔镜手术的女性中，不同剂量艾司氯胺酮（0.15、0.3、0.5 mg/kg）联合丙泊酚，与舒芬太尼（0.1 µg/kg）联合丙泊酚相比，在术后疼痛、术中丙泊酚总用量、围术期血流动力学、恢复时间和不良事件方面有何差异？",
+          "studyDesign": "前瞻性、随机、双盲、对照试验；采用计算机生成的随机数字分为四组。",
+          "populationAndSample": "160名18–60岁、ASA I–II级、拟行择期宫腔镜手术的女性被随机分组；排除3例重大方案偏离后，157例纳入分析（K1=40，K2=38，K3=40，S=39）。",
+          "methods": "分为K1组（艾司氯胺酮0.15 mg/kg）、K2组（0.3 mg/kg）、K3组（0.5 mg/kg）和S组（舒芬太尼0.1 µg/kg）。所有患者均接受丙泊酚1.5 mg/kg诱导，随后以4–6 mg·kg⁻¹·h⁻¹维持输注。主要结局为术后疼痛（数字评分量表NRS）和术中丙泊酚总用量；次要结局为围术期血流动力学、恢复时间及不良事件。",
+          "keyResults": "各组人口学特征、手术时间和麻醉时间相当。恢复后10分钟和30分钟的NRS评分在K2、K3和S组均显著低于K1组（p < 0.001）。手术开始时（T2，即手术开始后即刻）及手术结束时（T3）的平均动脉压，K1组显著高于其他三组（p < 0.001）。丙泊酚总用量组间无差异（p = 0.95）。术中高血压发生率K1组（22.5%）显著高于K2组（0%）、K3组（5.0%）和S组（5.1%）（p = 0.002）；SpO₂ < 90%的发生率S组（20.5%）显著高于K1组（0%）、K2组（5.3%）和K3组（5.0%）（p = 0.004）。各组苏醒期躁动发生率存在差异，K3组最高（10.0%）（p = 0.034）。",
+          "limitations": "摘要未报告研究局限性；作者在结论中提到，0.5 mg/kg组恢复时间更长且30分钟时无额外镇痛获益，该结果来自单中心（摘要未报告中心数量）的样本量为157例的分析。",
+          "clinicalInterpretation": "在所测试的方案中，艾司氯胺酮0.3 mg/kg联合丙泊酚1.5 mg/kg在镇痛、血流动力学稳定性和安全性之间呈现较好的平衡；0.15 mg/kg与更高的术后疼痛评分和更高的术中高血压发生率相关，0.5 mg/kg与更高的躁动发生率和更长的恢复时间相关，且30分钟时无额外镇痛获益；三种艾司氯胺酮剂量均与低于舒芬太尼方案的低氧血症发生率相关。上述为单项随机试验的观察结果，摘要未报告将其作为指南或常规用药建议。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "266512d0937050446fb51a3128ae7c0899858d75eb764b5c076f83e99cb85e18"
+      },
+      {
+        "id": "pmid:42968307",
+        "pmid": "42968307",
+        "doi": "10.1248/yakushi.26-00118",
+        "title": "[Evaluation of the Educational Effects of Cervical Cancer and HPV Vaccine Education for Junior High School Students].",
+        "abstract": "BACKGROUND: In Japan, human papillomavirus (HPV) vaccination rates declined markedly after the suspension of proactive governmental recommendation in 2013. Reports on school pharmacist-led cervical cancer and HPV vaccination education remain limited. This study evaluated the effects of lectures on cervical cancer and HPV vaccination delivered by school pharmacists to junior high school students on knowledge, awareness, and willingness to receive HPV vaccination.\nMETHODS: A before-after study was conducted among students from four public junior high schools in Shinagawa City, Tokyo, Japan. School pharmacists delivered a 45-min lecture, and anonymous questionnaire surveys were conducted before and after the lecture. Changes before and after the lecture were analyzed using McNemar's test, and factors associated with willingness to receive HPV vaccination were examined using multivariable logistic regression analysis.\nRESULTS: A total of 216 students were included in the analysis. After the lecture, knowledge and awareness regarding cervical cancer, HPV, and HPV vaccination significantly improved (all p<0.001). In addition, the proportion of students who answered that they \"wanted to receive the HPV vaccine\" significantly increased from 16.7 to 45.8% (p<0.001). Multivariable analysis showed that pre-lecture interest in cervical cancer, post-lecture knowledge regarding the HPV vaccine, interest in the lecture, and changes in impressions toward vaccines were significantly associated with willingness to receive HPV vaccination.\nCONCLUSIONS: Educational interventions delivered by school pharmacists may contribute to improving knowledge and awareness among junior high school students and increasing willingness to receive HPV vaccination.",
+        "journal": "Yakugaku zasshi : Journal of the Pharmaceutical Society of Japan",
+        "authors": [
+          "Asuka Ozaki",
+          "Manaka Kawakami",
+          "Mayumi Kikuchi",
+          "Miyu Hirata",
+          "Nobuyuki Wakui",
+          "Shunnsuke Sirozu",
+          "Yuna Hirota"
+        ],
+        "publicationTypes": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "publishedAt": "2026-01-01T00:00:00.000Z",
+        "activityAt": "2026-11-02T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42968307/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "对初中生开展宫颈癌与HPV疫苗教育的效果评价",
+          "researchQuestion": "由学校药剂师开展的宫颈癌和HPV疫苗接种讲座，对初中生的知识、认知及HPV疫苗接种意愿有何影响？哪些因素与接种意愿相关？",
+          "studyDesign": "前后对照研究（讲座前、讲座后匿名问卷调查）。",
+          "populationAndSample": "日本东京都品川区四所公立初中的学生，共216名学生纳入分析。",
+          "methods": "学校药剂师讲授45分钟课程；讲课前后进行匿名问卷调查。采用McNemar检验分析讲课前后变化，并采用多因素logistic回归分析与HPV疫苗接种意愿相关的因素。",
+          "keyResults": "讲座后，学生对宫颈癌、HPV及HPV疫苗的知识和认知显著改善（均p<0.001）。回答“想接种HPV疫苗”的学生比例由16.7%显著升至45.8%（p<0.001）。多因素分析显示，讲座前对宫颈癌的兴趣、讲座后对HPV疫苗的知识、对讲座的兴趣以及疫苗印象的改变与接种意愿显著相关。",
+          "limitations": "摘要未报告研究局限性；研究为讲座前后对比设计，摘要未描述对照组、长期随访或实际接种行为数据。",
+          "clinicalInterpretation": "由学校药剂师实施的教育干预可能与初中生知识、认知水平提高以及HPV疫苗接种意愿增加相关；本研究为前后对照设计，相关性不等同于因果效应，也非指南性建议。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "5aa483e83d07087f4597d18e1c672576662b461bfd6c3dcd077b37d3898fc04a"
+      },
+      {
+        "id": "pmid:42968590",
+        "pmid": "42968590",
+        "doi": "10.29063/ajrh2026/v30i20.3",
+        "title": "Cervical cancer awareness among Namibian women: Perspectives of primary healthcare nurses.",
+        "abstract": "Cervical cancer remains a major public health concern in sub-Saharan Africa, particularly in Namibia, where high rates of HIV and HPV infections and early sexual activity increase its prevalence. Limited awareness of cervical cancer among Namibian women contributes significantly to delayed screening and treatment, reducing the likelihood of successful outcomes. This qualitative study explored the perceptions and experiences of 73 professional nurses purposively selected from public primary healthcare facilities across Namibia's fourteen regions. Data were collected through focus group discussions and analysed thematically, with an independent coder to ensure rigor. Findings revealed a substantial lack of awareness among women, highlighting the need for nurses to lead educational initiatives. The study advocates empowering nurses to strengthen patient-nurse relationships and implement community-based awareness programs, including media outreach to isolated populations. It contributes to public health knowledge by emphasizing strategies to promote prevention, early diagnosis, and improved cervical cancer outcomes in Namibia.",
+        "journal": "African journal of reproductive health",
+        "authors": [
+          "Charlené Downing",
+          "Teopolina N Nashandi"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-11-02T00:00:00.000Z",
+        "activityAt": "2026-11-02T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42968590/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "纳米比亚女性宫颈癌认知：基层医疗卫生护士的视角",
+          "researchQuestion": "纳米比亚基层医疗卫生机构的专业护士如何看待和体验当地女性对宫颈癌的认知状况及相关教育需求？",
+          "studyDesign": "质性研究，采用焦点小组讨论与主题分析。",
+          "populationAndSample": "从纳米比亚14个地区公立基层医疗卫生机构中目的性抽样的73名专业护士。",
+          "methods": "通过焦点小组讨论收集资料，进行主题分析，并由独立编码员参与以保证严谨性。",
+          "keyResults": "研究发现当地女性对宫颈癌存在明显的认知不足，提示需要由护士主导开展教育活动；研究倡导增强护士能力、强化护患关系，并实施社区为基础的认知提升项目，包括针对偏远人群的媒体宣传。",
+          "limitations": "摘要未报告研究局限性；摘要未报告样本量之外的定量结果、讨论场次或随访信息。",
+          "clinicalInterpretation": "护士视角提示纳米比亚女性宫颈癌认知不足，并强调了护士主导的社区教育、护患关系强化及媒体宣传在促进预防、早期诊断方面的潜在作用；该结果为质性研究中的认知与经验描述，摘要未报告可推广的因果结论或指南建议。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "6fd43d70cd2e129c4cc7e39852513cb5ffc88f42bb17beac2f691605f49e6a9d"
+      },
+      {
+        "id": "pmid:42968609",
+        "pmid": "42968609",
+        "doi": "10.29063/ajrh2026/v30i20.5",
+        "title": "Diagnostic and clinical value of the HALP (hemoglobin, albumin, lymphocyte, and platelet) score in preeclampsia.",
+        "abstract": "Preeclampsia (PE) is a leading cause of maternal morbidity, linked to systemic inflammation and nutritional imbalance. The hemoglobin, albumin, lymphocyte, and platelet (HALP) score, an immune-nutritional index, was assessed in PE. A retrospective case-control study included non-pregnant healthy women (NonP), healthy pregnant women (HP), and women with PE. HALP was calculated and compared across groups. Correlations, principal component analysis (PCA), regression, and ROC analysis were performed. HALP was significantly lower in PE than HP and NonP (p < 0.001), with the steepest decline in women >36 years. HALP correlated positively with lymphocytes, albumin, and hemoglobin, but negatively with neutrophils and WBCs. PCA highlighted albumin and lymphocytes, while regression identified WBCs as an independent predictor. ROC analysis showed good discrimination for NonP vs PE (AUC = 0.764). HALP is reduced in PE and may serve as a simple, accessible biomarker for risk stratification. La prééclampsie (PE) est une cause majeure de morbidité maternelle, associée à une inflammation systémique et à un déséquilibre nutritionnel. Le score HALP (hémoglobine, albumine, lymphocytes et plaquettes) — un indice immuno-nutritionnel — a été évalué dans le contexte de la PE. Une étude cas-témoins rétrospective a inclus des femmes non enceintes en bonne santé (groupe NonP), des femmes enceintes en bonne santé (groupe HP) et des femmes atteintes de PE. Le score HALP a été calculé et comparé entre les groupes. Des analyses de corrélation, une analyse en composantes principales (ACP), des analyses de régression et une analyse par courbe ROC ont été réalisées. Le score HALP était significativement plus faible chez les femmes atteintes de PE que chez celles des groupes HP et NonP (p < 0,001), la baisse la plus marquée étant observée chez les femmes de plus de 36 ans. Le score HALP présentait une corrélation positive avec les lymphocytes, l'albumine et l'hémoglobine, mais une corrélation négative avec les neutrophiles et les globules blancs. L'ACP a mis en évidence le rôle de l'albumine et des lymphocytes, tandis que l'analyse de régression a identifié les globules blancs comme un facteur prédictif indépendant. L'analyse par courbe ROC a montré une bonne capacité de discrimination entre les groupes NonP et PE (AUC = 0,764). Le score HALP est diminué en cas de PE et pourrait constituer un biomarqueur simple et accessible pour la stratification du risque.",
+        "journal": "African journal of reproductive health",
+        "authors": [
+          "Ayed A Dera"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-11-02T00:00:00.000Z",
+        "activityAt": "2026-11-02T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42968609/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "HALP（血红蛋白、白蛋白、淋巴细胞和血小板）评分在子痫前期中的诊断与临床价值",
+          "researchQuestion": "免疫营养学指标HALP评分在子痫前期女性中与健康非孕女性和健康孕妇相比有何差异，及其与临床指标和风险分层的关联？",
+          "studyDesign": "回顾性病例对照研究。",
+          "populationAndSample": "纳入健康非孕女性（NonP）、健康孕妇（HP）和子痫前期女性（PE）；摘要未报告各组具体样本量。",
+          "methods": "计算并比较各组HALP评分；进行相关性分析、主成分分析（PCA）、回归分析及ROC曲线分析。",
+          "keyResults": "HALP在PE组显著低于HP组和NonP组（p < 0.001），在>36岁女性中下降最明显。HALP与淋巴细胞、白蛋白和血红蛋白呈正相关，与中性粒细胞和白细胞呈负相关。PCA突出白蛋白和淋巴细胞的作用，回归分析显示白细胞为独立预测因素。ROC分析显示对NonP与PE的区分能力良好（AUC = 0.764）。",
+          "limitations": "摘要未报告研究局限性；为回顾性病例对照设计，摘要未报告各组样本量、单中心或多中心来源及混杂因素调整细节。",
+          "clinicalInterpretation": "子痫前期女性HALP评分降低，提示其可能作为一种简便、易获取的生物标志物用于风险分层；该结果为回顾性观察性关联，摘要未报告其可用于诊断确诊或指导临床决策。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "20c7c9c4145140e517ed56a3487c9eb289591a6ddbe45d18bd24b0ee41e656df"
+      },
+      {
+        "id": "pmid:42968616",
+        "pmid": "42968616",
+        "doi": "10.1002/cam4.72468",
+        "title": "Mechanistic Study of GSDME and CXCL10 in SUV39H1-Mediated Pyroptosis and Immune Suppression in Cervical Cancer.",
+        "abstract": "Cervical cancer (CC) remains a major global health challenge characterized by high incidence and mortality. The histone methyltransferase suppressor of variegation 3-9 homolog 1 (SUV39H1) has emerged as a key epigenetic regulator in tumor progression, but its role in modulating pyroptosis and remodeling of the immune microenvironment in CC remains unclear. In this study, we demonstrate that SUV39H1 promotes CC progression through dual epigenetic regulation, specifically repression of gasdermin E (GSDME) and activation of chemokine (C-X-C motif) ligand 10 (CXCL10). Overexpression of SUV39H1 in HeLa and SiHa cells enhanced histone 3 lysine 9 tri methylation (H3K9me3) deposition at the DFNA5 (GSDME) promoter, resulting in reduced transcription and suppressed GSDME-dependent pyroptosis-like cell death. Interestingly, it also upregulated CXCL10 expression. Functional assays confirmed that SUV39H1 attenuated GSDME-mediated pyroptosis-like cell death and enhanced cell migration via induction of epithelial-mesenchymal transition (EMT). Moreover, SUV39H1 drives CXCL10 secretion, which activates the chemokine (C-X-C motif) receptor 3 (CXCR3) signaling axis in macrophages and upregulates immunosuppressive molecules including programmed death ligand 1 (PD-L1), T cell immunoglobulin and mucin-domain containing-3 (Tim-3), and secreted phosphoprotein 1 (SPP1), thereby fostering an immunosuppressive tumor microenvironment (TME), and these effects appear parallel to GSDME suppression. Collectively, these findings reveal a multifaceted oncogenic role of SUV39H1 in CC, highlighting its potential as a therapeutic target for epigenetic and immunomodulatory intervention.",
+        "journal": "Cancer medicine",
+        "authors": [
+          "Dongge Cai",
+          "Li Zhang",
+          "Peiting Sheng",
+          "Xiaoling Wu",
+          "Yan'e Gao",
+          "Ziyue Zhao"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-11-01T00:00:00.000Z",
+        "activityAt": "2026-11-02T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42968616/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "GSDME与CXCL10在SUV39H1介导的宫颈癌焦亡与免疫抑制中的机制研究",
+          "researchQuestion": "组蛋白甲基转移酶SUV39H1如何通过表观遗传调控GSDME和CXCL10，影响宫颈癌细胞的焦亡样细胞死亡、迁移及肿瘤免疫微环境？",
+          "studyDesign": "体外机制研究（细胞实验）。",
+          "populationAndSample": "HeLa和SiHa宫颈癌细胞系及巨噬细胞；摘要未报告动物模型或患者样本。",
+          "methods": "在HeLa和SiHa细胞中过表达SUV39H1，检测DFNA5（GSDME）启动子区H3K9me3沉积、GSDME转录与焦亡样细胞死亡、CXCL10表达与分泌、上皮-间质转化（EMT）相关迁移，以及巨噬细胞CXCR3信号轴和免疫抑制分子（PD-L1、Tim-3、SPP1）表达。",
+          "keyResults": "SUV39H1过表达增加了DFNA5（GSDME）启动子区的H3K9me3沉积，导致转录减少并抑制GSDME依赖的焦亡样细胞死亡；同时上调CXCL10表达。功能实验证实SUV39H1减弱GSDME介导的焦亡样细胞死亡，并通过诱导EMT增强细胞迁移。SUV39H1促进CXCL10分泌，后者激活巨噬细胞CXCR3信号轴并上调PD-L1、Tim-3和SPP1等免疫抑制分子，从而促进免疫抑制性肿瘤微环境；这些效应与GSDME抑制似乎平行。",
+          "limitations": "摘要未报告研究局限性；结果为细胞系体外实验，摘要未报告体内模型或临床样本验证。",
+          "clinicalInterpretation": "研究提示SUV39H1在宫颈癌中具有多方面的致癌作用，涉及GSDME抑制与CXCL10介导的免疫抑制微环境，提示其作为表观遗传与免疫调节干预靶点的潜在价值；上述为机制性体外研究结论，摘要未报告临床疗效或指南性应用。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "02675150d32baee9bf6508c9b847bee2babb89ea1fcfbd3b42e50c1d1cd69218"
+      }
+    ]
+  }
+}
