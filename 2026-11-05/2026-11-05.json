@@ -1,0 +1,271 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-11-05T00:29:49.557Z",
+    "dataAsOf": "2026-11-05T00:29:49.557Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及甲状腺自身免疫/甲状腺球蛋白抗体与卵巢储备功能减退之间的双向关联：观察性研究的系统综述与荟萃分析、肯尼亚妊娠期糖尿病服务利用的障碍与促进因素：女性与医护人员视角的定性分析、PAOLA-1/ENGOT-ov25试验的经济学评价：卵巢癌成本及奥拉帕利联合贝伐珠单抗一线维持治疗的成本效果。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42978857",
+        "pmid": "42978857",
+        "doi": "10.3389/frph.2026.1958811",
+        "title": "Bidirectional association between thyroid autoimmunity/thyroglobulin antibody and diminished ovarian reserve: a systematic review and meta-analysis of observational studies.",
+        "abstract": "BACKGROUND: Evidence suggests that thyroid autoimmunity (TAI) may be associated with ovarian dysfunction; however, most studies have focused primarily on thyroid peroxidase antibodies (TPOAb), while evidence regarding thyroglobulin antibodies (TgAb) remains limited and inconsistent. This study aimed to evaluate the association between TAI/TgAb and ovarian reserve.\nMETHODS: A systematic literature search was conducted in PubMed, Embase, Web of Science, CNKI databases for Chinese- and English-language articles published from January 2014 to January 2025. A bidirectional validation design was employed: (1) forward analysis, quantifying between-group differences in serum anti-Müllerian hormone (AMH) levels between TAI-positive women and healthy controls using standardized mean differences (SMD); and (2) reverse analysis, quantifying differences in TgAb levels (SMD for continuous variables) and TgAb positivity rates (odds ratios OR for dichotomous variables) between women with diminished ovarian reserve (DOR) and healthy controls. This study was prospectively registered with PROSPERO (CRD420251207428) and conducted in accordance with the PRISMA 2020 guidelines. The reverse analysis denotes a reverse-direction cross-sectional comparison in which the grouping and outcome variables are exchanged; it does not imply temporal or causal reversal.\nRESULTS: Thirteen studies (total n = 4,286) were included. Forward analysis (4 studies, n = 870) demonstrated significantly lower serum AMH levels in TAI-positive women compared with controls (SMD=-0.20, 95% CI [-0.34, -0.06], P = 0.005, I 2 = 0%). Reverse analysis of continuous variables (5 studies, n = 1,496) revealed significantly elevated TgAb levels in women with DOR compared with controls (SMD=0.93, 95% CI [0.36, 1.50], P = 0.001, I 2 = 94%); however, this estimate should be interpreted with caution given the substantial heterogeneity. Reverse analysis of dichotomous variables (7 studies, n = 2,568) confirmed that women with DOR had significantly higher odds of TgAb positivity compared with controls (OR=1.65, 95% CI [1.29, 2.11], P < 0.0001, I 2 = 32%).\nCONCLUSIONS: A significant bidirectional association exists between diminished ovarian reserve and TgAb/TAI positivity. TAI may impair ovarian reserve, while women with ovarian insufficiency exhibit a higher burden of thyroglobulin autoantibodies. These findings highlight the clinical importance of TgAb screening in the evaluation of ovarian function among reproductive-age women.\nSYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/view/CRD420251207428, identifier CRD420251207428.",
+        "journal": "Frontiers in reproductive health",
+        "authors": [
+          "Huawei Wang",
+          "Jingjing Wang",
+          "Sini Yang",
+          "Yuru Ma"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-20T00:00:00.000Z",
+        "activityAt": "2026-11-04T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42978857/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "甲状腺自身免疫/甲状腺球蛋白抗体与卵巢储备功能减退之间的双向关联：观察性研究的系统综述与荟萃分析",
+          "researchQuestion": "评估甲状腺自身免疫（TAI）/甲状腺球蛋白抗体（TgAb）与卵巢储备之间的关联；并分别从TAI阳性女性抗苗勒管激素（AMH）差异及卵巢储备功能减退（DOR）女性TgAb水平/阳性率两个方向进行双向验证。",
+          "studyDesign": "观察性研究的系统综述与荟萃分析；采用双向验证设计（正向分析和反向分析），前瞻性PROSPERO注册（CRD420251207428），按PRISMA 2020进行。",
+          "populationAndSample": "共纳入13项研究、总n=4,286。正向分析4项研究、n=870；反向连续变量分析5项研究、n=1,496；反向二分类变量分析7项研究、n=2,568。",
+          "methods": "检索PubMed、Embase、Web of Science、CNKI，纳入2014年1月至2025年1月发表的中英文文献。正向分析用标准化均数差（SMD）量化TAI阳性女性与健康对照的血清AMH组间差异；反向分析用SMD量化DOR女性与对照的TgAb水平差异，用比值比（OR）量化TgAb阳性率差异。",
+          "keyResults": "正向分析显示TAI阳性女性血清AMH显著低于对照（SMD=-0.20，95%CI -0.34至-0.06，P=0.005，I²=0%）。反向连续变量分析显示DOR女性TgAb水平显著高于对照（SMD=0.93，95%CI 0.36至1.50，P=0.001，I²=94%），但异质性很高需谨慎解释。反向二分类分析显示DOR女性TgAb阳性几率显著高于对照（OR=1.65，95%CI 1.29至2.11，P<0.0001，I²=32%）。",
+          "limitations": "摘要指出反向连续变量分析存在很高异质性（I²=94%），该估计需谨慎解释；纳入研究均为观察性研究，不能据此推断因果。其他局限性摘要未报告。",
+          "clinicalInterpretation": "作者认为DOR与TgAb/TAI阳性之间存在显著双向关联，并提示在育龄女性卵巢功能评估中关注TgAb筛查；这属于观察性证据和作者观点，不能改写为筛查指南或临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "e2c988a5a31279ba4a8041d24537ea9db08b93ceff45cfd7cbe0e6de542e4eff"
+      },
+      {
+        "id": "pmid:42977971",
+        "pmid": "42977971",
+        "doi": "10.1186/s12913-026-15981-2",
+        "title": "Barriers to and facilitators of gestational diabetes mellitus service utilization in Kenya: a qualitative analysis of women's and healthcare workers' perspectives.",
+        "abstract": "BACKGROUND: Gestational diabetes mellitus (GDM) is a growing global public health concern, particularly in low- and middle-income countries such as Kenya. Despite rising prevalence and associated maternal and neonatal risks, timely diagnosis and comprehensive GDM care remain limited by systemic, socioeconomic, and cultural barriers. This study identified barriers and facilitators influencing GDM care provision and utilization in Kisumu County, Kenya, from the perspectives of healthcare workers (HCWs) and women affected by GDM.\nMETHODS: A qualitative content analysis combined semistructured interviews and structured surveys. Participants were purposively sampled from two healthcare facilities in Kisumu County: Jaramogi Oginga Odinga Teaching and Referral Hospital and Kisumu Specialists Hospital. Interviews involved eight HCWs and two women diagnosed with GDM, and surveys were administered to eleven women with a history of GDM. Data collection instruments, developed from the health needs assessment and knowledge, attitude, and behaviour frameworks, were validated by an expert panel from Kenya and Germany. Thematic analysis identified key barriers to and facilitators of GDM care.\nRESULTS: Stakeholders highlighted systemic gaps and resource constraints affecting GDM care, including high costs, inadequate insurance, supply shortages, and poor infrastructure, which especially affected rural and low-income women. Barriers including financial burden, distance, inconsistent protocols, communication gaps, and negative patient-provider relationships hindered access and adherence. Facilitators included family and social support, health worker education and follow-up, and self-management through dietary counseling, monitoring, and lifestyle changes. All groups advocated universal screening, expanded insurance, community outreach, and better education to strengthen GDM care and improve outcomes.\nCONCLUSIONS: GDM care provision and utilization in Kenya are shaped by multilevel barriers spanning individual, systemic, and cultural domains. Addressing them requires targeted interventions, including enhanced HCW training, greater community awareness, and strengthened health system infrastructure. Integrating GDM services into existing maternal health programmes is essential to improving outcomes for women and their infants in resource-constrained settings.",
+        "journal": "BMC health services research",
+        "authors": [
+          "Angela Obongo",
+          "Hannah Eger",
+          "Jacob Spallek",
+          "Marie Tallarek"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-31T00:00:00.000Z",
+        "activityAt": "2026-11-04T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42977971/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "肯尼亚妊娠期糖尿病服务利用的障碍与促进因素：女性与医护人员视角的定性分析",
+          "researchQuestion": "从医护人员和妊娠期糖尿病（GDM）女性视角，识别肯尼亚Kisumu County妊娠期糖尿病照护提供与利用的障碍和促进因素。",
+          "studyDesign": "定性内容分析，结合半结构式访谈和结构化调查；采用主题分析。",
+          "populationAndSample": "目的抽样自Kisumu County两家机构：Jaramogi Oginga Odinga Teaching and Referral Hospital和Kisumu Specialists Hospital。访谈8名医护人员和2名确诊GDM女性；对11名有GDM史女性实施调查。",
+          "methods": "半结构式访谈加结构化调查；研究工具基于健康需求评估及知识、态度、行为框架开发，由肯尼亚和德国专家小组验证；用主题分析识别GDM照护障碍与促进因素。",
+          "keyResults": "利益相关者指出影响GDM照护的系统性缺口和资源限制：高费用、保险不足、供应短缺、基础设施差，对农村和低收入女性影响尤为明显。障碍包括经济负担、距离、方案不一致、沟通缺口和负面医患关系，影响可及性和依从性。促进因素包括家庭和社会支持、医护人员教育和随访、通过饮食咨询、监测和生活方式改变进行自我管理。所有群体均主张普遍筛查、扩大保险、社区外展和更好教育以加强GDM照护并改善结局。",
+          "limitations": "摘要未明确报告局限性。样本来自两家机构的目的抽样，访谈仅8名医护人员和2名GDM女性，调查11名有GDM史女性，解读需结合样本范围。",
+          "clinicalInterpretation": "作者认为肯尼亚GDM照护提供与利用受个体、系统和文化多层面障碍影响；建议加强医护人员培训、社区意识和卫生系统基础设施，并将GDM服务整合进现有孕产妇保健规划。上述为定性研究结论，不等同于指南或临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "38ec03df888591fbaad70fd99094ca9fa5d88d29cdd0a4a2565ab7494c59fd68"
+      },
+      {
+        "id": "pmid:42977994",
+        "pmid": "42977994",
+        "doi": "10.1186/s12962-026-00810-4",
+        "title": "Economic evaluation alongside the PAOLA-1 /ENGOT-ov25 trial: cost of ovarian cancer and cost-effectiveness of olaparib plus bevacizumab first-line maintenance.",
+        "abstract": "OBJECTIVES: The PAOLA-1 trial randomized 806 patients with newly diagnosed advanced ovarian cancer to olaparib plus bevacizumab or placebo plus bevacizumab and demonstrated a progression-free survival (PFS) and overall survival (OS) benefit when maintenance olaparib was added to bevacizumab in patients with a positive tumor homologous recombination deficiency (HRD) test. We conducted an economic evaluation based on patient-level data from the PAOLA-1 trial.\nMETHODS: Costs were assessed from the French health care system perspective with a 60-month time horizon. Individual healthcare consumptions were collected from the case report forms. Survival analysis was conducted using restricted mean survival time (RMST). Health-related quality of life (HRQoL) was measured using the EQ-5D-5L questionnaire. Costs and HRQoL were discounted at 2.5% rate. Incremental cost-effectiveness ratios (ICERs) were calculated. Sensitivity analyses were performed.\nRESULTS: Mean costs per patient were €90,972 (SD: 55,229) in the ITT population (N = 806) and €96,054 (SD: 56,270) in the HRD-positive population (N = 387). In the latter, mean costs per patient were €109,895 (SD: 49,234) in the olaparib plus bevacizumab group (255/387) and €69,316 (SD: 59,468) in the placebo plus bevacizumab group (132/387). Mean Progression-free survival (PFS) were 3.375 (SD: 0.108) and 2.058 (SD: 0.140) years, respectively, leading to an ICER of €30,750 per Progression-free life-year gained (PF-LYG). Mean Overall survival (OS) were 4.208 (SD: 0.080) in the olaparib plus bevacizumab group and 3.875 (SD: 0.124) years in the placebo plus bevacizumab group. ICER was €121,088 per Life-year gained (LYG). Mean quality-adjusted life-year (QALY) were 3,775 (SD: 1,101) and 3,442 (SD: 1,094) years, respectively, leading to an ICER of €121,577 per QALY gained. The probability of olaparib plus bevacizumab being cost-effective was 29.9% at €100,000 level of willingness to pay per LYG and 24.3% per QALY gained.\nCONCLUSIONS: In the HRD-positive population the ICER is exceeding international standards at the usually accepted willingness to pay thresholds. However, it can be considered acceptable in light of the statistical value for QALY that has been calculated in the French setting or based on a threshold amounting to two to three times the gross domestic product (GDP) per capita per QALY gained.\nGOV IDENTIFIER: NCT02477644 (date of registration: 2015-06-18).",
+        "journal": "Cost effectiveness and resource allocation : C/E",
+        "authors": [
+          "Alexandre Burges",
+          "Claire Cropet",
+          "Cyril Abdeddaim",
+          "Isabel Palacio",
+          "Isabelle Durand-Zaleski",
+          "Isabelle Ray-Coquard",
+          "Kevin Zarca",
+          "Lionel Perrier",
+          "Magali Morelle",
+          "Sabrina Chiara Cecere",
+          "Thomas Cadet"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-06T00:00:00.000Z",
+        "activityAt": "2026-11-04T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42977994/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "PAOLA-1/ENGOT-ov25试验的经济学评价：卵巢癌成本及奥拉帕利联合贝伐珠单抗一线维持治疗的成本效果",
+          "researchQuestion": "基于PAOLA-1试验患者水平数据，评估新诊断晚期卵巢癌患者成本，以及奥拉帕利联合贝伐珠单抗一线维持治疗相较安慰剂联合贝伐珠单抗的成本效果。",
+          "studyDesign": "PAOLA-1/ENGOT-ov25随机试验伴随的经济学评价；成本效果分析。",
+          "populationAndSample": "PAOLA-1随机806例新诊断晚期卵巢癌患者；其中HRD阳性387例。ITT人群N=806；HRD阳性人群中奥拉帕利加贝伐珠单抗组255/387，安慰剂加贝伐珠单抗组132/387。",
+          "methods": "从法国医疗系统视角，60个月时间范围；个体医疗消费来自病例报告表；生存分析采用限制平均生存时间（RMST）；健康相关生活质量用EQ-5D-5L测量；成本和HRQoL按2.5%贴现；计算增量成本效果比（ICER）并进行敏感性分析。",
+          "keyResults": "ITT人群每例平均成本€90,972（SD 55,229）；HRD阳性人群€96,054（SD 56,270）。HRD阳性人群中，奥拉帕利加贝伐珠单抗组每例平均成本€109,895（SD 49,234），安慰剂加贝伐珠单抗组€69,316（SD 59,468）。两组平均无进展生存期分别为3.375（SD 0.108）年和2.058（SD 0.140）年，ICER为€30,750/无进展生命年（PF-LYG）。平均总生存期分别为4.208（SD 0.080）年和3.875（SD 0.124）年，ICER为€121,088/生命年（LYG）。平均质量调整生命年分别为3,775（SD 1,101）年和3,442（SD 1,094）年（原文数值），ICER为€121,577/QALY。在每LYG支付意愿€100,000水平下，奥拉帕利加贝伐珠单抗具有成本效果的概率为29.9%；每QALY获得下为24.3%。",
+          "limitations": "摘要未明确报告局限性。该评价基于法国医疗系统视角和60个月时间范围，成本和HRQoL按2.5%贴现，并依赖试验病例报告表数据；外推至其他支付体系需谨慎。",
+          "clinicalInterpretation": "作者认为在HRD阳性人群中，ICER超过通常接受的支付意愿阈值下的国际标准；但结合法国环境下计算的QALY统计价值，或按人均GDP的2至3倍/QALY阈值，可视为可接受。该结论是特定试验和支付体系下的经济学评价，不是治疗指南。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "4d10a548cdd8c4b28fc12eb66d16954f5e51d7a917c3747bf80927625c2b78f3"
+      },
+      {
+        "id": "pmid:42978115",
+        "pmid": "42978115",
+        "doi": "10.1177/15409996261503831",
+        "title": "Perceived Causes of Fertility Challenges and Utilization of Infertility Treatment Modalities: Insights from U.S. Black Women.",
+        "abstract": "INTRODUCTION: To qualitatively explore what Black women themselves perceive as the causes of their fertility challenges and examine the treatment modalities utilized to address infertility.\nMETHODS: The study included 40 Black women aged 25-45 years, with a history of fertility challenges, residing in the United States, who completed the Fertility Equity Study between 2021 and 2023. Participants completed a survey and up to two semi-structured interviews to discuss their fertility journeys and perceived causes of fertility challenges. We examined and synthesized participant perceptions about the causes of their challenges in conceiving or maintaining a pregnancy. Frequencies and percentages were calculated for each common cause of fertility challenges and treatment modalities used.\nRESULTS: Participants described five common perceived causes of their fertility challenges: (1) clinically diagnosed reproductive health conditions ( n = 26; e.g., fibroids, oligospermia); 2) age ( n = 7); (3) unknown causes ( n = 6); (4) structural issues ( n = 4; e.g., limited access to Black donor sperm); and (5) stress ( n = 4). Nearly half of participants ( n = 19) only used medically assisted reproduction (MAR), whereas one-third ( n = 13) had a history of using both MAR and holistic approaches (e.g., herbal teas). None of the participants who only used holistic fertility treatment modalities attributed their fertility challenges to reproductive health conditions.\nCONCLUSIONS: This study reflects the nuanced ways that Black women conceptualize their fertility and the antecedents to fertility challenges. These results reflect the need to integrate holistic and spiritual approaches into fertility care and MAR to appeal to the needs of Black women and families navigating infertility.",
+        "journal": "Journal of women's health (2002)",
+        "authors": [
+          "Aunchalee E L Palmquist",
+          "Chantel L Martin",
+          "Christine Tucker",
+          "Isabel Morgan",
+          "Larissa Jennings Mayo-Wilson",
+          "Lasha S Clarke",
+          "Natalie D Hernandez-Green",
+          "Stephanie Baker"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-11-03T00:00:00.000Z",
+        "activityAt": "2026-11-04T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42978115/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "美国黑人女性对生育困难感知原因及不孕治疗方式利用的见解",
+          "researchQuestion": "定性探讨美国黑人女性自己感知的生育困难原因，并考察其用于应对不孕的治疗方式。",
+          "studyDesign": "定性研究；参与者完成调查和最多两次半结构式访谈；对感知原因及治疗方式计算频数和百分比。",
+          "populationAndSample": "40名25-45岁、有生育困难史、居住在美国的黑人女性；2021-2023年完成Fertility Equity Study。",
+          "methods": "调查和最多两次半结构式访谈，讨论生育历程及感知的生育困难原因；检查并综合参与者对受孕困难或维持妊娠困难原因的看法；对每种常见原因和治疗方式计算频数和百分比。",
+          "keyResults": "参与者报告五类常见感知原因：临床诊断的生殖健康疾病（n=26；如子宫肌瘤、少精症）；年龄（n=7）；原因不明（n=6）；结构性问题（n=4；如获得黑人供精者精子的机会有限）；压力（n=4）。近一半（n=19）仅使用医学辅助生殖（MAR）；三分之一（n=13）曾同时使用MAR和整体疗法（如草药茶）。仅使用整体生育治疗方式的参与者中，无人将生育困难归因于生殖健康疾病。",
+          "limitations": "摘要未明确报告局限性；研究为40名美国黑人女性的定性调查和访谈，结果以频数和百分比描述。",
+          "clinicalInterpretation": "作者认为黑人女性对生育困难及其前因的理解具有细微差异，提示生育照护和MAR需整合整体与灵性方法以回应黑人女性和家庭的需求。该结果为定性研究观点，不构成临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "15a46ed65d4e4aa95e7e4bdfbe204947e6071f15f372a1c3eb0de00871bb4710"
+      },
+      {
+        "id": "pmid:42978568",
+        "pmid": "42978568",
+        "doi": "10.3389/fonc.2026.1933456",
+        "title": "NGAL and traditional biomarkers in cervical cancer: a comparative evaluation using random forest.",
+        "abstract": "INTRODUCTION: Tumor stage and biological aggressiveness have a significant impact on the prognosis of cervical cancer, which is still a serious global health concern.\nMETHODS: This work assesses an exploratory, leakage-free Random Forest model and describes longitudinal NGAL and traditional biomarker patterns in 100 individuals with cervical cancer. Since there was no independent radiologic, pathological, or defined response endpoint in the database, the machine-learning result was specifically characterized as an NGAL-decrease phenotype (post-treatment NGAL < pre-treatment NGAL), not clinical treatment response. All NGAL-derived variables and all post-treatment variables were removed from the predictor set in order to prevent target leakage.\nRESULTS: The mean accuracy using stratified 5-fold cross validation was 43.0% (SD 7.6%) and the mean balanced accuracy was 42.1%, suggesting that there was no discriminative performance that was useful. Greater histological grades and more advanced broad-stage groups had descriptively greater NGAL concentrations.\nDISCUSSION: These results do not prove clinical predictive usefulness; rather, they are hypothesis-generating.",
+        "journal": "Frontiers in oncology",
+        "authors": [
+          "Arta Kameri Jusufi",
+          "Behar Raci",
+          "Burim Sermaxhaj",
+          "Diellor Rizaj",
+          "Gezim Hodolli",
+          "Goran Dimitrov",
+          "Hekuran Sejdiu",
+          "Ilir Kurtishi",
+          "Mentor Kurshumliu",
+          "Snezana Stojkovska",
+          "Violeta Klisarovska"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-20T00:00:00.000Z",
+        "activityAt": "2026-11-04T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42978568/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "宫颈癌中的NGAL与传统生物标志物：基于随机森林的比较评价",
+          "researchQuestion": "在宫颈癌患者中评估NGAL与传统生物标志物的纵向模式，并比较随机森林模型对NGAL下降表型的判别表现。",
+          "studyDesign": "探索性、无泄漏的随机森林建模研究；对100例宫颈癌患者进行纵向NGAL和传统生物标志物模式分析。",
+          "populationAndSample": "100名宫颈癌个体；摘要未报告分期、年龄等详细人口学信息。",
+          "methods": "建立探索性、防泄漏的随机森林模型；因数据库无独立影像学、病理学或定义明确的反应终点，机器学习结果被明确界定为NGAL下降表型（治疗后NGAL<治疗前NGAL），而非临床治疗反应；从预测变量集中移除所有NGAL衍生变量和所有治疗后变量以防目标泄漏；采用分层5折交叉验证。",
+          "keyResults": "分层5折交叉验证平均准确率43.0%（SD 7.6%），平均平衡准确率42.1%，提示无有用判别性能。组织学分级更高和更晚期广泛分期组的NGAL浓度在描述性上更高。",
+          "limitations": "摘要指出该结果不能证明临床预测用途，属于假设生成性研究；数据库缺乏独立影像学、病理学或定义明确的反应终点，机器学习结局仅为NGAL下降表型。其他局限性摘要未报告。",
+          "clinicalInterpretation": "作者认为结果不支持NGAL模型具有临床预测实用性，仅为假设生成；不能据此用于临床决策。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "7cccba1fe6402cf265f620c774d51b5fd663014c3d931f368396f97ebfe32d17"
+      }
+    ]
+  }
+}
