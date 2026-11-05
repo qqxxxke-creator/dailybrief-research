@@ -1,0 +1,290 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-11-05T22:13:16.797Z",
+    "dataAsOf": "2026-11-05T22:13:16.797Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及持续葡萄糖监测与自我血糖监测对妊娠期糖尿病女性血糖控制及母婴结局影响的系统综述与荟萃分析、氯己定阴道准备降低临产妇女急诊剖宫产术后感染的有效性：一项随机对照试验、奥拉帕利联合曲美木单抗治疗胚系BRCA1或BRCA2突变复发性卵巢癌女性：一项I/II期研究。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42983308",
+        "pmid": "42983308",
+        "doi": "10.1186/s12884-026-09769-9",
+        "title": "A systematic review and meta-analysis of the effects of continuous glucose monitoring compared to self-monitoring of blood glucose on glycemic control and maternal and infant outcomes in women with gestational diabetes mellitus.",
+        "abstract": "BACKGROUND: Continuous glucose monitoring (CGM) compared to self-blood glucose monitoring (SMBG) has been a controversial topic regarding glycemic control in pregnant women with gestational diabetes mellitus (GDM), as well as maternal and infant outcomes. The aim of this study was to assess and compare the effectiveness of CGM and SMBG in managing glycemic control and perinatal outcomes among homebound pregnant women with GDM.\nMETHODS: A comprehensive search was conducted across five databases-PubMed, Web of Science, Medline, Embase, and the Cochrane Library-commencing on July 15, 2024. We included four randomized controlled trials (RCTs) that compared CGM with SMBG in patients with GDM. The primary outcomes assessed were gestational weight gain (GWG), glycated hemoglobin(HbA1c), and the number of people treated with hypoglycemic drugs. Participants were excluded if they had received any glucose-lowering medication prior to enrollment. A meta-analysis of interventions on the basis of at least two studies with 95% confidence intervals and an assessment of heterogeneity via the I² statistic were performed.\nRESULTS: The results of the study showed that CGM was significantly associated with a decrease in the number of women with excessive GWG and an increase in the number of GWG-appropriate (RR = 0.57; 95% CI: 0.41, 0.80; I² = 0.0%; P = 0.001), (RR = 1.55; 95% CI: 1.19, 2.03; I² = 0.0%; P = 0.001). However, GWG-insufficiency was not significantly different (RR = 1.03; 95% CI: 0.47, 2.26; I² = 0.0%; P = 0.948). Real-time continuous glucose monitoring (rt-CGM) may offer superior effectiveness in glycemic control management compared with SMBG (SMD=-0.70; 95%CI=-1.07, -0.34; P = 0.000; I 2 = 0.0%), whereas retrospective continuous glucose monitoring (r-CGM) demonstrates greater effectiveness in reducing infant birth weight (SMD=-0.30; 95%CI=-0.54, -0.06; P = 0.018; I 2 = 8.6%). No significant differences were observed in the other perinatal outcomes.\nCONCLUSION: CGM may be more effective than SMBG in preventing excessive weight gain and maintaining appropriate gestational weight in women with GDM. Moreover, rt-CGM appears to offer superior glycemic control compared with SMBG. r-CGM may be more effective in reducing neonatal birth weight.\nTRIAL REGISTRATION: The PROSPERO registration number is CRD42024571538.",
+        "journal": "BMC pregnancy and childbirth",
+        "authors": [
+          "Annuo Liu",
+          "Lin Zheng",
+          "Lulu Zhang",
+          "Peng Wang",
+          "Run Tian"
+        ],
+        "publicationTypes": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-08T00:00:00.000Z",
+        "activityAt": "2026-11-05T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42983308/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "持续葡萄糖监测与自我血糖监测对妊娠期糖尿病女性血糖控制及母婴结局影响的系统综述与荟萃分析",
+          "researchQuestion": "在居家妊娠期糖尿病（GDM）孕妇中，持续葡萄糖监测（CGM）与自我血糖监测（SMBG）相比，对血糖控制以及母婴结局的效果如何？",
+          "studyDesign": "系统综述与荟萃分析，纳入4项比较CGM与SMBG的随机对照试验（RCT）。",
+          "populationAndSample": "居家GDM孕妇；纳入4项RCT；排除入组前已接受任何降糖药物治疗的参与者。",
+          "methods": "检索PubMed、Web of Science、Medline、Embase和Cochrane Library五个数据库，检索起始时间为2024年7月15日。主要结局为妊娠期增重（GWG）、糖化血红蛋白（HbA1c）和接受降糖药物治疗的人数。对至少2项研究可合并的干预进行荟萃分析，报告95%置信区间，并用I²统计量评估异质性。",
+          "keyResults": "CGM与过度GWG人数减少及GWG适宜人数增加显著相关：RR=0.57（95% CI：0.41，0.80；I²=0.0%；P=0.001）和RR=1.55（95% CI：1.19，2.03；I²=0.0%；P=0.001）。GWG不足组间无显著差异：RR=1.03（95% CI：0.47，2.26；I²=0.0%；P=0.948）。实时CGM（rt-CGM）在血糖控制管理方面可能优于SMBG：SMD=-0.70（95% CI：-1.07，-0.34；P=0.000；I²=0.0%）；回顾性CGM（r-CGM）在降低婴儿出生体重方面更有效：SMD=-0.30（95% CI：-0.54，-0.06；P=0.018；I²=8.6%）。其他围产结局未见显著差异。摘要未报告HbA1c和降糖药物治疗人数的具体结果。",
+          "limitations": "摘要未报告明确的局限性。",
+          "clinicalInterpretation": "在对4项RCT的合并分析中，CGM与SMBG相比可能更有效地预防GDM孕妇过度增重并维持适宜的妊娠期增重；rt-CGM可能提供更优的血糖控制，r-CGM可能更有效降低新生儿出生体重。该解读基于荟萃分析结果，并非临床指南或共识。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "85a7087e8a36e69152c513564fb6359386c53c1152c07df3c60d981edb58e1e8"
+      },
+      {
+        "id": "pmid:42983692",
+        "pmid": "42983692",
+        "doi": "10.1186/s12884-026-10027-1",
+        "title": "Efficacy of chlorhexidine vaginal preparation in reducing postoperative infections during emergency cesarean deliveries for women in labor: a randomized controlled trial.",
+        "abstract": "BACKGROUND: Postoperative infections are a leading cause of maternal morbidity after emergency cesarean delivery. This trial explores the effectiveness of preoperative vaginal cleansing via the use of chlorhexidine for reducing these complications in women in labor.\nMETHODS: This single-blinded superiority randomized controlled trial included 840 women in labor equally distributed to either immediate preoperative chlorhexidine gluconate 0.05% vaginal cleansing or no-cleansing; 826 were analyzed under a modified intention-to-treat approach. The co-primary outcomes were postcesarean endometritis and surgical site infection (SSI). Secondary outcomes included composite wound complications, postoperative fever, significant leukocytosis, hospital readmission, length of stay, and adverse drug reactions. Effects are expressed as risk ratios (RR) with 95% confidence intervals, with adjusted, sensitivity, and subgroup analyses for the co-primary outcomes.\nRESULTS: Chlorhexidine significantly reduced both co-primary outcomes; postcesarean endometritis (1.9% vs. 6.3%; RR 0.303, 95% CI 0.139-0.662; P = 0.001) and SSI (1.4% vs. 5.4%; RR 0.269, 95% CI 0.110-0.656; P = 0.002); both remained significant against a Bonferroni-adjusted threshold of 0.025. Other outcomes were also reduced, including composite wound complications (3.4% vs. 11.0%; RR 0.307, 95% CI 0.171-0.550; P < 0.001), and readmission for infection (1.4% vs. 6.3%; P < 0.001; RR 0.227, 95% CI 0.095-0.547). The co-primary outcome effects persisted after adjustment and in sensitivity analyses. Treatment effects were in the same direction across premature rupture of membranes (PROM) and obesity subgroups with no significant interaction, although the SSI reduction reached significance overall and in the non-obese stratum but not within the obese stratum.\nCONCLUSION: In this single-center trial, preoperative chlorhexidine vaginal cleansing produced lower rates of postcesarean endometritis and SSI and of related infectious morbidity. As a low-cost intervention that can be integrated into existing perioperative workflows, it is a promising strategy for reducing maternal infection; however, adverse events were not systematically solicited, and neonatal exposure was not assessed. Multicenter confirmation, systematic maternal and neonatal safety data, and cost-effectiveness analysis are required before routine adoption.\nTRIAL REGISTRATION: ClinicalTrials.gov NCT04385680 submitted 9 May 2020, first posted 13 May 2020.",
+        "journal": "BMC pregnancy and childbirth",
+        "authors": [
+          "Abdelrahman Saleh",
+          "Ahmed Shafik",
+          "Hytham Atia",
+          "Mohamed Ibrahim"
+        ],
+        "publicationTypes": [
+          "Equivalence Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-10-28T00:00:00.000Z",
+        "activityAt": "2026-11-05T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42983692/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "氯己定阴道准备降低临产妇女急诊剖宫产术后感染的有效性：一项随机对照试验",
+          "researchQuestion": "术前使用氯己定进行阴道清洁能否降低临产妇女急诊剖宫产术后感染并发症？",
+          "studyDesign": "单盲、优效性随机对照试验。",
+          "populationAndSample": "840名临产妇女，等比例分配至术前即刻0.05%葡萄糖酸氯己定阴道清洁组或不清洁组；826名在改良意向性治疗（mITT）方法下分析。",
+          "methods": "比较术前即刻0.05%葡萄糖酸氯己定阴道清洁与不清洁。共同主要结局为剖宫产术后子宫内膜炎和手术部位感染（SSI）。次要结局包括复合伤口并发症、术后发热、显著白细胞增多、再入院、住院时间和药物不良反应。效应以风险比（RR）及95%置信区间表示，并对共同主要结局进行校正、敏感性和亚组分析。",
+          "keyResults": "氯己定显著降低两项共同主要结局：剖宫产术后子宫内膜炎（1.9% vs. 6.3%；RR 0.303，95% CI 0.139-0.662；P=0.001）和SSI（1.4% vs. 5.4%；RR 0.269，95% CI 0.110-0.656；P=0.002）；两者在Bonferroni校正阈值0.025下仍显著。其他结局也降低，包括复合伤口并发症（3.4% vs. 11.0%；RR 0.307，95% CI 0.171-0.550；P<0.001）和感染相关再入院（1.4% vs. 6.3%；P<0.001；RR 0.227，95% CI 0.095-0.547）。共同主要结局效应在校正后和敏感性分析中持续存在。在胎膜早破（PROM）和肥胖亚组中，治疗效应方向一致，无显著交互作用；SSI降低在总体和非肥胖层达到显著，但在肥胖层内未达到显著。",
+          "limitations": "单中心试验；不良事件未系统采集；新生儿暴露未评估；在常规采用前仍需多中心确认、系统的母婴安全数据和成本效果分析。",
+          "clinicalInterpretation": "在这项单中心试验中，临产妇女急诊剖宫产术前使用氯己定阴道清洁与较低的剖宫产术后子宫内膜炎、SSI及相关感染发病率相关。作者认为其作为可整合入现有围手术期流程的低成本干预具有前景，但常规采用前仍需多中心验证、母婴安全数据和成本效果分析。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "c0a6c2b82dea00702d2924afbf354edeff4c91890df67ec8a8a09840bce93921"
+      },
+      {
+        "id": "pmid:42982866",
+        "pmid": "42982866",
+        "doi": "10.1038/s41467-026-78395-y",
+        "title": "Olaparib plus tremelimumab in women with recurrent ovarian cancer and a germline BRCA1 or BRCA2 mutation: a phase I/II study.",
+        "abstract": "Response rates to immune checkpoint blockade (ICB) in ovarian cancer are low. In preclinical studies, poly(ADP-ribose) polymerase inhibition (PARPi) synergized with CTLA4 ICB to achieve long-term survival in Brca1-deficient ovarian cancer models. Here we evaluated the safety and efficacy of combined treatment with the PARPi olaparib and the CTLA4 ICB tremelimumab for recurrent epithelial ovarian cancer in a multi-site single-arm phase I/II study enrolling 50 women with germline BRCA1 or BRCA2 mutations (NCT02571725). In phase I, no new toxicities were identified (n = 3). In the combined phase I and II safety cohort (n = 49), 57% of subjects experienced grade 3 or 4 non-hematologic toxicity, with tremelimumab discontinuation in 34.7%. The primary phase II endpoint, overall response rate was 32.7% (95% CI 19.5-45.8%), and disease control rate was 47.7% (95% CI 33.0-62.5%). Secondary outcomes were progression-free survival (PFS, 3.0 months, 95% CI 2.7-5.9), and overall survival (24.3 months, CI 14.9-30.4). In exploratory post-hoc biomarker analyses, low VSTM5 or IFIT1B expression was associated with treatment benefit and improved PFS (p < 0.001). Although the trial did not meet its prespecified efficacy endpoint, PFS > 12 months in 6 subjects among this heavily pre-treated cohort highlight the need for biomarkers to select regimens for patients with recurrent ovarian cancer.",
+        "journal": "Nature communications",
+        "authors": [
+          "Alyson Yeckes",
+          "Carolyn Y Muller",
+          "Daniel M Falcon",
+          "David M O'Malley",
+          "Dennis McCance",
+          "Eleanor Paskus",
+          "Elizabeth Lokich",
+          "Huining Kang",
+          "Ji-Hyun Lee",
+          "Jose R Conejo-Garcia",
+          "Karen Finkelstein",
+          "Kari Ring",
+          "Kathryn J Brayer",
+          "Nadja K Falk",
+          "Olivier Rixe",
+          "Olufunmilola M Oyebamiji",
+          "Phyllis A Gimotty",
+          "Richard Chen",
+          "Robert M Wenham",
+          "Ryland Richards",
+          "Sarah F Adams",
+          "Sean Boyle",
+          "Steven C Eberhardt",
+          "Teresa L Rutledge",
+          "Xavier Paliard"
+        ],
+        "publicationTypes": [
+          "Clinical Trial, Phase I",
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "publishedAt": "2026-10-08T00:00:00.000Z",
+        "activityAt": "2026-11-05T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42982866/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 21.25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 96.25,
+          "evidenceRank": 0.85
+        },
+        "summaryZh": {
+          "titleZh": "奥拉帕利联合曲美木单抗治疗胚系BRCA1或BRCA2突变复发性卵巢癌女性：一项I/II期研究",
+          "researchQuestion": "在携带胚系BRCA1或BRCA2突变的复发性上皮性卵巢癌女性中，PARP抑制剂奥拉帕利联合CTLA4免疫检查点阻断剂曲美木单抗的安全性和有效性如何？",
+          "studyDesign": "多中心、单臂I/II期研究。",
+          "populationAndSample": "50名携带胚系BRCA1或BRCA2突变的复发性上皮性卵巢癌女性；I期安全性分析n=3；合并I期和II期安全性队列n=49。",
+          "methods": "评估奥拉帕利联合曲美木单抗的安全性和有效性。I期评估毒性；II期主要终点为总缓解率（ORR），次要终点包括无进展生存期（PFS）和总生存期（OS）；另进行探索性事后生物标志物分析。",
+          "keyResults": "I期未发现新毒性（n=3）。在合并I期和II期安全性队列（n=49）中，57%的受试者发生3级或4级非血液学毒性，34.7%停用曲美木单抗。II期主要终点ORR为32.7%（95% CI 19.5-45.8%），疾病控制率为47.7%（95% CI 33.0-62.5%）。次要结局：PFS为3.0个月（95% CI 2.7-5.9），OS为24.3个月（95% CI 14.9-30.4）。探索性事后生物标志物分析中，低VSTM5或IFIT1B表达与治疗获益及PFS改善相关（p<0.001）。该试验未达到预设疗效终点；在这一重度预处理队列中，有6名受试者PFS>12个月。",
+          "limitations": "单臂设计；样本量50；未达到预设疗效终点；生物标志物分析为探索性事后分析；人群为重度预处理患者。",
+          "clinicalInterpretation": "在携带胚系BRCA1/2突变的复发性上皮性卵巢癌中，奥拉帕利联合曲美木单抗显示出一定抗肿瘤活性（ORR 32.7%），但未达到预设疗效终点，且3/4级非血液学毒性常见、曲美木单抗停药比例较高。探索性生物标志物结果提示，需要进一步开发用于选择治疗方案患者的生物标志物。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "76d1fe7d3dbe6c79290fe07eff64a88e69e267ab10c1c6c392682af1e0a8f558"
+      },
+      {
+        "id": "pmid:42983363",
+        "pmid": "42983363",
+        "doi": "10.1186/s12893-026-04087-5",
+        "title": "Acute cholecystitis during pregnancy: a systematic review and meta-analysis.",
+        "abstract": "BACKGROUND: Acute cholecystitis is an uncommon non-obstetric surgical emergency in pregnancy, yet guidance on management remains inconsistent. This systematic review and meta-analysis examined presentation, diagnostics, management, and outcomes of pregnant patients diagnosed with acute cholecystitis.\nMETHODS: PubMed, Web of Science, and Scopus were searched from inception to February 2024 (PROSPERO CRD42022350290). Eligible studies reported acute cholecystitis in pregnancy with individual patient data or extractable cohort data. Risk of bias was assessed in duplicates. Descriptive statistics summarised individual data, and random-effects meta-analysis generated pooled risk ratios (RR) with 95% confidence interval (CI).\nRESULTS: Ninety studies (1964-2023) were included: 48 case reports/series (n = 118), 19 descriptive cohorts (n = 5,702), 19 cohorts comparing operative versus non-operative care (n = 91,955), and 4 cohorts comparing laparoscopic versus open surgery (n = 62,620). Among cases with symptom data (n = 75), right-upper-quadrant pain (40%), vomiting (33%), nausea (29%), and fever (17%) predominated. Imaging (n = 92) most often showed gallstones (42%) and ultrasonographic cholecystitis or wall thickening (21%). Of the cases with management data (n = 93), surgery was performed in 81 (laparoscopic 71/81; percutaneous drainage 10/81; open 1/81);12 were managed non-operatively. Of 83 with outcomes, 84% had uncomplicated courses. Meta-analysis found no significant differences between operative and non-operative care for caesarean delivery, preterm birth, postpartum haemorrhage, or composite complications, but venous thromboembolism risk was lower with surgery (RR 0.55, 95% CI 0.37-0.82), although this outcome was reported by only two studies.\nCONCLUSIONS: Ultrasound-based diagnosis and laparoscopic cholecystectomy appear safe across all trimesters of pregnancy, with obstetric outcomes comparable to non-operative management. Operative management was associated with a lower observed risk of venous thromboembolism, although this finding was based on limited evidence. Further prospective studies are needed to optimise patient selection and surgical timing.",
+        "journal": "BMC surgery",
+        "authors": [
+          "Apostolia Galani",
+          "Evgenia-Stavroula Vougiouklaki",
+          "Georgios Geropoulos",
+          "Georgios K Kyrtsonis",
+          "Imran Tariq Hassan",
+          "Konstantinos Katsikas Triantafyllidis",
+          "Konstantinos S Kechagias",
+          "Stergios Bobotis"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-07T00:00:00.000Z",
+        "activityAt": "2026-11-05T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42983363/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 7.5,
+          "recency": 10,
+          "total": 92.5,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "妊娠期急性胆囊炎：系统综述与荟萃分析",
+          "researchQuestion": "妊娠期急性胆囊炎的表现、诊断、管理和结局如何？",
+          "studyDesign": "系统综述与荟萃分析。",
+          "populationAndSample": "90项研究（1964-2023年）：48项病例报告/系列（n=118）、19项描述性队列（n=5,702）、19项比较手术与非手术治疗的队列（n=91,955）、4项比较腹腔镜与开腹手术的队列（n=62,620）；研究对象为妊娠期诊断为急性胆囊炎的患者。",
+          "methods": "检索PubMed、Web of Science和Scopus，检索时间从建库至2024年2月（PROSPERO CRD42022350290）。纳入报告妊娠期急性胆囊炎个体患者数据或可提取队列数据的研究。偏倚风险由两人重复评估。个体数据用描述性统计总结，随机效应荟萃分析生成合并风险比（RR）及95%置信区间（CI）。",
+          "keyResults": "在有症状数据的病例（n=75）中，主要为右上腹痛（40%）、呕吐（33%）、恶心（29%）和发热（17%）。影像学检查（n=92）最常显示胆结石（42%）和超声提示胆囊炎或壁增厚（21%）。在有管理数据的病例（n=93）中，81例接受手术（腹腔镜71/81；经皮引流10/81；开腹1/81），12例非手术治疗。在有结局数据的83例中，84%为无并发症病程。荟萃分析发现，手术与非手术治疗在剖宫产、早产、产后出血或复合并发症方面无显著差异；但手术组的静脉血栓栓塞风险较低（RR 0.55，95% CI 0.37-0.82）。该结局仅由2项研究报告。",
+          "limitations": "证据主要来自观察性研究（病例报告/系列和队列）；静脉血栓栓塞风险结果仅基于2项研究；摘要未报告其他具体局限性。",
+          "clinicalInterpretation": "该综述认为，超声诊断和腹腔镜胆囊切除术在妊娠各期似乎安全，产科结局与非手术治疗相当；手术治疗与较低的静脉血栓栓塞观察风险相关，但该发现证据有限。仍需前瞻性研究优化患者选择和手术时机。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "fb4333611163c587e896c430f581a787abf7bcb991b7e752ccd432c5513bb616"
+      },
+      {
+        "id": "pmid:42983028",
+        "pmid": "42983028",
+        "doi": "10.1007/s43032-026-02253-x",
+        "title": "The hMOF/PCNA Axis Mitigates Cisplatin Resistance in Ovarian Cancer Cells via Modulating DNA Damage Response.",
+        "abstract": "Cisplatin (DDP) is a first-line chemotherapeutic agent for ovarian cancer (OC); however, acquired resistance frequently compromises treatment efficacy. This study investigates whether the hMOF/PCNA axis contributes to DDP resistance through modulation of the DNA damage response (DDR). DDP sensitivity was assessed by CCK‑8 assay in parental OVCAR3 and DDP-resistant OVCAR3/DDP cells. hMOF expression was evaluated by RT‑qPCR and Western blot. Lentivirus-mediated RNA interference was employed to establish hMOF-knockdown and negative control cell models. Functional evaluations included resistance profiling by CCK‑8 assay, apoptosis analysis by flow cytometry, detection of DDR foci (γ‑H2AX, 53BP1, p-ATM) via immunofluorescence, assessment of DNA strand breaks by comet assay, and measurement of MRP and LRP expression by RT‑qPCR and Western blot. The interaction and colocalization between hMOF and PCNA were examined by co‑immunoprecipitation and immunofluorescence. PCNA expression and its post-translational modifications were analyzed by Western blot and immunoprecipitation. For mechanistic investigation, cells were treated with MG149, TAK‑243, or cycloheximide. In rescue experiments, BMI1 was overexpressed in hMOF-knockdown cells, followed by comprehensive functional validation. hMOF expression was elevated in DDP-resistant OVCAR3/DDP cells with increased IC₅₀ values. hMOF knockdown reduced DDP IC₅₀ and resistance index, downregulated MRP and LRP, enhanced apoptosis, and aggravated DNA damage. Mechanistically, hMOF bound PCNA in the nucleus. hMOF knockdown decreased PCNA expression and acetylation, enhanced its ubiquitination, and shortened its half-life, as corroborated by MG149, TAK‑243, and cycloheximide treatments. BMI1 overexpression restored PCNA levels and acetylation, reversed ubiquitination, and attenuated sh‑hMOF-induced DDP sensitization, confirming PCNA-dependent regulation. hMOF is upregulated in DDP-resistant ovarian cancer cells and stabilizes PCNA through acetylation-mediated stabilization and suppression of ubiquitination, thereby enhancing DDR and promoting chemoresistance. The hMOF/PCNA axis represents a potential therapeutic target for overcoming DDP resistance in OC.",
+        "journal": "Reproductive sciences (Thousand Oaks, Calif.)",
+        "authors": [
+          "Haiying Liu",
+          "Jiefang Lu",
+          "Minfen Liu",
+          "Sulong Xu",
+          "Tonghuai Li",
+          "Xiabin Ye"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-11-04T00:00:00.000Z",
+        "activityAt": "2026-11-05T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42983028/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "hMOF/PCNA轴通过调节DNA损伤反应减轻卵巢癌细胞顺铂耐药",
+          "researchQuestion": "hMOF/PCNA轴是否通过调节DNA损伤反应（DDR）参与卵巢癌细胞的顺铂（DDP）耐药？",
+          "studyDesign": "体外细胞实验。",
+          "populationAndSample": "亲本OVCAR3和DDP耐药OVCAR3/DDP卵巢癌细胞；摘要未报告患者样本或动物模型。",
+          "methods": "用CCK-8法评估DDP敏感性；用RT-qPCR和Western blot检测hMOF表达；采用慢病毒介导的RNA干扰建立hMOF敲低和阴性对照细胞模型。功能评估包括：用CCK-8法分析耐药谱，用流式细胞术分析凋亡，用免疫荧光检测DDR焦点（γ-H2AX、53BP1、p-ATM），用彗星实验检测DNA链断裂，用RT-qPCR和Western blot检测MRP和LRP表达。用免疫共沉淀和免疫荧光检测hMOF与PCNA的相互作用和共定位；用Western blot和免疫沉淀分析PCNA表达及其翻译后修饰。机制研究中使用MG149、TAK-243或放线菌酮处理细胞。在补救实验中，于hMOF敲低细胞中过表达BMI1，随后进行功能验证。",
+          "keyResults": "在DDP耐药OVCAR3/DDP细胞中，hMOF表达升高，IC₅₀值增加。hMOF敲低降低DDP的IC₅₀和耐药指数，下调MRP和LRP，增强凋亡并加重DNA损伤。机制上，hMOF在细胞核内与PCNA结合；hMOF敲低降低PCNA表达和乙酰化，增强其泛素化并缩短其半衰期，MG149、TAK-243和放线菌酮处理结果支持这一点。BMI1过表达恢复PCNA水平和乙酰化，逆转泛素化，并减弱sh-hMOF诱导的DDP增敏，证实了PCNA依赖性调控。",
+          "limitations": "摘要未报告明确的局限性。",
+          "clinicalInterpretation": "该体外研究提示，hMOF在DDP耐药卵巢癌细胞中上调，并通过乙酰化介导的稳定作用及抑制泛素化来稳定PCNA，从而增强DDR并促进化疗耐药；hMOF/PCNA轴是克服卵巢癌DDP耐药的潜在治疗靶点。当前证据限于细胞实验，尚不能直接外推至临床。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "3db617b6a85ea82c6870faf9cbfb0394e5493e346dc9e765d8fd5fbd54a6cb59"
+      }
+    ]
+  }
+}
