@@ -1,0 +1,265 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-11-06T23:27:21.787Z",
+    "dataAsOf": "2026-11-06T23:27:21.787Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及MRI与经阴道超声对泌尿系统子宫内膜异位症的诊断性能：系统评价与荟萃分析、中低收入国家宫颈癌筛查方法采纳的障碍——基于框架主题分析的范围综述、接受放疗的局部晚期宫颈癌结局预测：列线图系统评价。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42988935",
+        "pmid": "42988935",
+        "doi": "10.1007/s00404-026-08553-6",
+        "title": "Diagnostic performance of MRI and transvaginal ultrasound for urinary tract endometriosis: a systematic review and meta-analysis.",
+        "abstract": "OBJECTIVE: To compare the diagnostic accuracy of transvaginal ultrasound (TVUS) and magnetic resonance imaging (MRI) for detecting urinary tract endometriosis (UTE), including ureteral and bladder involvement.\nMETHODS: A systematic review and meta-analysis were conducted according to PRISMA 2020 guidelines. PubMed, Embase, and Scopus were searched from inception to December 2025 for diagnostic accuracy studies evaluating TVUS and/or MRI for UTE. Surgical findings, with or without histopathological confirmation, were used as the reference standard. Studies reporting sufficient data to construct 2 × 2 contingency tables were included. Pooled sensitivity and specificity with 95% confidence intervals (CI) were calculated using a bivariate random-effects model, with separate analyses for ureteral and bladder endometriosis.\nRESULTS: Thirty-six studies met the inclusion criteria. For ureteral endometriosis, TVUS demonstrated a pooled sensitivity of 0.89 (95% CI 0.65-0.97) and specificity of 1.00 (95% CI 0.97-1.00), while MRI showed a pooled sensitivity of 0.96 (95% CI 0.50-1.00) and specificity of 1.00 (95% CI 0.96-1.00). For bladder endometriosis, TVUS yielded a pooled sensitivity of 0.70 (95% CI 0.55-0.81) and specificity of 1.00 (95% CI 0.99-1.00), whereas MRI demonstrated a pooled sensitivity of 0.77 (95% CI 0.58-0.89) and specificity of 0.99 (95% CI 0.98-1.00). Substantial heterogeneity was observed, particularly for sensitivity estimates.\nCONCLUSION: TVUS and MRI show excellent specificity for diagnosing urinary tract endometriosis. MRI provides slightly higher sensitivity for ureteral disease, while both modalities demonstrate moderate sensitivity for bladder involvement. A complementary, site-specific imaging approach is, therefore, supported, with cautious interpretation of negative findings.",
+        "journal": "Archives of gynecology and obstetrics",
+        "authors": [
+          "Anna Pitsillidi",
+          "Guglielmo Stabile",
+          "Günter Noé",
+          "Konstantinos Kyriakoulis",
+          "Laura Vona",
+          "Panagiotis Iliakis"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-10T00:00:00.000Z",
+        "activityAt": "2026-11-06T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42988935/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "MRI与经阴道超声对泌尿系统子宫内膜异位症的诊断性能：系统评价与荟萃分析",
+          "researchQuestion": "比较经阴道超声（TVUS）与磁共振成像（MRI）检测泌尿系统子宫内膜异位症（包括输尿管和膀胱受累）的诊断准确性。",
+          "studyDesign": "系统评价与荟萃分析（诊断准确性研究），按PRISMA 2020指南开展。",
+          "populationAndSample": "共纳入36项符合标准的研究；研究对象为接受TVUS和/或MRI评估泌尿系统子宫内膜异位症的患者；参考标准为手术所见（伴或不伴组织病理学确认）。摘要未报告患者总数。",
+          "methods": "检索PubMed、Embase和Scopus，时间自建库至2025年12月，纳入能够构建2×2列联表的诊断准确性研究。采用双变量随机效应模型计算合并敏感度和特异度及95%置信区间（CI），并分别分析输尿管子宫内膜异位症和膀胱子宫内膜异位症。",
+          "keyResults": "输尿管子宫内膜异位症：TVUS合并敏感度0.89（95% CI 0.65-0.97），特异度1.00（95% CI 0.97-1.00）；MRI合并敏感度0.96（95% CI 0.50-1.00），特异度1.00（95% CI 0.96-1.00）。膀胱子宫内膜异位症：TVUS合并敏感度0.70（95% CI 0.55-0.81），特异度1.00（95% CI 0.99-1.00）；MRI合并敏感度0.77（95% CI 0.58-0.89），特异度0.99（95% CI 0.98-1.00）。观察到显著异质性，尤其体现在敏感度估计上。",
+          "limitations": "摘要报告存在显著异质性，尤其敏感性估计；未报告其他局限性。",
+          "clinicalInterpretation": "作者结论认为，TVUS和MRI对泌尿系统子宫内膜异位症均具有很好的特异度；MRI对输尿管病变的敏感度略高，而两种方法对膀胱受累的敏感度均为中等。结果支持采用 complementary、按部位选择的影像学策略，并对阴性发现谨慎解读。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "5dfa87e20c014e8fecb263351f11d050968db960340ab345c0c567dfc231144d"
+      },
+      {
+        "id": "pmid:42989206",
+        "pmid": "42989206",
+        "doi": "10.1186/s12905-026-04764-w",
+        "title": "Barriers to the uptake of cervical cancer screening methods in Low- and Middle-Income Countries (LMICs) - a scoping review using framework thematic analysis.",
+        "abstract": "BACKGROUND: Cervical cancer remains a major cause of preventable death among women in low- and middle-income countries (LMICs). Despite the availability of effective screening, uptake remains low. Existing reviews have not fully captured the socio-cultural and behavioural barriers influencing women's participation. This scoping review explores factors influencing the uptake of cervical cancer screening in women in LMICs.\nMETHOD: Qualitative studies exploring barriers and facilitators related to cervical cancer screening uptake were identified through a search of MEDLINE and Embase from January 2014 to December 2022. Qualitative data were extracted and analysed using framework thematic analysis guided by the Theoretical Domains Framework, and inductively coded to generate overarching themes.\nRESULTS: A total of 17 studies were included in the review. Knowledge, beliefs about consequences, social influences, social roles and emotions were identified as the key domains of barriers affecting screening uptake. Women in low- and middle-income countries held cultural values that were deeply important to them, which were closely intertwined with health education. Discrepancies between the perspectives of healthcare professionals and women's cultural values contributed to a heightened mistrust of the healthcare system.\nCONCLUSION: Lack of awareness about cervical cancer and misconceptions about its causes were prevalent, particularly in rural areas. Stigma, societal expectations, and gender inequalities further exacerbated the reluctance to access screening services, while procedural fears and distrust in healthcare providers deepened the problem.\nTRIAL REGISTRATION: PROSPERO registration: CRD42023402109.",
+        "journal": "BMC women's health",
+        "authors": [
+          "Debra Howell",
+          "Momina Zulfeen",
+          "Omara Dogar"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Scoping Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-11T00:00:00.000Z",
+        "activityAt": "2026-11-06T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42989206/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "中低收入国家宫颈癌筛查方法采纳的障碍——基于框架主题分析的范围综述",
+          "researchQuestion": "探讨影响中低收入国家女性宫颈癌筛查采纳的因素，包括障碍与促进因素。",
+          "studyDesign": "范围综述，采用框架主题分析，并以理论域框架（Theoretical Domains Framework）指导。",
+          "populationAndSample": "共纳入17项定性研究；关注中低收入国家女性宫颈癌筛查采纳的障碍与促进因素，并涉及医疗保健专业人员视角；摘要未报告参与者总人数。",
+          "methods": "检索MEDLINE和Embase，时间范围为2014年1月至2022年12月，纳入探讨宫颈癌筛查采纳障碍与促进因素的定性研究。提取定性数据，采用理论域框架指导的框架主题分析，并进行归纳编码以生成总体主题。",
+          "keyResults": "识别出的关键障碍域包括知识、对后果的信念、社会影响、社会角色和情绪。中低收入国家女性持有对其非常重要的文化价值观，这些价值观与健康教育密切交织；医疗保健专业人员视角与女性文化价值观之间的差异促成了对医疗系统的不信任加剧。结论指出，对宫颈癌缺乏认识和对病因的误解普遍存在，尤其在农村地区；污名、社会期望和性别不平等进一步加剧了获取筛查服务的犹豫，而对操作过程的恐惧和对医疗服务提供者的不信任加深了这一问题。",
+          "limitations": "摘要未报告明确的局限性。",
+          "clinicalInterpretation": "该范围综述提示，宫颈癌筛查采纳受知识、信念、社会文化、情绪及对医疗系统信任等多层面因素影响；作者结论强调污名、社会期望、性别不平等、操作恐惧和不信任会加深筛查犹豫。摘要未报告干预效果或筛查服务改进的直接评估。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "5fcd8a1ea841e4e986e115b296faffd5aff2abf51189b70f2254d45a492609cb"
+      },
+      {
+        "id": "pmid:42991407",
+        "pmid": "42991407",
+        "doi": "10.3389/fonc.2026.1940047",
+        "title": "Predicting outcomes in locally advanced cervical cancer treated with radiotherapy: a systematic review of nomograms.",
+        "abstract": "OBJECTIVE: To systematically evaluate published nomograms developed for patients with locally advanced cervical cancer (LACC) treated with radiotherapy, focusing on prognostic performance, core predictive variables, and implications for future model development.\nMETHODS: A systematic literature search of PubMed, Embase, Scopus, Web of Science, and the Cochrane Library identified studies published between 2010 and 2025 that developed new nomograms for LACC cohorts treated with radiotherapy or chemoradiotherapy. Data extraction included study population, predicted outcomes (overall survival [OS], progression-free survival [PFS], or disease-free survival [DFS]), model performance (C-index), validation methods, calibration, and predictor variables. Predictor patterns were summarized primarily by frequency of inclusion across nomograms, with β-coefficients used only for exploratory within-model descriptions.\nRESULTS: Nine studies met the inclusion criteria; eight developed nomograms for OS and three evaluated disease progression outcomes (PFS or DFS), with two studies evaluating both outcome categories. Reported C-indices ranged from 0.68 to 0.835, indicating moderate to good discrimination. Lymph node status, FIGO stage, and tumor size were among the most frequently incorporated predictors, while histology and SCC-Ag were also recurrently included. Validation in independent cohorts remained limited. Graphical calibration was commonly reported, whereas quantitative calibration measures and decision-curve analyses were inconsistently reported.\nCONCLUSIONS: Nomograms for LACC treated with radiotherapy generally demonstrate moderate-to-good discriminative performance and frequently incorporate lymph node status, stage, and tumor size. However, methodological heterogeneity, incomplete validation, and evolving treatment paradigms limit their immediate generalizability. Future work should focus on robust external validation, recalibration, and evaluation in contemporary treatment cohorts before clinical implementation.",
+        "journal": "Frontiers in oncology",
+        "authors": [
+          "Jaekyung Bae",
+          "Sokbom Kang",
+          "Uisuk Kim"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-22T00:00:00.000Z",
+        "activityAt": "2026-11-06T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42991407/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "接受放疗的局部晚期宫颈癌结局预测：列线图系统评价",
+          "researchQuestion": "系统评价已发表的、用于接受放疗的局部晚期宫颈癌（LACC）患者的列线图，重点关注预后性能、核心预测变量及对未来模型开发的意义。",
+          "studyDesign": "系统评价。",
+          "populationAndSample": "共9项研究符合纳入标准；这些研究于2010年至2025年发表，针对接受放疗或放化疗的LACC队列开发新的列线图。摘要未报告患者总数。",
+          "methods": "检索PubMed、Embase、Scopus、Web of Science和Cochrane Library，纳入2010年至2025年间发表、针对接受放疗或放化疗的LACC队列开发新列线图的研究。提取研究人群、预测结局（总生存[OS]、无进展生存[PFS]或无病生存[DFS]）、模型性能（C-index）、验证方法、校准和预测变量。预测变量模式主要按各列线图中的纳入频率总结，β系数仅用于模型内探索性描述。",
+          "keyResults": "9项研究符合纳入标准；8项开发了OS列线图，3项评估疾病进展结局（PFS或DFS），其中2项同时评估两类结局。报告的C-index范围为0.68至0.835，提示中等至良好的区分度。淋巴结状态、FIGO分期和肿瘤大小是最常纳入的预测变量之一，组织学类型和SCC-Ag也反复被纳入。独立队列验证仍然有限。图形校准常被报告，而定量校准指标和决策曲线分析报告不一致。",
+          "limitations": "摘要报告的方法学异质性、验证不完整以及不断演变的治疗范式限制了其即时可推广性；独立队列验证有限。",
+          "clinicalInterpretation": "作者结论认为，用于接受放疗的LACC患者的列线图通常具有中等至良好的区分性能，并常纳入淋巴结状态、分期和肿瘤大小；但方法学异质性、验证不完整和治疗范式演变限制其即时推广。未来需进行稳健的外部验证、重校准并在当代治疗队列中评估后方可临床实施。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "f116b0828f0918d71360afec00c62cb97b3b94d07eeb8da6301225d22d00e6fd"
+      },
+      {
+        "id": "pmid:42988877",
+        "pmid": "42988877",
+        "doi": "10.1007/s00428-026-04759-w",
+        "title": "Evaluation of the Idylla system for rapid detection of POLE mutations in colorectal and endometrial cancers.",
+        "abstract": "Pathogenic exonuclease domain mutations in POLE define a hypermutated subtype of colorectal and endometrial cancers, with prognostic and therapeutic implications, particularly for immunotherapy. Detection currently relies on next-generation sequencing, which is sensitive but costly and time-consuming. The Idylla™ POLE-POLD1 Mutation Assay (Biocartis) is a fully automated real-time PCR for rapid detection of hotspot mutations, but its performance has not been fully evaluated.We retrospectively analyzed a cohort of 40 patients to evaluate the performance of the Idylla™ assay. All tumors underwent targeted NGS of POLE exons 9-14. DNA from formalin-fixed paraffin-embedded tissue was analyzed with the Idylla™ assay and results were compared with NGS. The assay's limit of detection was also determined.The Idylla™ assay detected POLE hotspot variants with 96% sensitivity and 100% specificity. Limit of detection experiments indicated reliable detection only in samples with DNA concentration > 5 ng/µL and tumor cell content > 20%.The Idylla™ POLE-POLD1 Mutation Assay enables rapid, robust detection of POLE hotspot variants in colorectal and endometrial cancers, with high concordance to NGS. Integrating Idylla as a front-line screening tool could accelerate molecular classification, though NGS remains necessary for samples with low tumor content or low DNA input.",
+        "journal": "Virchows Archiv : an international journal of pathology",
+        "authors": [
+          "Anaïs Pujals",
+          "Caroline Saal",
+          "Cécile Charpy",
+          "Jérémy Augustin",
+          "Julien Calderaro",
+          "Serena Barbe",
+          "Violaine Tran Quang"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-11-06T00:00:00.000Z",
+        "activityAt": "2026-11-06T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42988877/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "评估Idylla系统用于结直肠癌和子宫内膜癌POLE突变快速检测",
+          "researchQuestion": "评估Idylla™ POLE-POLD1突变检测在结直肠癌和子宫内膜癌中快速检测POLE热点突变的性能，并与下一代测序（NGS）比较，同时确定检测限。",
+          "studyDesign": "回顾性诊断性能研究（基于40例患者队列）。",
+          "populationAndSample": "回顾性分析40例患者；肿瘤类型为结直肠癌和子宫内膜癌；所有肿瘤均接受POLE外显子9-14靶向NGS；使用福尔马林固定石蜡包埋（FFPE）组织DNA进行Idylla检测。摘要未报告其他样本特征。",
+          "methods": "对40例患者肿瘤进行POLE外显子9-14靶向NGS；FFPE组织DNA采用Idylla™检测分析，并与NGS结果比较；同时测定该检测的检测限。",
+          "keyResults": "Idylla™检测POLE热点变异的敏感度为96%，特异度为100%。检测限实验提示，仅在DNA浓度>5 ng/µL且肿瘤细胞含量>20%的样本中可可靠检测。该检测与NGS高度一致。",
+          "limitations": "可靠检测仅见于DNA浓度>5 ng/µL且肿瘤细胞含量>20%的样本；低肿瘤含量或低DNA输入样本仍需NGS；摘要未报告其他局限性。",
+          "clinicalInterpretation": "作者结论认为，Idylla™ POLE-POLD1突变检测可快速、稳健地检测结直肠癌和子宫内膜癌中的POLE热点变异，与NGS高度一致；将Idylla作为一线筛查工具可能加速分子分型，但低肿瘤含量或低DNA输入样本仍需NGS。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "141b04e361d4f6d3dab5eca7f7c3396292f1758f8aa39fbdc52abd28cc3df710"
+      },
+      {
+        "id": "pmid:42989077",
+        "pmid": "42989077",
+        "doi": "10.1186/s12014-026-09620-5",
+        "title": "Exploratory serum mass spectral fingerprinting and machine learning for case-control classification of preeclampsia.",
+        "abstract": "BACKGROUND: Preeclampsia is a pregnancy-specific hypertensive disorder associated with maternal and perinatal morbidity and mortality and can increase the risk of vascular diseases after pregnancy. However, a timely and unequivocal diagnosis in the first weeks allows access to appropriate medical follow-up.\nMETHODS: In this exploratory approach, we aim to evaluate the analytical potential of MALDI-TOF spectral fingerprints combined with machine learning algorithms for discriminating serum samples from patients with preeclampsia from those with normotensive pregnancies. The dataset comprised 164 spectra of serum samples from 67 women with preeclampsia and 97 negative controls, which were processed using the Filter-Assisted Sample Preparation (FASP) protocol and analyzed by mass spectrometry.\nRESULTS: Spectral data analysis was subjected to a machine learning algorithm that demonstrated high performance in classifying cases and controls, with an overall accuracy of 88% and sensitivities of 0.90 and 0.85 for predicting positive cases and negative controls, respectively.\nCONCLUSIONS: The proposed analytical workflow demonstrated promising classification performance, highlighting the potential of MALDI-TOF spectral pattern recognition as a rapid screening approach for disease-associated signatures.",
+        "journal": "Clinical proteomics",
+        "authors": [
+          "Claudia Colmenares-Mejía",
+          "Doris Quintero-Lesmes",
+          "Enrique Mejía-Ospino",
+          "Laura Camila Maca-Castro",
+          "Luisa Fernanda Amezquita",
+          "Norma C Serrano",
+          "Paula K Bautista-Niño",
+          "Yuly Andrea Prada"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-03T00:00:00.000Z",
+        "activityAt": "2026-11-06T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42989077/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "探索性血清质谱指纹图谱与机器学习用于子痫前期病例对照分类",
+          "researchQuestion": "评估MALDI-TOF光谱指纹结合机器学习算法区分子痫前期患者与血压正常妊娠者血清样本的分析潜力。",
+          "studyDesign": "探索性病例对照研究（诊断分类探索）。",
+          "populationAndSample": "数据集包含164份血清样本光谱，来自67例子痫前期女性和97例阴性对照；摘要未报告其他人口学或临床特征。",
+          "methods": "血清样本采用Filter-Assisted Sample Preparation（FASP）方案处理，并通过质谱分析；将MALDI-TOF光谱指纹与机器学习算法结合，用于区分子痫前期病例与血压正常妊娠对照。",
+          "keyResults": "机器学习算法在区分病例和对照方面表现出较高性能，总体准确率为88%；预测阳性病例和阴性对照的敏感度分别为0.90和0.85（摘要如此表述）。",
+          "limitations": "摘要未报告明确局限性；该研究被描述为探索性分析。",
+          "clinicalInterpretation": "作者结论认为，该分析流程显示出有前景的分类性能，提示MALDI-TOF光谱模式识别作为疾病相关特征快速筛查方法具有潜在价值；摘要未报告其临床诊断效用或外部验证结果。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "9982c92865274820bf29cd7de66b93d0f3bca21caac534a55a07ee4ec9137c19"
+      }
+    ]
+  }
+}
