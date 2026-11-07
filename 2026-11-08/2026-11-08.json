@@ -1,0 +1,267 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-11-07T22:39:28.941Z",
+    "dataAsOf": "2026-11-07T22:39:28.941Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及韩国红参对子宫肌瘤临床病程的影响与安全性：一项双盲随机安慰剂对照试验、机器学习用于早产早期预测、妊娠期糖尿病母亲与非糖尿病母亲产后最初48小时血糖变化——一项比较研究。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42994854",
+        "pmid": "42994854",
+        "doi": "10.1097/md.0000000000051173",
+        "title": "Effects and safety of Korean red ginseng on the clinical course of uterine leiomyoma: A double-blind randomized placebo-controlled trial.",
+        "abstract": "BACKGROUND: Korean red ginseng (KRG) is widely used as a dietary supplement, but its effects on uterine leiomyoma growth and reproductive hormones are unclear. We evaluated whether KRG affects leiomyoma growth, routine laboratory indices, or endocrine profiles in premenopausal women with uterine leiomyoma managed expectantly.\nMETHODS: In this single-center, double-blind, randomized, placebo-controlled, parallel-group trial, premenopausal women aged 20 to 45 years with a uterine leiomyoma of 1 to 8 cm suitable for expectant management were allocated 1:1 to KRG 3 g/d or matching placebo for 6 months. Participants, investigators, ultrasonography examiners, and analysts were blinded. The primary outcome was the between-group difference in the 6-month change in maximal diameter of the index leiomyoma on ultrasonography, analyzed by analysis of covariance adjusted for baseline diameter. Secondary outcomes were complete blood count, ferritin, liver enzymes, and reproductive hormones.\nRESULTS: Between December 2015 and September 2019, 69 participants were randomized (placebo 34, KRG 35) and 61 completed the 6-month assessment (placebo 30, KRG 31); all 8 noncompletions were losses to follow-up. Maximal diameter increased modestly in both groups, with no significant between-group difference in change (mean difference -0.11 cm; 95% confidence interval: -0.33 to 0.12; P = .34); the upper confidence limit lay below the prespecified target difference of 0.33 cm. There were no significant between-group differences in laboratory changes or in baseline-, age-, and body mass index-adjusted log scale hormone ratios, and the multivariate hormone profile did not differ between groups (Pillai's trace = 0.056; P = .68). In exploratory post hoc analyses, the internal correlation structure among hormone changes was similar in both arms. No treatment-related serious adverse event and no discontinuation for intolerance was documented, although adverse events were ascertained passively.\nCONCLUSION: In premenopausal women with uterine leiomyoma managed expectantly, 6 months of KRG supplementation did not meaningfully alter leiomyoma growth, routine laboratory indices, or reproductive hormone homeostasis compared with placebo. Within the constraints of a modest sample size, incomplete characterization of the study product, and passive adverse-event ascertainment, these findings do not establish the safety of KRG, and they support no conclusion regarding nonserious adverse effects.",
+        "journal": "Medicine",
+        "authors": [
+          "Byung Seok Lee",
+          "Heesoo Chung",
+          "Hyewon Hur",
+          "Jinok Jun",
+          "Joo Hyun Park",
+          "SiHyun Cho",
+          "Young Sik Choi",
+          "Yunjeong Park"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-11-06T00:00:00.000Z",
+        "activityAt": "2026-11-06T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42994854/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "韩国红参对子宫肌瘤临床病程的影响与安全性：一项双盲随机安慰剂对照试验",
+          "researchQuestion": "在期待治疗的绝经前子宫肌瘤女性中，韩国红参是否影响肌瘤生长、常规实验室指标或内分泌谱？",
+          "studyDesign": "单中心、双盲、随机、安慰剂对照、平行组试验。",
+          "populationAndSample": "20至45岁、子宫肌瘤1至8 cm且适合期待治疗的绝经前女性；共随机69例（安慰剂34例，韩国红参35例），61例完成6个月评估（安慰剂30例，韩国红参31例），8例未完成均为失访。",
+          "methods": "按1:1分配至韩国红参3 g/d或匹配安慰剂，持续6个月；参与者、研究者、超声检查者和分析者设盲。主要结局为超声测量的指标肌瘤最大直径6个月变化在组间差异，采用协方差分析并校正基线直径；次要结局包括全血细胞计数、铁蛋白、肝酶和生殖激素。",
+          "keyResults": "两组最大直径均轻度增加，变化无显著组间差异（平均差 -0.11 cm；95%置信区间：-0.33至0.12；P = .34）；置信区间上限低于预设目标差异0.33 cm。实验室指标变化、按基线、年龄和体质指数校正后的对数尺度激素比值均无显著组间差异；多变量激素谱无组间差异（Pillai's trace = 0.056；P = .68）。探索性事后分析中，两组激素变化之间的内部相关结构相似。未记录到治疗相关严重不良事件，也未记录到因不耐受而停药，但不良事件为被动收集。",
+          "limitations": "样本量有限、研究产品特征描述不完整、不良事件为被动收集；作者指出这些发现不能确立韩国红参的安全性，也无法就非严重不良事件得出结论。",
+          "clinicalInterpretation": "在这项试验中，与安慰剂相比，6个月韩国红参补充未在临床上显著改变期待治疗的绝经前子宫肌瘤女性的肌瘤生长、常规实验室指标或生殖激素稳态；该研究不用于确立其安全性，也不能据此形成临床用药推荐。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "3ada676ceceb15572324db3f3e5d48d88d431ed14f257b14e52e5154f8fffaa5"
+      },
+      {
+        "id": "pmid:42989130",
+        "pmid": "42989130",
+        "doi": "10.1186/s12884-026-09784-w",
+        "title": "Machine learning for early prediction of preterm birth.",
+        "abstract": "BACKGROUND: Preterm birth (PTB), defined as delivery before 37 completed weeks of gestation, remains a major cause of neonatal mortality and long-term morbidity worldwide. Conventional risk assessment strategies, including cervical length measurement and biomarker-based screening, have shown limited predictive performance. Machine learning (ML) may improve PTB prediction by integrating heterogeneous clinical data and identifying complex risk patterns.\nMETHODS: A structured narrative review was conducted by systematically searching PubMed, Web of Science, Scopus, IEEE Xplore, and Google Scholar for studies published between January 2010 and April 2024. Studies were screened according to predefined eligibility criteria, and 14 studies evaluating ML models for PTB prediction using human pregnancy datasets were included in the final narrative synthesis. Data on study characteristics, predictor variables, ML methods, validation strategies, and model performance were extracted and synthesized narratively.\nRESULTS: A total of 14 studies met the predefined eligibility criteria and were included in the final narrative synthesis. ML models generally performed better when they used longitudinal electronic health records (EHRs), repeated measurements, or richer maternal clinical histories. Ensemble approaches such as random forest, gradient boosting, and stacking models, as well as deep learning (DL) methods including artificial neural networks (ANNs), recurrent neural networks (RNNs), and long short-term memory networks (LSTMs), were frequently among the best-performing models. Across the included studies, previous PTB, cervical length, maternal age, hypertensive disorders, diabetes, and body mass index (BMI) emerged as the most consistently reported predictors of ML model performance. However, the evidence was highly heterogeneous in data sources, outcome definitions, validation methods, and performance reporting. External validation, calibration assessment, and real-world clinical evaluation were limited.\nCONCLUSION: ML shows considerable promise for improving early PTB risk stratification, but clinical translation will depend on early prediction, interpretable outputs, and robust external validation. Although ML models generally demonstrated promising predictive performance, interpretation of these findings is limited by methodological heterogeneity and inconsistent external validation across studies. Future studies should prioritize standardized reporting, multicenter external validation, calibration assessment, explainability, and prospective implementation studies to facilitate routine clinical adoption.",
+        "journal": "BMC pregnancy and childbirth",
+        "authors": [
+          "Firanol Teshome",
+          "Gelan Ayana",
+          "Jude Kong",
+          "Netsanet Workneh Gidi",
+          "Se-Woon Choe"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-08-10T00:00:00.000Z",
+        "activityAt": "2026-11-06T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42989130/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "机器学习用于早产早期预测",
+          "researchQuestion": "机器学习模型能否改善早产早期预测？本综述评估相关模型、预测因子、验证策略和性能。",
+          "studyDesign": "结构化叙述性综述；系统检索多个数据库后对14项研究进行叙述性综合。",
+          "populationAndSample": "2010年1月至2024年4月发表、使用人类妊娠数据集评估早产预测机器学习模型的研究；最终纳入14项研究。摘要未报告各研究样本量。",
+          "methods": "检索PubMed、Web of Science、Scopus、IEEE Xplore和Google Scholar；按预设纳入标准筛选；提取研究特征、预测变量、机器学习方法、验证策略和模型性能并进行叙述性综合。",
+          "keyResults": "机器学习模型在使用纵向电子健康记录、重复测量或更丰富母亲临床病史时通常表现更好。随机森林、梯度提升和堆叠等集成方法，以及人工神经网络、循环神经网络和长短期记忆网络等深度学习方法，常为表现最佳的模型之一。既往早产、宫颈长度、母亲年龄、高血压性疾病、糖尿病和体质指数是各研究中报告最一致的与模型性能相关的预测因子。证据在数据来源、结局定义、验证方法和性能报告方面高度异质；外部验证、校准评估和真实世界临床评价有限。",
+          "limitations": "证据高度异质；外部验证、校准评估和真实世界临床评价有限；各研究验证策略和性能报告不一致。",
+          "clinicalInterpretation": "机器学习在改善早产早期风险分层方面显示潜力，但临床转化取决于早期预测、可解释输出和稳健外部验证；目前证据受方法学异质性和外部验证不一致限制，尚不能支持常规临床采用。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "6e57374083a061f092c241d73447c249982b6d732d04b2706ab2f127ae81af5f"
+      },
+      {
+        "id": "pmid:42989170",
+        "pmid": "42989170",
+        "doi": "10.1186/s12884-026-09335-3",
+        "title": "Glycemic changes during first 48 h postpartum in mothers with gestational diabetes mellitus and non-diabetic mothers - a comparative study.",
+        "abstract": "BACKGROUND: Gestational diabetes mellitus (GDM) is a common metabolic disorder in pregnancy and is associated with an increased risk of maternal complications and future development of type 2 diabetes mellitus. While glycemia is expected to normalize after delivery due to loss of placental hormones, early postpartum glycemic changes are not well understood. This study aims to assess the rate of normalization of blood glucose levels in the immediate postpartum period among mothers with GDM and to compare these changes with physiological glycemic patterns in non-diabetic mothers.\nMETHODS: This descriptive observational comparative study was conducted among postpartum mothers at the Professorial Unit, Ward 21, Colombo South Teaching Hospital. Mothers with GDM diagnosed using a 75 g oral glucose tolerance test were compared with non-diabetic mothers. Eligible women were recruited (n = 60; 30 per group) using stratified sampling, and capillary blood glucose was measured using validated glucometers within 2 h of delivery and before and 2 h after meals over 48 h. Data were collected using a structured questionnaire and medical records and analyzed using IBM SPSS Statistic. A p-value < 0.05 was considered statistically significant.\nRESULTS: Mothers with gestational diabetes mellitus (GDM) demonstrated consistently higher mean glucose levels compared to non-diabetic mothers during the early postpartum period. Statistically significant differences were observed at the majority of preprandial and postprandial time points within the first 48 h (p < 0.05). However, by the sixth meal, both preprandial and postprandial glucose values showed no statistically significant difference between the two groups (p > 0.05), indicating convergence of glucose levels and a trend toward normalization in mothers with GDM.\nCONCLUSIONS: Postpartum mothers with GDM show significantly higher glucose levels than non-GDM mothers during the first 48 h after delivery, with marked postprandial spikes and elevated pre-meal values despite a trend toward normalization by the 6th meal point. Early postpartum hyperglycemia resolves quickly by the sixth meal. Standard six week postpartum and long term diabetes screening remain the standard of care regardless of rapidity of glucose normalization.",
+        "journal": "BMC pregnancy and childbirth",
+        "authors": [
+          "M A M M Jayawardane",
+          "M A T U Mallawarachchi",
+          "M M F Rusta",
+          "M S R Zainab",
+          "T H Gangodawila"
+        ],
+        "publicationTypes": [
+          "Comparative Study",
+          "Journal Article",
+          "Observational Study"
+        ],
+        "publishedAt": "2026-08-11T00:00:00.000Z",
+        "activityAt": "2026-11-06T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42989170/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "妊娠期糖尿病母亲与非糖尿病母亲产后最初48小时血糖变化——一项比较研究",
+          "researchQuestion": "评估妊娠期糖尿病母亲产后即期血糖恢复正常的速度，并与非糖尿病母亲的生理性血糖模式比较。",
+          "studyDesign": "描述性观察性比较研究。",
+          "populationAndSample": "在Colombo South Teaching Hospital Professorial Unit, Ward 21招募的产后母亲；妊娠期糖尿病按75 g口服葡萄糖耐量试验诊断，与非糖尿病母亲比较；采用分层抽样招募60例（每组30例）。",
+          "methods": "在分娩后2小时内以及48小时内餐前和餐后2小时，用经验证的血糖仪测量毛细血管血糖；通过结构化问卷和病历收集数据，使用IBM SPSS Statistic分析；p<0.05为有统计学意义。",
+          "keyResults": "妊娠期糖尿病母亲在产后早期平均血糖持续高于非糖尿病母亲。产后最初48小时内大多数餐前和餐后时间点差异有统计学意义（p < 0.05），并可见明显餐后升高和餐前血糖升高。到第六餐时，餐前和餐后血糖在两组间均无统计学显著差异（p > 0.05），提示血糖水平趋同及妊娠期糖尿病母亲血糖趋向正常化。",
+          "limitations": "摘要未报告明确的局限性。",
+          "clinicalInterpretation": "在这项观察性比较研究中，妊娠期糖尿病母亲产后最初48小时血糖高于非糖尿病母亲，但到第六餐时趋于接近；作者指出，无论血糖恢复正常速度如何，产后6周和长期糖尿病筛查仍是标准诊疗。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "c1bd6cbb4b06c1b9dd88a69cb03f96a7aa88a7ec2b9c43864fbc8fcd728505f9"
+      },
+      {
+        "id": "pmid:42989172",
+        "pmid": "42989172",
+        "doi": "10.1186/s12884-026-09777-9",
+        "title": "Unrecognized and unheard: Experiences of black mothers navigating the \"good NICU mother\" ideal across the preterm birth continuum.",
+        "abstract": "BACKGROUND: Black mothers who experience preterm birth and neonatal intensive care unit (NICU) hospitalization face intersecting structural and institutional challenges that shape their early maternal experiences. While racial disparities in maternal and neonatal outcomes are well documented, less is known about how racialized narratives of Black motherhood are enacted across everyday perinatal care interactions. Grounded in the principles of respectful maternity care (RMC), this study examines how Black mothers navigate birth, neonatal transport, and NICU hospitalization, and how institutional expectations of the \"good NICU mother\" shape maternal identity and legitimacy within these settings.\nMETHODS: This qualitative study used a reflexive thematic analysis of in-depth interviews with five Black mothers whose preterm infants (born at 24-28 weeks gestation) required neonatal transport to a tertiary NICU in South Carolina. Interviews were conducted during or shortly after the infant's NICU hospitalization and analyzed using Braun and Clarke's six-phase approach. Findings were contextualized using an adapted National Institute on Minority Health and Health Disparities research framework.\nRESULTS: Three phases of experience were identified: (1) preterm labor and initial contact with the healthcare system, (2) preterm birth at a referral hospital and neonatal transport, and (3) the postpartum period during NICU hospitalization. Across all three phases, participants described dismissal of their concerns, constrained communication, limited agency, and physical and emotional mistreatment; these experiences directly conflict with the core principles of RMC. The \"good NICU mother\" emerged as a regulatory standard (defined by constant bedside presence, emotional composure, breastmilk production, and fluency in medical terminology) that participants were evaluated against but structurally unable to meet. For Black mothers, these expectations intersected with racialized assumptions about maternal competence and responsibility, intensifying experiences of surveillance and scrutiny.\nCONCLUSIONS: Institutional systems of perinatal care function as sites where maternal legitimacy is interpreted and evaluated, often in ways that undermine RMC for Black mothers. Extending RMC principles beyond labor and delivery into neonatal intensive care settings is essential for achieving equitable, dignity-centered care. Structural reforms to visitation policies, documentation practices, and communication standards are needed across the full perinatal continuum.",
+        "journal": "BMC pregnancy and childbirth",
+        "authors": [
+          "Karen F Warren",
+          "Nansi Boghossian",
+          "Robin B Dail",
+          "Robin M Dawson",
+          "Tisha M Felder"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-10T00:00:00.000Z",
+        "activityAt": "2026-11-06T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42989172/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "未被识别与未被倾听：黑人母亲在早产连续过程中应对“好NICU母亲”理想的经历",
+          "researchQuestion": "基于尊重性孕产保健原则，考察经历早产和新生儿重症监护室住院的黑人母亲如何经历分娩、新生儿转运和NICU住院，以及机构对“好NICU母亲”的期待如何塑造其母亲身份与合法性。",
+          "studyDesign": "定性研究；对深入访谈进行反思性主题分析。",
+          "populationAndSample": "5名黑人母亲，其早产儿在24至28周妊娠出生并需新生儿转运至南卡罗来纳州一家三级NICU；访谈在婴儿NICU住院期间或之后不久进行。",
+          "methods": "采用Braun和Clarke六阶段方法进行反思性主题分析；使用改编的美国国立少数族裔健康与健康差异研究所研究框架对发现进行情境化。",
+          "keyResults": "识别出三个阶段的经历：（1）早产临产与首次接触医疗系统；（2）在转诊医院早产及新生儿转运；（3）NICU住院期间的产后阶段。在所有三个阶段，参与者描述其担忧被忽视、沟通受限、自主性有限以及身体和情感上的不当对待；这些经历与尊重性孕产保健的核心原则直接冲突。“好NICU母亲”作为一种规范标准出现，其定义包括持续在床边陪伴、情绪稳定、泌乳和熟悉医学术语；参与者被以此标准评价，但在结构上无法满足。对黑人母亲而言，这些期待与关于母亲能力和责任的种族化假设交织，加剧了被监视和审视的经历。",
+          "limitations": "摘要未报告明确的局限性。",
+          "clinicalInterpretation": "该定性研究提示，围产期保健机构系统会成为评价母亲合法性的场所，并可能削弱黑人母亲获得尊重性孕产保健的体验；作者认为将尊重性孕产保健原则从产房延伸至NICU，并对探视政策、记录实践和沟通标准进行结构性改革，是实现公平、以尊严为中心照护所必需的。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "d0f101168a92ac3870590e60aee5f921fe83db4f463087ec9fa39b17fc5a9d30"
+      },
+      {
+        "id": "pmid:42989246",
+        "pmid": "42989246",
+        "doi": "10.1186/s12911-026-03727-3",
+        "title": "An interpretable machine learning model integrating 54 test indicators and age: a single-center study on precise discrimination between serous ovarian cancer and ovarian cysts.",
+        "abstract": "BACKGROUND: Serous ovarian cancer (SOC) is a highly malignant subtype of epithelial ovarian tumors, most patients are diagnosed at an advanced stage (III/IV). However, existing single tumor markers have limited diagnostic performance. Therefore, this study aims to develop an interpretable machine learning model by integrating 54 test indicators and age to accurately differentiate between SOC and ovarian cysts.\nMETHODS: A retrospective analysis was conducted on 648 patients with pathologically confirmed diagnoses (SOC = 155 cases, benign cysts = 493 cases). The i-Research software developed by Roche, based on R language, was used to randomly divide the dataset into a training set and a validation set at a 7:3 ratio. An integrated feature selection approach combining LASSO, Random Forest (RF), and Decision Tree algorithms was applied to identify six key indicators for model construction. Eleven machine learning algorithms, including logistic regression (LR), RF, and XGBoost, were evaluated using eight performance metrics to identify the optimal model. SHAP values were employed to provide multi-level interpretability.\nRESULTS: The LR model was selected as the final model because of its better interpretability and clinical usability on the internal validation set (n = 195): AUC = 0.979 (95% CI: 0.958-0.994), sensitivity = 89.4%, specificity = 93.9%, accuracy = 92.8%, F1 score = 92.9%, and Kappa coefficient = 80.9%. Age, RAR, CA125, CA153, and MLR were identified as risk factors, whereas RBC count was found to be a protective factor.\nCONCLUSION: This study innovatively constructs an interpretable LR model offering a practical and reliable tool for the preoperative differential diagnosis of SOC and ovarian cysts.\nCLINICAL TRIAL NUMBER: Not applicable.",
+        "journal": "BMC medical informatics and decision making",
+        "authors": [
+          "Bingru Lu",
+          "Chunmei Liu",
+          "Fulu Chu",
+          "Shan Ding",
+          "Yang Qiu",
+          "Ying Ju",
+          "Yiqing Liu",
+          "Zhongning Wei"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-08T00:00:00.000Z",
+        "activityAt": "2026-11-06T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42989246/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "整合54项检验指标和年龄的可解释机器学习模型：一项单中心研究用于精确区分浆液性卵巢癌与卵巢囊肿",
+          "researchQuestion": "能否通过整合54项检验指标和年龄构建可解释机器学习模型，以准确区分浆液性卵巢癌与卵巢囊肿？",
+          "studyDesign": "单中心回顾性研究。",
+          "populationAndSample": "648例经病理确诊患者（浆液性卵巢癌155例，良性囊肿493例）。",
+          "methods": "使用Roche开发的基于R语言的i-Research软件按7:3随机分为训练集和验证集；采用LASSO、随机森林和决策树相结合的集成特征选择方法识别6个关键指标用于建模；评估11种机器学习算法（包括逻辑回归、随机森林和XGBoost）并使用8项性能指标选择最优模型；用SHAP值提供多层级可解释性。",
+          "keyResults": "逻辑回归模型因在内部验证集（n = 195）上具有更好的可解释性和临床可用性而被选为最终模型：AUC = 0.979（95% CI：0.958-0.994），灵敏度 = 89.4%，特异度 = 93.9%，准确率 = 92.8%，F1分数 = 92.9%，Kappa系数 = 80.9%。年龄、RAR、CA125、CA153和MLR被识别为危险因素，红细胞计数为保护因素。",
+          "limitations": "摘要未报告明确的局限性；研究为单中心回顾性分析，性能在内部验证集报告，外部验证未报告。",
+          "clinicalInterpretation": "作者认为该可解释逻辑回归模型为浆液性卵巢癌与卵巢囊肿的术前鉴别诊断提供了实用且可靠的工具；解读应结合其单中心回顾性设计和内部验证结果。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "53b4d417fc16730c2ee56fa2dc26716aed371a65d0d0e240ad9703f034a412f8"
+      }
+    ]
+  }
+}
