@@ -1,0 +1,261 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-11-08T23:57:37.688Z",
+    "dataAsOf": "2026-11-08T23:57:37.688Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及中东地区父母对人乳头瘤病毒疫苗接种的健康信念与反应：基于健康信念模型的理论指导叙述性综合、子宫内膜异位症相关疼痛的生活体验及对混合式数字CBT干预的感知：一项混合方法研究、与雄心保持一致：本科护理及辅助医疗学生对WHO 90-70-90宫颈癌消除目标的知识、态度和感知准备度：一项比较研究。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:42996719",
+        "pmid": "42996719",
+        "doi": "10.3389/fpubh.2026.1853938",
+        "title": "Health beliefs and parental responses to human papillomavirus vaccination in the Middle East: a theory-informed narrative synthesis guided by the health belief model.",
+        "abstract": "BACKGROUND: Human papillomavirus (HPV) is the most common sexually transmitted infection in women and the primary cause of cervical cancer (CC). HPV vaccination and screening programs have significantly reduced CC incidence and mortality worldwide, preventing up to 70% of HPV-related CC and 90% of genital warts. Developing effective vaccination strategies is therefore essential.\nOBJECTIVES: This study systematically synthesizes the attitudes and health beliefs of Middle Eastern (ME) parents regarding HPV vaccination, examines parental vaccine uptake, and assesses uptake among their children.\nMETHODS: This systematic review followed PRISMA guidelines. PubMed/MEDLINE, Web of Science, CINAHL, and Google Scholar were searched for studies published between January 2006 and May 2025. Thirty-three studies were included. A theory-informed narrative synthesis of predominantly quantitative evidence was conducted, with deductive mapping of findings to the health belief model (HBM) constructs. The review protocol was registered in PROSPERO (CRD42025645551).\nRESULTS: The review included 32 quantitative cross-sectional studies and one qualitative study, involving 18,170 participants. Findings were organized according to HBM constructs, including perceived susceptibility, severity, barriers, benefits, self-efficacy, and cues to action. Parents generally demonstrated limited knowledge of HPV and vaccination. Major barriers included safety concerns, cost, limited access, lack of healthcare provider recommendations, and insufficient information. Cultural and systemic factors were also associated with vaccine uptake.\nCONCLUSION: HPV-related knowledge in ME countries remains insufficient and is frequently associated with vaccination attitudes and acceptance across the included studies. Improving uptake requires targeted educational interventions, healthcare provider engagement, public health campaigns, financial support, and policy-level initiatives. Strengthening awareness and addressing structural barriers are critical for enhancing vaccination acceptance. Self-efficacy, where directly reported, appeared to be associated with more favorable vaccine attitudes; however, direct evidence for parental self-efficacy as a distinct HBM construct was limited across the included studies and should not be overstated.\nSYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/myprospero/CRD42025645551.",
+        "journal": "Frontiers in public health",
+        "authors": [
+          "Ahmad Abuzoor",
+          "Cor Jonker",
+          "Md Shafiqur Rahman Jabin"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-23T00:00:00.000Z",
+        "activityAt": "2026-11-08T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42996719/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "中东地区父母对人乳头瘤病毒疫苗接种的健康信念与反应：基于健康信念模型的理论指导叙述性综合",
+          "researchQuestion": "系统综合中东地区父母对HPV疫苗接种的态度与健康信念，考察父母自身及子女的疫苗接种情况，并按健康信念模型（HBM）构念进行映射。",
+          "studyDesign": "系统综述，遵循PRISMA指南；采用理论指导的叙述性综合，并以HBM构念进行演绎映射；综述方案注册于PROSPERO（CRD42025645551）。",
+          "populationAndSample": "纳入2006年1月至2025年5月发表的33项研究，其中32项定量横断面研究和1项定性研究，共18,170名参与者；研究地区为中东。",
+          "methods": "检索PubMed/MEDLINE、Web of Science、CINAHL和Google Scholar；对以定量证据为主的文献进行叙述性综合，并将结果演绎映射至HBM构念（易感性、严重性、障碍、获益、自我效能、行动线索）。",
+          "keyResults": "父母对HPV及疫苗的知识普遍有限。主要障碍包括安全性担忧、费用、可及性有限、缺乏医务人员推荐和信息不足；文化及系统性因素也与疫苗接种情况相关。自我效能（在有直接报告时）似乎与更积极的疫苗态度相关，但将父母自我效能作为独立HBM构念的直接证据有限，不应夸大。",
+          "limitations": "以叙述性综合为主，纳入证据以定量横断面研究为主；摘要未报告纳入研究的偏倚风险、地区分布及定量合并结果；父母自我效能作为独立HBM构念的直接证据有限。",
+          "clinicalInterpretation": "结果提示中东地区HPV相关知识和接种接受度存在不足，并涉及文化、系统与信息层面的障碍；作者提出需针对性教育、医务人员参与、公共卫生宣传、经济支持和政策层面举措。该综述为证据综合，不能据此形成指南或临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "b76d276409a002b8f1aebd721b596b08fe2f24e92d70da5926944597451c0757"
+      },
+      {
+        "id": "pmid:42995486",
+        "pmid": "42995486",
+        "doi": "10.1155/prm/6150844",
+        "title": "Lived Experiences of Endometriosis-Related Pain and Perceptions of a Blended Digital CBT Intervention: A Mixed-Methods Study.",
+        "abstract": "BACKGROUND: Endometriosis affects approximately 10% of women of reproductive age and is associated with reduced health and quality of life yet remains poorly understood and undertreated. The Digital behAvioural HeaLth treatment for chronIc pAin (DAHLIA) aims to enhance behavioural self-management and resilience to pain through six self-guided digital modules and regular therapist contact. This study aimed to explore women's lived experiences of endometriosis-related pain and their perceptions of the DAHLIA content and structure.\nMETHODS: Six women with endometriosis were consecutively recruited. Semistructured interviews were conducted and analysed using Thematic Analysis. Qualitative findings were complemented by patient-reported outcome measures collected before and after the treatment and analysed with the Reliable Change Index.\nRESULTS: Participants expressed positive views of the treatment, particularly valuing therapist contact via phone/video over in-person or text-based communication. A recurring theme was feeling seen and acknowledged, contrasting previous experiences of dismissal in healthcare. Time demands were noted as a challenge. PROMs indicated reductions in pain and mixed outcomes regarding psychological symptoms and pain acceptance, suggesting potential utility of the intervention.\nCONCLUSION: The DAHLIA treatment appears feasible and well-received, with findings indicating potentially meaningful improvements in physical and psychological domains. This study supports DAHLIA as a promising treatment option for women with endometriosis, warranting further investigation.\nTRIAL REGISTRATION: ClinicalTrials.gov identifier: NCT05066087.",
+        "journal": "Pain research & management",
+        "authors": [
+          "Afra Taygar",
+          "Ellen Carlsson",
+          "Linnéa Engman",
+          "Rikard K Wicksell",
+          "Sara Laureen Bartels",
+          "Suzanne Petersson"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-01-01T00:00:00.000Z",
+        "activityAt": "2026-11-08T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42995486/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "子宫内膜异位症相关疼痛的生活体验及对混合式数字CBT干预的感知：一项混合方法研究",
+          "researchQuestion": "探索子宫内膜异位症相关疼痛女性的生活体验，以及她们对DAHLIA（针对慢性疼痛的数字行为健康治疗）内容和结构的看法。",
+          "studyDesign": "混合方法研究：半结构式访谈加主题分析，辅以治疗前后患者报告结局（PROMs）及可靠变化指数分析。",
+          "populationAndSample": "连续招募6名子宫内膜异位症女性；摘要未报告年龄、病程等人口学或临床特征。",
+          "methods": "进行半结构式访谈并采用主题分析；在治疗前后收集PROMs，使用可靠变化指数分析。DAHLIA包括六个自我指导数字模块和定期治疗师联系。",
+          "keyResults": "参与者对治疗持积极看法，尤其重视通过电话或视频与治疗师联系，而非面对面或文字沟通。反复出现的主题是感到被看见和被认可，与此前在医疗中感到被忽视形成对比。时间要求被视为挑战。PROMs显示疼痛下降，心理症状和疼痛接受度结果不一，提示干预可能有潜在效用。",
+          "limitations": "样本量仅6例，为连续招募的探索性研究；摘要未报告对照设置、随访时长及PROMs具体数值；心理症状和疼痛接受度结果不一，不能据此确定疗效。",
+          "clinicalInterpretation": "作者认为DAHLIA可行且接受度好，可能在躯体和心理领域带来有意义的改善，是值得进一步研究的有前景治疗选择；但当前证据不足以确立其临床有效性。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "9381060dea4a584614c8bf133d133bf82be7d5f68951172e6c50ad5d8c272baf"
+      },
+      {
+        "id": "pmid:42995571",
+        "pmid": "42995571",
+        "doi": "10.1186/s12912-026-05221-7",
+        "title": "Alignment with ambition: knowledge, attitude, and perceived preparedness of undergraduate nursing and paramedical students towards WHO 90-70-90 cervical cancer elimination targets: a comparative study.",
+        "abstract": "BACKGROUND: The World Health Organization (WHO) has launched the ambitious 90-70-90 strategy for cervical cancer elimination, aiming by 2030 to achieve 90% vaccination coverage in girls by age 14, 70% screening coverage in women at ages 35 and 45, and 90% treatment for identified cases. These objectives may remain aspirational without adequate knowledge and preparedness of healthcare trainees, especially nursing and paramedical students. This study compares the knowledge, attitude, and perceived preparedness of undergraduate nursing and paramedical students to implement the WHO's cervical cancer elimination strategy. Perceived preparedness was assessed as a distinct construct from general attitude, recognizing that positive attitudes do not necessarily translate to confidence in practical implementation.\nMETHODS: A cross-sectional comparative study was conducted among 304 final-year students: Group A (nursing students, n = 152) and Group B (paramedical students, n = 152) across three healthcare institutions in Jammu and Kashmir, India. A 35-item structured questionnaire (25 knowledge items, 10 attitude/perceived preparedness items) was used. Knowledge was assessed across four domains aligned with WHO targets: basic virology and burden, HPV vaccination, screening and triage, and WHO targets. Attitude and perceived preparedness were evaluated on a 5-point Likert scale. Bivariate analysis (chi-square, independent t-test) and multivariate logistic regression were performed.\nRESULTS: The mean knowledge score across all participants was 58.7% (SD = 16.2). Nursing students demonstrated significantly higher knowledge (65.3%, SD = 14.1) compared to paramedical students (52.1%, SD = 15.3), with a mean difference of 13.2% and p < 0.001. Significant knowledge gaps were observed regarding WHO recommended strategies in which only 31.6% of nursing and 12.5% of paramedical students were aware of the single-dose HPV vaccine recommendation (p < 0.001), and: 44.1% of nursing vs. 21.7% of paramedical students correctly identified HPV DNA testing as the primary screening method(p < 0.001). Knowledge of WHO 90-70-90 targets was particularly low, with less than 35% of students in either group were able to correct to specify the targets. While as 80% of students in both groups held positive attitude towards cervical cancer elimination, a deficit in perceived preparedness was evident. Only 33.6% of nursing and 14.5% of paramedical students felt prepared to educate patients about WHO strategy. Multivariate analysis confirmed that having a dedicated cervical cancer lecture was the strongest independent predictor of good knowledge (aOR = 5.18, 95% CI 3.02-8.89) and high perceived preparedness (aOR = 3.91, 95% CI 2.23-6.86).\nCONCLUSIONS: Current health science curricula are misaligned with the competencies required to achieve the WHO's 90-70-90 elimination targets. The findings suggest an urgent need for standardized interdisciplinary curriculum reform that integrates contemporary elimination strategies and equips future healthcare professionals with the knowledge and practical confidence to act as effective agents of cervical cancer elimination. However, as this is a cross-sectional study, interventional studies are needed to evaluate the effectiveness of specific educational strategies.",
+        "journal": "BMC nursing",
+        "authors": [
+          "Basim Al Shammari",
+          "Chandrakala Sankarapandian",
+          "Fares Alshammari",
+          "Jalal Alharbi",
+          "Majed Alamri",
+          "Saima Habeeb"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-10T00:00:00.000Z",
+        "activityAt": "2026-11-08T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42995571/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "与雄心保持一致：本科护理及辅助医疗学生对WHO 90-70-90宫颈癌消除目标的知识、态度和感知准备度：一项比较研究",
+          "researchQuestion": "比较本科护理与辅助医疗学生对WHO 90-70-90宫颈癌消除目标的知识、态度和感知准备度，并将感知准备度作为区别于一般态度的独立构念评估。",
+          "studyDesign": "横断面比较研究。",
+          "populationAndSample": "印度Jammu and Kashmir三所卫生机构的304名毕业年级学生；护理组n=152，辅助医疗组n=152。",
+          "methods": "使用35项结构化问卷（25项知识、10项态度/感知准备度）；知识覆盖基础病毒学与疾病负担、HPV疫苗、筛查与分流、WHO目标四个领域；态度和感知准备度用5点Likert量表评估；采用卡方检验、独立样本t检验及多因素logistic回归。",
+          "keyResults": "总体平均知识得分为58.7%（SD=16.2）；护理学生为65.3%（SD=14.1），高于辅助医疗学生的52.1%（SD=15.3），平均差13.2%，p<0.001。仅31.6%护理学生和12.5%辅助医疗学生知晓单剂HPV疫苗推荐（p<0.001）；44.1%护理学生和21.7%辅助医疗学生正确识别HPV DNA检测为主要筛查方法（p<0.001）；两组能正确说出WHO 90-70-90目标者均不足35%。两组约80%学生对宫颈癌消除持积极态度，但感知准备度不足：仅33.6%护理学生和14.5%辅助医疗学生感到准备好向患者宣教WHO策略。多因素分析显示，设有专门宫颈癌讲座是良好知识（aOR=5.18，95%CI 3.02-8.89）和高感知准备度（aOR=3.91，95%CI 2.23-6.86）的最强独立预测因素。",
+          "limitations": "横断面设计不能推断因果；作者指出需要干预性研究评估具体教育策略的效果；摘要未报告三所机构之外的代表性及其他局限性。",
+          "clinicalInterpretation": "作者认为现有卫生科学课程与实现WHO 90-70-90目标所需能力不匹配，提示需要标准化跨学科课程改革，将当代消除策略纳入培养；但横断面结果不能证明课程改革会改善结局，也不能作为临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "1ad38d4b6b45d7010fbbaa483970861bffa9d41585a1ceb09901489b8002b223"
+      },
+      {
+        "id": "pmid:42995624",
+        "pmid": "42995624",
+        "doi": "10.1186/s13048-026-02204-9",
+        "title": "Exploring the molecular pathways of Noncoding RNAs in ovarian cancer: insights into treatment resistance.",
+        "abstract": "Ovarian cancer ranks as the third most common gynecological malignancy, yet it has the highest mortality and recurrence rates among all gynecologic cancers. Chemotherapy combined with immunomodulators and targeted agents, including PTX, ADR, PARPi, and platinum-based chemotherapeutics, markedly prolongs progression-free survival of patients with advanced ovarian cancer. Nevertheless, most advanced patients develop acquired drug resistance after long-term chemotherapy, resulting in poor clinical therapeutic efficacy. At present, the detailed mechanisms underlying ovarian cancer chemoresistance have been increasingly elucidated, including enhanced drug efflux, epigenetic modifications, DNA damage repair, apoptosis resistance, and EMT, among others. All the above biological processes are precisely modulated by upstream regulatory molecules, among which ncRNAs, covering miRNAs, lncRNAs and circRNAs, serve as core upstream regulators and exert pivotal functions in tumor malignant progression and chemotherapy resistance. Mechanistically, ncRNAs modulate the resistance via constructing diverse ceRNA competitive regulatory axes and governing canonical drug efflux, cancer stem cell and apoptotic signaling pathways in ovarian cancer. This review systematically summarizes the regulatory roles and molecular networks of ncRNAs in ovarian cancer chemoresistance. Notably, we further highlight the clinical translational potential of ncRNAs: ncRNAs can be applied for patient survival stratification, and act as druggable anti-tumor therapeutic targets to reverse chemoresistance, which provides novel clinical strategies for individualized treatment and curative effect improvement of refractory ovarian cancer.",
+        "journal": "Journal of ovarian research",
+        "authors": [
+          "Hongkai Shang",
+          "Huan Shi",
+          "Jie Yu",
+          "Jingxia Zhang",
+          "Qiaoping Xu",
+          "Weiyan Shan"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-08-10T00:00:00.000Z",
+        "activityAt": "2026-11-08T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42995624/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "探索非编码RNA在卵巢癌中的分子通路：对治疗耐药性的启示",
+          "researchQuestion": "系统总结非编码RNA（miRNAs、lncRNAs、circRNAs）在卵巢癌化疗耐药中的调控作用和分子网络，并探讨其临床转化潜力。",
+          "studyDesign": "综述；摘要未报告是否为系统综述及具体检索策略。",
+          "populationAndSample": "摘要未报告纳入研究数量、患者样本或动物/细胞模型细节。",
+          "methods": "总结ncRNAs在卵巢癌化疗耐药中的调控作用与分子网络，包括ceRNA竞争调控轴、经典药物外排、癌症干细胞和凋亡信号通路；摘要未报告文献检索、筛选和质量评价方法。",
+          "keyResults": "卵巢癌是第三常见妇科恶性肿瘤，但在所有妇科癌症中死亡率和复发率最高。化疗联合免疫调节剂及靶向药物（包括PTX、ADR、PARPi和铂类）可显著延长晚期患者无进展生存期，但多数晚期患者长期化疗后出现获得性耐药。耐药机制涉及药物外排增强、表观遗传修饰、DNA损伤修复、凋亡抵抗和EMT等；ncRNAs作为核心上游调控分子参与肿瘤恶性进展和化疗耐药。ncRNAs可通过构建多种ceRNA竞争调控轴及调控药物外排、癌症干细胞和凋亡信号通路来调节耐药。作者提出ncRNAs可用于患者生存分层，并作为可成药抗肿瘤治疗靶点以逆转化疗耐药。",
+          "limitations": "为综述，摘要未报告系统检索、纳入研究数量、证据质量评价或定量合并；所提出的生存分层和治疗靶点转化潜力尚需原始研究验证。",
+          "clinicalInterpretation": "该综述提示ncRNAs可能作为卵巢癌耐药相关的生物标志物和治疗靶点，为个体化治疗提供研究方向；但当前为文献总结，不能据此改变临床实践或形成指南。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "1001c6bce6cf8d6506bd873a83d96350b926acd2fc11ff039339a4794da13acc"
+      },
+      {
+        "id": "pmid:42995876",
+        "pmid": "42995876",
+        "doi": "10.64898/2026.10.17.759797",
+        "title": "Sustained Maternal Cortisol Elevation Links Metabolic Stress to Fetal Growth Restriction in a Guinea Pig Model of Undernutrition.",
+        "abstract": "UNLABELLED: Fetal growth restriction (FGR) resulting from maternal undernutrition is commonly attributed to insufficient nutrient substrate delivery to the fetus. However, the contribution of maternal physiological stress responses to this outcome remains poorly characterized. Using the well-established guinea pig maternal nutrient restriction (MNR) model, we conducted a comprehensive retrospective analysis to interrogate the hypothesis that maternal stress physiology actively mediates fetal growth outcomes beyond simple substrate limitation. Maternal salivary and serum cortisol were significantly elevated in MNR dams throughout pregnancy despite no baseline differences at conception, indicating that hypothalamic-pituitary-adrenal (HPA) axis activation was specifically triggered by the combined physiological demands of pregnancy and nutritional constraint. The sustained cortisol elevation was accompanied by acute metabolic perturbations at mid-pregnancy, including hypoglycemia and depleted circulating lipids. While most acute metabolic disturbances resolved by near-term, cortisol remained elevated, and MNR fetuses exhibited parallel cortisol elevation alongside sustained growth restriction. Maternal weight divergence emerged only in late gestation and was driven primarily by reduced conceptus weight. Maternal organ analysis revealed selective hepatic enlargement with apparent lipid accumulation in MNR dams near-term. Overall, these findings help to reframe nutrition-related FGR as a condition in which maternal adaptive stress responses, reduced nutritional components and placental insufficiency are mechanistically intertwined, with important implications for the design of effective interventions beyond simply nutrient supplementation.\nNEW AND NOTEWORTHY: This study demonstrates that maternal physiological stress, not substrate limitation alone, is a driver of impaired fetal growth in a guinea pig model of undernutrition in pregnancy. We show that maternal hypothalamic-pituitary-adrenal axis activation produces sustained cortisol elevation throughout pregnancy independent of nutritional recovery. This stress-related response was accompanied by selective hepatic and metabolic adaptations.",
+        "journal": "bioRxiv : the preprint server for biology",
+        "authors": [
+          "Baylea Davenport",
+          "Courtney Ruggiero",
+          "Helen Jones",
+          "Priscilla Radillo",
+          "Rebecca Wilson"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Preprint"
+        ],
+        "publishedAt": "2026-10-19T00:00:00.000Z",
+        "activityAt": "2026-11-08T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42995876/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "持续母体皮质醇升高将代谢应激与营养不足豚鼠模型中的胎儿生长受限联系起来",
+          "researchQuestion": "在豚鼠母体营养限制模型中，检验母体应激生理是否在单纯底物限制之外主动介导胎儿生长结局。",
+          "studyDesign": "对已建立的豚鼠母体营养限制（MNR）模型进行回顾性分析；动物实验研究；元数据标注为预印本。",
+          "populationAndSample": "豚鼠MNR模型；摘要未报告动物数量、营养限制方案及分组细节。",
+          "methods": "检测母体唾液和血清皮质醇、孕期代谢扰动、胎儿生长及母体器官；摘要未报告具体检测时点、统计方法和样本量。",
+          "keyResults": "MNR母体在整个孕期唾液和血清皮质醇显著升高，而受孕时无基线差异，提示HPA轴激活由妊娠与营养限制的共同生理需求触发。持续皮质醇升高伴随孕中期急性代谢扰动，包括低血糖和循环脂质耗竭。多数急性代谢紊乱近足月时缓解，但皮质醇仍升高；MNR胎儿也出现平行皮质醇升高并持续生长受限。母体体重差异仅在妊娠晚期出现，主要由孕体重量降低驱动。近足月MNR母体器官分析显示选择性肝脏增大并伴明显脂质蓄积。",
+          "limitations": "为豚鼠模型的回顾性分析，摘要未报告样本量、盲法、对照细节和统计不确定性；动物结果不能直接外推到人类；本文为预印本，摘要未报告同行评审状态及其他局限性。",
+          "clinicalInterpretation": "作者据此提出，营养相关FGR应被重新理解为母体适应性应激反应、营养组分减少和胎盘功能不全机制交织的状态，提示干预不应仅限于补充营养；但这些发现来自动物模型，尚不能转化为人类临床建议。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "12dfa0c17bf24c0f3bead410a4d97aa09e3d3f0339cfa61ffe76f602238d8a29"
+      }
+    ]
+  }
+}
