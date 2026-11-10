@@ -7,8 +7,8 @@
   "editor_note": "过去24小时暂无符合质量要求的重要更新。",
   "keywords": [],
   "research": {
-    "generatedAt": "2026-11-10T23:10:07.264Z",
-    "dataAsOf": "2026-11-10T23:10:07.264Z",
+    "generatedAt": "2026-11-10T23:40:07.484Z",
+    "dataAsOf": "2026-11-10T23:40:07.484Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及父体BMI与接受IUI、IVF和ICSI生育治疗队列中精液质量的关联：系统综述与荟萃分析、宫颈癌根治性放疗或放化疗后总治疗时间与肿瘤学结局：系统综述与荟萃分析、宫颈癌根治性子宫切除术后膀胱康复：系统综述。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
@@ -42,15 +42,6 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 100,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "父体BMI与接受IUI、IVF和ICSI生育治疗队列中精液质量的关联：系统综述与荟萃分析",
           "researchQuestion": "在接受IUI或ART（包括IVF、ICSI）的人群中，父体BMI是否与精液质量相关？",
@@ -62,7 +53,16 @@
           "clinicalInterpretation": "该荟萃分析提示父体超重与精子总活力较低相关，父体肥胖与所评估精液参数无显著关联；这些为观察性关联，不能据此推断因果或形成临床指南。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "95825d2619a8a00e28899010bc5480b97c5edd728662b6060f38d8eae2c7a81a"
+        "summaryInputHash": "95825d2619a8a00e28899010bc5480b97c5edd728662b6060f38d8eae2c7a81a",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:43005054",
@@ -91,15 +91,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 100,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "宫颈癌根治性放疗或放化疗后总治疗时间与肿瘤学结局：系统综述与荟萃分析",
           "researchQuestion": "宫颈癌根治性放疗或放化疗中，总治疗时间（OTT）延长是否与肿瘤学结局相关？",
@@ -111,7 +102,16 @@
           "clinicalInterpretation": "结果提示OTT延长与较差生存和更高局部/盆腔/野内失败风险相关，摘要结论支持按时完成根治性放疗；这是系统综述的关联性证据，不能改写为指南或临床指令。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "08220c0e2e02355d88b91784ca30e9ebb178640b62d32ff9c08f0eeb84fa00fe"
+        "summaryInputHash": "08220c0e2e02355d88b91784ca30e9ebb178640b62d32ff9c08f0eeb84fa00fe",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:43003416",
@@ -138,15 +138,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 100,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "宫颈癌根治性子宫切除术后膀胱康复：系统综述",
           "researchQuestion": "宫颈癌根治性子宫切除术后，膀胱管理和康复策略对膀胱恢复、泌尿结局和生活质量有何证据？",
@@ -158,7 +149,16 @@
           "clinicalInterpretation": "结构化术后膀胱管理和康复可能改善膀胱恢复和患者报告结局，但证据确定性有限，不能据此形成统一临床指令。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "3a109dae0e3ff9b6de53066b7ffe8130af0ffdbaff9e1afefb8683c84872336a"
+        "summaryInputHash": "3a109dae0e3ff9b6de53066b7ffe8130af0ffdbaff9e1afefb8683c84872336a",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:43004669",
@@ -185,15 +185,6 @@
         "matchedTopicIds": [
           "minimally-invasive-surgery"
         ],
-        "assignedTopicId": "minimally-invasive-surgery",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 23.75,
-          "clinicalActionability": 7.5,
-          "recency": 10,
-          "total": 91.25,
-          "evidenceRank": 0.95
-        },
         "summaryZh": {
           "titleZh": "Oliceridine与舒芬太尼联合昂丹司琼对宫腔镜手术后恶心呕吐及QTc间期的影响：前瞻性随机对照研究",
           "researchQuestion": "在全身麻醉非插管宫腔镜手术中，oliceridine联合昂丹司琼与舒芬太尼联合昂丹司琼相比，对24小时术后恶心呕吐（PONV）发生率和围术期QTc变化有何影响？",
@@ -205,7 +196,16 @@
           "clinicalInterpretation": "在该随机对照试验中，oliceridine联合昂丹司琼未较舒芬太尼联合昂丹司琼显著降低24小时PONV；围术期ΔQTc变化较小且组间相似，未见有临床意义的QTc延长。结果受统计效能限制，不能作为临床指令。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "26b3e2272e04cc94828b4a0e0797fe6524d2a71297777a9f5b6132bb86c86587"
+        "summaryInputHash": "26b3e2272e04cc94828b4a0e0797fe6524d2a71297777a9f5b6132bb86c86587",
+        "assignedTopicId": "minimally-invasive-surgery",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 7.5,
+          "recency": 10,
+          "total": 91.25,
+          "evidenceRank": 0.95
+        }
       },
       {
         "id": "pmid:43005218",
@@ -231,15 +231,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 6,
-          "recency": 10,
-          "total": 91,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "代谢疾病的胎盘编程：从母亲妊娠并发症到子代代谢风险的分子通路",
           "researchQuestion": "母亲妊娠并发症如何通过胎盘结构和分子编程影响子代代谢疾病风险？",
@@ -251,7 +242,16 @@
           "clinicalInterpretation": "该综述将胎盘定位为连接母亲并发症与子代内分泌和复杂代谢疾病易感性的主要生物界面，提供发育编程整合框架；属于机制性综述，不能作为临床指南。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "f9312c7cd4b388a33f82858f188d8dc82990807492a9cf563d6128f0f89afafa"
+        "summaryInputHash": "f9312c7cd4b388a33f82858f188d8dc82990807492a9cf563d6128f0f89afafa",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 6,
+          "recency": 10,
+          "total": 91,
+          "evidenceRank": 1
+        }
       }
     ]
   }
