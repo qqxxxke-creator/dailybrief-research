@@ -1,0 +1,264 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-11-10T01:44:44.298Z",
+    "dataAsOf": "2026-11-10T01:44:44.298Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及严重妊娠并发症后的心理健康结局：范围综述、宫颈癌治疗抵抗的分子决定因素：系统综述与公开数据集的整合生物信息学分析、控制性卵巢刺激期间相对雌二醇反应与IVF/ICSI后周期水平囊胚形成：回顾性队列研究。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:43000308",
+        "pmid": "43000308",
+        "doi": "10.1186/s12884-026-09750-6",
+        "title": "Mental health outcomes after severe pregnancy complications: a scoping review.",
+        "abstract": "BACKGROUND: Postpartum mental health issues such as postpartum depression, anxiety and psychosis currently affect up to 17% of women globally. Pregnancy complications including severe maternal morbidity, hypertensive disorders of pregnancy and obstetric hemorrhage can be traumatic events that lead to increased risk of postpartum mental illness. This scoping review synthesizes evidence on associations between maternal pregnancy complications including severe maternal morbidity, hypertensive disorders of pregnancy and obstetric hemorrhage comorbidly with peripartum mental health outcomes.\nMETHODS: Following PRISMA-ScR guidelines, we searched MEDLINE, Embase, PsycInfo, and CINAHL (inception-August 2025) for studies comparing mental health outcomes (depression, post-traumatic stress disorder, anxiety, psychosis, suicidality, substance use) in individuals with vs. without pregnancy complications. Random-effects meta-analyses were conducted where feasible (I²<80%).\nRESULTS: Of 4,188 records initially identified, 79 studies (68.1 million participants) were included in this review. Meta-analyses of up to six studies showed greater odds of postpartum depression following hypertensive disorders of pregnancy (OR = 1.72, 95% confidence interval 1.27-2.32) and obstetric hemorrhage (OR = 1.73, 95% confidence interval 1.27-2.39). Associations between composite severe maternal morbidity and depression were inconsistent. Evidence suggested possible associations between composite severe maternal morbidity and post-traumatic stress disorder, but findings varied across studies. Significant statistical heterogeneity and insufficient studies prevented meta-analyses of studies examining anxiety disorders, substance abuse, suicidality or psychosis, as well as depression and PTSD, in some cases.\nCONCLUSION: Hypertensive disorders of pregnancy and obstetric hemorrhage are associated with increased odds of postpartum depression, while composite severe maternal morbidity shows variable associations with perinatal mental illness. Harmonized outcome definitions and further comprehensive research designs that include the consideration of severe psychiatric outcomes are needed to better understand mental health after severe pregnancy complications.",
+        "journal": "BMC pregnancy and childbirth",
+        "authors": [
+          "Allan Li",
+          "Asia Blackman",
+          "Gabriel D Shapiro",
+          "Jesseca Perlman",
+          "Natalie Dayan",
+          "Tina C Montreuil",
+          "Ugochinyere Vivian Ukah"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Scoping Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-12T00:00:00.000Z",
+        "activityAt": "2026-11-09T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43000308/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "严重妊娠并发症后的心理健康结局：范围综述",
+          "researchQuestion": "在患有严重孕产妇疾病、妊娠期高血压疾病和产科出血等妊娠并发症的个体中，与无这些并发症者相比，围产期心理健康结局（抑郁、创伤后应激障碍、焦虑、精神病性障碍、自杀倾向、物质使用）是否存在差异？",
+          "studyDesign": "范围综述（遵循PRISMA-ScR），并在可行时进行随机效应荟萃分析。",
+          "populationAndSample": "共纳入79项研究，合计68.1百万名参与者；比较有与无妊娠并发症者的心理健康结局。",
+          "methods": "检索MEDLINE、Embase、PsycInfo和CINAHL（建库至2025年8月），纳入比较有与无妊娠并发症者心理健康结局的研究；在可行时（I²<80%）进行随机效应荟萃分析。",
+          "keyResults": "初检4,188条记录，最终纳入79项研究（68.1百万名参与者）。最多纳入6项研究的荟萃分析显示，妊娠期高血压疾病后产后抑郁的比值比更高（OR=1.72，95%CI 1.27-2.32），产科出血后产后抑郁的比值比更高（OR=1.73，95%CI 1.27-2.39）。复合严重孕产妇疾病与抑郁的关联不一致。证据提示复合严重孕产妇疾病与创伤后应激障碍可能存在关联，但各研究结果不一。显著统计学异质性和研究不足使焦虑障碍、物质滥用、自杀倾向或精神病性障碍，以及部分情况下的抑郁和PTSD，无法进行荟萃分析。",
+          "limitations": "显著统计学异质性；部分结局研究不足，无法进行荟萃分析；复合严重孕产妇疾病与抑郁的关联不一致；摘要结论指出需要统一结局定义。",
+          "clinicalInterpretation": "该范围综述显示，妊娠期高血压疾病和产科出血与产后抑郁比值比升高相关；复合严重孕产妇疾病与围产期精神疾病的关联不一。这些为观察性关联，不能推断因果；摘要作者呼吁统一结局定义并开展更全面的研究，尤其关注严重精神科结局。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "e847d9b8f78c63df5c6e9b2de1b36245777e31817532809ea39a4bdc60b16b2b"
+      },
+      {
+        "id": "pmid:43000707",
+        "pmid": "43000707",
+        "doi": "10.12659/msm.953607",
+        "title": "Molecular Determinants of Treatment Resistance in Cervical Cancer: A Systematic Review and Integrative Bioinformatic Analysis of Publicly Available Datasets.",
+        "abstract": "Treatment resistance remains a major challenge in cervical cancer management, particularly among patients undergoing chemoradiotherapy. Despite increasing knowledge of resistance-associated molecular pathways, clinically validated biomarkers capable of predicting treatment outcomes remain limited. This study combined a systematic review of clinical and preclinical studies with an integrative bioinformatic analysis of publicly available transcriptomic datasets. Gene expression profiles from cervical cancer models exposed to chemotherapeutic agents and epigenetic modulators were analyzed to identify treatment-response-associated transcriptional signatures. Candidate genes were subsequently evaluated in clinical datasets comprising normal cervical tissue, cervical intraepithelial neoplasia, and invasive cervical cancer. Functional enrichment analysis, protein-protein interaction network construction, and survival analyses were performed to assess biological relevance. A total of 38 genes demonstrated concordant expression changes across independent treatment conditions. Clinical evaluation revealed progressive dysregulation of several candidates during cervical neoplastic progression and invasive disease development. Functional analyses indicated enrichment of pathways related to extracellular matrix organization, metabolic regulation, and p53-associated signaling. Network analysis identified lumican (LUM) as a candidate gene occupying a relatively high connectivity within the constructed interaction network. No statistically significant association between LUM expression and overall survival was observed. This integrative approach identified reproducible treatment-response-associated transcriptional signatures that may participate in biological processes relevant to therapeutic adaptation in cervical cancer. LUM emerged as a prioritized candidate for future investigation. However, its biological and clinical significance remains exploratory and requires validation in independent treatment-annotated cohorts and functional studies.",
+        "journal": "Medical science monitor : international medical journal of experimental and clinical research",
+        "authors": [
+          "Andrzej Kukiełka",
+          "Beniamin Oskar Grabarek",
+          "Bogumił Bereza",
+          "Dominika Trojnarska",
+          "Krzysztof Bereza",
+          "Nikola Zmarzły"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-11-09T00:00:00.000Z",
+        "activityAt": "2026-11-09T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43000707/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "宫颈癌治疗抵抗的分子决定因素：系统综述与公开数据集的整合生物信息学分析",
+          "researchQuestion": "宫颈癌治疗抵抗相关的可重复转录特征和候选分子决定因素是什么，候选基因LUM是否与临床进展和总生存相关？",
+          "studyDesign": "系统综述联合公开可用数据集的整合生物信息学分析。",
+          "populationAndSample": "临床和临床前研究；宫颈癌模型暴露于化疗药物和表观遗传调节剂后的基因表达谱；临床数据集包括正常宫颈组织、宫颈上皮内瘤变和浸润性宫颈癌。具体样本量摘要未报告。",
+          "methods": "系统综述临床和临床前研究，并整合分析公开转录组数据集；分析暴露于化疗药物和表观遗传调节剂的宫颈癌模型的基因表达谱，以识别治疗反应相关转录特征；在包含正常宫颈组织、宫颈上皮内瘤变和浸润性宫颈癌的临床数据集中评估候选基因；进行功能富集分析、蛋白-蛋白相互作用网络构建和生存分析。",
+          "keyResults": "38个基因在独立治疗条件下表现一致的表达变化。临床评估显示若干候选基因在宫颈肿瘤进展和浸润性疾病发展过程中呈进行性失调。功能分析提示细胞外基质组织、代谢调节和p53相关信号通路富集。网络分析识别出lumican（LUM）为所构建相互作用网络中连接度相对较高的候选基因。未观察到LUM表达与总生存之间有统计学显著关联。",
+          "limitations": "LUM的生物学和临床意义仍属探索性，需要在独立的、标注治疗信息的队列和功能研究中验证；未观察到LUM与总生存的显著关联；摘要未报告其他明确局限性。",
+          "clinicalInterpretation": "该整合分析识别出可重复的治疗反应相关转录特征，并优先提出LUM作为未来研究候选；但LUM与总生存无显著关联，且证据为探索性，尚不能作为临床可用的预测生物标志物。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "5e3478184eeb368b46a438aa73b4f3a55ebb9ce09695e692dd993bd58ba655a2"
+      },
+      {
+        "id": "pmid:43000403",
+        "pmid": "43000403",
+        "doi": "10.1186/s13048-026-02228-1",
+        "title": "Relative estradiol response during controlled ovarian stimulation and cycle-level blastocyst formation after IVF/ICSI: a retrospective cohort study.",
+        "abstract": "BACKGROUND: The clinical interpretation of relative serum estradiol response during controlled ovarian stimulation remains uncertain. We assessed its association with the cycle-level probability of obtaining at least one eligible blastocyst and, secondarily, with pregnancy outcomes after IVF/ICSI.\nMETHODS: This retrospective cohort study included 9146 women, each contributing her first recorded ovarian-stimulation IVF/ICSI cycle between January 2020 and December 2022. The E2 response ratio was calculated as (trigger-day E2 minus basal E2)/basal E2 and categorized into quartiles. The primary outcome was cycle-level blastocyst success, defined as at least one eligible blastocyst. The primary association was estimated using robust Poisson regression with prespecified pretreatment covariates; logistic regression was retained as a sensitivity analysis. Clinical pregnancy and live birth were analysed among 4191 fresh embryo-transfer cycles.\nRESULTS: Among 9146 first ovarian-stimulation cycles, 5060 (55.3%) achieved cycle-level blastocyst success. Success increased from 15.1% in Q1 to 89.2% in Q4. In the pretreatment-adjusted robust Poisson model, relative risks were 2.03 (95% CI 1.82-2.25), 2.78 (2.50-3.08) and 3.02 (2.72-3.35) for Q2, Q3 and Q4 versus Q1, respectively. Logistic and trimmed-distribution sensitivity analyses showed the same graded direction. Associations with clinical pregnancy and live birth were modest and conditional on fresh embryo transfer.\nCONCLUSIONS: Higher E2 response was associated with a greater cycle-level probability of obtaining at least one eligible blastocyst. The finding may reflect ovarian responsiveness and the number of developmental opportunities within a cycle; it does not establish an embryo-level or causal effect of E2. Pregnancy-outcome associations require cautious interpretation.",
+        "journal": "Journal of ovarian research",
+        "authors": [
+          "Haifan Wei",
+          "Ni Tang",
+          "Xueli Li",
+          "Yachao Sun",
+          "Yidong Wei",
+          "Yu Chen",
+          "Yubin Tang"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-11T00:00:00.000Z",
+        "activityAt": "2026-11-09T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43000403/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "控制性卵巢刺激期间相对雌二醇反应与IVF/ICSI后周期水平囊胚形成：回顾性队列研究",
+          "researchQuestion": "控制性卵巢刺激期间相对血清雌二醇反应（E2反应比值）与每个周期获得至少一个可用囊胚的概率是否相关，其次与IVF/ICSI后妊娠结局是否相关？",
+          "studyDesign": "回顾性队列研究。",
+          "populationAndSample": "9146名女性，每名女性纳入其2020年1月至2022年12月间首次记录的卵巢刺激IVF/ICSI周期；其中4191个新鲜胚胎移植周期用于分析临床妊娠和活产。",
+          "methods": "E2反应比值=（触发日E2－基础E2）/基础E2，并按四分位数分组。主要结局为周期水平囊胚成功（至少一个可用囊胚）。主要关联采用稳健泊松回归并纳入预设治疗前协变量；逻辑回归作为敏感性分析。在4191个新鲜胚胎移植周期中分析临床妊娠和活产。",
+          "keyResults": "9146个首次卵巢刺激周期中，5060个（55.3%）达到周期水平囊胚成功。成功率从Q1的15.1%升至Q4的89.2%。治疗前协变量调整的稳健泊松模型中，与Q1相比，Q2、Q3、Q4的相对风险分别为2.03（95%CI 1.82-2.25）、2.78（2.50-3.08）和3.02（2.72-3.35）。逻辑回归和截尾分布敏感性分析显示相同的分级方向。与临床妊娠和活产的关联较弱，且以新鲜胚胎移植为条件。",
+          "limitations": "回顾性设计；妊娠结局关联需谨慎解释；该发现不能建立E2对胚胎水平或因果效应；摘要未报告其他明确局限性。",
+          "clinicalInterpretation": "较高的E2反应与更高的周期水平获得至少一个可用囊胚的概率相关，可能反映卵巢反应性和周期内发育机会数量；但不能解释为E2对胚胎或妊娠结局的因果作用，妊娠结局关联需谨慎解读。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "bacfaed280ef627b20fcbf13fb3140969fe7bdc7a6aa2ae00cf82c8c7148c0a2"
+      },
+      {
+        "id": "pmid:43000425",
+        "pmid": "43000425",
+        "doi": "10.1186/s13098-026-02269-y",
+        "title": "Early-onset gestational diabetes mellitus and secondary maternal and neonatal complications: A systematic review and meta-analysis.",
+        "abstract": "BACKGROUND: Early-onset gestational diabetes mellitus (eGDM) is a distinct phenotype with insulin resistance and adverse metabolic profiles, but its association with secondary maternal and neonatal complications remains unclear. We aimed to evaluate this association compared with late-onset GDM (LGDM).\nMETHODS: PubMed, EMBASE, Cochrane Central, Web of Science, and CINAHL were searched up to April 20, 2026. Observational studies and secondary analyses of randomised controlled trials comparing eGDM with LGDM were included. Outcomes comprised hypertensive disorders, postpartum haemorrhage, stillbirth, congenital malformations, small for gestational age (SGA), macrosomia, respiratory distress syndrome (RDS), shoulder dystocia, and neonatal hypoglycaemia. Random-effects meta-analysis was performed.\nRESULTS: Thirty-two studies (113,889 pregnancies) were included. eGDM was associated with higher odds of hypertensive disorders (OR 1.36, 95% CI 1.10-1.69) and stillbirth (OR 2.63, 95% CI 1.75-3.95). No significant associations were observed for congenital malformations, SGA, macrosomia, RDS, shoulder dystocia, or neonatal hypoglycaemia. Heterogeneity was substantial for several outcomes (I² 55.7%-75.0%). GRADE certainty was moderate for stillbirth and SGA, and low for others.\nCONCLUSIONS: eGDM is associated with higher odds of gestational hypertension/preeclampsia and stillbirth compared with LGDM, but not with most other secondary complications. The lack of standardized diagnostic criteria across studies warrants cautious interpretation. These findings support early risk-stratified screening in high-risk women and intensified antenatal surveillance, including blood pressure monitoring and fetal assessment.",
+        "journal": "Diabetology & metabolic syndrome",
+        "authors": [
+          "Bingqian Chen",
+          "Guangnan Mei",
+          "Jin Gan",
+          "Yafang Xia"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-08-10T00:00:00.000Z",
+        "activityAt": "2026-11-09T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43000425/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "早发型妊娠期糖尿病与继发性母儿并发症：系统综述与荟萃分析",
+          "researchQuestion": "与晚发型妊娠期糖尿病（LGDM）相比，早发型妊娠期糖尿病（eGDM）是否与继发性母体和新生儿并发症相关？",
+          "studyDesign": "系统综述与随机效应荟萃分析。",
+          "populationAndSample": "32项研究，共113,889例妊娠；纳入比较eGDM与LGDM的观察性研究和随机对照试验的二次分析。",
+          "methods": "检索PubMed、EMBASE、Cochrane Central、Web of Science和CINAHL至2026年4月20日。纳入比较eGDM与LGDM的观察性研究和随机对照试验二次分析。结局包括妊娠期高血压疾病、产后出血、死产、先天畸形、小于胎龄儿（SGA）、巨大儿、呼吸窘迫综合征（RDS）、肩难产和新生儿低血糖。采用随机效应荟萃分析。",
+          "keyResults": "eGDM与妊娠期高血压疾病比值比升高相关（OR 1.36，95%CI 1.10-1.69），与死产比值比升高相关（OR 2.63，95%CI 1.75-3.95）。未观察到先天畸形、SGA、巨大儿、RDS、肩难产或新生儿低血糖的显著关联。多个结局异质性较大（I² 55.7%-75.0%）。GRADE证据确定性：死产和SGA为中等，其他为低。",
+          "limitations": "各研究诊断标准未统一；多个结局存在较大异质性；除死产和SGA外证据确定性低；摘要未报告其他明确局限性。",
+          "clinicalInterpretation": "与LGDM相比，eGDM与妊娠期高血压/子痫前期和死产的比值比升高相关，但与大多数其他继发并发症无显著关联。作者认为这些发现支持在高风险女性中开展早期风险分层筛查并加强产前监测（包括血压监测和胎儿评估）；这属于研究解读，并非指南、共识或临床指令，且诊断标准不统一需谨慎解释。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "95a49c8e8d7a0e18920114e533d41a34bd7b7d6763e50c95a7d90ce8c48e8102"
+      },
+      {
+        "id": "pmid:43000743",
+        "pmid": "43000743",
+        "doi": "10.4102/curationis.v49i1.2843",
+        "title": "Prevalence and predictors of primary and secondary infertility in Namibia: A retrospective analysis of clinical records.",
+        "abstract": "BACKGROUND: Infertility is a public health concern affecting many individuals globally. It is defined as the inability to achieve a pregnancy after 12 months or more of uninterrupted and unprotected sexual intercourse and affects both males and females. Primary infertility occurs when conception has never been achieved, while secondary infertility occurs after at least one previous pregnancy has been achieved.\nOBJECTIVES: This study analysed the prevalence and predictors of infertility in Namibia. The research was conducted at four selected public hospitals categorised as central, regional and district.\nMETHOD: A retrospective and analytical study reviewed 577 hospital records of patients diagnosed with infertility. A structured checklist was developed to extract relevant data, analysed using SPSS version 30 to determine the prevalence and identify predictors of male and female infertility from 2021 to 2023. Ethical approval and permission to access hospital records were obtained from the Namibian Ministry of Health and Social Services and participating hospitals.\nRESULTS: Of the 577 patient records, secondary infertility was more prevalent (53.6%) than primary infertility (46.4%). Women constituted 79% of cases, with infertility mainly attributed to hormonal imbalances, tubal, uterine factors and ovulation disorders, while male infertility was largely linked to sperm anomalies. One-way analysis of variance indicated significant differences across age, sex, marital status, infertility type, lifestyle and reproductive history (p 0.05). Multiple regression identified the number of children, sex, age, group, marital status, lifestyle and medication use as significant predictors. Decision tree analysis confirmed parity as the strongest classifier.\nCONCLUSION: Secondary infertility was more prevalent, especially among women, with notable variation across sociodemographic and clinical factors.Contribution: The findings contribute to the literature on infertility predictors and prevalence in Namibia. This evidence will be used to structure strategies to support individuals affected by infertility.",
+        "journal": "Curationis",
+        "authors": [
+          "Carolina D Teixeira",
+          "Emanuel Magesa",
+          "Lamech Mwapagha",
+          "Sarah Mlambo"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-07T00:00:00.000Z",
+        "activityAt": "2026-11-09T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43000743/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "纳米比亚原发性和继发性不孕的患病率与预测因素：临床病历回顾性分析",
+          "researchQuestion": "纳米比亚原发性和继发性不孕的患病率及其预测因素是什么？",
+          "studyDesign": "回顾性分析研究（临床病历回顾）。",
+          "populationAndSample": "577份诊断为不孕的患者病历；来自纳米比亚四家选定的公立医院（中央、区域和地区级）；数据时间2021年至2023年。",
+          "methods": "使用结构化检查表提取相关数据，采用SPSS 30版分析不孕患病率并识别男性和女性不孕的预测因素；进行单因素方差分析、多元回归和决策树分析。",
+          "keyResults": "577份病历中，继发性不孕更常见（53.6%），原发性不孕为46.4%。女性占79%。女性不孕主要归因于激素失衡、输卵管因素、子宫因素和排卵障碍；男性不孕主要与精子异常有关。单因素方差分析显示年龄、性别、婚姻状况、不孕类型、生活方式和生育史之间差异显著（p 0.05，摘要原文如此）。多元回归识别子女数量、性别、年龄、组别、婚姻状况、生活方式和药物使用为显著预测因素。决策树分析确认产次是最强分类因素。",
+          "limitations": "摘要未报告明确局限性；该研究为回顾性病历分析。",
+          "clinicalInterpretation": "在该四家纳米比亚公立医院的病历中，继发性不孕更常见，女性占多数；激素、输卵管、子宫和排卵因素以及男性精子异常是主要相关因素。子女数量/产次、性别、年龄、婚姻状况、生活方式和药物使用等被识别为预测因素；这些为回顾性关联，需谨慎外推。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "92fde5c29b76611a2f4189e55cb03c1781ecc5c03804f8d785add83977066b7a"
+      }
+    ]
+  }
+}
