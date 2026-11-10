@@ -1,0 +1,258 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-11-10T23:10:07.264Z",
+    "dataAsOf": "2026-11-10T23:10:07.264Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及父体BMI与接受IUI、IVF和ICSI生育治疗队列中精液质量的关联：系统综述与荟萃分析、宫颈癌根治性放疗或放化疗后总治疗时间与肿瘤学结局：系统综述与荟萃分析、宫颈癌根治性子宫切除术后膀胱康复：系统综述。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:43004767",
+        "pmid": "43004767",
+        "doi": "10.1111/andr.70430",
+        "title": "The Association Between Paternal BMI and Semen Quality in Cohorts Undergoing IUI, IVF and ICSI Fertility Treatments: A Systematic Review and Meta-Analysis.",
+        "abstract": "BACKGROUND: The prevalence of obesity and overweight in reproductive age shows an upward trend globally, impacting fertility potential. Against this backdrop, infertility affects an estimated 17.5% of the global population. Intrauterine insemination (IUI) and assisted reproductive technology (ART) are advanced options in a structured fertility care pathway and ensuring semen quality remains a critical step in guiding fertility treatment decisions of these cohorts. Contradictory reports about the impact of paternal body mass index (BMI) on semen quality in these procedures necessitate confirmation of this influence.\nOBJECTIVES: To critically analyse the literature and synthesise evidence on the impact of paternal BMI on semen quality among those seeking IUI or ART.\nMATERIALS AND METHODS: Systematic search in four databases: 'PubMed', 'Web of Science', 'Embase' and 'Scopus' was performed on 28th September 2025. Studies reporting comparison of semen parameters between BMI categories among IUI and ART cohorts were included and interventional studies were excluded. The pooled estimate of mean difference, 95% confidence interval (CI), prediction interval, I 2 value, LFK, were estimated and Age and BMI classification sub-group analysis were performed. Risk of bias was assessed using 'JBI Cross-sectional tool'.\nRESULTS: Twenty-two studies qualified for meta-analysis out of 34 included studies. The sperm total motility showed a statistically significant pooled mean difference -8.17 between the overweight and normal group with 95% CI = -15.15 to -1.20. Subgroup analysis as per BMI classification showed significant differences in sperm concentration between the overweight and normal groups (test for subgroup differences, p = 0.0206). Prevalence of paternal obese and overweight is 12.15% and 43.37% respectively.\nCONCLUSION: Paternal obesity showed no significant association with semen parameters. However, paternal overweight had significant effect on total motility. Further studies on the impact of paternal BMI using novel anthropometric measures, ruling out metabolic and lifestyle factors on semen are warranted.",
+        "journal": "Andrology",
+        "authors": [
+          "Anita Yadav",
+          "Aravind P Gandhi",
+          "Arunkumar Arivalagan",
+          "Geethu Mathew",
+          "Kalyani Deshmukh",
+          "T S Gugapriya"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2027-01-01T00:00:00.000Z",
+        "activityAt": "2026-11-10T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43004767/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "父体BMI与接受IUI、IVF和ICSI生育治疗队列中精液质量的关联：系统综述与荟萃分析",
+          "researchQuestion": "在接受IUI或ART（包括IVF、ICSI）的人群中，父体BMI是否与精液质量相关？",
+          "studyDesign": "系统综述与荟萃分析；纳入观察性比较研究，排除干预性研究。",
+          "populationAndSample": "IUI和ART队列；共纳入34项研究，其中22项符合荟萃分析条件。摘要报告父体肥胖和超重患病率分别为12.15%和43.37%。",
+          "methods": "检索PubMed、Web of Science、Embase和Scopus（检索日期2025年9月28日）；比较不同BMI类别间精液参数；合并平均差、95%CI、预测区间、I²和LFK；按年龄和BMI分类进行亚组分析；使用JBI横断面工具评估偏倚风险。",
+          "keyResults": "超重组与正常组精子总活力合并平均差为-8.17（95%CI -15.15至-1.20），差异有统计学意义。按BMI分类的亚组分析显示超重组与正常组精子浓度差异有统计学意义（亚组差异检验p=0.0206）。父体肥胖与精液参数未见显著关联；父体超重对总活力有显著影响。",
+          "limitations": "摘要未明确报告系统综述局限性；结论指出需进一步采用新的人体测量指标并排除代谢和生活方式因素对精液影响的研究。",
+          "clinicalInterpretation": "该荟萃分析提示父体超重与精子总活力较低相关，父体肥胖与所评估精液参数无显著关联；这些为观察性关联，不能据此推断因果或形成临床指南。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "95825d2619a8a00e28899010bc5480b97c5edd728662b6060f38d8eae2c7a81a"
+      },
+      {
+        "id": "pmid:43005054",
+        "pmid": "43005054",
+        "doi": "10.3389/fonc.2026.1969525",
+        "title": "Overall treatment time and oncologic outcomes after definitive radiotherapy or chemoradiotherapy for cervical cancer: a systematic review and meta-analysis.",
+        "abstract": "BACKGROUND: Prolonged overall treatment time (OTT) during definitive radiotherapy has long been considered detrimental in cervical cancer, but the magnitude and consistency of its prognostic association across treatment eras remain uncertain. We evaluated the association between OTT and oncologic outcomes after definitive radiotherapy or chemoradiotherapy.\nMETHODS: PubMed/MEDLINE, Embase, Web of Science Core Collection, Scopus, and the Cochrane Library were searched from inception through August 1, 2026. Eligible studies assessed OTT from initiation of external-beam radiotherapy through completion of the planned definitive radiotherapy course as either a categorical or continuous prognostic factor. Risk of bias was assessed using the Quality In Prognosis Studies tool. Time-to-event estimates were pooled as hazard ratios (HRs) with 95% confidence intervals (CIs) using random-effects models.\nRESULTS: Nineteen studies comprising 15,859 patients were included. Ten independent cohorts contributed to the primary overall survival (OS) analysis. Prolonged OTT was associated with poorer OS (HR, 1.61; 95% CI, 1.30-1.99; I² = 76%). In the prespecified analysis of three independent cohorts comparing OTT >56 versus ≤56 days, the association persisted (HR, 1.16; 95% CI, 1.04-1.31; I² = 37%). Prolonged OTT was also associated with a higher risk of local/pelvic/in-field failure (HR, 1.80; 95% CI, 1.26-2.56; I² = 46%). The OS association was consistent across treatment-era and cutoff-source subgroups and remained robust in sensitivity analyses.\nCONCLUSION: Prolonged OTT is associated with poorer survival and a higher risk of local/pelvic/in-field failure after definitive radiotherapy or chemoradiotherapy for cervical cancer. These findings support timely completion of definitive radiotherapy and indicate that the 56-day interval remains a clinically relevant benchmark.\nSYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/view/CRD420261470588, identifier CRD420261470588.",
+        "journal": "Frontiers in oncology",
+        "authors": [
+          "Dan Wu",
+          "Jianwei Han",
+          "Jianxia Cheng",
+          "Yingding Ruan",
+          "Yun Li"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-26T00:00:00.000Z",
+        "activityAt": "2026-11-10T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43005054/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "宫颈癌根治性放疗或放化疗后总治疗时间与肿瘤学结局：系统综述与荟萃分析",
+          "researchQuestion": "宫颈癌根治性放疗或放化疗中，总治疗时间（OTT）延长是否与肿瘤学结局相关？",
+          "studyDesign": "系统综述与荟萃分析；预后因素研究。",
+          "populationAndSample": "19项研究、15,859例患者；10个独立队列纳入主要总生存分析，3个独立队列纳入预设的OTT>56天 vs ≤56天分析。",
+          "methods": "检索PubMed/MEDLINE、Embase、Web of Science核心合集、Scopus和Cochrane Library（自建库至2026年8月1日）；OTT定义为从开始外照射放疗至完成计划根治性放疗疗程，作为分类或连续预后因素；QUIPS评估偏倚风险；随机效应模型合并HR及95%CI。",
+          "keyResults": "OTT延长与较差OS相关（HR 1.61，95%CI 1.30-1.99，I²=76%）。预设分析中，OTT>56天 vs ≤56天仍相关（HR 1.16，95%CI 1.04-1.31，I²=37%）。OTT延长与局部/盆腔/野内失败风险升高相关（HR 1.80，95%CI 1.26-2.56，I²=46%）。OS关联在治疗年代和截断值来源亚组中一致，敏感性分析稳健。",
+          "limitations": "摘要未报告明确局限性；主要OS合并分析I²=76%，提示异质性较高；证据来自预后因素观察性研究汇总。",
+          "clinicalInterpretation": "结果提示OTT延长与较差生存和更高局部/盆腔/野内失败风险相关，摘要结论支持按时完成根治性放疗；这是系统综述的关联性证据，不能改写为指南或临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "08220c0e2e02355d88b91784ca30e9ebb178640b62d32ff9c08f0eeb84fa00fe"
+      },
+      {
+        "id": "pmid:43003416",
+        "pmid": "43003416",
+        "doi": "10.1111/jog.70541",
+        "title": "Postoperative Bladder Rehabilitation After Radical Hysterectomy for Cervical Cancer: A Systematic Review.",
+        "abstract": "AIM: To systematically review the evidence on postoperative bladder management and rehabilitation strategies for women undergoing radical hysterectomy for cervical cancer.\nMETHODS: A systematic review was conducted using PubMed/MEDLINE. Studies evaluating postoperative bladder management or rehabilitation interventions in women undergoing radical hysterectomy for cervical cancer were included. Eligible interventions comprised catheter management, trial-of-void (TOV) strategies, pelvic floor exercises, integrated care, and electrical stimulation. Study characteristics, urinary outcomes, quality of life (QoL), and risk of bias were assessed descriptively.\nRESULTS: Eight studies were included. Interventions included intermittent catheterization continuity care, TOV strategies, enhanced recovery after surgery (ERAS)-based pelvic floor exercises, integrated nursing care, early pelvic floor muscle exercises, transcutaneous electrical nerve stimulation (TENS), and transcutaneous electrical acupoint stimulation (TEAS). Intermittent catheterization continuity care was associated with faster bladder function recovery and improved QoL. Pelvic floor exercises and integrated care were associated with improvements in urinary symptoms, pelvic floor muscle strength, or QoL. TENS was associated with a lower urinary retention rate in a retrospective cohort study. In a randomized controlled trial, TEAS improved several secondary bladder-emptying outcomes and QoL, but did not significantly reduce the primary outcome of urinary retention. Heterogeneity in study designs, interventions, and outcome definitions limited comparisons across studies.\nCONCLUSIONS: Structured postoperative bladder management and rehabilitation may improve bladder recovery and patient-reported outcomes after radical hysterectomy for cervical cancer. However, the certainty of evidence remains limited. Further well-designed prospective studies and randomized controlled trials using standardized outcome measures are needed to determine optimal rehabilitation strategies.",
+        "journal": "The journal of obstetrics and gynaecology research",
+        "authors": [
+          "Keiichi Ito",
+          "Kenji Kuroda"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-11-01T00:00:00.000Z",
+        "activityAt": "2026-11-09T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43003416/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "宫颈癌根治性子宫切除术后膀胱康复：系统综述",
+          "researchQuestion": "宫颈癌根治性子宫切除术后，膀胱管理和康复策略对膀胱恢复、泌尿结局和生活质量有何证据？",
+          "studyDesign": "系统综述；描述性评估研究特征、泌尿结局、生活质量和偏倚风险。",
+          "populationAndSample": "接受宫颈癌根治性子宫切除术的女性；纳入8项研究。",
+          "methods": "检索PubMed/MEDLINE；纳入评估术后膀胱管理或康复干预的研究；干预包括导管管理、排尿试验（TOV）策略、盆底锻炼、整合照护和电刺激；描述性评估。",
+          "keyResults": "干预包括间歇导尿连续性照护、TOV策略、基于ERAS的盆底锻炼、整合护理、早期盆底肌锻炼、TENS和TEAS。间歇导尿连续性照护与更快的膀胱功能恢复和生活质量改善相关。盆底锻炼和整合照护与泌尿症状、盆底肌力或生活质量改善相关。TENS在回顾性队列中与较低尿潴留率相关。在一项随机对照试验中，TEAS改善了若干次要膀胱排空结局和生活质量，但未显著降低主要结局尿潴留。研究设计、干预和结局定义异质性限制跨研究比较。",
+          "limitations": "研究设计、干预和结局定义存在异质性，限制跨研究比较；证据确定性仍有限；需进一步开展设计良好的前瞻性研究和随机对照试验，并使用标准化结局指标。",
+          "clinicalInterpretation": "结构化术后膀胱管理和康复可能改善膀胱恢复和患者报告结局，但证据确定性有限，不能据此形成统一临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "3a109dae0e3ff9b6de53066b7ffe8130af0ffdbaff9e1afefb8683c84872336a"
+      },
+      {
+        "id": "pmid:43004669",
+        "pmid": "43004669",
+        "doi": "10.12659/msm.953488",
+        "title": "Oliceridine vs Sufentanil Combined With Ondansetron for Postoperative Nausea and Vomiting and QTc Interval in Hysteroscopic Surgery: A Prospective Randomized Controlled Study.",
+        "abstract": "BACKGROUND Postoperative nausea and vomiting (PONV) is common after hysteroscopic surgery, and opioid use can raise concerns regarding cardiac safety. This prospective study aimed to compare the effects of oliceridine plus ondansetron versus sufentanil plus ondansetron on 24-hour PONV incidence and perioperative changes in the corrected QT interval (QTc) in patients undergoing non-intubated hysteroscopy under general anesthesia. MATERIAL AND METHODS In this randomized, double-blind, controlled study, 62 patients undergoing hysteroscopic surgery under general anesthesia were analyzed. Patients received propofol 2 mg/kg with either oliceridine 0.039 mg/kg plus ondansetron 4 mg (O group) or sufentanil 0.1 μg/kg plus ondansetron 4 mg (S group). The primary endpoint was 24-hour PONV. Secondary endpoints included emergence time, post-anesthesia care unit (PACU) pain scores, and change in QTc from baseline (ΔQTc) measured by 5-lead electrocardiography at predefined time points. RESULTS PONV incidence within 24 h did not differ significantly between groups (0% vs 3.2%, P>0.05). Time to anesthesia emergence was comparable between groups (P=0.960). Numerical rating scale scores at PACU discharge were also comparable (P=0.186). Repeated-measures ANOVA showed a significant time effect for ΔQTc (P=0.001), but no significant group effect (P=0.076) or group×time interaction (P=0.171). CONCLUSIONS Oliceridine plus ondansetron did not significantly reduce 24-hour PONV compared with sufentanil plus ondansetron, and this finding should be interpreted cautiously because of limited statistical power. Perioperative ΔQTc changes were minimal and similar between groups, with no clinically significant QTc prolongation.",
+        "journal": "Medical science monitor : international medical journal of experimental and clinical research",
+        "authors": [
+          "Yanan Wu",
+          "Yuqian Sang",
+          "Zhijia Guo"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-11-10T00:00:00.000Z",
+        "activityAt": "2026-11-10T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43004669/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "minimally-invasive-surgery"
+        ],
+        "assignedTopicId": "minimally-invasive-surgery",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 7.5,
+          "recency": 10,
+          "total": 91.25,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "Oliceridine与舒芬太尼联合昂丹司琼对宫腔镜手术后恶心呕吐及QTc间期的影响：前瞻性随机对照研究",
+          "researchQuestion": "在全身麻醉非插管宫腔镜手术中，oliceridine联合昂丹司琼与舒芬太尼联合昂丹司琼相比，对24小时术后恶心呕吐（PONV）发生率和围术期QTc变化有何影响？",
+          "studyDesign": "前瞻性、随机、双盲、对照研究。",
+          "populationAndSample": "62例接受全身麻醉宫腔镜手术并纳入分析的患者。",
+          "methods": "丙泊酚2 mg/kg联合oliceridine 0.039 mg/kg+昂丹司琼4 mg（O组）或舒芬太尼0.1 μg/kg+昂丹司琼4 mg（S组）。主要终点为24小时PONV；次要终点包括苏醒时间、PACU疼痛评分及预设时间点5导联心电图测量的QTc相对基线变化（ΔQTc）。",
+          "keyResults": "24小时内PONV发生率组间无显著差异（0% vs 3.2%，P>0.05）。麻醉苏醒时间组间相当（P=0.960）。PACU离室时NRS评分组间相当（P=0.186）。重复测量ANOVA显示ΔQTc时间效应显著（P=0.001），组效应不显著（P=0.076），组×时间交互不显著（P=0.171）。",
+          "limitations": "样本量62例，摘要结论明确指出统计效能有限；摘要未报告其他局限性。",
+          "clinicalInterpretation": "在该随机对照试验中，oliceridine联合昂丹司琼未较舒芬太尼联合昂丹司琼显著降低24小时PONV；围术期ΔQTc变化较小且组间相似，未见有临床意义的QTc延长。结果受统计效能限制，不能作为临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "26b3e2272e04cc94828b4a0e0797fe6524d2a71297777a9f5b6132bb86c86587"
+      },
+      {
+        "id": "pmid:43005218",
+        "pmid": "43005218",
+        "doi": "10.3389/fendo.2026.1860825",
+        "title": "Placental programming of metabolic diseases: molecular pathways from maternal pregnancy complications to offspring metabolic risk.",
+        "abstract": "INTRODUCTION: The placenta is increasingly recognized as a dynamic regulatory organ that translates both maternal and paternal physiological and pathological states into developmental signals into developmental signals shaping offspring health across the lifespan. In the context of maternal metabolic and obstetric complications, placental function extends far beyond the regulation of fetal growth, influencing key aspects of development including endocrine set points, nutrient allocation, inflammatory responses, vascular adaptation, and molecular programming across fetal organs.\nRESULTS: This review examines how maternal conditions -such as obesity, gestational diabetes mellitus (GDM), hypertensive disorders of pregnancy, undernutrition, micronutrient imbalance, and maternal inflammatory stress -induce structural, endocrine, vascular, metabolic, and epigenetic alterations in the placenta. We further explore how these changes disrupt critical molecular pathways, including nutrient sensing and transport, oxidative stress responses, mitochondrial function, angiogenesis and glucocorticoid signaling, immune regulation, and gene expression. A central focus is the convergence of placental mechanisms across diverse maternal disorders, leading to shared offspring phenotypes such as insulin resistance, increased adiposity, dyslipidemia, impaired glucose regulation, altered appetite control, and elevated risk of cardiometabolic disease later in life.\nCONCLUSION: Additionally, we address sex-specific placental adaptations, fetal tissue vulnerability, and the translational potential of placental biomarkers and omics-based approaches supported by mechanistic experimental models. By positioning the placenta as the primary biological interface linking maternal complications to offspring susceptibility to endocrine and complex metabolic diseases, this review provides an integrated framework for understanding developmental programming in metabolic health.",
+        "journal": "Frontiers in endocrinology",
+        "authors": [
+          "Duo Zhou"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-26T00:00:00.000Z",
+        "activityAt": "2026-11-10T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43005218/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 6,
+          "recency": 10,
+          "total": 91,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "代谢疾病的胎盘编程：从母亲妊娠并发症到子代代谢风险的分子通路",
+          "researchQuestion": "母亲妊娠并发症如何通过胎盘结构和分子编程影响子代代谢疾病风险？",
+          "studyDesign": "综述；摘要未报告系统检索和纳入方法。",
+          "populationAndSample": "摘要未报告原始研究样本；综述讨论母亲肥胖、妊娠期糖尿病（GDM）、妊娠期高血压疾病、营养不良、微量营养素失衡和母亲炎症应激等状况。",
+          "methods": "摘要未报告系统检索策略；综述整合胎盘结构、内分泌、血管、代谢和表观遗传改变及相关分子通路。",
+          "keyResults": "母亲肥胖、GDM、妊娠期高血压疾病、营养不良、微量营养素失衡和母亲炎症应激可诱导胎盘结构、内分泌、血管、代谢和表观遗传改变；这些改变扰乱营养感知与转运、氧化应激反应、线粒体功能、血管生成、糖皮质激素信号、免疫调节和基因表达等通路。不同母亲疾病存在胎盘机制汇聚，导致子代共享表型：胰岛素抵抗、脂肪增加、血脂异常、糖调节受损、食欲控制改变及晚年心血管代谢疾病风险升高。综述还讨论性别特异性胎盘适应、胎儿组织易感性和胎盘生物标志物/组学转化潜力。",
+          "limitations": "摘要未报告明确局限性；为综述性证据，摘要未报告系统检索、纳入标准或定量合并。",
+          "clinicalInterpretation": "该综述将胎盘定位为连接母亲并发症与子代内分泌和复杂代谢疾病易感性的主要生物界面，提供发育编程整合框架；属于机制性综述，不能作为临床指南。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "f9312c7cd4b388a33f82858f188d8dc82990807492a9cf563d6128f0f89afafa"
+      }
+    ]
+  }
+}
