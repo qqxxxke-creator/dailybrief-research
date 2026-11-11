@@ -1,0 +1,285 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-11-11T22:13:05.969Z",
+    "dataAsOf": "2026-11-11T22:13:05.969Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及补肾方剂治疗男性不育伴精子DNA碎片化的系统评价与Meta分析、聚（ADP-核糖）聚合酶抑制剂（PARPi）治疗晚期上皮性卵巢癌、妊娠期维生素D补充方案。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:43012264",
+        "pmid": "43012264",
+        "title": "[Systematic review and meta-analysis of tonifying kidney prescriptions for the treatment of male infertility with sperm DNA fragmentation].",
+        "abstract": "Objective To systematically evaluate the effectiveness and safety of kidney-tonifying prescriptions for the treatment of male infertility with sperm DNA fragmentation (SDF). Methods Randomized controlled trials (RCTs) on the improvement of SDF through kidney-tonifying prescriptions were retrieved from CNKI, VIP, Wanfang, PubMed, Cochrane Library, Embase, and Web of Science databases. The methodological quality of the retrieved literature was evaluated, and meta-analysis was conducted using RevMan 5.3.5 software. The outcome indicators were graded for quality using the GRADE system. Results A total of 17 RCT involving 2 164 male patients were included. Compared with conventional western medicine treatment, the prescription method significantly improved DNA fragmentation index (DFI) in male infertility patients (MD = －6.50, 95% CI:－7.88, －5.11, P<0.01), increased the spouse pregnancy rate (RR = 2.11, 95% CI:1.12, 4.00, P=0.87), total sperm motility (MD = 5.56, 95% CI:4.39,6.74，P<0.01), progressive motile sperm (MD = 6.82, 95% CI:5.62, 8.03, P<0.01), sperm concentration (MD = 6.51, 95% CI:3.81, 9.21，P<0.01), and percentage of normal morphology sperm (MD = 1.26, 95% CI:0.45, 2.06, P<0.01). Additionally, kidney-tonifying prescriptions did not increase the likelihood of adverse reactions. Conclusion Low to moderate-quality evidence suggested that compared with conventional western medicine treatment, kidney-tonifying prescriptions have certain advantages in improving DFI, semen parameters, and spouse pregnancy rates in male infertility patients, with good safety.",
+        "journal": "Zhonghua nan ke xue = National journal of andrology",
+        "authors": [
+          "Jianhuai Chen",
+          "Qi Zhao",
+          "Tao Liu",
+          "Yan Xu",
+          "Yun Chen",
+          "Zhaoxu Yang",
+          "Zhixing Sun"
+        ],
+        "publicationTypes": [
+          "English Abstract",
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-01-01T00:00:00.000Z",
+        "activityAt": "2026-11-11T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43012264/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "补肾方剂治疗男性不育伴精子DNA碎片化的系统评价与Meta分析",
+          "researchQuestion": "系统评价补肾方剂治疗男性不育伴精子DNA碎片化（SDF）的有效性和安全性。",
+          "studyDesign": "系统评价与Meta分析，纳入随机对照试验（RCT）。",
+          "populationAndSample": "共纳入17项RCT，涉及2164例男性患者。",
+          "methods": "检索CNKI、维普、万方、PubMed、Cochrane Library、Embase和Web of Science数据库；对纳入文献进行方法学质量评价；使用RevMan 5.3.5软件进行Meta分析；采用GRADE系统对结局指标进行证据质量分级。",
+          "keyResults": "与常规西药治疗相比，补肾方剂显著改善男性不育患者的DNA碎片指数（DFI）（MD=-6.50，95%CI：-7.88至-5.11，P<0.01）；配偶妊娠率RR=2.11（95%CI：1.12至4.00，P=0.87）；总精子活力MD=5.56（95%CI：4.39至6.74，P<0.01）；前向运动精子MD=6.82（95%CI：5.62至8.03，P<0.01）；精子浓度MD=6.51（95%CI：3.81至9.21，P<0.01）；正常形态精子百分比MD=1.26（95%CI：0.45至2.06，P<0.01）。此外，补肾方剂未增加不良反应发生的可能性。作者结论为低至中等质量证据提示，与常规西药治疗相比，补肾方剂在改善DFI、精液参数和配偶妊娠率方面具有一定优势，安全性良好。",
+          "limitations": "证据质量为低至中等；摘要未报告各试验的具体偏倚风险、异质性及不良反应的具体数据；配偶妊娠率RR=2.11（95%CI：1.12至4.00）的P=0.87与置信区间不包含1在表面上不一致，摘要未对此作出解释，解读时需谨慎。",
+          "clinicalInterpretation": "低至中等质量证据提示，补肾方剂在改善男性不育伴SDF患者的DFI、精液参数和配偶妊娠率方面可能有一定优势，且未观察到不良反应增加；但证据质量有限，且妊娠率结果存在需澄清的统计报告问题，不能据此形成常规临床推荐，仍需高质量RCT进一步验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "875bfd420f5210f02a0c4226ac860d5b631f704aaf79acdf6e845d46b75dc3a1"
+      },
+      {
+        "id": "pmid:43012369",
+        "pmid": "43012369",
+        "doi": "10.1002/14651858.cd007929.pub5",
+        "title": "Poly (ADP-ribose) polymerase inhibitors (PARPi) for treating advanced epithelial ovarian cancer.",
+        "abstract": "RATIONALE: Ovarian cancer is the eighth most common cancer in women worldwide. Epithelial ovarian cancer (EOC) is the most common type; three-quarters of cases present with advanced disease (stage III or IV). Treatment consists of combinations of surgery and chemotherapy. Although initial responses to chemotherapy are good, most women with advanced disease relapse. Poly (ADP-ribose) polymerase inhibitors (PARPi) prevent cancer cells from repairing DNA damage, especially in those with breast cancer susceptibility gene (BRCA) mutations (BRCA-mutant), thereby offering a different mechanism of action for anticancer treatment compared to conventional chemotherapy. This is an update to a review first published in 2010 and previously updated in 2015 and 2022.\nOBJECTIVES: To assess the benefits and harms of poly (ADP-ribose) polymerase inhibitors (PARPi) versus placebo or other anti-cancer treatments for women with newly diagnosed or recurrent epithelial ovarian cancer (EOC).\nSEARCH METHODS: We identified randomised controlled trials (RCTs) by searching the Cochrane Central Register of Controlled Trials MEDLINE, and Embase up to 2 December 2025.\nELIGIBILITY CRITERIA: We included trials randomising women with EOC to PARPi versus no treatment/placebo, PARPi versus conventional chemotherapy, or PARPi together with conventional chemotherapy versus conventional chemotherapy alone.\nOUTCOMES: We extracted data on overall survival (OS) and progression-free survival (PFS), severe adverse events, and quality of life.\nRISK OF BIAS: We used the Cochrane tool RoB 1 to assess the risk of bias in the included studies.\nSYNTHESIS METHODS: We conducted meta-analyses using the random-effects model to calculate hazard ratios (HR), risk ratios (RR), mean differences (MD), and 95% confidence intervals (CI). We assessed the certainty of evidence using GRADE.\nINCLUDED STUDIES: We identified 10 new studies. We included a total of 24 studies (8961 participants) in this 2026 version of the review: eight (4801 participants) with newly-diagnosed, advanced EOC and 16 (4160 participants) with recurrent EOC.\nSYNTHESIS OF RESULTS: The studies evaluated different PARPi against various comparators. Below we present four key comparisons. Most participants had BRCA mutations, either in their tumour (sBRCA-mutant) and/or germline (gBRCA-mutant), or homologous recombination deficiencies (HRD) in their tumours. Newly diagnosed EOC PARPi versus placebo maintenance after chemotherapy PARPi maintenance treatment after chemotherapy may increase overall survival (OS) (HR 0.80, 95% CI 0.58 to 1.10; I² = 70%; 5 studies, 2852 participants; low-certainty evidence), but data are confounded by subsequent treatments, including increased use of PARPi in those in the placebo arms following relapse. PARPi maintenance results in a large improvement in progression-free survival (PFS), irrespective of PARPi type (HR 0.51, 95% CI 0.41 to 0.64; I² = 77%; 7 studies, 3618 participants; high-certainty evidence). PARPi maintenance may result in a slight reduction in quality of life (MD -1.06, 95% CI -3.52 to 1.40; I² = 92%; 3 studies, 1505 participants; low-certainty evidence), but this reduction may not be clinically meaningful. PARPi maintenance results in a large increase in the risk of any severe adverse event (grade 3 or higher; RR 2.66, 95% CI 1.66 to 4.27; I² = 91%; 7 studies, 3648 participants; high-certainty evidence). Recurrent, platinum-sensitive EOC PARPi versus placebo maintenance after chemotherapy PARPi maintenance probably increases OS slightly (HR 0.88, 95% CI 0.75 to 1.04; I² = 26%; 5 studies, 1797 participants; moderate-certainty evidence) and results in a large increase in PFS compared to placebo (HR 0.34, 95% CI 0.28 to 0.40; I² = 24%; 6 studies, 2194 participants; high-certainty evidence). PARPi maintenance probably results in little to no difference in quality of life measured using the European Quality of Life 5-dimensions questionnaire Health Utility Index score (MD 0.02, 95% CI -0.01 to 0.05; 1 study, 339 participants; moderate-certainty evidence) or the TOI score (FACT-O questionnaire; MD -0.03, 95% CI -2.16 to 2.10; 1 study, 279 participants; moderate-certainty evidence). However, there is probably a substantially increased risk of any severe adverse event (grade 3 or higher) (RR 3.03, 95% CI 2.11 to 4.36; I² = 61%; 6 studies, 2181 participants; moderate-certainty evidence). PARPi monotherapy versus chemotherapy PARPi monotherapy probably results in little to no difference in OS compared with chemotherapy (HR 1.14, 95% CI 0.95 to 1.37; I² = 0%; 4 studies, 832 participants; moderate-certainty evidence); we are very uncertain about the effect on PFS (HR 0.87, 95% CI 0.62 to 1.23; I² = 58%; 5 studies, 969 participants; very low-certainty evidence). PARPi monotherapy may result in little to no difference in quality of life compared with chemotherapy (FACT-O; MD 1.20, 95% CI -1.76 to 4.16; 1 study, 229 participants; low-certainty evidence; global EORTC QLQ-C30 score; MD 0.20, 95% CI -1.79 to 2.19; 1 study, 291 participants; very low-certainty evidence), but may increase the risk of any severe adverse event (grade 3 or higher) (RR 1.30, 95% CI 0.92 to 1.83; I² = 70%; 2 studies, 599 participants; low-certainty evidence). Recurrent, platinum-resistant EOC PARPi monotherapy versus chemotherapy Compared with chemotherapy, PARPi monotherapy reduces OS (HR 1.36, 95% CI 1.12 to 1.65; I² = 54%; 3 studies, 371 participants; high-certainty evidence) and may have little to no effect on PFS (HR 1.07, 95% CI 0.90 to 1.27; I² = 0%; 3 studies, 371 participants; low-certainty evidence). No quality of life data were available, but PARPi may result in little to no difference in the risk of any severe adverse event (grade 3 or higher) compared to chemotherapy (RR 1.16, 95% CI 0.79 to 1.70; 1 study, 100 participants; low-certainty evidence).\nAUTHORS: PARPi maintenance treatment in women with first-line and platinum-sensitive recurrent disease improves progression-free survival (PFS) considerably, although it has less effect on overall survival (OS) and the OS results are less certain. PARPi maintenance increases severe adverse events, at times when women would otherwise not be on treatment, although quality of life may not be greatly impacted. The use of PARPi in other contexts did not lead to improved outcomes, especially in platinum-resistant recurrent disease. Adverse events and patient-reported outcomes were often poorly reported, which is a concern as this information is crucial for patient decision-making.\nFUNDING: No dedicated funding REGISTRATION: Protocol (2009) DOI: 10.1002/14651858.CD007929 Review (2010) DOI:10.1002/14651858.CD007929.pub2 Update (2015) DOI: 10.1002/14651858.CD007929.pub3 Update (2022) DOI: 10.1002/14651858.CD007929.pub4.",
+        "journal": "The Cochrane database of systematic reviews",
+        "authors": [
+          "Ewelina Rogozińska",
+          "Jo Morrison",
+          "Karim H El-Shakankery",
+          "Mohamed Shawky",
+          "Thomas Grainger"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-11-11T00:00:00.000Z",
+        "activityAt": "2026-11-11T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43012369/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "聚（ADP-核糖）聚合酶抑制剂（PARPi）治疗晚期上皮性卵巢癌",
+          "researchQuestion": "评估PARPi与安慰剂或其他抗癌治疗相比，用于新诊断或复发性上皮性卵巢癌（EOC）女性的获益与危害。",
+          "studyDesign": "Cochrane系统评价与Meta分析，纳入随机对照试验（RCT）。",
+          "populationAndSample": "共纳入24项研究、8961名参与者；其中8项为新诊断晚期EOC（4801名参与者），16项为复发性EOC（4160名参与者）。多数参与者存在肿瘤和/或胚系BRCA突变，或肿瘤同源重组缺陷（HRD）。",
+          "methods": "检索Cochrane CENTRAL、MEDLINE和Embase至2025年12月2日；使用Cochrane RoB 1工具评估偏倚风险；采用随机效应模型进行Meta分析，计算风险比（HR）、风险比（RR）、均数差（MD）及95%置信区间（CI）；采用GRADE评估证据确定性。",
+          "keyResults": "新诊断EOC中，化疗后PARPi维持治疗对比安慰剂：总生存（OS）HR=0.80（95%CI：0.58至1.10；I²=70%；5项研究，2852名参与者；低确定性），数据受后续治疗混杂，包括安慰剂组复发后PARPi使用增加；无进展生存（PFS）HR=0.51（95%CI：0.41至0.64；I²=77%；7项研究，3618名参与者；高确定性）；生活质量MD=-1.06（95%CI：-3.52至1.40；I²=92%；3项研究，1505名参与者；低确定性），可能无临床意义；任何严重不良事件（≥3级）RR=2.66（95%CI：1.66至4.27；I²=91%；7项研究，3648名参与者；高确定性）。复发性铂敏感EOC中，PARPi维持治疗对比安慰剂：OS HR=0.88（95%CI：0.75至1.04；I²=26%；5项研究，1797名参与者；中等确定性）；PFS HR=0.34（95%CI：0.28至0.40；I²=24%；6项研究，2194名参与者；高确定性）；EQ-5D健康效用指数MD=0.02（95%CI：-0.01至0.05；1项研究，339名参与者；中等确定性）；TOI评分（FACT-O问卷）MD=-0.03（95%CI：-2.16至2.10；1项研究，279名参与者；中等确定性）；任何严重不良事件（≥3级）RR=3.03（95%CI：2.11至4.36；I²=61%；6项研究，2181名参与者；中等确定性）。PARPi单药对比化疗：OS HR=1.14（95%CI：0.95至1.37；I²=0%；4项研究，832名参与者；中等确定性）；PFS HR=0.87（95%CI：0.62至1.23；I²=58%；5项研究，969名参与者；极低确定性）；FACT-O生活质量MD=1.20（95%CI：-1.76至4.16；1项研究，229名参与者；低确定性）；EORTC QLQ-C30总体评分MD=0.20（95%CI：-1.79至2.19；1项研究，291名参与者；极低确定性）；任何严重不良事件（≥3级）RR=1.30（95%CI：0.92至1.83；I²=70%；2项研究，599名参与者；低确定性）。复发性铂耐药EOC中，PARPi单药对比化疗：摘要称PARPi单药降低OS（HR=1.36，95%CI：1.12至1.65；I²=54%；3项研究，371名参与者；高确定性）；PFS HR=1.07（95%CI：0.90至1.27；I²=0%；3项研究，371名参与者；低确定性）；无生活质量数据；任何严重不良事件（≥3级）RR=1.16（95%CI：0.79至1.70；1项研究，100名参与者；低确定性）。",
+          "limitations": "研究评估了不同PARPi与不同对照，比较之间存在异质性；多数参与者有BRCA突变或HRD，结果外推需谨慎；OS数据受后续治疗混杂；不良事件和患者报告结局常报告不佳；部分结局证据确定性为低或极低。",
+          "clinicalInterpretation": "该Cochrane综述提示，在新诊断和铂敏感复发性EOC中，PARPi维持治疗可大幅改善PFS，但对OS的影响较小且不确定性更高；维持治疗增加严重不良事件风险，而生活质量可能未受重大影响；在其他情境中，尤其铂耐药复发性疾病，PARPi单药未显示结局改善。这些为证据总结，不能替代个体化决策或指南推荐。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "c87f37c627c8d8e4d19291e3320f4e6779555014b5eba5b7751def6b5e46ba28"
+      },
+      {
+        "id": "pmid:43012372",
+        "pmid": "43012372",
+        "doi": "10.1002/14651858.cd013446.pub2",
+        "title": "Regimens of vitamin D supplementation for women during pregnancy.",
+        "abstract": "RATIONALE: Vitamin D deficiency is common in pregnancy and has been associated with adverse health outcomes for the mother and infant, including pre-eclampsia, gestational diabetes, preterm birth, and low birthweight. The World Health Organization (WHO) recommends a vitamin D intake of 200 international units (IU) per day during pregnancy. Vitamin D supplementation is recommended for women with suspected vitamin D deficiency, but it is not universally recommended. The effects of different doses (regimens) of vitamin D during pregnancy have not been established. This is an update of a Cochrane review first published in 2019, which concluded that vitamin D supplementation (at any dose) may have little or no beneficial effects on maternal or neonatal outcomes.\nOBJECTIVES: To assess the effects of different doses of vitamin D supplementation (alone or in combination with calcium or other micronutrients) during pregnancy: more than 600 IU/day versus up to 600 IU/day, and 4000 IU/day or more versus less than 4000 IU/day.\nSEARCH METHODS: We searched the Cochrane Central Register of Controlled Trials (CENTRAL), ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform, and relevant databases in April 2026.\nELIGIBILITY CRITERIA: We included randomised trials evaluating the effects of different vitamin D regimens during pregnancy on maternal and infant health outcomes. Trials of pregnant women with pre-existing conditions or multiple pregnancies were excluded.\nOUTCOMES: The critical maternal outcomes were pre-eclampsia, gestational diabetes, and any adverse events. The critical infant outcomes were preterm birth and low birthweight.\nRISK OF BIAS: We used the Cochrane RoB 1 tool to independently assess the risk of bias in included studies.\nSYNTHESIS METHODS: Two review authors independently assessed study eligibility and extracted data from included studies. We conducted fixed-effect meta-analyses in RevMan where it was reasonable to assume that studies were estimating the same underlying treatment effect. If substantial heterogeneity was detected, we conducted random-effects meta-analyses, using the Mantel-Haenszel method for dichotomous outcomes and inverse-variance method for continuous outcomes. We used the GRADE approach to assess the certainty of the evidence.\nINCLUDED STUDIES: This review update included 25 studies with 7008 pregnant women. The included studies were conducted in 14 countries between 2004 and 2024. We excluded 29 studies, identified 23 ongoing studies, and listed 21 studies as awaiting classification.\nSYNTHESIS OF RESULTS: The overall risk of bias of the 25 included studies was mixed. The certainty of the evidence was low for most critical outcomes due to serious risk of bias and imprecision in the results. Vitamin D at a dose of more than 600 IU/day versus up to 600 IU/day, alone or in combination with other micronutrients (19 studies, 5141 women) Vitamin D supplementation during pregnancy at doses of more than 600 IU/day, compared with up to 600 IU/day, may make little or no difference to the risk of pre-eclampsia (risk ratio (RR) 0.90, 95% confidence interval (CI) 0.65 to 1.25; 8 studies, 2629 women; low-certainty evidence), gestational diabetes (RR 0.85, 95% CI 0.52 to 1.40; 6 studies, 2373 women; low-certainty evidence), preterm birth (RR 1.02, 95% CI 0.78 to 1.32; 7 studies, 3411 women; low-certainty evidence), or low birthweight (RR 0.90, 95% CI 0.71 to 1.14; 6 studies, 2090 women; low-certainty evidence). Vitamin D at a dose of 4000 IU/day or more versus less than 4000 IU/day, alone or in combination with other micronutrients (14 studies, 4954 women) Vitamin D supplementation during pregnancy at doses of 4000 IU/day or more, compared with less than 4000 IU/day, may make little or no difference to the risk of pre-eclampsia (RR 0.90, 95% CI 0.65 to 1.25; 5 studies, 2456 women; low-certainty evidence), gestational diabetes (RR 0.86, 95% CI 0.55 to 1.35; 5 studies, 2420 women; low-certainty evidence), or preterm birth (RR 0.97, 95% CI 0.79 to 1.19; 7 studies, 3409 women; low-certainty evidence), and probably makes little or no difference to the risk of low birthweight (RR 0.96, 95% CI 0.76 to 1.21; 3 studies, 1637 women; moderate-certainty evidence). Adverse events in both comparisons Reporting of adverse events (e.g. hypercalcaemia, hypervitaminosis D) was heterogeneous across studies. Few adverse events were reported, and we observed no differences between groups (low-certainty to moderate-certainty evidence).\nAUTHORS: Vitamin D supplementation during pregnancy at higher versus lower doses may make little or no difference to the risk of pre-eclampsia, gestational diabetes, preterm birth, or low birthweight. Future research should prioritise adequately powered trials with harmonised study designs that include more women from under-represented regions and focus on a consistently defined set of maternal and infant health outcomes. Additionally, trials should include longer follow-up to assess infant and child health outcomes beyond birth.\nFUNDING: This Cochrane review had no dedicated funding.\nREGISTRATION: The previous version of this review was published in 2019 (DOI 10.1002/14651858.CD013446). The original protocol for this review was registered with PROSPERO (https://www.crd.york.ac.uk/PROSPERO/view/CRD42018103763).",
+        "journal": "The Cochrane database of systematic reviews",
+        "authors": [
+          "Anna Cuthbert",
+          "Beatrice Juskeviciute",
+          "Brooke Overholt",
+          "James A Salisi",
+          "Jessica C John",
+          "Jo Weeks",
+          "Julia L Finkelstein",
+          "Maria Angelica Trak-Fellermeier",
+          "Matthew Kibbee",
+          "Samantha L Huey",
+          "Saurabh Mehta",
+          "Ximena E Palma Molina"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-11-11T00:00:00.000Z",
+        "activityAt": "2026-11-11T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43012372/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "妊娠期维生素D补充方案",
+          "researchQuestion": "评估妊娠期不同剂量维生素D补充（单用或联合钙或其他微量营养素）的效果：>600 IU/天对比≤600 IU/天，以及≥4000 IU/天对比<4000 IU/天。",
+          "studyDesign": "Cochrane系统评价与Meta分析，纳入随机试验。",
+          "populationAndSample": "共纳入25项研究、7008名孕妇；研究在14个国家开展，时间为2004年至2024年；排除有基础疾病或多胎妊娠的孕妇。",
+          "methods": "检索Cochrane CENTRAL、ClinicalTrials.gov、WHO国际临床试验注册平台及相关数据库至2026年4月；使用Cochrane RoB 1工具评估偏倚风险；在假定研究估计相同治疗效应时采用固定效应Meta分析，检测到显著异质性时采用随机效应Meta分析，二分类结局使用Mantel-Haenszel法，连续结局使用逆方差法；采用GRADE评估证据确定性。",
+          "keyResults": ">600 IU/天对比≤600 IU/天（单用或联合其他微量营养素；19项研究，5141名女性）：子痫前期RR=0.90（95%CI：0.65至1.25；8项研究，2629名女性；低确定性）；妊娠期糖尿病RR=0.85（95%CI：0.52至1.40；6项研究，2373名女性；低确定性）；早产RR=1.02（95%CI：0.78至1.32；7项研究，3411名女性；低确定性）；低出生体重RR=0.90（95%CI：0.71至1.14；6项研究，2090名女性；低确定性）。≥4000 IU/天对比<4000 IU/天（14项研究，4954名女性）：子痫前期RR=0.90（95%CI：0.65至1.25；5项研究，2456名女性；低确定性）；妊娠期糖尿病RR=0.86（95%CI：0.55至1.35；5项研究，2420名女性；低确定性）；早产RR=0.97（95%CI：0.79至1.19；7项研究，3409名女性；低确定性）；低出生体重RR=0.96（95%CI：0.76至1.21；3项研究，1637名女性；中等确定性）。两个比较中不良事件（如高钙血症、维生素D过多症）的报告不一致，报告的不良事件较少，未观察到组间差异（低至中等确定性证据）。",
+          "limitations": "多数关键结局的证据确定性为低，原因包括严重偏倚风险和不精确性；不良事件报告存在异质性；纳入研究的设计不统一；来自代表性不足地区的女性较少；缺乏出生后婴儿和儿童健康的长期随访。",
+          "clinicalInterpretation": "该综述提示，妊娠期较高剂量与较低剂量维生素D补充相比，对子痫前期、妊娠期糖尿病、早产或低出生体重风险可能几乎无差异；现有证据不足以支持根据单篇综述改变维生素D剂量推荐，未来需样本量充足、设计统一、结局定义一致并包含长期随访的试验。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "bdef7a5cf59e203e1e4c724cb3ef0871ce173f2b9eecf34f271bb1b76b7ed846"
+      },
+      {
+        "id": "pmid:43012767",
+        "pmid": "43012767",
+        "doi": "10.1097/md.0000000000051370",
+        "title": "Cervicography for cervical cancer screening: A systematic review and meta-analysis.",
+        "abstract": "BACKGROUND: Cervicography (CVG) has been proposed as a low-cost adjunct to Papanicolaou (Pap) cytology, but its added value as a co-test is uncertain. We evaluated the accuracy of CVG and Pap cytology, alone and as a parallel combined test, for histologically confirmed cervical intraepithelial neoplasia grade 2 or worse.\nMETHODS: Five databases were searched for studies published through December 31, 2024, without geographical or language restriction. The reference standard was histopathology of colposcopy-directed biopsy. Sensitivity and specificity were pooled with a bivariate random-effects model. Because both index tests were applied to the same participants in every study, they were compared within a single paired model yielding relative sensitivity, relative specificity and the relative diagnostic odds ratio (rDOR).\nRESULTS: Eight cross-sectional studies were included. Pooled sensitivity and specificity were 0.69 (95% confidence interval 0.59-0.77) and 0.90 (0.83-0.95) for CVG, and 0.69 (0.56-0.80) and 0.96 (0.91-0.98) for Pap cytology. In the paired comparison, relative sensitivity was 1.01 (0.92-1.11; P = .87), relative specificity 0.94 (0.91-0.98; P = .002) and the rDOR 0.43 (0.31-0.60; P < .001). In the 3 studies also reporting the combination, its rDOR versus Pap cytology was 1.48 (0.72-3.08; P = .29). Heterogeneity was substantial, but the comparison was stable on leave-one-out analysis (relative specificity 0.93-0.96).\nCONCLUSIONS: CVG did not improve sensitivity over Pap cytology, and both its specificity and its overall accuracy were lower. Adding CVG raised sensitivity, but this follows from the parallel testing rule: the gain in overall accuracy was not statistically significant, while false positives increased approximately 3-fold. Given the very low certainty of the evidence, routine addition of CVG to Pap cytology cannot be recommended. Prospective studies of digital tele-CVG against human papillomavirus-based strategies are required.",
+        "journal": "Medicine",
+        "authors": [
+          "Jaeman Bae",
+          "Ju-Hyun Kim",
+          "Seung-Hyuk Shim",
+          "Soo-Nyung Kim",
+          "Tae-Jin Kim"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-30T00:00:00.000Z",
+        "activityAt": "2026-11-11T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43012767/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "宫颈摄影用于宫颈癌筛查：系统评价与Meta分析",
+          "researchQuestion": "评价宫颈摄影（CVG）和Pap细胞学单独及平行联合检测对组织学确诊的宫颈上皮内瘤变2级或更严重病变（CIN2+）的准确性。",
+          "studyDesign": "系统评价与Meta分析，纳入横断面研究。",
+          "populationAndSample": "共纳入8项横断面研究；每项研究中同一参与者均接受两种指数试验；摘要未报告参与者总人数。",
+          "methods": "检索5个数据库至2024年12月31日，无地域或语言限制；参考标准为阴道镜引导活检的组织病理学；采用双变量随机效应模型汇总敏感性和特异性；由于同一研究中两种指数试验应用于同一参与者，采用单一配对模型比较相对敏感性、相对特异性和相对诊断比值比（rDOR）。",
+          "keyResults": "CVG汇总敏感性为0.69（95%CI：0.59至0.77），特异性为0.90（95%CI：0.83至0.95）；Pap细胞学汇总敏感性为0.69（95%CI：0.56至0.80），特异性为0.96（95%CI：0.91至0.98）。配对比较中，相对敏感性为1.01（95%CI：0.92至1.11；P=0.87），相对特异性为0.94（95%CI：0.91至0.98；P=0.002），rDOR为0.43（95%CI：0.31至0.60；P<0.001）。在3项同时报告联合检测的研究中，联合检测对比Pap细胞学的rDOR为1.48（95%CI：0.72至3.08；P=0.29）。异质性较大，但留一法分析显示比较结果稳定（相对特异性0.93至0.96）。",
+          "limitations": "仅纳入8项横断面研究；异质性较大；证据确定性非常低；摘要未报告参与者总人数、各研究偏倚风险细节；联合检测仅3项研究。",
+          "clinicalInterpretation": "CVG未较Pap细胞学提高敏感性，且特异性和总体准确性更低；平行联合检测可提高敏感性，但假阳性约增加3倍，总体准确性增益无统计学意义。作者认为，鉴于证据确定性非常低，不能推荐常规将CVG加入Pap细胞学筛查；后续需开展数字远程CVG与HPV为基础策略比较的前瞻性研究。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "124ecd8b6f7df88ce4f76be904b599bf7482fb3198e789db61d5f601ae403d93"
+      },
+      {
+        "id": "pmid:43009253",
+        "pmid": "43009253",
+        "doi": "10.1016/j.cardfail.2026.08.012",
+        "title": "Digital Phenotyping, Remote Monitoring, and Risk Prediction of Heart Failure in Hypertensive Disorders of Pregnancy: A Systematic Review With Narrative Synthesis.",
+        "abstract": "BACKGROUND: Hypertensive disorders of pregnancy (HDPs), particularly preeclampsia, are associated with acute cardiovascular morbidity and future heart failure (HF). Current surveillance relies largely on blood pressure, symptoms, laboratory abnormalities, and clinician-triggered evaluation. Digital phenotyping, remote monitoring, electronic health record-based prediction, and machine learning may enable earlier cardiovascular risk identification.\nOBJECTIVES: To systematically identify and narratively synthesize studies evaluating remote monitoring, digital health, machine learning, or risk-prediction approaches for HF-related phenotypes or cardiovascular morbidity in HDPs.\nMETHODS: MEDLINE, Embase, and Scopus were searched for studies published from January 2020 through April 10, 2025. Studies evaluating prediction or monitoring approaches in HDPs underwent sequential assessment for HF-related or cardiovascular morbidity outcomes. Screening and full-text reviews were performed by 2 independent reviewers, with disagreements resolved by a third reviewer. Given substantial heterogeneity, findings were synthesized narratively.\nRESULTS: Of 3366 records imported for screening, 6 studies met the inclusion criteria. Studies used clinical prediction models, electronic health record (EHR)-based models, and remote monitoring to evaluate acute cardiovascular morbidity, HFpEF, cardiac remodeling, and cardiovascular readmission. Model discrimination ranged from modest to strong (AUROC approximately 0.70-0.94). Recurrent predictors included severe hypertensive disease, earlier gestational age at delivery, kidney disease, pre-existing cardiac disease, pulmonary hypertension, maternal age, obesity-related measures, blood pressure, and postpartum volume retention. Most prediction models lacked external validation.\nCONCLUSIONS: Preliminary evidence suggests that clinical, EHR-derived, and remotely monitored data may support risk stratification for selected cardiovascular morbidity and HF-related phenotypes after HDPs. Prospective validation, physiological marker integration, and evaluation of risk-guided interventions are needed.",
+        "journal": "Journal of cardiac failure",
+        "authors": [
+          "Arielle Yoo",
+          "Hana Shaik",
+          "Jazleen Kaur Nijjar",
+          "Kyi Ther Min",
+          "Lanise Powell",
+          "Lihong Mo",
+          "Michelle P Sahai",
+          "Philip Strong",
+          "Sally Nguyen",
+          "Shanthoshi Thamilseran",
+          "Susan Gorman",
+          "Tayloneei Jackson"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-11-01T00:00:00.000Z",
+        "activityAt": "2026-11-10T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43009253/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "妊娠期高血压疾病中心力衰竭的数字表型、远程监测与风险预测：系统评价与叙述性综合",
+          "researchQuestion": "系统识别并叙述性综合评估妊娠期高血压疾病（HDP）中用于心力衰竭（HF）相关表型或心血管疾病风险的远程监测、数字健康、机器学习或风险预测研究。",
+          "studyDesign": "系统评价与叙述性综合。",
+          "populationAndSample": "筛查3366条记录，最终6项研究符合纳入标准；研究人群为HDP患者；摘要未报告各研究的具体样本量。",
+          "methods": "检索MEDLINE、Embase和Scopus，时间范围为2020年1月至2025年4月10日；由两名独立评审者进行筛选和全文审阅，分歧由第三名评审者解决；因研究间异质性较大，采用叙述性综合。",
+          "keyResults": "纳入研究使用临床预测模型、电子健康记录（EHR）模型和远程监测，评估急性心血管疾病、射血分数保留的心力衰竭（HFpEF）、心脏重塑和心血管再入院。模型区分度从中等到较强（AUROC约0.70至0.94）。反复出现的预测因子包括严重高血压疾病、分娩时较早孕周、肾脏疾病、既往心脏病、肺动脉高压、母亲年龄、肥胖相关指标、血压和产后容量潴留。多数预测模型缺乏外部验证。",
+          "limitations": "仅6项研究符合纳入标准；研究间异质性较大，无法进行定量合并；多数模型缺乏外部验证；摘要未报告样本量、各研究偏倚风险和具体结局定义。",
+          "clinicalInterpretation": "初步证据提示，临床、EHR衍生和远程监测数据可能支持HDP后部分心血管疾病和HF相关表型的风险分层；但现有证据仍属早期，需前瞻性验证、整合生理标志物并评估风险引导的干预措施。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "e7307b0436e0a8cef6fd16013476fe87160b464e9e682311a3d7c3cf74581163"
+      }
+    ]
+  }
+}
