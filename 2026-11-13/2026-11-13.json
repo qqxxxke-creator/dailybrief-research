@@ -1,0 +1,268 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-11-13T00:08:00.194Z",
+    "dataAsOf": "2026-11-13T00:08:00.194Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及性传播共感染作为HPV驱动宫颈癌发生的生物学修饰因素：一项系统整合综述、延长剂量来曲唑方案与标准剂量方案用于多囊卵巢综合征促排卵及生化妊娠的比较、喀麦隆人乳头瘤病毒疫苗可接受性：系统综述与荟萃分析。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:43016629",
+        "pmid": "43016629",
+        "doi": "10.3389/fcimb.2026.1938728",
+        "title": "Sexually transmitted co-infections as biological modifiers of HPV-driven cervical carcinogenesis: a systematic integrative review.",
+        "abstract": "Persistent high-risk human papillomavirus (HR-HPV) infection is necessary but not sufficient for cervical cancer, which caused approximately 350,000 deaths in 2022. Co-infections with Chlamydia trachomatis (CT), herpes simplex virus type 2 (HSV-2), and HIV may modify cervical carcinogenesis, but causal inference is constrained by confounding, study heterogeneity, and limited mechanistic validation in human tissue. This systematic integrative review (PRISMA 2020) searched PubMed, Embase, Scopus, Web of Science, and the Cochrane Library (January 2015 to March 2026); risk of bias was assessed using the Newcastle-Ottawa Scale and ROBINS-I, and certainty of evidence using GRADE. HIV co-infection shows the strongest evidence: approximately 6-fold risk elevation, a confirmed CD4 dose-response, and residual risk that persists despite antiretroviral therapy (GRADE: high). CT is associated with 2-4-fold elevations in observational studies, but substantial heterogeneity, residual sexual-behavior confounding, funnel-plot asymmetry suggesting publication bias, and attenuation of the HPV-adjusted independent effect (OR 1.76, 95% CI 1.03-3.01) leave causality uncertain (GRADE: Low-Moderate). HSV-2 associations are inconsistent: pooled cervical cancer risk was elevated (OR 3.01, 95% CI 2.24-4.04), but most estimates were unadjusted for HPV status, prospective studies are non-significant, and mechanistic evidence derives from non-human models (GRADE: low). A context-dependent syndemic effect appears in HIV co-infected populations. In conclusion, HIV meets criteria for a probable causal modifier of HPV-driven carcinogenesis, supporting WHO-endorsed intensified screening for women living with HIV; CT's role remains uncertain pending rigorous confounder control; and HSV-2 does not meet the threshold for independent co-factor classification. Priorities include prospective cohorts and human cervical-tissue mechanistic validation.",
+        "journal": "Frontiers in cellular and infection microbiology",
+        "authors": [
+          "Ahmad Y Alqassim",
+          "Ahmed A Al-Qahtani",
+          "Arwa A Al-Qahtani",
+          "Emad Alqassim"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-28T00:00:00.000Z",
+        "activityAt": "2026-11-12T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43016629/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "性传播共感染作为HPV驱动宫颈癌发生的生物学修饰因素：一项系统整合综述",
+          "researchQuestion": "沙眼衣原体（CT）、2型单纯疱疹病毒（HSV-2）和HIV共感染是否会修饰HPV驱动的宫颈癌发生，以及现有证据能否支持因果推断？",
+          "studyDesign": "系统整合综述，遵循PRISMA 2020；检索PubMed、Embase、Scopus、Web of Science和Cochrane Library（2015年1月至2026年3月）；使用Newcastle-Ottawa量表和ROBINS-I评估偏倚风险，使用GRADE评估证据确定性。",
+          "populationAndSample": "摘要未报告纳入研究数量、受试者总数及具体人群特征；综述聚焦CT、HSV-2和HIV共感染与HPV驱动宫颈癌发生相关证据。",
+          "methods": "系统检索并整合共感染与HPV驱动宫颈癌发生关系的证据；采用Newcastle-Ottawa量表和ROBINS-I进行偏倚风险评估，采用GRADE评估证据确定性。",
+          "keyResults": "HIV共感染证据最强：风险约升高6倍，确认CD4剂量反应，且抗逆转录病毒治疗下残余风险持续存在（GRADE：高）。CT在观察性研究中与2-4倍风险升高相关，但异质性大、残余性行为混杂、漏斗图不对称提示发表偏倚，HPV校正后的独立效应减弱（OR 1.76，95% CI 1.03-3.01），因果性不确定（GRADE：低-中）。HSV-2关联不一致：汇总宫颈癌风险升高（OR 3.01，95% CI 2.24-4.04），但多数估计未校正HPV状态，前瞻性研究无显著结果，机制证据来自非人类模型（GRADE：低）。在HIV共感染人群中可见情境依赖的协同流行效应。",
+          "limitations": "作者指出因果推断受混杂、研究异质性及人体组织机制验证有限所限；CT证据存在显著异质性、残余性行为混杂、漏斗图不对称提示发表偏倚；HSV-2多数估计未校正HPV状态、前瞻性研究无显著结果且机制证据来自非人类模型。",
+          "clinicalInterpretation": "综述作者认为HIV符合HPV驱动癌发生的可能因果修饰因素标准，并提到这与WHO支持的HIV感染女性加强筛查相一致；CT作用仍不确定，HSV-2未达到独立协同因素分类阈值。作者提出需以前瞻性队列和人体宫颈组织机制验证为优先方向。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "515c2f82756e43266d1403b647f8610760b1d022dcccd0dcde37bac37f4c55cd"
+      },
+      {
+        "id": "pmid:43016073",
+        "pmid": "43016073",
+        "doi": "10.29271/jcpsp.2026.11.1396",
+        "title": "Extended-Dose Letrozole Regimen<em> versus </em>Standard-Dose Regimen for Ovulation Induction and Biochemical Pregnancy in Polycystic Ovary Syndrome.",
+        "abstract": "OBJECTIVE: To compare the extended-dose letrozole regimen with the standard-dose regimen for ovulation induction and biochemical pregnancy in women with polycystic ovary syndrome (PCOS).\nSTUDY DESIGN: A randomised controlled trial. Place and Duration of the Study: Department of Obstetrics and Gynaecology, Sir Gangaram Hospital, Lahore, Pakistan, from April to September 2025.\nMETHODOLOGY: A total of 174 women with PCOS were randomised into extended-dose (n = 87; letrozole 5 mg, cycle days 2-10) and standard- dose (n = 87; letrozole 5 mg, cycle days 2-6) groups. Ovulation was triggered with human chorionic gonadotropin (5000 IU) upon detecting mature follicles (18-22 mm). Ovulation induction was confirmed by measuring mid-luteal serum progesterone levels on day 21, and biochemical pregnancy by urine pregnancy test on day 28. Statistical analysis was performed using both univariable and multivariable logistic regression frameworks to estimate odds ratios with 95% confidence intervals.\nRESULTS: Baseline demographics and endocrine parameters were comparable, with no statistically significant differences between groups (all p >0.05). The extended-dose letrozole regimen achieved significantly higher rates and odds of successful ovulation induction (69.0% vs. 51.7%, p = 0.020; aOR = 1.995, p = 0.035) and positive biochemical pregnancy (33.3% vs. 16.1%, p = 0.008; aOR = 2.500, p = 0.014) than the standard protocol. Conversely, secondary subfertility independently reduced the likelihood of successful ovulation induction (aOR = 0.472, p = 0.026). None of the other evaluated covariates showed a significant association in both univariable and multivariable analyses.\nCONCLUSION: Extended-dose letrozole regimen demonstrated better efficacy in achieving successful ovulation induction and biochemical pregnancy compared with the standard-dose regimen. However, these findings should be interpreted with caution in light of the study's inherent limitations.\nKEY WORDS: Letrozole, Infertility, Ovulation induction, Polycystic ovary syndrome, Pregnancy.",
+        "journal": "Journal of the College of Physicians and Surgeons--Pakistan : JCPSP",
+        "authors": [
+          "Gule Raana",
+          "Rizwana Tariq",
+          "Saima Rashid",
+          "Samia Butt",
+          "Shamila Ijaz Munir"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-11-01T00:00:00.000Z",
+        "activityAt": "2026-11-12T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43016073/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "延长剂量来曲唑方案与标准剂量方案用于多囊卵巢综合征促排卵及生化妊娠的比较",
+          "researchQuestion": "在PCOS女性中，延长剂量来曲唑方案与标准剂量方案相比，能否提高促排卵成功率和生化妊娠率？",
+          "studyDesign": "随机对照试验；地点为巴基斯坦拉合尔Sir Gangaram医院妇产科，时间为2025年4月至9月。",
+          "populationAndSample": "174例PCOS女性随机分为延长剂量组（n=87）和标准剂量组（n=87）。",
+          "methods": "延长剂量组来曲唑5 mg，周期第2-10天；标准剂量组来曲唑5 mg，周期第2-6天。发现成熟卵泡（18-22 mm）后用人绒毛膜促性腺激素5000 IU触发排卵。第21天测黄体中期血清孕酮确认促排卵，第28天尿妊娠试验确认生化妊娠。采用单变量和多变量logistic回归估计OR及95% CI。",
+          "keyResults": "基线人口学和内分泌参数组间可比（均p>0.05）。延长剂量组促排卵成功率显著高于标准剂量组（69.0% vs 51.7%，p=0.020；aOR=1.995，p=0.035），生化妊娠阳性率也显著更高（33.3% vs 16.1%，p=0.008；aOR=2.500，p=0.014）。继发性不孕独立降低促排卵成功可能（aOR=0.472，p=0.026）。其他评估协变量在单变量和多变量分析中均无显著关联。",
+          "limitations": "摘要仅称应结合研究固有局限性谨慎解读，未具体列出局限性；摘要未报告盲法、分配隐藏或样本量计算细节。",
+          "clinicalInterpretation": "在该RCT中，延长剂量来曲唑方案在促排卵成功率和生化妊娠率上优于标准剂量方案；作者提示需谨慎解读，不能据此形成临床指南。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "078bdab1bbe3f91c3b2bc63dbae76e0fb7f339b10338904b370ef1097b31728d"
+      },
+      {
+        "id": "pmid:43015661",
+        "pmid": "43015661",
+        "doi": "10.1186/s12879-026-14240-3",
+        "title": "Human papillomavirus vaccine acceptability in Cameroon: a systematic review and meta-analysis.",
+        "abstract": "BACKGROUND: Human papillomavirus (HPV) vaccination is a key strategy for cervical cancer elimination. In Cameroon, HPV vaccine was introduced into the expanded program on immunization in 2020. However, synthesized evidence on vaccine acceptability is needed to guide policy. This systematic review and meta-analysis aimed to estimate the pooled prevalence of HPV vaccine knowledge, willingness to vaccinate, recommendation practices, and actual uptake in Cameroon, and to identify determinants of vaccine hesitancy.\nMETHODS: We searched PubMed, Scopus, Web of Science, Embase, Cochrane Library, and African Journals Online from studies to January 2025. Studies reporting willingness to vaccinate, knowledge, recommendation, and uptake of HPV vaccine were included. Pooled prevalence estimates and odds ratios were calculated using random-effects models. Heterogeneity was assessed using the I² statistic. The study was reported following PRISMA 2020 guidelines and registered in PROSPERO ID: CRD420261301213.\nRESULTS: Thirty-three studies were included. Among 4,993 participants, who were mainly healthcare workers (n = 1,739) and parents (n = 2,419), the pooled prevalence of willingness to vaccinate was 68.1% (95% confidence interval [CI]: 57.4-77.2; 12 studies; I² = 98%). The pooled prevalence of HPV vaccine knowledge was 41.3% (95% CI: 28.7-55.1; 33 studies; n = 8,175 participants; I² = 98%). Approximately two-thirds of participants (67.7%; 95% CI: 50.7-81.0; 8 studies; n = 1,617) reported recommending the vaccine, but actual uptake was 22.9% (95% CI: 6.9-54.5; 9 studies; n = 9,686). The vaccine coverage ranged from 1.6% to 90.6%. Willingness significantly declined from 74.2% before 2014 to 57.5% after 2021. Healthcare workers had the highest knowledge (74.5%) and willingness (77.8%) among included participant groups. Lack of HPV knowledge was associated with nearly three-fold higher hesitancy (odds ratio [OR]: 2.58; 95% CI: 2.06-3.22). High heterogeneity was observed for all pooled estimates, suggesting that they should be interpreted as average estimates rather than precise values.\nCONCLUSIONS: Despite moderate willingness, HPV vaccine knowledge and uptake remain low in Cameroon, with marked disparities across regions and populations. Addressing knowledge gaps and strengthening context-specific vaccination strategies are needed to improve coverage.",
+        "journal": "BMC infectious diseases",
+        "authors": [
+          "Armand Tiotsia Tsapi",
+          "Chabeja Achangwa",
+          "Edwige Omona Guissana",
+          "Eric Mboke Ekoum",
+          "Fabrice Zobel Lekeumo Cheuyem",
+          "Isabelle Nkwele Mekone",
+          "Rick Tchamani"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-14T00:00:00.000Z",
+        "activityAt": "2026-11-12T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43015661/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 11.25,
+          "recency": 10,
+          "total": 96.25,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "喀麦隆人乳头瘤病毒疫苗可接受性：系统综述与荟萃分析",
+          "researchQuestion": "喀麦隆HPV疫苗知识、接种意愿、推荐实践和实际接种率的汇总患病率如何，疫苗犹豫的决定因素有哪些？",
+          "studyDesign": "系统综述与荟萃分析，遵循PRISMA 2020，PROSPERO注册号CRD420261301213；检索PubMed、Scopus、Web of Science、Embase、Cochrane Library和African Journals Online至2025年1月。",
+          "populationAndSample": "纳入33项研究；意愿分析涉及4,993名参与者，主要为医务人员（n=1,739）和父母（n=2,419）；知识分析33项研究、n=8,175；推荐分析8项研究、n=1,617；实际接种分析9项研究、n=9,686。",
+          "methods": "纳入报告HPV疫苗愿意接种、知识、推荐和接种情况的研究；采用随机效应模型计算汇总患病率和OR；用I²评估异质性。",
+          "keyResults": "接种意愿汇总患病率为68.1%（95% CI：57.4-77.2；12项研究；I²=98%）。HPV疫苗知识汇总患病率为41.3%（95% CI：28.7-55.1；33项研究；n=8,175；I²=98%）。约三分之二参与者报告推荐疫苗（67.7%；95% CI：50.7-81.0；8项研究；n=1,617），但实际接种率为22.9%（95% CI：6.9-54.5；9项研究；n=9,686）。疫苗覆盖率范围为1.6%至90.6%。接种意愿从2014年前的74.2%下降至2021年后的57.5%。医务人员在纳入人群中知识（74.5%）和意愿（77.8%）最高。缺乏HPV知识与犹豫增加近三倍相关（OR：2.58；95% CI：2.06-3.22）。所有汇总估计均存在高异质性。",
+          "limitations": "所有汇总估计均存在高异质性，作者提示应解释为平均估计而非精确值；摘要未报告其他方法学局限性。",
+          "clinicalInterpretation": "在喀麦隆，HPV疫苗意愿为中等水平，但知识、实际接种率仍低，约三分之二报告推荐疫苗；作者提出需针对知识缺口和情境化策略改善覆盖。该结果为系统综述/荟萃分析的平均估计，不能推断因果。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "ac5bfb0f40e4dc7bb5318e79d92686a37f36f2cb3d7b453e5b8acccfd367a6c9"
+      },
+      {
+        "id": "pmid:43012228",
+        "pmid": "43012228",
+        "title": "[Effect of zinc selenium L-carnitine compound nutrient combined with tamoxifen citrate on routine semen parameters and sperm DNA fragmentation index in male infertility patients].",
+        "abstract": "Objective To explore the effect of zinc selenium L-carnitine compound nutrient combined with tamoxifen citrate on routine semen parameters and sperm DNA fragmentation index of male infertility patients with abnormal sperm DNA fragmentation index. Methods A total of 903 male infertile patients with sperm DFI (>15%) were selected and randomly divided into control group (453 cases) and combination group (450 cases). The control group was treated with vitamin E soft capsule, and the combination group was treated with zinc selenium L-carnitine compound nutrient combined with tamoxifen citrate. The percentages of normal morphology sperm, sperm volume, sperm concentration, percentage of forward moving sperm（PR）, percentage of non-forward moving sperm（NP）, and DFI of patients in the two groups were collected before treatment and 1, 2 and 3 months after treatment. The effective rates of combined medication treatment for patients with abnormal DFI in different age groups were compared. Results After 1 month of treatment in the combination group, PR increased significantly and DFI decreased significantly (P<0.01). After 2 months of treatment, compared with before treatment, PR (P<0.01) and NP increased (P<0.05), DFI decreased (P<0.01). After 3 months of treatment, the semen volume increased compared with before treatment (P<0.05), and DFI decreased continuously (P<0.01). However, there was no significant difference in the percentage of normal morphological sperm and sperm concentration compared with before treatment (P>0.05). In the control group, PR increased significantly after 1 and 2 months of treatment compared with before treatment (P<0.01, P<0.05), and DFI decreased significantly (P<0.001, P<0.01). However, there was no statistically significant difference in the percentage of normal morphological sperm, semen volume, sperm concentration, and NP compared with before treatment. There was no significant difference in any parameters after 3 months of treatment compared with before treatment (P>0.05). Before treatment, the differences in various parameters between the two groups were not significant (P>0.05). After 1 and 2 months of treatment, compared with the control group, the DFI of the combination group showed a significant decrease (P<0.01, P<0.05), and the differences in other parameters were not significant (P>0.05). After 3 months of treatment, the differences in various parameters between the two groups were not significant (P>0.05). Among the patients in the combination group with DFI>25%, the treatment effectiveness rate of patients aged ≥35 years was higher than that of those aged <35 years old (P<0.01); while among the patients in the combination group with 15%<DFI≤25%, the difference in the treatment effectiveness rate between those aged ≥35 years and those aged <35 years was not statistically significant (P>0.05). Conclusion The zinc selenium L-carnitine compound nutrient combined with tamoxifen citrate can improve PR and sperm DNA integrity of male infertility patients. Meanwhile, patients with higher baseline DFI values combined with older age have better therapeutic effects.",
+        "journal": "Zhonghua nan ke xue = National journal of andrology",
+        "authors": [
+          "Meijiao Xin",
+          "Nanxiang Shi",
+          "Yimin Shi",
+          "Yuanzhi Xie",
+          "Yulin Wang"
+        ],
+        "publicationTypes": [
+          "English Abstract",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-05-01T00:00:00.000Z",
+        "activityAt": "2026-11-11T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43012228/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 7.5,
+          "total": 96.25,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "锌硒左卡尼汀复合营养素联合枸橼酸他莫昔芬对男性不育患者精液常规参数及精子DNA碎片指数的影响",
+          "researchQuestion": "锌硒左卡尼汀复合营养素联合枸橼酸他莫昔芬能否改善精子DNA碎片指数（DFI）异常男性不育患者的精液常规参数和DFI？",
+          "studyDesign": "随机对照试验。",
+          "populationAndSample": "903例DFI>15%的男性不育患者，随机分为对照组453例和联合组450例。",
+          "methods": "对照组给予维生素E软胶囊；联合组给予锌硒左卡尼汀复合营养素联合枸橼酸他莫昔芬。治疗前及治疗后1、2、3个月收集正常形态精子百分比、精液量、精子浓度、前向运动精子百分比（PR）、非前向运动精子百分比（NP）和DFI；并比较不同年龄组DFI异常患者的联合治疗有效率。",
+          "keyResults": "联合组治疗1个月后PR显著升高、DFI显著下降（P<0.01）；治疗2个月后较治疗前PR升高（P<0.01）、NP升高（P<0.05）、DFI下降（P<0.01）；治疗3个月后精液量较治疗前增加（P<0.05），DFI持续下降（P<0.01），但正常形态精子百分比和精子浓度与治疗前无显著差异（P>0.05）。对照组治疗1、2个月后PR较治疗前升高（P<0.01、P<0.05），DFI显著下降（P<0.001、P<0.01）；正常形态精子百分比、精液量、精子浓度和NP与治疗前无显著差异；治疗3个月后所有参数与治疗前无显著差异（P>0.05）。两组治疗前各参数无显著差异（P>0.05）。治疗1、2个月后联合组DFI较对照组显著下降（P<0.01、P<0.05），其他参数无显著差异（P>0.05）；治疗3个月后两组各参数无显著差异（P>0.05）。联合组DFI>25%者中，年龄≥35岁患者治疗有效率高于<35岁者（P<0.01）；15%<DFI≤25%者中，年龄≥35岁与<35岁治疗有效率无统计学差异（P>0.05）。结论认为联合方案可改善PR和精子DNA完整性，基线DFI较高并年龄较大者疗效更好。",
+          "limitations": "摘要未报告研究局限性、盲法、分配隐藏、样本量计算或随访细节。",
+          "clinicalInterpretation": "在DFI>15%的男性不育患者中，该联合方案在本RCT中显示与PR及精子DNA完整性改善相关，且基线DFI较高并年龄较大者报告疗效更好；需注意单篇RCT证据和摘要未报告的局限性，不能据此形成临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "b47f67d36d7175c39beba80f9972e56a35fb83e4f65dc6ef563618cacf6deaa3"
+      },
+      {
+        "id": "pmid:43016031",
+        "pmid": "43016031",
+        "doi": "10.32604/cju.2026.078745",
+        "title": "Diet-induced obesity disrupts hypothalamic- testicular NF-κB signaling axis and impairs spermatogenesis: an integrated transcriptomic analysis and meta-analysis.",
+        "abstract": "BACKGROUND: Obesity is a recognized risk factor for male infertility, yet the involvement of the hypothalamic-testicular axis and nuclear factor kappa-B (NF-κB)-mediated inflammation remains incompletely defined. This study aimed to investigate whether diet-induced obesity is associated with alterations in the hypothalamic-testicular NF-κB signaling axis and spermatogenesis through integrated transcriptomic analysis and clinical meta-analysis.\nMETHODS: Testicular single-cell RNA-seq and hypothalamic transcriptomic data from diet-induced obese mice were integrated to identify cell-type-specific transcriptional changes. The analyses included differential expression, pathway enrichment, and NF-κB activity scoring based on target gene expression. Mechanistic findings related to steroidogenesis and germ-cell maturation were elucidated via integrated transcriptomic analysis, and a systematic clinical meta-analysis was further performed to validate these mechanistic insights and assess the association between obesity, sperm quality, and NF-κB-related inflammation in humans.\nRESULTS: Integrated analysis revealed marked NF-κB transcriptional activity in testicular germ cells (predominantly round spermatids, adjusted p = 0.00134), whose median score was 1.82-fold higher than that of the control group. This activity inversely correlated with genes essential for steroidogenesis (Hsd3b1: r = -0.47 to -0.62), blood-testis barrier (BTB) integrity (Cldn11: r ≈ -0.55), and germ-cell maturation (Tnp1: r = -0.42 to -0.58; all adjusted p < 0.05). Concurrently, a high-fat diet was associated with hypothalamic NF-κB signaling (log2FC = 1.32, adjusted p = 0.012) and upregulated Protein Phosphatase 2 Catalytic Subunit Alpha (Ppp2ca; log2FC = 1.57, adjusted p = 0.008). Meta-analysis of 7 clinical studies confirmed obesity-associated reduced sperm concentration (standardized mean difference = -0.24, 95% CI: -0.37 to -0.12, p < 0.001) and 3.24-fold higher azoospermia risk (95% CI:1.18-8.88, p = 0.023).\nCONCLUSION: Collectively, these findings suggest that NF-κB-mediated inflammation along the hypothalamus-testis axis may contribute to obesity-related male infertility and highlight NF-κB as a potential therapeutic target. However, further interventional studies using NF-κB inhibitors or germ cell-specific genetic models are required to establish causality and validate NF-κB as a therapeutic target.",
+        "journal": "The Canadian journal of urology",
+        "authors": [
+          "Guangzhao Yang",
+          "Guowei Du",
+          "Heng Wang",
+          "Jianhuai Chen",
+          "Jing Wang",
+          "Shanshan Chen",
+          "Siwen Liu",
+          "Xuanyi Chen",
+          "Yanting Wang"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "publishedAt": "2026-10-30T00:00:00.000Z",
+        "activityAt": "2026-11-12T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43016031/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 3.75,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "饮食诱导肥胖破坏下丘脑-睾丸NF-κB信号轴并损害精子发生：整合转录组分析与荟萃分析",
+          "researchQuestion": "饮食诱导肥胖是否与下丘脑-睾丸NF-κB信号轴改变及精子发生受损相关？",
+          "studyDesign": "整合转录组分析联合临床系统荟萃分析；包括饮食诱导肥胖小鼠的睾丸单细胞RNA测序和下丘脑转录组数据，以及7项临床研究的荟萃分析。",
+          "populationAndSample": "机制部分为饮食诱导肥胖小鼠（样本量摘要未报告）；临床荟萃分析纳入7项临床研究。",
+          "methods": "整合睾丸单细胞RNA-seq和下丘脑转录组数据，进行差异表达、通路富集和基于靶基因表达的NF-κB活性评分；分析类固醇生成和生殖细胞成熟相关机制；并进行系统临床荟萃分析，评估肥胖、精子质量与NF-κB相关炎症的关联。",
+          "keyResults": "整合分析显示睾丸生殖细胞中NF-κB转录活性明显，主要见于圆形精子细胞（校正p=0.00134），其中位评分较对照组高1.82倍。该活性与类固醇生成关键基因（Hsd3b1：r=-0.47至-0.62）、血睾屏障完整性（Cldn11：r≈-0.55）和生殖细胞成熟（Tnp1：r=-0.42至-0.58）呈反向相关（均校正p<0.05）。高脂饮食与下丘脑NF-κB信号相关（log2FC=1.32，校正p=0.012），并上调Ppp2ca（log2FC=1.57，校正p=0.008）。7项临床研究的荟萃分析证实肥胖与精子浓度降低相关（标准化均数差=-0.24，95% CI：-0.37至-0.12，p<0.001），无精子症风险升高3.24倍（95% CI：1.18-8.88，p=0.023）。",
+          "limitations": "作者指出需使用NF-κB抑制剂或生殖细胞特异性遗传模型的干预研究来确定因果并验证NF-κB作为治疗靶点；机制发现来自饮食诱导肥胖小鼠，临床部分为7项研究的荟萃分析，摘要未报告其他局限性。",
+          "clinicalInterpretation": "结果提示下丘脑-睾丸轴NF-κB介导的炎症可能与肥胖相关男性不育有关，并将NF-κB列为潜在治疗靶点；但因果性尚未建立，不能据此改变临床实践。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "1e426bb585cf66dcbfbf848d8ef462362c4f104bff15bc14155fcbbe5980569e"
+      }
+    ]
+  }
+}
