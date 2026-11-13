@@ -1,0 +1,310 @@
+{
+  "hero_headline": "辅助生殖实验室操作编码指导更新，生殖中心计费合规受关注",
+  "daily_overview": "今日可确认的专业更新集中在生殖医学实践管理：PubMed收录的 Fertility & Sterility Practice Guidance 发布辅助生殖技术周期实验室操作编码指导，替代2016年美国生殖医学学会文件。未发现合格的妇产科手术前沿及国内外动态更新。",
+  "tech_briefs": [
+    {
+      "title": "Coding guidance for laboratory procedures during assisted reproductive technology cycles.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42778494/",
+      "source": "PubMed · Fertility & Sterility Practice Guidance",
+      "summary": "该文件提供辅助生殖技术周期中实验室相关服务的更新编码信息，并替代2016年美国生殖医学学会文件。对生殖医学中心实验室计费与合规管理有直接影响；原文摘要未说明与既往建议的具体差异。",
+      "importance": 7
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "编码更新虽非临床疗效证据，但直接影响ART实验室计费与合规，建议生殖中心核对流程。",
+  "keywords": [
+    "辅助生殖技术",
+    "实验室操作",
+    "编码指导",
+    "生殖医学",
+    "ASRM",
+    "计费合规"
+  ],
+  "research": {
+    "generatedAt": "2026-11-13T22:30:37.227Z",
+    "dataAsOf": "2026-11-13T22:30:37.227Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及孕妇孕早期体重增加与妊娠期糖尿病风险：剂量反应Meta分析、氟唑帕利联合阿帕替尼对比氟唑帕利单药治疗复发性卵巢癌：随机、开放标签、2期试验、帕米帕利联合索凡替尼并联合ctDNA监测治疗PARP抑制剂进展后的铂耐药卵巢癌：Ib/II期试验（POST-PARPi）。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:43021878",
+        "pmid": "43021878",
+        "doi": "10.3389/fpubh.2026.1933184",
+        "title": "Early pregnancy weight gain in pregnant women and the risk of gestational diabetes: a dose-response meta-analysis.",
+        "abstract": "BACKGROUND: Gestational diabetes mellitus is the most common metabolic disorder of pregnancy, and its global prevalence continues to rise. Although excessive gestational weight gain has been linked to an increased risk of gestational diabetes mellitus, the precise dose-response relationship during the early pregnancy remains unclear. This study aimed to systematically evaluate the association between early pregnancy weight gain (defined as first-trimester weight gain, approximately 12-13 weeks) and the risk of developing gestational diabetes mellitus and to quantify the dose-response relationship.\nMETHODS: A systematic search of PubMed, Embase, Web of Science, the Cochrane Library, China Biology Medicine disk, VIP Database for Chinese Technical Periodicals, WanFang Data, and China National Knowledge Infrastructure was conducted from database inception to December 2025 to identify studies examining the association between first-trimester weight gain and the risk of gestational diabetes mellitus. Two reviewers independently performed literature screening, data extraction, and risk of bias assessment. A traditional meta-analysis was performed using Stata 17.0 with a random-effects model using restricted maximum likelihood (REML) and Knapp-Hartung adjustment. The dose-response relationship was examined using restricted cubic spline regression and generalized least squares estimation. Subgroup analyses by GDM diagnostic criteria were performed.\nRESULTS: Nine cohort studies, encompassing 66,673 participants and 13,130 incident cases of gestational diabetes mellitus, were included in the meta-analysis. In the primary analysis restricted to seven studies with strict first-trimester weight gain, insufficient weight gain was associated with a lower risk of GDM (RR 0.84, 95% CI 0.79-0.90), whereas excessive weight gain was associated with a 32% higher risk (RR 1.32, 95% CI 1.20-1.45). Each 1-kg increment in first-trimester weight gain was associated with a 19% increase in GDM risk (RR 1.19, 95% CI 1.15-1.23). No statistically significant departure from linearity was observed ( P for non-linearity = 0.973). Subgroup analysis by GDM diagnostic criteria showed no significant between-subgroup difference for excessive weight gain ( p = 0.810) and a borderline difference for insufficient weight gain ( p = 0.082).\nCONCLUSION: Current evidence indicates that excessive first-trimester weight gain is associated with an increased risk of gestational diabetes mellitus, and no statistically significant departure from linearity was observed for the dose-response association between first-trimester weight gain and the risk of gestational diabetes mellitus. Weight monitoring and early intervention during the first trimester should be prioritized in clinical practice to reduce the risk of gestational diabetes mellitus.\nSYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/view/CRD420251140857.",
+        "journal": "Frontiers in public health",
+        "authors": [
+          "Jing Li",
+          "Lei Wu",
+          "Mei Wang",
+          "Mengyuan Yang",
+          "Xin Qi",
+          "Yanhong Wang",
+          "Yaxin Chen"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-10-29T00:00:00.000Z",
+        "activityAt": "2026-11-13T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43021878/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "孕妇孕早期体重增加与妊娠期糖尿病风险：剂量反应Meta分析",
+          "researchQuestion": "系统评价孕早期体重增加（定义为第一孕期体重增加，约12-13周）与妊娠期糖尿病（GDM）发生风险的关联，并量化剂量反应关系。",
+          "studyDesign": "系统评价与剂量反应Meta分析，纳入队列研究；PROSPERO注册号CRD420251140857。",
+          "populationAndSample": "共纳入9项队列研究，包含66,673名参与者和13,130例GDM新发病例；主要分析限制于7项采用严格孕早期体重增加定义的研究。",
+          "methods": "检索PubMed、Embase、Web of Science、Cochrane Library、中国生物医学文献数据库、维普、万方和中国知网，检索时间自建库至2025年12月。两名评价者独立进行文献筛选、数据提取和偏倚风险评估。使用Stata 17.0，采用限制性最大似然（REML）和Knapp-Hartung校正的随机效应模型进行传统Meta分析；采用限制性立方样条回归和广义最小二乘法估计剂量反应关系；按GDM诊断标准进行亚组分析。",
+          "keyResults": "在限制于7项严格孕早期体重增加研究的主要分析中，体重增加不足与GDM风险降低相关（RR 0.84，95% CI 0.79-0.90），而体重增加过多与GDM风险升高32%相关（RR 1.32，95% CI 1.20-1.45）。孕早期体重每增加1 kg，GDM风险增加19%（RR 1.19，95% CI 1.15-1.23）。未观察到统计学显著的非线性偏离（非线性检验P=0.973）。按GDM诊断标准亚组分析显示，体重增加过多的亚组间差异无统计学意义（p=0.810），体重增加不足的亚组间差异处于临界水平（p=0.082）。",
+          "limitations": "摘要未报告明确的局限性；纳入研究均为队列研究，关联不等同于因果。",
+          "clinicalInterpretation": "作者结论提示孕早期体重增加过多与GDM风险升高相关，并建议在临床实践中优先进行孕早期体重监测和早期干预；该证据来自观察性队列研究的Meta分析，不能推断因果，也不等同于临床指南。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "7862ae66be1b2efc907f4399916145123a04c6b2f7c6fcbf805c5a8d71a9484a"
+      },
+      {
+        "id": "pmid:43021375",
+        "pmid": "43021375",
+        "doi": "10.1186/s13048-026-02224-5",
+        "title": "Fuzuloparib in combination with apatinib versus fuzuloparib alone for recurrent ovarian cancer: a randomized, open-label, phase 2 trial.",
+        "abstract": "BACKGROUND: A randomized, open-label, phase 2 trial assessed fuzuloparib (a PARP inhibitor) plus apatinib (a vascular endothelial growth factor receptor [VEGFR] inhibitor) versus fuzuloparib alone in patients with recurrent ovarian cancer (ROC).\nMETHODS: Patients with ROC who had failed ≥ 2 lines of platinum-based chemotherapy were enrolled. Patients with primary platinum resistance were also eligible. Patients were randomized 1:1 to receive fuzuloparib plus apatinib or fuzuloparib. The primary endpoint was objective response rate (ORR).\nRESULTS: As of Jan 11, 2024, 76 eligible patients were enrolled (39 with fuzuloparib plus apatinib and 37 with fuzuloparib). The ORR was 38.5% for fuzuloparib plus apatinib and 35.1% for fuzuloparib alone, with median progression-free survival (PFS) of 7.3 months and 5.5 months, respectively. In patients with platinum resistance, the ORR was 29.6% with fuzuloparib plus apatinib compared to 20.0% with fuzuloparib alone, and the median PFS was 5.6 months versus 3.7 months (HR = 0.63; 95% CI, 0.34 to 1.15; p = 0.1306). In patients without prior VEGFR inhibitor exposure, the ORR was 50.0% with fuzuloparib plus apatinib compared to 36.7% with fuzuloparib alone, and the median PFS was 7.4 months versus 5.5 months (HR = 0.67; 95% CI, 0.38 to 1.19; p = 0.1667). Treatment-related adverse events of grade ≥ 3 occurred in 61.5% and 40.5% of patients in fuzuloparib plus apatinib and fuzuloparib groups.\nCONCLUSION: In treating ROC, fuzuloparib plus apatinib didn't show a significant advantage over fuzuloparib alone. However, in patients with platinum-resistant disease or without prior VEGFR inhibitors exposure, fuzuloparib plus apatinib showed a trend towards benefit.\nTRIAL REGISTRATION: ClinicalTrials.gov, NCT04517357 (Registration Date: August 16, 2020).",
+        "journal": "Journal of ovarian research",
+        "authors": [
+          "Bingzhong Zhang",
+          "Danbo Wang",
+          "Danqing Wang",
+          "Ge Lou",
+          "Guangyi Jiang",
+          "Jianqing Zhu",
+          "Jiaqin Lin",
+          "Jie Tang",
+          "Junying Tang",
+          "Li Wang",
+          "Qingshui Li",
+          "Rong Li",
+          "Ruifang An",
+          "Rutie Yin",
+          "Wei Duan",
+          "Wei Wang",
+          "Wen Di",
+          "Yi Huang",
+          "Youzhong Zhang",
+          "Yuting Wang"
+        ],
+        "publicationTypes": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-08-15T00:00:00.000Z",
+        "activityAt": "2026-11-13T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43021375/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "氟唑帕利联合阿帕替尼对比氟唑帕利单药治疗复发性卵巢癌：随机、开放标签、2期试验",
+          "researchQuestion": "评估氟唑帕利（PARP抑制剂）联合阿帕替尼（VEGFR抑制剂）对比氟唑帕利单药治疗复发性卵巢癌的疗效，主要终点为客观缓解率（ORR）。",
+          "studyDesign": "随机、开放标签、2期试验；1:1随机分组；ClinicalTrials.gov注册号NCT04517357。",
+          "populationAndSample": "复发性卵巢癌患者，既往至少2线铂类化疗失败；原发性铂耐药患者也可纳入。共纳入76例合格患者，其中氟唑帕利联合阿帕替尼组39例，氟唑帕利单药组37例。",
+          "methods": "患者按1:1随机接受氟唑帕利联合阿帕替尼或氟唑帕利单药治疗。主要终点为ORR；报告无进展生存期（PFS）及按铂耐药状态和既往VEGFR抑制剂暴露进行的亚组结果。",
+          "keyResults": "截至2024年1月11日，联合组与单药组的ORR分别为38.5%和35.1%，中位PFS分别为7.3个月和5.5个月。在铂耐药患者中，联合组与单药组的ORR分别为29.6%和20.0%，中位PFS分别为5.6个月和3.7个月（HR=0.63；95% CI 0.34-1.15；p=0.1306）。在无既往VEGFR抑制剂暴露患者中，联合组与单药组的ORR分别为50.0%和36.7%，中位PFS分别为7.4个月和5.5个月（HR=0.67；95% CI 0.38-1.19；p=0.1667）。联合组和单药组中≥3级治疗相关不良事件发生率分别为61.5%和40.5%。",
+          "limitations": "摘要未报告明确局限性；为开放标签2期试验，共76例患者，亚组差异未达统计学显著。",
+          "clinicalInterpretation": "总体人群中，氟唑帕利联合阿帕替尼未显示显著优于氟唑帕利单药；在铂耐药或无既往VEGFR抑制剂暴露患者中观察到获益趋势，但差异未达统计学显著，需进一步验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "ad8d7276973c8ed65c2bd587a308f12715652ebb81f1698790ec95e784e1eabf"
+      },
+      {
+        "id": "pmid:43021280",
+        "pmid": "43021280",
+        "doi": "10.1186/s12916-026-05122-1",
+        "title": "Pamiparib plus surufatinib with ctDNA monitoring in platinum-resistant ovarian cancer after PARP inhibitor progression: a phase Ib/II trial (POST-PARPi).",
+        "abstract": "BACKGROUND: PARP inhibitors (PARPi) are standard front-line maintenance therapy for advanced ovarian cancer, but the efficacy of PARPi retreatment after progression remains unclear. This phase Ib/II study evaluated pamiparib, a PARPi, combined with surufatinib, a small-molecule tyrosine kinase inhibitor, in patients with platinum-resistant ovarian cancer who progressed during or after PARPi treatment.\nMETHODS: Patients with platinum-resistant ovarian cancer progressing during or after PARPi treatment were enrolled. In phase Ib, a 3 + 3 dose de-escalation design was used to determine the recommended phase 2 dose (RP2D) of surufatinib combined with pamiparib (40 mg twice daily). Phase II evaluated antitumor activity at the RP2D. The primary endpoints were the RP2D of surufatinib in phase Ib and the 6-month progression-free survival (PFS) rate in phase II. Secondary endpoints included objective response rate (ORR), disease control rate (DCR), overall survival (OS), and safety. Tumor sequencing, homologous recombination deficiency (HRD) assessment, and serial circulating tumor DNA (ctDNA) analyses were performed as exploratory biomarkers.\nRESULTS: Twenty-nine patients were enrolled. The RP2D of surufatinib was 250 mg once daily, with no dose-limiting toxicities. At data cut-off (June 30, 2024), the median follow-up was 10.0 (range, 6.8-11.0) months. The 6-month PFS rate was 46.7% (95% CI: 24.4-66.2), and median OS was 14.5 (95% CI: 9.8-not estimable) months. The ORR was 8% in the efficacy evaluable set. Grade 3/4 treatment-related adverse events occurred in 37.9% of patients, most commonly thrombocytopenia (20.7%) and anemia (17.2%). BRCA mutation and HRD status were not significantly associated with PFS. Increased ctDNA concentration at C7D1 or at interim disease progression between C3D1 and C7D1 (referred to as C7D1/interim PD time points) was associated with progression within 6 months (P = 0.05). Patients with ctDNA partial response (>10% reduction from baseline) had longer median PFS than those without response at C3D1 (7.8 vs. 3.5 months, P = 0.05) and C7D1/interim PD time points (9.5 vs. 3.8 months, P = 0.01).\nCONCLUSIONS: Pamiparib plus surufatinib showed modest antitumor activity and a manageable safety profile in patients with platinum-resistant ovarian cancer after PARPi progression. CtDNA dynamics may be associated with treatment outcomes, warranting validation in larger studies.",
+        "journal": "BMC medicine",
+        "authors": [
+          "Cheng Fang",
+          "Chunyan Lan",
+          "Chuqiao Liang",
+          "Dongqin Zhu",
+          "Haixi Liang",
+          "Jing Li",
+          "Lingling Yang",
+          "Miaofang Wu",
+          "Min Zheng",
+          "Ruinian Zheng",
+          "Xin Huang",
+          "Xiujiao Shen",
+          "Xuehan Wang"
+        ],
+        "publicationTypes": [
+          "Clinical Trial, Phase I",
+          "Clinical Trial, Phase II",
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-17T00:00:00.000Z",
+        "activityAt": "2026-11-13T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43021280/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 21.25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 96.25,
+          "evidenceRank": 0.85
+        },
+        "summaryZh": {
+          "titleZh": "帕米帕利联合索凡替尼并联合ctDNA监测治疗PARP抑制剂进展后的铂耐药卵巢癌：Ib/II期试验（POST-PARPi）",
+          "researchQuestion": "评估帕米帕利（PARP抑制剂）联合索凡替尼（小分子酪氨酸激酶抑制剂）在PARP抑制剂治疗期间或之后进展的铂耐药卵巢癌患者中的疗效和安全性，并探索ctDNA等生物标志物。",
+          "studyDesign": "Ib/II期试验；Ib期采用3+3剂量递减设计确定推荐2期剂量（RP2D），II期在RP2D评估抗肿瘤活性；探索性分析包括肿瘤测序、同源重组缺陷（HRD）评估和连续ctDNA分析。",
+          "populationAndSample": "铂耐药卵巢癌患者，且在PARP抑制剂治疗期间或之后进展；共纳入29例患者。",
+          "methods": "帕米帕利40 mg每日两次联合索凡替尼剂量递减；Ib期主要终点为索凡替尼的RP2D，II期主要终点为6个月PFS率；次要终点包括ORR、疾病控制率（DCR）、总生存期（OS）和安全性。",
+          "keyResults": "索凡替尼的RP2D为250 mg每日一次，未观察到剂量限制性毒性。截至2024年6月30日，中位随访10.0个月（范围6.8-11.0）。6个月PFS率为46.7%（95% CI 24.4-66.2），中位OS为14.5个月（95% CI 9.8-不可估计）。疗效可评估集ORR为8%。≥3/4级治疗相关不良事件发生率为37.9%，最常见为血小板减少（20.7%）和贫血（17.2%）。BRCA突变和HRD状态与PFS无显著关联。C7D1时或C3D1至C7D1期间疾病进展时ctDNA浓度升高与6个月内进展相关（P=0.05）。ctDNA部分缓解（较基线下降>10%）者在C3D1时（7.8个月 vs 3.5个月，P=0.05）和C7D1/期间疾病进展时点（9.5个月 vs 3.8个月，P=0.01）的中位PFS长于无缓解者。",
+          "limitations": "样本量为29例；ctDNA动态与治疗结局的关联为探索性，作者指出需在更大研究中验证；摘要未报告其他明确局限性。",
+          "clinicalInterpretation": "在PARP抑制剂进展后的铂耐药卵巢癌中，帕米帕利联合索凡替尼显示中等抗肿瘤活性和可控的安全性；ctDNA动态可能与该人群治疗结局相关，但尚需更大样本验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "142e6e6ae50a6c75ef98dcb8d948acbcf3c5201e45086d33a60dbb4c5522549d"
+      },
+      {
+        "id": "pmid:43012629",
+        "pmid": "43012629",
+        "doi": "10.1590/s1677-5538.ibju.2026.0723",
+        "title": "Exploring the Association Between Cannabis Use and Male Reproductive Parameters: A Systematic Review and Meta-Analysis.",
+        "abstract": "PURPOSE: This systematic review and meta-analysis evaluated the association between cannabis use and male reproductive function, specifically sperm parameters and serum hormone levels.\nMATERIALS AND METHODS: We searched PubMed, Embase, and the Cochrane Library (August-September 2025) for studies assessing cannabis exposure and male fertility outcomes. Data were pooled using random-effects models, with heterogeneity assessed by I²/Q statistics and publication bias by funnel plots/Egger's test, following PRISMA guidelines (PROSPERO: CRD420251132635).\nRESULTS: A total of 18 studies (5,766 patients, 6,231 samples; mean age 36.5 ± 9.9 years) were included for sperm outcomes, and 21,066 patients (mean age 37.4 ± 10.4 years) for hormonal outcomes. All cannabis users reported smoking more than one joint per week in the preceding months. Cannabis users showed a significant reduction in sperm morphology compared to non-users (MD = -1.02; 95% CI: -1.93 to -0.10; p < 0.05), which persisted even when restricted to studies strictly following WHO criteria. No significant differences were found for sperm concentration, ejaculate volume, total sperm count, or progressive and total motility. Hormonal analysis revealed no differences in testosterone, FSH, or LH, but SHBG levels were significantly higher in cannabis users (MD = 3.90; 95% CI: 1.67-6.13; p <0.05).\nCONCLUSION: These findings suggest that cannabis use should be considered in the lifestyle assessment of men evaluated for subfertility and infertility. Although causality could not be established, cannabis should be considered a potential lifestyle factor, particularly in cases of abnormal sperm morphology or unexplained infertility. Further studies on sperm function are needed to clarify its effects on testicular function and fertilizing capacity.",
+        "journal": "International braz j urol : official journal of the Brazilian Society of Urology",
+        "authors": [
+          "Carlos Teodósio Da Ros",
+          "Davi Marçola Veiga",
+          "Gustavo Franco Carvalhal",
+          "Iago Zang Pires",
+          "Jorge J Hallak",
+          "Leonardo Pfeifer Rubin",
+          "Nilson Marquardt",
+          "Otto Rauber Felkl",
+          "Thiago Afonso Teixeira"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2027-01-01T00:00:00.000Z",
+        "activityAt": "2026-11-11T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43012629/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 6,
+          "recency": 7.5,
+          "total": 88.5,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "大麻使用与男性生殖参数之间的关联：系统评价与Meta分析",
+          "researchQuestion": "评价大麻使用与男性生殖功能之间的关联，具体包括精子参数和血清激素水平。",
+          "studyDesign": "系统评价与Meta分析；遵循PRISMA指南；PROSPERO注册号CRD420251132635。",
+          "populationAndSample": "精子结局纳入18项研究（5,766例患者，6,231份样本；平均年龄36.5±9.9岁）；激素结局纳入21,066例患者（平均年龄37.4±10.4岁）。所有大麻使用者均报告在既往数月内每周吸烟超过1支大麻烟。",
+          "methods": "检索PubMed、Embase和Cochrane Library（2025年8月至9月），纳入评估大麻暴露与男性生育结局的研究。采用随机效应模型合并数据，使用I²/Q统计量评估异质性，采用漏斗图和Egger检验评估发表偏倚。",
+          "keyResults": "与非使用者相比，大麻使用者精子形态显著降低（MD=-1.02；95% CI -1.93至-0.10；p<0.05），在严格遵循WHO标准的研究中该结果仍持续存在。精子浓度、精液量、精子总数、前向运动率和总活力未见显著差异。激素分析显示睾酮、FSH和LH无差异，但大麻使用者SHBG水平显著升高（MD=3.90；95% CI 1.67-6.13；p<0.05）。",
+          "limitations": "作者指出不能确立因果关系，需进一步研究精子功能以明确其对睾丸功能和受精能力的影响；摘要未报告其他明确局限性。",
+          "clinicalInterpretation": "结果提示大麻使用与精子形态下降及SHBG升高存在关联，但因果不能确立；在男性生育力评估中可将大麻使用作为生活方式因素考虑，尤其精子形态异常或不明原因不孕时，但不能据此形成临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "0c4fd3c23e2506233cdd9adab7eb930b7453c772db765176c53976c188ee7172"
+      },
+      {
+        "id": "pmid:43007046",
+        "pmid": "43007046",
+        "doi": "10.1080/10641955.2026.2746699",
+        "title": "Non-invasive vascular assessment in gestational hypertension and preeclampsia during pregnancy and the postpartum period: a systematic review.",
+        "abstract": "OBJECTIVE: To evaluate evidence on non-invasive vascular assessment techniques used during pregnancy and/or the postpartum period to identify vascular abnormalities associated with gestational hypertension and explore potential implications for long-term cardiovascular health.\nMETHODS: A systematic search of MEDLINE, PubMed, Scopus, the Cochrane Library, and gray literature (to May-2024) identified studies assessing vascular structure or function using pulse-wave velocity, carotid intima-media thickness, flow-mediated dilation, ophthalmic artery Doppler, and retinal imaging. Forty-nine studies involving 32,683 participants. Due to the heterogeneity in study design and methodology, findings were synthesized narratively.\nRESULTS: Women with gestational hypertension generally demonstrated increased arterial stiffness (elevated pulse wave velocity and augmentation index), impaired endothelial function (reduced flow-mediated dilation), and increased intima-media thickness during pregnancy and the postpartum period. Several studies reported persistence of these abnormalities from weeks to years after delivery, although findings were inconsistent. Ophthalmic artery Doppler studies showed variable alterations in peak systolic velocity ratios and pulsatility index reported in hypertensive pregnancies. Retinal imaging identified alterations in retinal vessel caliber during pregnancy and the postpartum period, with some abnormalities reported up to six years postpartum.\nCONCLUSION: Non-invasive vascular assessments can help identify macrovascular, microvascular, and endothelial abnormalities in women with gestational hypertension and preeclampsia during pregnancy and the postpartum period. Although some abnormalities persist beyond delivery and may contribute to long-term cardiovascular risk, evidence remains insufficient to support their use as independent predictors of future cardiovascular events. Further standardized, prospective longitudinal studies are needed to determine their prognostic and clinical value.",
+        "journal": "Hypertension in pregnancy",
+        "authors": [
+          "Colin E Murdoch",
+          "Faisel Khan",
+          "Sarah E Alkhurainej"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-11-10T00:00:00.000Z",
+        "activityAt": "2026-11-10T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43007046/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 6,
+          "recency": 7.5,
+          "total": 88.5,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "妊娠期高血压和子痫前期孕期及产褥期非侵入性血管评估：系统评价",
+          "researchQuestion": "评价孕期和/或产褥期用于识别与妊娠期高血压相关血管异常的非侵入性血管评估技术的证据，并探讨其对长期心血管健康的潜在意义。",
+          "studyDesign": "系统评价；由于研究设计和方法学异质性，采用叙述性综合。",
+          "populationAndSample": "共纳入49项研究，涉及32,683名参与者。",
+          "methods": "检索MEDLINE、PubMed、Scopus、Cochrane Library和灰色文献（截至2024年5月），纳入使用脉搏波速度、颈动脉内膜中层厚度、血流介导舒张、眼动脉多普勒和视网膜成像评估血管结构或功能的研究。",
+          "keyResults": "妊娠期高血压女性在孕期及产后通常表现为动脉僵硬度增加（脉搏波速度和增强指数升高）、内皮功能受损（血流介导舒张降低）和内膜中层厚度增加。多项研究报告这些异常在产后持续数周至数年，但结果不一致。眼动脉多普勒研究显示高血压妊娠中收缩期峰值流速比值和搏动指数存在可变改变。视网膜成像发现孕期及产后视网膜血管管径改变，部分异常报告持续至产后六年。",
+          "limitations": "研究设计和方法学异质性大，结果不一致；证据不足以支持将这些评估作为未来心血管事件的独立预测因子；需标准化、前瞻性纵向研究。",
+          "clinicalInterpretation": "非侵入性血管评估有助于识别妊娠期高血压和子痫前期女性在孕期及产后的宏观血管、微血管和内皮异常，部分异常可持续至产后；但当前证据不足以将其作为未来心血管事件的独立预测因子。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "2c76fdb6e8dc6700ec96b5eb4456d276aa795215914765fea3af424a845c1e10"
+      }
+    ]
+  }
+}

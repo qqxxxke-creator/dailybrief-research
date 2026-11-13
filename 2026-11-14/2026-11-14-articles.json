@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-14",
+  "articles": [
+    {
+      "sourceId": "pubmed-asrm-guidance",
+      "title": "Coding guidance for laboratory procedures during assisted reproductive technology cycles.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42778494/",
+      "excerpt": "This document provides updated coding information for services related to assisted reproductive technology procedures. This document replaces the 2016 American Society for Reproductive Medicine document of the same name. (Fertil Steril 2016;81:1168-71). · Fertility and sterility · Journal Article, Practice Guideline · DOI: 10.1016/j.fertnstert.2026.08.006",
+      "publishedAt": "2026-09-23T00:00:00.000Z",
+      "category": "tech",
+      "source": "PubMed · Fertility & Sterility Practice Guidance",
+      "summary": "该实践指南提供辅助生殖技术周期中实验室操作相关服务的更新版编码信息，并替代美国生殖医学会2016年同名文件。",
+      "reviewStatus": "accepted",
+      "lowPriority": false,
+      "meta": "近期精选"
+    }
+  ]
+}
