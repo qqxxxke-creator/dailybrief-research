@@ -1,0 +1,267 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-11-15T01:45:41.382Z",
+    "dataAsOf": "2026-11-15T01:45:41.382Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及子痫前期相关与孤立性胎儿生长受限/小于胎龄儿妊娠的母体血管生成谱：系统综述与荟萃分析、IVF前生活方式干预与超重或肥胖女性接受IVF的生殖结局：一项随机临床试验、重新语境化胚胎移植：IVF中其价值的多维视角。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:43028075",
+        "pmid": "43028075",
+        "doi": "10.3390/ijms27219829",
+        "title": "Maternal Angiogenic Profiles in Preeclampsia-Associated Versus Isolated Fetal Growth Restriction or Small-for-Gestational-Age Pregnancies: A Systematic Review and Meta-Analysis.",
+        "abstract": "Maternal angiogenic imbalance is a hallmark of preeclampsia (PE), but whether it differs between PE-associated and isolated fetal growth restriction (FGR)/small-for-gestational-age (SGA) pregnancies is unclear, particularly before clinical recognition. We searched PubMed, Embase, and CENTRAL for observational studies comparing maternal soluble fms-like tyrosine kinase-1 (sFlt-1), placental growth factor (PlGF), or their ratio between these phenotypes. Analyses were stratified by sampling context and pooled as Hedges' g using random-effects models. Twenty-three studies (630 PE-associated, 1476 isolated FGR/SGA pregnancies) were included. After clinical recognition, PE-associated FGR/SGA showed a higher sFlt-1/PlGF ratio (g = 1.04, 95% CI 0.51 to 1.57), higher sFlt-1 (1.05, 0.73 to 1.38), and lower PlGF (-0.60, -0.82 to -0.38) than isolated FGR/SGA; differences in the same directions were present before clinical recognition (ratio 0.86, 0.38 to 1.33; sFlt-1 0.38, 0.12 to 0.64; PlGF -0.46, -0.77 to -0.16). The sFlt-1 difference was larger after clinical recognition in the test for subgroup differences ( p = 0.002) but not in meta-regression ( p = 0.064), and this between-context contrast is therefore reported as exploratory; the PlGF difference was similar in both contexts. These group-level differences do not establish individual-level prediction, discrimination or threshold performance. PE-associated and isolated FGR/SGA should therefore be distinguished in biomarker research, and angiogenic thresholds derived in suspected PE require validation before application to normotensive FGR/SGA.",
+        "journal": "International journal of molecular sciences",
+        "authors": [
+          "Ah-Young Choi",
+          "Eunju Lee",
+          "Hye Sun Lee",
+          "Min-A Kim"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-11-02T00:00:00.000Z",
+        "activityAt": "2026-11-14T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43028075/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 11.25,
+          "recency": 10,
+          "total": 96.25,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "子痫前期相关与孤立性胎儿生长受限/小于胎龄儿妊娠的母体血管生成谱：系统综述与荟萃分析",
+          "researchQuestion": "子痫前期（PE）相关与孤立性胎儿生长受限（FGR）/小于胎龄儿（SGA）妊娠之间，母体血管生成失衡是否存在差异，尤其是在临床识别之前？",
+          "studyDesign": "系统综述与荟萃分析，纳入观察性研究。",
+          "populationAndSample": "共纳入23项研究，包括630例PE相关FGR/SGA妊娠和1476例孤立性FGR/SGA妊娠。",
+          "methods": "检索PubMed、Embase和CENTRAL，比较这些表型之间母体可溶性fms样酪氨酸激酶-1（sFlt-1）、胎盘生长因子（PlGF）或其比值的观察性研究；按采样情境分层，采用随机效应模型以Hedges g进行合并。",
+          "keyResults": "临床识别后，PE相关FGR/SGA较孤立性FGR/SGA的sFlt-1/PlGF比值更高（g=1.04，95% CI 0.51至1.57）、sFlt-1更高（1.05，0.73至1.38）、PlGF更低（-0.60，-0.82至-0.38）；临床识别前也呈相同方向差异（比值0.86，0.38至1.33；sFlt-1 0.38，0.12至0.64；PlGF -0.46，-0.77至-0.16）。sFlt-1差异在临床识别后更大：亚组差异检验p=0.002，但荟萃回归p=0.064，因此该情境间对比被报告为探索性；PlGF差异在两种情境中相似。",
+          "limitations": "摘要报告这些组间差异不能建立个体水平预测、判别或阈值性能；临床识别前后sFlt-1差异的情境间对比被作者标为探索性。",
+          "clinicalInterpretation": "作者提示，生物标志物研究中应区分PE相关与孤立性FGR/SGA；在疑似PE中得出的血管生成阈值在应用于血压正常的FGR/SGA前需要验证。该文不构成临床指南或个体化预测指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "ce3afa2b0a4328412eea5d9352d289f9322ba7c53e9ef4432fe6b7e2dc2bcb7a"
+      },
+      {
+        "id": "pmid:43026525",
+        "pmid": "43026525",
+        "doi": "10.1186/s12958-026-01597-y",
+        "title": "Pre-IVF lifestyle intervention and reproductive outcomes in women with overweight or obesity undergoing IVF: a randomized clinical trial.",
+        "abstract": "BACKGROUND: Obesity is associated with reduced female fertility and poorer in vitro fertilization (IVF) outcomes. Although pre-IVF lifestyle-based weight loss is commonly recommended for women with overweight or obesity, whether specific strategies improve reproductive outcomes remains uncertain. We compared two pre-IVF lifestyle interventions with usual care in women undergoing IVF.\nMETHODS: In this single-center, parallel-group randomized clinical trial conducted at Shengjing Hospital of China Medical University, Shenyang, China, women aged 20-38 years with a body mass index (BMI) of 24-40 kg/m² planning IVF were randomly assigned in a 1:1:1 ratio to 12-hour time-restricted feeding plus moderate physical activity (TRF + PA), a calorie-restricted diet (CRD), or usual care. Recruitment took place from March 14, 2023, to August 20, 2024, and follow-up was completed on February 20, 2026. The primary outcome was cumulative live birth. Secondary outcomes included cumulative clinical pregnancy, miscarriage, obstetric complications, embryological outcomes, anthropometric changes, and metabolic measures.\nRESULTS: A total of 273 women underwent randomization. Cumulative live birth did not differ between groups, occurring in 46.6% of women in the TRF + PA group, 43.8% in the CRD group, and 44.0% in the control group (P = 0.916). After adjustment for baseline waist circumference, neither intervention was associated with cumulative live birth compared with usual care (TRF + PA vs. control: adjusted risk ratio [aRR] 1.034; 95% CI, 0.746-1.434; P = 0.839; CRD vs. control: aRR 0.936; 95% CI, 0.676-1.295; P = 0.689). TRF + PA was associated with a greater reduction in homeostasis model assessment of insulin resistance (HOMA-IR) than usual care (P = 0.005). In analyses treating anthropometric change as a continuous exposure, greater reduction in body fat percentage was independently associated with a higher probability of live birth (per 1-percentage-point reduction: aRR 1.065; 95% CI, 1.021-1.111; P = 0.003). Exploratory spline analyses suggested a threshold, with higher live birth probability observed above an absolute reduction of 5.16% points in body fat percentage.\nCONCLUSIONS: Among women with overweight or obesity undergoing IVF, pre-IVF lifestyle intervention did not improve cumulative live birth compared with usual care. However, reduction in body fat percentage was independently associated with live birth, suggesting that change in adiposity may be more relevant to reproductive outcomes than weight loss alone.\nTRIAL REGISTRATION: Chinese Clinical Trial Registry, ChiCTR2500112593. Registered on November 17, 2025; retrospectively registered.",
+        "journal": "Reproductive biology and endocrinology : RB&E",
+        "authors": [
+          "Jiansu Bian",
+          "Jichun Tan",
+          "Shan Gao",
+          "Shanshan Wu",
+          "Siru Hou",
+          "Siwen Zhang",
+          "Xiaoyu Yan",
+          "Xing Xin",
+          "Xudong Zhang",
+          "Yumeng Feng"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-08-19T00:00:00.000Z",
+        "activityAt": "2026-11-14T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43026525/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 3.75,
+          "recency": 10,
+          "total": 87.5,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "IVF前生活方式干预与超重或肥胖女性接受IVF的生殖结局：一项随机临床试验",
+          "researchQuestion": "在超重或肥胖且计划接受IVF的女性中，两种IVF前生活方式干预与常规护理相比，是否改善累积活产等生殖结局？",
+          "studyDesign": "单中心、平行组、1:1:1随机临床试验。",
+          "populationAndSample": "273名20-38岁、BMI 24-40 kg/m²、计划接受IVF的女性，招募于中国医科大学附属盛京医院，招募时间2023年3月14日至2024年8月20日，随访于2026年2月20日完成。",
+          "methods": "随机分配至12小时限时进食加中等强度体力活动（TRF+PA）、热量限制饮食（CRD）或常规护理；主要结局为累积活产，次要结局包括累积临床妊娠、流产、产科并发症、胚胎学结局、人体测量变化和代谢指标。",
+          "keyResults": "累积活产率在TRF+PA组为46.6%、CRD组为43.8%、对照组为44.0%（P=0.916）。校正基线腰围后，与常规护理相比，两种干预均与累积活产无显著关联（TRF+PA vs 对照：aRR 1.034；95% CI 0.746-1.434；P=0.839；CRD vs 对照：aRR 0.936；95% CI 0.676-1.295；P=0.689）。TRF+PA较常规护理与HOMA-IR下降幅度更大相关（P=0.005）。在将人体测量变化作为连续暴露的分析中，体脂百分比下降幅度越大与活产概率更高独立相关（每下降1个百分点：aRR 1.065；95% CI 1.021-1.111；P=0.003）。探索性样条分析提示存在阈值，体脂百分比绝对下降超过5.16个百分点时活产概率更高。",
+          "limitations": "单中心设计；试验为回顾性注册；摘要未报告其他局限性。",
+          "clinicalInterpretation": "在该试验人群中，与常规护理相比，IVF前生活方式干预未改善累积活产；体脂百分比下降与活产的独立关联提示脂肪量变化可能与生殖结局更相关，但该关联不应解释为因果效应或临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "00696ca7c0c22f459be1ac44f245c0912151ddc642a7c0c645ef019ea7c23f06"
+      },
+      {
+        "id": "pmid:43025186",
+        "pmid": "43025186",
+        "doi": "10.1016/j.rbmo.2026.106043",
+        "title": "Re-contextualizing embryo transfer: a multidimensional view of its value in IVF.",
+        "abstract": "The value of embryo transfer per se in contemporary ART should be appraised based on its contribution to a live birth across multiple domains rather than as an independent end-point. Current advancements permit earlier identification of developmentally incompetent or aneuploid embryos, increasing cycle cancellations yet preserving scarce reproductive time, reducing futile transfers and potentially shortening the overall time to live birth when couples are properly counselled and supported throughout their journey. The worth of an embryo transfer is therefore relative: it depends on embryo competence, the couple's clinical and personal circumstances and the treatment context. When selection tools materially raise the probability of per‑embryo transfer live birth, performing an embryo transfer for its own sake when it is probably futile becomes questionable. Economically, strategies that reduce the number of futile transfers, despite higher per‑cycle expenses, can improve cumulative cost‑effectiveness; and psychologically, avoiding repeated futile transfers may limit cumulative emotional harm and reduce treatment discontinuation, also making patients more aware of treatment outcome. In poor‑prognosis individuals, prioritizing competence‑driven decisions and accepting early cancellation as a deliberate, time‑preserving strategy can maximize the couple's overall chance of success. The act of embryo transfer (and its value) should serve the pursuit of an optimal outcome and not be treated as an outcome itself.",
+        "journal": "Reproductive biomedicine online",
+        "authors": [
+          "Alberto Vaiarelli",
+          "Alessandro Ruffa",
+          "Andrea Borini",
+          "Antonio Pellicer",
+          "Claudia Livi",
+          "Danilo Cimadomo",
+          "Filippo M Ubaldi",
+          "Francesco Gebbia",
+          "Giovanni Coticchio",
+          "Laura Rienzi",
+          "Mauro Cozzolino"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-24T00:00:00.000Z",
+        "activityAt": "2026-11-14T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43025186/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "重新语境化胚胎移植：IVF中其价值的多维视角",
+          "researchQuestion": "在当代辅助生殖技术中，胚胎移植本身的价值应如何基于其对活产的多维贡献而非独立终点来评估？",
+          "studyDesign": "期刊文章，论述/观点性文章；摘要未报告原始研究或系统综述方法。",
+          "populationAndSample": "摘要未报告。",
+          "methods": "摘要未报告。",
+          "keyResults": "文章提出，胚胎移植的价值是相对的，取决于胚胎发育能力、夫妇的临床与个人情况及治疗背景；当前进展可更早识别发育无能或非整倍体胚胎，增加周期取消但保留稀缺生育时间、减少徒劳移植，并可能在充分咨询与支持下缩短总体活产时间。当选择工具实质性提高每次移植活产概率时，在很可能徒劳的情况下仅为移植而移植值得质疑。经济上，减少徒劳移植的策略尽管每周期费用更高，可改善累积成本效果；心理上，避免重复徒劳移植可能减少累积情绪伤害和治疗终止，也使患者更了解治疗结局。对预后不良者，优先基于胚胎发育能力的决策并将早期取消视为有意的时间保留策略，可最大化夫妇总体成功机会。胚胎移植行为及其价值应服务于追求最佳结局，而非被视为结局本身。",
+          "limitations": "摘要未报告系统检索、样本、定量数据或正式偏倚评估；本文提出的是概念性论证。",
+          "clinicalInterpretation": "该文不提供新的疗效数据，也不构成指南；其提出将胚胎移植视为实现最佳结局的手段而非独立终点，并强调胚胎发育能力、夫妇情况和治疗背景的相对性。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "359413c53e98d0ca36263b4c25c499c755a9535ae0e549e89a56189b1d093497"
+      },
+      {
+        "id": "pmid:43026482",
+        "pmid": "43026482",
+        "doi": "10.1007/s40477-026-01263-4",
+        "title": "A scoping review of micro-ultrasound in male infertility: mapping the evidence from testicular microarchitecture to the distal seminal tract.",
+        "abstract": "Micro-ultrasound (micro-US), a 29-MHz modality with a resolution of about 70 µm established in prostate cancer diagnosis, and related very-high-resolution ultrasound techniques could refine the evaluation of male infertility, but their use in this field has not been mapped. This scoping review, reported according to PRISMA-ScR, charted the evidence on micro-US, very-high-frequency (≥ 20 MHz) ultrasound and ultrasound localisation microscopy (ULM) for the diagnosis and prognosis of male infertility, from testicular microarchitecture to the distal seminal tract. On 1 October 2026, 38 web-based queries and citation tracking covered sources indexing PubMed/MEDLINE, Scopus, Web of Science and Google Scholar. Of the 91 records screened, nine sources were included: four ULM studies, three reports of 36-46-MHz quantitative ultrasound (two preprints, one conference abstract), one high-frequency study with histological correlation and one registered 29-MHz micro-US trial without results. Human cohorts ranged from 7 to 94 men. ULM vessel diameter and density were lower in non-obstructive than in obstructive azoospermia (area under the curve, AUC, 0.81-0.95), and ULM detected the response to gonadotrophin therapy earlier than testicular volume in seven men. Quantitative features discriminated sperm presence (AUC 0.77-0.93). No study examined the vas deferens, epididymis, seminal vesicles, ejaculatory ducts or varicocele; none was externally validated, and none reported retrieval, pregnancy or live birth outcomes. The evidence is early, small and testis centred, and these methods remain investigational. Prospective validation against histology and surgical sperm retrieval, with clinical outcomes, and exploration of the distal seminal tract are priorities.",
+        "journal": "Journal of ultrasound",
+        "authors": [
+          "Lucio Dell'Atti"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-11-13T00:00:00.000Z",
+        "activityAt": "2026-11-14T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43026482/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "微超声在男性不育中的范围综述：从睾丸微结构到远端精道的证据图谱",
+          "researchQuestion": "微超声、极高频超声和超声定位显微镜在男性不育诊断与预后中的证据如何，从睾丸微结构到远端精道覆盖了哪些内容？",
+          "studyDesign": "范围综述，按PRISMA-ScR报告。",
+          "populationAndSample": "共筛选91条记录，最终纳入9个来源：4项超声定位显微镜（ULM）研究、3篇36-46 MHz定量超声报告（2篇预印本、1篇会议摘要）、1项具组织学相关性的高频超声研究和1项已注册但无结果的29 MHz微超声试验；人类队列样本量为7至94名男性。",
+          "methods": "2026年10月1日通过38项网络检索和引文追踪，覆盖索引PubMed/MEDLINE、Scopus、Web of Science和Google Scholar的来源。",
+          "keyResults": "ULM显示的血管直径和密度在非梗阻性无精子症中低于梗阻性无精子症（AUC 0.81-0.95）；在7名男性中，ULM较睾丸体积更早检测到促性腺激素治疗反应；定量特征可判别精子存在（AUC 0.77-0.93）。没有研究检查输精管、附睾、精囊、射精管或精索静脉曲张；没有研究经过外部验证；也没有研究报告取精、妊娠或活产结局。",
+          "limitations": "证据处于早期、样本小且以睾丸为中心；这些方法仍属研究性。摘要未报告外部验证及取精、妊娠或活产结局。",
+          "clinicalInterpretation": "作者认为这些方法仍属研究性，优先事项是针对组织学和手术取精并伴随临床结局进行前瞻性验证，以及探索远端精道。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "e582205712c9fd110ebf8da1d0335e4c4ddfb3ae0ff7c83d45c5645124d65ae7"
+      },
+      {
+        "id": "pmid:43026753",
+        "pmid": "43026753",
+        "doi": "10.3390/cancers18213431",
+        "title": "Immune Checkpoint Inhibitors: Sculpting the Landscape of Endometrial Cancer Treatment.",
+        "abstract": "Background: Outcomes for advanced or recurrent endometrial cancer (EC) remain poor, with historically limited systemic options beyond platinum-based chemotherapy. EC is uniquely immunotherapy-amenable among solid tumors: it harbors the highest prevalence of mismatch repair deficiency (dMMR) and microsatellite instability-high (MSI-H) status of any cancer, and its molecular classification into four major molecular subtypes defines a spectrum of tumor mutational burden, neoantigen load, and immune infiltration that predicts the response to checkpoint blockade. Current Landscape: Over the past several years, multiple programmed cell death protein 1 (PD-1) and programmed death-ligand 1 (PD-L1) inhibitors have received regulatory approval in EC, spanning monotherapy in dMMR/MSI-H disease, combination with carboplatin-paclitaxel in the first-line advanced setting, and combination with anti-angiogenic therapy in biomarker-unselected recurrent disease, fundamentally altering the standard of care. Scope and Objectives: This narrative review synthesizes the molecular rationale for checkpoint inhibition in EC, including the biological basis of its molecular subtypes and their immune microenvironments, and provides a focused overview of the trial evidence supporting each major checkpoint inhibitor class, including PD-1 inhibitors, PD-L1 inhibitors, cytotoxic T-lymphocyte-associated protein 4 inhibitors, and emerging targets. We further review the landscape of ongoing trials addressing unresolved questions, including chemotherapy-free regimens in dMMR disease, maintenance intensification for mismatch repair-proficient (pMMR) disease, neoadjuvant and fertility-sparing approaches, and novel combinations. This review aims to provide a comprehensive, up-to-date synthesis of this rapidly evolving field and to identify challenges and opportunities that will shape the next phase of immunotherapy in EC.",
+        "journal": "Cancers",
+        "authors": [
+          "Allan B Huang",
+          "Dimitrios Nasioudis",
+          "Janos L Tanyi",
+          "Lakeisha Mulugeta-Gordon"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-10-23T00:00:00.000Z",
+        "activityAt": "2026-11-14T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43026753/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "免疫检查点抑制剂：塑造子宫内膜癌治疗格局",
+          "researchQuestion": "子宫内膜癌中免疫检查点抑制的分子依据、各类检查点抑制剂的关键试验证据及正在进行的未解决问题是什么？",
+          "studyDesign": "叙述性综述。",
+          "populationAndSample": "摘要未报告纳入患者样本；综述对象为晚期或复发性子宫内膜癌及相关治疗证据。",
+          "methods": "叙述性综述，整合子宫内膜癌分子分型与免疫微环境依据，概述PD-1抑制剂、PD-L1抑制剂、CTLA-4抑制剂及新兴靶点的试验证据，并回顾正在进行的试验。",
+          "keyResults": "子宫内膜癌在实体瘤中具有最高的错配修复缺陷（dMMR）和微卫星高度不稳定（MSI-H）患病率；其四种主要分子亚型定义了肿瘤突变负荷、新抗原负荷和免疫浸润谱，可预测检查点阻断反应。多种PD-1和PD-L1抑制剂已获监管批准用于子宫内膜癌，涵盖dMMR/MSI-H疾病单药治疗、晚期一线联合卡铂-紫杉醇，以及生物标志物未选择的复发性疾病联合抗血管生成治疗，已根本改变治疗标准。综述还讨论正在进行的试验，包括dMMR疾病的化疗-free方案、pMMR疾病的维持强化、新辅助和生育力保留方法及新联合方案。",
+          "limitations": "作为叙述性综述，摘要未报告系统检索策略、纳入研究数量、偏倚评估或定量合并结果。",
+          "clinicalInterpretation": "该文总结子宫内膜癌免疫治疗快速演变领域的证据与未解决问题，旨在识别挑战和机会；不构成指南、共识或治疗推荐。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "c8f98bac8807c12f140fcab49ac7de47b93b07d224e3bd38a28bdc13c72e37f8"
+      }
+    ]
+  }
+}
