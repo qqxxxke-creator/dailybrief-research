@@ -1,0 +1,257 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-11-15T22:01:07.115Z",
+    "dataAsOf": "2026-11-15T22:01:07.115Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及小檗碱及含小檗碱生物碱制剂在子宫内膜异位症与子宫腺肌病临床前模型中的系统评价、子宫腺肌病贯穿辅助生殖全程的挑战：那不勒斯工作组的见解、“听见卵巢癌的低语”：一项引导医学生接触妇科肿瘤学、聚焦卵巢癌诊断与管理的管道项目。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:43030274",
+        "pmid": "43030274",
+        "doi": "10.3390/nu18213647",
+        "title": "Berberine and Berberine-Containing Alkaloid Preparations in Preclinical Models of Endometriosis and Adenomyosis: A Systematic Review.",
+        "abstract": "Background/Objectives: Berberine is increasingly promoted through social media and endometriosis-related websites as a non-hormonal supplement, although its disease-specific evidence remains unclear. This PRISMA-compliant systematic review evaluated experimental and clinical evidence for berberine in endometriosis and adenomyosis. Methods: PubMed/MEDLINE, EBSCOhost, BASE, CNKI Overseas, CENTRAL, and Google Scholar were searched from inception to 3 August 2026, supplemented by targeted manual searches. Clinical studies and experimental studies using endometriosis- or adenomyosis-related cellular or animal models were eligible. Purified berberine formed the primary evidence set. Chemically characterized multi-alkaloid preparations containing berberine were analyzed separately. Risk of bias was assessed with SYRCLE for animal studies and a predefined domain-based appraisal for in vitro studies. A structured qualitative assessment examined confidence in the synthesized findings. Contextual evidence from outside endometriosis and adenomyosis concerning steroid signaling, gut microbiota, microbial metabolites, and GLP-1 was discussed separately. Results: Six preclinical studies were included: three on endometriosis and three on adenomyosis, comprising four in vitro and two animal studies. Five investigated purified berberine and one a protoberberine-rich multi-alkaloid fraction. No clinical study was identified. Berberine reduced cell proliferation or viability and, where directly assessed, migration and invasion. It also reduced inflammatory and angiogenesis-related signaling, and, in an adenomyosis mouse model, myometrial infiltration and hyperalgesia. Reduced proliferation or viability recurred in all four cellular studies, with lower IL-6 and VEGF reported across cellular and animal adenomyosis models. Reported molecular effects involved NF-κB, STAT3, TLR4-associated signaling, VEGF, MMPs, TRPV1, COX-2, miR-429, and lncRNA H19. Gut microbiota modulation, short-chain fatty acids, intestinal barrier function, estrogen metabolism, GPER1, and GLP-1/GLP1R signaling remain plausible indirect routes that have not been demonstrated in disease-specific berberine studies. Conclusions: Berberine shows disease-relevant activity across a small and heterogeneous preclinical evidence base. Clinical efficacy, clinically achievable exposure, reproductive safety, and microbiota- or hormone-mediated effects remain unestablished.",
+        "journal": "Nutrients",
+        "authors": [
+          "Angel Yordanov",
+          "Ibrahim Alkatout",
+          "Ingolf Juhasz-Böss",
+          "Mario Palumbo",
+          "Radmila Sparić",
+          "Rafał Watrowski",
+          "Salvatore Giovanni Vitale",
+          "Sebastian D Schäfer",
+          "Stoyan Kostov"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-11-02T00:00:00.000Z",
+        "activityAt": "2026-11-14T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43030274/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 3.75,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "小檗碱及含小檗碱生物碱制剂在子宫内膜异位症与子宫腺肌病临床前模型中的系统评价",
+          "researchQuestion": "在子宫内膜异位症和子宫腺肌病的实验模型及临床研究中，小檗碱（以及含小檗碱的多生物碱制剂）是否具有疾病相关的作用证据？其临床疗效、可达到的暴露量、生殖安全性及微生物群或激素介导效应是否有证据支持？",
+          "studyDesign": "符合PRISMA的系统评价；纳入临床研究及使用子宫内膜异位症或子宫腺肌病相关细胞或动物模型的实验研究；纯化小檗碱作为主要证据集，经化学表征的含小檗碱多生物碱制剂单独分析；动物研究用SYRCLE工具评估偏倚风险，体外研究采用预设的基于领域的评价方法；并进行结构化定性评估以判断对合并结果的置信度。",
+          "populationAndSample": "共纳入6项临床前研究：3项关于子宫内膜异位症、3项关于子宫腺肌病；其中4项为体外研究、2项为动物研究；5项研究纯化小檗碱，1项研究富含原小檗碱的多生物碱组分。未检索到临床研究。",
+          "methods": "检索PubMed/MEDLINE、EBSCOhost、BASE、CNKI Overseas、CENTRAL及Google Scholar，检索时间自建库至2026年8月3日，并辅以针对性手工检索。对类固醇信号、肠道菌群、微生物代谢产物及GLP-1等相关领域的外部背景证据另行讨论。",
+          "keyResults": "小檗碱可降低细胞增殖或活力，并在直接评估时降低迁移和侵袭；还可降低炎症及血管生成相关信号，在子宫腺肌病小鼠模型中降低子宫肌层浸润和痛觉过敏。细胞增殖或活力下降在全部4项细胞研究中均被重复观察到；在细胞和动物子宫腺肌病模型中报告了IL-6和VEGF降低。报告的分子效应涉及NF-κB、STAT3、TLR4相关信号、VEGF、MMPs、TRPV1、COX-2、miR-429及lncRNA H19。肠道菌群调节、短链脂肪酸、肠道屏障功能、雌激素代谢、GPER1及GLP-1/GLP1R信号仍属可能的间接途径，尚未在疾病特异性小檗碱研究中得到证实。",
+          "limitations": "证据基础规模小且异质性大，且全部为临床前研究，未检索到临床研究。临床疗效、临床可达到的暴露量、生殖安全性以及微生物群或激素介导的效应均未确立。作者指出肠道菌群、短链脂肪酸、肠道屏障、雌激素代谢、GPER1及GLP-1等仅为可能的间接途径，未在疾病特异性研究中证实。",
+          "clinicalInterpretation": "该综述提示小檗碱在子宫内膜异位症和子宫腺肌病的临床前模型中显示疾病相关活性，但缺乏临床研究证据，临床疗效与生殖安全性尚未确立；尽管社交媒体及子宫内膜异位症相关网站将其作为非激素补充剂推广，现有证据不足以支持其临床使用。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "0ee075cea45598dd053ea8882f4565d96e30740507153b6940594424ce3b2034"
+      },
+      {
+        "id": "doi:10.1016/j.fertnstert.2026.11.020",
+        "doi": "10.1016/j.fertnstert.2026.11.020",
+        "title": "The challenge of Adenomyosis across the ART journey: insights from the Naples Workshop group.",
+        "abstract": "Adenomyosis is increasingly recognized in women of reproductive age and may adversely affect fertility, assisted reproductive technology (ART) outcomes, and pregnancy. However, its optimal management in women seeking pregnancy remains uncertain, with substantial heterogeneity in diagnostic criteria, disease phenotypes, and available therapeutic evidence. This narrative review, informed by the multidisciplinary discussion of the Naples Workshop on Adenomyosis and ART (10th-12th October 2025), critically examines the available evidence on adenomyosis throughout the ART journey.",
+        "journal": "Fertility and Sterility",
+        "authors": [
+          "M. Cozzolino, A. Di Spiezio Sardo, C. Exacoustos, S. Guerra, L.A. Pacheco, G. Saccone, P. Santulli, A. Vitagliano, B. Zizolfi"
+        ],
+        "publicationTypes": [],
+        "publishedAt": "2026-11-15T00:00:00.000Z",
+        "activityAt": "2026-11-15T00:00:00.000Z",
+        "url": "https://www.fertstert.org/article/S0015-0282(26)02091-1/fulltext?rss=yes",
+        "sourceKinds": [
+          "journal-rss"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "子宫腺肌病贯穿辅助生殖全程的挑战：那不勒斯工作组的见解",
+          "researchQuestion": "在寻求妊娠的女性中，子宫腺肌病对生育力、辅助生殖技术（ART）结局及妊娠的影响如何，其最佳管理策略是什么？",
+          "studyDesign": "叙述性综述，基于2025年10月10日至12日举行的那不勒斯子宫腺肌病与ART多学科工作组的讨论形成。",
+          "populationAndSample": "摘要未报告。",
+          "methods": "摘要未报告；仅说明该叙述性综述批判性审视子宫腺肌病贯穿ART全程的现有证据。",
+          "keyResults": "摘要未报告具体结果。文中指出子宫腺肌病在育龄女性中被越来越多地识别，可能对生育力、ART结局和妊娠产生不利影响；但诊断标准、疾病表型和现有治疗证据存在显著异质性，寻求妊娠女性的最佳管理仍不确定。",
+          "limitations": "为叙述性综述，非系统评价；摘要未报告检索策略、纳入研究数量或偏倚评估方法。作者强调诊断标准、疾病表型和治疗证据存在较大异质性，最佳管理仍不确定。",
+          "clinicalInterpretation": "该综述强调子宫腺肌病在ART全程管理中的不确定性，涉及诊断标准、表型分类与治疗证据的异质性；摘要未提供可用于指导具体临床决策的结论性证据。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "759ba0db33cc560c069fbaf2bce9bb9a2bb84b412952e2299123213983590871"
+      },
+      {
+        "id": "pmid:43032027",
+        "pmid": "43032027",
+        "doi": "10.1007/s40670-026-02904-3",
+        "title": "\"Hearing the Ovarian Cancer Whisper\": A Pipeline Program Introducing Medical Students to Gynecologic Oncology, Focusing on the Diagnosis and Management of Ovarian Cancer.",
+        "abstract": "PURPOSE: Pipeline programs help medical students explore and define future career pathways. The \"Hearing the Ovarian Cancer Whisper\" (HOW) Dr. Robert C. Knapp Award was created to expose medical students to gynecologic oncology, with emphasis on recognizing, treating, and improving outcomes for patients with ovarian cancer. This study describes and analyzes the characteristics of HOW participants and their eventual residency choices.\nMETHOD: We conducted a non-concurrent cohort study evaluation using the HOW database of medical students who received the Dr. Robert C. Knapp Medical Student Award and completed the four-week gynecologic oncology elective between 2011 and 2025. Baseline information included medical school, sex, and scholarship year. Follow-up information was obtained through phone, email, or text communication and included residency, fellowship, specialty, and practice location. Of 149 award recipients, 24 were excluded because of missing information, nonresponse, dropout, or pending follow-up, resulting in 125 participants in the primary analytic cohort.\nRESULTS: Among the 125 participants included in the primary analysis, 53.6% entered an OBGYN residency and 46.4% another specialty. Three participants subsequently pursued gynecologic oncology fellowship training during the observation period. Most participants were female (84.0%). Florida International University Herbert Wertheim College of Medicine accounted for the largest proportion of participants (44.0%). The distribution of OBGYN residency entry varied by scholarship year, although the overall association did not reach statistical significance ( p = 0.080).\nCONCLUSION: These findings describe the longitudinal career trajectories of participants in a gynecologic oncology educational program but do not establish that program participation caused or independently influenced specialty choice.",
+        "journal": "Medical science educator",
+        "authors": [
+          "Angela Slaybe",
+          "Carolyn D Runowicz",
+          "Noël C Barengo"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-09-29T00:00:00.000Z",
+        "activityAt": "2026-11-15T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43032027/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "“听见卵巢癌的低语”：一项引导医学生接触妇科肿瘤学、聚焦卵巢癌诊断与管理的管道项目",
+          "researchQuestion": "参加“Hearing the Ovarian Cancer Whisper（HOW）”Dr. Robert C. Knapp奖项目、完成4周妇科肿瘤选修的医学生具有哪些特征，其最终住院医师专业选择如何？",
+          "studyDesign": "非同期队列研究评价，使用HOW数据库进行回顾性随访。",
+          "populationAndSample": "2011年至2025年间获得Dr. Robert C. Knapp医学生奖并完成4周妇科肿瘤选修的医学生。149名获奖者中，24名因信息缺失、未应答、退出或随访未完成被排除，主要分析队列为125名参与者。",
+          "methods": "基线信息包括医学院、性别和获奖年份；通过电话、电子邮件或短信获取随访信息，包括住院医师培训、专科培训、专业和执业地点。",
+          "keyResults": "在纳入主要分析的125名参与者中，53.6%进入妇产科住院医师培训，46.4%进入其他专业；观察期内有3名参与者随后接受妇科肿瘤专科培训。大多数参与者为女性（84.0%）；佛罗里达国际大学Herbert Wertheim医学院占参与者比例最大（44.0%）。进入妇产科住院医师培训的比例随获奖年份而变化，但总体关联未达统计学显著性（p = 0.080）。",
+          "limitations": "作者明确指出，这些结果仅描述妇科肿瘤教育项目参与者的长期职业轨迹，不能证明项目参与导致或独立影响了专业选择。此外，149名获奖者中有24名因信息缺失、未应答、退出或随访未完成而被排除。",
+          "clinicalInterpretation": "该研究描述了某一妇科肿瘤教育管道项目参与者的职业去向，属描述性观察结果，不能推断项目参与与专业选择之间存在因果关系，也不能据此评价该类教育项目的有效性。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "17922df4384a8526a9754f32785ff29614b4b33bf6cbd5230ab29c2e9b61c047"
+      },
+      {
+        "id": "pmid:43032138",
+        "pmid": "43032138",
+        "doi": "10.3389/fpubh.2026.1885150",
+        "title": "Temporal patterns and adverse pregnancy outcomes of hypertensive disorders of pregnancy and gestational diabetes mellitus in Hebei Province, China, 2017-2023: a multicenter retrospective cohort study.",
+        "abstract": "BACKGROUND: Hypertensive disorders of pregnancy (HDP) and gestational diabetes mellitus (GDM) are common complications with overlapping metabolic, vascular, and inflammatory pathways. GDM is associated with fetal overgrowth but may also coexist with fetal growth restriction, particularly when placental vascular dysfunction is present. Regional evidence on recorded temporal patterns and joint maternal-neonatal outcomes remains limited in northern China.\nMETHODS: We analyzed 264,278 eligible singleton deliveries at ≥28 gestational weeks recorded in the Hebei Obstetric Critical Illness Monitoring System across 31 hospitals from 2017 to 2023. Pregnancies were classified as HDP alone, GDM alone, coexisting HDP and GDM, or unaffected. Multivariable logistic regression adjusted for maternal age, marital status, education, hospital level, gravidity, parity, prenatal examination frequency, and previous cesarean section. Sensitivity analyses examined center composition and hospital-specific random intercepts. Associations were interpreted as non-causal because important metabolic and behavioral covariates were unavailable.\nRESULTS: Of eligible deliveries, 11,708 (4.43%) had HDP alone, 18,600 (7.04%) had GDM alone, 2,138 (0.81%) had coexisting HDP-GDM, and 231,832 (87.72%) were unaffected. The recorded prevalence of HDP alone rose from 3.42% in 2017 to 7.60% in 2023. GDM alone and coexisting HDP-GDM peaked in 2021 (13.21 and 1.39%) and then fell abruptly in 2022-2023. HDP alone showed the strongest associations with placental abruption, preterm delivery, small-for-gestational-age birth, and neonatal asphyxia; GDM alone was associated with macrosomia and premature rupture of membranes; the combined group had a mixed risk profile. Estimates for stillbirth and puerperal infection in the combined group were imprecise because only one and two events, respectively, occurred.\nCONCLUSION: HDP, GDM, and their coexistence were associated with distinct but overlapping outcome profiles. The abrupt post-2021 decline in recorded GDM persisted in center-composition sensitivity analyses but cannot be interpreted as a confirmed population-level decline because screening and ascertainment differences remain unresolved. The results support cautious, guideline-concordant integrated surveillance rather than study-derived monitoring thresholds.",
+        "journal": "Frontiers in public health",
+        "authors": [
+          "Li Liu",
+          "Liyan Du",
+          "Suxin Liu",
+          "Xiaoqian Yin",
+          "Yan Huo"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "publishedAt": "2026-10-22T00:00:00.000Z",
+        "activityAt": "2026-11-15T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43032138/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "2017—2023年中国河北省妊娠期高血压疾病与妊娠期糖尿病的时间趋势及不良妊娠结局：一项多中心回顾性队列研究",
+          "researchQuestion": "2017至2023年河北省妊娠期高血压疾病（HDP）与妊娠期糖尿病（GDM）的记录流行趋势如何？HDP单独、GDM单独及两者共存分别与哪些母婴不良结局相关？",
+          "studyDesign": "多中心回顾性队列研究。",
+          "populationAndSample": "河北省产科危重症监测系统中31家医院2017至2023年记录的264,278例≥28孕周的单胎分娩。其中HDP单独11,708例（4.43%）、GDM单独18,600例（7.04%）、HDP与GDM共存2,138例（0.81%）、未受影响231,832例（87.72%）。",
+          "methods": "妊娠被分类为HDP单独、GDM单独、HDP与GDM共存或未受影响。采用多变量logistic回归，校正母亲年龄、婚姻状况、教育程度、医院级别、孕次、产次、产前检查次数及既往剖宫产史。敏感性分析考察中心构成及医院特异性随机截距。因缺乏重要代谢和行为协变量，关联被解释为非因果性。",
+          "keyResults": "HDP单独的记录患病率从2017年的3.42%上升至2023年的7.60%。GDM单独与HDP-GDM共存均在2021年达峰（分别为13.21%和1.39%），随后在2022—2023年急剧下降。HDP单独与胎盘早剥、早产、小于胎龄儿及新生儿窒息的关联最强；GDM单独与巨大儿和胎膜早破相关；共存组呈现混合风险特征。共存组中死产和产褥感染的估计不精确，仅分别发生1例和2例事件。",
+          "limitations": "为观察性研究，关联被解释为非因果性，因缺乏重要代谢和行为协变量。2021年后GDM记录患病率的急剧下降在中心构成敏感性分析中持续存在，但因筛查与病例确认差异尚未解决，不能解释为已确认的人群水平下降。共存组死产（1例）和产褥感染（2例）事件数极少，估计不精确。",
+          "clinicalInterpretation": "HDP、GDM及其共存与不同但相互重叠的结局谱相关。作者提出结果支持谨慎的、与指南一致的综合监测，而非由本研究推导出的监测阈值。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "9a5e699df381e583a3130132027313512b437a9bb4d3291097949a97cc584445"
+      },
+      {
+        "id": "pmid:43032382",
+        "pmid": "43032382",
+        "doi": "10.1016/j.eclinm.2026.104309",
+        "title": "Preeclampsia prevention by risk-stratified timed birth: a post-hoc Bayesian analysis of the PREVENT-PE randomised trial.",
+        "abstract": "BACKGROUND: PREVENT-PE showed that screening for preeclampsia risk at 35-36 weeks followed by risk-stratified timed birth reduced birth with preeclampsia overall. We aimed to assess possible benefit and harm within each risk stratum.\nMETHODS: This post hoc Bayesian analysis included 4734 participants recruited at King's College Hospital, London, UK, in PREVENT-PE. The parent trial included women aged 16 years or older with a live singleton pregnancy, no major fetal abnormality or preeclampsia, and no conflicting trial participation. We included all 2871 intervention participants and 1863 control participants with stored serum and haemodynamic measurements that allowed retrospective calculation of 35-36-week preeclampsia risk. We estimated incidence proportions, ratios, and differences using independent Beta(1, 1) priors and binomial likelihoods. PREVENT-PE is registered with ISRCTN, ISRCTN41632964.\nFINDINGS: PREVENT-PE recruited between May 9, 2023, and June 7, 2024. Birth with preeclampsia occurred in 117/2871 (4.1%; 95% credible interval [CrI] 3.4-4.9) intervention participants and 106/1863 (5.7%; 4.7-6.8) controls; the posterior median incidence ratio was 0.72 (95% CrI 0.56-0.93), with probability of benefit 0.995. Estimates at 39 and 40 weeks favoured intervention and were more precise; estimates at 37 and 38 weeks were much less precise. Heterogeneity of treatment effect was not established. Overall incidence ratios were 1.03 (0.92-1.15) for emergency caesarean and 0.97 (0.76-1.25) for neonatal unit admission for at least 48 h.\nINTERPRETATION: The overall PREVENT-PE strategy is supported by randomised evidence, but these post hoc data do not establish different treatment effects across risk strata. The balance of benefit and harm of routine planned birth at 37-38 weeks remains uncertain and needs further evaluation.\nFUNDING: Fetal Medicine Foundation.",
+        "journal": "EClinicalMedicine",
+        "authors": [
+          "Alan Wright",
+          "Argyro Syngelaki",
+          "David Wright",
+          "Kypros H Nicolaides",
+          "Laura A Magee",
+          "Lucy Singh",
+          "Peter von Dadelszen"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-11-05T00:00:00.000Z",
+        "activityAt": "2026-11-15T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43032382/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "基于风险分层的定时分娩预防子痫前期：PREVENT-PE随机试验的事后贝叶斯分析",
+          "researchQuestion": "在PREVENT-PE试验中，35—36周子痫前期风险筛查后按风险分层定时分娩的策略，在各风险分层内的可能获益与危害如何？",
+          "studyDesign": "PREVENT-PE随机试验的事后贝叶斯分析。",
+          "populationAndSample": "PREVENT-PE于英国伦敦国王学院医院招募，共4,734名参与者；母试验纳入16岁及以上、活胎单胎妊娠、无重大胎儿异常或子痫前期、且无冲突性试验参与的孕妇。本分析纳入全部2,871名干预组参与者和1,863名对照组参与者，这些参与者存有可回溯计算35—36周子痫前期风险的血清除样本和血流动力学测量。试验招募时间为2023年5月9日至2024年6月7日。",
+          "methods": "采用独立Beta(1, 1)先验和二项似然估计发生比例、比值及差值。PREVENT-PE注册号为ISRCTN41632964。",
+          "keyResults": "伴子痫前期的分娩发生于干预组117/2,871例（4.1%；95%可信区间[CrI] 3.4—4.9）和对照组106/1,863例（5.7%；4.7—6.8）；后验中位发生比0.72（95% CrI 0.56—0.93），获益概率0.995。39周和40周的估计支持干预且更精确；37周和38周的估计精确度低得多。未确立治疗效应的异质性。紧急剖宫产的总发生比为1.03（0.92—1.15），新生儿病房入住至少48小时为0.97（0.76—1.25）。",
+          "limitations": "为事后分析；这些数据未能确立不同风险分层间存在不同的治疗效应。37—38周常规计划分娩的获益与危害平衡仍不确定，需要进一步评估。研究仅纳入存有可回溯计算风险所需的血清和血流动力学测量的参与者。",
+          "clinicalInterpretation": "PREVENT-PE总体策略有随机证据支持，但该事后分析未能在各风险分层间确立不同的治疗效应；37—38周常规计划分娩的获益与危害平衡仍不确定，需进一步研究评估。资助来源为Fetal Medicine Foundation。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "7b7d93c27926b86daadfd8fb376c02808440360821297717993fc5c46acf7415"
+      }
+    ]
+  }
+}
