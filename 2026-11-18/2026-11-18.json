@@ -1,0 +1,291 @@
+{
+  "hero_headline": "美国医生就新生儿先天性麻疹发出警报",
+  "daily_overview": "过去24小时内，妇产科领域未见新的指南或共识更新，也未见具有明确技术阶段判断的手术前沿报道；值得关注的是国际母胎医学动态：美国医生数十年来首次就新生儿先天性麻疹发出警报，提示孕期麻疹防控与围产期管理需要重新获得重视。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [
+    {
+      "title": "Doctors are raising concerns about US babies born with measles",
+      "url": "https://medicalxpress.com/news/2026-11-doctors-babies-born-measles.html",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "报道称，美国医生数十年来首次对患有麻疹的新生儿发出警报，说明先天性麻疹在美国重新出现，并引发临床关注。这一信号提示母胎医学与产科需要重新重视孕期麻疹筛查、疫苗接种与围产期防护；原文未提供病例数、地区分布及具体处置建议。",
+      "importance": 7
+    }
+  ],
+  "editor_note": "今日无指南或手术技术更新，唯一专业信号来自美国先天性麻疹警报，提醒国内产科对孕期麻疹免疫状态保持警觉。",
+  "keywords": [
+    "先天性麻疹",
+    "孕期感染",
+    "母胎医学",
+    "疫苗接种",
+    "围产期防护",
+    "国际动态"
+  ],
+  "research": {
+    "generatedAt": "2026-11-17T22:36:09.208Z",
+    "dataAsOf": "2026-11-17T22:36:09.208Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及阴道与口服孕激素治疗子宫内膜增生患者的有效性：一项随机临床试验、超重或肥胖PCOS相关不孕女性在来曲唑促排卵前及期间接受针刺：一项随机假针刺对照预试验、辅助生殖技术前子宫内膜瘤女性的干预措施。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:43040524",
+        "pmid": "43040524",
+        "doi": "10.1186/s12905-026-04738-y",
+        "title": "Effectiveness of vaginal versus oral progesterone therapy in patients with endometrial hyperplasia: a randomized clinical trial.",
+        "abstract": "BACKGROUND: Progesterone therapy is the main drug for the treatment of endometrial hyperplasia as a precursor of endometrial cancer. Considering the side effects of systemic progesterone use, we decided to compare the effectiveness and side effects of vaginal use versus oral use.\nMETHODS: This parallel group randomized clinical trial was conducted among 80 women with EH, without atypia, and abnormal uterine bleeding (AUB). Participants were allocated to two groups. Participants in group I received MPA, 2 tablets (5 mg) orally for 14 days per month for 3 months. Participants in group II obtained a 100 mg soft gelatin Progesterone capsule for vaginal use at the same time. 3-4 weeks after the completion of the treatment, the patient's endometrial thicknesses were measured, and endometrial samples were obtained.\nRESULTS: Finally, 39 and 36 participants were evaluated from groups I and II. The mean endometrial thickness significantly decreased after the intervention compared to before in each group (All p < 0.05), but no statistically significant difference was seen (P = 0.37) between groups.\nCONCLUSION: The clinical and histologic effects of vaginal MP are the same as MPA, after three cycles of treatment of EH without atypia.\nTRIAL REGISTRATION: IRCT20140820018866N8. Registered 10/11/2019 Prospectively registered, https//www.irct.ir/trial/41,581.",
+        "journal": "BMC women's health",
+        "authors": [
+          "Afsaneh Tehranian",
+          "Akram Ghahghaei-Nezamabadi",
+          "Faezeh Aghajani",
+          "Hadith Rastad",
+          "Zahra Mollaamin"
+        ],
+        "publicationTypes": [
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-08-21T00:00:00.000Z",
+        "activityAt": "2026-11-17T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43040524/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "阴道与口服孕激素治疗子宫内膜增生患者的有效性：一项随机临床试验",
+          "researchQuestion": "在无不典型增生的子宫内膜增生（EH）伴异常子宫出血（AUB）患者中，阴道用孕激素与口服醋酸甲羟孕酮（MPA）的有效性和副作用是否不同？",
+          "studyDesign": "平行组随机临床试验。",
+          "populationAndSample": "80例无不典型增生且伴异常子宫出血的子宫内膜增生女性；随机分入两组，最终第I组39例、第II组36例纳入评估。",
+          "methods": "第I组口服MPA，每次2片（5 mg），每月14天，共3个月；第II组同时阴道使用100 mg软胶囊孕酮。治疗结束后3-4周测量子宫内膜厚度并获取子宫内膜样本。",
+          "keyResults": "每组干预后平均子宫内膜厚度较干预前显著下降（均P < 0.05），但组间差异无统计学意义（P = 0.37）。作者结论认为，经过3个周期治疗无不典型增生的EH后，阴道用MP的临床和组织学效果与MPA相同。",
+          "limitations": "摘要未报告明确的局限性；未报告具体副作用比较结果；最终分析样本为第I组39例和第II组36例（随机80例）。",
+          "clinicalInterpretation": "在该随机试验中，阴道100 mg孕酮胶囊与口服MPA（5 mg、2片、每月14天、共3个月）在无不典型增生EH伴AUB患者中均使子宫内膜厚度显著下降，且未观察到组间差异；摘要未报告副作用比较，不能据此形成临床推荐。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "9aa1b1c9505301dd5a575b441c221930247e0e43e9e1b1352afc9c560f311505"
+      },
+      {
+        "id": "pmid:43041288",
+        "pmid": "43041288",
+        "doi": "10.3389/fendo.2026.1949696",
+        "title": "Acupuncture before and during letrozole ovulation induction in women with overweight or obesity and PCOS-related infertility: a randomized sham-controlled pilot trial.",
+        "abstract": "BACKGROUND: Obesity-related metabolic dysfunction may impair fertility outcomes in women with overweight or obesity and polycystic ovary syndrome (PCOS). We evaluated acupuncture initiated 3 months before letrozole ovulation induction and continued during treatment.\nMETHODS: In this single-center, randomized, participant-blinded, sham-controlled pilot trial, 60 women aged 20-35 years with a body mass index ≥25 kg/m² were assigned 1:1 to acupuncture or nonpenetrating sham acupuncture. Both groups received lifestyle guidance. Interventions were administered during the 3-month pretreatment phase and up to three letrozole cycles. The primary outcomes were continuing pregnancy and live birth. Secondary outcomes included other reproductive, anthropometric, metabolic, endometrial, and uterine artery Doppler outcomes.\nRESULTS: A total of 60 women were randomized, 55 completed follow-up and were included in the per-protocol analysis, while all 60 were included in the intention-to-treat analyses of pregnancy outcomes. In the per-protocol analysis, the live-birth rate was significantly higher in the acupuncture group than in the sham acupuncture group (14/27 [51.9%] vs. 6/28 [21.4%]; P = 0.03). The continuing-pregnancy rates were 14/27 (51.9%) and 8/28 (28.6%), respectively ( P = 0.10). The biochemical-pregnancy rate was also higher in the acupuncture group (17/27 [63.0%] vs. 9/28 [32.1%]; P = 0.03), whereas clinical pregnancy and pregnancy loss did not differ significantly between the groups. The intention-to-treat analyses showed similar effect directions, although the differences were not statistically significant for live birth (46.7% vs. 20.0%; P = 0.054) or continuing pregnancy (46.7% vs. 26.7%; P = 0.18). Cycle-level ovulation was summarized descriptively. Acupuncture was associated with greater improvements in body weight, glucose and lipid metabolism, insulin resistance, leptin, and adiponectin and with more favorable endometrial thickness and morphology and uterine artery Doppler indices (all P < 0.05). No serious adverse events occurred.\nCONCLUSION: These preliminary findings suggest that continuous acupuncture spanning pretreatment and ovulation induction may be associated with a higher live-birth rate and improvements in metabolic and endometrial parameters. Given the exploratory nature and limited sample size of this pilot trial, confirmation in larger multicenter trials is required.\nCLINICAL TRIAL REGISTRATION: https://www.chictr.org.cn/, identifier ChiCTR2200062010.",
+        "journal": "Frontiers in endocrinology",
+        "authors": [
+          "Baojuan Wang",
+          "Heqi Zhu",
+          "Jifan Tan",
+          "Jingru Hao",
+          "Linling Wu",
+          "Rong Dong",
+          "Saihua Ma",
+          "Tian Xia",
+          "Xiaoli Zhao",
+          "Yunzhi Zhang",
+          "Zhen Dou",
+          "Zheng Gong"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-11-02T00:00:00.000Z",
+        "activityAt": "2026-11-17T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43041288/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "超重或肥胖PCOS相关不孕女性在来曲唑促排卵前及期间接受针刺：一项随机假针刺对照预试验",
+          "researchQuestion": "在超重或肥胖且患PCOS相关不孕的女性中，于来曲唑促排卵前3个月开始并持续至促排卵期间的针刺，是否改善继续妊娠和活产等结局？",
+          "studyDesign": "单中心、随机、参与者盲法、假针刺对照预试验。",
+          "populationAndSample": "60例20-35岁、BMI ≥25 kg/m²的PCOS相关不孕女性，按1:1分配至针刺组或非穿透性假针刺组；55例完成随访并进入符合方案分析，60例进入妊娠结局的意向性分析。",
+          "methods": "两组均接受生活方式指导。干预在3个月预处理阶段及最多3个来曲唑促排卵周期中进行。主要结局为继续妊娠和活产；次要结局包括其他生殖、人体测量、代谢、子宫内膜及子宫动脉多普勒指标。",
+          "keyResults": "符合方案分析中，针刺组活产率显著高于假针刺组（14/27 [51.9%] vs. 6/28 [21.4%]；P = 0.03）；继续妊娠率分别为14/27（51.9%）和8/28（28.6%）（P = 0.10）；生化妊娠率针刺组更高（17/27 [63.0%] vs. 9/28 [32.1%]；P = 0.03）；临床妊娠和妊娠丢失无显著差异。意向性分析显示相似方向，但活产（46.7% vs. 20.0%；P = 0.054）和继续妊娠（46.7% vs. 26.7%；P = 0.18）差异未达统计学显著。周期水平排卵情况仅作描述性总结。针刺与体重、糖脂代谢、胰岛素抵抗、瘦素、脂联素、子宫内膜厚度和形态及子宫动脉多普勒指标的更大改善相关（均P < 0.05）。未发生严重不良事件。",
+          "limitations": "作者指出这是探索性预试验，样本量有限，需要在更大规模多中心试验中确认；符合方案分析中活产显著，但意向性分析未达统计学显著；周期水平排卵仅描述性总结；单中心、参与者盲法。",
+          "clinicalInterpretation": "该预试验提示，跨预处理和促排卵期的持续针刺可能与更高的活产率及代谢、子宫内膜参数改善相关，但证据为初步和探索性，意向性分析未达显著，不能据此形成临床推荐。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "5084c76acc8f9b5961f47c2f6519209160a7a48a994363f2ec965ae3166aa9df"
+      },
+      {
+        "id": "pmid:43042747",
+        "pmid": "43042747",
+        "doi": "10.1002/14651858.cd008571.pub3",
+        "title": "Interventions for women with endometrioma prior to assisted reproductive technology.",
+        "abstract": "RATIONALE: The link between endometriosis and infertility has been firmly established; however, the mechanism remains controversial. Management of ovarian endometriosis (endometrioma) in the context of assisted reproductive technology (ART) varies greatly both in regard to the intervention chosen or, indeed, the decision to treat at all. Management remains a key clinical decision for patients requiring fertility treatment and guidance from scientific evidence is vital. This is an update of a Cochrane review first published in 2010.\nOBJECTIVES: To assess the effects of surgery, medical treatment, combination therapy (both medical and surgical) or no treatment for improving reproductive outcomes among women with endometrioma, prior to undergoing ART cycles.\nSEARCH METHODS: We searched the Cochrane Gynaecology and Fertility Group's specialised register, CENTRAL, MEDLINE, Embase and PsycINFO on 7 October 2025. We also searched trial registries, checked reference lists of relevant studies and contacted experts in the field for any additional trials.\nELIGIBILITY CRITERIA: We selected randomised controlled trials (RCTs) that compared any medical and/or surgical intervention with another medical and/or surgical intervention or placebo/no intervention for the treatment of endometrioma prior to ART. The included population was women with endometrioma diagnosed by laparoscopy or pelvic imaging such as ultrasound, computed tomography (CT), or magnetic-resonance imaging (MRI).\nOUTCOMES: Our critical outcomes of interest, as presented in the summary of findings tables, were: live birth and adverse events.\nRISK OF BIAS: We used the Cochrane RoB 1 tool to assess bias in the included studies.\nSYNTHESIS METHODS: Due to significant heterogeneity between the included studies, we synthesised the results into a narrative review. We summarised key findings from individual studies descriptively and we structured them by outcome domain. We used GRADE to assess the certainty of evidence for the critical outcomes.\nINCLUDED STUDIES: We included a total of seven parallel-arm RCTs with 646 participants randomised. Two studies (173 participants) evaluated medical interventions and five studies (473 participants) evaluated surgical interventions for endometrioma prior to ART. No studies evaluated combination therapy.\nSYNTHESIS OF RESULTS: No clear benefit was found for any treatment over no treatment. We judged all studies to have a high or unclear risk of bias in at least two domains and graded the evidence as very low certainty as a result of this and imprecision due to low study numbers and wide confidence intervals. Below we report the critical outcomes, as presented in the summary of findings tables. Medical intervention: GnRH agonist protocol compared to control for ART The evidence is very uncertain about the effect of a GnRH agonist protocol compared to control on live birth (OR 3.70, 95% CI 1.25 to 10.90; 1 study, 64 participants; very low-certainty evidence). Adverse events were not reported. Surgical intervention (s): Endometrioma aspiration versus no aspiration The evidence is very uncertain about the effect of endometrioma aspiration compared to control on live birth (OR 1.66, 95% CI 0.59 to 4.62; 1 study, 81 participants; very low-certainty evidence). Adverse events were not reported. Endometrioma cystectomy versus no cystectomy The evidence is very uncertain about the effect of endometrioma cystectomy compared to control on live birth (OR 1.97, 95% CI 0.71 to 5.49; 1 study, 73 participants; very low-certainty evidence). Zero adverse events were reported in each study arm (1 study, 73 participants; very low-certainty evidence). Endometrioma transvaginal sclerotherapy versus no sclerotherapy No included study assessed live birth. Adverse events were not reported.\nAUTHORS: This narrative review highlights the uncertainties regarding the management of endometrioma prior to ART. There is no high-certainty evidence that might change the current guidance for management plans to be developed on an individual basis, taking into account previous outcomes, ovarian reserve, and patient's wishes. Further robust, adequately powered studies are required to guide future clinical decision-making which include critical outcomes as per the core outcome set for endometriosis.\nFUNDING: This Cochrane review had no dedicated funding.\nREGISTRATION: Protocol (2010) https://doi.org/10.1002/14651858.CD008571. Original review (2010) https://doi.org/10.1002/14651858.CD008571.pub2.",
+        "journal": "The Cochrane database of systematic reviews",
+        "authors": [
+          "Cindy Farquhar",
+          "James Mn Duffy",
+          "Keryn Harlow",
+          "Laurentiu Craciunas",
+          "Nnadozie Igbokwe",
+          "Pietro Bortoletto"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-11-17T00:00:00.000Z",
+        "activityAt": "2026-11-17T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43042747/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine",
+          "endometriosis-benign-gynecology",
+          "minimally-invasive-surgery"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 7.5,
+          "recency": 10,
+          "total": 92.5,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "辅助生殖技术前子宫内膜瘤女性的干预措施",
+          "researchQuestion": "对于辅助生殖技术（ART）前的子宫内膜瘤女性，手术、药物治疗、联合治疗或不治疗对改善生殖结局的效果如何？",
+          "studyDesign": "Cochrane系统综述更新；因纳入研究间显著异质性，采用叙述性综述合成，并使用GRADE评估证据确定性。",
+          "populationAndSample": "经腹腔镜或盆腔影像（超声、CT或MRI）诊断子宫内膜瘤、拟接受ART的女性。共纳入7项平行组随机对照试验，646例参与者随机；2项研究（173例）评估药物干预，5项研究（473例）评估手术干预；无研究评估联合治疗。",
+          "methods": "检索Cochrane妇科与生殖组专业注册库、CENTRAL、MEDLINE、Embase和PsycINFO（2025年10月7日），并检索试验注册库、参考文献和联系专家。纳入比较任何药物和/或手术干预与另一干预或安慰剂/无干预的随机对照试验。关键结局为活产和不良事件；使用Cochrane RoB 1工具评估偏倚风险，因异质性采用叙述性综述，使用GRADE评估关键结局证据确定性。",
+          "keyResults": "未发现任何治疗相对于不治疗有明确获益。所有研究至少两个领域存在高或不明确偏倚风险，证据因偏倚风险和样本量少、置信区间宽所致不精确性被评为极低确定性。药物干预：GnRH激动剂方案 vs. 对照的活产OR 3.70（95% CI 1.25-10.90；1项研究，64例；极低确定性证据），不良事件未报告。手术干预：子宫内膜瘤抽吸 vs. 不抽吸的活产OR 1.66（95% CI 0.59-4.62；1项研究，81例；极低确定性证据），不良事件未报告；子宫内膜瘤囊肿切除 vs. 不切除的活产OR 1.97（95% CI 0.71-5.49；1项研究，73例；极低确定性证据），每组报告零不良事件（1项研究，73例；极低确定性证据）；经阴道硬化治疗 vs. 不硬化治疗无纳入研究评估活产，不良事件未报告。",
+          "limitations": "纳入研究至少两个领域存在高或不明确偏倚风险；证据确定性为极低，主要受偏倚风险及研究数量少、置信区间宽所致不精确性限制；研究间显著异质性导致只能叙述性合成；无研究评估联合治疗；部分关键结局未报告。",
+          "clinicalInterpretation": "该综述未提供高确定性证据表明ART前子宫内膜瘤的某种手术或药物干预优于不治疗或另一干预；作者指出管理计划需个体化，考虑既往结局、卵巢储备和患者意愿，并需更稳健、样本量足够的研究。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "a930ee33e3b49b87be10abb9034e46af619b167d42e76faea673719ff5ea1d99"
+      },
+      {
+        "id": "pmid:43040408",
+        "pmid": "43040408",
+        "doi": "10.1186/s12957-026-04553-7",
+        "title": "Development and validation of DNA methylation-based prognostic models for cervical cancer via multiple machine learning algorithms.",
+        "abstract": "BACKGROUND: Cervical cancer is a leading cause of morbidity and mortality among reproductive cancers in women. Current treatment options for patients with persistent, recurrent, or metastatic disease often fall short of achieving curative outcomes. This study aimed to develop an exploratory DNA methylation-based model for survival-status risk stratification in human papillomavirus (HPV)-positive individuals.\nMETHODS: We obtained shared DNA methylation sites via differential methylation probe (DMP) analysis, log-rank analysis, and Cox analysis, followed by LASSO regression for signature feature selection. We applied nine machine learning algorithms, including logistic regression, linear discriminant analysis, naive Bayes, K nearest neighbors, decision tree, random forest, support vector machine, GLM with elastic net regularization and eXtreme gradient boosting, to construct a prognostic model for cervical cancer via the TCGA-CESC cohort and validated the model via the CGCI-HTMCP-CC cohort. Model performance was evaluated via receiver operating characteristic (ROC) curve analysis.\nRESULTS: Our results demonstrated the successful construction of a prognostic model for cervical cancer via 15 gene-associated DNA methylation sites (MUL1, HDAC2, HSPA12A, MAP3K14, RPH3A, SH3TC1, USP2, CD7, CD22, ARNT2, OR52W1, AP3B2, WWTR1, CEP120, and ECHDC2) and 3 uncharacterized methylation sites (cg23217512, cg12162450, and cg05337137). Three learners, K nearest neighbors, support vector machine, and GLM with elastic net regularization (glmnet), exhibited the best performance in the risk stratification of cervical cancer. We also developed a small prognostic model based on glmnet, consisting of ARNT2, USP2, HDAC2, HSPA12A, and cg23217512, with a similar performance to that of the 18-methylation site model.\nCONCLUSIONS: Our machine learning models used a panel of DNA methylation sites to stratify survival outcome in HPV-positive individuals, providing preliminary evidence for survival-status risk stratification that requires further validation in larger cohorts.",
+        "journal": "World journal of surgical oncology",
+        "authors": [
+          "Jingxin Cheng",
+          "Liang Xu",
+          "Linlin Chang",
+          "Rui Shi"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Validation Study"
+        ],
+        "publishedAt": "2026-08-20T00:00:00.000Z",
+        "activityAt": "2026-11-17T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43040408/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 17.5,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 92.5,
+          "evidenceRank": 0.7
+        },
+        "summaryZh": {
+          "titleZh": "通过多种机器学习算法开发并验证基于DNA甲基化的宫颈癌预后模型",
+          "researchQuestion": "能否基于DNA甲基化位点构建模型，对HPV阳性宫颈癌个体进行生存状态风险分层，并验证其性能？",
+          "studyDesign": "探索性预后模型开发与验证研究。",
+          "populationAndSample": "HPV阳性宫颈癌个体；使用TCGA-CESC队列构建模型，并通过CGCI-HTMCP-CC队列验证；摘要未报告样本量。",
+          "methods": "通过差异甲基化探针（DMP）分析、log-rank分析和Cox分析获取共享DNA甲基化位点，随后用LASSO回归筛选特征。应用9种机器学习算法，包括逻辑回归、线性判别分析、朴素贝叶斯、K近邻、决策树、随机森林、支持向量机、弹性网正则化GLM和极端梯度提升，基于TCGA-CESC队列构建宫颈癌预后模型，并通过CGCI-HTMCP-CC队列验证；用ROC曲线分析评估模型性能。",
+          "keyResults": "成功构建了基于15个基因相关DNA甲基化位点（MUL1、HDAC2、HSPA12A、MAP3K14、RPH3A、SH3TC1、USP2、CD7、CD22、ARNT2、OR52W1、AP3B2、WWTR1、CEP120、ECHDC2）和3个未表征甲基化位点（cg23217512、cg12162450、cg05337137）的宫颈癌预后模型。K近邻、支持向量机和弹性网正则化GLM（glmnet）三种学习器在宫颈癌风险分层中表现最佳。还开发了基于glmnet的小型预后模型，包含ARNT2、USP2、HDAC2、HSPA12A和cg23217512，其性能与18个甲基化位点模型相似。",
+          "limitations": "作者称结果为初步证据，模型需在更大队列中进一步验证；摘要未报告样本量、具体ROC/AUC数值及校准等性能指标。",
+          "clinicalInterpretation": "该研究提示，基于DNA甲基化位点的机器学习模型可能用于HPV阳性宫颈癌个体的生存状态风险分层，但目前仅为探索性、初步证据，尚不能视为可直接用于临床决策的工具。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "046aaff01b5a4f919f2f4a31d4face9294cc92aad0d1a8d2a8a2112088c6146c"
+      },
+      {
+        "id": "pmid:43042162",
+        "pmid": "43042162",
+        "doi": "10.1155/humu/3005037",
+        "title": "Prevalence of Pathogenic Variants and Variants of Uncertain Significance in Patients With Epithelial Ovarian Cancer: A Systematic Review and Meta-Analysis.",
+        "abstract": "Variants of uncertain significance (VUS) are increasingly identified when using multigene panel next-generation sequencing (NGS) for epithelial ovarian cancer (EOC) patients. This meta-analysis is aimed at estimating the prevalence of pathogenic variants (PV) and VUS in EOC patients receiving multigene panel testing. We retrieved pertinent literature from PubMed, EMBASE, and the Cochrane Library, following the PRISMA 2020. Our analysis included 19 studies involving 3323 patients. Meta-analysis of proportions via logit transformation was performed. At the gene level, the pooled proportion of tested genes in which at least one PV was detected was 82%, and the corresponding proportion for VUS was 87%. At the patient level, 24% of patients carried at least one PV, and 11% carried at least one VUS. BRCA1/2 mutations accounted for the majority (22%) of PV within the homologous recombination repair (HRR) pathway, whereas expanding testing to additional HRR panels tripled the VUS rate (from 5% to 14%). The difference between PV prevalence and VUS prevalence was significantly greater for classic DNA damage repair (DDR) genes than for other panel genes. BRCA1 , BRCA2 , RAD51D , and RAD51C exhibited the greatest disparities in the proportions of PV and VUS, indicating a positive risk-benefit balance regarding clinical decision-making. Our findings suggest that the probability of detecting a VUS in other panel genes is significantly higher than in classic DDR genes, highlighting the underreporting of VUS in clinical studies. Routine clinical reporting may prioritize well-established EOC-risk genes, with multigene panel testing reserved for selected subgroups. Improving the reporting and classification of VUS is essential, and future studies should prioritize gene-specific VUS evaluation.",
+        "journal": "Human mutation",
+        "authors": [
+          "Daijuan Chen",
+          "Jing Zeng",
+          "Qingli Li",
+          "Rutie Yin",
+          "Wenhao Zhang",
+          "Xiang-Yu Meng"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-11-16T00:00:00.000Z",
+        "activityAt": "2026-11-17T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43042162/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 6,
+          "recency": 10,
+          "total": 91,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "上皮性卵巢癌患者中致病性变异与意义不明变异患病率：系统综述与Meta分析",
+          "researchQuestion": "在接受多基因panel检测的上皮性卵巢癌（EOC）患者中，致病性变异（PV）和意义不明变异（VUS）的患病率如何？",
+          "studyDesign": "系统综述与比例Meta分析，遵循PRISMA 2020。",
+          "populationAndSample": "19项研究、3323例接受多基因panel检测的上皮性卵巢癌患者。",
+          "methods": "检索PubMed、EMBASE和Cochrane Library；采用logit转换对比例进行Meta分析；在基因水平和患者水平汇总PV和VUS比例，并比较经典DNA损伤修复（DDR）基因与其他panel基因。",
+          "keyResults": "基因水平上，检测基因中至少检出1个PV的合并比例为82%，VUS为87%。患者水平上，24%的患者携带至少1个PV，11%携带至少1个VUS。BRCA1/2突变占同源重组修复（HRR）通路PV的大多数（22%）；扩展至额外HRR panel使VUS率增至三倍（从5%升至14%）。经典DDR基因的PV与VUS患病率差异显著大于其他panel基因。BRCA1、BRCA2、RAD51D和RAD51C在PV与VUS比例上的差异最大，作者认为这提示临床决策中的正风险-获益平衡。作者指出其他panel基因检出VUS的概率显著高于经典DDR基因，凸显临床研究中VUS报告不足；并提出常规临床报告可优先关注已确立的EOC风险基因，多基因panel检测保留用于选定亚组；改进VUS报告与分类至关重要，未来研究应优先进行基因特异性VUS评估。",
+          "limitations": "摘要未报告明确的局限性；未报告纳入研究间异质性、偏倚风险评估及亚组分析细节。",
+          "clinicalInterpretation": "该汇总分析显示EOC患者中PV与VUS均有相当负担，且扩展HRR panel使VUS率从5%升至14%；结果强调VUS报告与分类的重要性。作者提出常规报告可优先关注已确立的EOC风险基因、多基因panel用于选定亚组，但这属于作者建议，并非指南或临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "3f3ff0dba11366568097b3d94dda302e782d1c11361a7fe64cd9019407d16eff"
+      }
+    ]
+  }
+}

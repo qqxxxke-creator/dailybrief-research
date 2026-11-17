@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-18",
+  "articles": [
+    {
+      "sourceId": "medical-xpress-obgyn",
+      "title": "Doctors are raising concerns about US babies born with measles",
+      "url": "https://medicalxpress.com/news/2026-11-doctors-babies-born-measles.html",
+      "excerpt": "For the first time in decades, U.S. doctors are sounding the alarm about babies coming into the world with measles.",
+      "publishedAt": "2026-11-17T10:27:37.000Z",
+      "category": "politics",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "美国医生就新生儿/婴儿出生时感染麻疹发出警报，称这是数十年来首次出现此类情况，提示母婴传播和新生儿麻疹风险。",
+      "reviewStatus": "accepted",
+      "lowPriority": false
+    }
+  ]
+}
