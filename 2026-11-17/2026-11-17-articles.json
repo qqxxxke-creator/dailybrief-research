@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-17",
+  "articles": [
+    {
+      "sourceId": "medpage-today-headlines",
+      "title": "CDC Researchers Sound the Alarm on Congenital Measles",
+      "url": "https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/123912",
+      "excerpt": "(MedPage Today) -- U.S. measles outbreaks since 2025 have triggered more than 100 maternal measles infections during pregnancy, as well as cases of congenital measles in infants, and at least one likely case of pediatric meningoencephalitis, according...",
+      "publishedAt": "2026-11-16T22:43:02.000Z",
+      "category": "politics",
+      "source": "MedPage Today",
+      "summary": "CDC研究人员就先天性麻疹发出警报：自2025年以来美国麻疹疫情已导致100多例孕期母体麻疹感染、婴儿先天性麻疹病例，以及至少1例可能的儿童脑膜脑炎。",
+      "reviewStatus": "accepted",
+      "lowPriority": false
+    }
+  ]
+}

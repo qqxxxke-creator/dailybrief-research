@@ -1,0 +1,286 @@
+{
+  "hero_headline": "CDC研究人员警示孕期麻疹与先天性麻疹病例",
+  "daily_overview": "今日妇产科专业信号集中在孕产妇麻疹与先天性麻疹监测：美国自2025年以来的麻疹疫情已造成100多例孕期感染及婴儿先天性麻疹病例。暂无指南共识或手术前沿更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [
+    {
+      "title": "CDC Researchers Sound the Alarm on Congenital Measles",
+      "url": "https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/123912",
+      "source": "MedPage Today",
+      "summary": "美国自2025年以来的麻疹疫情已导致100多例孕期感染，并出现婴儿先天性麻疹病例。该信号提示产科需加强孕产妇麻疹监测、暴露预防和先天性麻疹识别。",
+      "importance": 8
+    }
+  ],
+  "editor_note": "孕期麻疹可累及胎儿，当前信号重在监测与预防；本日无指南或手术前沿更新，临床应保持警觉但无需过度解读单条报道。",
+  "keywords": [
+    "先天性麻疹",
+    "孕产妇感染",
+    "麻疹疫情",
+    "母胎医学",
+    "产科监测",
+    "感染预防"
+  ],
+  "research": {
+    "generatedAt": "2026-11-17T03:41:49.539Z",
+    "dataAsOf": "2026-11-17T03:41:49.539Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及18F-FDG PET/MRI与18F-FDG PET/CT在子宫内膜癌和宫颈癌术前肿瘤分期及淋巴结转移诊断中的头对头比较：一项荟萃分析、KRAS与子宫内膜异位症：一项系统综述与荟萃分析、重视卵巢癌初始治疗的规范化。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:43035723",
+        "pmid": "43035723",
+        "doi": "10.1186/s12885-026-16740-6",
+        "title": "Head-to-Head comparison of 18 F-FDG PET/MRI and 18 F-FDG PET/CT for preoperative tumor staging and lymph node metastasis diagnosis in endometrial and cervical cancers: a meta-analysis.",
+        "abstract": "BACKGROUND: Accurate preoperative staging is critical for managing endometrial and cervical cancers. While MRI and PET/CT are current cornerstones, the emerging hybrid PET/MRI technology promises superior soft-tissue contrast and metabolic assessment. This study aimed to directly compare the diagnostic accuracy of 1 ⁸F-FDG PET/MRI versus 1 ⁸F-FDG PET/CT for preoperative tumor staging and lymph node metastasis (LNM) detection in these cancers.\nMETHODS: We systematically searched PubMed, Embase, Web of Science, and the Cochrane Central Register of Controlled Trials, followed by a meta-analysis of the eligible studies.\nRESULTS: Six studies (n=419) were included, all of which compared lymph node metastasis detection, and four of which also compared tumor staging. For lymph node metastasis---the clinical question where PET contributes most---the primary analysis using a random-effects model including all six studies yielded pooled sensitivity of 83% (95% CI: 70-96%) and 78% (95% CI: 65-92%) for PET/MRI and PET/CT, respectively, and pooled specificity of 88% for both modalities, with substantial heterogeneity. A sensitivity analysis excluding one outlier study produced broadly similar estimates (sensitivity: 93% vs. 85%; specificity: 93% vs. 92%). No formal paired comparison was performed, and equivalence cannot be concluded. For local tumor staging, PET/MRI showed significantly higher accuracy than PET/CT (OR=3.02, 95% CI: 1.87-4.86, P<0.001), a finding likely attributable to MRI's superior soft-tissue contrast.\nCONCLUSION: This meta-analysis suggests that PET/MRI offers superior accuracy for local tumor staging compared to PET/CT in endometrial and cervical cancers, likely reflecting the inherent advantage of MRI over CT. For lymph node metastasis, the pooled point estimates for PET/MRI and PET/CT were numerically close; however, a formal paired comparison could not be performed due to the absence of discordant-pair data, and equivalence cannot be concluded. This finding nonetheless underscores the central role of the PET component for nodal detection. Given the limited number of included studies and the retrospective design of the primary studies, these findings should be interpreted cautiously and require confirmation through larger, prospective multicenter studies.\nTRIAL REGISTRATION: The protocol for this meta-analysis was registered on the PROSPERO platform (Registration ID: CRD420261387587).",
+        "journal": "BMC cancer",
+        "authors": [
+          "Bin Xiang",
+          "Lei Wang",
+          "Zhongxu Li"
+        ],
+        "publicationTypes": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-18T00:00:00.000Z",
+        "activityAt": "2026-11-16T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43035723/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "18F-FDG PET/MRI与18F-FDG PET/CT在子宫内膜癌和宫颈癌术前肿瘤分期及淋巴结转移诊断中的头对头比较：一项荟萃分析",
+          "researchQuestion": "直接比较18F-FDG PET/MRI与18F-FDG PET/CT在子宫内膜癌和宫颈癌术前肿瘤分期及淋巴结转移检测中的诊断准确性。",
+          "studyDesign": "系统综述与荟萃分析；方案注册于PROSPERO（CRD420261387587）。",
+          "populationAndSample": "纳入6项研究，共419例；所有研究均比较淋巴结转移检测，其中4项同时比较肿瘤分期。摘要未报告患者个体特征及研究间人群细节。",
+          "methods": "系统检索PubMed、Embase、Web of Science和Cochrane Central Register of Controlled Trials，并对符合条件的研究进行荟萃分析；淋巴结转移的主要分析采用随机效应模型，纳入全部6项研究，并开展排除1项离群研究的敏感性分析；局部肿瘤分期以OR比较；未进行正式配对比较。",
+          "keyResults": "淋巴结转移方面，PET/MRI与PET/CT的合并敏感度分别为83%（95% CI：70-96%）和78%（95% CI：65-92%），两者合并特异度均为88%，存在显著异质性。排除1项离群研究后，敏感度为93% vs. 85%，特异度为93% vs. 92%。未进行正式配对比较，不能得出等效结论。局部肿瘤分期方面，PET/MRI准确性显著高于PET/CT（OR=3.02，95% CI：1.87-4.86，P<0.001），作者认为可能归因于MRI更优的软组织对比度。",
+          "limitations": "纳入研究数量有限，原研究为回顾性设计；淋巴结转移分析存在显著异质性；因缺乏不一致配对数据，无法进行正式配对比较，不能得出等效性结论。作者强调结果需更大样本的前瞻性多中心研究验证。",
+          "clinicalInterpretation": "该荟萃分析提示，在子宫内膜癌和宫颈癌局部肿瘤分期方面，PET/MRI的准确性可能高于PET/CT；在淋巴结转移检测方面，两种模式的合并点估计接近，但因缺乏正式配对比较，不能认定为等效。结果受纳入研究数量有限和原研究回顾性设计限制，应谨慎解读，不宜据此形成临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "65f5792a92a14e2daf3de044f81ba867fc04b56b6e91006456848bfcf3b2b094"
+      },
+      {
+        "id": "pmid:43035259",
+        "pmid": "43035259",
+        "doi": "10.1177/03000605261504541",
+        "title": "KRAS and endometriosis: A systematic review and meta-analysis.",
+        "abstract": "BackgroundEndometriosis is a chronic gynecological condition affecting approximately 10% of women of reproductive age worldwide. Accumulating molecular evidence suggests that endometriotic lesions harbor somatic oncogenic mutations, including activating mutations in the KRAS gene. However, the prevalence of KRAS mutations across endometriosis subtypes and their clinical significance remain poorly defined.ObjectivesThis systematic review and meta-analysis aimed to estimate the prevalence of somatic KRAS mutations in endometriosis, characterize variant allele frequencies, and evaluate associations with clinical outcomes, including recurrence, infertility, and malignant transformation.MethodsA comprehensive search of PubMed/MEDLINE, Embase, and Web of Science/Scopus was conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses 2020 guidelines (International Prospective Register of Systematic Reviews: CRD420261303629). Eligible studies included observational designs and molecular sequencing reports on endometriotic tissue. Pooled prevalence was estimated using a random-effects meta-analysis (DerSimonian-Laird model), with heterogeneity assessed using Cochran's Q and I 2 statistics.ResultsSeven studies were included, covering deep infiltrating, ovarian, and superficial peritoneal endometriosis subtypes. The pooled KRAS mutation prevalence was 48% (95% confidence interval: 38%-58%), with substantial heterogeneity (I 2 = 77%). Mutations were most frequent in deep infiltrating and ovarian lesions (50%-55%) compared with that in superficial peritoneal disease (∼30%-35%). Variant allele fractions were consistently low (<20%), reflecting clonal epithelial expansion. KRAS -positive patients demonstrated greater disease extent and surgical complexity, though associations with pain, infertility, and recurrence were not statistically significant.ConclusionPreliminary evidence suggests that KRAS mutations are common in endometriosis; however, findings should be interpreted cautiously owing to substantial study heterogeneity and limited available data. KRAS may hold biological significance as a biomarker; however, current evidence is insufficient to support routine clinical use.",
+        "journal": "The Journal of international medical research",
+        "authors": [
+          "Abraham Agaya Obadiah",
+          "Adewale Samuel Adeleye",
+          "Mabweh Mashat",
+          "Mathew Oyelami",
+          "Odinaka Mgbeke"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-11-15T00:00:00.000Z",
+        "activityAt": "2026-11-16T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43035259/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine",
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 11.25,
+          "recency": 10,
+          "total": 96.25,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "KRAS与子宫内膜异位症：一项系统综述与荟萃分析",
+          "researchQuestion": "估计子宫内膜异位症中体细胞KRAS突变的患病率，描述变异等位基因频率，并评估其与复发、不孕和恶变等临床结局的关联。",
+          "studyDesign": "系统综述与荟萃分析；纳入观察性研究和分子测序报告；方案注册于PROSPERO（CRD420261303629）。",
+          "populationAndSample": "纳入7项研究，覆盖深部浸润型、卵巢型和浅表腹膜型子宫内膜异位症；摘要未报告各研究的样本量及患者个体特征。",
+          "methods": "按照PRISMA 2020指南全面检索PubMed/MEDLINE、Embase和Web of Science/Scopus；合并患病率采用随机效应DerSimonian-Laird模型；异质性采用Cochran Q和I2统计量评估。",
+          "keyResults": "KRAS突变合并患病率为48%（95% CI：38%-58%），异质性显著（I2=77%）。深部浸润型和卵巢型病变中突变较常见（50%-55%），浅表腹膜型约为30%-35%。变异等位基因频率持续较低（<20%），摘要称其反映克隆性上皮扩增。KRAS阳性患者疾病范围更大、手术复杂度更高，但与疼痛、不孕和复发的关联未达统计学显著。",
+          "limitations": "研究间异质性显著（I2=77%），可用数据有限；摘要未报告纳入研究的偏倚风险、发表偏倚评估及具体样本量。作者强调初步证据需谨慎解读，KRAS作为生物标志物的常规临床使用证据不足。",
+          "clinicalInterpretation": "初步证据提示KRAS突变在子宫内膜异位症中较常见，并可能与病变范围和手术复杂度相关，但与疼痛、不孕和复发的关联未达统计学显著。由于异质性大且数据有限，KRAS目前不足以支持常规临床应用，其生物标志物价值仍需进一步研究。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "966a8fce9d2c059cb52a8ab354745e515e224c574ed7ad2f44d11067a609bae5"
+      },
+      {
+        "id": "pmid:43035277",
+        "pmid": "43035277",
+        "doi": "10.3760/cma.j.cn112137-20260219-00497",
+        "title": "[Emphasis on the standardization of initial treatment for ovarian cancer].",
+        "abstract": "Based on the current technical development status among various regions and medical institutions in China, this article proposes corresponding clinical decision-making pathways to standardize and homogenize the initial treatment of ovarian cancer and optimize patient prognosis. All patients require comprehensive and thorough evaluation by the gynecologic oncology multidisciplinary team. Comprehensive staging surgery is indicated for early-stage ovarian cancer. For advanced cases, primary debulking surgery or interval debulking surgery after neoadjuvant chemotherapy is adopted based on clinical indications, with great emphasis on multidisciplinary expertise and surgical quality to elevate the implementation rate and complete resection rate of the initial debulking surgery. Standard first-line chemotherapy with adequate dosage and full cycles is strongly recommended. For advanced patients who have achieved remission after chemotherapy, genetic testing-guided maintenance therapy is preferred. Regular post-treatment follow-up is essential for early identification of tumor recurrence.",
+        "journal": "Zhonghua yi xue za zhi",
+        "authors": [
+          "L P Feng",
+          "S Q Zhang"
+        ],
+        "publicationTypes": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "publishedAt": "2026-11-17T00:00:00.000Z",
+        "activityAt": "2026-11-16T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43035277/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "重视卵巢癌初始治疗的规范化",
+          "researchQuestion": "如何基于中国不同地区和医疗机构的技术发展现状，提出临床决策路径以规范并同质化卵巢癌初始治疗、优化患者预后。",
+          "studyDesign": "非原始研究，文章提出临床决策路径建议；摘要未报告系统综述、随机试验或观察性研究设计。",
+          "populationAndSample": "摘要未报告具体研究人群、样本量或数据来源；讨论对象为卵巢癌患者的初始治疗。",
+          "methods": "摘要未报告系统检索、研究设计或统计方法；文章提出相应临床决策路径，涉及妇科肿瘤多学科团队评估、早期全面分期手术、晚期初治减瘤术或新辅助化疗后间歇性减瘤术、标准化一线化疗、基因检测指导的维持治疗及规律随访。",
+          "keyResults": "摘要未报告原始研究结果。文章提出：所有患者均需由妇科肿瘤多学科团队进行全面评估；早期卵巢癌行全面分期手术；晚期病例根据临床指征选择初次减瘤术或新辅助化疗后间歇性减瘤术，并强调多学科专业能力和手术质量以提高初始减瘤术实施率和完全切除率；推荐足剂量、全周期的标准化一线化疗；化疗后达到缓解的晚期患者优先考虑基因检测指导的维持治疗；治疗后规律随访以早期识别复发。",
+          "limitations": "摘要未报告研究方法学、证据等级、样本量、结局数据或利益冲突；作为建议性文章，未提供该路径改善预后的直接比较证据。",
+          "clinicalInterpretation": "文章聚焦卵巢癌初始治疗的规范化和同质化，强调多学科团队、手术质量、化疗剂量与周期、维持治疗和随访。上述内容为文章提出的临床决策路径，并非原始研究验证的疗效结论，也不能等同于指南或共识。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "d6c8bb66906a5db62254e1cd2ec60779f2453edc55505f00bb2dc392d65a9afc"
+      },
+      {
+        "id": "pmid:43035470",
+        "pmid": "43035470",
+        "doi": "10.1186/s13048-026-02232-5",
+        "title": "Systemic immune-inflammation index in ovarian reserve, polyendocrine metabolic ovarian syndrome, and assisted reproductive technology outcomes: a narrative review.",
+        "abstract": "BACKGROUND: The systemic immune-inflammation index (SII) has emerged as a composite marker integrating platelet, neutrophil, and lymphocyte counts, reflecting both proinflammatory and immunoregulatory pathways. While increasing clinical evidence links the SII to ovarian reserve and assisted reproductive technology (ART) outcomes, a comprehensive synthesis of its clinical utility and underlying mechanisms is lacking. This narrative review summarizes the evidence linking the SII to anti-Müllerian hormone (AMH) levels, ovarian reserve, polyendocrine metabolic ovarian syndrome (PMOS), and ART outcomes, while proposing a unified \"inflammation-oxidative stress-fibrosis\" model for ovarian damage.\nKEY FINDINGS: Large cohort studies have demonstrated a robust negative correlation between the SII and the AMH/antral follicle count, independent of age and body mass index. In PMOS patients, the SII is associated with hyperandrogenism, insulin resistance, and dyslipidemia, and predicts embryo arrest and a reduced available embryo rate with clear threshold effects (SII > 733, log SII > 6.72). Mechanistically, an elevated SII reflects a dual imbalance: increased neutrophil‑platelet activation drives follicular inflammation and neutrophil extracellular trap formation (NETosis), while relative lymphopenia weakens immune tolerance at the maternal-fetal interface. This imbalance triggers oxidative stress and TGF‑β1‑mediated fibrosis, forming a vicious cycle of ovarian dysfunction and follicular atresia. Lifestyle and pharmacological interventions targeting this pathway, such as weight loss, metformin, and melatonin, show promise for improving fertility outcomes.\nCONCLUSION: The SII is a low‑cost, accessible marker with strong potential for risk stratification in fertility management. Prospective trials are needed to validate SII‑guided interventions.",
+        "journal": "Journal of ovarian research",
+        "authors": [
+          "Bei Zhang",
+          "Dongmei Xiong",
+          "Jingtao Luo",
+          "Yu Xu",
+          "Zhiwen Lai"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-08-18T00:00:00.000Z",
+        "activityAt": "2026-11-16T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43035470/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "系统免疫炎症指数在卵巢储备、多内分泌代谢性卵巢综合征及辅助生殖技术结局中的研究：一项叙述性综述",
+          "researchQuestion": "总结系统免疫炎症指数（SII）与抗苗勒管激素（AMH）水平、卵巢储备、多内分泌代谢性卵巢综合征（PMOS）及辅助生殖技术（ART）结局相关证据，并提出卵巢损伤的统一机制模型。",
+          "studyDesign": "叙述性综述；摘要未报告系统检索或定量合并方法。",
+          "populationAndSample": "摘要未报告纳入研究数量、总样本量或系统检索策略；综述涵盖卵巢储备、PMOS和ART结局相关证据，并提及大型队列研究。",
+          "methods": "叙述性综述，总结SII与AMH/卵巢储备、PMOS及ART结局的关联，并提出“炎症-氧化应激-纤维化”卵巢损伤模型；摘要未报告文献筛选、质量评价或统计合并方法。",
+          "keyResults": "SII由血小板、中性粒细胞和淋巴细胞计数构成。大型队列研究显示SII与AMH/窦卵泡计数呈稳健负相关，且独立于年龄和体重指数。PMOS患者中，SII与高雄激素血症、胰岛素抵抗和血脂异常相关，并可预测胚胎停滞和可用胚胎率降低，存在明确阈值效应（SII>733，log SII>6.72）。摘要提出的机制模型为：中性粒细胞-血小板活化增强驱动卵泡炎症和中性粒细胞胞外诱捕网形成，相对淋巴细胞减少削弱母胎界面免疫耐受，进而触发氧化应激和TGF-β1介导的纤维化，形成卵巢功能障碍和卵泡闭锁的恶性循环。针对该通路的生活方式或药物干预（如减重、二甲双胍、褪黑素）在改善生育结局方面显示应用前景。",
+          "limitations": "为叙述性综述，摘要未报告系统检索、纳入研究数量、样本量、偏倚风险或定量合并结果；所提出的机制模型和干预前景尚需前瞻性试验验证。",
+          "clinicalInterpretation": "SII是低成本、可获取的指标，在生育管理中具有风险分层潜力；现有证据主要显示关联，并提出机制模型，尚不能证明因果。SII指导的干预需前瞻性试验验证，暂不能据此形成临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "501ad15b428b6c139c5d2aa0e01bdc465b9594439ecb0d014a110a3763f7e768"
+      },
+      {
+        "id": "pmid:43035542",
+        "pmid": "43035542",
+        "doi": "10.1038/s41698-026-01624-6",
+        "title": "Discordance in molecular classification of primary and metastatic endometrial cancer: implications for precision treatment.",
+        "abstract": "Endometrial cancer is the most common gynecological malignancy in high-income countries. Molecular classification using POLE sequencing and assessing p53 and mismatch repair (MMR) protein status by immunohistochemistry (IHC) improves prognostication. We examined whether classifications from primary biopsies (PBs) are retained in matched metastatic biopsies (MBs). IHC was performed on 250 PB-MB pairs, POLE (155 PBs and 122 MBs) and TP53 (75 PB-MB pairs) mutational status was obtained from Sanger or whole exome sequencing (WES). ProMisE-based molecular classification (n = 155) was discordant in 19% of patients. The most frequent shift was from No Specific Molecular Profile (NSMP) PBs to MMRdeficient MBs (6%), while 3% shifted from MMRdeficient PBs to MMRproficient MBs. p53 status also changed: 5% had p53abn PBs but NSMP MBs, and 3% showed the opposite pattern. Additionally, 3% of p53abn PBs were MMRd in MBs. POLE mutations were fully conserved across all PB-MB pairs investigated (n = 122). Inter-MB heterogeneity was observed for p53 by IHC and TP53 by WES. In this aggressive cohort, MB-based classification correlated with prognosis (p = 0.01), while PB-based classification did not (p = 0.31). These findings highlight the importance of reassessing molecular features in metastatic lesions to guide precision therapy.",
+        "journal": "NPJ precision oncology",
+        "authors": [
+          "Camilla Krakstad",
+          "Erling A Hoivik",
+          "Gema Moreno-Bueno",
+          "Hans Kristian Haugland",
+          "Hege F Berg",
+          "Hilde E Lien",
+          "Ingfrid S Haldorsen",
+          "Janka Babickova",
+          "Jone Trovik",
+          "Kadri Madissoo",
+          "Kathrine Woie",
+          "Mari Kyllesø Halle",
+          "Marta E Hjelmeland",
+          "Rameen Beroukhim",
+          "Rose M Gold"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-07-24T00:00:00.000Z",
+        "activityAt": "2026-11-16T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43035542/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "原发与转移性子宫内膜癌分子分型的不一致及其对精准治疗的启示",
+          "researchQuestion": "原发活检的分子分型是否在配对的转移活检中保留，以及原发灶与转移灶分子分型同预后的关系。",
+          "studyDesign": "配对原发活检-转移活检的分子检测分析；摘要未报告前瞻性或回顾性设计及具体研究设计细节。",
+          "populationAndSample": "对250对原发活检-转移活检配对样本行免疫组化；POLE检测涉及155份原发活检和122份转移活检；TP53检测涉及75对原发-转移配对样本；ProMisE分子分型分析n=155；摘要提及“侵袭性队列”。",
+          "methods": "对250对原发活检-转移活检样本行免疫组化；POLE和TP53突变状态通过Sanger测序或全外显子测序获得；采用基于ProMisE的分子分型，并比较原发灶与转移灶分型及预后关联。",
+          "keyResults": "基于ProMisE的分子分型在19%的患者中存在不一致。最常见的转变是原发灶为无特定分子谱（NSMP）而转移灶为错配修复缺陷（MMRd），占6%；3%由原发灶MMRd转为转移灶错配修复完整（MMRp）。p53状态亦发生变化：5%原发灶为p53异常（p53abn）而转移灶为NSMP，3%呈相反模式；另有3%原发灶p53abn而转移灶为MMRd。POLE突变在所有检测的原发-转移配对中完全保留（n=122）。转移灶之间可见p53免疫组化和TP53全外显子测序的异质性。在该侵袭性队列中，基于转移灶的分型与预后相关（p=0.01），基于原发灶的分型未显示相关（p=0.31）。",
+          "limitations": "摘要未报告明确研究局限性；摘要未报告样本来源、随访时长、检测平台一致性、外部验证及前瞻性设计信息。",
+          "clinicalInterpretation": "配对分析显示原发灶与转移灶分子分型存在不一致，POLE突变完全保留，而MMR和p53状态可发生改变；转移灶分型与预后相关，原发灶分型未显示相关。该结果提示精准治疗中需关注转移灶分子特征再评估，但为单篇配对研究，不能据此改写治疗指南，仍需进一步验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "814d6faf757aaf3bc53d73dc333a55eb0c1401a0de4702601a88dde57474c125"
+      }
+    ]
+  }
+}
