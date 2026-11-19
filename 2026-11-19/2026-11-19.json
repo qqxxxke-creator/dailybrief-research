@@ -1,0 +1,278 @@
+{
+  "hero_headline": "FONTANA研究更新结果：新型ADC在卵巢癌显示活性",
+  "daily_overview": "今日可关注的妇产科专业信号集中在妇科肿瘤治疗：ESMO年会上FONTANA研究更新结果显示，一种在研抗体偶联药物在卵巢癌中呈现有前景的活性，可能影响后续治疗选择。今日无指南共识或手术前沿更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [
+    {
+      "title": "Novel ADC Could Expand Treatment Options in Ovarian Cancer",
+      "url": "https://www.medpagetoday.com/meetingcoverage/esmofuturefocus/123950",
+      "source": "MedPage Today",
+      "summary": "MedPage Today报道，ESMO年会公布的FONTANA研究更新结果显示，一种在研抗体偶联药物在卵巢癌中表现出有前景的活性。该早期临床信号提示其可能拓展卵巢癌治疗选择，但摘要未提供完整疗效与安全性数据。",
+      "importance": 7
+    }
+  ],
+  "editor_note": "单条妇科肿瘤早期药物信号值得跟踪，但尚不足以改变临床实践。",
+  "keywords": [
+    "卵巢癌",
+    "抗体偶联药物",
+    "FONTANA研究",
+    "ESMO",
+    "妇科肿瘤",
+    "药物治疗"
+  ],
+  "research": {
+    "generatedAt": "2026-11-19T02:45:54.417Z",
+    "dataAsOf": "2026-11-19T02:45:54.417Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及先天性肾脏和泌尿道异常的危险因素、妊娠期肝内胆汁淤积症与中国小于胎龄儿风险之间的关联：一项Meta分析、实验室阿司匹林抵抗与预防性低剂量阿司匹林治疗下子痫前期发生率：系统综述与Meta分析。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:43045762",
+        "pmid": "43045762",
+        "doi": "10.1038/s41390-026-05632-x",
+        "title": "Risk factors for congenital anomalies of the kidney and urinary tract.",
+        "abstract": "BACKGROUND: Congenital anomalies of the kidney and urinary tract (CAKUT) are a leading cause of pediatric renal failure. This study evaluated risk factors and assessed their robustness.\nMETHODS: PubMed, EMBASE, and Scopus searches yielded 33 studies (24 case-control, 9 cohort). Frequentist and Bayesian random-effects meta-analyses estimated associations between CAKUT and maternal/neonatal risks.\nRESULTS: Frequentist analysis identified increased risk for pre-pregnancy BMI 25.0-29.9 (OR, 1.24; 95% CI, 1.06-1.45), ≥30 (OR, 1.27; 95% CI, 1.07-1.51), and ≥25 kg/m² (OR, 1.24; 95% CI, 1.11-1.37). Maternal age <20 years was protective (OR, 0.61; 95% CI, 0.51-0.73). Other predictors included family history of CAKUT/kidney disease, maternal diabetes subtypes (type 1, type 2, pre-gestational, and gestational diabetes), preterm birth (OR, 1.59; 95% CI, 1.25-2.03), small-for-gestational-age (SGA), and large-for-gestational-age (LGA). Bayesian analysis validated most factors. Although 95% CrIs crossed unity for BMI 25.0-29.9 kg/m², BMI ≥ 30 kg/m², T2DM, SGA, LGA, alcohol consumption, RASi use, and hypertension, their posterior distributions were predominantly above 1. High BMI, family history, and diabetes remained robust in high-quality subsets.\nCONCLUSIONS: Confirming established risks and identifying novel associations, these findings identify maternal metabolic factors as consistent correlates of CAKUT and support their evaluation as potentially modifiable targets.\nIMPACT: Current meta-analyses lack synthesis on novel CAKUT determinants (maternal exposures, comorbidities, gestational weight gain, extreme fetal weight) and Bayesian approaches, which are essential to robustly address heterogeneity in sparse data. Our frequentist analysis confirmed established risks and identified novel associations: family history, SGA, LGA, and type 1 and 2 diabetes. Bayesian meta-analysis supported the main findings and showed posterior probabilities that OR > 1 of ≥90% for BMI subgroups, T2DM, RASi use, and hypertension. Maternal metabolic factors are consistently associated with CAKUT and represent potentially modifiable targets that warrant evaluation in future prospective and interventional studies.",
+        "journal": "Pediatric research",
+        "authors": [
+          "Chi-Chang Shieh",
+          "Chih-Chia Chen",
+          "Pei-Chun Lai"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-11-17T00:00:00.000Z",
+        "activityAt": "2026-11-18T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43045762/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "先天性肾脏和泌尿道异常的危险因素",
+          "researchQuestion": "哪些母体与新生儿因素与先天性肾脏和泌尿道异常（CAKUT）风险相关，这些关联的稳健性如何？",
+          "studyDesign": "系统综述与Meta分析（33项研究：24项病例对照研究、9项队列研究）。",
+          "populationAndSample": "纳入33项关于CAKUT危险因素的研究；总样本量摘要未报告。",
+          "methods": "检索PubMed、EMBASE和Scopus；采用频率学派和贝叶斯随机效应Meta分析，评估母体/新生儿暴露与CAKUT之间的关联。",
+          "keyResults": "频率学派分析显示，孕前BMI 25.0-29.9 kg/m²与CAKUT风险升高相关（OR 1.24，95% CI 1.06-1.45），BMI≥30 kg/m²（OR 1.27，95% CI 1.07-1.51），BMI≥25 kg/m²（OR 1.24，95% CI 1.11-1.37）。母亲年龄<20岁呈保护性关联（OR 0.61，95% CI 0.51-0.73）。其他预测因素包括CAKUT/肾脏病家族史、母亲糖尿病亚型（1型、2型、孕前糖尿病和妊娠期糖尿病）、早产（OR 1.59，95% CI 1.25-2.03）、小于胎龄儿（SGA）和大于胎龄儿（LGA）。贝叶斯分析验证了大多数因素；尽管BMI 25.0-29.9 kg/m²、BMI≥30 kg/m²、T2DM、SGA、LGA、饮酒、RASi使用和高血压的95% CrIs跨过1，但其后验分布主要高于1。高BMI、家族史和糖尿病在高方法学质量子集中仍稳健。",
+          "limitations": "摘要未系统列出局限性；提到稀疏数据中的异质性，且部分指标的95% CrIs跨过1。",
+          "clinicalInterpretation": "该Meta分析提示母亲代谢因素与CAKUT风险持续相关，并可能作为潜在可干预靶点；这些关联需在未來前瞻性和干预性研究中评估，不能据此推断因果或形成临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "c84e9f8cbdf4bdbd7258c7fe986319f1d763ea76c5a4c136e178108520e59c52"
+      },
+      {
+        "id": "pmid:43045981",
+        "pmid": "43045981",
+        "doi": "10.1186/s12884-026-09843-2",
+        "title": "The association between intrahepatic cholestasis of pregnancy and risk of small for gestational age in China: a meta-analysis.",
+        "abstract": "PURPOSE: To identify the relationship of intrahepatic cholestasis of pregnancy (ICP) with the occurrence risk of small for gestational age (SGA) in China.\nMETHODS: The Chinese National Knowledge Infrastructure (CNKI), Medline and Web of Science databases were searched for available studies. Relative risks (RRs) and 95% confidence intervals (CIs) were combined and subgroup analysis based on the specific comorbidity was conducted.\nRESULTS: Thirteen studies with 24712 cases were included. The incidence rates of SGA among the ICP and non-ICP patients were 14.04% (294/2094) and 4.66% (1053/22618), respectively. Pooled results demonstrated that ICP was significantly related to the occurrence of SGA (RR=3.12, 95% CI: 1.99-4.88, P＜0.001) in Chinese pregnant women. Subgroup analysis based on specific comorbidity also showed the relationship between ICP and SGA among patients with gestational diabetes mellitus (RR=6.09, 95% CI: 2.96-12.55, P＜0.001) and hepatitis B virus infection (RR=3.22, 95% CI: 1.69-6.12, P＜0.001).\nCONCLUSION: In China, ICP was associated with the occurrence of SGA in China and pregnant patients with ICP experienced a significantly higher risk of SGA.",
+        "journal": "BMC pregnancy and childbirth",
+        "authors": [
+          "Hongqin Chen",
+          "Xi Tan",
+          "Yayi Hu"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "publishedAt": "2026-08-22T00:00:00.000Z",
+        "activityAt": "2026-11-18T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43045981/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "妊娠期肝内胆汁淤积症与中国小于胎龄儿风险之间的关联：一项Meta分析",
+          "researchQuestion": "在中国人群中，妊娠期肝内胆汁淤积症（ICP）与小于胎龄儿（SGA）发生风险之间是否存在关联？",
+          "studyDesign": "Meta分析。",
+          "populationAndSample": "纳入13项研究，共24,712例病例；ICP患者SGA发生率14.04%（294/2,094），非ICP患者4.66%（1,053/22,618）。",
+          "methods": "检索CNKI、Medline和Web of Science；合并相对风险（RR）及95%置信区间（CI），并按特定合并症进行亚组分析。",
+          "keyResults": "汇总结果显示，在中国孕妇中ICP与SGA发生显著相关（RR=3.12，95% CI 1.99-4.88，P<0.001）。按合并症亚组分析，妊娠期糖尿病患者的ICP与SGA相关（RR=6.09，95% CI 2.96-12.55，P<0.001），乙型肝炎病毒感染患者亦相关（RR=3.22，95% CI 1.69-6.12，P<0.001）。",
+          "limitations": "摘要未报告局限性。",
+          "clinicalInterpretation": "在中国孕妇中，ICP与SGA发生风险升高相关；该结果来自观察性研究的Meta分析，不能推断因果关系，也不能直接转化为临床指南或治疗指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "3999153b7c84bb33ca0f9644564cb590f066de05e6281a6219e00b52b7df9542"
+      },
+      {
+        "id": "pmid:43046171",
+        "pmid": "43046171",
+        "doi": "10.1186/s12884-026-09833-4",
+        "title": "Laboratory aspirin resistance and the incidence of preeclampsia under prophylactic low-dose aspirin therapy: a systematic review and meta-analysis.",
+        "abstract": "BACKGROUND: A subset of pregnant women treated with prophylactic low-dose aspirin (LDA) still develop preeclampsia (PE), a severe pregnancy-related complication. It is hypothesized that laboratory aspirin resistance (LAR), which may undermine the preventive efficacy of LDA, is associated with the onset of PE. However, this association remains unclear.\nOBJECTIVE: This study aimed to investigate the relationship between LAR and the risk of developing PE despite LDA prophylaxis, a phenomenon we operationally define as clinical aspirin resistance (CAR), through a systematic review and meta-analysis.\nMETHODS: A comprehensive literature search was conducted in PubMed, Web of Science, Google Scholar, Scopus, Embase, and the Cochrane Library. Eligible studies that assessed the association between LAR and CAR were included. A random effect model was used to pool the data and calculate the combined odds ratio (OR) along with its corresponding 95% confidence interval (CI).\nRESULTS: Eight studies were included. Substantial heterogeneity was observed in the definitions of LAR across studies, which varied by assay type, biomarker measured, and diagnostic threshold. The result did not reveal a significant association between LAR and the risk of CAR (pooled OR = 1.08, 95% CI 0.70-1.67, I 2 = 55.6%). Subgroup analyses stratified by LAR definition and LDA dosing strategy similarly showed no significant association.\nCONCLUSION: The current evidence is insufficient to establish or exclude a significant association between LAR and the failure of LDA prophylaxis for PE. The substantial variation in LAR definitions across studies may limit the certainty of the pooled estimate. Further research using standardized laboratory criteria and larger sample sizes is needed.",
+        "journal": "BMC pregnancy and childbirth",
+        "authors": [
+          "Heshuo Fan",
+          "Jiani Qian",
+          "Jiaxuan Yin",
+          "Jieyun Yin",
+          "Lihao Yu",
+          "Ninghan Guo",
+          "Qiuping Ma",
+          "Songliang Liu",
+          "Zhiying Zhao"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-22T00:00:00.000Z",
+        "activityAt": "2026-11-18T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43046171/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "实验室阿司匹林抵抗与预防性低剂量阿司匹林治疗下子痫前期发生率：系统综述与Meta分析",
+          "researchQuestion": "实验室阿司匹林抵抗（LAR）是否与预防性低剂量阿司匹林（LDA）治疗下仍发生子痫前期（即临床阿司匹林抵抗，CAR）的风险相关？",
+          "studyDesign": "系统综述与Meta分析。",
+          "populationAndSample": "纳入8项评估LAR与CAR关联的研究；具体样本量摘要未报告。",
+          "methods": "检索PubMed、Web of Science、Google Scholar、Scopus、Embase和Cochrane Library；采用随机效应模型合并数据，计算合并OR及95% CI。",
+          "keyResults": "各研究对LAR的定义存在substantial heterogeneity（显著异质性），涉及检测方法、所测生物标志物和诊断阈值不同。未发现LAR与CAR风险之间存在显著关联（合并OR=1.08，95% CI 0.70-1.67，I²=55.6%）。按LAR定义和LDA给药策略进行的亚组分析同样未显示显著关联。",
+          "limitations": "LAR定义存在显著异质性（检测方法、生物标志物和诊断阈值不同），I²=55.6%，可能限制合并估计的确定性；摘要未报告其他局限性。",
+          "clinicalInterpretation": "当前证据不足以确认或排除LAR与LDA预防子痫前期失败之间的显著关联；LAR定义的差异可能影响结果解释，需标准化实验室标准和更大样本研究。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "661a7e454929b75210dbd0ac586f63b0a0ee16fc99fb68289d8341ea2032f60e"
+      },
+      {
+        "id": "pmid:43046779",
+        "pmid": "43046779",
+        "doi": "10.1111/aji.70351",
+        "title": "Microbiota and Endometriosis: Immunological and Functional Insights From a Systematic Review.",
+        "abstract": "Endometriosis is defined by the presence of endometrial-like tissue outside the uterus and has a significant impact on reproductive health. Although immune dysregulation has been proposed as a mechanism contributing to disease development and progression, the etiology of endometriosis is still incompletely understood. The microbiota has been proposed as a potential modulator of host immune responses; however, microbiota-related findings remain highly heterogeneous and difficult to interpret. This systematic review aimed to synthesize current evidence on the relationship between microbiota and endometriosis, with a focus on functional and immunological mechanisms. A literature search following PRISMA 2020 identified 43 studies evaluating microbiota across different anatomical niches. Due to variability in study design and analytical approaches, findings were synthesized qualitatively. No reproducible taxonomic microbial signature associated with endometriosis was identified, and results showed marked interindividual variability and dependence on anatomical niche and methodological factors. In contrast, evidence from several studies converged on broad functional, metabolic, and immunological processes, including microbial metabolic pathways, estrogen-related metabolism, and innate immune-related responses, although the nature and directness of the supporting evidence varied substantially. Overall, current evidence supports a shift from taxonomic to function-oriented frameworks, highlighting the potential relevance of context-dependent host-microbiota interactions in endometriosis.",
+        "journal": "American journal of reproductive immunology (New York, N.Y. : 1989)",
+        "authors": [
+          "Cristina García-Belchí",
+          "Laura García-Izquierdo",
+          "María Martínez-Esparza",
+          "Sandra Acedo-Santamaría"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-11-01T00:00:00.000Z",
+        "activityAt": "2026-11-18T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43046779/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 6,
+          "recency": 10,
+          "total": 91,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "微生物群与子宫内膜异位症：系统综述的免疫学和功能学见解",
+          "researchQuestion": "微生物群与子宫内膜异位症之间有何关系，尤其涉及功能和免疫学机制？",
+          "studyDesign": "系统综述（遵循PRISMA 2020），因研究设计和分析方法差异大而采用定性综合。",
+          "populationAndSample": "纳入43项评估不同解剖部位微生物群的研究；具体受试者样本量摘要未报告。",
+          "methods": "遵循PRISMA 2020进行文献检索，并因研究设计和方法学差异采用定性综合。",
+          "keyResults": "未发现与子宫内膜异位症相关的可重复的分类学微生物特征；结果呈现明显的个体间变异，并依赖于解剖部位和方法学因素。相反，多项研究的结果在广泛的功能、代谢和免疫过程上趋同，包括微生物代谢通路、雌激素相关代谢和先天免疫相关反应，但支持证据的性质和直接性差异很大。",
+          "limitations": "研究设计和分析方法差异大，无法进行定量合并；未发现可重复的分类学特征；支持证据的性质和直接性差异很大；摘要未报告其他局限性。",
+          "clinicalInterpretation": "当前证据支持从分类学框架转向以功能为导向的框架，提示情境依赖的宿主-微生物群相互作用在子宫内膜异位症中可能具有相关性；不能据此推断因果或形成临床建议。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "848a9b86cc5072fd7d7a6743f02adca0e4aac1c31250a69eba871dc76b2db085"
+      },
+      {
+        "id": "pmid:43041498",
+        "pmid": "43041498",
+        "doi": "10.3389/fphar.2026.1936392",
+        "title": "Protective effects and mechanisms of polyphenols in animal models of testicular dysfunction: a preclinical systematic review and meta-analysis.",
+        "abstract": "BACKGROUND: Testicular dysfunction is a significant contributor to male infertility, characterized by impaired spermatogenesis, reduced testosterone production, and structural damage to testicular tissue. Polyphenols, a class of naturally occurring plant metabolites abundant in fruits, vegetables, and plant-derived beverages, show considerable promise in ameliorating testicular dysfunction in animal models. Their protective effects are primarily mediated through antioxidant, anti-inflammatory, and anti-apoptotic mechanisms, along with the modulation of steroidogenic pathways. This study examines the effects of polyphenols on testicular dysfunction in experimental animal models.\nMETHODS: A systematic search of six electronic databases (PubMed, Embase, the Cochrane Library, the Web of Science Core Collection, China National Knowledge Infrastructure and Wanfang Data) was performed using keywords related to polyphenols and testicular dysfunction. The analysis incorporated preclinical animal studies evaluating polyphenol interventions for testicular injury. The methodological quality of the included studies was assessed using the CAMARADES checklist. This review was registered in PROSPERO (CRD420251171737).\nRESULTS: A total of 46 studies involving 1,252 animals were included. The meta-analysis demonstrated that polyphenols: 1) Improved sperm parameters, significantly increasing sperm count [SMD = 3.36, 95% CI (1.62, 5.09), P < 0.0001] and progressive sperm motility [SMD = 6.95, 95% CI (4.54, 8.96), P < 0.0001], while reducing sperm abnormality rate [SMD = -5.70, 95% CI (-8.42, -2.97), P < 0.0001]; 2) Enhanced testicular structure, significantly increasing seminiferous tubule diameter [SMD = 3.91, 95% CI (1.46, 6.36), P < 0.01], germinal epithelium height [SMD = 4.70, 95% CI (2.34, 7.06), P < 0.0001], and epididymal weight [SMD = 1.98, 95% CI (0.08, 3.89), P < 0.05]; 3) Elevated serum testosterone concentration [SMD = 2.72, 95% CI (1.93, 3.50), P < 0.0001]; 4) Attenuated oxidative stress, decreasing ROS [SMD = -4.91, 95% CI (-7.10, -2.72), P < 0.0001] and MDA levels [SMD = -4.63, 95% CI (-6.18, -3.09), P < 0.0001], while increasing SOD [SMD = 4.41, 95% CI (2.46, 6.35), P < 0.0001] and GSH [SMD = 4.72, 95% CI (3.02, 6.43), P < 0.0001] activities; 5) Suppressed inflammatory responses, reducing TNF-α [SMD = -4.06, 95% CI (-5.70, -2.42), P < 0.0001], IL-6 [SMD = -8.46, 95% CI (-13.44, -3.48), P < 0.01], and COX-2 [SMD = -8.50, 95% CI (-15.85, -1.16), P < 0.05] levels; 6) Inhibited apoptosis, decreasing Caspase-3 [SMD = -8.52, 95% CI (-10.72, -6.32), P < 0.0001] and Caspase-9 [SMD = -4.29, 95% CI (-7.58, -1.00), P < 0.05] expression; 7) Enhanced steroidogenesis, increasing 3β-HSD activity [SMD = 4.24, 95% CI (1.96, 6.53), P < 0.001].\nCONCLUSION: Polyphenols significantly ameliorate testicular dysfunction in animal models by activating the Nrf2/ARE antioxidant pathway, inhibiting NF-κB-mediated inflammatory signaling, suppressing mitochondrial apoptotic cascades, and preserving steroidogenic enzyme function. Future research should focus on translating these promising preclinical findings into clinically effective interventions for male reproductive disorders.\nSYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/view/CRD420251171737, identifier CRD420251171737.",
+        "journal": "Frontiers in pharmacology",
+        "authors": [
+          "Baosen Ni",
+          "Jie Tang",
+          "Meng Zhou",
+          "Minghua Yang",
+          "Yahui Li"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-11-02T00:00:00.000Z",
+        "activityAt": "2026-11-17T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43041498/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 3.75,
+          "recency": 7.5,
+          "total": 86.25,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "多酚在睾丸功能障碍动物模型中的保护作用及机制：临床前系统综述与Meta分析",
+          "researchQuestion": "多酚在实验动物模型中对睾丸功能障碍是否具有保护作用，涉及哪些机制？",
+          "studyDesign": "临床前系统综述与Meta分析（动物研究）。",
+          "populationAndSample": "纳入46项研究，共1,252只动物。",
+          "methods": "检索PubMed、Embase、Cochrane Library、Web of Science核心合集、CNKI和万方数据；纳入评估多酚干预睾丸损伤的临床前动物研究；采用CAMARADES清单评估方法学质量；研究注册于PROSPERO（CRD420251171737）；采用Meta分析合并SMD及95% CI。",
+          "keyResults": "汇总分析显示，多酚干预与以下改善相关：1）精子参数：精子计数增加（SMD=3.36，95% CI 1.62-5.09，P<0.0001），前向运动精子增加（SMD=6.95，95% CI 4.54-8.96，P<0.0001），精子异常率降低（SMD=-5.70，95% CI -8.42至-2.97，P<0.0001）；2）睾丸结构：生精小管直径增加（SMD=3.91，95% CI 1.46-6.36，P<0.01），生精上皮高度增加（SMD=4.70，95% CI 2.34-7.06，P<0.0001），附睾重量增加（SMD=1.98，95% CI 0.08-3.89，P<0.05）；3）血清睾酮浓度升高（SMD=2.72，95% CI 1.93-3.50，P<0.0001）；4）氧化应激减轻：ROS降低（SMD=-4.91，95% CI -7.10至-2.72，P<0.0001），MDA降低（SMD=-4.63，95% CI -6.18至-3.09，P<0.0001），SOD升高（SMD=4.41，95% CI 2.46-6.35，P<0.0001），GSH升高（SMD=4.72，95% CI 3.02-6.43，P<0.0001）；5）炎症反应受抑制：TNF-α降低（SMD=-4.06，95% CI -5.70至-2.42，P<0.0001），IL-6降低（SMD=-8.46，95% CI -13.44至-3.48，P<0.01），COX-2降低（SMD=-8.50，95% CI -15.85至-1.16，P<0.05）；6）细胞凋亡受抑制：Caspase-3降低（SMD=-8.52，95% CI -10.72至-6.32，P<0.0001），Caspase-9降低（SMD=-4.29，95% CI -7.58至-1.00，P<0.05）；7）类固醇生成增强：3β-HSD活性升高（SMD=4.24，95% CI 1.96-6.53，P<0.001）。作者结论认为，多酚通过激活Nrf2/ARE抗氧化通路、抑制NF-κB介导的炎症信号、抑制线粒体凋亡级联以及保留类固醇生成酶功能，改善动物模型中的睾丸功能障碍。",
+          "limitations": "摘要未报告具体局限性；纳入研究为临床前动物研究，作者提出未来需将这些结果转化为临床有效干预。",
+          "clinicalInterpretation": "临床前动物模型证据提示多酚与睾丸功能多项指标改善相关；这些发现不能直接推及人类临床疗效，需进一步转化研究验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "dfece9739359beb46cecf3d270824fc3bff6762524c6f0df2d69864cc3aec9dc"
+      }
+    ]
+  }
+}

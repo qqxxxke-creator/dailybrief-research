@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-19",
+  "articles": [
+    {
+      "sourceId": "medpage-today-headlines",
+      "title": "Novel ADC Could Expand Treatment Options in Ovarian Cancer",
+      "url": "https://www.medpagetoday.com/meetingcoverage/esmofuturefocus/123950",
+      "excerpt": "(MedPage Today) -- Updated results from the FONTANA trial presented at the annual European Society for Medical Oncology congress showed promising activity with the investigational antibody-drug conjugate (ADC) torvutatug samrotecan (torvu-sam...",
+      "publishedAt": "2026-11-18T18:50:32.000Z",
+      "category": "politics",
+      "source": "MedPage Today",
+      "summary": "MedPage Today 的 ESMO 会议报道介绍 FONTANA 试验更新结果：研究性抗体偶联药物 torvutatug samrotecan（torvu-sam）在卵巢癌中显示初步抗肿瘤活性，可能拓展治疗选择。",
+      "reviewStatus": "accepted",
+      "lowPriority": false
+    }
+  ]
+}
