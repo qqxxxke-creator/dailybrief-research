@@ -1,0 +1,266 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-11-20T02:32:27.100Z",
+    "dataAsOf": "2026-11-20T02:32:27.100Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及埃塞俄比亚女性宫颈癌的危险因素：系统综述与Meta分析（2000—2025年）、Centering Pregnancy（集中孕期保健）模式对糖尿病孕妇自我管理、自我效能、孕期体验及围产结局的影响：一项随机对照试验、Gitelman综合征合并妊娠：临床管理与母胎结局——一项系统综述。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:43052822",
+        "pmid": "43052822",
+        "doi": "10.1186/s12885-026-16801-w",
+        "title": "Risk factors of cervical cancer among women in Ethiopia: a systematic review and meta-analysis (2000-2025).",
+        "abstract": "BACKGROUND: Cervical cancer remains a major public health burden in Ethiopia and is among the leading causes of cancer-related morbidity and mortality among women. Evidence on context-specific risk factors in Ethiopia is fragmented and inconsistent, with variations in study design, populations, and reported exposures leading to inconclusive findings. Identifying and synthesizing the associated factors for cervical cancer is essential for identifying high-risk populations, informing effective prevention strategies, and improving the efficiency and effectiveness of cervical cancer screening programs. Therefore, this study aimed to systematically review and quantitatively synthesize the risk factors associated with cervical cancer among Ethiopian women.\nMETHODS: This systematic review and meta-analysis was conducted following the Joanna Briggs Institute (JBI) methodological guidance and reported in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. The review question was developed using the PECO framework (Population, Exposure, Comparison, and Outcome). Multiple electronic databases, including PubMed/MEDLINE, Scopus, Web of Science, EMBASE, the Cochrane Library, African Journals Online, and Google Scholar, were systematically searched for observational studies (case-control, cross-sectional, and cohort) published between January 2000 and 31 December 2025, with the final search conducted on this date. Only peer-reviewed articles published in English were included. Grey literature was not considered, which may introduce a risk of publication bias. A total of 1,276 records were identified, and after screening titles, abstracts, and full texts, 27 studies were included in the final analysis. Study selection, data extraction, and quality assessment were conducted independently by two reviewers. Study quality was assessed using the Newcastle-Ottawa Scale (NOS), with a modified version applied for cross-sectional studies. Pooled odds ratios (ORs) with 95% confidence intervals (CIs) were estimated using a random-effects model to account for variability across studies in terms of design, population, and setting. Statistical heterogeneity was assessed using the I² statistic, with values greater than 50% indicating substantial heterogeneity. All statistical analyses were performed using R software (version 4.2.1).\nRESULTS: Older age (≥ 40 years) was significantly associated with cervical cancer (OR = 3.87; 95% CI: 2.75-5.44). Other significant factors included early sexual debut (OR = 3.66; 95% CI: 2.48-5.40), HIV-positive status (OR = 3.37; 95% CI: 2.19-5.18), multiple sexual partners (OR = 2.88; 95% CI: 2.30-3.61), and a history of sexually transmitted infections (OR = 3.66; 95% CI: 2.31-5.82). Reproductive factors such as oral contraceptive use (OR = 2.99; 95% CI: 1.87-4.78) and multiparity (≥ 5 births) (OR = 1.51; 95% CI: 1.13-1.82) were also associated with increased risk.\nCONCLUSIONS: Cervical cancer among women in Ethiopia is consistently associated with sexual behavior, infectious comorbidities, and reproductive factors. These findings highlight the importance of strengthening integrated prevention strategies, including expanding HPV vaccination coverage, improving access to cervical cancer screening, and enhancing integration with HIV care services. Addressing modifiable associated factors may help reduce the burden of cervical cancer in Ethiopia.",
+        "journal": "BMC cancer",
+        "authors": [
+          "Edossa Merga Terefe",
+          "Merga Abdissa Aga"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-20T00:00:00.000Z",
+        "activityAt": "2026-11-19T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43052822/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "埃塞俄比亚女性宫颈癌的危险因素：系统综述与Meta分析（2000—2025年）",
+          "researchQuestion": "系统回顾并定量合成埃塞俄比亚女性宫颈癌相关危险因素，以识别高风险人群并为预防与筛查策略提供依据。",
+          "studyDesign": "系统综述与Meta分析；遵循Joanna Briggs Institute（JBI）方法学指导，按PRISMA指南报告，研究问题采用PECO框架构建；纳入观察性研究（病例对照、横断面和队列研究）。",
+          "populationAndSample": "检索2000年1月至2025年12月31日发表的英文同行评议文献，最终检索日期为该日；初检获得1,276条记录，经标题、摘要和全文筛选后，最终纳入27项研究。仅纳入同行评议的英文文献，未考虑灰色文献。",
+          "methods": "系统检索PubMed/MEDLINE、Scopus、Web of Science、EMBASE、Cochrane Library、African Journals Online和Google Scholar；由两名评价者独立完成研究筛选、数据提取和质量评价；使用纽卡斯尔-渥太华量表（NOS）评估研究质量，横断面研究采用改良版；采用随机效应模型合并比值比（OR）及95%置信区间（CI），以解释研究间设计、人群和现场差异；用I²统计量评估统计学异质性，I²大于50%提示实质性异质性；全部统计分析使用R软件（4.2.1版）。",
+          "keyResults": "年龄较大（≥40岁）与宫颈癌显著相关（OR=3.87；95% CI：2.75–5.44）。其他显著因素包括：首次性行为过早（OR=3.66；95% CI：2.48–5.40）、HIV阳性（OR=3.37；95% CI：2.19–5.18）、多个性伴侣（OR=2.88；95% CI：2.30–3.61）、性传播感染史（OR=3.66；95% CI：2.31–5.82）。生殖相关因素中，口服避孕药使用（OR=2.99；95% CI：1.87–4.78）和多产（≥5次分娩）（OR=1.51；95% CI：1.13–1.82）也与风险升高相关。",
+          "limitations": "未纳入灰色文献，可能引入发表偏倚；纳入研究在设计、人群和现场方面存在差异，作者采用随机效应模型处理这种变异。摘要未报告其他具体局限性。",
+          "clinicalInterpretation": "本Meta分析显示，在埃塞俄比亚女性中，宫颈癌与性行为相关因素、感染性合并症及生殖因素呈现一致性关联；这些为观察性关联，不能推断因果。作者据此提出加强整合性预防策略，包括扩大HPV疫苗接种覆盖、改善宫颈癌筛查可及性以及加强与HIV照护服务的整合；这属于研究层面的建议，并非指南或临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "292a002a775c363338eccdf0ecafc34af482b1ca3fcf8d50af6f5b80dcc36b20"
+      },
+      {
+        "id": "pmid:43053020",
+        "pmid": "43053020",
+        "doi": "10.1186/s12978-026-02441-7",
+        "title": "The effect of the centering pregnancy model on diabetes self- management, self-efficacy, pregnancy experience, and perinatal outcomes in women with diabetes: a randomized controlled trial.",
+        "abstract": "BACKGROUND: Gestational diabetes mellitus (GDM) and type 2 diabetes in pregnancy pose significant maternal and perinatal risks. The Centering Pregnancy group care model may improve diabetes self-management and pregnancy experience, but its effectiveness in Iran-particularly on perinatal outcomes-remains unproven. This trial evaluated whether Centering Pregnancy improves diabetes self-management, self-efficacy, and pregnancy experience (primary outcomes), and secondary outcomes including maternal satisfaction, breastfeeding at 6 weeks postpartum, preterm delivery, NICU admission, and cesarean section, compared with standard care in Iranian women with GDM or type 2 diabetes.\nMETHODS: This randomized controlled trial enrolled 100 women (50 per group) from Tabriz clinics. The intervention group received four bi-weekly group sessions plus standard care; controls received routine care. Primary outcomes (diabetes self-care activities [SDSCA], self-efficacy [DMSES], and pregnancy experience [PES]) were measured at baseline and 36-39 weeks. Secondary outcomes included satisfaction (Visual Analogue Scale), breastfeeding performance (Agunbiade instrument) at 6 weeks postpartum, and perinatal outcomes including preterm delivery, NICU admission, and cesarean section. from medical records. Analysis followed intention-to-treat principles using ANCOVA, with 6-week postpartum follow-up.\nRESULTS: The intervention group showed significantly greater improvements in SDSCA (MD = 0.9, 95% CI: 0.3-1.4, p = 0.002), DMSES (MD = 0.8, 95% CI: 0.3-1.2, p = 0.001), and PES Uplifts (MD = 2.2, 95% CI: 0.3-4.1, p = 0.026) compared to the control group. Breastfeeding performance was significantly better in the intervention group compared to the control group (MD = 0.8, 95% CI: 0.4-1.3, p < 0.001). Perinatal outcomes showed lower rates in the intervention group but these differences were not statistically significant (p > 0.05). No significant between-group differences were observed for PES Hassles, or satisfaction (p > 0.05).\nCONCLUSION: The Centering Pregnancy model is an effective patient-centered strategy for enhancing diabetes self-management, self-efficacy, and positive pregnancy experiences in Iranian women with diabetic pregnancies. Favorable but non-significant trends in perinatal outcomes warrant investigation in larger trials. This approach may be considered for integration into standard care protocols.\nCLINICAL TRIAL NUMBER: IRCT20220718010324N70.",
+        "journal": "Reproductive health",
+        "authors": [
+          "Fatemeh Abbasalizadeh",
+          "Mahsa Maghalian",
+          "Mojgan Mirghafourvand",
+          "Sakineh Mohammad-Alizadeh-Charandabi",
+          "Solmaz Ghanbari-Homaie"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-08-24T00:00:00.000Z",
+        "activityAt": "2026-11-19T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43053020/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "Centering Pregnancy（集中孕期保健）模式对糖尿病孕妇自我管理、自我效能、孕期体验及围产结局的影响：一项随机对照试验",
+          "researchQuestion": "与标准护理相比，Centering Pregnancy团体保健模式能否改善伊朗妊娠期糖尿病（GDM）或2型糖尿病女性的糖尿病自我管理、自我效能和孕期体验（主要结局），并影响母亲满意度、产后6周母乳喂养、早产、NICU入住和剖宫产等次要结局？",
+          "studyDesign": "随机对照试验；按意向性治疗（ITT）原则分析，使用协方差分析（ANCOVA），并随访至产后6周。",
+          "populationAndSample": "从伊朗大不里士（Tabriz）的诊所招募100名GDM或2型糖尿病孕妇，每组50例。",
+          "methods": "干预组接受4次每两周一次的小组课程并叠加标准护理；对照组接受常规护理。主要结局为糖尿病自我照护活动（SDSCA）、自我效能（DMSES）和孕期体验（PES），在基线及孕36–39周测量。次要结局包括满意度（视觉模拟量表评分）、产后6周母乳喂养表现（Agunbiade工具），以及从病历获取的早产、NICU入住和剖宫产等围产结局。",
+          "keyResults": "与对照组相比，干预组在SDSCA（均差MD=0.9，95% CI：0.3–1.4，p=0.002）、DMSES（MD=0.8，95% CI：0.3–1.2，p=0.001）和PES“Uplifts”维度（MD=2.2，95% CI：0.3–4.1，p=0.026）方面的改善显著更大。干预组母乳喂养表现显著优于对照组（MD=0.8，95% CI：0.4–1.3，p<0.001）。围产结局在干预组发生率较低，但差异无统计学意义（p>0.05）。PES“Hassles”维度和满意度未见显著组间差异（p>0.05）。",
+          "limitations": "围产结局的组间差异未达统计学显著，作者指出这些有利趋势需要在更大样本的试验中进一步研究。摘要未报告其他具体局限性。",
+          "clinicalInterpretation": "在伊朗糖尿病孕妇中，Centering Pregnancy模式与糖尿病自我管理、自我效能、孕期积极体验及产后6周母乳喂养表现的改善相关，围产结局未见统计学显著改善。作者认为该模式可考虑整合入标准护理流程，但此为单中心试验结果，尚不构成指南或共识推荐。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "95defda99b6ef05b9f0024985a1bb924a8e867bfa0a3678335c631e20fbfbafb"
+      },
+      {
+        "id": "pmid:43050710",
+        "pmid": "43050710",
+        "doi": "10.1080/0886022x.2026.2751914",
+        "title": "Gitelman syndrome complicated by pregnancy: clinical management and maternal-fetal outcomes - a systematic review.",
+        "abstract": "BACKGROUND: Gitelman syndrome (GS), an autosomal recessive tubulopathy caused by SLC12A3 mutations, presents with hypokalemic metabolic alkalosis, hypocalciuria and hypomagnesemia. Pregnancy can exacerbate these imbalances, increasing maternal-fetal risks, yet standardized management remains lacking. This review summarizes complications, management strategies, and outcomes to guide evidence-based care.\nMETHODS: Following PRISMA 2020 guidelines, PubMed, Web of Science, Embase, and CNKI were searched from inception to December 31, 2025, using 'Gitelman Syndrome' AND ('pregnancy' OR 'gestation'). Two reviewers independently performed literature screening, data extraction, and quality assessment. Core data were analyzed descriptively, categorical variables as frequencies (%), continuous as mean ± SD or median (range).\nRESULTS: Fifty-six studies (96 pregnancies, 81 women) from 19 countries were included. Among pregnancies with available outcome data, reported maternal complications included gestational diabetes mellitus (GDM) (11.5%), oligohydramnios (9.4%), and preeclampsia/hemolysis, elevated liver enzymes, and low platelets (HELLP) syndrome (3.1%); fetal/neonatal complications included preterm birth (16.7%), growth restriction (5.2%), and death (4.2%). Preconception diagnosis showed lower GDM (6.3% vs 18.4%) and fetal/neonatal death (0% vs 8.2%); these comparisons were descriptive and exploratory only. Oral potassium and magnesium were the main treatments. Potassium-sparing diuretics were used in 16 pregnancies (18 exposures); no malformations were reported, but safety is unestablished. Vaginal delivery occurred in 51.2% and Cesarean in 48.8%.\nCONCLUSIONS: Preconception counseling and multidisciplinary care with close electrolyte monitoring and individualized supplementation may benefit GS-complicated pregnancies, but evidence is limited by case-report data, publication bias, and heterogeneity. Larger prospective studies with standardized outcome reporting are needed to clarify risk factors and guide clinical management.",
+        "journal": "Renal failure",
+        "authors": [
+          "Aiqi Cai",
+          "Honghan Zhang",
+          "Jian Han",
+          "Jinman Zhang",
+          "Qiru Wang",
+          "Wenqian Zhao",
+          "Yinhong Zhang"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-11-18T00:00:00.000Z",
+        "activityAt": "2026-11-18T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43050710/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 7.5,
+          "total": 97.5,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "Gitelman综合征合并妊娠：临床管理与母胎结局——一项系统综述",
+          "researchQuestion": "总结Gitelman综合征（GS）女性妊娠期的并发症、管理策略及母胎结局，以期为循证照护提供参考。",
+          "studyDesign": "系统综述；遵循PRISMA 2020指南，对提取数据进行描述性分析。",
+          "populationAndSample": "检索PubMed、Web of Science、Embase和CNKI，时间从建库至2025年12月31日，检索词为“Gitelman Syndrome”AND（“pregnancy”OR“gestation”）。共纳入来自19个国家的56项研究，涉及96次妊娠、81名女性。",
+          "methods": "由两名评价者独立进行文献筛选、数据提取和质量评价。核心数据采用描述性分析：分类变量以频数（%）表示，连续变量以均值±标准差或中位数（范围）表示。",
+          "keyResults": "在有结局数据的妊娠中，报告的母体并发症包括妊娠期糖尿病（GDM）（11.5%）、羊水过少（9.4%）和子痫前期/HELLP综合征（3.1%）；胎儿/新生儿并发症包括早产（16.7%）、生长受限（5.2%）和死亡（4.2%）。孕前即获诊断者GDM发生率较低（6.3% vs 18.4%），胎儿/新生儿死亡较低（0% vs 8.2%）；作者说明这些比较仅为描述性和探索性。口服钾剂和镁剂是主要治疗手段。保钾利尿剂用于16次妊娠（18次暴露），未报告畸形，但其安全性尚未确立。阴道分娩占51.2%，剖宫产占48.8%。",
+          "limitations": "证据受病例报告类数据、发表偏倚和异质性限制；作者指出需要更大规模、采用标准化结局报告的前瞻性研究来明确危险因素并指导临床管理。",
+          "clinicalInterpretation": "作者提出，孕前咨询与多学科管理、密切电解质监测和个体化补充可能对GS合并妊娠有益；这属于基于有限证据的提示性建议，尚不足以形成指南或标准治疗方案。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "8c010139995decec7fe7e4f2708c5c8a72ad4e290af700b749d5650aa4a22ec2"
+      },
+      {
+        "id": "pmid:43053021",
+        "pmid": "43053021",
+        "doi": "10.1186/s12939-026-02967-z",
+        "title": "Nutrition assistance program participation, healthcare access, and perinatal health among U.S. Latinos in the context of the \"public charge\" rule: a systematic review.",
+        "abstract": "BACKGROUND: The \"public charge\" rule assesses whether an immigrant to the U.S. is likely to become dependent on government assistance, particularly for potential use of cash-benefit programs or long-term institutionalization at government expense. Being deemed a public charge can make an applicant for legal status inadmissible. Although the rule applies to specific immigration determinations, its effects may impact health outcomes. This systematic review synthesized evidence on public charge policy and health-related outcomes among U.S. Latino populations.\nMETHODS: Following PRISMA guidelines and a PROSPERO-registered protocol (CRD42024507861), we searched PubMed, Web of Science, and Scopus for peer-reviewed studies published in English or Spanish from January 1996 through February 20, 2026. Eligible studies included U.S.-based Latino populations, examined the public charge rule as exposure, and reported health-related outcomes, health behaviors, healthcare access, or use of health or social programs. Two reviewers independently screened titles and abstracts, with disagreements resolved by consensus and, when needed, a third reviewer. Data were extracted using a standardized PECO-based form and narratively synthesized.\nRESULTS: Of 157 citations identified, 19 studies met inclusion criteria. Studies examined program utilization and access (n = 13, 68%), maternal health (n = 4, 21%), or both domains (n = 2, 10%). Nearly all used cross-sectional designs (n = 18, 95%); 9 used qualitative and 10 quantitative data. Across studies, fear, misinformation, and concerns about immigration and legal consequences were the most consistent barriers to nutrition assistance programs, healthcare, Medicaid, and government-funded perinatal services. During the policy changes briefly implemented in 2018, Latino children with medical needs had the highest estimated risk of losing Medicaid, CHIP, or nutrition assistance benefits (79.8%; 95% CI, 74.4%-85.1%). Among likely undocumented Latino patients, self-pay emergency department visits increased after the 2018 proposed rule expansion. Maternal health studies documented delayed perinatal care, reduced Medicaid-funded prenatal care initiation, higher odds of preterm birth, and lower birth weights.\nCONCLUSIONS: The public charge policy may function as a structural determinant of health for Latino families by discouraging the use of safety-net programs, including among eligible individuals. Additional research is needed to assess downstream health consequences, reduce misinformation, strengthen trusted communication, and protect access to healthcare and social welfare programs.",
+        "journal": "International journal for equity in health",
+        "authors": [
+          "Alondra Zamora",
+          "Daniel Smith",
+          "Erin P Ferranti",
+          "Liliana Aguayo",
+          "Lori Modly",
+          "Solveig A Cunningham"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-08-24T00:00:00.000Z",
+        "activityAt": "2026-11-19T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43053021/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 11.25,
+          "recency": 10,
+          "total": 96.25,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "“公共负担”规则背景下美国拉丁裔人群的营养援助项目参与、医疗可及性与围产健康：一项系统综述",
+          "researchQuestion": "综合关于“公共负担”（public charge）政策与美国拉丁裔人群健康相关结局之间关系的证据。",
+          "studyDesign": "系统综述；遵循PRISMA指南，方案已在PROSPERO注册（CRD42024507861），采用叙述性综合。",
+          "populationAndSample": "检索PubMed、Web of Science和Scopus，纳入1996年1月至2026年2月20日期间以英文或西班牙文发表的同行评议研究；纳入标准为美国拉丁裔人群、以公共负担规则为暴露、报告健康相关结局、健康行为、医疗可及性或健康/社会项目使用情况。初检获得157条引文，19项研究符合纳入标准。",
+          "methods": "由两名评价者独立筛选标题和摘要，分歧通过共识解决，必要时由第三名评价者裁定；使用基于PECO的标准化表格提取数据，并进行叙述性综合。",
+          "keyResults": "纳入研究考察项目利用与可及性（n=13，68%）、孕产妇健康（n=4，21%）或两者兼有（n=2，10%）。几乎所有研究为横断面设计（n=18，95%）；9项使用定性数据，10项使用定量数据。总体而言，恐惧、错误信息以及对移民和法律后果的担忧是营养援助项目、医疗服务、Medicaid和政府资助围产服务利用的最一致障碍。在2018年短暂实施的政策变化期间，有医疗需求的拉丁裔儿童估计失去Medicaid、CHIP或营养援助福利的风险最高（79.8%；95% CI：74.4%–85.1%）。在可能为无证身份的拉丁裔患者中，2018年拟议规则扩展后自费急诊就诊增加。孕产妇健康研究记录了围产期照护延迟、Medicaid资助的产前保健启动减少、早产几率升高和出生体重降低。",
+          "limitations": "纳入研究几乎全部为横断面设计（n=18，95%），证据以叙述性方式综合；作者指出仍需进一步研究评估下游健康后果。摘要未报告其他具体局限性。",
+          "clinicalInterpretation": "作者认为，公共负担政策可能通过抑制安全网项目（包括合格人群）的使用，成为拉丁裔家庭健康的结构性决定因素；这些为观察性证据，不构成因果推断。作者建议减少错误信息、加强可信沟通并保护医疗和社会福利项目可及性，属研究层面建议。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "7ed2c3cfcc425f34096c3479b38a119ae4e80b916ddda19ca95b879f68e58982"
+      },
+      {
+        "id": "pmid:43052744",
+        "pmid": "43052744",
+        "doi": "10.1186/s12871-026-04239-3",
+        "title": "Effect of low-dose esketamine on quality of recovery after gynecologic laparoscopic surgery: a randomized controlled trial.",
+        "abstract": "BACKGROUND: Although low-dose esketamine has shown analgesic benefits, its effect on the quality of recovery after gynecologic laparoscopy remains unclear.\nMETHODS: In this double-blind randomized controlled trial, 140 adults with ASA I-II and a BMI of 18.5-30 kg/m² undergoing elective gynecologic laparoscopy (hysterectomy, myomectomy, or ovarian cystectomy) were randomly assigned to Group E (esketamine group) or Group C (control group). Patients in Group E received 0.25 mg/kg esketamine bolus after anesthesia induction followed by a continuous infusion of 0.1 mg/kg/h until 15 min before the end of surgery, whereas those in Group C received an equal volume of normal saline. The primary outcome was the total score on the Quality of Recovery-40 questionnaire (QoR-40) at 24 h postoperatively. Secondary outcomes included Numeric Rating Scale (NRS) scores at rest and during activity at 0, 6, 12, and 24 h postoperatively, tracheal extubation time, rescue analgesic consumption, and the incidences of nausea, vomiting, dizziness, and nightmares.\nRESULTS: Group E had significantly higher global QoR-40 scores than Group C at 24 h postoperatively (adjusted mean difference 2.30, 95% CI 0.21 to 4.39; P = 0.034). Pain scores at rest and during activity were lower in Group E at 6 h (rest: mean (SD), 2.28 (1.69) vs. 3.01 (2.09), P = 0.025; activity: 3.03 (1.80) vs. 3.81 (2.08), P = 0.020) and 24 h (rest: 1.88 (1.30) vs. 2.29 (1.32), P = 0.045; activity: 2.56 (1.43) vs. 3.16 (1.60), P = 0.022), but were comparable between groups at 0 h and 12 h. The incidence of dizziness was significantly higher in Group E than in Group C during the PACU period (23.5% vs. 8.7%; risk difference (RD) 14.8%, 95% CI 2.8% to 26.9%; P = 0.033). However, this difference resolved by 24 h postoperatively (25.0% vs. 23.2%; P = 0.962), and no significant differences were observed in other secondary outcomes.\nCONCLUSIONS: Low-dose esketamine was associated with a statistically higher QoR-40 score, but the magnitude was below the Minimum Clinically Important Difference (MCID) and therefore may not represent a clinically meaningful improvement in gynecologic laparoscopy.\nTRIAL REGISTRATION: The trial was registered at the Chinese Clinical Trials Registry ( www.chictr.org.cn , registration number: ChiCTR2300072538, date of registration: 16/06/2023).",
+        "journal": "BMC anesthesiology",
+        "authors": [
+          "Chen Chen",
+          "Hongqin Li",
+          "Wenli He",
+          "Xinhai Wu",
+          "Yanling Wei",
+          "Yanze Li",
+          "Ying Shan"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-09-11T00:00:00.000Z",
+        "activityAt": "2026-11-19T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43052744/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "minimally-invasive-surgery"
+        ],
+        "assignedTopicId": "minimally-invasive-surgery",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 7.5,
+          "recency": 10,
+          "total": 91.25,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "小剂量艾司氯胺酮对妇科腹腔镜手术后恢复质量的影响：一项随机对照试验",
+          "researchQuestion": "小剂量艾司氯胺酮能否改善妇科腹腔镜手术后的恢复质量（以术后24小时QoR-40总分为主要结局）？",
+          "studyDesign": "双盲随机对照试验；已于中国临床试验注册中心注册（ChiCTR2300072538，注册日期2023年6月16日）。",
+          "populationAndSample": "140名ASA I–II级、BMI 18.5–30 kg/m²、接受择期妇科腹腔镜手术（子宫切除术、子宫肌瘤剔除术或卵巢囊肿切除术）的成人患者，随机分为E组（艾司氯胺酮组）和C组（对照组）。",
+          "methods": "E组在麻醉诱导后给予艾司氯胺酮0.25 mg/kg负荷，随后以0.1 mg/kg/h持续输注至手术结束前15分钟；C组给予等量生理盐水。主要结局为术后24小时恢复质量-40问卷（QoR-40）总分。次要结局包括术后0、6、12、24小时静息和活动时的数字评分量表（NRS）疼痛评分、气管拔管时间、补救镇痛药用量，以及恶心、呕吐、头晕和噩梦的发生率。",
+          "keyResults": "E组术后24小时QoR-40总体得分显著高于C组（校正后的平均差值为2.30，95% CI：0.21–4.39；P=0.034）。E组在术后6小时（静息：2.28（1.69）vs 3.01（2.09），P=0.025；活动：3.03（1.80）vs 3.81（2.08），P=0.020）和24小时（静息：1.88（1.30）vs 2.29（1.32），P=0.045；活动：2.56（1.43）vs 3.16（1.60），P=0.022）的疼痛评分较低，但0小时和12小时两组相当。PACU期间E组头晕发生率显著高于C组（23.5% vs 8.7%；风险差14.8%，95% CI：2.8%–26.9%；P=0.033）；但该差异至术后24小时已消失（25.0% vs 23.2%；P=0.962），其他次要结局未见显著差异。",
+          "limitations": "QoR-40改善幅度低于最小临床重要差异（MCID），因此可能不代表具有临床意义的改善。摘要未报告其他具体局限性。",
+          "clinicalInterpretation": "在妇科腹腔镜手术患者中，小剂量艾司氯胺酮与术后24小时QoR-40评分出现统计学显著升高相关，但幅度低于MCID，作者认为这未必构成临床有意义的恢复改善；同时PACU期间头晕发生率较高。该结果来自单篇随机对照试验，不构成临床用药指南或指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "eff9b581cf46cfc5835361ce497fa115e4ea479832defdd4cd1827f52c144ff0"
+      }
+    ]
+  }
+}
