@@ -1,0 +1,280 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-11-21T00:56:11.170Z",
+    "dataAsOf": "2026-11-21T00:56:11.170Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及新辅助化疗加手术对比放化疗治疗局部晚期宫颈癌、产前中等强度与低强度运动后的状态焦虑和特质焦虑：一项随机试验的二次分析、移动短信咨询对妊娠期糖尿病知识和自我效能的影响：一项随机试验。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:43061917",
+        "pmid": "43061917",
+        "doi": "10.1002/14651858.cd014684.pub2",
+        "title": "Neoadjuvant chemotherapy and surgery versus chemoradiotherapy for locally advanced cervical cancer.",
+        "abstract": "RATIONALE: Chemoradiotherapy (CRT) is the primary treatment for locally advanced cervical cancer (LACC). However, CRT is associated with high toxicity, and access to radiotherapy infrastructure remains limited or unavailable in some settings globally. Neoadjuvant chemotherapy (NACT) followed by radical surgery has therefore been proposed as an alternative to CRT, but the evidence regarding its efficacy and toxicity compared to CRT remains unclear.\nOBJECTIVES: To compare NACT followed by radical surgery versus CRT for LACC.\nSEARCH METHODS: We searched CENTRAL, MEDLINE, Embase, and ClinicalTrials.gov up to 20 May 2026, with no date or language restrictions. We also searched the reference lists of included studies and contacted experts in the field.\nELIGIBILITY CRITERIA: We included randomised controlled trials (RCTs) in women with LACC (FIGO 2018 stage IB3/IIA2/IIB/IIIA-C/IVA) comparing NACT followed by radical surgery to CRT. We excluded non-randomised studies.\nOUTCOMES: Our critical outcomes were overall survival, disease-free survival, and progression-free survival. Important outcomes included recurrence, acute and late toxicity, and quality of life.\nRISK OF BIAS: We assessed risk of bias in the included studies using Cochrane's RoB 1 tool.\nSYNTHESIS METHODS: We performed a random-effects meta-analysis using the inverse-variance method. We assessed the certainty of evidence using the GRADE approach.\nINCLUDED STUDIES: Three RCTs (from four reports), with a total of 1326 women, reported on the outcomes of interest and were included in the meta-analysis.\nSYNTHESIS OF RESULTS: NACT + radical surgery may result in little to no difference in five-year overall survival compared to CRT (hazard ratio (HR) 1.11, 95% confidence interval (CI) 0.90 to 1.36; I² = 0%; 2 studies, 1259 participants; low-certainty evidence). The evidence is very uncertain for five-year disease-free survival (HR 1.28, 95% CI 0.97 to 1.69; 1 study, 635 participants; very low-certainty evidence) and five-year progression-free survival (HR 1.37, 95% CI 1.07 to 1.75; 1 study, 626 participants; very low-certainty evidence). NACT + radical surgery probably increases grade ≥ 3 acute toxicity (risk ratio (RR) 1.82, 95% CI 1.45 to 2.29; I² = 0%; 2 studies, 1224 participants; moderate-certainty evidence). The evidence is very uncertain for grade ≥ 3 late toxicity (RR 0.71, 95% CI 0.50 to 1.01; 1 study, 591 participants; very low-certainty evidence). NACT + radical surgery may result in little to no difference in quality of life after 24 months compared to CRT (mean difference 0.48, 95% CI -4.35 to 5.31; I² = 0%; 2 studies, 239 participants; low-certainty evidence). The certainty of evidence ranged from very low to moderate, downgraded primarily due to risk of bias, indirectness, and imprecision.\nAUTHORS: The current evidence does not support NACT followed by radical surgery as an alternative to CRT for LACC. While five-year overall survival may be comparable between treatments, the evidence is very uncertain for disease-free and progression-free survival, while severe acute toxicity is probably increased. Quality of life appears similar between treatments. The evidence is very uncertain about the effect on severe late toxicity, given the limited evidence base, older radiotherapy techniques used, and high cross-over rates in the included studies. CRT remains the standard of care where high-quality radiotherapy is available; where it is not, the evidence remains insufficient to recommend NACT followed by radical surgery as an alternative.\nFUNDING: No external funding was received for this review.\nREGISTRATION: doi: 10.1002/14651858.CD014684.",
+        "journal": "The Cochrane database of systematic reviews",
+        "authors": [
+          "Amy Macdonald Shearer",
+          "Antonios Athanasiou",
+          "Evangelos Paraskevaidis",
+          "Laura Burney Ellis",
+          "Maria Kyrgiou",
+          "Sarah J Bowden",
+          "T S Shylasree",
+          "Won-Ho Park"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-11-20T00:00:00.000Z",
+        "activityAt": "2026-11-20T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43061917/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "新辅助化疗加手术对比放化疗治疗局部晚期宫颈癌",
+          "researchQuestion": "在局部晚期宫颈癌（LACC）女性中，新辅助化疗（NACT）后根治性手术与放化疗（CRT）相比，疗效和毒性如何？",
+          "studyDesign": "Cochrane系统综述与随机对照试验（RCT）的随机效应Meta分析。",
+          "populationAndSample": "纳入3项RCT（4篇报告），共1326名LACC女性，FIGO 2018分期为IB3/IIA2/IIB/IIIA-C/IVA；比较NACT后根治性手术与CRT。",
+          "methods": "检索CENTRAL、MEDLINE、Embase和ClinicalTrials.gov至2026年5月20日，无日期或语言限制；同时检索纳入研究的参考文献并联系领域专家。纳入RCT，排除非随机研究。使用Cochrane RoB 1工具评估偏倚风险，采用逆方差法进行随机效应Meta分析，并用GRADE评估证据确定性。关键结局为总生存、无病生存和无进展生存；重要结局包括复发、急性和晚期毒性及生活质量。",
+          "keyResults": "与CRT相比，NACT+根治性手术对5年总生存可能几乎无差异（HR 1.11，95%CI 0.90-1.36；I²=0%；2项研究，1259名参与者；低确定性证据）。5年无病生存的证据非常不确定（HR 1.28，95%CI 0.97-1.69；1项研究，635名参与者；极低确定性证据）；5年无进展生存的证据也非常不确定（HR 1.37，95%CI 1.07-1.75；1项研究，626名参与者；极低确定性证据）。NACT+根治性手术可能增加≥3级急性毒性（RR 1.82，95%CI 1.45-2.29；I²=0%；2项研究，1224名参与者；中等确定性证据）。≥3级晚期毒性的证据非常不确定（RR 0.71，95%CI 0.50-1.01；1项研究，591名参与者；极低确定性证据）。与CRT相比，NACT+根治性手术在24个月后的生活质量可能几乎无差异（均数差0.48，95%CI -4.35至5.31；I²=0%；2项研究，239名参与者；低确定性证据）。证据确定性从极低到中等不等，主要因偏倚风险、间接性和不精确性而降级。",
+          "limitations": "证据确定性范围为极低至中等，主要因偏倚风险、间接性和不精确性降级。作者指出，严重晚期毒性方面的证据非常不确定，原因包括证据基础有限、纳入研究使用较旧的放疗技术以及较高的交叉率。",
+          "clinicalInterpretation": "作者认为，当前证据不支持将NACT后根治性手术作为LACC中CRT的替代方案：5年总生存可能相近，但无病生存和无进展生存的证据非常不确定，严重急性毒性可能增加，生活质量看起来相似。作者指出，在高质量放疗可及的情况下CRT仍为标准治疗；在放疗不可及的情况下，证据不足以推荐NACT后根治性手术作为替代。该结论来自单篇系统综述，不构成指南或临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "9eae3d3f27700c484cd092ea44dac3d13ef73f12f073c45253c7d57554a9fc91"
+      },
+      {
+        "id": "pmid:43050021",
+        "pmid": "43050021",
+        "doi": "10.1007/s00737-026-01786-z",
+        "title": "State and trait anxiety following prenatal moderate- versus light-intensity exercise: a secondary analysis of a randomized trial.",
+        "abstract": "PURPOSE: Prenatal anxiety may increase as pregnancy progresses, yet little is known about longitudinal patterns of state and trait anxiety among pregnant individuals participating in exercise interventions of differing intensities. This study examined state and trait anxiety across late pregnancy among pregnant individuals with obesity randomized to moderate-intensity walking or light-intensity stretching and explored associations between changes in anxiety and gestational hypertension.\nMETHODS: This secondary analysis used data from the Prenatal Heart Smart randomized trial. Seventy-six pregnant individuals with obesity completed the State-Trait Anxiety Inventory (STAI) at approximately 28, 32, and 37 weeks' gestation after randomization to moderate-intensity walking (n = 42) or light-intensity stretching (n = 34). Linear mixed-effects models compared state and trait anxiety between intervention groups at the two follow-up assessments, accounting for baseline anxiety and repeated measurements. Because no significant intervention-group differences were observed, groups were combined to examine changes in anxiety across late pregnancy using paired t-tests. Exploratory analyses examined associations between anxiety change scores and gestational hypertension.\nRESULTS: State and trait anxiety did not differ significantly between the walking and stretching groups at either follow-up assessment (all p ≥ .38). Despite previous evidence that anxiety may increase during late pregnancy, both state and trait anxiety remained relatively stable from approximately 28 to 37 weeks' gestation. Mean state anxiety scores were 30.0, 29.6, and 29.6 across the three assessments, respectively, while mean trait anxiety scores were 31.1, 32.1, and 30.4; neither measure changed significantly over time (all p ≥ .19). Exploratory analyses identified no significant associations between changes in anxiety and gestational hypertension after covariate adjustment. The small number of preeclampsia cases precluded analysis.\nCONCLUSIONS: State and trait anxiety remained stable across late pregnancy among pregnant individuals with obesity participating in either moderate-intensity walking or light-intensity stretching, with no significant differences in anxiety outcomes between intervention groups. The stability of both situational and dispositional dimensions of anxiety across the third trimester adds to limited longitudinal evidence on prenatal anxiety during structured exercise participation. Because both groups received active exercise interventions and baseline anxiety was relatively low, the observed stability cannot be attributed to exercise. Studies including non-exercise comparison groups and participants with greater baseline anxiety are needed to determine whether exercise modality or intensity contributes to the maintenance of psychological well-being during late pregnancy.",
+        "journal": "Archives of women's mental health",
+        "authors": [
+          "Alexander Pomeroy",
+          "Elizabeth Williams",
+          "Jamie Crandell",
+          "Jeongok Logan",
+          "Lauren Hicks",
+          "SeonAe Yeo"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-11-18T00:00:00.000Z",
+        "activityAt": "2026-11-18T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43050021/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 7.5,
+          "total": 96.25,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "产前中等强度与低强度运动后的状态焦虑和特质焦虑：一项随机试验的二次分析",
+          "researchQuestion": "在肥胖孕妇中，随机分配至中等强度步行或低强度拉伸后，晚孕期状态焦虑和特质焦虑的纵向模式如何？焦虑变化与妊娠期高血压是否存在关联？",
+          "studyDesign": "随机对照试验的二次分析。",
+          "populationAndSample": "来自Prenatal Heart Smart随机试验的76名肥胖孕妇；随机分配至中等强度步行组（n=42）或低强度拉伸组（n=34）；在约28、32和37周妊娠时完成状态-特质焦虑量表（STAI）。",
+          "methods": "使用线性混合效应模型比较两个随访时点的状态焦虑和特质焦虑，并调整基线焦虑和重复测量。因未观察到显著的干预组间差异，将两组合并，使用配对t检验检查晚孕期焦虑变化。探索性分析检查焦虑变化评分与妊娠期高血压之间的关联。",
+          "keyResults": "在两个随访时点，步行组与拉伸组的状态焦虑和特质焦虑均无显著差异（所有p≥0.38）。尽管既往证据提示晚孕期焦虑可能增加，但本研究中状态焦虑和特质焦虑从约28周至37周妊娠保持相对稳定。三次评估的平均状态焦虑评分分别为30.0、29.6和29.6；平均特质焦虑评分分别为31.1、32.1和30.4；两项指标随时间均无显著变化（所有p≥0.19）。探索性分析在协变量调整后未发现焦虑变化与妊娠期高血压之间存在显著关联。子痫前期病例数少，无法进行分析。",
+          "limitations": "两组均接受了主动运动干预，且基线焦虑相对较低，因此观察到的焦虑稳定性不能归因于运动。子痫前期病例数少，无法分析。作者指出需要纳入非运动对照组和基线焦虑更高参与者的研究，以确定运动方式或强度是否有助于维持晚孕期心理健康。",
+          "clinicalInterpretation": "在参与中等强度步行或低强度拉伸的肥胖孕妇中，晚孕期状态焦虑和特质焦虑保持稳定，两个干预组之间焦虑结局无显著差异。但该研究不能说明运动方式或强度对焦虑的作用，也不能将稳定性归因于运动；相关发现需在设置非运动对照和更高基线焦虑人群的研究中进一步验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "312a5f3da47f4d5a35596576cf590591912641a93d6a70921e50a76875682088"
+      },
+      {
+        "id": "pmid:43050600",
+        "pmid": "43050600",
+        "doi": "10.1590/1980-220x-reeusp-2026-0014en",
+        "title": "The effect of mobile text messaging counseling on knowledge and self-efficacy in gestational diabetes: a randomized trial.",
+        "abstract": "OBJECTIVE: To examine the effect of mobile text messaging counseling on diabetes knowledge and self-efficacy in gestational diabetes.\nMETHOD: This randomized controlled trial included 95 pregnant women with gestational diabetes mellitus (GDM) at a university hospital in Türkiye. Participants received either structured Short Message Service (SMS)-based counseling plus routine care or routine care alone. The Gestational Diabetes Self-Efficacy Scale and Diabetes Knowledge Scale were administered at baseline and after 12 weeks.\nRESULTS: Baseline characteristics were comparable except for age. At 12 weeks, the intervention group had significantly higher diabetes knowledge and self-efficacy scores than the control group (p < 0.05). Post-intervention diabetes knowledge was moderately associated with self-efficacy (r = 0.53, p < 0.001).\nCONCLUSION: SMS-based counseling was associated with greater diabetes knowledge and self-efficacy among women with GDM and may support self-management during pregnancy.",
+        "journal": "Revista da Escola de Enfermagem da U S P",
+        "authors": [
+          "Melike Yalçın Gürsoy",
+          "Mustafa Aydemir",
+          "Nurten Vicdan",
+          "Sabriye Uçan Yamaç"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-11-16T00:00:00.000Z",
+        "activityAt": "2026-11-18T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43050600/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 7.5,
+          "total": 96.25,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "移动短信咨询对妊娠期糖尿病知识和自我效能的影响：一项随机试验",
+          "researchQuestion": "基于移动短信的咨询对妊娠期糖尿病（GDM）女性的糖尿病知识和自我效能有何影响？",
+          "studyDesign": "随机对照试验。",
+          "populationAndSample": "土耳其一家大学医院的95名妊娠期糖尿病孕妇。",
+          "methods": "参与者接受结构化短信服务（SMS）咨询加常规护理，或仅接受常规护理。在基线和12周后使用妊娠期糖尿病自我效能量表和糖尿病知识量表进行评估。",
+          "keyResults": "除年龄外，基线特征具有可比性。12周时，干预组的糖尿病知识和自我效能评分显著高于对照组（p<0.05）。干预后糖尿病知识与自我效能呈中度关联（r=0.53，p<0.001）。",
+          "limitations": "摘要未报告局限性。该研究为单中心、样本量95、随访12周的随机试验；摘要未报告盲法、脱落情况或长期结局。",
+          "clinicalInterpretation": "在GDM女性中，基于SMS的咨询与更高的糖尿病知识和自我效能相关，可能支持孕期自我管理。该结果为单中心短期随机试验，不能据此改写临床指南或直接推广为常规指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "11e88d28f84ed3168a537877bb8bbc57781481871ae971dacb8442609c7e2b74"
+      },
+      {
+        "id": "pmid:43058872",
+        "pmid": "43058872",
+        "doi": "10.1186/s13048-026-02209-4",
+        "title": "Phase IB trial of the BMI-1 inhibitor unesbulin plus neoadjuvant paclitaxel-carboplatin in advanced ovarian cancer.",
+        "abstract": "OBJECTIVES OR BACKGROUND: Preclinical studies with BMI-1 inhibitor Unesbulin (PTC596) demonstrated enhanced anti-cancer activity. This trial was designed to evaluate the safety, pharmacokinetics (PK), preliminary efficacy, and recommended phase 2 dose (RP2D) of Unesbulin combined with Paclitaxel (P) and Carboplatin (C) in advanced OC.\nMETHODS: The trial utilized a 3 + 3 design to determine the safety, maxium tolerated dose (MTD), and RP2D of Unesbulin + paclitaxel and carbplatin (PC) for 3 cycles, followed by surgery and 3-7 cycles of Unesbulin + PC. Blood samples were collected to estimate PK parameters. RNA was extracted and analyzed from pre- and post-therapy tumor samples.\nRESULTS: Unesbulin tablets were escalated up to 300 mg po twice weekly with PC with no DLTs. The most commonly reported treatment emergent adverse events (TEAEs) were those associated with PC and included nausea and fatigue (48%), neutropenia (44%), vomiting (36%), diarrhea (28%) and anemia (20%). Most common grade 3 or higher TEAE included neutropenia (40%) and neutropenic fever (12%). Among 18 patients with measurable disease, the objective response rate before surgery was 61%. Unesbulin was detectable post-dose through 96 h, reaching T max at 4 h. C max and AUC 0-24 h increased with the dose. RNA expression analysis revealed increased mitochondrial dysfunction, Granzyme A signaling, sirtuin signaling, antigen processing, and a concomitant decrease in oxidative phosphorylation (OP), complex I biogenesis, and NET signaling.\nCONCLUSION: The study demonstrates that unesbulin + PC is feasible and safe. Exploratory data showed the critical role of BMI-1 in regulating cellular bioenergetics and modulating the immune response, supporting BMI-1 inhibition as a potential therapeutic strategy. Dose escalation was halted based on the sponsor's declaration of 300 mg PO twice weekly as the optimal combination dose, and the expansion cohort was not enrolled due to the company's de-prioritization of the asset.\nTRIAL REGISTRATION: This trial is registered with ClinicalTrials.gov, NCT03206645, on 2017-07-02.",
+        "journal": "Journal of ovarian research",
+        "authors": [
+          "Andrew J Cohoon",
+          "Anindya Dey",
+          "Camille Gunderson Jackson",
+          "Debra L Richardson",
+          "James D Lausen",
+          "Joan L Walker",
+          "John D Baird",
+          "Kai Ding",
+          "Katherine M Moxley",
+          "Kathleen N Moore",
+          "Lan Gao",
+          "Laura L Holman",
+          "Mandar Dali",
+          "Marla Weetall",
+          "Resham Bhattacharya",
+          "Robert S Mannel",
+          "Shailendra Kumar Dhar Dwivedi",
+          "Yue Jin Wen"
+        ],
+        "publicationTypes": [
+          "Clinical Trial, Phase I",
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-25T00:00:00.000Z",
+        "activityAt": "2026-11-20T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43058872/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 21.25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 96.25,
+          "evidenceRank": 0.85
+        },
+        "summaryZh": {
+          "titleZh": "BMI-1抑制剂unesbulin联合新辅助紫杉醇-卡铂治疗晚期卵巢癌的IB期试验",
+          "researchQuestion": "在晚期卵巢癌（OC）中，BMI-1抑制剂unesbulin联合紫杉醇和卡铂（PC）的安全性、药代动力学（PK）、初步疗效及推荐II期剂量（RP2D）如何？",
+          "studyDesign": "IB期临床试验，采用3+3剂量递增设计。",
+          "populationAndSample": "晚期卵巢癌患者；其中18例有可测量疾病用于术前客观缓解率评估。",
+          "methods": "采用3+3设计确定unesbulin联合PC的安全性、最大耐受剂量（MTD）和RP2D；联合治疗3个周期后手术，术后再接受3-7个周期unesbulin+PC。采集血样估计PK参数；从治疗前后肿瘤样本中提取RNA并分析。",
+          "keyResults": "unesbulin片剂与PC联用时剂量递增至300 mg口服、每周两次，未出现剂量限制性毒性（DLT）。最常见治疗中出现的不良事件（TEAE）与PC相关，包括恶心和乏力（48%）、中性粒细胞减少（44%）、呕吐（36%）、腹泻（28%）和贫血（20%）。最常见的≥3级TEAE包括中性粒细胞减少（40%）和中性粒细胞减少性发热（12%）。在18例可测量疾病患者中，术前客观缓解率为61%。unesbulin在给药后至96小时可检测到，Tmax为4小时；Cmax和AUC0-24h随剂量增加。RNA表达分析显示线粒体功能障碍、Granzyme A信号、sirtuin信号、抗原处理增加，同时氧化磷酸化（OP）、复合物I生物发生和NET信号下降。",
+          "limitations": "该研究为IB期、小样本、单臂剂量递增试验，安全性和疗效为初步结果。剂量递增因申办方宣布300 mg口服每周两次为最佳联合剂量而停止，扩展队列因公司对该资产去优先而未入组。",
+          "clinicalInterpretation": "该IB期试验提示unesbulin联合PC在晚期卵巢癌中可行且安全，术前客观缓解率为61%属探索性初步疗效；RNA分析提示BMI-1在细胞生物能量学和免疫调节中的作用。这些结果尚不足以改变临床实践，需进一步试验验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "6811c003329a208426d6fb9c30ffc105b40da541504bf562df685fb3271353c3"
+      },
+      {
+        "id": "pmid:43058580",
+        "pmid": "43058580",
+        "doi": "10.1186/s12885-026-16725-5",
+        "title": "Development and internal validation of a predictive model for thrombocytopenia in cervical cancer patients undergoing concurrent chemoradiotherapy.",
+        "abstract": "BACKGROUND: Concurrent chemoradiotherapy (CCRT) enhances treatment efficacy in cervical cancer compared with radiotherapy alone but increases the risk of thrombocytopenia. This adverse effect has become a leading cause of dose reduction, treatment delays, and premature termination of CCRT, ultimately compromising patient survival. This study aimed to develop a simple and reliable model for pretherapeutic prediction of thrombocytopenia risk in patients undergoing CCRT.\nMETHODS: We retrospectively reviewed 146 cervical cancer patients treated with CCRT at the Cancer Hospital, Chinese Academy of Medical Sciences, Shenzhen Center, between April 2019 and September 2022. Patients were stratified into a thrombocytopenia group (n = 64) and a non-thrombocytopenia group (n = 82). Predictor variables were selected using least absolute shrinkage and selection operator (LASSO) regression, followed by multivariable logistic regression analysis. Internal validation was performed via bootstrap resampling.\nRESULTS: Chemotherapy regimen, extended-field radiotherapy, body mass index (BMI), baseline platelet count (PLT), and the percentage of bone marrow volume receiving ≥ 25 Gy (BM_V25) were identified as independent predictors of thrombocytopenia. The predictive model demonstrated good discrimination (area under the curve [AUC] = 0.840; 95% confidence interval [CI], 0.773-0.904) and calibration (Brier score = 0.162; 95% CI, 0.128-0.195). Decision curve analysis confirmed its clinical utility. After internal validation, the model maintained good performance (AUC = 0.817; Brier score = 0.176).\nCONCLUSION: We developed and internally validated a predictive model based on clinical and dosimetric factors that enables early effectively identification of cervical cancer patients at high risk of thrombocytopenia during CCRT, facilitating individualized treatment planning.",
+        "journal": "BMC cancer",
+        "authors": [
+          "Jianghu Zhang",
+          "Junfang Liao",
+          "Ling Lei",
+          "Renba Liang",
+          "Zhijian Chen"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Validation Study"
+        ],
+        "publishedAt": "2026-08-25T00:00:00.000Z",
+        "activityAt": "2026-11-20T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43058580/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 17.5,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 92.5,
+          "evidenceRank": 0.7
+        },
+        "summaryZh": {
+          "titleZh": "同步放化疗宫颈癌患者血小板减少预测模型的开发与内部验证",
+          "researchQuestion": "能否基于临床和剂量学因素开发一个简单可靠的模型，在治疗前预测接受同步放化疗（CCRT）的宫颈癌患者发生血小板减少的风险？",
+          "studyDesign": "回顾性预测模型开发与内部验证研究。",
+          "populationAndSample": "2019年4月至2022年9月在中国医学科学院肿瘤医院深圳中心接受CCRT的146例宫颈癌患者；分为血小板减少组（n=64）和非血小板减少组（n=82）。",
+          "methods": "回顾性审查146例接受CCRT的宫颈癌患者。使用最小绝对收缩和选择算子（LASSO）回归选择预测变量，随后进行多因素logistic回归分析；通过bootstrap重采样进行内部验证。",
+          "keyResults": "化疗方案、扩大野放疗、体重指数（BMI）、基线血小板计数（PLT）以及接受≥25 Gy的骨髓体积百分比（BM_V25）被确定为血小板减少的独立预测因素。预测模型显示出良好的区分度（AUC=0.840；95%CI 0.773-0.904）和校准度（Brier评分=0.162；95%CI 0.128-0.195）。决策曲线分析确认其临床效用。内部验证后，模型仍保持良好性能（AUC=0.817；Brier评分=0.176）。",
+          "limitations": "该研究为单中心回顾性研究，样本量146例，仅进行内部验证（bootstrap），未报告外部验证；摘要未报告其他局限性。",
+          "clinicalInterpretation": "基于临床和剂量学因素开发的模型在内部验证中表现出良好区分度和校准度，可能有助于早期识别CCRT期间血小板减少高风险的宫颈癌患者，以支持个体化治疗计划。但该模型仅经过内部验证，尚不能直接用于其他人群或临床决策，需外部验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "f137775228a08c22968c67245de36957c1aee866b118f1e6c62392da74caf575"
+      }
+    ]
+  }
+}
