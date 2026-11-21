@@ -7,8 +7,8 @@
   "editor_note": "过去24小时暂无符合质量要求的重要更新。",
   "keywords": [],
   "research": {
-    "generatedAt": "2026-11-21T22:18:37.940Z",
-    "dataAsOf": "2026-11-21T22:18:37.940Z",
+    "generatedAt": "2026-11-21T23:02:42.634Z",
+    "dataAsOf": "2026-11-21T23:02:42.634Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及辅助生殖中单一与联合标准精子分离技术：系统综述与荟萃分析、用于子宫内膜异位症诊断的可解释机器学习模型：一项回顾性开发与验证研究、妊娠期Q热母亲所生婴儿的管理。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
@@ -41,15 +41,6 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 100,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "辅助生殖中单一与联合标准精子分离技术：系统综述与荟萃分析",
           "researchQuestion": "比较P-SU、D-SU和DGC分别与DGC/P-SU联合方案在精子总数、精子浓度、活力、形态、DNA碎片、受精率、妊娠率和活产率方面的差异。",
@@ -61,7 +52,16 @@
           "clinicalInterpretation": "本荟萃分析仅识别出技术间较小差异，现有数据不足以支持对单一或联合精子分离技术作出稳健临床推荐；需要进一步比较研究。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "b0cf8c9a9820eb880b30f6a8ecdde686f6431a703558266d695b21309d660378"
+        "summaryInputHash": "b0cf8c9a9820eb880b30f6a8ecdde686f6431a703558266d695b21309d660378",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:43065352",
@@ -87,15 +87,6 @@
         "matchedTopicIds": [
           "endometriosis-benign-gynecology"
         ],
-        "assignedTopicId": "endometriosis-benign-gynecology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 17.5,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 92.5,
-          "evidenceRank": 0.7
-        },
         "summaryZh": {
           "titleZh": "用于子宫内膜异位症诊断的可解释机器学习模型：一项回顾性开发与验证研究",
           "researchQuestion": "基于常见临床特征开发并验证用于诊断子宫内膜异位症的机器学习模型，为临床筛查和早期诊断提供参考。",
@@ -107,7 +98,16 @@
           "clinicalInterpretation": "基于基本人口学信息、临床特征和实验室指标构建机器学习模型检测子宫内膜异位症是可行路径，并显示较好性能；但受样本量和内部验证限制，尚不能据此形成临床筛查或诊断指令。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "5d6dfbe32df63e79c54e3ef3462ddbeeec4047284429a0bec67d35d1a7a44fc0"
+        "summaryInputHash": "5d6dfbe32df63e79c54e3ef3462ddbeeec4047284429a0bec67d35d1a7a44fc0",
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 17.5,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 92.5,
+          "evidenceRank": 0.7
+        }
       },
       {
         "id": "pmid:43052046",
@@ -243,15 +243,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 10,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 85,
-          "evidenceRank": 0.4
-        },
         "summaryZh": {
           "titleZh": "5070例波兰非肿瘤外显子组中遗传性乳腺癌和卵巢癌易感基因的次要发现",
           "researchQuestion": "在非肿瘤临床全外显子组测序样本中评估遗传性乳腺癌和/或卵巢癌易感基因的致病/可能致病发现频率和基因分布。",
@@ -263,7 +254,16 @@
           "clinicalInterpretation": "在非肿瘤临床WES队列中，遗传性乳腺癌和/或卵巢癌易感基因的致病/可能致病次要发现检出频率为7.1%，且超过一半位于ACMG次要发现框架之外；该结果有助于理解临床WES中遗传性癌症易感发现的分布，但摘要未提供临床管理或指南建议。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "e80984634c2dc2e99aea8725136471ba3e239135a5a4dfc81156dea9b0825f11"
+        "summaryInputHash": "e80984634c2dc2e99aea8725136471ba3e239135a5a4dfc81156dea9b0825f11",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        }
       }
     ]
   }
