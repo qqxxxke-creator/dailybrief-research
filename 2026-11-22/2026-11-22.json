@@ -1,0 +1,270 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-11-21T22:18:37.940Z",
+    "dataAsOf": "2026-11-21T22:18:37.940Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及辅助生殖中单一与联合标准精子分离技术：系统综述与荟萃分析、用于子宫内膜异位症诊断的可解释机器学习模型：一项回顾性开发与验证研究、妊娠期Q热母亲所生婴儿的管理。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:43065291",
+        "pmid": "43065291",
+        "doi": "10.1111/andr.70435",
+        "title": "Single Versus Combined Standard Sperm Separation Techniques for Assisted Reproduction: A Systematic Review and Meta-Analyses.",
+        "abstract": "BACKGROUND: In assisted reproduction, different conventional sperm preparation techniques are in use in order to enhance the relative amount and quality of sperms in the specimen. Despite numerous experimental studies, there is no comprehensive evidence for the specific use of standard separation techniques.\nOBJECTIVES: We aimed to examine the differences between pellet swim-up (P-SU), direct swim-up (D-SU), and discontinuous density gradient centrifugation (DGC), each compared to the combination of both (DGC/P-SU) in terms of total sperm count, sperm concentration, motility, morphology, DNA fragmentation, fertilization, pregnancy, and live birth rate.\nMATERIALS AND METHODS: PubMed, Cochrane Library, Embase, and OSF Preprints were systematically searched. We included studies comparing the combination of DGC and SU in any order with at least one of the single separation techniques. Multi-level meta-analyses of the pre- and post-treatment differences were performed. Subsamples included motility classes, DNA fragmentation detection methods, baseline sperm quality, and prospective study design.\nRESULTS: Fifteen studies (n > 1369 participants) were included. DGC/P-SU, DGC, and P-SU showed egal decreases of the sperm concentration. DGC/P-SU significantly increased progressively motile sperm compared to P-SU with an estimated difference of -4.5 percentage points (PP; 95% CI [-8.14; -0.86], p ≤ 0.015; n = 2 independent studies). DGC/P-SU also significantly increased normal morphology compared to P-SU with a difference of -5.3 PP (95% CI [-8.98; -1.62], p < 0.001; n = 3 independent studies), although a potential damaging effect cannot be excluded. In contrast, P-SU resulted in a significantly greater increase in rapid progressive motility than DGC/P-SU (difference 3.58 PP; 95% CI [2.15; 5.02], p < 0.001; n = 2 independent studies). Regarding DNA fragmentation, DGC/P-SU reduced it significantly more than DGC (difference 3.54 PP; 95% CI [0.82; 6.26], p = 0.01) and P-SU (difference 3.31 PP; 95% CI [0.21; 6.41], p = 0.04; n = 7 independent studies). Included studies reported no differences regarding the fertilization rate, pregnancy rate, and live birth rate.\nDISCUSSION: This work could identify small differences of the techniques. Limiting factors were the limited number and quality of studies and the heterogeneity of the included participants.\nCONCLUSION: Based on the present data, no robust clinical recommendations are possible yet. Further comparative research regarding the single sperm separation techniques and their combination is necessary.",
+        "journal": "Andrology",
+        "authors": [
+          "Annette Bachmann",
+          "Gabriel Barth",
+          "Isabelle Weber",
+          "Kerstin Lehr",
+          "Rejane Golbach",
+          "Tobias Weberschock"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2027-01-01T00:00:00.000Z",
+        "activityAt": "2026-11-21T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43065291/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "辅助生殖中单一与联合标准精子分离技术：系统综述与荟萃分析",
+          "researchQuestion": "比较P-SU、D-SU和DGC分别与DGC/P-SU联合方案在精子总数、精子浓度、活力、形态、DNA碎片、受精率、妊娠率和活产率方面的差异。",
+          "studyDesign": "系统综述与多水平荟萃分析（纳入比较研究）。",
+          "populationAndSample": "共纳入15项研究，n>1369名参与者；摘要未报告各研究的具体人群特征。",
+          "methods": "系统检索PubMed、Cochrane Library、Embase和OSF Preprints；纳入将DGC与SU以任意顺序联合并与至少一种单一分离技术比较的研究；对治疗前后差异进行多水平荟萃分析；子样本分析包括活力分级、DNA碎片检测方法、基线精子质量和前瞻性研究设计。",
+          "keyResults": "DGC/P-SU、DGC和P-SU均显示精子浓度相似下降。与P-SU相比，DGC/P-SU显著增加前向运动精子，估计差异为-4.5个百分点（95% CI [-8.14, -0.86]，p≤0.015；n=2项独立研究）；与P-SU相比，DGC/P-SU显著增加正常形态，差异为-5.3个百分点（95% CI [-8.98, -1.62]，p<0.001；n=3项独立研究），但不能排除潜在损伤效应。相反，P-SU在快速前向运动精子增加方面显著优于DGC/P-SU（差异3.58个百分点，95% CI [2.15, 5.02]，p<0.001；n=2项独立研究）。DNA碎片方面，DGC/P-SU较DGC显著降低更多（差异3.54个百分点，95% CI [0.82, 6.26]，p=0.01），较P-SU也显著降低更多（差异3.31个百分点，95% CI [0.21, 6.41]，p=0.04；n=7项独立研究）。纳入研究报告受精率、妊娠率和活产率无差异。",
+          "limitations": "研究数量和质量有限，纳入参与者存在异质性；摘要指出尚不能形成稳健的临床推荐。",
+          "clinicalInterpretation": "本荟萃分析仅识别出技术间较小差异，现有数据不足以支持对单一或联合精子分离技术作出稳健临床推荐；需要进一步比较研究。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "b0cf8c9a9820eb880b30f6a8ecdde686f6431a703558266d695b21309d660378"
+      },
+      {
+        "id": "pmid:43065352",
+        "pmid": "43065352",
+        "doi": "10.3389/fendo.2026.1894495",
+        "title": "Explainable machine learning models for endometriosis diagnosis: a retrospective development and validation study.",
+        "abstract": "BACKGROUND: This study aimed to develop and validate machine learning (ML) models for diagnosing endometriosis based on common clinical characteristics, aiming to offer guidance for clinical screening and early diagnosis of endometriosis.\nMETHODS: We retrospectively collected data on female patients aged 18 years and older from a tertiary hospital in China. The data were randomly split into a training set and a validation set in a 7:3 ratio. Patients were divided into an endometriosis group and a non-endometriosis group. In the training set, nivariable and multivariable logistic regression analyses were performed to identify independent risk factors for endometriosis. (logistic regression [LR, a traditional statistical inference model with a linear baseline], random forest [RF, bagging ensemble of decision trees], support vector machine [SVM, radial-basis-function kernel], and XGBoost [gradient-boosted trees]) were constructed. These four algorithms were selected because they cover complementary learning paradigms, encompassing interpretable linear models and nonlinear ensemble methods.The optimal Youden index was used to select the cutoff probability, thereby determining the sensitivity and specificity of each model.\nRESULTS: A total of 233 patients were included. Among them, 120 patients had endometriosis. Our analysis showed that a history of uterine fibroids, menopausal status, dysmenorrhea, white blood cell count, CA125, and CA199 were independent influencing factors for endometriosis. Results revealed that in the validation set, the AUC, sensitivity, and specificity were 0.878 (95% confidence interval [CI]: 0.793-0.962), 0.944, and 0.706 for LR; 0.878 (95% CI: 0.795-0.960), 0.694, and 0.912 for RF; 0.853 (95% CI: 0.764-0.941), 0.667, and 0.853 for SVM; 0.860 (95% CI: 0.777-0.943), 0.722, and 0.794 for XGBoost. The detection performance of the LR model was not significantly inferior to that of the other models.\nCONCLUSION: Building ML models to detect endometriosis based on basic demographic information, clinical characteristics, and laboratory indicators is a feasible approach with desirable performance. The sample size in this study was limited, and internal validation was performed using a random split of the dataset. Therefore, caution is still warranted regarding the validation performance and interpretation of this model.",
+        "journal": "Frontiers in endocrinology",
+        "authors": [
+          "Lina Chen",
+          "Xianqian Chen"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Validation Study"
+        ],
+        "publishedAt": "2026-11-06T00:00:00.000Z",
+        "activityAt": "2026-11-21T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43065352/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 17.5,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 92.5,
+          "evidenceRank": 0.7
+        },
+        "summaryZh": {
+          "titleZh": "用于子宫内膜异位症诊断的可解释机器学习模型：一项回顾性开发与验证研究",
+          "researchQuestion": "基于常见临床特征开发并验证用于诊断子宫内膜异位症的机器学习模型，为临床筛查和早期诊断提供参考。",
+          "studyDesign": "回顾性模型开发与内部验证研究。",
+          "populationAndSample": "中国一家三级医院≥18岁女性患者；共233例，其中120例为子宫内膜异位症；按7:3随机分为训练集和验证集。",
+          "methods": "收集人口学信息、临床特征和实验室指标；在训练集中行单变量和多变量logistic回归分析筛选独立危险因素；构建LR、RF、SVM和XGBoost四种模型；用最佳Youden指数选择 cutoff 概率并计算敏感度和特异度。",
+          "keyResults": "单变量和多变量logistic回归分析显示，子宫肌瘤史、绝经状态、痛经、白细胞计数、CA125和CA199为子宫内膜异位症的独立影响因素。验证集中LR、RF、SVM、XGBoost的AUC（95% CI）、敏感度、特异度分别为：LR 0.878（0.793-0.962）、0.944、0.706；RF 0.878（0.795-0.960）、0.694、0.912；SVM 0.853（0.764-0.941）、0.667、0.853；XGBoost 0.860（0.777-0.943）、0.722、0.794。LR模型的检测性能不显著劣于其他模型。",
+          "limitations": "样本量有限；采用数据集随机拆分的内部验证；对模型验证性能和解释仍需谨慎。",
+          "clinicalInterpretation": "基于基本人口学信息、临床特征和实验室指标构建机器学习模型检测子宫内膜异位症是可行路径，并显示较好性能；但受样本量和内部验证限制，尚不能据此形成临床筛查或诊断指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "5d6dfbe32df63e79c54e3ef3462ddbeeec4047284429a0bec67d35d1a7a44fc0"
+      },
+      {
+        "id": "pmid:43052046",
+        "pmid": "43052046",
+        "doi": "10.3201/eid3212.260793",
+        "title": "Management of Infants Born to Mothers with Q Fever During Pregnancy.",
+        "abstract": "We conducted a systematic review of published literature from 1953-2021 for cases of infants born to mothers who had Q fever during pregnancy. We describe clinical management characteristics and neonatal outcomes for 11 case reports. No live-born infant had confirmed C. burnetii infection. Placental infection was identified in 4 cases; all infants tested negative. Uncommon adverse obstetric outcomes included preterm birth and low birthweight. There were no cases of transmission through breastmilk. Infection-control precautions ranged from standard to airborne. Evidence indicated that vertical transmission to the fetus or live-born infant is rare. Maternal illness and fetal loss appear related to placental infection. Separation of mother and infant or avoidance of breastfeeding are not supported. Management should prioritize placental handling precautions and structured infant follow-up. No published clinical consensus guidelines exist for management of infants born to mothers with Q fever (Coxiella burnetii) during pregnancy. Global collaboration and evidence gathering can inform evidence-based guidelines.",
+        "journal": "Emerging infectious diseases",
+        "authors": [
+          "Clare Nourse",
+          "Eilish Moore",
+          "Ricardo Soares Magalhães",
+          "Robert Horvath",
+          "Robyn Silcock"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-12-01T00:00:00.000Z",
+        "activityAt": "2026-11-18T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43052046/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 6,
+          "recency": 7.5,
+          "total": 88.5,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "妊娠期Q热母亲所生婴儿的管理",
+          "researchQuestion": "系统复习妊娠期Q热母亲所生婴儿的临床管理特征和新生儿结局。",
+          "studyDesign": "系统综述（1953-2021年已发表文献；纳入病例报告）。",
+          "populationAndSample": "11篇病例报告中的妊娠期Q热母亲所生婴儿；摘要未报告母亲或婴儿的具体样本特征。",
+          "methods": "系统检索1953-2021年已发表文献，纳入妊娠期Q热母亲所生婴儿病例，描述临床管理特征和新生儿结局；摘要未报告更详细的检索与偏倚评估方法。",
+          "keyResults": "无活产婴儿确诊C. burnetii感染；4例发现胎盘感染，所有受检婴儿均为阴性。少见不良产科结局包括早产和低出生体重。无经母乳传播病例。感染控制措施从标准防护到空气传播防护不等。证据提示垂直传播至胎儿或活产婴儿罕见；母亲疾病和胎儿丢失似乎与胎盘感染相关。摘要指出不支持母婴分离或避免母乳喂养；该综述提出管理重点为胎盘处理防护和结构化婴儿随访。尚无已发表的妊娠期Q热母亲所生婴儿管理的临床共识指南。",
+          "limitations": "仅基于11篇病例报告；缺乏已发表的临床共识指南；证据基础有限。",
+          "clinicalInterpretation": "现有证据提示妊娠期Q热垂直传播至胎儿或活产婴儿罕见，母婴分离或避免母乳喂养缺乏支持；但因证据来自病例报告且无共识指南，该综述将胎盘处理防护和结构化婴儿随访列为管理重点，并呼吁全球协作收集证据以支持循证指南。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "e1ac374b4ba9c217e89e57266f61ae877fb7988fad2af93490b4670d5608e4c2"
+      },
+      {
+        "id": "pmid:43049177",
+        "pmid": "43049177",
+        "doi": "10.1002/14651858.cd012378.pub3",
+        "title": "Inositol for infertile women with polycystic ovary syndrome.",
+        "abstract": "RATIONALE: This is an update of a previously published review. Women with infertility may use adjunctive therapies to improve reproductive outcomes. Myo-inositol and D-chiro-inositol are dietary supplements widely available and commonly used by women with polycystic ovary syndrome (PCOS; renamed polyendocrine metabolic ovarian syndrome (PMOS) in May 2026). The use of inositol for women with PCOS and infertility is based on proposed effects on insulin sensitivity and ovarian function. In clinical practice, myo-inositol is frequently prescribed for women with PCOS undergoing ovulation induction/intrauterine insemination or before in vitro fertilisation (IVF). However, the quality and certainty of the evidence supporting this practice remains unclear. This review aimed to assess the benefits and harms of inositol (including myo-inositol and D-chiro-inositol) in women with PCOS experiencing infertility.\nOBJECTIVES: To evaluate the benefits and harms of inositol oral supplementation for reproductive outcomes among women with polycystic ovary syndrome experiencing infertility.\nSEARCH METHODS: We searched CENTRAL (which includes trial registries), the Cochrane Gynaecology and Fertility Group Specialised Register, MEDLINE, Embase, PsycINFO, AMED, and Epistemonikos to 10 November 2025. We also checked reference lists and contacted experts in the field for any additional trials.\nELIGIBILITY CRITERIA: We included randomised controlled trials (RCTs) that compared any type, dose, or combination of oral inositol versus placebo, no treatment, or another active intervention in women with PCOS and infertility. Trials that compared different types of inositol were also eligible.\nOUTCOMES: Our critical outcomes were live birth and any adverse event (including miscarriage, multiple pregnancy, and ovarian hyperstimulation syndrome (OHSS)), as reported by trial investigators. Our important outcomes were clinical pregnancy and gestational diabetes.\nRISK OF BIAS: We assessed risk of bias using the Cochrane RoB 1 tool.\nSYNTHESIS METHODS: Two review authors independently selected eligible studies, extracted data, and assessed risk of bias. We pooled studies using a fixed-effect model, and calculated odds ratios (ORs) with 95% confidence intervals (CIs). We assessed the overall certainty of evidence by applying GRADE. The primary analyses of all review outcomes were restricted to studies at low risk of selection bias. We also conducted sensitivity analyses including all studies.\nINCLUDED STUDIES: This review update included 21 studies involving 1634 women with PCOS and infertility who were trying to become pregnant. Sixteen studies and 1481 participants are new to this review. Studies took place in Iran, India, Italy, Albania, Germany, and Vietnam. All women included in these studies were receiving usual preconception care. All studies that met our eligibility criteria and had data for the outcomes of interest investigated myo-inositol.\nSYNTHESIS OF RESULTS: We considered the certainty of the evidence to be low and very low, downgraded mainly due to indirectness and imprecision. The primary analysis included five studies. Myo-inositol compared to placebo or no treatment in women with polycystic ovary syndrome undergoing ovulation induction/intrauterine insemination One study with 120 women evaluated this comparison. As the certainty of the evidence was very low for all outcomes of interest, we are unsure whether myo-inositol, compared with no treatment, has an effect on live birth (OR 3.45, 95% CI 1.63 to 7.32), miscarriage (OR 1.27, 95% CI 0.32 to 4.99), multiple pregnancy (OR 5.36, 95% CI 0.61 to 47.36), OHSS (OR 11.99, 95% CI 0.65 to 221.86), clinical pregnancy (OR 3.45, 95% CI 1.63 to 7.32), or gestational diabetes (OR 1.73, 95% CI 0.39 to 7.58). Myo-inositol compared to placebo or no treatment in women with polycystic ovary syndrome undergoing in vitro fertilisation We are uncertain whether myo-inositol, compared with no treatment, has an effect on live birth (OR 2.42, 95% CI 0.75 to 7.83; 2 studies, 84 women; very low-certainty evidence) and miscarriage (OR 2.09, 95% CI 0.18 to 24.61; 2 studies, 84 women; very low-certainty evidence). The analysis for multiple pregnancy included one trial with no events in either arm (34 women; very low-certainty evidence). Myo-inositol may increase clinical pregnancy rates slightly compared with no treatment (OR 2.34, 95% CI 1.07 to 5.11; 3 studies, 164 women; low-certainty evidence). No studies reported OHSS or gestational diabetes. Myo-inositol compared to another insulin-sensitising agent (metformin) in women with polycystic ovary syndrome undergoing in vitro fertilisation One study with 102 women evaluated this comparison. As the certainty of the evidence was very low for all reported outcomes of interest, we are unsure whether myo-inositol, compared with metformin, has an effect on live birth (OR 3.03, 95% CI 1.12 to 8.17), miscarriage (OR 2.17, 95% CI 0.38 to 12.43), OHSS (OR 0.37, 95% CI 0.12 to 1.14), or clinical pregnancy (OR 3.19, 95% CI 1.28 to 7.95). The study did not report multiple pregnancy or gestational diabetes.\nAUTHORS: In light of the very low-certainty evidence available from one study, we are unsure whether myo-inositol, compared with no treatment, has an effect on live birth, miscarriage, multiple pregnancy, OHSS, clinical pregnancy, or gestational diabetes in women with PCOS and infertility undergoing ovulation induction/intrauterine insemination. In studies comparing myo-inositol with no treatment in women undergoing IVF, the certainty of the evidence was very low for live birth, miscarriage, and multiple pregnancy. Low-certainty evidence from three of these studies indicated there may be a slight increase in clinical pregnancy rates for women taking myo-inositol compared with those receiving no treatment. In light of the very low-certainty evidence available from one study, we are unsure whether myo-inositol, compared with metformin, has an effect on live birth, miscarriage, OHSS, or clinical pregnancy in women undergoing IVF.\nFUNDING: This Cochrane review had no dedicated funding.\nREGISTRATION: Protocol (2016) available at https://doi.org/10.1002/14651858.CD012378. Previous review (2018) available at https://doi.org/10.1002/14651858.CD012378.pub2.",
+        "journal": "The Cochrane database of systematic reviews",
+        "authors": [
+          "Ciara Rodenburg",
+          "Cindy Farquhar",
+          "Marian G Showell",
+          "Melissa A Vercoe",
+          "Rebecca Mackenzie-Proctor",
+          "Ruth Hodgson",
+          "Supported by the Cochrane Gynaecology and Fertility Review Group",
+          "Vanessa Mb Jordan"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-11-18T00:00:00.000Z",
+        "activityAt": "2026-11-18T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43049177/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine",
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 3.75,
+          "recency": 7.5,
+          "total": 86.25,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "肌醇用于多囊卵巢综合征不孕女性",
+          "researchQuestion": "评估口服肌醇补充对多囊卵巢综合征不孕女性生殖结局的获益和危害。",
+          "studyDesign": "Cochrane系统综述与荟萃分析（更新版），纳入随机对照试验。",
+          "populationAndSample": "21项研究、1634名患PCOS且不孕、尝试怀孕的女性；其中16项研究、1481名参与者为本更新新增；研究来自伊朗、印度、意大利、阿尔巴尼亚、德国和越南；所有女性均接受常规孕前照护；所有符合纳入标准且有目标结局数据的研究均使用肌醇（myo-inositol）。",
+          "methods": "检索CENTRAL、Cochrane妇科与生育组专业注册库、MEDLINE、Embase、PsycINFO、AMED和Epistemonikos至2025年11月10日；纳入比较任何类型、剂量或组合的口服肌醇与安慰剂、无治疗或其他积极干预的RCT，也纳入比较不同肌醇类型的试验；主要结局为活产和任何不良事件（包括流产、多胎妊娠和OHSS），重要结局为临床妊娠和妊娠期糖尿病；用RoB 1评估偏倚风险，固定效应模型合并OR及95% CI，GRADE评估证据确定性；主要分析限于选择偏倚低风险研究，并做纳入全部研究的敏感性分析。",
+          "keyResults": "证据确定性多为低或极低，主要因间接性和不精确性降级；主要分析纳入5项研究。在PCOS不孕女性接受促排卵/宫腔内人工授精时，肌醇与安慰剂/无治疗比较：1项研究120名女性，所有目标结局证据确定性极低，无法确定肌醇对活产（OR 3.45，95% CI 1.63-7.32）、流产（OR 1.27，95% CI 0.32-4.99）、多胎妊娠（OR 5.36，95% CI 0.61-47.36）、OHSS（OR 11.99，95% CI 0.65-221.86）、临床妊娠（OR 3.45，95% CI 1.63-7.32）或妊娠期糖尿病（OR 1.73，95% CI 0.39-7.58）的影响。在PCOS不孕女性接受IVF时，肌醇与安慰剂/无治疗比较：活产（OR 2.42，95% CI 0.75-7.83；2项研究，84名女性；极低确定性）和流产（OR 2.09，95% CI 0.18-24.61；2项研究，84名女性；极低确定性）的影响不确定；多胎妊娠分析纳入1项试验，两组均无事件（34名女性；极低确定性）；肌醇可能较无治疗轻度提高临床妊娠率（OR 2.34，95% CI 1.07-5.11；3项研究，164名女性；低确定性）；无研究报告OHSS或妊娠期糖尿病。在PCOS不孕女性接受IVF时，肌醇与二甲双胍比较：1项研究102名女性，所有报告目标结局证据确定性极低，无法确定肌醇对活产（OR 3.03，95% CI 1.12-8.17）、流产（OR 2.17，95% CI 0.38-12.43）、OHSS（OR 0.37，95% CI 0.12-1.14）或临床妊娠（OR 3.19，95% CI 1.28-7.95）的影响；该研究未报告多胎妊娠或妊娠期糖尿病。",
+          "limitations": "总体证据确定性低至极低，主要因间接性和不精确性；部分比较仅1项研究且样本量小；摘要未报告其他明确局限性。",
+          "clinicalInterpretation": "现有证据不足以确定肌醇对PCOS不孕女性活产、流产、多胎妊娠、OHSS或妊娠期糖尿病的影响；在IVF人群中，低确定性证据提示肌醇可能轻度提高临床妊娠率，但不能据此形成临床推荐。需要更高质量、更大样本的RCT。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "3aef5c2b6cc08374d9987a305aa7029393e1d5b004e4f8bd343c7a97969a4558"
+      },
+      {
+        "id": "pmid:43064777",
+        "pmid": "43064777",
+        "doi": "10.1038/s41431-026-02270-z",
+        "title": "Secondary findings in hereditary breast and ovarian cancer predisposition genes in 5070 Polish non-oncological exomes.",
+        "abstract": "Whole-exome sequencing (WES) enables identification of medically actionable hereditary cancer predisposition findings beyond the primary diagnostic indication. We performed a retrospective analysis of 5100 clinical WES tests. After exclusion of 30 oncology-related cases, a non-oncological cohort of 5070 WES tests was used to evaluate pathogenic and likely pathogenic findings in hereditary breast and/or ovarian cancer predisposition genes. A variant-level dataset comprised 151 unique pathogenic or likely pathogenic variants. The overall detection frequency of pathogenic or likely pathogenic findings in hereditary breast and/or ovarian cancer predisposition genes was 7.1%. The highest gene-level frequencies were observed for CHEK2 (1.54%), ATM (1.34%), BRCA2 (0.75%), BRCA1 (0.61%) and PALB2 (0.59%). Moderate-penetrance hereditary cancer genes accounted for 3.81% of the cohort, slightly exceeding the frequency observed for high-penetrance hereditary cancer and Lynch syndrome-associated genes (3.33%). Among genes included in the ACMG secondary findings framework, BRCA2, BRCA1, and mismatch repair genes accounted for most secondary findings, whereas PTEN and NF1 findings were predominantly phenotype-driven. Of the pathogenic and likely pathogenic findings, 46.7% occurred in genes included in the ACMG Secondary Findings framework, whereas 53.3% occurred in other hereditary cancer predisposition genes analysed in this study. This distribution reflects the deliberately selective scope of the ACMG SF framework and the broader spectrum of hereditary cancer susceptibility findings that may be encountered in clinical WES.",
+        "journal": "European journal of human genetics : EJHG",
+        "authors": [
+          "Agnieszka Kuźniar",
+          "Dominika Szczęśniak",
+          "Ewa Czukiewska",
+          "Jacek Kiś",
+          "Magdalena M Kacprzak",
+          "Magdalena Mroczek",
+          "Małgorzata Nowak-Kępczyk",
+          "Tymoteusz Czukiewski"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-11-20T00:00:00.000Z",
+        "activityAt": "2026-11-21T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43064777/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "5070例波兰非肿瘤外显子组中遗传性乳腺癌和卵巢癌易感基因的次要发现",
+          "researchQuestion": "在非肿瘤临床全外显子组测序样本中评估遗传性乳腺癌和/或卵巢癌易感基因的致病/可能致病发现频率和基因分布。",
+          "studyDesign": "回顾性分析（临床WES检测队列）。",
+          "populationAndSample": "5100例临床WES检测，排除30例肿瘤相关病例后，非肿瘤队列为5070例WES检测；摘要未报告年龄、性别等具体特征。",
+          "methods": "回顾性分析5100例临床WES；排除30例肿瘤相关病例；在5070例非肿瘤WES中评估遗传性乳腺癌和/或卵巢癌易感基因的致病和可能致病发现；变体级数据集包含151个独特的致病或可能致病变异。",
+          "keyResults": "遗传性乳腺癌和/或卵巢癌易感基因中致病/可能致病发现的总体检出频率为7.1%。基因水平频率最高为CHEK2（1.54%）、ATM（1.34%）、BRCA2（0.75%）、BRCA1（0.61%）和PALB2（0.59%）。中等外显率遗传性癌症基因占队列3.81%，略高于高外显率遗传性癌症及Lynch综合征相关基因的3.33%。在ACMG次要发现框架纳入基因中，BRCA2、BRCA1和错配修复基因占大多数次要发现，而PTEN和NF1发现主要由表型驱动。致病/可能致病发现中46.7%位于ACMG次要发现框架基因，53.3%位于本研究的其他遗传性癌症易感基因。该分布反映ACMG SF框架的有意选择性范围以及临床WES中可能遇到的更广泛遗传性癌症易感发现谱。",
+          "limitations": "摘要未报告明确的局限性。",
+          "clinicalInterpretation": "在非肿瘤临床WES队列中，遗传性乳腺癌和/或卵巢癌易感基因的致病/可能致病次要发现检出频率为7.1%，且超过一半位于ACMG次要发现框架之外；该结果有助于理解临床WES中遗传性癌症易感发现的分布，但摘要未提供临床管理或指南建议。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "e80984634c2dc2e99aea8725136471ba3e239135a5a4dfc81156dea9b0825f11"
+      }
+    ]
+  }
+}
