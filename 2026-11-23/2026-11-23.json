@@ -1,0 +1,273 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-11-22T23:46:44.272Z",
+    "dataAsOf": "2026-11-22T23:46:44.272Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及在子宫内膜癌和宫颈癌标准治疗中加入PD-1/PD-L1抑制剂后的健康相关生活质量：随机对照试验的系统综述与荟萃分析、法国版子宫内膜异位症健康量表-5（EHP-5）的心理测量学验证：结构效度、测量不变性及临床解释建议、脊髓损伤男性的综合生育管理：从优化到辅助生殖的系统综述。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:43068409",
+        "pmid": "43068409",
+        "doi": "10.1007/s11136-026-04453-z",
+        "title": "Health-related quality of life with PD-1/PD-L1 inhibitors added to standard therapy for endometrial and cervical cancer: a systematic review and meta-analysis of randomized controlled trials.",
+        "abstract": "OBJECTIVE: To evaluate whether adding programmed cell death protein 1 or programmed death-ligand 1 (PD-1/PD-L1) inhibitors to standard therapy affects health-related quality of life (HRQoL) in patients with endometrial or cervical cancer.\nMETHODS: PubMed, Embase, and the Cochrane Central Register of Controlled Trials were searched from inception through September 2025 for randomized controlled trials (RCTs) comparing a PD-1/PD-L1 inhibitor plus standard therapy with the identical treatment backbone, with or without placebo. Mean differences (MDs) in change from baseline were pooled using random-effects models with the Hartung-Knapp adjustment. Risk of bias was assessed using RoB 2, and certainty of evidence was evaluated with GRADE.\nRESULTS: Nine RCTs involving 5,933 patients were included, of which seven trials comprising 4,995 patients contributed to the meta-analysis. Adding PD-1/PD-L1 inhibition did not significantly affect EORTC QLQ-C30 global health status/quality of life (MD -0.07; 95% CI -1.50 to 1.35; I²=0%; 7 studies; 4,995 patients). Results were also non-significant for physical, role, emotional, cognitive, and social functioning; lymphedema; menopausal symptoms; peripheral neuropathy; sexual worry; symptom experience; and EQ-5D health status. Certainty of evidence was moderate for global health status/quality of life and low for the remaining outcomes.\nCONCLUSION: Adding PD-1/PD-L1 inhibitors to standard therapy did not detectably change global HRQoL, and the pooled confidence interval excluded clinically important deterioration. No functional or symptom domain differed significantly, although small effects cannot be excluded for domains informed by few trials.",
+        "journal": "Quality of life research : an international journal of quality of life aspects of treatment, care and rehabilitation",
+        "authors": [
+          "Alexia Floriano Rodrigues da Silva",
+          "Ayesha Ayesha",
+          "Camila Díaz-Hermosilla",
+          "Hellen Pereira",
+          "Jasmina Veta Darkovski",
+          "Laura Fonseca Queiroz",
+          "Maria Julia Lemos",
+          "Nathália Meneses Neves"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-11-22T00:00:00.000Z",
+        "activityAt": "2026-11-22T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43068409/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "在子宫内膜癌和宫颈癌标准治疗中加入PD-1/PD-L1抑制剂后的健康相关生活质量：随机对照试验的系统综述与荟萃分析",
+          "researchQuestion": "在子宫内膜癌或宫颈癌患者中，标准治疗基础上加入PD-1/PD-L1抑制剂是否影响健康相关生活质量（HRQoL）？",
+          "studyDesign": "随机对照试验的系统综述与荟萃分析；检索PubMed、Embase和Cochrane Central Register of Controlled Trials，检索时间自建库至2025年9月；使用RoB 2评估偏倚风险，使用GRADE评价证据确定性；采用随机效应模型并以Hartung-Knapp校正合并基线变化均数差（MD）。",
+          "populationAndSample": "共纳入9项随机对照试验、5,933例患者；其中7项试验、4,995例患者进入荟萃分析。",
+          "methods": "比较PD-1/PD-L1抑制剂联合标准治疗与相同治疗骨架联合或不联合安慰剂；合并指标为基线与治疗后变化值的均数差（MD）。",
+          "keyResults": "加用PD-1/PD-L1抑制剂未显著影响EORTC QLQ-C30总体健康状况/生活质量（MD -0.07；95% CI -1.50～1.35；I²=0%；7项研究；4,995例患者）。躯体、角色、情绪、认知和社会功能、淋巴水肿、更年期症状、周围神经病变、性担忧、症状体验及EQ-5D健康状况等结果也均不显著。总体健康状况/生活质量的证据确定性为中等，其余结局为低。",
+          "limitations": "总体健康状况/生活质量以外多数结局的证据确定性为低；部分功能或症状领域由少数试验提供信息，不能排除小效应。摘要未报告各试验具体偏倚风险细节、亚组分析及长期随访信息。",
+          "clinicalInterpretation": "该荟萃分析未检测到加用PD-1/PD-L1抑制剂对总体HRQoL的显著改变，合并置信区间排除了临床重要恶化；各功能或症状领域未见显著差异，但由少数试验支持的领域仍可能存在小效应。该结果不应被改写为治疗推荐或指南结论。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "6f2341275cb3a1a60743bc2e2c229ee36bbe998d4e2d3998cba7546dcab8bde0"
+      },
+      {
+        "id": "pmid:43068429",
+        "pmid": "43068429",
+        "doi": "10.1007/s11136-026-04446-y",
+        "title": "Psychometric validation of the french endometriosis health profile-5 (EHP-5): structural validity, measurement invariance and recommendations for clinical interpretation.",
+        "abstract": "PURPOSE: The Endometriosis Health Profile-5 (EHP-5) is a widely used disease-specific instrument for assessing endometriosis-related quality of life. Despite its growing use, evidence regarding its structural validity and measurement invariance remains limited. This study examined the psychometric properties of the French EHP-5.\nMETHODS: A total of 1,439 French-speaking women with medically diagnosed endometriosis completed an online survey. Preliminary item analyses included difficulty and discrimination indices, floor and ceiling effects, and Ferguson's delta coefficient. Internal consistency was evaluated using Cronbach's alpha and McDonald's omega. Confirmatory factor analysis (CFA) was conducted using robust weighted least squares estimation (WLSMV). Hypothesis testing for construct validity was conducted using 0-10 numerical rating scales for pain intensity and frequency and dichotomous indicators of fatigue and constant pelvic pain. Measurement invariance was tested across infertility, parenthood, and comorbidity groups.\nRESULTS: The five core items demonstrated satisfactory item functioning and internal consistency (α = 0.71; ω = 0.71). CFA generally supported a unidimensional structure of the core scale (CFI = 0.956, TLI = 0.912, SRMR = 0.047), although RMSEA (= 0.111) exceeded conventional recommendations. EHP-5 scores were significantly associated with pain intensity, pain frequency, fatigue, and constant pelvic pain, consistent with the predefined hypotheses for construct validity. Measurement invariance was generally supported across infertility, parenthood, and comorbidity groups.\nCONCLUSIONS: The French EHP-5 core scale appears to be a brief measure of endometriosis-related quality of life with satisfactory psychometric properties. Clinical implications and recommendations are discussed, particularly regarding the complementary roles of the core and modular components of the instrument and their implications for score interpretation.",
+        "journal": "Quality of life research : an international journal of quality of life aspects of treatment, care and rehabilitation",
+        "authors": [
+          "Chloé Pouytes",
+          "Florence Cousson-Gélie",
+          "Guillaume Broc",
+          "Margaux Le Borgne",
+          "Pierrick Dodeur-Delangre"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Validation Study"
+        ],
+        "publishedAt": "2026-11-22T00:00:00.000Z",
+        "activityAt": "2026-11-22T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43068429/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology",
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 17.5,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 92.5,
+          "evidenceRank": 0.7
+        },
+        "summaryZh": {
+          "titleZh": "法国版子宫内膜异位症健康量表-5（EHP-5）的心理测量学验证：结构效度、测量不变性及临床解释建议",
+          "researchQuestion": "法国版EHP-5在子宫内膜异位症相关生活质量评估中的心理测量学性质如何，包括结构效度和测量不变性？",
+          "studyDesign": "心理测量学验证研究；通过在线调查收集数据。",
+          "populationAndSample": "1,439名法语女性，均有医学诊断的子宫内膜异位症。",
+          "methods": "进行条目分析，包括难度指数、区分度指数、地板和天花板效应及Ferguson's delta系数；以内都一致性用Cronbach's alpha和McDonald's omega评价；采用稳健加权最小二乘估计（WLSMV）进行验证性因子分析（CFA）；以0～10数字评定量表评估疼痛强度和频率，以二分类指标评估疲劳和持续性盆腔痛，用于构建效度假设检验；在不孕、生育状态和合并症组间检验测量不变性。",
+          "keyResults": "5个核心条目显示满意的条目功能和内部一致性（α=0.71；ω=0.71）。CFA总体支持核心量表的单维结构（CFI=0.956，TLI=0.912，SRMR=0.047），但RMSEA（=0.111）超过常规建议。EHP-5得分与疼痛强度、疼痛频率、疲劳和持续性盆腔痛显著相关，符合预设的构建效度假设。测量不变性在不孕、生育状态和合并症组间总体得到支持。",
+          "limitations": "RMSEA超过常规建议；测量不变性为“总体得到支持”，并非所有方面均完全支持。摘要未报告应答率、样本代表性、重测信度及外部验证结果。",
+          "clinicalInterpretation": "法国版EHP-5核心量表似乎可作为子宫内膜异位症相关生活质量的简短测量工具，心理测量学性质总体满意；摘要强调核心组件与模块化组件的互补作用及其对得分解释的意义。该验证结果不等同于临床诊疗指南。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "f7e9623f8e908a46e93f28fc55bf1cf7b217ba5bd323a494639b50a18c66b05f"
+      },
+      {
+        "id": "pmid:43065994",
+        "pmid": "43065994",
+        "doi": "10.46292/sci26-00023",
+        "title": "Comprehensive Fertility Management in Men with Spinal Cord Injury from Optimization to Assisted Reproduction: A Systematic Review.",
+        "abstract": "OBJECTIVES: To evaluate fertility preservation (FP) procedures, fertility optimization strategies, and reproductive management approaches in adult men with spinal cord injury (SCI).\nMETHODS: A systematic review of the literature published from January 1990 to July 2025 was conducted following the PRISMA guidelines and registered in PROSPERO (CRD420251001147). The review included studies on FP techniques and broader fertility management strategies evaluating sperm retrieval rates, semen quality, and pregnancy and live birth rates, as well as factors influencing infertility risk, including sperm parameters, cryopreservation outcomes, and ejaculation rates. The search identified 434 articles, 67 of which were included.\nRESULTS: A sequential FP algorithm including masturbation, penile vibratory stimulation (PVS), electroejaculation (EEJ), and surgical methods allowed retrieval of sperm in 75% to 86% of men with SCI. The pregnancy rate ranged between 33.9% and 73.7%, and the live birth rate was 41%. Bladder management by intermittent self-catheterization (ISC) consistently reduced infection rates and improved sperm motility. Leukocytospermia was not directly linked to impaired sperm parameters, although it may reflect inflammation or oxidative stress. Cytokine-neutralizing strategies and pharmacological agents, such as probenecid, displayed promising but preliminary results requiring confirmation in large prospective studies.\nCONCLUSION: Fertility management in men with SCI relies on a combination of sperm retrieval techniques, assisted reproductive technologies, and optimization of modifiable infertility-related factors. These approaches should be tailored to the patient's needs and SCI characteristics. Among strategies to reduce infertility risk, ISC appears to be associated with improved outcomes. A multidisciplinary approach is essential for individualized, evidence-based care.",
+        "journal": "Topics in spinal cord injury rehabilitation",
+        "authors": [
+          "AFU Fertility Guidelines Working Group",
+          "Aurélie Schirmann",
+          "Charles Mazeaud",
+          "Cyrille Guillot-Tantay",
+          "Diana Kassab",
+          "Hugo Dupuis",
+          "Ismaël Chelghaf",
+          "Pierre-Luc Dequirez"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-11-20T00:00:00.000Z",
+        "activityAt": "2026-11-22T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43065994/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 6,
+          "recency": 10,
+          "total": 91,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "脊髓损伤男性的综合生育管理：从优化到辅助生殖的系统综述",
+          "researchQuestion": "在成年脊髓损伤（SCI）男性中，生育力保存（FP）操作、生育优化策略及生殖管理方法的效果如何？",
+          "studyDesign": "系统综述；遵循PRISMA指南，并在PROSPERO注册（CRD420251001147）；检索1990年1月至2025年7月发表的文献。",
+          "populationAndSample": "检索共识别434篇文章，最终纳入67篇；研究对象为成年脊髓损伤男性。",
+          "methods": "纳入评估精子获取率、精液质量、妊娠率和活产率的研究，以及影响不育风险因素的研究，包括精子参数、冷冻保存结局和射精率；同时评估FP技术和更广泛的生育管理策略。",
+          "keyResults": "包括手淫、阴茎振动刺激（PVS）、电刺激采精（EEJ）和手术方法在内的序贯FP流程，使75%～86%的脊髓损伤男性获得精子。妊娠率为33.9%～73.7%，活产率为41%。间歇自我导尿（ISC）进行膀胱管理持续降低感染率并改善精子活力。白细胞精子症与精子参数受损无直接关联，但可能反映炎症或氧化应激。细胞因子中和策略及丙磺舒等药物显示有前景但仅为初步结果，需大型前瞻性研究确认。",
+          "limitations": "摘要未报告纳入研究的偏倚风险、异质性及GRADE证据确定性；部分干预（如细胞因子中和策略、丙磺舒）仅为初步结果，需大型前瞻性研究确认。",
+          "clinicalInterpretation": "该综述提示脊髓损伤男性生育管理涉及精子获取、辅助生殖技术及可改变不育相关因素的综合管理，并需结合患者需求和SCI特征进行个体化评估；ISC与改善结局相关，但不能据此推断因果关系。多学科评估可能有助于个体化决策，但单篇系统综述不构成临床指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "f77ccef676e7cc1445c01967b7dc95c1ed6ee588d1d3d3ed299d1540f6e404d3"
+      },
+      {
+        "id": "pmid:43065999",
+        "pmid": "43065999",
+        "doi": "10.46292/sci25-00146",
+        "title": "Monitoring Fertility in Men with Spinal Cord Injury: A Systematic Review.",
+        "abstract": "BACKGROUND: In Europe, each year, ∼25,000 individuals, mostly young men, have a spinal cord injury (SCI). As in men living with SCI, infertility is a frequent issue due to ejaculatory dysfunction and poor sperm quality, fertility preservation (FP) is essential.\nOBJECTIVES: This systematic review explores the optimal timing for proposing or implementing FP procedures and the appropriate fertility monitoring methods for male patients with SCI.\nMETHOD: This systematic review was conducted following the PRISMA guidelines. French and English studies on FP in <60-year-old men with SCI from January 1990 to July 2025 were included. The review addressed 2 questions: (1) the best timing for proposing and carrying out FP procedures, and (2) suitable fertility monitoring strategies in patients with SCI who have or have not undergone FP.\nRESULTS: Thirteen studies were analyzed, including 1 meta-analysis and 2 prospective trials. The mean patient age was 30 years. Cryopreservation negatively affected sperm motility and DNA integrity similarly in patients with SCI and in non-SCI patients with infertility. Conversely, sperm DNA fragmentation and mitochondrial dysfunction were significantly higher in SCI men. Biological markers, such as zinc and somatostatin, correlated with sperm parameters. Testicular biopsies and Sertoli/spermatid ratio predicted the ejaculate quality. Adolescents face unique challenges due to their ongoing psychological maturation and the risk of infection from long-term catheter use.\nCONCLUSION: In all <60-year-old patients with SCI, FP could be proposed as early as possible during the rehabilitation process and reiterated as patients progress, particularly when adolescent patients reach the age of majority.",
+        "journal": "Topics in spinal cord injury rehabilitation",
+        "authors": [
+          "AFU Fertility Guidelines Working Group",
+          "Aurélie Schirmann",
+          "Charles Mazeaud",
+          "Cyrille Guillot-Tantay",
+          "Diana Kassab",
+          "Hugo Dupuis",
+          "Ismaël Chelghaf",
+          "Pierre-Luc Dequirez"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-11-20T00:00:00.000Z",
+        "activityAt": "2026-11-22T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43065999/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 6,
+          "recency": 10,
+          "total": 91,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "脊髓损伤男性的生育力监测：系统综述",
+          "researchQuestion": "对脊髓损伤男性提出或实施生育力保存（FP）的最佳时机，以及适合的生育力监测方法是什么？",
+          "studyDesign": "系统综述；遵循PRISMA指南；纳入1990年1月至2025年7月发表的法国和英文研究。",
+          "populationAndSample": "分析13项研究，包括1项荟萃分析和2项前瞻性试验；对象为60岁以下脊髓损伤男性，平均年龄30岁。",
+          "methods": "围绕两个问题进行综述：（1）提出和实施FP操作的最佳时机；（2）对接受或未接受FP的脊髓损伤患者适合的生育力监测策略。",
+          "keyResults": "冷冻保存对脊髓损伤患者和非脊髓损伤不育患者的精子活力和DNA完整性均有负面影响，且影响相似；相反，脊髓损伤男性的精子DNA碎片化和线粒体功能障碍显著更高。锌和生长抑素等生物学标志物与精子参数相关。睾丸活检及支持细胞/精细胞比值可预测射精质量。青少年患者因心理成熟过程尚未完成及长期导尿相关感染风险而面临特殊挑战。",
+          "limitations": "仅分析13项研究，其中1项荟萃分析、2项前瞻性试验；摘要未报告偏倚风险、研究间异质性及证据确定性。",
+          "clinicalInterpretation": "该综述提出，对60岁以下脊髓损伤患者可在康复过程中尽早提出FP，并随患者进展重复讨论，尤其是青少年患者达到法定成年年龄时。上述为综述结论，不是指南或强制临床指令；具体时机和监测方式仍需结合个体情况。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "e3076d955ec7fd27742ec4054abf60624cd662069b693fde048742e4dc79428e"
+      },
+      {
+        "id": "pmid:43065761",
+        "pmid": "43065761",
+        "doi": "10.62347/bqli1049",
+        "title": "Olaparib combined with bevacizumab as first-line maintenance therapy for ovarian cancer.",
+        "abstract": "OBJECTIVE: To evaluate short-term and long-term survival outcomes as well as the safety profile of olaparib combined with bevacizumab as first-line maintenance treatment for patients with ovarian cancer.\nMETHODS: We retrospectively analyzed the clinical data of 136 ovarian cancer patients treated at Affiliated Xingtai People Hospital of Hebei Medical University between December 2021 to December 2022. Patients were divided into a control group (n = 45) and an olaparib group (n = 91) according to the order of admission. All patients received bevacizumab maintenance therapy, while the olaparib group additionally received olaparib. Treatment was administered in 28-day cycles for a total of 15 cycles. Serum levels of tumor markers were measured before and after treatment. In addition, angiogenic factor levels were measured. Peripheral blood T-lymphocyte subsets were analyzed by flow cytometry. Adverse events during treatment were recorded, and progression-free survival (PFS) and overall survival (OS) were calculated.\nRESULTS: After treatment, serum tumor markers, angiogenic factors, and apoptotic factors decreased in both groups, with significantly greater reductions occurring in the olaparib group than in the control group ( P < 0.05). Meanwhile, the proportions of peripheral blood CD3+ and CD4+ T cells and the CD4+/CD8+ ratio increased more markedly in the olaparib group ( P < 0.05). There was no significant difference in the incidence of treatment-related adverse events between the two groups ( P > 0.05). The 3-year OS rate (58.24% vs. 46.67%) and PFS rate (48.35% vs. 24.44%) were significantly higher in the olaparib group than in the control group ( P < 0.05), with more pronounced benefits in HRD-positive and BRCA-mutant patients. Patients with homologous recombination deficiency (HRD)-positive status and BRCA mutations also achieved significantly improved OS and PFS ( P < 0.05).\nCONCLUSION: Olaparib combined with bevacizumab as first-line maintenance therapy effectively reduces tumor markers, inhibits angiogenesis, promotes apoptosis, and enhances immune function, thereby significantly improving long-term survival without increasing major adverse reactions, with particularly notable benefits in HRD-positive and BRCA-mutant patients.",
+        "journal": "American journal of translational research",
+        "authors": [
+          "Bei Wen",
+          "Jing Shi",
+          "Ruoxin Shao",
+          "Xiangzhe Ren",
+          "Yutong Zhu"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-15T00:00:00.000Z",
+        "activityAt": "2026-11-22T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43065761/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "奥拉帕利联合贝伐珠单抗作为卵巢癌一线维持治疗",
+          "researchQuestion": "奥拉帕利联合贝伐珠单抗作为卵巢癌一线维持治疗的短期和长期生存结局及安全性如何？",
+          "studyDesign": "回顾性临床资料分析。",
+          "populationAndSample": "共分析136例卵巢癌患者，来源于河北医科大学附属邢台市人民医院，治疗时间为2021年12月至2022年12月；按入院顺序分为对照组（n=45）和奥拉帕利组（n=91）。",
+          "methods": "所有患者接受贝伐珠单抗维持治疗，奥拉帕利组额外接受奥拉帕利；治疗以28天为1个周期，共15个周期。治疗前后检测血清肿瘤标志物、血管生成因子和凋亡因子；流式细胞术分析外周血T淋巴细胞亚群；记录治疗期间不良事件；计算无进展生存期（PFS）和总生存期（OS）。",
+          "keyResults": "治疗后，两组血清肿瘤标志物、血管生成因子和凋亡因子均下降，奥拉帕利组下降幅度显著大于对照组（P<0.05）。奥拉帕利组外周血CD3+和CD4+ T细胞比例及CD4+/CD8+比值升高更明显（P<0.05）。两组治疗相关不良事件发生率无显著差异（P>0.05）。奥拉帕利组3年OS率（58.24% vs 46.67%）和PFS率（48.35% vs 24.44%）显著高于对照组（P<0.05）；HRD阳性和BRCA突变患者中获益更明显，且HRD阳性和BRCA突变患者OS和PFS显著改善（P<0.05）。",
+          "limitations": "回顾性设计，分组按入院顺序而非随机；来自单家医院、样本量136例；摘要未报告随访时长、混杂因素调整、盲法及偏倚控制细节。",
+          "clinicalInterpretation": "该回顾性分析中，奥拉帕利联合贝伐珠单抗一线维持治疗与肿瘤标志物、血管生成和凋亡相关指标变化、免疫指标变化及更好的生存结局相关，且未观察到治疗相关不良事件发生率的显著差异；HRD阳性和BRCA突变患者中观察到的获益更明显。由于为回顾性设计，不能据此确立因果关系，也不构成临床推荐。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "33fbd001047f69617f9b7534eff7b25527ae8af40b4e70b0a6ded98507a4457e"
+      }
+    ]
+  }
+}
