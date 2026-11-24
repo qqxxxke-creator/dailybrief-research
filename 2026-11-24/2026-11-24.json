@@ -1,0 +1,272 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-11-24T04:56:38.234Z",
+    "dataAsOf": "2026-11-24T04:56:38.234Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及妊娠期细菌性脑脓肿：神经外科与药物治疗母胎结局的系统综述、卵巢癌的早期检测：当前策略与未来方向、子宫腺肌病伴或不伴子宫肌瘤和/或子宫内膜异位症的临床病理特征：一项回顾性子宫切除队列研究。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:43071198",
+        "pmid": "43071198",
+        "doi": "10.1007/s10143-026-04603-4",
+        "title": "Bacterial brain abscess during pregnancy: A systematic review of maternal-fetal outcomes of neurosurgical and medical management.",
+        "abstract": "Bacterial brain abscess is rare during pregnancy, and evidence guiding management is sparse. This systematic review described maternal neurological status at presentation and follow-up and summarized maternal, obstetric, neonatal, antimicrobial, and surgical safety outcomes. We searched MEDLINE, Embase, Cochrane, Web of Science, and Google Scholar from 1 January 1990 to 5 August 2025. Eligible case reports and case series described pregnant adults with bacterial brain abscess managed by craniotomy, stereotactic aspiration, and/or medical therapy; immunocompromised patients and non-bacterial etiologies were excluded. Two reviewers independently assessed articles; risk of bias was evaluated using the Joanna Briggs Institute case report tool. Given clinical heterogeneity, data were summarized descriptively without formal certainty assessment. The review was pre-registered (Open Science Framework, doi: https://doi.org/10.17605/OSF.IO/NU2MP) and unfunded. 18 studies reported 18 patients: 16 case reports, and two case series contributing one patient each. Median maternal age was 26.0 years (IQR 25.0-32.0; n = 17), and median gestational age at presentation was 25.0 weeks (IQR 13.0-33.7; n = 17). Ten patients underwent craniotomy (55.6%), four stereotactic aspiration (22.2%), and four medical management alone (22.2%). Neurological deficits occurred in 10/17 cases (58.8%); all 15 evaluable cases had mass effect. Neurological status improved by follow-up in 13/18 patients, although status at delivery and 30-90 days after intervention was inconsistently reported. Outcomes included one maternal death (n = 1/17), five preterm births (n = 5/12), fetal growth restriction in one twin pregnancy (n = 1/18), two pregnancy losses (n = 2/18), neonatal death (n = 1/11), and three NICU admissions (n = 3/18). Organisms were identified in 11 cases; Streptococcus spp. were most common (n = 3/11). Median antimicrobial duration was 42.0 days (IQR, 38.5-59.5). Neurological improvement was common, but serious maternal and perinatal outcomes occurred. Case-based evidence, sparse reporting, and probable selection and reporting biases limit inference. Findings support individualized multidisciplinary management but do not establish a preferred surgical approach.",
+        "journal": "Neurosurgical review",
+        "authors": [
+          "Adam S Komorowski",
+          "Ekkehard M Kasper",
+          "Filipe Piazzi Tavares",
+          "Harjot Sekhon",
+          "Linda Mayhew",
+          "Rohan D'Souza"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-11-23T00:00:00.000Z",
+        "activityAt": "2026-11-23T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43071198/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "妊娠期细菌性脑脓肿：神经外科与药物治疗母胎结局的系统综述",
+          "researchQuestion": "描述妊娠期细菌性脑脓肿患者就诊时及随访时的母体神经状态，并总结母体、产科、新生儿、抗菌药物及手术安全性结局。",
+          "studyDesign": "系统综述；纳入病例报告和病例系列；研究预先注册（Open Science Framework，doi: https://doi.org/10.17605/OSF.IO/NU2MP），无资助；采用Joanna Briggs Institute病例报告工具评估偏倚风险，因临床异质性仅作描述性总结，未进行正式证据确定性评估。",
+          "populationAndSample": "18项研究共报告18例妊娠成人细菌性脑脓肿患者；其中16篇病例报告，2篇病例系列各贡献1例。排除免疫功能低下患者和非细菌性病因。母体年龄中位数26.0岁（IQR 25.0-32.0；n=17），就诊时孕周中位数25.0周（IQR 13.0-33.7；n=17）。",
+          "methods": "检索MEDLINE、Embase、Cochrane、Web of Science和Google Scholar，时间范围为1990年1月1日至2025年8月5日；两位评价者独立评估文献；纳入接受开颅手术、立体定向抽吸和/或药物治疗的妊娠成人细菌性脑脓肿病例；资料以描述性方式汇总。",
+          "keyResults": "10例接受开颅手术（55.6%），4例接受立体定向抽吸（22.2%），4例仅接受药物治疗（22.2%）。10/17例（58.8%）出现神经功能缺损；15例可评估病例均存在占位效应。随访时13/18例神经状态改善，但分娩时及干预后30-90天的状态报告不一致。结局包括1例母体死亡（1/17）、5例早产（5/12）、1例双胎妊娠中的胎儿生长受限（1/18）、2例妊娠丢失（2/18）、1例新生儿死亡（1/11）和3例NICU入住（3/18）。11例鉴定出病原体，其中链球菌属最常见（3/11）。抗菌药物疗程中位数42.0天（IQR 38.5-59.5）。",
+          "limitations": "基于病例的证据、报告稀疏以及可能的选择偏倚和报告偏倚限制推断；未进行正式证据确定性评估；结果不能确立首选手术方式。",
+          "clinicalInterpretation": "神经功能改善较常见，但仍出现严重的母体和围产期不良结局。结果支持个体化多学科管理，但不能确立首选手术方式；不应将本系统综述结果直接视为临床指南或共识。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "f1998cfdf85e1aea20d2bdc9442a275319a7b090b207030a24372b1c7fcf595a"
+      },
+      {
+        "id": "pmid:43055119",
+        "pmid": "43055119",
+        "doi": "10.1017/erm.2026.10082",
+        "title": "Early Detection of Ovarian Cancer: Current Strategies and Future Directions.",
+        "abstract": "Ovarian cancer (OC) is a major cause of cancer-related mortality among women worldwide, mainly because most cases are diagnosed at advanced stages due to non-specific early symptoms. Although early detection is essential for improving clinical outcomes, accurate and accessible screening remains a major challenge, owing to the non-specific nature of early symptoms, the pronounced histological and molecular heterogeneity of the disease, and the poor performance of conventional screening approaches based on cancer antigen 125 (CA-125), human epididymis protein 4 (HE4) and imaging modalities. This review outlines the major biological and technical challenges in the early diagnosis of OC, briefly summarizes the value and limitations of conventional diagnostic approaches and focuses on current progress in emerging biomarkers, including circulating tumour DNA (ctDNA)/cell-free DNA (cfDNA) alterations, exosomal biomarkers and mesothelin multi-marker combined detection strategies, and novel technologies, such as artificial intelligence, nanotechnology, single-cell sequencing and biosensors for early detection. We also discuss the advantages, current limitations, practical considerations and translational barriers of these approaches. Future advances in OC screening will require the integration of sensitive biomarkers, multimodal detection strategies and more accessible, cost-effective technologies to improve early diagnosis and patient survival.",
+        "journal": "Expert reviews in molecular medicine",
+        "authors": [
+          "Chenzhuang Guo",
+          "Donghao Zhuang",
+          "Guiming Hu",
+          "Huifang Wu",
+          "Na Zhang",
+          "Yalan Gao",
+          "Yan Zhang",
+          "Yijia Wang",
+          "Yushu Feng"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-11-19T00:00:00.000Z",
+        "activityAt": "2026-11-23T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43055119/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "卵巢癌的早期检测：当前策略与未来方向",
+          "researchQuestion": "概述卵巢癌早期诊断的主要生物学和技术挑战，总结传统诊断方法的价值与局限，并聚焦新兴生物标志物和新技术用于早期检测的进展。",
+          "studyDesign": "综述；摘要未报告为系统综述，亦未报告检索策略、纳入标准或偏倚评估方法。",
+          "populationAndSample": "摘要未报告；本文为综述，未报告原始研究人群或样本量。",
+          "methods": "摘要未报告系统检索方法；文章概述卵巢癌早期诊断的生物学与技术挑战，简要总结基于CA-125、HE4和影像学等传统方法的价值与局限，重点讨论循环肿瘤DNA（ctDNA）/游离DNA（cfDNA）改变、外泌体生物标志物、间皮素多标志物联合检测策略，以及人工智能、纳米技术、单细胞测序和生物传感器等新技术，并讨论这些方法的优势、当前局限、实际考虑和转化障碍。",
+          "keyResults": "摘要未报告原始数值结果。综述指出，早期症状非特异、疾病组织和分子异质性显著，以及基于CA-125、HE4和影像学的传统筛查方法性能不佳，是早期诊断的主要挑战；新兴生物标志物和新技术方面已有进展；未来需要整合敏感生物标志物、多模态检测策略以及更可及、成本效益更好的技术，以改善早期诊断和患者生存。",
+          "limitations": "摘要未报告本综述的正式局限性；文中讨论了新兴方法的当前局限和转化障碍，但未报告定量合成或证据确定性评估。",
+          "clinicalInterpretation": "该综述提示卵巢癌早期检测仍是挑战，传统CA-125、HE4和影像学方法性能有限，新兴策略尚需进一步验证；不能据此形成已确立的筛查推荐或临床指南。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "45d0bc3da5b1a8b5bd9ae00cfab1a18c186e9ed7ea3d900171082b64142ba7f4"
+      },
+      {
+        "id": "pmid:43069111",
+        "pmid": "43069111",
+        "doi": "10.1186/s12905-026-04832-1",
+        "title": "Clinicopathological characteristics of adenomyosis with and without coexisting leiomyomas and/or endometriosis: a retrospective hysterectomy cohort study.",
+        "abstract": "AIMS: To compare the clinical and pathological characteristics of histologically confirmed adenomyosis with and without coexisting leiomyoma and/or endometriosis in a hysterectomy cohort.\nMETHODS: We conducted a retrospective, pathology-based cohort study of hysterectomy specimens obtained at a tertiary center between 2012 and 2017. Among the 2028 hysterectomies performed, 297 patients were diagnosed with histologically confirmed adenomyosis, resulting in a prevalence rate of 14.6%. Patients were classified as having adenomyosis without coexisting leiomyoma or endometriosis, or as having adenomyosis with coexisting leiomyoma and/or endometriosis. Demographics, presenting symptoms, and concurrent gynecologic malignancies were compared between groups. Multivariable logistic regression and additional sensitivity analyses were used to assess factors independently associated with concurrent gynecologic malignancy.\nRESULTS: Adenomyosis without coexisting leiomyoma or endometriosis was identified in 119 patients (40.1%), whereas adenomyosis coexisting with leiomyoma and/or endometriosis was identified in 178 patients (59.9%). Patients without coexisting leiomyoma or endometriosis were older than those with coexisting leiomyoma and/or endometriosis (mean 54.2 vs. 50.0 years; p = 0.001). Menorrhagia was less frequent (50 vs. 115 patients; p < 0.001), whereas postmenopausal bleeding (24 vs. 19 patients; p = 0.024) and uterine prolapse (17 vs. 12 patients; p = 0.033) were more frequent in this group. Concurrent gynecologic malignancy was also more frequent in patients without coexisting leiomyoma/endometriosis (n = 42, 35.3% vs. n = 17, 9.6%; p < 0.001). This association remained significant after multivariable adjustment (aOR 5.22, 95% CI 2.66-10.6; p < 0.001) and in age-focused sensitivity analyses. In subtype-specific analyses, the association was primarily observed in endometrial cancer.\nCONCLUSION: In this retrospective hysterectomy cohort, adenomyosis without coexisting leiomyoma/endometriosis and adenomyosis coexisting with leiomyoma and/or endometriosis showed different clinicopathological features. Adenomyosis without coexisting leiomyoma/endometriosis was associated with a higher frequency of concurrent gynecologic malignancy, mainly endometrial cancer. These findings should be interpreted within the limitations of this retrospective, hysterectomy-based design.",
+        "journal": "BMC women's health",
+        "authors": [
+          "Başak Ergin Yılar",
+          "Ecem Esma Yeğin",
+          "Fatih Şanlıkan",
+          "Gürkan Kıran",
+          "Nayif Çiçekli",
+          "Nazlı Aylin Vural",
+          "Rahime Nida Bayık"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-08-28T00:00:00.000Z",
+        "activityAt": "2026-11-23T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43069111/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology",
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "子宫腺肌病伴或不伴子宫肌瘤和/或子宫内膜异位症的临床病理特征：一项回顾性子宫切除队列研究",
+          "researchQuestion": "在子宫切除队列中比较组织学确诊的子宫腺肌病伴或不伴子宫肌瘤和/或子宫内膜异位症的临床和病理特征，并评估与合并妇科恶性肿瘤独立相关的因素。",
+          "studyDesign": "回顾性、基于病理的队列研究。",
+          "populationAndSample": "2012年至2017年在一家三级中心进行的2028例子宫切除术中，297例组织学确诊子宫腺肌病，患病率14.6%。其中无合并子宫肌瘤或子宫内膜异位症者119例（40.1%），合并子宫肌瘤和/或子宫内膜异位症者178例（59.9%）。",
+          "methods": "比较两组人口学特征、就诊症状和合并妇科恶性肿瘤情况；采用多变量logistic回归及额外敏感性分析评估与合并妇科恶性肿瘤独立相关的因素，并进行亚型特异性分析。",
+          "keyResults": "无合并子宫肌瘤或子宫内膜异位症组年龄高于合并组（均值54.2岁 vs. 50.0岁；p=0.001）。无合并组月经过多较少见（50例 vs. 115例；p<0.001），而绝经后出血（24例 vs. 19例；p=0.024）和子宫脱垂（17例 vs. 12例；p=0.033）更常见。无合并组合并妇科恶性肿瘤更常见（n=42，35.3% vs. n=17，9.6%；p<0.001）；多变量调整后关联仍显著（aOR 5.22，95% CI 2.66-10.6；p<0.001），年龄聚焦的敏感性分析中仍显著。亚型分析显示该关联主要见于子宫内膜癌。",
+          "limitations": "回顾性、基于子宫切除标本的设计限制解释；摘要未报告其他具体局限性。",
+          "clinicalInterpretation": "在该子宫切除队列中，子宫腺肌病伴或不伴子宫肌瘤和/或子宫内膜异位症表现出不同的临床病理特征；无合并子宫肌瘤/子宫内膜异位症与合并妇科恶性肿瘤（主要为子宫内膜癌）的更高频率相关。该结果为观察性关联，不能推断因果关系，也不足以形成筛查或临床指南推荐。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "8c395745b53bb3b78061491b914032372d555cab7f481327802b078a1888e8f8"
+      },
+      {
+        "id": "pmid:43069567",
+        "pmid": "43069567",
+        "doi": "10.1177/13591053261502614",
+        "title": "Quality of sleep and fertility quality of life among women undergoing IVF-ET: Mediating role of self-esteem.",
+        "abstract": "The study aimed to investigate the mediating role of self-esteem in the relationship between quality of sleep and fertility quality of life among women undergoing IVF treatment. The study was conducted among 387 women undergoing IVF in Kerala, using Fertility Quality of Life Questionnaire, Rosenberg Self-Esteem Scale and Inventory of Quality of sleep. The results indicated a positive correlation among quality of sleep, self-esteem and quality of life. The findings of the mediation analysis showed that the total effect of quality of sleep on fertility quality of life was significant (β = 0.4392). The direct effect of quality of sleep on fertility quality of life was significant (β = 0.1959). The indirect effect of quality of sleep on fertility quality of life through self-esteem was also statistically significant (β = 0.244). The findings suggest that self-esteem serves as a partial mediator in the relationship between quality of sleep and fertility quality of life for women undergoing IVF.",
+        "journal": "Journal of health psychology",
+        "authors": [
+          "Tinu Tomy",
+          "Vinod Kumar S"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-11-22T00:00:00.000Z",
+        "activityAt": "2026-11-23T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43069567/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "接受IVF-ET女性的睡眠质量与生育生活质量：自尊的中介作用",
+          "researchQuestion": "探讨自尊在接受IVF治疗女性睡眠质量与生育生活质量关系中的中介作用。",
+          "studyDesign": "摘要未报告明确研究设计；对接受IVF的女性进行问卷调查并开展中介分析。",
+          "populationAndSample": "387名在印度喀拉拉邦接受IVF治疗的女性。",
+          "methods": "使用生育生活质量问卷（Fertility Quality of Life Questionnaire）、Rosenberg自尊量表（Rosenberg Self-Esteem Scale）和睡眠质量量表（Inventory of Quality of sleep）进行评估；采用中介分析检验自尊的中介作用。",
+          "keyResults": "睡眠质量、自尊与生活质量之间呈正相关。中介分析显示，睡眠质量对生育生活质量的总效应显著（β=0.4392）；直接效应显著（β=0.1959）；通过自尊的间接效应亦具有统计学显著性（β=0.244）。自尊在睡眠质量与生育生活质量的关系中起部分中介作用。",
+          "limitations": "摘要未报告研究局限性；未报告抽样方法、混杂因素控制及因果推断限制。",
+          "clinicalInterpretation": "结果提示自尊可能部分中介睡眠质量与生育生活质量之间的关联；该中介分析不能证明因果关系，也不能据此形成改善睡眠或自尊的临床干预指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "8acd7608220e98f23ad6b16f3728608da49deb3874d9a24ab457a6a13921826e"
+      },
+      {
+        "id": "pmid:43069646",
+        "pmid": "43069646",
+        "doi": "10.1111/aogs.70392",
+        "title": "External validation of the fullPIERS model for predicting adverse maternal outcomes among Swedish women with preeclampsia.",
+        "abstract": "INTRODUCTION: Preeclampsia affects 3%-4% of all pregnancies in the Nordic countries. It is a leading cause of maternal morbidity and mortality. Using risk stratification for women diagnosed with preeclampsia could potentially reduce adverse maternal outcomes. The fullPIERS model is a clinical prediction tool that has not been validated in the Nordic countries. We therefore aimed to externally validate the fullPIERS model among Swedish women with preeclampsia.\nMATERIAL AND METHODS: Data were obtained from two Swedish prospective cohort studies. Predictor variables were assessed within 24 h of inclusion. Outcomes were assessed at 48 h and 7 days after inclusion. The performance of the fullPIERS model was evaluated by discrimination using the area under the receiver operating characteristic curve (AUC) and by risk stratification at prespecified risk cutoffs. Analyses were conducted with and without hematological outcomes (blood transfusion or severe thrombocytopenia).\nRESULTS: In total, 617 women were enrolled between May 2019 and March 2025. Adverse maternal outcomes occurred in 34 (5.5%) women within 48 h and 68 (11.0%) within 7 days. The fullPIERS model demonstrated modest discrimination for predicting adverse maternal outcomes within 48 h (AUC 0.64; 95% confidence interval [CI] 0.54, 0.74) and within 7 days (AUC 0.64; 95% CI: 0.57, 0.71). When analyses were restricted to nonhematological outcomes (n = 14 for 48 h and 19 for 7 days), the AUC was 0.79 (95% CI: 0.68, 0.89) within 48 h and 0.78 (95% CI: 0.69, 0.87) within 7 days. At a low-risk threshold of < 0.01, 297 (48.1%) women were classified as low risk, of whom one developed a nonhematological adverse outcome within 48 h, corresponding to a sensitivity of 0.93 (95% CI: 0.69-0.99) and a negative predictive value of 1.00 (95% CI: 0.98-1.00).\nCONCLUSIONS: Overall, the fullPIERS model demonstrated poor clinical utility in identifying low-risk and high-risk individuals for adverse maternal outcomes among Swedish women with preeclampsia. When hematological outcomes were excluded, the model improved its ability to identify women without adverse maternal outcomes. The model may have clinical utility facilitating physicians in identifying those who could be managed with a lower level of surveillance.",
+        "journal": "Acta obstetricia et gynecologica Scandinavica",
+        "authors": [
+          "Anna Pontoppidan",
+          "Anna-Karin Wikström",
+          "Catherine Cluver",
+          "Erica Wesslén",
+          "Henrik Imberg",
+          "Julia Andersson",
+          "Katja Junus",
+          "Lina Bergman",
+          "Linnea Dahlberg",
+          "Niclas Carlberg",
+          "Nicole Wallin",
+          "Tove Sandberg",
+          "Valentina Bucher"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-11-22T00:00:00.000Z",
+        "activityAt": "2026-11-23T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43069646/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "在瑞典子痫前期女性中外部验证fullPIERS模型预测不良母体结局",
+          "researchQuestion": "在瑞典子痫前期女性中外部验证fullPIERS模型对不良母体结局的预测性能。",
+          "studyDesign": "外部验证研究，使用两项瑞典前瞻性队列研究的数据。",
+          "populationAndSample": "2019年5月至2025年3月共纳入617名子痫前期女性。",
+          "methods": "纳入后24小时内评估预测变量；纳入后48小时和7天评估结局；通过受试者工作特征曲线下面积（AUC）评价区分度，并在预设风险切点进行风险分层；分析分别包含和不包含血液学结局（输血或重度血小板减少）。",
+          "keyResults": "34名女性（5.5%）在48小时内发生不良母体结局，68名（11.0%）在7天内发生。fullPIERS模型预测48小时内不良母体结局的AUC为0.64（95% CI 0.54-0.74），预测7天内结局的AUC为0.64（95% CI 0.57-0.71）。限制为非血液学结局时（48小时n=14，7天n=19），48小时AUC为0.79（95% CI 0.68-0.89），7天AUC为0.78（95% CI 0.69-0.87）。在<0.01低风险阈值下，297名（48.1%）女性被归为低风险，其中1人在48小时内发生非血液学不良结局，对应灵敏度0.93（95% CI 0.69-0.99），阴性预测值1.00（95% CI 0.98-1.00）。",
+          "limitations": "摘要未报告正式研究局限性；作者结论指出模型整体临床效用不佳，排除血液学结局后识别无不良结局女性的能力有所改善。",
+          "clinicalInterpretation": "在瑞典子痫前期女性中，fullPIERS模型对不良母体结局的区分度有限；排除血液学结局后，模型识别无不良结局女性的能力改善。作者认为该模型可能有助于识别可接受较低监测强度者，但摘要未报告其作为临床决策工具的前瞻性影响，不能据此形成临床指南推荐。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "550e6fcae90a0bcb26734a5aa36b7bd8900294cf3bc42997486764129d3c07ff"
+      }
+    ]
+  }
+}
