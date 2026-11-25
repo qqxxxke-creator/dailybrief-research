@@ -1,0 +1,301 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-11-25T22:24:13.905Z",
+    "dataAsOf": "2026-11-25T22:24:13.905Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及基于家庭赋权模式的教育干预对子宫内膜异位症女性生活质量的影响：一项随机对照试验、将分子生物学整合进卵巢癌手术策略：我们准备好了吗？、晚期上皮性卵巢癌治疗策略的演变：一家转诊中心16年的概况。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:43079493",
+        "pmid": "43079493",
+        "doi": "10.1186/s12905-026-04782-8",
+        "title": "Effect of a family-centered empowerment model-based educational intervention on quality of life in women with endometriosis: a randomized controlled trial.",
+        "abstract": "BACKGROUND: Endometriosis substantially impairs disease-specific quality of life across physical, psychological, and social domains, yet evidence regarding family-centered empowerment interventions remains limited. This study evaluated the effect of a family-centered empowerment model-based intervention on patient-reported quality-of-life outcomes measured using the Endometriosis Health Profile-30 (EHP-30) in women with endometriosis.\nMETHODS: A randomized controlled trial was conducted on 64 women with clinically and ultrasonographically confirmed endometriosis referred to a specialized clinic in Mashhad, Iran. Participants were randomly assigned to an intervention group (n = 32) receiving a 12-week family-centered empowerment program or a control group (n = 32) receiving routine care. The primary outcome was endometriosis-specific quality of life measured using the five core EHP-30 domains (Pain, Control and Powerlessness, Emotional Well-being, Social Support, and Self-image), assessed at baseline and 12 weeks after baseline. Data were analyzed using analysis of covariance (ANCOVA) adjusted for baseline scores, with Bonferroni correction for multiple comparisons (p < 0.01).\nRESULTS: Baseline characteristics were comparable between groups (all p > 0.05). After the intervention, ANCOVA revealed significant improvements in the intervention group across all five EHP-30 domains, all of which remained statistically significant after Bonferroni correction for multiple comparisons: Pain (adjusted mean difference: -8.87, 95% CI: -13.02 to - 4.72, p < 0.001, partial η² = 0.22), Control and Powerlessness (- 5.36, 95% CI: -7.41 to - 3.31, p < 0.001, partial η² = 0.31), Emotional Well-being (- 6.71, 95% CI: -9.38 to - 4.04, p < 0.001, partial η² = 0.29), Social Support (- 4.79, 95% CI: -6.93 to - 2.65, p < 0.001, partial η² = 0.25), and Self-image (- 2.70, 95% CI: -3.93 to - 1.47, p < 0.001, partial η² = 0.22). The largest effect sizes were observed in the Control and Powerlessness and Emotional Well-being domains.\nCONCLUSION: Family-centered empowerment-based education was associated with improved patient-reported endometriosis-specific quality of life across all five EHP-30 domains compared with routine care. These findings support further evaluation of this intervention in larger multicenter trials with longer follow-up to determine the durability, clinical relevance, and generalizability of the observed benefits.\nTRIAL REGISTRATION: Iranian Registry of Clinical Trials, IRCT20220720055505N1. Registered on 31 July 2022.",
+        "journal": "BMC women's health",
+        "authors": [
+          "Hamidreza Zendehtalab",
+          "Kobra Mirzakhani",
+          "Maryam Armaghan",
+          "Narges Abdollahi Senu",
+          "Vahid Ghavami"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-09-02T00:00:00.000Z",
+        "activityAt": "2026-11-25T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43079493/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "基于家庭赋权模式的教育干预对子宫内膜异位症女性生活质量的影响：一项随机对照试验",
+          "researchQuestion": "在子宫内膜异位症女性中，基于家庭赋权模式的12周教育干预，与常规护理相比，是否改善以子宫内膜异位症健康量表-30（EHP-30）测量的疾病特异性生活质量？",
+          "studyDesign": "随机对照试验（两组平行），在伊朗马什哈德一家专科门诊开展；试验注册号IRCT20220720055505N1（2022年7月31日注册）。",
+          "populationAndSample": "64名经临床和超声确诊的子宫内膜异位症女性，随机分为干预组（n=32）和对照组（n=32）。基线特征组间可比（所有p>0.05）。",
+          "methods": "干预组接受为期12周的家庭赋权项目，对照组接受常规护理。主要结局为EHP-30的5个核心维度（疼痛、控制感与无力感、情绪健康、社会支持、自我形象），在基线和基线后12周评估。采用协方差分析（ANCOVA）并校正基线评分，多重比较采用Bonferroni校正（p<0.01）。",
+          "keyResults": "干预后ANCOVA显示干预组在全部5个EHP-30维度均有显著改善，且经Bonferroni校正后仍具统计学意义：疼痛（校正均差 -8.87，95% CI -13.02 至 -4.72，p<0.001，partial η²=0.22）、控制感与无力感（-5.36，95% CI -7.41 至 -3.31，p<0.001，partial η²=0.31）、情绪健康（-6.71，95% CI -9.38 至 -4.04，p<0.001，partial η²=0.29）、社会支持（-4.79，95% CI -6.93 至 -2.65，p<0.001，partial η²=0.25）、自我形象（-2.70，95% CI -3.93 至 -1.47，p<0.001，partial η²=0.22）。效应量最大见于控制感与无力感及情绪健康维度。",
+          "limitations": "摘要未报告样本量计算、盲法、干预依从性及失访情况。作者在结论中提出，需在更大规模的多中心试验中、采用更长随访进一步评估该干预，以确定所观察获益的持久性、临床意义和可推广性。",
+          "clinicalInterpretation": "与常规护理相比，基于家庭赋权模式的教育与子宫内膜异位症女性在EHP-30全部5个维度上患者报告生活质量的改善相关；该结果来自单中心、64例、12周随访的随机对照试验，作者明确指出尚需更大规模、更长随访的多中心研究来验证，不能据此直接推广为临床实践推荐。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "68e1e5423a51e7c474f4bb2de870151a92f12bb131e5727fdf092988fea157f4"
+      },
+      {
+        "id": "pmid:43077804",
+        "pmid": "43077804",
+        "doi": "10.1016/j.ijgc.2026.105651",
+        "title": "Integrating molecular biology into surgical strategy in ovarian cancer: are we ready?",
+        "abstract": "Advanced epithelial ovarian cancer management remains largely guided by tumor burden, resectability, and patient-related factors, while the potential influence of molecular biology on surgical strategy remains insufficiently explored. Approximately half of high-grade serous ovarian cancers exhibit homologous recombination deficiency, including a substantial proportion harboring BRCA mutations, which are associated with distinct biological behavior, increased chemosensitivity, and improved survival outcomes. This narrative review examines the available evidence regarding the impact of BRCA mutation and homologous recombination deficiency status on disease presentation, surgical management, response to systemic therapy, recurrence patterns, and prognosis in ovarian cancer. BRCA-mutated and homologous recombination deficiency tumors frequently present in younger patients, often display a nodular dissemination pattern, and have been associated in retrospective series with higher rates of complete macroscopic resection despite an extensive disease burden. Although molecular sub-type may influence treatment response and disease behavior, current evidence consistently shows that the prognostic benefit of complete cytoreduction is maintained across all molecular groups, and molecular status should not be considered a rationale for accepting residual disease or pursuing less aggressive surgery. Concerning surgical timing, retrospective data suggest a potential interaction between molecular status and treatment sequencing: the enhanced platinum sensitivity of BRCA-mutated and homologous recombination deficiency tumors may reduce the adverse impact of delayed cytoreduction, whereas homologous recombination deficiency-negative tumors may be more dependent on complete upfront cytoreduction. However, these observations remain hypothesis-generating. Molecular status also influences recurrence patterns and platinum sensitivity and may be associated with patterns of relapse relevant to the selection of patients for secondary cytoreductive surgery, with BRCA-mutated patients more frequently experiencing platinum-sensitive and oligometastatic relapse. Emerging data additionally suggest a potential interaction between homologous recombination deficiency status and locoregional strategies such as hyperthermic intra-peritoneal chemotherapy. Nevertheless, the currently available evidence is largely retrospective, heterogeneous, and insufficient to support genotype-driven surgical algorithms in routine practice.",
+        "journal": "International journal of gynecological cancer : official journal of the International Gynecological Cancer Society",
+        "authors": [
+          "Alejandra Martínez",
+          "Elena Rodríguez",
+          "Elodie Gauroy",
+          "Guillaume Bataillon",
+          "Martina Aida Ángeles"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-10-07T00:00:00.000Z",
+        "activityAt": "2026-11-25T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43077804/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "将分子生物学整合进卵巢癌手术策略：我们准备好了吗？",
+          "researchQuestion": "在晚期上皮性卵巢癌中，BRCA突变与同源重组缺陷（HRD）状态对疾病表现、手术管理、全身治疗反应、复发模式和预后有何影响，现有证据是否足以支持基因型驱动的外科决策？",
+          "studyDesign": "叙述性综述（narrative review），汇总现有文献证据。",
+          "populationAndSample": "摘要未报告（综述，未限定具体样本量与人群特征）；讨论对象为高级别浆液性卵巢癌等晚期上皮性卵巢癌患者。",
+          "methods": "叙述性综述，围绕BRCA突变与HRD状态对疾病表现、手术管理、全身治疗反应、复发模式及预后的影响进行证据梳理；摘要未报告系统检索策略、纳入排除标准或证据质量评价方法。",
+          "keyResults": "约半数高级别浆液性卵巢癌存在同源重组缺陷，其中包括相当比例的BRCA突变，后者与独特的生物学行为、更高的化疗敏感性及更好的生存结局相关。BRCA突变与HRD肿瘤常见于较年轻患者，常呈结节状播散模式，回顾性系列中在广泛疾病负荷下仍与更高的完全肉眼切除率相关。现有证据一致显示，完全肿瘤细胞减灭的预后获益在所有分子组中均得以维持；分子状态不应被视为接受残留病灶或采取较小范围手术的理由。关于手术时机，回顾性数据提示分子状态与治疗顺序可能存在交互作用：BRCA突变与HRD肿瘤的铂敏感性增强可能减轻延迟细胞减灭的不利影响，而HRD阴性肿瘤可能更依赖彻底的初次细胞减灭；但上述观察仍属假说生成性质。分子状态亦影响复发模式和铂敏感性，并可能与复发模式相关，从而影响二次细胞减灭术的患者选择，BRCA突变患者更常出现铂敏感及寡转移复发。新出现的数据还提示HRD状态与腹腔热灌注化疗等局部区域策略之间可能存在交互作用。",
+          "limitations": "现有证据在很大程度上为回顾性、异质性较大，不足以支持在常规实践中采用基因型驱动的手术算法；关于手术时机与分子状态交互作用的观察仍属假说生成性质。摘要未报告综述的检索范围与证据分级细节。",
+          "clinicalInterpretation": "该综述提示分子分型可能有助于理解卵巢癌的疾病行为、治疗反应与复发模式，但作者明确指出当前证据不足以支持常规临床中的基因型驱动手术决策，完全细胞减灭的预后价值在各分子组中依然成立；相关手术时机与局部治疗策略的交互作用仍需前瞻性研究验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "3c57ab30737ba5db8b8a7014ba5b563bf451c86e30b14cf4d717df2d75ab0bcb"
+      },
+      {
+        "id": "pmid:43077912",
+        "pmid": "43077912",
+        "doi": "10.1016/j.ijgc.2026.105647",
+        "title": "Evolution of treatment strategies for advanced epithelial ovarian cancer: a 16-year overview from a referral center.",
+        "abstract": "OBJECTIVE: Randomized trials comparing surgical timing in advanced ovarian cancer have shown no significant survival difference, increasing neoadjuvant chemotherapy use, but could not capture how patient selection and precision medicine have evolved. To address this gap, we aimed to characterize temporal trends in treatment strategies and outcomes over a 16-year period.\nMETHODS: We conducted a retrospective cohort study of consecutive patients with advanced-stage epithelial ovarian cancer (International Federation of Gynecology and Obstetrics III-IV) who underwent cytoreductive surgery at the European Institute of Oncology between 2009 and 2024. Patients were stratified into 3 time periods (2009-2013, 2014-2018, and 2019-2024). Temporal trends in surgical approach were assessed using Poisson regression. Follow-up was truncated at 3 years to ensure comparable observation windows, and progression-free survival was estimated by the Kaplan-Meier method and compared between time periods using the log-rank test.\nRESULTS: A total of 2187 patients underwent cytoreductive surgery across 3 periods. Primary cytoreductive surgery decreased from 62.6% to 59.3% and 43.7%, while neoadjuvant chemotherapy followed by interval cytoreductive surgery increased from 37.4% to 40.7% and 56.3% (p<.001). Complete cytoreduction rates were 69.4%, 66.2%, and 75.3% (p<.001), and 3-year progression-free survival improved from 26.1% to 28.9% and 32.0% (p=.005). Concurrently, the surgical patient profile changed (median age: 58, 59, and 61 years; age-adjusted Charlson Comorbidity Index ≥4: 22.9%, 25.1%, and 26.2%; stage IVB: 18.5%, 22.4%, and 31.0%), while a high Surgical Complexity Score (≥8) was observed in 37.2%, 41.1%, and 34.4%; severe post-operative complications decreased from 17.7% to 14.9% and 11.9% (p=.008).\nCONCLUSIONS: Over 16 years at a high-volume specialized center, primary cytoreductive surgery decreased, while interval cytoreductive surgery increased. Complete cytoreduction improved, despite a progressively more complex patient population, while surgical complexity remained high and severe post-operative complications decreased. These findings indicate that outcomes improved alongside enhanced patient selection and the integration of precision medicine. Despite the increase in interval surgery, cytoreduction remains complex and requires dedicated surgical expertise.",
+        "journal": "International journal of gynecological cancer : official journal of the International Gynecological Cancer Society",
+        "authors": [
+          "Ailyn Vidal Urbinati",
+          "Alessia Aloisi",
+          "Angelo Maggioni",
+          "Anna Daniela Iacobone",
+          "Annalisa Garbi",
+          "Antonia Annapaola Aiello",
+          "Chiara Ainio",
+          "Cristina Taliento",
+          "Diletta Fumagalli",
+          "Dorella Franchi",
+          "Elena Guerini Rocco",
+          "Eleonora Petra Preti",
+          "Fedro A Peccatori",
+          "Francesca Filippi",
+          "Francesco Multinu",
+          "Gabriella Parma",
+          "Gabriella Schivardi",
+          "Gianluca Maria Varano",
+          "Giovanni Damiano Aletti",
+          "Giuseppe Caruso",
+          "Giuseppe Petralia",
+          "Ida Pino",
+          "Ilaria Betella",
+          "Laura Travaini",
+          "Livia Xhindoli",
+          "Lucia Ribero",
+          "Luigi Antonio De Vitis",
+          "Maria E Guerrieri",
+          "Maria Teresa Achilarre",
+          "Mariachiara Sansalone",
+          "Mariacristina Ghioni",
+          "Mariateresa Lapresa",
+          "Marina Rosanu",
+          "Marta Mongillo",
+          "Nicoletta Colombo",
+          "Roberta Lazzari",
+          "Roberto Biffi",
+          "Sara Gandini",
+          "Sarah Alessi",
+          "Silvia Derio",
+          "Silvia Martella",
+          "Simone Schena",
+          "Vanna Zanagnolo"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-10-03T00:00:00.000Z",
+        "activityAt": "2026-11-25T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43077912/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "晚期上皮性卵巢癌治疗策略的演变：一家转诊中心16年的概况",
+          "researchQuestion": "在随机试验显示晚期卵巢癌不同手术时机无显著生存差异、新辅助化疗使用增加的背景下，16年间患者选择与精准医学的演变如何体现于治疗策略与结局？",
+          "studyDesign": "回顾性队列研究，连续纳入2009—2024年在欧洲肿瘤研究所接受肿瘤细胞减灭术的晚期上皮性卵巢癌（FIGO III–IV期）患者，按3个时间段（2009—2013、2014—2018、2019—2024）分层。",
+          "populationAndSample": "共2187名接受肿瘤细胞减灭术的晚期上皮性卵巢癌患者，分布于3个时间段。随时间推移患者构成发生变化：中位年龄分别为58、59、61岁；年龄校正Charlson合并症指数≥4者分别为22.9%、25.1%、26.2%；IVB期分别为18.5%、22.4%、31.0%；高手术复杂度评分（≥8）者分别为37.2%、41.1%、34.4%。",
+          "methods": "采用Poisson回归评估手术方式的时间趋势；随访截断至3年以保证观察窗口可比；无进展生存采用Kaplan-Meier法估计，并以log-rank检验比较各时间段。",
+          "keyResults": "初次肿瘤细胞减灭术从62.6%降至59.3%和43.7%，新辅助化疗后间隔期细胞减灭术从37.4%升至40.7%和56.3%（p<0.001）。完全细胞减灭率分别为69.4%、66.2%和75.3%（p<0.001）；3年无进展生存率从26.1%升至28.9%和32.0%（p=0.005）。严重术后并发症从17.7%降至14.9%和11.9%（p=0.008）。",
+          "limitations": "摘要未报告研究为单中心高手术量转诊中心的回顾性资料，作者指出结果反映该中心经验；摘要未报告残余混杂、随访丢失及数据完整性等具体局限。",
+          "clinicalInterpretation": "在这家高手术量专科中心的16年观察中，初次细胞减灭术比例下降、间隔期细胞减灭术比例上升，同时在患者群体日趋复杂（年龄、合并症、IVB期比例上升）的情况下完全细胞减灭率提高、严重术后并发症减少；作者将其解读为结局随患者选择优化与精准医学整合而改善，并强调尽管间隔期手术增加，细胞减灭仍具复杂性、需要专门的外科技术。作为单中心回顾性趋势分析，不能据此推断特定治疗策略的因果效应。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "0cc27856dbf9e6fafb72dc088ed1d5b6bdc5b9dc34cf1bcc218c3f87de0ffbb2"
+      },
+      {
+        "id": "pmid:43078066",
+        "pmid": "43078066",
+        "doi": "10.1111/1471-0528.70390",
+        "title": "Diagnostic Delay and Healthcare Use Before the First Hospital Diagnosis of Endometriosis in Young Women: A Population-Based Cohort Study.",
+        "abstract": "OBJECTIVE: To investigate the diagnostic delay for endometriosis among women of early adulthood based on their healthcare utilization prior to hospital diagnosis.\nDESIGN: Population-based cohort study nested within the French National Health Data System (SNDS).\nSETTING: French nationwide population.\nPOPULATION: All new hospital-diagnosed endometriosis cases in women aged 18-25 years between 2018 and 2021 and their healthcare utilization during 10 years preceding diagnosis.\nMETHODS: New cases were identified using ICD-10 codes for endometriosis. Healthcare utilization prior to diagnosis included medical consultations, medication delivery, and pelvic imaging procedures.\nMAIN OUTCOME MEASURES: Diagnostic delay was estimated as the time interval between the presumed onset of symptoms, determined by the first occurrence of two healthcare events within a six-month period over the previous 10 years, and the first hospital diagnosis.\nRESULTS: During 2018-2021, 9088 women aged 18-25 years received a first hospital diagnosis of endometriosis, corresponding to an incidence rate of 7.5 per 10 000 person-years. Median time from symptom onset to first hospital diagnosis was estimated at 8.9 years (interquartile range, 6.9-9.8) and in the same range according to age at diagnosis or endometriosis type. Most women first consulted a general practitioner. A delayed prescription of magnetic resonance imaging was statistically significantly associated with a longer diagnostic delay, regardless of age.\nCONCLUSIONS: The low incidence of hospital-diagnosed endometriosis among young adult women, combined with a long diagnostic delay, independent of age and endometriosis subtype, suggests ongoing underdiagnosis in early adulthood. Delayed pelvic imaging may contribute to this prolonged diagnostic interval.",
+        "journal": "BJOG : an international journal of obstetrics and gynaecology",
+        "authors": [
+          "Anne C M Thiebaut",
+          "Arnaud Fauconnier",
+          "François Margueritte",
+          "François Margueritte, \nAnne C. M. Thiebaut, \nArnaud Fauconnier"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-11-24T23:09:35.000Z",
+        "activityAt": "2026-11-25T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43078066/",
+        "sourceKinds": [
+          "journal-rss",
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "年轻女性首次医院诊断子宫内膜异位症前的诊断延迟与医疗资源使用：一项基于人群的队列研究",
+          "researchQuestion": "在成年早期女性中，首次医院诊断子宫内膜异位症之前存在多长时间诊断延迟，其在此前的医疗资源使用（就诊、用药、盆腔影像）情况如何？",
+          "studyDesign": "基于法国国家健康数据系统（SNDS）的全国性人群队列研究（巢式于数据库中的队列）。",
+          "populationAndSample": "2018—2021年间18—25岁所有新发医院诊断子宫内膜异位症的女性，共9088人，对应发病率为7.5/10 000人年；并回溯其诊断前10年间的医疗资源使用。",
+          "methods": "以ICD-10子宫内膜异位症编码识别新发病例；诊断前医疗资源使用包括医疗咨询、药物发放和盆腔影像检查。诊断延迟定义为推定症状起始时间（此前10年内6个月期间内首次出现两项医疗事件）至首次医院诊断之间的时间间隔。",
+          "keyResults": "2018—2021年共9088名18—25岁女性首次获得子宫内膜异位症医院诊断，发病率为7.5/10 000人年。从症状起始至首次医院诊断的中位时间估计为8.9年（四分位距6.9—9.8），按诊断年龄或子宫内膜异位症类型分层结果处于相同范围。多数女性首先就诊于全科医生。磁共振成像（MRI）处方延迟与更长的诊断延迟存在统计学显著关联，且不受年龄影响。",
+          "limitations": "摘要未报告对该关联的混杂控制细节、症状起始推定方法的验证情况，亦未报告影像延迟与诊断延迟关联的具体效应量；医院诊断数据可能未覆盖非医院诊断的病例（摘要提及可能存在诊断不足，但未就此展开方法学局限）。",
+          "clinicalInterpretation": "研究提示年轻成年女性中医院诊断的子宫内膜异位症发病率较低，同时诊断延迟较长（中位约8.9年），且该延迟与年龄和亚型无关，作者据此认为成年早期可能存在持续诊断不足，盆腔影像延迟可能与较长的诊断间隔相关。该结果为观察性关联，不能推断影像延迟导致诊断延迟的因果关系，也不能据此形成筛查或转诊指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "bb2b3cd55996d752670522fd24d5a2d46193b0314bdada088d7afec2a96ec274"
+      },
+      {
+        "id": "pmid:43078439",
+        "pmid": "43078439",
+        "doi": "10.1016/j.fertnstert.2026.11.024",
+        "title": "Management of Diffuse Adenomyosis Prior to Frozen Embryo Transfer: Pathophysiology, Diagnosis, and Clinical Impact.",
+        "abstract": "Adenomyosis is an inflammatory disorder of the uterus that is known to contribute to abnormal uterine bleeding and dysmenorrhea. Increasingly, adenomyosis is also thought to play a role in adverse assisted reproductive technology (ART) and reproductive outcomes. Adenomyosis is characterized by the presence of endometrial glands and stroma in an atypical location; although adenomyosis shares this similarity with endometriosis, they are distinct clinical and pathologic entities and thereby require different clinical management in infertility patients. This scoping review summarizes the literature surrounding the pathophysiology and diagnosis of adenomyosis and analyzes the clinical impact of diffuse adenomyosis on frozen embryo transfer (FET) and reproductive outcomes. By restricting the analysis to diffuse disease and FET cycles, we sought to reduce confounding related to diverse adenomyosis subtypes as well as the supraphysiological hormonal milieu associated with fresh embryo transfer (ET). Across the included FET and reproductive outcome studies, diffuse adenomyosis was associated with trends toward lower implantation and live-birth rates, higher miscarriage rates, and increased risks of preterm birth (PTB) and hypertensive disorders of pregnancy (HDP). Rarer obstetrical risks included placenta accreta spectrum (PAS) and uterine rupture. These associations, however, are derived from retrospective and observational data of low to very low certainty. Overall, diffuse adenomyosis involving the junctional zone appeared to have a more detrimental effect on FET and obstetric outcomes than simply the presence of adenomyosis. We conclude that adenomyosis should be actively sought and carefully characterized before FET. We also identified a lack of high-quality research in this area. Subtype-stratified prospective studies using standardized diagnostic and staging criteria are required to translate the associations between adenomyosis and adverse FET and obstetric outcomes into improved clinical understanding and evidence-based strategies for management.",
+        "journal": "Fertility and sterility",
+        "authors": [
+          "Ariya Mobaraki",
+          "Nigel Pereira",
+          "Nigel Pereira, Ariya Mobaraki, Steven R. Lindheim, Rebecca Flyckt",
+          "Rebecca Flyckt",
+          "Steven R Lindheim"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review"
+        ],
+        "publishedAt": "2026-11-24T00:00:00.000Z",
+        "activityAt": "2026-11-25T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43078439/",
+        "sourceKinds": [
+          "journal-rss",
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "endometriosis-benign-gynecology",
+          "maternal-fetal-medicine",
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "endometriosis-benign-gynecology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "冻融胚胎移植前弥漫性子宫腺肌症的管理：病理生理、诊断与临床影响",
+          "researchQuestion": "关于子宫腺肌症的病理生理与诊断，弥漫性子宫腺肌症对冻融胚胎移植（FET）及生殖/产科结局有何临床影响？",
+          "studyDesign": "范围综述（scoping review），分析限于弥漫性疾病与FET周期，以减少不同子宫腺肌症亚型及鲜胚移植相关超生理激素环境所致混杂。",
+          "populationAndSample": "摘要未报告具体纳入研究数量与样本量；纳入对象为涉及子宫腺肌症与FET及生殖结局的研究人群。",
+          "methods": "总结子宫腺肌症病理生理与诊断相关文献，并分析弥漫性子宫腺肌症对FET及生殖结局的临床影响；分析仅限弥漫性病变与FET周期。摘要未报告检索策略、纳入排除标准与证据质量评价方法。",
+          "keyResults": "在纳入的FET与生殖结局研究中，弥漫性子宫腺肌症与较低的种植率和活产率、较高的流产率以及早产（PTB）和妊娠期高血压疾病（HDP）风险升高呈趋势性关联。较少见的产科风险包括胎盘植入谱系疾病（PAS）和子宫破裂。累及结合带的弥漫性子宫腺肌症对FET及产科结局的不利影响似乎大于单纯存在子宫腺肌症。上述关联均来自回顾性和观察性数据，证据确定性为低至极低。",
+          "limitations": "证据来自回顾性和观察性研究，确定性为低至极低；作者指出该领域缺乏高质量研究，需要采用标准化诊断与分期标准、按亚型分层的前瞻性研究。摘要未报告各结局的具体效应量。",
+          "clinicalInterpretation": "作者认为在FET前应主动查找并仔细刻画子宫腺肌症，尤其是结合带受累的弥漫性病变；同时强调现有关于子宫腺肌症与不良FET及产科结局的关联尚不足以转化为循证管理策略，需前瞻性、亚型分层研究加以验证。该文为范围综述，其结论不构成临床指南或操作规范。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "89e4b2973c68888a59373f9436cbe869ad5567fe5f235a8c0dd5fe710937f843"
+      }
+    ]
+  }
+}
