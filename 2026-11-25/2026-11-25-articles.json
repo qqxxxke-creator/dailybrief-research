@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-25",
+  "articles": [
+    {
+      "sourceId": "medical-xpress-obgyn",
+      "title": "Fertility technology alone won't reverse global fertility decline, experts warn",
+      "url": "https://medicalxpress.com/news/2026-11-fertility-technology-wont-reverse-global.html",
+      "excerpt": "Advances in fertility medicine have helped millions to have children—but a new international review published in Frontiers in Science has concluded that such treatments are unlikely to reverse the worldwide fall in fertility rates on their own.",
+      "publishedAt": "2026-11-24T10:00:06.000Z",
+      "category": "politics",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "一篇发表于 Frontiers in Science 的国际综述指出，生育医学进步虽已帮助数百万家庭生育，但仅靠生育技术不太可能逆转全球生育率下降。",
+      "reviewStatus": "accepted",
+      "lowPriority": false
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "hero_headline": "国际综述：单靠生育技术难以逆转全球生育率下降",
+  "daily_overview": "今日可确认的妇产科专业信号有限。一项发表于 Frontiers in Science 的国际综述指出，生育医学进步虽帮助数百万家庭生育，但单靠相关治疗不太可能扭转全球生育率下降趋势，提示生殖医学需与更广泛的社会政策协同。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [
+    {
+      "title": "Fertility technology alone won't reverse global fertility decline, experts warn",
+      "url": "https://medicalxpress.com/news/2026-11-fertility-technology-wont-reverse-global.html",
+      "source": "Medical Xpress Obstetrics & Gynecology",
+      "summary": "《Frontiers in Science》发表的一项国际综述认为，生育医学进步已帮助数百万家庭生育，但单靠生育技术治疗不太可能扭转全球生育率下降趋势。原文未提供具体干预建议，提示生殖医学需与更广泛社会政策协同。",
+      "importance": 7
+    }
+  ],
+  "editor_note": "生育率下降是公共卫生与政策问题，生殖医学需跨部门协作；临床应关注可及性与公平性。",
+  "keywords": [
+    "生育率下降",
+    "生殖医学",
+    "生育技术",
+    "国际综述",
+    "公共卫生政策",
+    "生殖健康"
+  ],
+  "research": {
+    "generatedAt": "2026-11-25T01:00:44.191Z",
+    "dataAsOf": "2026-11-25T01:00:44.191Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及治疗前系统性免疫炎症指数与乳腺及妇科肿瘤特异性预后之间的关联：一项更新的系统评价、荟萃分析及证据确定性评估、西地那非用于胎儿生长受限——一项个体参与者数据荟萃分析、近期妊娠期糖尿病女性循环N-乳酸酰氨基酸与产后体重指数、腰围及血糖性状变化的关系。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:43074994",
+        "pmid": "43074994",
+        "doi": "10.3389/fonc.2026.1631722",
+        "title": "Associations between pretreatment systemic immune-inflammation index and tumor-specific prognosis in breast and gynecological cancers: an updated systematic review, meta-analysis, and certainty-of-evidence assessment.",
+        "abstract": "INTRODUCTION: Recent meta-analyses have assessed the prognostic value of the systemic immune-inflammation index (SII) in individual breast or gynecological cancers, but pooling these biologically distinct malignancies into one analysis has limited validity. Substantial differences in disease stage, treatment, SII thresholds, covariate adjustment, and outcome definitions add further uncertainty. This revised study therefore used a tumor-specific framework without assuming a common effect across female malignancies.\nMETHODS: Four databases were searched through July 22, 2023, with structured top-up search and citation tracking through August 5, 2026. Current disease-specific meta-analyses served as quantitative sources when more robust than the original evidence; post-review primary studies were synthesized narratively to avoid double counting. Breast, cervical, ovarian, endometrial, and vulvar cancers were evaluated separately, with assessment of cohort overlap, residual confounding, sparse endpoints, threshold validity, heterogeneity, and certainty of evidence. No overall pooled estimate was calculated.\nRESULTS: The updated evidence map used current quantitative sources comprising 28 breast cancer studies (17,291 participants), 16 cervical cancer studies(2,840 participants), 10 ovarian cancer studies representing 11 cohorts (2,852 participants), and 8 endometrial cancer studies(2,315 participants). Targeted post-review updates included one additional cervical cancer cohort (470 participants), three later endometrial cancer reports, and three vulvar cancer reports(295 participants); these narrative updates were not added to the source-review denominators. Elevated SII was associated with poorer overall survival(OS), disease-free survival(DFS), and distant metastasis-free survival (DMFS) in breast cancer; poorer OS and progression-free survival (PFS) in cervical cancer; poorer OS and DFS in ovarian cancer; and poorer OS and PFS in endometrial cancer. The pathologic complete response (pCR) in breast cancer was not significantly associated with SII. The findings related to DMFS and vulvar cancer were statistically sparse. Substantial or very high heterogeneity persisted in several analyses, and all principal outcomes were rated as very-low-certainty evidence.\nCONCLUSIONS: Elevated pretreatment SII was associated with adverse outcomes in several tumor-specific settings, but the magnitude and transportability of associations remain uncertain. Evidence cannot establish a universal threshold, confirm incremental prognostic value beyond established clinical factors, or support sufficient net benefit for treatment decisions. SII should therefore serve as an adjunct rather than a stand-alone clinical tool. Systematic review registration: https://www.crd.york.ac.uk/prospero/, identifier CRD 42023444334.",
+        "journal": "Frontiers in oncology",
+        "authors": [
+          "Hongfei Chen",
+          "Jiangtao Fan",
+          "Junru Tong",
+          "Junyou Su",
+          "Li Deng",
+          "Lingling Huang",
+          "Xiting Yan",
+          "Yan Chen"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-11-09T00:00:00.000Z",
+        "activityAt": "2026-11-24T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43074994/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "治疗前系统性免疫炎症指数与乳腺及妇科肿瘤特异性预后之间的关联：一项更新的系统评价、荟萃分析及证据确定性评估",
+          "researchQuestion": "在乳腺、宫颈、卵巢、子宫内膜及外阴癌中，治疗前系统性免疫炎症指数（SII）升高是否分别与肿瘤特异性预后不良相关；研究不假设不同女性恶性肿瘤存在共同效应，而是采用肿瘤特异性框架。",
+          "studyDesign": "更新的系统评价与荟萃分析，并附证据确定性评估；采用肿瘤特异性框架，不计算总体合并效应量；纳入现行疾病特异性荟萃分析作为定量来源，并对评价后新发表的原发性研究进行叙述性综合。",
+          "populationAndSample": "更新的证据图基于现行定量来源，包括28项乳腺癌研究（17,291名参与者）、16项宫颈癌研究（2,840名参与者）、10项卵巢癌研究（代表11个队列，2,852名参与者）及8项子宫内膜癌研究（2,315名参与者）。针对评价后更新的靶向补充包括1个额外宫颈癌队列（470名参与者）、3篇较晚发表的子宫内膜癌报告及3篇外阴癌报告（295名参与者）；这些叙述性更新未计入来源综述的分母。",
+          "methods": "检索4个数据库至2023年7月22日，并进行结构化补充检索和引文追踪至2026年8月5日；当现行疾病特异性荟萃分析比原始证据更稳健时，将其作为定量来源；评价后发表的原发性研究以叙述性方式综合，以避免重复计数。分别评估乳腺癌、宫颈癌、卵巢癌、子宫内膜癌和外阴癌；评估内容包括队列重叠、残余混杂、终点稀疏、阈值有效性、异质性及证据确定性。未计算总体合并估计值。",
+          "keyResults": "SII升高与乳腺癌更差的总生存（OS）、无病生存（DFS）和无远处转移生存（DMFS）相关；与宫颈癌更差的OS和无进展生存（PFS）相关；与卵巢癌更差的OS和DFS相关；与子宫内膜癌更差的OS和PFS相关。乳腺癌病理完全缓解（pCR）与SII无显著关联。DMFS及外阴癌相关结果在统计学上稀疏。多项分析中仍存在显著或极高的异质性，所有主要结局均被评为极低确定性证据。",
+          "limitations": "作者指出，不同疾病在分期、治疗、SII阈值、协变量调整和结局定义方面存在实质性差异，且队列重叠、残余混杂、终点稀疏及阈值有效性等问题仍存在；多项分析异质性显著或极高；所有主要结局的证据确定性均为极低。评价后更新的叙述性资料未纳入来源综述的分母。",
+          "clinicalInterpretation": "该研究提示，治疗前SII升高在若干肿瘤特异性情境中与不良结局存在关联；但关联幅度及其可移植性仍不确定。现有证据不能确立统一阈值，不能确认SII在既有临床因素之外的增量预后价值，也不足以支持将其用于治疗决策；因此SII宜作为辅助而非独立的临床工具。此为该系统评价的结论，并非指南或共识推荐。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "148e5fcaa5c076bdab8d1de3766de95708625e0b8e54af146ef3e634326ac875"
+      },
+      {
+        "id": "pmid:43076474",
+        "pmid": "43076474",
+        "doi": "10.1056/evidoa2500302",
+        "title": "Sildenafil for Fetal Growth Restriction - An Individual Participant Meta-Analysis.",
+        "abstract": "BACKGROUND: Phosphodiesterase type-5 inhibitors have been investigated as an in utero therapy for fetal growth restriction (FGR).\nMETHODS: We conducted a systematic review and individual participant data meta-analysis of randomized trials of phosphodiesterase type-5 inhibitors versus placebo/no treatment in singleton pregnancies with FGR. The primary outcome was infant survival without serious adverse outcome. Secondary outcomes included gestation at birth and birth weight z score among liveborn infants. Predefined subgroups were evaluated.\nRESULTS: Of 19 eligible trials, 4 contributed data. Of 492 participants, 240 had been assigned to placebo and 252 to the phosphodiesterase type-5 inhibitor sildenafil. Infant survival without serious adverse outcome occurred in 110 of 240 participants (45.8%) assigned to placebo versus 113 of 252 participants (44.8%) assigned to sildenafil (relative risk [RR], 0.96; 95% confidence interval [CI], 0.78 to 1.17). No apparent interaction was observed between subgroups. There was no apparent difference in gestation at birth (mean difference -0.5 weeks; 95% CI, -1.3 to 0.2) or birth weight z score (mean difference, 0.0; 95% CI, -0.2 to 0.2). Persistent pulmonary hypertension of the newborn occurred in 10 of 176 participants (5.7%) assigned to placebo versus 27 of 197 participants (13.7%) assigned to sildenafil (RR, 2.39; 95% CI, 1.23 to 4.61); nitric oxide was used in 15 of 176 participants (8.5%) assigned to placebo versus 20 of 197 participants (10.2%) assigned to sildenafil (RR, 1.21; 95% CI, 0.64 to 2.29).\nCONCLUSIONS: Maternal sildenafil therapy for FGR was not associated with improved outcomes for infants. It was associated with persistent pulmonary hypertension of the newborn but not with an increase in nitric oxide therapy. (Funded by Health Research Council of New Zealand and others; PROSPERO number, CRD42017069688; ANZCTR number, ACTRN12612000584831; ISRCTN number, ISRCTN39133303; ClinicalTrials.gov numbers, NCT02442492 and NCT02277132.).",
+        "journal": "NEJM evidence",
+        "authors": [
+          "Andrew Sharp",
+          "Chirag Kariya",
+          "Christian Gluud",
+          "Janus Christian Jakobsen",
+          "Jessica Liauw",
+          "Katie M Groom",
+          "Kenneth Lim",
+          "Laura K Mackay",
+          "Mariëlle E Bruins",
+          "Markus Harboe Olsen",
+          "Peter von Dadelszen",
+          "Wessel Ganzevoort"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-11-24T00:00:00.000Z",
+        "activityAt": "2026-11-24T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43076474/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "西地那非用于胎儿生长受限——一项个体参与者数据荟萃分析",
+          "researchQuestion": "在单胎胎儿生长受限（FGR）妊娠中，与安慰剂或无治疗相比，磷酸二酯酶5抑制剂（西地那非）作为宫内治疗能否改善婴儿生存且不伴严重不良结局，并影响出生孕周和出生体重z评分。",
+          "studyDesign": "系统评价及随机试验个体参与者数据荟萃分析，并预设亚组分析。",
+          "populationAndSample": "19项符合条件的研究中，4项提供了数据；共492名参与者，其中240名被分配至安慰剂组，252名被分配至磷酸二酯酶5抑制剂西地那非组；均为单胎FGR妊娠。",
+          "methods": "检索并纳入磷酸二酯酶5抑制剂与安慰剂或无治疗比较的随机试验，进行个体参与者数据荟萃分析；主要结局为婴儿生存且无严重不良结局；次要结局包括活产儿的出生孕周和出生体重z评分；并评估预设亚组。",
+          "keyResults": "主要结局（婴儿生存且无严重不良结局）在安慰剂组为110/240（45.8%），在西地那非组为113/252（44.8%），相对风险（RR）为0.96（95%置信区间[CI] 0.78至1.17）。未见明显亚组间交互作用。出生孕周的平均差为-0.5周（95% CI -1.3至0.2），出生体重z评分的平均差为0.0（95% CI -0.2至0.2），均未见明显差异。新生儿持续性肺动脉高压在安慰剂组为10/176（5.7%），在西地那非组为27/197（13.7%），RR为2.39（95% CI 1.23至4.61）；一氧化氮治疗在安慰剂组为15/176（8.5%），在西地那非组为20/197（10.2%），RR为1.21（95% CI 0.64至2.29）。",
+          "limitations": "19项符合条件的研究中仅4项提供了个体参与者数据，摘要未报告未纳入试验的具体特征及偏倚风险；关于一氧化氮治疗的比较未显示显著差异，但置信区间较宽。",
+          "clinicalInterpretation": "在FGR单胎妊娠中，母亲使用西地那非治疗与婴儿结局改善无关，但与新生儿持续性肺动脉高压相关，且未伴随一氧化氮治疗增加。该结果来自个体参与者数据荟萃分析，不能直接外推为临床用药指令。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "134a2b5e88422670fa1431cc94637e1f0a4fc57002d1a02fdd38a7c87d0661fc"
+      },
+      {
+        "id": "pmid:43074682",
+        "pmid": "43074682",
+        "doi": "10.1155/jobe/4109846",
+        "title": "Circulating N-Lactoyl Amino Acids and Postpartum Changes in Body Mass Index, Waist Circumference, and Glycemic Traits Among Women With Recent Gestational Diabetes.",
+        "abstract": "BACKGROUND: N-lactoyl phenylalanine (Lac-Phe) is an exercise-induced circulating metabolite recently observed to suppress caloric intake and prevent obesity in animal models. The relationship between Lac-Phe and other N-lactoyl-amino acids (AAs) with postpartum weight change and other obesity-related metabolic traits in humans is understudied and could have implications for the development of targeted weight loss therapies.\nOBJECTIVE: We assessed whether postpartum changes in plasma N-lactoyl-AAs (including Lac-Phe, Lac-valine, Lac-leucine, Lac-isoleucine, and Lac-tyrosine) are associated with concurrent changes in body mass index (BMI), waist circumference, and glycemic traits (fasting and 2-h glucose, hemoglobin A1c; HbA1c) from 6 weeks to 12 months postpartum.\nMETHODS: We studied 93 women in the Balance After Baby Intervention for Women with Recent GDM (BABI) trial, a completed, randomized trial of a mobile device-delivered postpartum lifestyle program among women with recent gestational diabetes. We measured anthropometrics, HbA1c, performed a 75-g fasting OGTT, and conducted plasma metabolomic profiling at enrollment (∼6 weeks postpartum) and at ∼12 months postpartum. We conducted multivariable-adjusted linear regression models to estimate the associations between changes in N-lactoyl-AAs and concurrent changes in BMI, waist circumference, and glycemic traits during the postpartum year. Statistical significance was evaluated using false discovery rate (FDR)-adjusted p values, with a significance threshold of 0.05.\nRESULTS: BMI decreased by mean (SD) 0.07 (2.38) kg/m 2 from enrollment to 12 months postpartum. In fully adjusted models that included precursor amino acid levels and changes, we did not observe statistically significant associations between postpartum changes in N-lactoyl-AAs, including Lac-Phe, and concurrent changes in BMI, waist circumference, or glycemic traits during the postpartum year.\nCONCLUSION: Our limited and exploratory longitudinal data from postpartum women with recent gestational diabetes did not demonstrate associations between changes in N-lactoyl-AAs, including Lac-Phe, and postpartum weight change or other obesity-related metabolic traits. Additional longitudinal data and well-designed intervention studies in humans are needed to confirm the relationship between Lac-Phe, BMI, and other obesity-related traits.\nTRIAL REGISTRATION: ClinicalTrials.gov identifier: NCT02744300.",
+        "journal": "Journal of obesity",
+        "authors": [
+          "Abby F Fleisch",
+          "Anya J Cutler",
+          "Deirdre K Tobias",
+          "Ellen W Seely",
+          "Isha Agarwal",
+          "Jacinda M Nicklas",
+          "Jonathan Z Long"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-01-01T00:00:00.000Z",
+        "activityAt": "2026-11-24T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43074682/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 3.75,
+          "recency": 10,
+          "total": 87.5,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "近期妊娠期糖尿病女性循环N-乳酸酰氨基酸与产后体重指数、腰围及血糖性状变化的关系",
+          "researchQuestion": "在近期有妊娠期糖尿病（GDM）的女性中，产后血浆N-乳酸酰氨基酸（包括Lac-Phe、Lac-缬氨酸、Lac-亮氨酸、Lac-异亮氨酸和Lac-酪氨酸）的变化是否与产后6周至12个月期间体重指数（BMI）、腰围及血糖性状（空腹血糖、2小时血糖、糖化血红蛋白HbA1c）的同期变化相关。",
+          "studyDesign": "对已完成随机试验（BABI试验，针对近期GDM女性的移动设备产后生活方式干预随机试验）数据的纵向观察性分析；采用多变量调整线性回归模型，并以FDR校正p值（显著性阈值0.05）判定统计学显著性。",
+          "populationAndSample": "BABI试验中的93名女性，均为近期妊娠期糖尿病女性。",
+          "methods": "在入组时（约产后6周）和约产后12个月测量人体测量学指标、HbA1c，进行75 g空腹口服葡萄糖耐量试验，并进行血浆代谢组学分析；采用多变量调整线性回归模型估计N-乳酸酰氨基酸变化与同期BMI、腰围和血糖性状变化之间的关联；完全调整模型包含前体氨基酸水平及其变化。",
+          "keyResults": "从入组至产后12个月，BMI平均（标准差）下降0.07（2.38）kg/m²。在包含前体氨基酸水平及其变化的完全调整模型中，未观察到N-乳酸酰氨基酸（包括Lac-Phe）的产后变化与产后一年内BMI、腰围或血糖性状的同期变化之间存在统计学显著关联。",
+          "limitations": "作者称数据有限且为探索性纵向资料；样本量为93名女性，来自单一已完成随机试验的人群（近期GDM女性）；摘要未报告其他具体局限性；作者指出尚需更多纵向数据及设计良好的人体干预研究加以确认。",
+          "clinicalInterpretation": "在该探索性纵向分析中，未发现N-乳酸酰氨基酸（包括Lac-Phe）变化与产后体重变化或其他肥胖相关代谢性状相关。这属于观察性关联分析结果，不构成因果结论，也不支持将其用于靶向减重治疗的临床决策。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "043c1239c654b4a32b3fc7346621b50d9c53489757dfb4cd4df25057ca2259c9"
+      },
+      {
+        "id": "pmid:43076476",
+        "pmid": "43076476",
+        "doi": "10.1056/evidoa2600175",
+        "title": "Lumigolix versus Ganirelix in Controlled Ovarian Hyperstimulation for Assisted Reproductive Technologies.",
+        "abstract": "BACKGROUND: In this trial we aimed to compare lumigolix, a novel oral gonadotropin-releasing hormone (GnRH) antagonist, to ganirelix injection in women undergoing controlled ovarian hyperstimulation for assisted reproductive technologies.\nMETHODS: In this randomized, double-blind, double-dummy, active-controlled, noninferiority trial, women 20 to 39 years of age with infertility and an indication for in vitro fertilization or intracytoplasmic sperm injection with embryo transfer were randomly assigned (1:1) to receive one of two GnRH antagonists: 200 mg of lumigolix orally every 12 hours or 0.25 mg of ganirelix subcutaneously once daily, with matching placebos. Co-primary end points were rate of premature luteinizing hormone (LH) surge suppression (noninferiority margin, -10 percentage points) and number of oocytes retrieved after one stimulation cycle (noninferiority margin, -3). The safety profile was assessed.\nRESULTS: Three hundred seventeen women were randomly assigned to either lumigolix (n=156) or ganirelix (n=161). Mean age was 32.2 years, mean body mass index (weight in kilograms divided by the square of the height in meters) was 22.2, and mean duration of infertility was 37.9 months. The rate of premature LH surge suppression was 99.4% (153/154 women) with lumigolix and 99.4% (160/161 women) with ganirelix (difference, 0.0 percentage points; 95% confidence interval [CI], -1.8 to 1.8; P<0.0001 for noninferiority). The estimated marginal mean number of oocytes retrieved was 9.9 with lumigolix and 9.9 with ganirelix (difference, 0.0; 95% CI, -1.0 to 1.0; P<0.0001 for noninferiority). Adverse events occurred in 80 patients (51.9%) receiving lumigolix and 71 patients (44.1%) receiving ganirelix; all were mild to moderate. Ovarian hyperstimulation syndrome occurred in five patients (3.2%) and four patients (2.5%) in the lumigolix and ganirelix groups, respectively, and serious adverse events occurred in 5 patients (3.2%) and 11 patients (6.8%), respectively.\nCONCLUSIONS: Among women with infertility and an expected normal ovarian response, lumigolix was noninferior to ganirelix in preventing premature LH surges and resulted in a comparable number of oocytes retrieved per cycle, without adverse events leading to treatment discontinuation. (Funded by Jiangsu Hengrui Pharmaceuticals; ClinicalTrials.gov number, NCT05994378.).",
+        "journal": "NEJM evidence",
+        "authors": [
+          "Feiyang Diao",
+          "Gang Cheng",
+          "Hong Chen",
+          "Hongbin Chi",
+          "Jichun Tan",
+          "Jie Qiao",
+          "Lan Chao",
+          "Lei Jin",
+          "Li Li",
+          "Lina Hu",
+          "Mingyun Hong",
+          "Qianhong Ma",
+          "Qiaohong Lai",
+          "Qiongfang Wu",
+          "Songying Zhang",
+          "Xi Li",
+          "Xiaohong Wang",
+          "Xiaokui Yang",
+          "Xiaoli Qu",
+          "Xiaoyan Liang",
+          "Xueru Song",
+          "Yanping Li",
+          "Yichun Guan",
+          "Yimin Zhu",
+          "Ying Song",
+          "Yuanzhen Zhang",
+          "Yunxia Cao",
+          "Zeli Li"
+        ],
+        "publicationTypes": [
+          "Comparative Study",
+          "Equivalence Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-11-24T00:00:00.000Z",
+        "activityAt": "2026-11-24T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43076476/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 3.75,
+          "recency": 10,
+          "total": 87.5,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "Lumigolix与加尼瑞克在辅助生殖技术控制性卵巢过度刺激中的比较",
+          "researchQuestion": "在接受辅助生殖技术控制性卵巢过度刺激的女性中，新型口服促性腺激素释放激素（GnRH）拮抗剂lumigolix在抑制早发黄体生成素（LH）峰和获卵数方面是否不劣于加尼瑞克注射剂，并评估安全性。",
+          "studyDesign": "随机、双盲、双模拟、活性对照的非劣效性试验，按1:1随机分配。",
+          "populationAndSample": "317名20至39岁、患不孕症且有体外受精或卵胞浆内单精子注射并胚胎移植指征的女性，随机分配至lumigolix组（n=156）或加尼瑞克组（n=161）；平均年龄32.2岁，平均BMI 22.2，平均不孕病程37.9个月。",
+          "methods": "受试者分别接受lumigolix 200 mg口服每12小时一次或加尼瑞克0.25 mg皮下每日一次，并使用匹配的安慰剂。共同主要终点为早发LH峰抑制率（非劣效界值-10个百分点）和一次刺激周期后的获卵数（非劣效界值-3）。同时评估安全性特征。",
+          "keyResults": "早发LH峰抑制率在lumigolix组为99.4%（153/154），在加尼瑞克组为99.4%（160/161）；差异为0.0个百分点（95% CI -1.8至1.8），非劣效性P<0.0001。估计边际平均获卵数在两组均为9.9；差异为0.0（95% CI -1.0至1.0），非劣效性P<0.0001。不良事件发生在lumigolix组80例（51.9%）和加尼瑞克组71例（44.1%），均为轻至中度。卵巢过度刺激综合征在lumigolix组和加尼瑞克组分别为5例（3.2%）和4例（2.5%）；严重不良事件分别为5例（3.2%）和11例（6.8%）。",
+          "limitations": "研究人群为20至39岁、预期卵巢反应正常的女性，平均BMI 22.2；摘要未报告活产等妊娠结局，也未报告长期安全性随访数据。",
+          "clinicalInterpretation": "在该人群中，lumigolix在预防早发LH峰和每周期获卵数方面不劣于加尼瑞克，且未出现导致停药的的不良事件。上述结果适用于该试验所定义的人群和方案，不应直接推广为普遍临床用药规范。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "a45384c361d28f2daf33bec0b4a13adf7cc9c1efb0f040e2b33591a0bce326c5"
+      },
+      {
+        "id": "pmid:43074121",
+        "pmid": "43074121",
+        "doi": "10.1111/1471-0528.70391",
+        "title": "Decision-Making About Timing of Birth for Women With Gestational Diabetes Mellitus: A Qualitative Study.",
+        "abstract": "OBJECTIVE: To explore how women with gestational diabetes mellitus (GDM) and clinicians navigate decision-making about timing of birth amid limited evidence supporting induction of labour (IOL).\nDESIGN: Qualitative descriptive study.\nSETTING: Two metropolitan tertiary hospitals and one regional hospital in South Australia.\nPOPULATION OR SAMPLE: Women with recent experience of GDM and clinicians providing antenatal care to women with GDM.\nMETHODS: Semi-structured interviews and focus groups were conducted with women and clinicians. Data analysed using reflexive thematic analysis informed by an interpretivist approach.\nMAIN OUTCOME MEASURES: Experiences, perceptions, and information needs related to decision-making regarding the timing of birth for women with GDM.\nRESULTS: Four themes illustrated how IOL was frequently positioned as the default pathway following a GDM diagnosis. Women described reduced confidence in bodily autonomy and an increased sense of responsibility for foetal safety, often perceiving induction as the safest option. Clinicians described balancing perceptions of risk, guideline interpretation, and service pressures while framing IOL as the anticipated pathway. Fragmented care and inconsistent communication limited opportunities for shared decision-making.\nCONCLUSIONS: Decision-making about timing of birth for women with GDM appeared influenced by risk framing, institutional practices, and uncertainty within the evidence base. Despite limited evidence supporting routine induction, IOL was often normalised in clinical care. Greater emphasis on consistent information, balanced risk communication, and engagement with women's values and preferences may strengthen woman-centred shared decision-making.",
+        "journal": "BJOG : an international journal of obstetrics and gynaecology",
+        "authors": [
+          "Amanda Poprzeczny",
+          "Jennifer Fereday",
+          "Kathy Lynch",
+          "Kathy Lynch, \nJennifer Fereday, \nAmanda Poprzeczny, \nTracy Humphrey",
+          "Tracy Humphrey"
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ],
+        "publishedAt": "2026-11-24T04:51:21.000Z",
+        "activityAt": "2026-11-24T04:51:21.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43074121/",
+        "sourceKinds": [
+          "journal-rss",
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 10,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 85,
+          "evidenceRank": 0.4
+        },
+        "summaryZh": {
+          "titleZh": "妊娠期糖尿病女性关于分娩时机决策的质性研究",
+          "researchQuestion": "妊娠期糖尿病（GDM）女性与临床医生在支持引产（IOL）的证据有限的情况下，如何围绕分娩时机进行决策。",
+          "studyDesign": "质性描述性研究，采用半结构化访谈和焦点小组，基于解释主义取向进行反思性主题分析。",
+          "populationAndSample": "摘要未报告具体样本量；研究对象为近期有GDM经历的女性，以及为GDM女性提供产前保健的临床医生；研究地点为南澳大利亚两家大都市三级医院和一家区域医院。",
+          "methods": "开展半结构化访谈和焦点小组，采用基于解释主义取向的反思性主题分析处理资料；主要结局指标为与GDM女性分娩时机决策相关的经历、认知和信息需求。",
+          "keyResults": "形成四个主题，显示GDM诊断后引产常被定位为默认路径。女性描述自身身体自主性信心下降、对胎儿安全的责任感增强，并常认为引产是最安全的选择。临床医生描述在风险认知、指南解读与服务压力之间权衡，同时将引产视为预期路径。碎片化照护和不一致的沟通限制了共同决策的机会。",
+          "limitations": "为质性描述性研究，仅在南澳大利亚三家医院开展，样本量及受访者具体构成摘要未报告；结果基于受访者认知与体验，不作效果估计。",
+          "clinicalInterpretation": "研究提示，GDM女性分娩时机决策受风险表述方式、机构实践及证据基础中的不确定性影响；尽管支持常规引产的证据有限，引产在临床照护中常被常态化。作者提出，加强信息一致性、平衡的风险沟通并纳入女性价值观与偏好，可能有助于促进以女性为中心的共享决策。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "90f1cd5a8213d53fa2a95112fe7173f23f8d9a53943e09fdb64bbdb2ba8ced3f"
+      }
+    ]
+  }
+}
