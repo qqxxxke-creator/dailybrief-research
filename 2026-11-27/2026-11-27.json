@@ -1,0 +1,274 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-11-26T22:33:00.507Z",
+    "dataAsOf": "2026-11-26T22:33:00.507Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及生活方式教育对妊娠期糖尿病女性血糖控制的影响：随机对照试验的系统综述与meta分析、临床生物标志物（CA125、HE4）联合MRI诊断子宫内膜癌淋巴结转移的价值：一项meta分析、重新评估男性不育中的TEX11变异：致病性、睾丸组织病理学及对取精意义的一项系统综述。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:43094548",
+        "pmid": "43094548",
+        "doi": "10.3389/fendo.2026.2004864",
+        "title": "Effects of lifestyle education on glycemic control in women with gestational diabetes mellitus: a systematic review and meta-analysis of randomized controlled trials.",
+        "abstract": "BACKGROUND: This review evaluated the effects of lifestyle education on fasting blood glucose (FBG), 2-hour postprandial plasma glucose (2-h PPG), and glycated hemoglobin (HbA1c) in women with gestational diabetes mellitus (GDM) and explored between-study heterogeneity.\nMETHODS: PubMed, Web of Science, Embase, Scopus, CINAHL, and the Cochrane Library were searched from inception to July 1, 2026. Eligible randomized controlled trials (RCTs) compared lifestyle education with usual care or standard management in women diagnosed with GDM during the current pregnancy and reported FBG, 2-h PPG, or HbA1c. Analyses used R software and random-effects models to pool between-group differences in changes from baseline as Hedges' g and mean differences (MDs), with 95% confidence intervals (CIs). MDs were expressed in mmol/L for FBG and 2-h PPG and as absolute differences in HbA1c (%). Heterogeneity was assessed using I 2 , τ 2 , and 95% prediction intervals. Prespecified and exploratory subgroup analyses, univariable meta-regression, sensitivity analyses, and small-study effect assessments were performed. Certainty of evidence was assessed using GRADE.\nRESULTS: Twenty-three RCTs included 3,197 women. Lifestyle education may reduce FBG (21 RCTs, n=2,382; Hedges' g=-0.78, 95% CI -0.99 to -0.57; MD=-0.64 mmol/L, 95% CI -0.88 to -0.40; low-certainty evidence) and may reduce 2-h PPG (12 RCTs, n=1,546; Hedges' g=-0.95, 95% CI -1.17 to -0.74; MD=-1.26 mmol/L, 95% CI -1.73 to -0.79; low-certainty evidence). The evidence is very uncertain about the effect of lifestyle education on HbA1c (9 RCTs, n=1,433; Hedges' g=-0.72, 95% CI -1.28 to -0.16; MD=-0.80%, 95% CI -1.59 to -0.01; very low-certainty evidence). FBG effects differed by delivery mode and, in exploratory analyses, by body mass index (BMI) category. Study-level meta-regression showed associations of baseline BMI with FBG effects (β=0.101, 95% CI 0.028 to 0.173) and baseline gestational age with 2-h PPG effects (β=0.078, 95% CI 0.025 to 0.131).\nCONCLUSIONS: Lifestyle education may improve glycemic control in women with GDM, although effects varied across outcomes. The 2-h PPG findings appeared relatively more consistent, but evidence certainty was low. Further large, rigorous RCTs are needed to address heterogeneity and establish targeted lifestyle management strategies.\nSYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/, identifier CRD420261459872.",
+        "journal": "Frontiers in endocrinology",
+        "authors": [
+          "Chen Wei",
+          "Feng Ding",
+          "Jie Wang",
+          "Jiwei Chen",
+          "Lingbei Chen",
+          "Simin Xu",
+          "Yueyu Long"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-11-11T00:00:00.000Z",
+        "activityAt": "2026-11-26T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43094548/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "生活方式教育对妊娠期糖尿病女性血糖控制的影响：随机对照试验的系统综述与meta分析",
+          "researchQuestion": "在妊娠期糖尿病（GDM）女性中，生活方式教育对空腹血糖（FBG）、餐后2小时血浆葡萄糖（2-h PPG）和糖化血红蛋白（HbA1c）有何影响，并探索研究间异质性来源。",
+          "studyDesign": "系统综述与随机对照试验（RCT）meta分析。",
+          "populationAndSample": "当前妊娠诊断为GDM的女性；纳入23项RCT，共3,197名女性。",
+          "methods": "检索PubMed、Web of Science、Embase、Scopus、CINAHL和Cochrane Library（自建库至2026年7月1日）。纳入比较生活方式教育与常规护理或标准管理的RCT，要求报告FBG、2-h PPG或HbA1c。使用R软件和随机效应模型，以Hedges' g和均数差（MD）汇总组间基线变化差异，并计算95%置信区间（CI）；FBG和2-h PPG的MD以mmol/L表示，HbA1c以绝对差异（%）表示。采用I²、τ²和95%预测区间评估异质性，并进行预设和探索性亚组分析、单变量meta回归、敏感性分析、小样本效应评估及GRADE证据确定性评估。",
+          "keyResults": "23项RCT共3,197名女性。生活方式教育可能降低FBG（21项RCT，n=2,382；Hedges' g=-0.78，95% CI -0.99至-0.57；MD=-0.64 mmol/L，95% CI -0.88至-0.40；低确定性证据），并可能降低2-h PPG（12项RCT，n=1,546；Hedges' g=-0.95，95% CI -1.17至-0.74；MD=-1.26 mmol/L，95% CI -1.73至-0.79；低确定性证据）。生活方式教育对HbA1c的影响证据非常不确定（9项RCT，n=1,433；Hedges' g=-0.72，95% CI -1.28至-0.16；MD=-0.80%，95% CI -1.59至-0.01；极低确定性证据）。FBG效应按分娩方式不同，探索性分析中按BMI类别不同。研究水平meta回归显示基线BMI与FBG效应相关（β=0.101，95% CI 0.028至0.173），基线孕周与2-h PPG效应相关（β=0.078，95% CI 0.025至0.131）。",
+          "limitations": "FBG和2-h PPG证据确定性低，HbA1c证据确定性极低；存在研究间异质性，效应受分娩方式、BMI类别和孕周等因素影响；需进一步开展大规模、严谨的RCT以处理异质性并建立针对性生活方式管理策略。摘要未报告各研究偏倚风险的具体分布。",
+          "clinicalInterpretation": "该meta分析提示，生活方式教育可能改善GDM女性的FBG和2-h PPG，但对HbA1c的影响非常不确定；2-h PPG结果相对更一致。证据确定性低至非常低，不能据此形成指南或强制临床指令，应结合个体情况并等待更高质量RCT验证。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "e696f13e134aa639975b558e408ef3ba8347b2fc47f74f7e6862a8d2e45bf144"
+      },
+      {
+        "id": "pmid:43095594",
+        "pmid": "43095594",
+        "doi": "10.3389/fonc.2026.2012910",
+        "title": "Diagnostic value of clinical biomarkers (CA125, HE4) combined with MRI for lymph node metastasis in endometrial cancer: a meta-analysis.",
+        "abstract": "UNLABELLED: Accurate preoperative identification of lymph node metastasis (LNM) in endometrial cancer (EC) remains challenging. This systematic review and meta-analysis primarily aimed to evaluate the diagnostic accuracy of magnetic resonance imaging (MRI) combined with serum carbohydrate antigen 125 (CA125) and human epididymis protein 4 (HE4) for identifying LNM in EC, while assessing the CA125+HE4 dual-marker strategy as a secondary analysis. PubMed, Embase, Web of Science, Cochrane Library, CNKI, Wanfang, CQVIP, and SinoMed were systematically searched through March 2026. Eligible studies evaluated the diagnostic accuracy of MRI+CA125+HE4 and/or CA125+HE4 using postoperative histopathological assessment as the reference standard. Study quality was assessed using QUADAS-2, and diagnostic accuracy measures were synthesized separately for each strategy. Eleven studies involving 1,341 unique patients provided 13 diagnostic datasets. Four studies involving 418 patients evaluated the MRI+CA125+HE4 strategy, with a pooled sensitivity of 0.94 (95% CI: 0.87-0.98), specificity of 0.69 (95% CI: 0.52-0.82), and summary receiver operating characteristic curve area under the curve (SROC AUC) of 0.95 (95% CI: 0.92-0.96). Substantial heterogeneity was observed in specificity (I² = 92.17%). As a secondary analysis, nine studies evaluated the CA125+HE4 strategy, yielding a pooled sensitivity of 0.84 (95% CI: 0.76-0.90), specificity of 0.72 (95% CI: 0.60-0.78), and SROC AUC of 0.87 (95% CI: 0.84-0.90). The two strategies were analyzed separately without inferring comparative superiority. MRI combined with CA125 and HE4 showed promising diagnostic accuracy for identifying LNM in EC. However, the limited number of triple-test studies, substantial heterogeneity in specificity, and variations in diagnostic thresholds and positivity rules warrant cautious interpretation. The secondary CA125+HE4 analysis provides complementary evidence, while further prospective studies using standardized diagnostic criteria are needed to validate the clinical applicability of these findings.\nSYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/, identifier CRD420261556800.",
+        "journal": "Frontiers in oncology",
+        "authors": [
+          "Kaifan Zhang",
+          "Ye Zhou",
+          "Yingying Gong",
+          "Zhaoxun Han"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-11-11T00:00:00.000Z",
+        "activityAt": "2026-11-26T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43095594/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "临床生物标志物（CA125、HE4）联合MRI诊断子宫内膜癌淋巴结转移的价值：一项meta分析",
+          "researchQuestion": "磁共振成像（MRI）联合血清CA125和HE4对子宫内膜癌（EC）淋巴结转移（LNM）的诊断准确性如何；CA125+HE4双标志物策略作为二次分析。",
+          "studyDesign": "系统综述与诊断准确性meta分析。",
+          "populationAndSample": "子宫内膜癌患者，以术后组织病理学为参考标准；11项研究、1,341例独特患者，提供13个诊断数据集。其中MRI+CA125+HE4策略4项研究、418例患者；CA125+HE4策略9项研究。",
+          "methods": "检索PubMed、Embase、Web of Science、Cochrane Library、CNKI、万方、维普和中国生物医学文献数据库（SinoMed），截至2026年3月。纳入评估MRI+CA125+HE4和/或CA125+HE4诊断准确性、并以术后组织病理学为参考标准的研究。采用QUADAS-2评估研究质量，分别汇总每种策略的诊断准确性指标。",
+          "keyResults": "MRI+CA125+HE4策略（4项研究，418例）汇总敏感度0.94（95% CI 0.87-0.98），特异度0.69（95% CI 0.52-0.82），SROC AUC 0.95（95% CI 0.92-0.96）；特异度存在明显异质性（I²=92.17%）。二次分析CA125+HE4策略（9项研究）汇总敏感度0.84（95% CI 0.76-0.90），特异度0.72（95% CI 0.60-0.78），SROC AUC 0.87（95% CI 0.84-0.90）。两种策略分别分析，不推断比较优越性。",
+          "limitations": "三重检测研究数量有限（4项）；特异度异质性明显（I²=92.17%）；诊断阈值和阳性判定规则存在差异；需采用标准化诊断标准的前瞻性研究验证临床适用性。",
+          "clinicalInterpretation": "MRI联合CA125和HE4对EC淋巴结转移显示出有希望的诊断准确性，但证据受研究数量少、特异性异质性和阈值差异限制；CA125+HE4为补充证据。不能据此宣称某一策略优越或直接改变临床路径，应谨慎解读并等待前瞻性标准化研究。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "d7863c7a7c6d37706ad934d9079fe45825ede3633b255c52fdc0eb98364ff2f1"
+      },
+      {
+        "id": "pmid:43089412",
+        "pmid": "43089412",
+        "doi": "10.3390/genes17111416",
+        "title": "Reassessing TEX11 Variants in Male Infertility: A Systematic Review of Pathogenicity, Testicular Histopathology, and Implications for Sperm Retrieval.",
+        "abstract": "BACKGROUND/OBJECTIVES: TEX11 variants are an established cause of male infertility, particularly non-obstructive azoospermia (NOA) with meiotic arrest. However, the pathogenicity of many reported variants and their implications for sperm retrieval remain uncertain. We aimed to reassess TEX11 variant pathogenicity and evaluate evidence relevant to testicular sperm extraction (TESE).\nMETHODS: We systematically reassessed reported TEX11 variants by integrating clinical phenotype, testicular histology, computational predictions, functional evidence, and structural modelling of TEX11 interactions with its meiotic partners. Available sperm-retrieval data were also reviewed to assess their relevance for testicular sperm extraction (TESE).\nRESULTS: Sixty-one unique variants were identified. After reassessment, 22 (36.1%) were classified as pathogenic or likely pathogenic, 27 (44.3%) as benign or likely benign, and 12 (19.7%) as variants of uncertain significance. Truncating variants accounted for most pathogenic variants and were predominantly associated with NOA and meiotic arrest. Among carriers with available histological data, meiotic arrest was the predominant finding (36/45, 80.0%), whereas individually documented sperm retrieval outcomes were limited, precluding reliable variant-specific predictions of TESE success or failure.\nCONCLUSIONS: These findings emphasize the distinction between molecular pathogenicity, histological impairment, and sperm retrieval prognosis. Current evidence does not support using TEX11 genotype alone to contraindicate TESE.",
+        "journal": "Genes",
+        "authors": [
+          "Gabriel Livera",
+          "Hela Bellil",
+          "Morgane Le Beulze"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-11-08T00:00:00.000Z",
+        "activityAt": "2026-11-26T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43089412/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 6,
+          "recency": 10,
+          "total": 91,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "重新评估男性不育中的TEX11变异：致病性、睾丸组织病理学及对取精意义的一项系统综述",
+          "researchQuestion": "已报告的TEX11变异致病性如何，其与睾丸组织病理学及睾丸取精（TESE）结局的关系如何。",
+          "studyDesign": "系统综述。",
+          "populationAndSample": "男性不育中报告TEX11变异者；识别61个独特变异；有组织学资料的携带者45例中，减数分裂停滞36/45（80.0%）。摘要未报告携带者总样本量。",
+          "methods": "系统再评估已报告的TEX11变异，整合临床表型、睾丸组织学、计算预测、功能证据以及TEX11与减数分裂伙伴相互作用的结构建模；并回顾可获得的取精数据以评估其对TESE的意义。摘要未报告检索数据库与检索时间。",
+          "keyResults": "识别61个独特变异；再评估后22个（36.1%）为致病/可能致病，27个（44.3%）为良性/可能良性，12个（19.7%）为意义未明变异。截短变异占致病变异的大多数，主要与NOA和减数分裂停滞相关。有组织学资料的携带者中，减数分裂停滞36/45（80.0%）；个体取精结局数据有限，无法可靠进行变异特异性TESE成功或失败预测。",
+          "limitations": "许多报告变异的致病性仍不确定；个体精子获取结局数据有限，无法进行可靠的变异特异性TESE预测；证据不足以用TEX11基因型单独判断TESE禁忌。摘要未报告检索数据库和总样本量。",
+          "clinicalInterpretation": "现有证据不支持仅凭TEX11基因型禁忌TESE；分子致病性、组织学损伤与取精预后应分开评估，取精决策仍需结合其他临床信息。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "ac8a150513e5a17eb6e7984db5b528d93b64355d5c31760c4a58c78377b08c56"
+      },
+      {
+        "id": "pmid:43091886",
+        "pmid": "43091886",
+        "doi": "10.3390/ijms272210259",
+        "title": "An Umbrella Review on Psychological Stress and Infertility.",
+        "abstract": "This umbrella review reports on biological mechanisms and synthesizes evidence from 88 systematic reviews and meta-analyses on stress, infertility, medically assisted reproduction (MAR) outcomes and management. Stress-induced activation of the hypothalamic-pituitary-adrenal axis predominantly suppresses reproductive function in animal models; nonetheless, human data remain heterogeneous. Infertility was consistently associated with substantial psychological burden, with pooled prevalence of depression and anxiety in infertile women ranging between 31.6 and 48.8% and 36.2 and 41%, respectively, with higher levels in women than men. Psychological burden increases during MAR as well as after unsuccessful treatment. Psychological stress adversely affects semen parameters and menstrual regularity, while evidence on MAR outcomes was inconsistent. Despite reducing depression and anxiety, stress cognitive-behavioral therapy and mindfulness's impact on pregnancy rates remains uncertain. Overall confidence was critically low, with substantial heterogeneity and overlap. This analysis highlights a biologically plausible but methodologically not validated bidirectional association, underlining the need for standardized stress assessment, longitudinal designs, and a multidisciplinary approach to elucidate causality. This leaves both the MAR specialist and the infertile patient in unchartered territory. Future studies should focus on how to navigate this zone by addressing the anticipated impact of psychological stress on infertility or, ideally, alleviating it as part of preconception care.",
+        "journal": "International journal of molecular sciences",
+        "authors": [
+          "Agni Pantou",
+          "Anna Trypidi",
+          "Danae Tsagkaraki",
+          "Evangelos Maziotis",
+          "George Papadogkonas",
+          "Karolina Ashiku",
+          "Konstantinos Pantos",
+          "Konstantinos Sfakianoudis",
+          "Mara Simopoulou",
+          "Margarita Chronopoulou",
+          "Maria Androutsopoulou",
+          "Theodora Griva"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-11-15T00:00:00.000Z",
+        "activityAt": "2026-11-26T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43091886/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 3.75,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "心理应激与不孕症：一项伞形综述",
+          "researchQuestion": "心理应激与不孕症、医学辅助生殖（MAR）结局及管理之间的证据如何，涉及哪些生物学机制。",
+          "studyDesign": "伞形综述，综合88篇系统综述和meta分析。",
+          "populationAndSample": "不孕人群及接受MAR者；纳入88篇系统综述和meta分析。摘要未报告原始受试者总样本量。",
+          "methods": "伞形综述，报告生物学机制并综合88篇系统综述和meta分析中关于应激、不孕、MAR结局和管理的证据。摘要未报告具体检索数据库、检索时间和偏倚评估工具。",
+          "keyResults": "应激诱导的下丘脑-垂体-肾上腺轴激活在动物模型中主要抑制生殖功能，但人类数据仍不一致。不孕与显著心理负担持续相关：不孕女性抑郁汇总患病率31.6%-48.8%，焦虑36.2%-41%，女性高于男性；MAR期间及治疗失败后心理负担增加。心理应激对精液参数和月经规律性有不良影响，但对MAR结局的证据不一致。认知行为治疗和正念可降低抑郁和焦虑，但对妊娠率的影响仍不确定。总体信心极低，异质性大且存在重叠。",
+          "limitations": "总体证据信心极低，研究间异质性大且存在重叠；人类数据不一致；心理应激与不孕的关系为生物学上合理但方法学上尚未验证的双向关联，因果关系未证实。摘要未报告检索数据库和偏倚评估细节。",
+          "clinicalInterpretation": "不孕人群心理负担常见，尤其在MAR期间及治疗失败后；认知行为治疗和正念可能减轻抑郁焦虑，但对妊娠率的影响不确定。现有证据不支持将心理应激与不孕的关系视为已证实的因果关系；临床应重视心理筛查和多学科支持，并推动标准化应激评估和纵向研究。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "358602cacee20e0e53b53cd2199d32003a88a24ae841ff3dbb8f43f5266a124b"
+      },
+      {
+        "id": "pmid:43096135",
+        "pmid": "43096135",
+        "doi": "10.1002/14651858.cd007421.pub5",
+        "title": "Hyaluronic acid and other adherence compounds in embryo transfer media for assisted reproductive technologies.",
+        "abstract": "RATIONALE: Successful implantation of the embryo into the endometrial lining is a key step in in vitro fertilisation (IVF). Adherence compounds such as hyaluronic acid (HA) and fibrin sealant are sometimes added to the embryo transfer medium to increase the likelihood of embryo implantation and pregnancy. This is the third update of a Cochrane review first published in the Cochrane Library in 2010.\nOBJECTIVES: To determine whether adding adherence compounds to embryo transfer media improves pregnancy outcomes, including live birth, and decreases miscarriage, in women undergoing assisted reproduction.\nSEARCH METHODS: We searched the Cochrane Gynaecology and Fertility Group Trials Register, CENTRAL, MEDLINE, Embase, and PsycINFO on 20 May 2025 for randomised controlled trials (RCTs) that examined the effects of adherence compounds in embryo transfer media on pregnancy outcomes. We communicated with experts in the field and checked reference lists of relevant studies.\nELIGIBILITY CRITERIA: We included only truly randomised trials that compared embryo transfer media containing functional concentrations of adherence compounds (high HA: 0.5 mg/mL) to media with no or low HA (≤ 0.25 mg/mL). We applied the Trustworthiness in RAndomised Controlled Trials (TRACT) checklist to all included studies from the 2020 review and this update. We included only studies free of serious trustworthiness concerns.\nOUTCOMES: Critical review outcomes were live birth and miscarriage. Important outcomes were clinical pregnancy, multiple pregnancies, ectopic outcomes, congenital anomalies, and adverse events.\nRISK OF BIAS: We assessed risk of bias using the Cochrane risk of bias tool (RoB 1).\nSYNTHESIS METHODS: We synthesised results for each outcome using meta-analysis where possible and calculated pooled risk ratios (RRs) and 95% confidence intervals (CIs) using a fixed-effect model. We performed statistical analysis according to Cochrane guidelines. We corresponded with study authors as required. We summarised results narratively where necessary. We assessed evidence certainty using GRADE.\nINCLUDED STUDIES: We included a total of 13 studies with 4931 participants. Twelve studies with 4720 participants compared high-concentration HA to no or low-concentration HA. One study with 211 participants compared fibrin sealant to no fibrin sealant.\nSYNTHESIS OF RESULTS: High-concentration versus low-concentration or no hyaluronic acid Low-certainty evidence suggests that adding high HA to transfer media may slightly increase the chance of live birth (RR 1.10, 95% CI 1.01 to 1.19; I² = 41%; 7 studies, 3775 participants). If the chances of live birth with no or low HA are 35%, adding high-concentration HA may increase live birth from between 35% to 42%. However, the observed effect was not robust to any of the planned sensitivity analyses, suggesting that high-concentration HA may not have meaningful effects on live birth. Moderate-certainty evidence suggests that adding high HA to transfer media probably makes little to no difference to the chance of miscarriage (RR 0.95, 95% CI 0.74 to 1.21; I² = 0%; 8 studies, 3205 participants). This suggests that if the risk of miscarriage with no or low HA is 8%, then adding high HA to transfer media the risk of miscarriage is between 6% and 9%. Low-certainty evidence suggests that adding high HA to transfer media may slightly increase the chance of clinical pregnancy (RR 1.12, 95% CI 1.04 to 1.19; I² = 18%; 11 studies, 3989 participants). If the baseline chance of pregnancy with no or low HA is 42%, the addition of high HA to transfer media may increase clinical pregnancy from 43% to 50%. Low-certainty evidence suggests that adding high HA to transfer media may increase multiple pregnancies (RR 1.51, 95% CI 1.29 to 1.78; I² = 25%; 8 studies, 3621 participants). If the baseline chance of multiple pregnancies with no or low HA is 10%, the addition of HA may increase the chance from 13% to 18%. However, the effect observed may be attributed to a policy of transferring multiple embryos per treatment cycle. No studies reported on total adverse events. Many studies were associated with unclear or high risk of bias, particularly for selective reporting and other bias. Consequently, we downgraded the certainty of the evidence once or twice for risk of bias. We also downgraded the outcome 'multiple pregnancy' for indirectness because the included studies used multiple embryo transfer policies. RCTs on other potential adherence compounds are currently limited.\nAUTHORS: Low-certainty evidence shows that the addition of high HA to embryo transfer media may slightly increase live birth. However, the observed effect was not robust to any of the planned sensitivity analyses, suggesting that high HA may not have meaningful effects on live birth. Moderate-certainty evidence indicates that adding high HA to embryo transfer media probably results in little to no difference in miscarriage. Low-certainty evidence shows that the addition of high HA to embryo transfer media may slightly increase clinical pregnancy. If the chance of clinical pregnancy with no or low HA is 42%, the addition of high HA may increase clinical pregnancy from 43% to 50%. This observed effect held under both a random-effects and fixed-effect model. Low-certainty evidence also shows that the addition of high HA to embryo transfer media may increase multiple pregnancies. If the chance of multiple pregnancies with no or low HA is 10%, the addition of high HA may increase multiple pregnancies from 13% to 18%. Although this is likely explained by increased implantation under multiple embryo transfer policies, rather than a direct effect of HA on monozygotic twinning. Further reporting and research on the impacts of high HA in transfer media for single embryo transfer protocols, and on adverse events and congenital abnormalities, is needed. RCTs on other potential adherence compounds are currently limited.\nFUNDING: This Cochrane review had no dedicated funding.\nREGISTRATION: 2020 version: https://doi.org/10.1002/14651858.CD007421.pub4 2014 version: https://doi.org/10.1002/14651858.CD007421.pub3 2010 version: https://doi.org/10.1002/14651858.CD007421.pub2 Protocol: https://doi.org/10.1002/14651858.CD007421.",
+        "journal": "The Cochrane database of systematic reviews",
+        "authors": [
+          "Devorah Heymann",
+          "Liat Vidal",
+          "Michelle Steeper",
+          "Sarah F Lensen",
+          "Yuval Or",
+          "Zeev Shoham"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-11-26T00:00:00.000Z",
+        "activityAt": "2026-11-26T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43096135/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 3.75,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "辅助生殖技术胚胎移植培养基中的透明质酸及其他黏附化合物",
+          "researchQuestion": "在辅助生殖的胚胎移植培养基中加入黏附化合物（如透明质酸和纤维蛋白胶）是否改善妊娠结局（包括活产）并降低流产。",
+          "studyDesign": "Cochrane系统综述与meta分析（第三次更新）。",
+          "populationAndSample": "接受辅助生殖/体外受精的女性；13项研究、4,931名参与者。12项研究4,720人比较高浓度透明质酸（HA）与无/低浓度HA；1项研究211人比较纤维蛋白胶与无纤维蛋白胶。",
+          "methods": "检索Cochrane Gynaecology and Fertility Group Trials Register、CENTRAL、MEDLINE、Embase和PsycINFO，截至2025年5月20日。仅纳入真正随机试验，比较含功能性浓度黏附化合物的胚胎移植培养基（高HA 0.5 mg/mL）与无/低HA（≤0.25 mg/mL）的培养基；采用TRACT清单和RoB 1评估，固定效应模型汇总风险比（RR）及95% CI，GRADE评估证据确定性。",
+          "keyResults": "高浓度HA与无/低浓度HA比较：活产RR 1.10（95% CI 1.01-1.19；I²=41%；7项研究，3,775人；低确定性证据），若基线活产机会为35%，加入高HA可能使活产机会介于35%-42%，但该效应对所有计划敏感性分析不稳健，提示高HA可能对活产无有意义影响。流产RR 0.95（95% CI 0.74-1.21；I²=0%；8项研究，3,205人；中等确定性证据），若基线流产风险为8%，加入高HA后风险介于6%-9%。临床妊娠RR 1.12（95% CI 1.04-1.19；I²=18%；11项研究，3,989人；低确定性证据），若基线临床妊娠机会为42%，加入高HA可能使临床妊娠升至43%-50%，随机效应和固定效应模型下均成立。多胎妊娠RR 1.51（95% CI 1.29-1.78；I²=25%；8项研究，3,621人；低确定性证据），若基线多胎妊娠机会为10%，加入高HA可能使机会升至13%-18%，可能归因于多胚胎移植政策而非HA直接导致单卵双胎。无研究报告总不良事件。纤维蛋白胶比较（1项研究，211人）的结局结果摘要未报告。",
+          "limitations": "许多研究偏倚风险不明确或高，尤其选择性报告和其他偏倚；活产效应不稳健；多胎妊娠结局因多胚胎移植政策存在间接性；无总不良事件数据；其他潜在黏附化合物的RCT有限；需在单胚胎移植政策下进一步研究高HA对活产、不良事件和先天异常的影响。",
+          "clinicalInterpretation": "在辅助生殖胚胎移植培养基中加入高浓度HA可能轻度提高活产和临床妊娠，并可能增加多胎妊娠；对流产可能几乎无差异。活产效应不稳健，证据确定性低至中等，不能据此形成强制推荐；需在单胚胎移植政策及不良事件、先天异常方面进一步研究。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "9187502a0e7213a3fdf24b680968bce324db198f6dd1ee2a8bd58af347d900fe"
+      }
+    ]
+  }
+}
