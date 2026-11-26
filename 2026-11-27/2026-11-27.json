@@ -7,8 +7,8 @@
   "editor_note": "过去24小时暂无符合质量要求的重要更新。",
   "keywords": [],
   "research": {
-    "generatedAt": "2026-11-26T22:33:00.507Z",
-    "dataAsOf": "2026-11-26T22:33:00.507Z",
+    "generatedAt": "2026-11-26T23:43:16.883Z",
+    "dataAsOf": "2026-11-26T23:43:16.883Z",
     "isCachedFallback": false,
     "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及生活方式教育对妊娠期糖尿病女性血糖控制的影响：随机对照试验的系统综述与meta分析、临床生物标志物（CA125、HE4）联合MRI诊断子宫内膜癌淋巴结转移的价值：一项meta分析、重新评估男性不育中的TEX11变异：致病性、睾丸组织病理学及对取精意义的一项系统综述。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
     "papers": [
@@ -42,15 +42,6 @@
         "matchedTopicIds": [
           "maternal-fetal-medicine"
         ],
-        "assignedTopicId": "maternal-fetal-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 100,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "生活方式教育对妊娠期糖尿病女性血糖控制的影响：随机对照试验的系统综述与meta分析",
           "researchQuestion": "在妊娠期糖尿病（GDM）女性中，生活方式教育对空腹血糖（FBG）、餐后2小时血浆葡萄糖（2-h PPG）和糖化血红蛋白（HbA1c）有何影响，并探索研究间异质性来源。",
@@ -62,7 +53,16 @@
           "clinicalInterpretation": "该meta分析提示，生活方式教育可能改善GDM女性的FBG和2-h PPG，但对HbA1c的影响非常不确定；2-h PPG结果相对更一致。证据确定性低至非常低，不能据此形成指南或强制临床指令，应结合个体情况并等待更高质量RCT验证。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "e696f13e134aa639975b558e408ef3ba8347b2fc47f74f7e6862a8d2e45bf144"
+        "summaryInputHash": "e696f13e134aa639975b558e408ef3ba8347b2fc47f74f7e6862a8d2e45bf144",
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:43095594",
@@ -90,15 +90,6 @@
         "matchedTopicIds": [
           "gynecologic-oncology"
         ],
-        "assignedTopicId": "gynecologic-oncology",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 15,
-          "recency": 10,
-          "total": 100,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "临床生物标志物（CA125、HE4）联合MRI诊断子宫内膜癌淋巴结转移的价值：一项meta分析",
           "researchQuestion": "磁共振成像（MRI）联合血清CA125和HE4对子宫内膜癌（EC）淋巴结转移（LNM）的诊断准确性如何；CA125+HE4双标志物策略作为二次分析。",
@@ -110,7 +101,16 @@
           "clinicalInterpretation": "MRI联合CA125和HE4对EC淋巴结转移显示出有希望的诊断准确性，但证据受研究数量少、特异性异质性和阈值差异限制；CA125+HE4为补充证据。不能据此宣称某一策略优越或直接改变临床路径，应谨慎解读并等待前瞻性标准化研究。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "d7863c7a7c6d37706ad934d9079fe45825ede3633b255c52fdc0eb98364ff2f1"
+        "summaryInputHash": "d7863c7a7c6d37706ad934d9079fe45825ede3633b255c52fdc0eb98364ff2f1",
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:43089412",
@@ -138,15 +138,6 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 6,
-          "recency": 10,
-          "total": 91,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "重新评估男性不育中的TEX11变异：致病性、睾丸组织病理学及对取精意义的一项系统综述",
           "researchQuestion": "已报告的TEX11变异致病性如何，其与睾丸组织病理学及睾丸取精（TESE）结局的关系如何。",
@@ -158,7 +149,16 @@
           "clinicalInterpretation": "现有证据不支持仅凭TEX11基因型禁忌TESE；分子致病性、组织学损伤与取精预后应分开评估，取精决策仍需结合其他临床信息。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "ac8a150513e5a17eb6e7984db5b528d93b64355d5c31760c4a58c78377b08c56"
+        "summaryInputHash": "ac8a150513e5a17eb6e7984db5b528d93b64355d5c31760c4a58c78377b08c56",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 6,
+          "recency": 10,
+          "total": 91,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:43091886",
@@ -195,15 +195,6 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 3.75,
-          "recency": 10,
-          "total": 88.75,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "心理应激与不孕症：一项伞形综述",
           "researchQuestion": "心理应激与不孕症、医学辅助生殖（MAR）结局及管理之间的证据如何，涉及哪些生物学机制。",
@@ -215,7 +206,16 @@
           "clinicalInterpretation": "不孕人群心理负担常见，尤其在MAR期间及治疗失败后；认知行为治疗和正念可能减轻抑郁焦虑，但对妊娠率的影响不确定。现有证据不支持将心理应激与不孕的关系视为已证实的因果关系；临床应重视心理筛查和多学科支持，并推动标准化应激评估和纵向研究。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "358602cacee20e0e53b53cd2199d32003a88a24ae841ff3dbb8f43f5266a124b"
+        "summaryInputHash": "358602cacee20e0e53b53cd2199d32003a88a24ae841ff3dbb8f43f5266a124b",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 3.75,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 1
+        }
       },
       {
         "id": "pmid:43096135",
@@ -247,15 +247,6 @@
         "matchedTopicIds": [
           "reproductive-medicine"
         ],
-        "assignedTopicId": "reproductive-medicine",
-        "score": {
-          "topicMatch": 50,
-          "evidence": 25,
-          "clinicalActionability": 3.75,
-          "recency": 10,
-          "total": 88.75,
-          "evidenceRank": 1
-        },
         "summaryZh": {
           "titleZh": "辅助生殖技术胚胎移植培养基中的透明质酸及其他黏附化合物",
           "researchQuestion": "在辅助生殖的胚胎移植培养基中加入黏附化合物（如透明质酸和纤维蛋白胶）是否改善妊娠结局（包括活产）并降低流产。",
@@ -267,7 +258,16 @@
           "clinicalInterpretation": "在辅助生殖胚胎移植培养基中加入高浓度HA可能轻度提高活产和临床妊娠，并可能增加多胎妊娠；对流产可能几乎无差异。活产效应不稳健，证据确定性低至中等，不能据此形成强制推荐；需在单胚胎移植政策及不良事件、先天异常方面进一步研究。"
         },
         "summaryStatus": "success",
-        "summaryInputHash": "9187502a0e7213a3fdf24b680968bce324db198f6dd1ee2a8bd58af347d900fe"
+        "summaryInputHash": "9187502a0e7213a3fdf24b680968bce324db198f6dd1ee2a8bd58af347d900fe",
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 3.75,
+          "recency": 10,
+          "total": 88.75,
+          "evidenceRank": 1
+        }
       }
     ]
   }
