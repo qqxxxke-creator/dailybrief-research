@@ -1,0 +1,286 @@
+{
+  "hero_headline": "过去24小时暂无符合质量要求的重要更新。",
+  "daily_overview": "过去24小时暂无符合质量要求的重要更新。",
+  "tech_briefs": [],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "过去24小时暂无符合质量要求的重要更新。",
+  "keywords": [],
+  "research": {
+    "generatedAt": "2026-11-27T22:54:14.170Z",
+    "dataAsOf": "2026-11-27T22:54:14.170Z",
+    "isCachedFallback": false,
+    "dailySignal": "今日共筛选出5篇达到阈值的研究，重点涉及妇幼保健机构中的伦理治理：一项系统综述、评估激素依赖性恶性肿瘤女性的阴道健康和治疗反应：临床、细胞学和组织学评估方法的比较分析、肥胖与非肥胖高危妊娠期糖尿病女性的治疗结局：CDC4G临床试验的二次分析。以下内容用于研究情报追踪，单篇论文结论不等同于指南建议。",
+    "papers": [
+      {
+        "id": "pmid:43101712",
+        "pmid": "43101712",
+        "doi": "10.3389/fpubh.2026.1932823",
+        "title": "Ethical governance in maternal and child health institutions: a systematic review.",
+        "abstract": "BACKGROUND: Maternal and child health is a key priority under China's national goals for high-quality population development. However, rapid advances in reproductive medicine, maternal-fetal intervention, and artificial intelligence pose ethical challenges that existing governance frameworks struggle to address.\nMETHODS: Literature from 2016 to 2026 was searched in PubMed, Web of Science, and Scopus. Data on ethics committee structure, research ethics review processes, ethical dilemmas, and governance innovations were independently extracted. Thematic synthesis was used to identify recurring patterns and challenges. Chinese and international evidence were analyzed separately and distinguished.\nRESULTS: Limited empirical evidence from Chinese institutions suggested that while ethics committees were widely established, significant gaps exist between regulatory requirements and actual implementation, particularly in follow-up research ethics review, committee capacity, and training. International evidence identifies additional governance strategies, such as competency-based training, quality assessment systems, and dynamic oversight mechanisms that may be relevant to the Chinese context. Specific ethical dilemmas in maternal-fetal medicine revealed unique governance needs, including tensions between maternal autonomy and fetal interests, and unresolved issues regarding embryo status and equitable access to fertility preservation.\nCONCLUSION: This review synthesized international ethical governance principles and strategies that may inform the development of ethical governance systems in Chinese maternal and child health settings. Key strategies identified include regional ethics collaboration networks, standardized quality assessment systems, and competency-based training programs. These findings required further validation through China-specific empirical research. The review highlighted the need for strengthened empirical investigation of ethical governance practices in Chinese maternal and child health institutions.\nSYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD420261440509, identifier: CRD420261440509.",
+        "journal": "Frontiers in public health",
+        "authors": [
+          "Beibei Shen",
+          "Cuiliu Li",
+          "Jianfeng Shao",
+          "Pei Lu",
+          "Xia Mo",
+          "Yufeng Li"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-11-11T00:00:00.000Z",
+        "activityAt": "2026-11-27T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43101712/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "reproductive-medicine"
+        ],
+        "assignedTopicId": "reproductive-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 100,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "妇幼保健机构中的伦理治理：一项系统综述",
+          "researchQuestion": "综合2016—2026年证据，描述中国妇幼保健机构伦理治理现状、伦理困境与治理创新，并识别可为中国情境提供参考的国际伦理治理原则和策略。",
+          "studyDesign": "系统综述。",
+          "populationAndSample": "2016—2026年发表的文献；中国与国际证据分开分析。摘要未报告纳入文献数量或样本量。",
+          "methods": "检索PubMed、Web of Science和Scopus（2016—2026年）；独立提取伦理委员会结构、研究伦理审查流程、伦理困境和治理创新数据；采用主题综合法识别反复出现的模式与挑战；中国与国际证据分别分析并加以区分。",
+          "keyResults": "来自中国机构的有限经验性证据提示，伦理委员会虽广泛建立，但监管要求与实际实施之间存在显著差距，尤其在后续研究伦理审查、委员会能力和培训方面。国际证据识别出能力本位培训、质量评估体系和动态监督机制等额外治理策略，可能与中国情境相关。母胎医学的具体伦理困境显示独特治理需求，包括母体自主性与胎儿利益之间的张力，以及胚胎地位和生育力保存公平可及性方面未解决的问题。",
+          "limitations": "中国机构经验性证据有限；所识别的策略需通过中国本土实证研究进一步验证。摘要未报告纳入文献数量、研究样本量或偏倚风险。",
+          "clinicalInterpretation": "该综述整合国际伦理治理原则和策略，可能为中国妇幼保健机构伦理治理体系建设提供参考；结论强调需中国本土实证研究验证，不能据此视为指南或共识。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "0a4114e4f74a68bb077d0f9a3afbfbe7360b22596a34165de72eebf3455a9ed2"
+      },
+      {
+        "id": "pmid:43099488",
+        "pmid": "43099488",
+        "doi": "10.1186/s12905-026-04843-y",
+        "title": "Assessing vaginal health and treatment response in women with hormone-dependent malignancies: a comparative analysis of clinical, cytological, and histological assessment methods.",
+        "abstract": "BACKGROUND: Genitourinary syndrome of menopause (GSM) is common among women with hormone-dependent malignancies and often requires non-hormonal management. Clinical, cytological, and histological measures assess different aspects of vaginal health, but their relationships and responsiveness to treatment remain unclear. This study compared these assessment methods in women undergoing non-hormonal treatment for GSM.\nMETHODS: This post hoc secondary analysis of a prospective randomized pilot study included 65 women with hormone-dependent breast or endometrial cancer and symptomatic GSM. Participants received either non-ablative Er: YAG vaginal laser therapy or a vaginal gel containing 0.2% hyaluronic acid. Vaginal Health Index (VHI) and Vaginal Maturation Index (VMI) data were available for all 65 participants. Histological data were available for 64 participants at baseline and 63 at follow-up, providing 63 complete pairs. Assessments were performed at baseline and one month after treatment completion. Relationships between measures were evaluated using Spearman correlations. Responsiveness was quantified using effect size r derived from Wilcoxon signed-rank tests. Exploratory univariable linear regression examined associations between changes in clinical or cytological measures and histological outcomes.\nRESULTS: At baseline, VMI correlated positively with VHI (ρ = 0.498, p < 0.001), epithelial thickness (ρ = 0.466, p < 0.001), and glycogenization (ρ = 0.385, p = 0.002), and negatively with inflammatory infiltration (ρ = -0.436, p < 0.001). VHI showed weaker nominal associations with glycogenization (ρ = 0.267, p = 0.033) and inflammatory infiltration (ρ = -0.261, p = 0.036). Changes in VMI and VHI were not significantly correlated. In pooled analyses, VHI showed the greatest statistical responsiveness (r = 0.87), whereas VMI showed negligible responsiveness (r = 0.00). Responsiveness was moderate for epithelial thickness (r = 0.37) and large for capillary density (r = 0.50) and elastin fiber density (r = 0.76). Exploratory regression analyses identified no significant associations between changes in VHI or VMI and histological outcomes.\nCONCLUSIONS: Clinical, cytological, and histological measures showed limited observed overlap and may provide complementary information. VMI primarily reflected baseline epithelial status, VHI showed the greatest short-term statistical responsiveness, and histology captured tissue-level changes. Outcome selection in future studies should therefore reflect the specific clinical or research objective.\nTRIAL REGISTRATION: ClinicalTrials.gov NCT07420647; retrospectively registered, first posted on 19 February 2026.",
+        "journal": "BMC women's health",
+        "authors": [
+          "Biljana Grčar Kuzmanov",
+          "Ines Cilenšek",
+          "Nina Kovacevic",
+          "Sebastjan Merlo",
+          "Simona Miceska",
+          "Tina Lipovec",
+          "Veronika Kloboves Prevodnik"
+        ],
+        "publicationTypes": [
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-09-03T00:00:00.000Z",
+        "activityAt": "2026-11-27T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43099488/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "gynecologic-oncology"
+        ],
+        "assignedTopicId": "gynecologic-oncology",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "评估激素依赖性恶性肿瘤女性的阴道健康和治疗反应：临床、细胞学和组织学评估方法的比较分析",
+          "researchQuestion": "在因绝经泌尿生殖综合征接受非激素治疗的激素依赖性恶性肿瘤女性中，临床、细胞学和组织学评估方法之间的关系及其对治疗的反应性如何？",
+          "studyDesign": "前瞻性随机预试验的事后二次分析（比较性研究）。",
+          "populationAndSample": "65例激素依赖性乳腺癌或子宫内膜癌且伴症状性绝经泌尿生殖综合征的女性；阴道健康指数和阴道成熟指数数据65例均可得；组织学数据基线64例、随访63例，63对完整配对。",
+          "methods": "参与者接受非剥脱Er:YAG阴道激光治疗或含0.2%透明质酸的阴道凝胶；基线和治疗完成后1个月评估；采用Spearman相关分析指标关系；由Wilcoxon符号秩检验所得效应量r量化反应性；探索性单变量线性回归分析临床或细胞学指标变化与组织学结局的关联。",
+          "keyResults": "基线时阴道成熟指数与阴道健康指数正相关（ρ=0.498，p<0.001）、与上皮厚度正相关（ρ=0.466，p<0.001）、与糖原化正相关（ρ=0.385，p=0.002）、与炎性浸润负相关（ρ=-0.436，p<0.001）。阴道健康指数与糖原化（ρ=0.267，p=0.033）和炎性浸润（ρ=-0.261，p=0.036）仅有较弱的 nominal 关联。阴道成熟指数与阴道健康指数的变化无显著相关。汇总分析中，阴道健康指数统计反应性最大（r=0.87），阴道成熟指数反应性可忽略（r=0.00）；上皮厚度为中等（r=0.37），毛细血管密度（r=0.50）和弹性纤维密度（r=0.76）为大。探索性回归分析未发现阴道健康指数或阴道成熟指数变化与组织学结局之间的显著关联。",
+          "limitations": "摘要未明确报告研究局限性；该分析为随机预试验的事后二次分析，组织学数据存在少量缺失，探索性回归分析未发现显著关联，随访至治疗结束后1个月。",
+          "clinicalInterpretation": "在该研究背景下，临床、细胞学和组织学指标观察到的重叠有限，可能提供互补信息；阴道成熟指数主要反映基线上皮状态，阴道健康指数在短期统计反应性最高，组织学捕捉组织层面变化。未来研究结局选择应依据具体临床或研究目标；该二次分析不能用于推断激光或凝胶的疗效。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "0a72a80cacc4eb75379885f3630ff441135d06408ae448d3da4ca37192aac909"
+      },
+      {
+        "id": "pmid:43099518",
+        "pmid": "43099518",
+        "doi": "10.1186/s12916-026-05403-9",
+        "title": "Treatment outcomes among obese and non-obese women at high-risk of gestational diabetes: secondary analysis of the CDC4G clinical trial.",
+        "abstract": "BACKGROUND: We examined whether the association between treatment and adverse pregnancy outcomes among high-risk women with gestational diabetes mellitus (GDM) differed by maternal obesity status.\nMETHODS: We conducted a secondary analysis of The Changing Diagnostic Criteria for Gestational Diabetes (CDC4G) trial, a prospective, unblinded, stepped-wedge cluster randomised clinical trial evaluating the implementation of the WHO-2013 GDM diagnostic criteria among women screened based on risk factors. The trial was conducted in 2018 with follow-up to August 2019. We included women whose GDM diagnosis based on a 75-g oral glucose tolerance test was discordant between the Swedish-GDM criteria (fasting plasma glucose ≥ 7.0 mmol/L and/or a region-specific 2-hour plasma glucose threshold ranging from 8.9 to < 11.1 mmol/L) and the modified WHO-2013 criteria (fasting plasma glucose ≥ 5.1 mmol/L and/or 2-hour plasma glucose ≥ 8.5 mmol/L). The 1-hour plasma glucose criterion could not be evaluated because these measurements were unavailable before implementation of the WHO-2013 criteria. Obesity was defined as body mass index (BMI) ≥ 30 kg/m² and non-obesity as BMI 18.5-29.9 kg/m². The primary outcome was large-for-gestational-age neonate (LGA), defined as birthweight > 90th percentile by Swedish reference standards. Multilevel Poisson and multinomial regression models adjusted for baseline characteristics were used.\nRESULTS: Among 2069 women with discordant classification by diagnostic criteria, 917 (55.9% with obesity) were undiagnosed and untreated, and 1152 (46.3% with obesity) were diagnosed and treated. In multivariable models, treatment did not reduce the risk of LGA among women with obesity (relative risk (RR) 0.94, 95% CI 0.81-1.08) but reduced risk among women without obesity (RR 0.69, 95% CI 0.54-0.88), interaction P < .01.\nCONCLUSIONS: Among high-risk women, implementing the WHO-2013 GDM diagnostic criteria was associated with a reduced risk of LGA among women without obesity, but not among women with obesity, partly reflecting the baseline lower risk of LGA among treated women with obesity than untreated women without obesity. Interpretation is limited by the absence of data on glycaemic control during pregnancy. Further research should evaluate how maternal characteristics modify treatment effectiveness to optimise management strategies for women with GDM.\nTRIAL REGISTRATION: ISRCTN Registry, ISRCTN41918550. https://www.isrctn.com/ISRCTN41918550 .",
+        "journal": "BMC medicine",
+        "authors": [
+          "Anders Magnuson",
+          "Anna-Karin Wikström",
+          "Carina Ursing",
+          "David Simmons",
+          "Elisabeth Storck-Lindholm",
+          "Erik Schwarcz",
+          "Fredrik Ahlsson",
+          "Helena Backman",
+          "Helena Strevens",
+          "Karin Hildén",
+          "Kerstin Berntorp",
+          "Martina Persson",
+          "Maryam de Brun",
+          "Scott Montgomery",
+          "Snehal Patil",
+          "Stefan Jansson",
+          "Ulla-Britt Wennerholm",
+          "Vasudha Ahuja",
+          "Verena Sengpiel"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "publishedAt": "2026-11-24T00:00:00.000Z",
+        "activityAt": "2026-11-27T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43099518/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 23.75,
+          "clinicalActionability": 15,
+          "recency": 10,
+          "total": 98.75,
+          "evidenceRank": 0.95
+        },
+        "summaryZh": {
+          "titleZh": "肥胖与非肥胖高危妊娠期糖尿病女性的治疗结局：CDC4G临床试验的二次分析",
+          "researchQuestion": "在高危妊娠期糖尿病女性中，诊断与治疗同不良妊娠结局之间的关联是否因母体肥胖状态而异？",
+          "studyDesign": "CDC4G临床试验的二次分析；CDC4G为前瞻性、非盲、阶梯楔形整群随机临床试验，评估WHO-2013妊娠期糖尿病诊断标准的实施。",
+          "populationAndSample": "CDC4G试验中经75-g口服葡萄糖耐量试验诊断、且瑞典妊娠期糖尿病标准与改良WHO-2013标准分类不一致的2069例高危女性；其中917例未诊断未治疗（55.9%肥胖），1152例诊断并治疗（46.3%肥胖）。肥胖定义BMI≥30 kg/m²，非肥胖BMI 18.5—29.9 kg/m²。",
+          "methods": "多水平Poisson和多项回归模型，调整基线特征；主要结局为大于胎龄儿，定义为出生体重>瑞典参考标准第90百分位。",
+          "keyResults": "在多变量模型中，治疗未降低肥胖女性的大于胎龄儿风险（相对危险度0.94，95% CI 0.81—1.08），但降低了非肥胖女性的风险（相对危险度0.69，95% CI 0.54—0.88），交互作用P<.01。结论指出，实施WHO-2013妊娠期糖尿病诊断标准与无肥胖女性大于胎龄儿风险降低相关，而与肥胖女性无此关联，部分反映治疗肥胖女性基线大于胎龄儿风险低于未治疗非肥胖女性。",
+          "limitations": "摘要指出缺乏妊娠期血糖控制数据；1小时血糖标准因WHO-2013标准实施前无相关测量而无法评估；该研究为CDC4G试验的二次分析。",
+          "clinicalInterpretation": "在高危妊娠期糖尿病女性中，WHO-2013诊断标准实施相关的大于胎龄儿风险降低可能在非肥胖女性中观察到，而在肥胖女性中未观察到；提示肥胖状态可能修饰诊断与治疗同大于胎龄儿风险的关联，需进一步研究优化管理策略。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "3ffa04795e1b527456dd434e63598b31fc786c2e30d7125c6c7150a623331e34"
+      },
+      {
+        "id": "pmid:43099419",
+        "pmid": "43099419",
+        "doi": "10.1186/s12884-026-09917-1",
+        "title": "Maternal gestational diabetes mellitus and mental disorders, neurodevelopmental disorders, and neurodevelopmental scale outcomes in offspring: a systematic review and meta-analysis.",
+        "abstract": "INTRODUCTION: The association between maternal gestational diabetes mellitus (GDM) and neuropsychiatric outcomes in offspring has not been fully systematically synthesized. We aimed to evaluate the association between maternal GDM and neuropsychiatric outcomes in offspring, including mental disorders, neurodevelopmental disorders, and abnormal neurodevelopmental scale scores.\nMATERIALS AND METHODS: Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines were used. Four electronic databases were searched. Observational studies examining the relationship between GDM and neuropsychiatric outcomes in offspring were included. The modified Newcastle-Ottawa scale (NOS) was used to assess the quality of the included studies. Subgroup analyses of study characteristics and confounders were conducted.\nRESULTS: Thirty-three studies involving approximately 18 million pregnant women or children were included. Offspring of mothers with GDM had 18% higher odds of adverse neuropsychiatric outcomes (odds ratio 1.18, 95% confidence interval 1.14 to 1.22), mental disorders by 8% (OR 1.08, 95% CI 1.03 to 1.14), neurodevelopmental disorders by 15% (OR 1.15, 95% CI 1.09 to 1.20), and abnormal neurodevelopmental scales by 26% (OR 1.26, 95% CI 1.16 to 1.38). The risk of abnormal ages and stages questionnaires (ASQ) increased by 27% (OR 1.27, 95% CI 1.16 to 1.39). Subgroup analysis showed that study location, study design, quality of study, maternal age, race, smoking, body mass index, educational level, parity, comorbidities, pregnancy complications, psychological disorder history, delivery mode, gestational weeks, birth weight and child's sex significantly contributed to heterogeneity between studies for several neuropsychiatric outcomes in offspring.\nCONCLUSIONS: Maternal GDM is associated with an increased risk of adverse neuropsychiatric outcomes in offspring. This association retained statistical significance after adjusting for confounders.",
+        "journal": "BMC pregnancy and childbirth",
+        "authors": [
+          "Dezhi Mu",
+          "Haoran Wang",
+          "Jun Tang",
+          "Junjie Ying",
+          "Keren Luo",
+          "Ruixi Zhou",
+          "Shiping Li",
+          "Tiechao Ruan",
+          "Xiaohong Li"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-09-07T00:00:00.000Z",
+        "activityAt": "2026-11-27T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43099419/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 11.25,
+          "recency": 10,
+          "total": 96.25,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "母体妊娠期糖尿病与子代精神障碍、神经发育障碍及神经发育量表结局：系统综述与荟萃分析",
+          "researchQuestion": "母体妊娠期糖尿病与子代神经精神结局（包括精神障碍、神经发育障碍及神经发育量表异常评分）之间是否存在关联？",
+          "studyDesign": "系统综述与荟萃分析，纳入观察性研究；遵循PRISMA指南。",
+          "populationAndSample": "33项研究，约1800万孕妇或儿童。",
+          "methods": "检索4个电子数据库；纳入评估妊娠期糖尿病与子代神经精神结局关系的观察性研究；采用改良Newcastle-Ottawa量表评估纳入研究质量；按研究特征和混杂因素进行亚组分析。",
+          "keyResults": "妊娠期糖尿病母亲子代发生不良神经精神结局的比值比为1.18（95% CI 1.14—1.22），精神障碍比值比为1.08（95% CI 1.03—1.14），神经发育障碍比值比为1.15（95% CI 1.09—1.20），神经发育量表异常比值比为1.26（95% CI 1.16—1.38）；年龄与发育进程问卷异常风险增加27%（OR 1.27，95% CI 1.16—1.39）。亚组分析显示，研究地点、研究设计、研究质量、母体年龄、种族、吸烟、体质指数、教育水平、产次、合并症、妊娠并发症、心理障碍史、分娩方式、孕周、出生体重和子代性别对若干子代神经精神结局的研究间异质性有显著贡献。",
+          "limitations": "纳入研究为观察性研究；多个研究特征和混杂因素显著贡献异质性；摘要未报告其他局限性。",
+          "clinicalInterpretation": "该荟萃分析提示母体妊娠期糖尿病与子代不良神经精神结局风险升高存在关联；证据为观察性，不能推断因果，也不能据此形成筛查或干预指南。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "e8363aeac75ec9c0551a9ab79fed952e9f5c0427836dc4873a0cf04d9fce087f"
+      },
+      {
+        "id": "pmid:43099432",
+        "pmid": "43099432",
+        "doi": "10.1186/s12884-026-09918-0",
+        "title": "Factors influencing delayed onset of lactation: a systematic review and meta-analysis.",
+        "abstract": "BACKGROUND: Delayed onset of lactogenesis (DOL), defined as the absence of breast fullness or milk coming in beyond 72 h postpartum, may impair breastfeeding success. Reliable estimates of its incidence and associated factors are needed to guide clinical support.\nMETHODS: Following PRISMA 2020, we systematically searched English and Chinese databases from inception to 30 April 2025 for prospective observational studies of factors associated with DOL among women initiating breastfeeding. Two reviewers independently screened studies and extracted data. DOL incidence was pooled using logit-transformed proportions and a Paule-Mandel random-effects model, with subgroup analysis by country. Odds ratios (ORs) for associated factors were synthesised using fixed- or random-effects models according to between-study heterogeneity.\nRESULTS: Across 48 prospective studies (n = 39,388), the pooled incidence of DOL was 30.3% (95% CI 26.9%-33.9%; I² = 96.8%). Incidence differed across country subgroups (P < 0.001). Among factors evaluated in at least three studies, higher odds of DOL were associated with maternal age ≥ 35 years (OR 2.31), primiparity (OR 2.04), cesarean section (OR 1.51), anxiety (OR 2.83), depression (OR 2.16), gestational hypertension (OR 3.05), and gestational diabetes mellitus (OR 1.73). Higher breastfeeding frequency (OR 0.85 per additional feed), previous breastfeeding experience (OR 0.27), and prenatal breastfeeding education (OR 0.63) were associated with lower odds.\nCONCLUSION: DOL occurred in approximately three in ten participants in the included studies. The evidence supports attention to maternal obstetric and metabolic conditions, psychological well-being, and modifiable breastfeeding support practices, while associations based on sparse evidence require confirmation.",
+        "journal": "BMC pregnancy and childbirth",
+        "authors": [
+          "Dan Dong",
+          "Mengmeng Zheng",
+          "Wan Xu",
+          "Wenxin Ge",
+          "Yuqing Deng"
+        ],
+        "publicationTypes": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "publishedAt": "2026-09-05T00:00:00.000Z",
+        "activityAt": "2026-11-27T00:00:00.000Z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43099432/",
+        "sourceKinds": [
+          "pubmed"
+        ],
+        "matchedTopicIds": [
+          "maternal-fetal-medicine"
+        ],
+        "assignedTopicId": "maternal-fetal-medicine",
+        "score": {
+          "topicMatch": 50,
+          "evidence": 25,
+          "clinicalActionability": 11.25,
+          "recency": 10,
+          "total": 96.25,
+          "evidenceRank": 1
+        },
+        "summaryZh": {
+          "titleZh": "影响泌乳启动延迟的因素：系统综述与荟萃分析",
+          "researchQuestion": "在开始母乳喂养的女性中，泌乳启动延迟的发生率及其相关因素有哪些？",
+          "studyDesign": "系统综述与荟萃分析，纳入前瞻性观察性研究；遵循PRISMA 2020。",
+          "populationAndSample": "48项前瞻性研究，n=39,388名开始母乳喂养的女性。",
+          "methods": "系统检索英文和中文数据库（建库至2025年4月30日）；两名评价者独立筛选研究并提取数据；泌乳启动延迟发生率采用logit转换比例和Paule-Mandel随机效应模型合并，并按国家进行亚组分析；相关因素比值比根据研究间异质性采用固定或随机效应模型合并。",
+          "keyResults": "泌乳启动延迟的合并发生率为30.3%（95% CI 26.9%—33.9%；I²=96.8%），不同国家亚组间发生率存在差异（P<0.001）。在至少3项研究中评估的因素中，与泌乳启动延迟风险升高相关的因素包括：母体年龄≥35岁（OR 2.31）、初产（OR 2.04）、剖宫产（OR 1.51）、焦虑（OR 2.83）、抑郁（OR 2.16）、妊娠期高血压（OR 3.05）和妊娠期糖尿病（OR 1.73）；摘要未报告各OR的95%CI。较高的母乳喂养频率（每增加一次喂养OR 0.85）、既往母乳喂养经验（OR 0.27）和产前母乳喂养教育（OR 0.63）与较低风险相关。",
+          "limitations": "汇总发生率异质性很高（I²=96.8%）；部分关联基于稀疏证据，需进一步确认；纳入研究为前瞻性观察性研究。",
+          "clinicalInterpretation": "纳入研究中约三成女性发生泌乳启动延迟；证据提示关注母亲产科与代谢状况、心理状态及可改变的母乳喂养支持措施，但相关关联尤其基于稀疏证据者需进一步确认。"
+        },
+        "summaryStatus": "success",
+        "summaryInputHash": "11765bac90b596bf55be9577d0a58e2ee76b06edbc89ebee8ef273f4dc8e0b10"
+      }
+    ]
+  }
+}
